@@ -32,10 +32,11 @@ IDENTICAL_OK_RE = re.compile(
 # en-US 同路径不存在但属正常的文件（引擎词条覆盖等）
 ALLOW_ORPHAN = {"_engine_lib.ftl"}
 
-# 有意保留原文的条目（外语彩蛋、占位示例等）
+# 有意保留原文的条目（外语彩蛋、占位示例、纯符号/emoji 等）
 ALLOW_IDENTICAL = {
     "trait-spanish-desc",           # 西班牙语彩蛋
     "hud-chatbox-highlights-placeholder",  # 高亮词示例
+    "player-tab-antag-prefix",      # 纯 emoji（🗡），必须与原文逐字节一致
 }
 
 # 术语违规扫描：(错误写法正则, 提示)
