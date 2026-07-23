@@ -1,0 +1,15 @@
+buzzochloricbees-effect-oh-god-bees = 一大群蜜蜂将你团团围住。
+buzzochloricbees-effect-its-the-bees = 是蜜蜂，天啊，全是蜜蜂。
+buzzochloricbees-effect-why-am-i-covered-in-bees = 你浑身爬满了愤怒的蜜蜂。
+buzzochloricbees-effect-one-with-the-bees = 你与蜜蜂融为一体。
+buzzochloricbees-effect-squeaky-clean = 蜜蜂想摆脱你，你感觉自己被清理得一尘不染。
+buzzochloricbees-effect-histamine-bee-allergy = 看来你对蜜蜂严重过敏。
+buzzochloricbees-effect-histamine-swells = 蜜蜂一出现，你就肿得像个气球。
+buzzochloricbees-effect-histamine-numb-to-the-bees = 蜜蜂让你失去了知觉。
+buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = 你无法与蜜蜂融为一体。
+buzzochloricbees-effect-licoxide-electrifying = 这些蜜蜂带电了。
+buzzochloricbees-effect-licoxide-shocked-by-bee-facts = 这五条蜜蜂小知识令你震惊。
+buzzochloricbees-effect-licoxide-buzzed = 你感到一阵嗡鸣。
+buzzochloricbees-effect-licoxide-buzzes = 你和蜜蜂一起嗡嗡作响。
+buzzochloricbees-effect-fiber-hairy = 你感觉毛茸茸的，像只蜜蜂。
+buzzochloricbees-effect-fiber-soft = 你摸到了一些异常柔软的蜜蜂。
