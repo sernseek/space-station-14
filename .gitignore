@@ -311,3 +311,7 @@ Resources/MapImages
 .direnv/
 .idea/
 /Resources/Textures/_Starlight/Logo/CClogo - Copy.png
+
+# zh-CN localization generated reports
+Tools/localization/missing.txt
+Tools/localization/stale.txt
