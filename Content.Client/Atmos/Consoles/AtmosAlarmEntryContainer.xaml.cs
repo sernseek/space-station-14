@@ -1,3 +1,4 @@
+using Content.Client.Resources; // zh-CN
 using Content.Client.Stylesheets;
 using Content.Shared.Atmos;
 using Content.Shared.Atmos.Components;
@@ -42,9 +43,9 @@ public sealed partial class AtmosAlarmEntryContainer : BoxContainer
         Coordinates = coordinates;
 
         // Load fonts
-        var headerFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Bold.ttf"), 11);
-        var normalFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf"), 11);
-        var smallFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Regular.ttf"), 10);
+        var headerFont = _cache.GetFont(new[] { "/Fonts/NotoSans/NotoSans-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, 11); // zh-CN
+        var normalFont = _cache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 11); // zh-CN
+        var smallFont = _cache.GetFont(new[] { "/Fonts/NotoSans/NotoSans-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 10); // zh-CN
 
         // Set fonts
         TemperatureHeaderLabel.FontOverride = headerFont;
@@ -68,7 +69,7 @@ public sealed partial class AtmosAlarmEntryContainer : BoxContainer
         Coordinates = _entManager.GetCoordinates(entry.Coordinates);
 
         // Load fonts
-        var normalFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf"), 11);
+        var normalFont = _cache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 11); // zh-CN
 
         // Update alarm state
         if (!_alarmStrings.TryGetValue(entry.AlarmState, out var alarmString))

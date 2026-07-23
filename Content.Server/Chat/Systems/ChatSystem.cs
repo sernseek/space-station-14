@@ -979,9 +979,12 @@ public sealed partial class ChatSystem : SharedChatSystem
             return message;
         // Adds a period if the last character is a letter.
         if (char.IsLetter(message[^1]))
-            message += ".";
+            message += IsCjk(message[^1]) ? "。" : "."; // zh-CN: CJK sentences end with a fullwidth stop
         return message;
     }
+
+    // zh-CN
+    private static bool IsCjk(char c) => c is >= '一' and <= '鿿' or >= '㐀' and <= '䶿';
 
     public static readonly ProtoId<ReplacementAccentPrototype> ChatSanitize_Accent = "chatsanitize";
 

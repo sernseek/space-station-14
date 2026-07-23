@@ -19,7 +19,7 @@ namespace Content.Client._NullLink.UI;
 internal sealed partial class Hub : PanelContainer, IDisposable
 {
     private const string IconFont = "/Fonts/_NullLink/GameIcons/game-icons.ttf";
-    private const string TextFont = "/Fonts/NotoSans/NotoSans-Regular.ttf";
+    private static readonly string[] TextFont = { "/Fonts/NotoSans/NotoSans-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }; // zh-CN
     private const int TextSize = 11;
 
     private const string RecognitionGlyph = "\uEC45"; // playtime recognition (clock)

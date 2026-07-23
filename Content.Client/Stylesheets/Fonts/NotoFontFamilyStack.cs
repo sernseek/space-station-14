@@ -36,6 +36,11 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
     private string _fontSymbols = "/Fonts/NotoSans/NotoSansSymbols-{2}.ttf";
 
     /// <summary>
+    ///     The CJK fallback font path. Substitution 0 is "Regular" or "Bold" (CJK has no italic).
+    /// </summary>
+    private string _fontCjk = "/Fonts/NotoSansSC/NotoSansCJKsc-{0}.otf"; // zh-CN
+
+    /// <summary>
     ///     The fallback font path, exactly. (no string substitutions.)
     /// </summary>
     private string[] _extras = new[] { "/Fonts/NotoSans/NotoSansSymbols2-Regular.ttf" };
@@ -71,6 +76,7 @@ public sealed class NotoFontFamilyStack(IResourceCache resCache, string variant 
             string.Format(_fontSymbols, kindStr, simpleKindStr, boldOrRegularStr),
         };
         fontList.AddRange(_extras);
+        fontList.Add(string.Format(_fontCjk, kind.IsBold() ? "Bold" : "Regular")); // zh-CN
         return fontList.ToArray();
     }
 

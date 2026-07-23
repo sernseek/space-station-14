@@ -1,3 +1,4 @@
+using Content.Client.Resources; // zh-CN
 using System.Numerics;
 using Content.Client.UserInterface.Controls;
 using Content.Shared.Shuttles.Components;
@@ -53,7 +54,7 @@ public partial class BaseShuttleControl : MapGridControl
     {
         RobustXamlLoader.Load(this);
         Maps = EntManager.System<SharedMapSystem>();
-        Font = new VectorFont(IoCManager.Resolve<IResourceCache>().GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Regular.ttf"), 12);
+        Font = IoCManager.Resolve<IResourceCache>().GetFont(new[] { "/Fonts/NotoSans/NotoSans-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 12); // zh-CN
 
         _drawJob = new GridDrawJob()
         {

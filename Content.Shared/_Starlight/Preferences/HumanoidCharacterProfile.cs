@@ -6,7 +6,7 @@ namespace Content.Shared.Preferences;
 
 public sealed partial class HumanoidCharacterProfile
 {
-    private static readonly Regex RestrictedCustomSpecieNameRegex = new(@"[^A-Za-z0-9 '\-,]|\B\s+|\s+\B"); //Starlight
+    private static readonly Regex RestrictedCustomSpecieNameRegex = new(@"[^A-Za-z0-9 '\-,一-鿿㐀-䶿·]|\B\s+|\s+\B"); //Starlight; zh-CN: allow CJK
 
     [DataField] public string SiliconVoice { get; set; } = "";
 

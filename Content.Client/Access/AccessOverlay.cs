@@ -9,7 +9,7 @@ namespace Content.Client.Access;
 
 public sealed class AccessOverlay : Overlay
 {
-    private const string TextFontPath = "/Fonts/NotoSans/NotoSans-Regular.ttf";
+    private static readonly string[] TextFontPath = { "/Fonts/NotoSans/NotoSans-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }; // zh-CN
     private const int TextFontSize = 12;
 
     private readonly IEntityManager _entityManager;

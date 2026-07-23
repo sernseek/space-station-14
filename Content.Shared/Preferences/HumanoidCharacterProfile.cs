@@ -31,7 +31,7 @@ namespace Content.Shared.Preferences
     [Serializable, NetSerializable]
     public sealed partial class HumanoidCharacterProfile : ICharacterProfile
     {
-        private static readonly Regex RestrictedNameRegex = new(@"[^A-Za-z0-9 '\-,]"); //Starlight edit, allow commas
+        private static readonly Regex RestrictedNameRegex = new(@"[^A-Za-z0-9 '\-,一-鿿㐀-䶿·]"); //Starlight edit, allow commas; zh-CN: allow CJK ideographs (+ext A) and the interpunct used in transliterated names
         private static readonly Regex ICNameCaseRegex = new(@"^(?<word>\w)|\b(?<word>\w)(?=\w*$)");
 
         /// <summary>

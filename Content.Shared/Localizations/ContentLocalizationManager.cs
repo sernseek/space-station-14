@@ -10,7 +10,8 @@ namespace Content.Shared.Localizations
         [Dependency] private ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "zh-CN"; // zh-CN
+        private const string FallbackCulture = "en-US"; // zh-CN: untranslated strings fall back to English instead of showing raw IDs
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -26,27 +27,37 @@ namespace Content.Shared.Localizations
         public void Initialize()
         {
             var culture = new CultureInfo(Culture);
+            var cultureEn = new CultureInfo(FallbackCulture); // zh-CN
 
+            // zh-CN start: primary culture must load first so it becomes DefaultCulture;
+            // the fallback culture must also be loaded before SetFallbackCluture/AddFunction can touch it.
             _loc.LoadCulture(culture);
-            _loc.AddFunction(culture, "PRESSURE", FormatPressure);
-            _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
-            _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
-            // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
-            _loc.AddFunction(culture, "ENERGYWATTHOURS", FormatEnergyWattHours);
-            _loc.AddFunction(culture, "UNITS", FormatUnits);
-            _loc.AddFunction(culture, "TOSTRING", args => FormatToString(culture, args));
-            _loc.AddFunction(culture, "LOC", FormatLoc);
-            _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
-            _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
-            _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            _loc.LoadCulture(cultureEn);
+            _loc.SetFallbackCluture(cultureEn);
 
+            // Format functions are registered on both cultures: fallback en-US messages
+            // still contain { PRESSURE(...) } etc. and resolve within their own bundle.
+            foreach (var c in new[] { culture, cultureEn })
+            {
+                _loc.AddFunction(c, "PRESSURE", FormatPressure);
+                _loc.AddFunction(c, "POWERWATTS", FormatPowerWatts);
+                _loc.AddFunction(c, "POWERJOULES", FormatPowerJoules);
+                // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
+                _loc.AddFunction(c, "ENERGYWATTHOURS", FormatEnergyWattHours);
+                _loc.AddFunction(c, "UNITS", FormatUnits);
+                _loc.AddFunction(c, "TOSTRING", args => FormatToString(culture, args));
+                _loc.AddFunction(c, "LOC", FormatLoc);
+                _loc.AddFunction(c, "NATURALFIXED", FormatNaturalFixed);
+                _loc.AddFunction(c, "NATURALPERCENT", FormatNaturalPercent);
+                _loc.AddFunction(c, "PLAYTIME", FormatPlaytime);
+            }
+            // zh-CN end
 
             /*
              * The following language functions are specific to the english localization. When working on your own
              * localization you should NOT modify these, instead add new functions specific to your language/culture.
              * This ensures the english translations continue to work as expected when fallbacks are needed.
              */
-            var cultureEn = new CultureInfo("en-US");
 
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);

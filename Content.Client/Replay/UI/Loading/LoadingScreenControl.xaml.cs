@@ -19,8 +19,8 @@ public sealed partial class LoadingScreenControl : Control
         RobustXamlLoader.Load(this);
 
         LayoutContainer.SetAnchorPreset(this, LayoutContainer.LayoutPreset.Wide);
-        Header.FontOverride = resCache.GetFont("/Fonts/NotoSansDisplay/NotoSansDisplay-Bold.ttf", 24);
-        Subtext.FontOverride = resCache.GetFont("/Fonts/NotoSansDisplay/NotoSansDisplay-Bold.ttf", 12);
+        Header.FontOverride = resCache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, 24); // zh-CN
+        Subtext.FontOverride = resCache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, 12); // zh-CN
 
         SpriteLeft.SetFromSpriteSpecifier(Sprite);
         SpriteRight.SetFromSpriteSpecifier(Sprite);

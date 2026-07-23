@@ -1,3 +1,4 @@
+using Content.Client.Resources; // zh-CN
 using Content.Client.Stylesheets;
 using Content.Shared.Atmos;
 using Content.Shared.Atmos.Components;
@@ -32,8 +33,8 @@ public sealed partial class AtmosMonitoringEntryContainer : BoxContainer
         NetworkColorStripe.Modulate = data.Color;
 
         // Load fonts
-        var headerFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Bold.ttf"), 11);
-        var normalFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf"), 11);
+        var headerFont = _cache.GetFont(new[] { "/Fonts/NotoSans/NotoSans-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, 11); // zh-CN
+        var normalFont = _cache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 11); // zh-CN
 
         // Set fonts
         TemperatureHeaderLabel.FontOverride = headerFont;
@@ -51,7 +52,7 @@ public sealed partial class AtmosMonitoringEntryContainer : BoxContainer
     public void UpdateEntry(AtmosMonitoringConsoleEntry updatedData, bool isFocus)
     {
         // Load fonts
-        var normalFont = new VectorFont(_cache.GetResource<FontResource>("/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf"), 11);
+        var normalFont = _cache.GetFont(new[] { "/Fonts/NotoSansDisplay/NotoSansDisplay-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 11); // zh-CN
 
         // Update name and values
         if (!string.IsNullOrEmpty(updatedData.Address))
