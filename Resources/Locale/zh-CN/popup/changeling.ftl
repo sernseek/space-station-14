@@ -1,0 +1,3 @@
+popup-changeling-biomass-deficit-low = 你的皮肤发痒。
+popup-changeling-biomass-deficit-medium = 必须找到食物来源……
+popup-changeling-biomass-deficit-high = 必须进食……就是现在！！

@@ -1,0 +1,1 @@
+action-name-crit-last-words = 说遗言

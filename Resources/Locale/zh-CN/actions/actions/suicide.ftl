@@ -1,0 +1,1 @@
+suicide-action-popup = 此操作会杀死你！再次使用以确认。
