@@ -1,0 +1,9 @@
+gases-oxygen = 氧气
+gases-nitrogen = 氮气
+gases-co2 = 二氧化碳
+gases-plasma = 等离子体
+gases-tritium = 氚气
+gases-water-vapor = 水蒸气
+gases-ammonia = 氨气
+gases-n2o = 一氧化二氮
+gases-frezon = 弗里昂

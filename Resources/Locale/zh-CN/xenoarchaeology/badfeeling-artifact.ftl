@@ -1,0 +1,22 @@
+badfeeling-artifact-1 = 有什么地方不太对劲。
+badfeeling-artifact-2 = 你心里涌起一股奇怪的感觉。
+badfeeling-artifact-3 = 你的本能正试图警告你。
+badfeeling-artifact-4 = 你突然感到一阵不祥。
+badfeeling-artifact-5 = 空气中弥漫着奇怪的感觉。
+badfeeling-artifact-6 = 空气中有一股怪味。
+badfeeling-artifact-7 = 你的指尖一阵发麻。
+badfeeling-artifact-8 = 你感觉自己像个巫师。
+badfeeling-artifact-9 = 你有一种极其可怕的预感。
+badfeeling-artifact-10 = 你对此有种不好的预感。
+badfeeling-artifact-11 = 你的头皮阵阵发麻。
+badfeeling-artifact-12 = 灯光似乎在闪烁。
+badfeeling-artifact-13 = 阴影似乎拉长了。
+badfeeling-artifact-14 = 墙壁正在向你逼近。
+badfeeling-artifact-15 = 出问题了。
+
+badfeeling-artifact-drastic-1 = 有人想杀了你！
+badfeeling-artifact-drastic-2 = 外面有东西！
+badfeeling-artifact-drastic-3 = 你身上发生了什么？
+badfeeling-artifact-drastic-4 = 天啊！
+badfeeling-artifact-drastic-5 = 救救我！
+badfeeling-artifact-drastic-6 = 你必须离开这里！

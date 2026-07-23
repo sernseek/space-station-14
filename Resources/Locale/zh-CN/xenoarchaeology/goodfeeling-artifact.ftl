@@ -1,0 +1,21 @@
+goodfeeling-artifact-1 = 你感觉很好。
+goodfeeling-artifact-2 = 一切似乎都很顺利。
+goodfeeling-artifact-3 = 你对此有种不错的预感。
+goodfeeling-artifact-4 = 你的本能告诉你，一切都会越来越好。
+goodfeeling-artifact-5 = 空气中弥漫着美好的感觉。
+goodfeeling-artifact-6 = 有什么东西闻起来……很香。
+goodfeeling-artifact-7 = 你的指尖一阵发麻。
+goodfeeling-artifact-8 = 你对此有种不错的预感。
+goodfeeling-artifact-9 = 你感到很开心。
+goodfeeling-artifact-10 = 你竭力忍住微笑的冲动。
+goodfeeling-artifact-11 = 你的头皮阵阵发麻。
+goodfeeling-artifact-12 = 所有颜色似乎都更加鲜艳了。
+goodfeeling-artifact-13 = 一切似乎都轻快了一些。
+goodfeeling-artifact-14 = 世间的烦恼似乎都烟消云散了。
+
+goodfeeling-artifact-drastic-1 = 你想拥抱遇见的每一个人！
+goodfeeling-artifact-drastic-2 = 一切都太顺利了！
+goodfeeling-artifact-drastic-3 = 你感到欣喜若狂。
+goodfeeling-artifact-drastic-4 = 你兴奋得飘飘然。
+goodfeeling-artifact-drastic-5 = 你突然开心得几乎想要载歌载舞。
+goodfeeling-artifact-drastic-6 = 你觉得全世界都在帮助你。

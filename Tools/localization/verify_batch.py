@@ -113,6 +113,18 @@ def main() -> int:
                 print(f"[术语] {rel}: {hint}")
                 problems += 1
 
+    # 目录级：en-US 有但 zh-CN 完全没建的文件（逐文件比对发现不了整文件漏建）
+    if args.dirs:
+        for d in args.dirs:
+            en_dir = EN / d
+            if not en_dir.is_dir():
+                continue
+            for en_file in sorted(en_dir.rglob("*.ftl")):
+                rel = en_file.relative_to(EN)
+                if not (ZH / rel).exists():
+                    print(f"[未建] {rel}: en-US 有此文件但 zh-CN 未创建")
+                    problems += 1
+
     print(f"\n检查完成，共 {problems} 个问题" if problems else "\n检查完成，未发现问题")
     return 1 if problems else 0
 
