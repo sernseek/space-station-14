@@ -171,6 +171,7 @@ namespace Content.Client.Entry
             base.PostInit();
 
             _stylesheetManager.Initialize();
+            Localization.CjkFontFallback.Initialize(); // zh-CN
 
             // Setup key contexts
             ContentContexts.SetupContexts(_inputManager.Contexts);
