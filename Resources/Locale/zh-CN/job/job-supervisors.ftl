@@ -1,0 +1,16 @@
+job-supervisors-centcom = 中央指挥部
+job-supervisors-captain = 舰长
+job-supervisors-hop = 人事主管
+job-supervisors-hos = 安保主管
+job-supervisors-ce = 工程主管
+job-supervisors-cmo = 医疗主管
+job-supervisors-rd = 研究主管
+job-supervisors-qm = 军需官
+job-supervisors-service = 厨师、植物学家、酒保和人事主管
+job-supervisors-engineering = 空间站工程师、大气技师和工程主管
+job-supervisors-medicine = 医师、急救员、药剂师和医疗主管
+job-supervisors-security = 安保干员、典狱长和安保主管
+job-supervisors-science = 科学家和研究主管
+job-supervisors-hire = 雇用你的人
+job-supervisors-everyone = 所有人
+job-supervisors-nobody = 无人

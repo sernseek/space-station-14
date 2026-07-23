@@ -1,0 +1,11 @@
+traitor-death-match-redemption-component-interact-using-main-message = 机器嗡嗡作响，显示：{$secondMessage}
+traitor-death-match-redemption-component-interact-using-no-mind-message = “身份验证失败（0045）”
+traitor-death-match-redemption-component-interact-using-no-user-mind-message = “身份验证失败（0052）”
+traitor-death-match-redemption-component-interact-using-no-pda-message = “提供的 PDA 不是 PDA（0058）”
+traitor-death-match-redemption-component-interact-using-no-pda-owner-message =“提供的 PDA 没有所有者（0064）”
+traitor-death-match-redemption-component-interact-using-pda-different-user-message = “提供的 PDA 属于其他用户（0070）”
+traitor-death-match-redemption-component-interact-using-no-pda-in-pocket-message = “用户的 ID 卡槽中没有 PDA（0083）”
+traitor-death-match-redemption-component-interact-using-tampering-detected = “检测到篡改（0101）”
+traitor-death-match-redemption-component-interact-using-user-no-uplink-account-message = “用户 PDA 没有升链账户（0102）”
+traitor-death-match-redemption-component-interact-using-victim-no-uplink-account-message = “用户 PDA 没有升链账户（0108）”
+traitor-death-match-redemption-component-interact-using-success-message = 机器播放了一段欢快的小曲，并显示：“成功：已转移 {$tcAmount} TC”

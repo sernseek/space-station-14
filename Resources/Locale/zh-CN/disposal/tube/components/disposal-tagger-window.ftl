@@ -1,0 +1,3 @@
+disposal-tagger-window-title = 废物管道标签器
+disposal-tagger-window-tag-input-label = 标签：
+disposal-tagger-window-tag-confirm-button = 确认

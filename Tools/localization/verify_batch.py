@@ -116,10 +116,14 @@ def main() -> int:
     # 目录级：en-US 有但 zh-CN 完全没建的文件（逐文件比对发现不了整文件漏建）
     if args.dirs:
         for d in args.dirs:
-            en_dir = EN / d
-            if not en_dir.is_dir():
-                continue
-            for en_file in sorted(en_dir.rglob("*.ftl")):
+            if d == "(root)":
+                en_files = sorted(EN.glob("*.ftl"))  # 顶层文件
+            else:
+                en_dir = EN / d
+                if not en_dir.is_dir():
+                    continue
+                en_files = sorted(en_dir.rglob("*.ftl"))
+            for en_file in en_files:
                 rel = en_file.relative_to(EN)
                 if not (ZH / rel).exists():
                     print(f"[未建] {rel}: en-US 有此文件但 zh-CN 未创建")

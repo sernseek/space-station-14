@@ -1,0 +1,11 @@
+shuttle-timer-eta = 预计抵达
+shuttle-timer-etd = 预计离港
+shuttle-timer-shuttle-time = 穿梭机时间
+shuttle-timer-source-time = 出发时间
+shuttle-timer-dest-time = 抵达时间
+shuttle-timer-shuttle-map = 穿梭机地图
+shuttle-timer-source-map = 出发地图
+shuttle-timer-dest-map = 目的地图
+shuttle-timer-docked = 已对接
+shuttle-timer-bye = 再见！
+shuttle-timer-kill = 终止

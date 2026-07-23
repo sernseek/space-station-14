@@ -1,0 +1,6 @@
+ninja-gloves-on = 手套中涌动起能量！
+ninja-gloves-off = 手套停止了供能……
+ninja-gloves-not-wearing-suit = 你没有穿忍者服
+ninja-gloves-examine-on = 所有能力均已启用。
+ninja-gloves-examine-off = 无聊的旧手套……
+ninja-doorjack-success = 手套电击了 {THE($target)} 内的某个部件。

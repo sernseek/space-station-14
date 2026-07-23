@@ -1,0 +1,10 @@
+department-Cargo-description = 完成悬赏、赚取 spesos，并为船员订购实用物资。
+department-Civilian-description = 完成各种有益的小任务，让空间站保持正常运转并满足船员需求。
+department-Command-description = 管理船员，使他们高效工作。
+department-CentralCommand-description = 管理船员，使他们高效工作。
+department-Engineering-description = 维持供电并保障空间站正常运转。
+department-Medical-description = 保障船员健康。
+department-Security-description = 维护空间站秩序。
+department-Science-description = 研究神器与异常，发明空间站所需的新设备。
+department-Silicon-description = 遵守法则并服务船员。
+department-Specific-description = 并非所有空间站都有的职位。

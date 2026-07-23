@@ -1,0 +1,15 @@
+war-declarator-not-working = 设备发出哔哔声，但什么也没发生……
+war-declarator-ui-header = 宣战
+war-declarator-ui-war-button = 宣战！
+war-declarator-ui-try-war-button = 尝试宣战
+war-declarator-conditions-small-crew = 核弹特工人数不足，无法宣战！
+war-declarator-conditions-left-outpost = 穿梭机已离开辛迪加前哨站
+war-declarator-conditions-time-out = 宣战时限已过
+war-declarator-conditions-ready = 穿梭机可以离开前哨站！
+war-declarator-conditions-unknown = 未知
+war-declarator-boost-possible = 可以宣战
+war-declarator-boost-impossible = 无法宣战
+war-declarator-boost-declared = 已经宣战！穿梭机可能会被禁用……
+war-declarator-boost-timer = 剩余时间：{$time} 分钟。
+war-declarator-default-message = 一个辛迪加边缘组织宣布，他们打算用核装置彻底摧毁空间站，并挑衅船员前来阻止。
+war-declarator-message-placeholder = 在此填写自定义宣战声明……
