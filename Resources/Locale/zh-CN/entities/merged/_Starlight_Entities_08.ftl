@@ -53,6 +53,7 @@ ent-CentcommCyborgLaser = 赛博格 脉冲卡宾枪
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-WeaponLaserCannonXenoborgCold = 武器
+    .desc = 一件重型高功率激光武器。
 
 ent-WeaponEnergyMagnumGunGreenshield = MT-7G 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -79,6 +80,7 @@ ent-FiringPin = 击针
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-FiringPinPistol = 手枪 击针
+    .desc = 现在大概有人真的很需要这个……
 
 ent-FiringPinMakeshift = 简易击针
     .desc = 仔细检查可以了解它的用途与特性。
@@ -100,6 +102,7 @@ ent-WeaponPistolMakarov = 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolN1984Nonlethal = 武器“N1984”
+    .desc = 一门威力非凡的“手炮”，是纳米传讯巨炮计划的产物。采用上帝钟爱的 .45 口径，通常被认为过于笨重，不适合常规使用，却逐渐成了纳米传讯官员的身份象征。使用 .45 口径手枪弹匣供弹。 # SL
 
 ent-WeaponPistolMk58HighCapacity = 58 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -108,6 +111,7 @@ ent-WeaponPistolGoldenMk58 = 58 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolGoldenMk58HighCapacity = 58 武器
+    .desc = Mk58 昂贵而稀有的黄金版本，只配发给精英。不过功能上其实毫无区别。使用 .35 口径手枪弹匣供弹。
 
 ent-WeaponPistolEnforcer = 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -116,8 +120,10 @@ ent-WeaponPistolDP = 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolBlueguard = 武器
+    .desc = 一把威力十足、专为保卫禁闭室而生的手枪——正合纳米传讯的心意。
 
 ent-WeaponPistolSP8AR = 武器
+    .desc = 一把威力十足、专为保卫禁闭室而生的手枪——正合纳米传讯的心意。
 
 ent-WeaponPistolStechkin = 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -211,12 +217,15 @@ ent-BaseBulletStarlight = 弹药
     .desc = 用于对应武器的弹药或能量投射物。
 
 ent-BulletAdvTaser = 泰瑟电击弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-RadOrb = 辐射 球体
+    .desc = 如果你能看清它，你多半已经死了！
 
 ent-BulletGrenadeCleanadeSyndicate = 弹药
 
 ent-CosmicLambdaParticle = 弹药
+    .desc = 如果你看得见这个，那你多半已经死了！
 
 
 ent-WeaponRevolverMakeshift = 简易左轮手枪
@@ -236,6 +245,7 @@ ent-WeaponRevolverZOZ = TOZ-82 武器
 
 
 ent-WeaponRifleLecterRubber = 武器
+    .desc = "纳米传讯与索尔政府广泛采用的热门导气式战斗步枪。可半自动或全自动射击，凭借精准度、制止力与可靠性，足以胜任各种环境。\n使用 .20 口径步枪弹匣供弹。" # SL
 
 ent-WeaponLr30 = 30 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -275,6 +285,7 @@ ent-WeaponRifleLawbringer = 武器
 
 
 ent-WeaponSubMachineGunDrozdRubber = 武器
+    .desc = 纳米传讯轻武器部门制造的现代冲锋枪。点射模式射速惊人，适合封锁防守角度或在较远距离迎击敌人。使用 .35 口径冲锋枪弹匣供弹。 # SL
 
 ent-WeaponSubMachineGunSP91RC = 武器“SP-91-RC”
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -353,6 +364,7 @@ ent-WeaponTurretMilitaryPointDefense = 武器
 
 
 ent-WeaponTurretPirateDisposable = 武器
+    .desc = 一座使用实弹机枪的自动炮塔。
 
 
 ent-RadcasterCyber = 物品
@@ -501,8 +513,10 @@ ent-BorgHoloprojectorSecurity = 物品
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-DoubleStunbaton = 物品
+    .desc = 用于使人失去行动能力的电击棍。主动拿它伤人会被视为缺乏风度。
 
 ent-PurpleStunbaton = 物品
+    .desc = 用来击晕人的电击棍。拿它主动伤人可不太体面。
 
 
 ent-StatusEffectCyberneticDisruption = 状态效果
@@ -630,15 +644,20 @@ ent-ShadekinDoor = 结构
 
 
 ent-TurnstileCentComm = 中央指挥部 闸机
+    .desc = 一扇只允许单向通行并防止尾随的机械门。
 
 ent-TurnstileCentCommCommand = 中央指挥部 闸机
+    .desc = 一扇只允许单向通行并防止尾随的机械门。
 
 ent-TurnstileCentCommCentralCommand = 中央指挥部 闸机
+    .desc = 一扇只允许单向通行并防止尾随的机械门。
 
 ent-TurnstileCentCommDebrief = 中央指挥部 闸机
+    .desc = 一扇只允许单向通行并防止尾随的机械门。
 
 
 ent-AbductorOperatingTable = 家具
+    .desc = 手术专用医疗台。不过这台看起来只是个没用的道具。
 
 
 ent-FurnitureAquarium = 水族箱
@@ -646,14 +665,19 @@ ent-FurnitureAquarium = 水族箱
 
 
 ent-PewBase = 家具
+    .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-PewEndLeft = 家具
+    .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-PewEndRight = 家具
+    .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-PewMiddle = 家具
+    .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-BenchWhiteComfy = 舒适 长椅
+    .desc = 一张靠背极其舒适的长椅。
 
 ent-BenchComfyCorner = 舒适 长椅
     .desc = 一件可供空间站使用的家具。
@@ -675,6 +699,7 @@ ent-ChairThrone = 家具
     .desc = 一件可供空间站使用的家具。
 
 ent-ChairOfficeSleek = 家具
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ComfyChair = 家具
     .desc = 一件可供空间站使用的家具。
@@ -864,6 +889,7 @@ ent-ComputerShuttleSecurity = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-SolgovComputerComms = 功能设备
+    .desc = 一台用于键盘输入全站广播、设置适当警戒等级以及呼叫紧急撤离穿梭机的计算机。
 
 ent-ComputerCommsEngineering = 工程 通讯控制台
     .desc = 一台用于执行其标示功能的设备。
@@ -918,6 +944,7 @@ ent-ComputerStationRecordsDesktop = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-ComputerMassMediaDesktop = 功能设备
+    .desc = 向全世界写下你的消息！
 
 ent-ComputerPowerMonitoringDesktop = 功能设备
     .desc = 一台用于执行其标示功能的设备。
@@ -984,6 +1011,7 @@ ent-XenobiologyConsoleEye = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-SurveillanceCameraXenobiology = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 
 ent-MachineDarkBreacher = 功能设备

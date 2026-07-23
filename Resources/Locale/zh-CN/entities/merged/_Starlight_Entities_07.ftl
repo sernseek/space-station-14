@@ -204,6 +204,7 @@ ent-HoloRestrainerCyber = 全息拘束器
     .desc = 生成坚固但会消散的全息手铐。
 
 ent-HandcuffsHolographic = 全息手铐
+    .desc = 用来拘押罪犯和其他混蛋。
 
 ent-VialCyber = 赛博小瓶
     .desc = 集成在你手臂里的液体储存装置！
@@ -271,10 +272,13 @@ ent-JetpackImprovised = 土制喷气背包
     .desc = 这是喷气背包，可容纳1.5升气体。
 
 ent-JetpackImprovisedFilled = 土制喷气背包
+    .desc = 这是一个喷气背包，可容纳 1.5 升气体。
 
 ent-JetpackVoidEngineer = 工程主管虚空喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackVoidEngineerFilled = 工程主管虚空喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackCyborgCentcomm = 中央指挥部赛博格喷气背包
     .desc = 赛博格专用喷气背包，可在移动中收集气体物质的量。
@@ -314,8 +318,10 @@ ent-WirecutterAbductor = 绑架者钢丝钳
 ent-ScrewdriverAbductor = 绑架者螺丝刀
 
 ent-WrenchAbductor = 绑架者扳手
+    .desc = 一种常见的装拆工具。记住：左拧锁紧，右拧拆除。
 
 ent-MultitoolAbductor = 绑架者多用工具
+    .desc = 一种先进工具，可通过电线和机器复制、存储并发送电脉冲与信号。
 
 ent-CrowbarWrenchMakeshift = 粗制撬棍扳手
     .desc = 还是很糟糕。
@@ -391,6 +397,7 @@ ent-ToolboxInvisible = 隐形工具箱
     .desc = 装载隐形装备的完美隐形容器！
 
 ent-ToolboxInvisibleFilled = 隐形工具箱
+    .desc = 用来装隐形装备的完美隐形容器！
 
 
 ent-Cartridge50mmRocket = 50毫米火箭弹
@@ -400,6 +407,7 @@ ent-Magazine50mmRocket = 50毫米火箭弹弹匣
     .desc = 为ADMP-27“维斯佩拉”穿梭机火炮系统配备的26发大容量弹匣，装填60毫米火箭弹。
 
 ent-Magazine50mmRocketEmpty = 50毫米火箭弹弹匣（空）
+    .desc = 供 Vanyk-MK2 穿梭机火炮系统使用的高容量 30 发弹匣，装填 60 毫米火箭弹。
 
 
 ent-Bullet60mmRocketEMP = EMP火箭弹
@@ -421,12 +429,16 @@ ent-BaseMagazineBoxImprovised = 土制混装弹药盒
     .desc = 看起来很像一只.20弹匣盒，顶部还粗糙地画着一颗子弹。不建议混装弹药。
 
 ent-MagazineBoxImprovisedPistol = 土制弹药盒（.35自动土制）
+    .desc = 这东西怎么看都像一个 .20 弹药盒，只是顶上潦草地画了颗子弹。不建议混装弹药。
 
 ent-MagazineBoxImprovisedRifle = 土制弹药盒（.30步枪土制）
+    .desc = 这东西怎么看都像一个 .20 弹药盒，只是顶上潦草地画了颗子弹。不建议混装弹药。
 
 ent-MagazineBoxImprovisedMagnum = 土制弹药盒（.45马格南土制）
+    .desc = 这东西怎么看都像一个 .20 弹药盒，只是顶上潦草地画了颗子弹。不建议混装弹药。
 
 ent-MagazineBoxImprovisedShotgun = 12号土制鹿弹盒
+    .desc = 这东西怎么看都像一个 .20 弹药盒，只是顶上潦草地画了颗子弹。不建议混装弹药。
 
 
 ent-MagazineBoxLightRifleRubber = 弹药盒（.30步枪橡胶）
@@ -694,8 +706,10 @@ ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550弹匣（.35自动顶部�
     .desc = WT550冲锋枪使用的非常规30发顶部供弹弹匣。
 
 ent-MagazinePistolEmpty = 手枪弹匣（.35自动任意）
+    .desc = 手枪用 10 发单排弹匣，设计用于装填通用动能弹药。
 
 ent-MagazinePistolEmptyGolden = 黄金手枪弹匣（.35自动任意）
+    .desc = 手枪用 10 发单排弹匣，弹匣外壳为金色。
 
 ent-MagazinePistolSP = 手枪弹匣（.35自动SP）
     .desc = 手枪用10发单排弹匣，用于装填通用动能弹药。
@@ -710,6 +724,7 @@ ent-MagazinePistolFMJ = 手枪弹匣（.35自动FMJ）
 ent-MagazinePistolAP = 手枪弹匣（.35自动AP）
 
 ent-MagazinePistolIncendiary = 手枪弹匣（.35自动燃烧）
+    .desc = 手枪用 10 发单排弹匣，设计用于装填通用动能弹药。
 
 ent-MagazinePistolPractice = 手枪弹匣（.35自动训练）
     .desc = 手枪用10发单排弹匣，用于装填无害的粉笔训练弹。
@@ -826,23 +841,30 @@ ent-BaseMagazineShotgunToz = 弹匣（20号霰弹）
     .desc = 彼得，我该拿这东西怎么办？弹匣根本没法从枪里取出来！
 
 ent-MagazineShotgunTozEmpty = 20号弹匣
+    .desc = 彼得，我该拿这玩意儿怎么办？弹匣卡在枪里取不出来了！
 
 ent-MagazineShotgunToz = 20号霰弹弹匣
+    .desc = 彼得，我该拿这玩意儿怎么办？弹匣卡在枪里取不出来了！
 
 ent-MagazineShotgunTozExtendedEmpty = 20号扩容弹匣
+    .desc = 彼得，我该拿这玩意儿怎么办？弹匣卡在枪里取不出来了！
 
 ent-MagazineShotgunTozExtended = 20号霰弹扩容弹匣
+    .desc = 彼得，我该拿这玩意儿怎么办？弹匣卡在枪里取不出来了！
 
 ent-MagazineShotgunBreach = 12号破门弹鼓
 
 
 ent-BulletLightRifleRubber = 弹头（.20步枪橡胶）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletPistolRubber = 弹头（.35自动橡胶）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletRifleRubber = 弹头（0.20步枪橡胶）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-SpeedLoaderMagnumRubber = 快速装弹器（.45马格南橡胶）
@@ -886,6 +908,7 @@ ent-Magazine120mmGrenadeBlast = 120毫米爆破榴弹弹匣
     .desc = 为“谢尔克萨”火炮系统配备的20发大型弹匣，装填强力爆破榴弹。
 
 ent-Magazine120mmGrenadeBlastEmpty = 120毫米爆破榴弹弹匣（空）
+    .desc = 供 CYERXA 火炮系统使用的大型 20 发弹匣，装填威力强劲的爆破榴弹。
 
 ent-Cartridge60mmRocket = 60毫米火箭弹
     .desc = 为“瓦尼克-Mk-II”穿梭机火炮系统设计的60毫米火箭弹。比标准RPG弹药更小更轻，但威力依然不俗。
@@ -894,6 +917,7 @@ ent-Magazine60mmRocket = 60毫米火箭弹弹匣
     .desc = 为“瓦尼克-Mk-II”穿梭机火炮系统配备的30发大容量弹匣，装填60毫米火箭弹。
 
 ent-Magazine60mmRocketEmpty = 60毫米火箭弹弹匣（空）
+    .desc = 供 Vanyk-MK2 穿梭机火炮系统使用的高容量 30 发弹匣，装填 60 毫米火箭弹。
 
 
 ent-BaseCharon280mmCartridge = “卡律布狄斯”280毫米基础弹药

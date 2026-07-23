@@ -23,6 +23,7 @@ ent-CrateEngineeringParticleAccelerator = 粒子加速器电路板板条箱
     .desc = 安装起来复杂得要命，但回报也爽得要命。内含粒子加速器所有组件的电路板。
 
 ent-CrateEngineeringGenerator = 发电机板条箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateEngineeringSolar = 太阳能组件板条箱
     .desc = 内含太阳能平板包装和玻璃，可建造十块太阳能板。

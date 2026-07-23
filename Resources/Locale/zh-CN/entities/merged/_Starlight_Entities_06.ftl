@@ -68,16 +68,22 @@ ent-BibleTanakh = 塔纳赫
     .desc = 献给上帝选中的船员。
 
 ent-PillHydrogen5 = 药丸
+    .desc = 这可不是栓剂。
 
 ent-PillHydrogen10 = 药丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterHydrogen = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillNitrogen5 = 药丸
+    .desc = 这可不是栓剂。
 
 ent-PillNitrogen10 = 药丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterNitrogen = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-ClassifiedCorporateDocumentAbductors = 公司机密文件
     .desc = 一套包含公司秘密的高度机密文件。
@@ -354,6 +360,7 @@ ent-BodyBagLockableFolded = 可上锁裹尸袋
     .desc = 更为坚固、装有 ID 锁以防篡动的袋子，用于储存和运输尸体，减缓遗体腐烂。
 
 ent-BodyBagCC = 中央指挥部可上锁裹尸袋
+    .desc = 稍微结实些的袋子，配有防止他人乱动的 ID 锁，专为存放和运送遗体而设计，以延缓尸体腐烂。
 
 ent-Bluebrutepack1 = 蓝色瘀伤包
     .desc = 用于治疗钝击创伤的治疗凝胶包和绷带。
@@ -458,14 +465,19 @@ ent-BasePatch = 贴片
     .desc = 接触时给药。
 
 ent-PatchBrute = 外伤贴片
+    .desc = 接触时给药。
 
 ent-PatchBurnSmall = 小型灼伤贴片
+    .desc = 接触时给药。
 
 ent-PatchBurn = 灼伤贴片
+    .desc = 接触时给药。
 
 ent-PatchMedical = 医疗贴片
+    .desc = 接触时给药。
 
 ent-PatchClown = 小丑贴片
+    .desc = 接触时给药。
 
 ent-PatchPack = 贴片包
     .desc = 可高效储存多个贴片。
@@ -498,11 +510,13 @@ ent-SurgicalKitMedical = 手术工具包
     .desc = 一套紧凑的手术工具。
 
 ent-SurgicalKitMedicalFilled = 手术工具包
+    .desc = 一套小巧的手术工具包。
 
 ent-SurgicalKitRobotics = 手术工具包
     .desc = 一套紧凑的手术工具。
 
 ent-SurgicalKitRoboticsFilled = 手术工具包
+    .desc = 一套小巧的手术工具包。
 
 ent-DefibrillatorBrigmedical = 狱医除颤器
     .desc = 一台可以挽救生命的手持设备，紧要关头也能当武器。
@@ -514,15 +528,19 @@ ent-EmergencyHandheldCrewMonitor = 紧急船员监视器
     .desc = 手持船员监视器，可显示受伤船员的制服传感器状态。
 
 ent-PillGold5 = 金色药丸
+    .desc = 这可不是栓剂。
 
 ent-PillGold = 金色药丸
+    .desc = 这可不是栓剂。
 
 ent-HandheldBrigmedicCrewMonitor = 监区伙伴™ 5000
     .desc = 先进到只追踪安保人员！不会监测安保成员的情绪稳定性或能力水平。风险自负！
 
 ent-PillPsicodine = 药丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterPsicodine = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-TacticalJetInjector = 战术喷射注射器
     .desc = 大胆、战术范十足的超高品质注射器。能极快完成注射，代价是容量较小。用生命守护它。
@@ -561,6 +579,7 @@ ent-GoldenPill = 金色药丸
     .desc = 中大奖了！没有标记的金色药丸！里面什么都有可能！
 
 ent-BoneGelAbductor = 绑架者的骨凝胶瓶
+    .desc = 装骨凝胶的容器，通常需要用专用机器补充。
 
 ent-BoneGelRipper = 骨凝胶瓶
     .desc = 盛放骨凝胶的容器，通常需要从专用机器补充。
@@ -599,10 +618,13 @@ ent-BoneGelCyber = 骨凝胶
     .desc = 盛放骨凝胶的容器，通常需要从专用机器补充。
 
 ent-CauteryAbductor = 绑架者的烧灼器
+    .desc = 用于烧灼开放性伤口的手术工具。
 
 ent-CauteryCyber = 烧灼器
+    .desc = 用于烧灼开放性伤口的手术工具。
 
 ent-CauteryRipper = 烧灼器
+    .desc = 用于烧灼开放性伤口的手术工具。
 
 ent-HemostatAdvanced = 高级止血钳
     .desc = 用于压迫血管以防止出血的手术工具。
@@ -632,24 +654,34 @@ ent-BoneSetterRipper = 接骨器
     .desc = 用于复位骨骼的手术工具。用来弄断骨头也相当好使。
 
 ent-ScalpelAbductor = 绑架者的手术刀
+    .desc = 一种用于切开血肉的手术工具。
 
 ent-ScalpelCyber = 手术刀
+    .desc = 一种用于切开血肉的手术工具。
 
 ent-ScalpelRipper = 手术刀
+    .desc = 一种用于切开血肉的手术工具。
 
 ent-DrillAbductor = 绑架者的手术钻
+    .desc = 用于在坚硬材料上钻孔的手术钻。
 
 ent-DrillCyber = 手术钻
+    .desc = 用于在坚硬材料上钻孔的手术钻。
 
 ent-DrillRipper = 手术钻
+    .desc = 用于在坚硬材料上钻孔的手术钻。
 
 ent-PillLead5 = 铅
+    .desc = 这可不是栓剂。
 
 ent-PillLead = 铅
+    .desc = 这可不是栓剂。
 
 ent-PillDesoxyephedrine5 = 脱氧麻黄碱
+    .desc = 这可不是栓剂。
 
 ent-PillDesoxyephedrine = 脱氧麻黄碱
+    .desc = 这可不是栓剂。
 
 ent-BorgModuleUppies = 人员运输赛博格模块
     .desc = 通用赛博格模块，使该单位能够携带体型较小的人员。
@@ -793,10 +825,13 @@ ent-PurpleSlimeExtract = 紫色史莱姆提取物
 ent-BlueSlimeExtract = 蓝色史莱姆提取物
 
 ent-SheetRGlass5 = 强化玻璃
+    .desc = 一张强化玻璃。
 
 ent-SheetPlasteel5 = 塑钢
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetSteel15 = 钢
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-MetalSlimeExtract = 金属色史莱姆提取物
 
@@ -879,10 +914,12 @@ ent-AdamantineSlimeExtractFilled = 精金色史莱姆提取物（已填充）
 ent-FloorBluespaceEntity = 蓝空间地板
 
 ent-FloorTileItemBluespace = 蓝空间地砖
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorSepiaXenobiologyEntity = 棕褐色地板
 
 ent-FloorTileItemSepiaXenobiology = 棕褐色地砖
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-SlimeSteroidPotion = 史莱姆类固醇药剂
 

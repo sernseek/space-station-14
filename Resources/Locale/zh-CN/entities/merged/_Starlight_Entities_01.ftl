@@ -216,6 +216,7 @@ ent-ClothingHeadsetLawyer = 律师耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 ent-ClothingHeadsetAssistantNinja = 偷来的耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetSecurityWarden = 典狱长耳机
     .desc = 一副用于保持通讯联络的耳机。
@@ -230,6 +231,7 @@ ent-ClothingHeadsetSalvageLead = 打捞队长耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 ent-ClothingHeadsetTSFTrader = 跨太阳系商人耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetNCT = 纳米传讯职业培训员无线电耳机
     .desc = 一副用于保持通讯联络的耳机。
@@ -346,6 +348,7 @@ ent-ClothingEyesEyepatchHudBlueShield = 蓝盾HUD眼罩
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudBlueShieldFlipped = 蓝盾HUD眼罩
+    .desc = 创新型抬头显示器，可扫描视野内的类人生物，并准确显示其 ID 状态、安保记录和医疗信息。真正的爱国者之选。
 
 ent-ClothingEyesHudBrigmedic = 狱医HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -354,6 +357,7 @@ ent-ClothingEyesEyepatchHudBrigmedic = 狱医HUD眼罩
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudBrigmedicFlipped = 狱医HUD眼罩
+    .desc = 为真正的爱国者准备的塔玛希升级型 HUD。没错，狱医款。
 
 ent-ClothingEyesHudCorpsman = 卫生员HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -365,6 +369,7 @@ ent-ClothingEyesEyepatchHudChemical = 化学HUD眼罩
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudChemicalFlipped = 化学HUD眼罩
+    .desc = 可扫描溶液化学成分的抬头显示器。真正的爱国者之选。
 
 ent-ClothingEyesHudSkills = 技能HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -417,12 +422,16 @@ ent-ClothingHandsCatPaws = 猫爪连指手套
     .desc = 一双为双手提供保护的手套。
 
 ent-ClothingHandsCatPawsWhite = 白色猫爪连指手套
+    .desc = 格外柔软的猫爪，专为最严肃的助理打造。
 
 ent-ClothingHandsCatPawsBrown = 棕色猫爪连指手套
+    .desc = 格外柔软的猫爪，专为最严肃的助理打造。
 
 ent-ClothingHandsCatPawsBlack = 黑色猫爪连指手套
+    .desc = 格外柔软的猫爪，专为最严肃的助理打造。
 
 ent-ClothingHandsCatPawsBlackWhite = 黑白猫爪连指手套
+    .desc = 格外柔软的猫爪，专为最严肃的助理打造。
 
 ent-ClothingHandsSalvageMercGlovesCombat = 拾荒者战斗手套
     .desc = 一双为双手提供保护的手套。
@@ -783,12 +792,16 @@ ent-ChangelingClothingHeadHelmet = 甲壳头盔
 
 
 ent-ClothingHeadHatHoodWinterChemSenior = 资深化学冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSeniorCourier = 礼服货运部冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodCorpsman = 卫生员兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterDutyOfficer = 值勤干员外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 
 ent-ClothingHeadHatWhiteCatEars = 白色猫耳
@@ -799,16 +812,19 @@ ent-ClothingHeadHatCargoFormalsoft = 礼服货运部帽
     .desc = 为头部提供防护或装饰的头戴装备。
 
 ent-ClothingHeadHatCargoFormalsoftFlipped = 礼服货运部帽
+    .desc = 配色与货运部礼服相称的棒球帽。
 
 ent-ClothingHeadHatMailsoftVisor = 邮政护目镜
     .desc = 为头部提供防护或装饰的头戴装备。
 
 ent-ClothingHeadHatMailsoftVisorFlipped = 邮政护目镜
+    .desc = 适合每一位有志邮政技师的轻便遮阳帽。
 
 ent-ClothingHeadHatMailsoftVisorSenior = 资深邮政护目镜
     .desc = 为头部提供防护或装饰的头戴装备。
 
 ent-ClothingHeadHatMailsoftVisorSeniorFlipped = 资深邮政护目镜
+    .desc = 献给最尽职邮政技师的轻便遮阳帽。
 
 
 ent-ActionToggleWeldingMask = 调整焊接面具
@@ -895,30 +911,43 @@ ent-ClothingMultipleHeadphonesHighEnd = 高端耳机
 
 
 ent-TowelColorPurple = 紫色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorRed = 红色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorBlue = 蓝色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorDarkBlue = 深色蓝色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorLightBlue = 浅色蓝色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorTeal = 蓝绿色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorBrown = 棕色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorPink = 粉色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorYellow = 黄色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorMaroon = 栗色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorSilver = 银色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorMime = 静默毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorGold = 黄金毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 
 ent-ClothingNeckCapeNTSF1 = 纳米传讯特种部队披风

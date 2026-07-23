@@ -54,19 +54,25 @@ ent-FoodFrozenPopsicleJumboPackaged = 巨无霸冰淇淋
     .desc = 裹着浓郁巧克力的奢华冰淇淋。似乎比你记忆中的小。
 
 ent-FoodFrozenPopsicleNicotineTrash = 烟瘾冰棒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenPopsicleNicotineSpicyTrash = 香辣烟瘾冰棒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenPopsicleNicotineLegendTrash = 传奇冰棒包装纸
     .desc = 某人的传奇。
 
 ent-FoodFrozenPopsicleOrangeTrash = 香橙奶油冰棒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenPopsicleBerryTrash = 莓果奶油冰棒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenCornutoTrash = 科努托甜筒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenPopsicleJumboTrash = 巨无霸冰淇淋包装纸
+    .desc = 这是垃圾。
 
 ent-FoodFrozenPopsicleNicotineTrashStick = 烟瘾冰棒棍
     .desc = 曾经托着一份恶心的甜点，如今只余空空一棍。
@@ -293,6 +299,7 @@ ent-FoodSnackHardCandyOpen = 硬糖
     .desc = 这么多种口味的糖！剥掉外皮后味道更好。
 
 ent-FoodPacketHardCandyTrash = 糖果包装纸
+    .desc = 这是垃圾。
 
 ent-FoodLollipopPlain = 棒棒糖
     .desc = 插在棍上的甜食。记得加点香料！
@@ -337,10 +344,13 @@ ent-CigPackBub = 灰人特制烟包
 
 
 ent-DryTreeA = 枯树
+    .desc = 没错，这是一棵树。
 
 ent-DryTreeB = 枯树
+    .desc = 没错，这是一棵树。
 
 ent-DryTreeC = 枯树
+    .desc = 没错，这是一棵树。
 
 
 ent-PackageDeliveryEvil = 包裹
@@ -880,6 +890,7 @@ ent-EncryptionKeyNCTrainer = 纳米传讯职业培训师加密密钥
     .desc = 训练有素的公司培训团队所使用的加密密钥。
 
 ent-EncryptionKeyTSF = TSF 加密密钥
+    .desc = 用于耳机的小型加密芯片。
 
 ent-EncryptionKeyMerchant = 商人加密密钥
     .desc = 只有最严肃认真的商人才会使用的加密密钥。
@@ -907,12 +918,16 @@ ent-EncryptionKeyGlobal = 全局加密密钥
 
 
 ent-Flash0Use = 闪光器
+    .desc = 带扳机的超亮闪光灯泡，可使受害者陷入眩晕并短暂失明。烧坏后就没用了。
 
 ent-Flash1Use = 闪光器
+    .desc = 带扳机的超亮闪光灯泡，可使受害者陷入眩晕并短暂失明。烧坏后就没用了。
 
 ent-Flash3Use = 闪光器
+    .desc = 带扳机的超亮闪光灯泡，可使受害者陷入眩晕并短暂失明。烧坏后就没用了。
 
 ent-Flash4Use = 闪光器
+    .desc = 带扳机的超亮闪光灯泡，可使受害者陷入眩晕并短暂失明。烧坏后就没用了。
 
 
 ent-BaseStructureFlatpack = 基础结构平板包装
@@ -966,8 +981,10 @@ ent-DutyOfficerPDA = 值班干员 PDA
     .desc = 看看四周，从来就没有出路。每条路都通向深渊。
 
 ent-MagistratePDA = 地方法官 PDA
+    .desc = 个人数据助理。
 
 ent-NanoTrasenRepresentativePDA = 纳米传讯代表 PDA
+    .desc = 个人数字助理。
 
 ent-IAAPDA = 内务干员 PDA
     .desc = 公司与利润是最好的朋友。
@@ -1018,11 +1035,13 @@ ent-CommanderPDA = 指挥官 PDA
     .desc = 去他的舰长职位，快把那该死的核弹授权盘抢来！
 
 ent-NTNCBlueShieldPDA = 海军军官 PDA
+    .desc = 个人数字助理。
 
 ent-CentCommGreenShieldPDA = 绿盾 PDA
     .desc = 各种花哨功能一应俱全，方便你不只是慢悠悠地跟在那些自视甚高的人身旁。
 
 ent-NTNCCSPDA = NT 海军军官 PDA
+    .desc = 个人数字助理。
 
 ent-SeniorParamedicPDA = 高级急救员 PDA
     .desc = 尽管满是磨痕和划痕，依然光洁无菌。
@@ -1034,6 +1053,7 @@ ent-DecimusPDA = 越狱版 PDA
     .desc = 一台经过非法改装的普通纳米传讯 PDA。请向最近的纳米传讯代表报告，以便调查。
 
 ent-NanoTrasenCareerTrainerPDA = 纳米传讯职业培训师 PDA
+    .desc = 个人数字助理。
 
 ent-SolGovPDA = 索尔政府 PDA
     .desc = 由跨太阳系联邦配发的个人数据助理。

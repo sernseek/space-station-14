@@ -5,23 +5,31 @@ ent-FoodBoxDonkpocket = 一盒 Donk 夹心饼
     .desc = 说明：用微波炉加热。若七分钟内未食用，产品将会冷却。
 
 ent-FoodBoxDonkpocketSpicy = 一盒香辣味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketTeriyaki = 一盒照烧味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketPizza = 一盒披萨味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketStonk = 一盒限量版涨停夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketCarp = 一盒鲤鱼味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketBerry = 一盒莓果味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketHonk = 一盒香蕉味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-FoodBoxDonkpocketDink = 一盒 Dink 夹心饼
     .desc = 零碳水！无需加热！
 
 ent-FoodBoxDonkpocketMoth = 一盒飞蛾味 Donk 夹心饼
+    .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-HappyHonk = 快乐呵叫套餐
     .desc = 玩具都比食物更能入口。来自呵叫得来速餐厅，嗯……
@@ -30,6 +38,7 @@ ent-HappyHonkNukie = 强力核弹特工套餐
     .desc = 一份可疑的套餐，里面可能藏着爆炸性惊喜。
 
 ent-HappyHonkNukieSnacks = 辛迪加零食盒
+    .desc = 一份可疑的餐点，里面可能藏着会爆炸的惊喜。
 
 ent-HappyHonkCluwne = 悲惨受诅小丑套餐
     .desc = 这绝不会带来什么好事。
@@ -140,20 +149,25 @@ ent-FoodTinPeaches = 糖水桃罐头
     .desc = 一罐熟透的桃子，浸泡在自己的汁水里。
 
 ent-FoodTinPeachesTrash = 糖水桃罐头
+    .desc = 一个空罐头。应该能从中回收一点金属。
 
 ent-FoodTinPeachesMaint = 维护通道桃罐头
+    .desc = 只是一罐泡在自身汁水里的熟桃子，看起来挺不错。
 
 ent-FoodTinPeachesMaintTrash = 维护通道桃罐头
+    .desc = 一个空罐头。应该能从中回收一点金属。
 
 ent-FoodTinBeans = 豆子罐头
     .desc = 会奏乐的果实，装在一个没那么会奏乐的容器里。
 
 ent-FoodTinBeansTrash = 豆子罐头
+    .desc = 一个空罐头。应该能从中回收一点金属。
 
 ent-FoodTinMRE = 肉罐头
     .desc = 标准配发的肉罐头，带有方便开启的拉环。
 
 ent-FoodTinMRETrash = 肉罐头
+    .desc = 一个空罐头。应该能从中回收一点金属。
 
 ent-FoodBreakfastAmerican = 全套美式早餐
     .desc = 满满一大盘蛋白质和碳水，与其说能让你起床，不如说更可能把你送回床上。天啊，这又是什么人间地狱？
@@ -279,6 +293,7 @@ ent-Eggshells = 蛋壳
     .desc = 伙计，你正如履薄冰——不，是蛋壳。
 
 ent-FoodEgg = 鸡蛋
+    .desc = 一枚鸡蛋！
 
 ent-FoodEggBoiled = 水煮蛋
     .desc = 美味的全熟水煮蛋。
@@ -922,6 +937,7 @@ ent-FoodRealCapfruit = 枪帽果
     .desc = 一种柔软光滑的枪形水果。
 
 ent-FoodFakeCapfruit = 枪帽果
+    .desc = 一种柔软光滑、形似枪械的果实。
 
 ent-RiceBushel = 一捆稻穗
     .desc = 可碾成大米，非常适合做布丁或清酒。

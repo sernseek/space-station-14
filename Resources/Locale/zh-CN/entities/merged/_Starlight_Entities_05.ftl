@@ -26,6 +26,7 @@ ent-SuperSynthesizerInstrument = 超级合成器
     .desc = 自 2020 年起，用东方 MIDI 轰炸贫民区。
 
 ent-SuperSynthesizerInstrumentAdmeme = 超级合成器
+    .desc = 自 2020 年起，用《东方》的电子合成乐曲轰炸贫民区。
 
 ent-ActionPAIPDA = 物品
     .desc = 当你装在 PDA 内时打开其界面。
@@ -307,13 +308,16 @@ ent-SheetAdamantine = 精金
     .desc = 一件具有特殊用途的物品。
 
 ent-SheetAdamantine1 = 精金
+    .desc = 一块精金锭，来自那些死活不肯出门的史莱姆饲养员。
 
 ent-AbyssCore = 深渊晶核
     .desc = 一块散发能量的晶体，看起来十分脆弱。
 
 ent-CrushedPhosphorus = 磷粉
+    .desc = 一种原材料。
 
 ent-LabellerRefillPaper = 标签机补充纸
+    .desc = 一种原材料。
 
 ent-BluespaceCrystal = 蓝空间水晶
     .desc = 一块散发能量的晶体，看起来十分脆弱。
@@ -322,6 +326,7 @@ ent-ArtificialBluespaceCrystal = 人造蓝空间水晶
     .desc = 一块散发能量的晶体，看起来十分脆弱。
 
 ent-AbyssiumOre = 深渊矿石
+    .desc = 一块未经精炼的矿石。
 
 ent-RawBluespaceCrystal = 原始蓝空间水晶
     .desc = 一块散发能量的晶体，看起来十分脆弱。
@@ -397,62 +402,88 @@ ent-RevolutionaryHeldBanner = 革命旗帜
     .desc = 一件具有特殊用途的物品。
 
 ent-MagistrateIDCard = 裁判官 ID卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-CentcomIDCardOperator = 中央指挥部操作员 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-RoboticistIDCard = 机器人专家 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-NanoTrasenRepresentativeIDCard = 纳米传讯代表 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-IAAIDCard = 内部事务特工 ID卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-BlueShieldIDCard = 蓝盾干员 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-NTNCBlueShieldIDCard = 蓝盾干员 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CCGreenShieldIDCard = 绿盾干员 ID卡
     .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
 ent-SalvageLeadIDCard = 打捞队长 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-MiningIDCard = 矿工 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-MailTechIDCard = 邮件技师 ID卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-PerformerIDCard = 表演者 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-DutyOfficerIDCard = 值班长官 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-KikiIDCard = 琪琪 ID卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-PrisonerJobIDCard = 囚犯 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-StirStirIDCard = 搅搅 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-SovietIdCard = 苏维埃 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-SyndicateFootsoldierIDCard = 辛迪加步兵 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-CommanderIDCard = 辛迪加指挥官 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-SyndicateAgentIDCard = 辛迪加特工 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-OperativeIDCard = 辛迪加行动员 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-AssistantDerelictBorgiIDCard = 助手 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-XenoborgiIDCard = 异种赛博格 ID卡
+    .desc = 一张进入空间站各个区域所必需的卡片。
 
 ent-CentcomIDCardNTSF = 纳米传讯安保部队 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CentcomIDCardDecimus = 错误 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-TSFIdCard = 太阳联邦 ID卡
     .desc = 一件具有特殊用途的物品。
 
 ent-CluwneBeastIDCard = 受诅小丑兽 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-NanoTrasenCareerTrainerIDCard = 纳米传讯职业培训师 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-nctdatachip = NCT 学员权限芯片
     .desc = 一件具有特殊用途的物品。
@@ -461,22 +492,31 @@ ent-MakeshiftID = 临时 ID卡
     .desc = 一件具有特殊用途的物品。
 
 ent-CentcomIDCard = 指挥部军官 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-ERTLeaderIDCard = 应急响应队队长 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-ERTChaplainIDCard = 应急响应队牧师 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-ERTEngineerIDCard = 应急响应队工程师 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-ERTJanitorIDCard = 应急响应队清洁工 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-ERTMedicIDCard = 应急响应队医护员 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-ERTSecurityIDCard = 应急响应队安保干员 ID卡
+    .desc = 进入空间站各个区域所必需的卡片。
 
 ent-CentcomIDCardDeathsquad = 死亡小队 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CBURNIDcard = 生化应急响应队 ID卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BaseImplantOnlyImplanterSyndi_StarLight = 辛迪加 植入器
     .desc = 用于将专用皮下植入物注入体内的装置。
@@ -488,22 +528,31 @@ ent-USSPUplinkImplanter = 苏维埃升链植入器
     .desc = 用于将专用皮下植入物注入体内的装置。
 
 ent-MagillitisSerumImplanter = 巨猿症血清植入器
+    .desc = 一种小巧的一次性注射器，专为注射皮下植入物而设计。用完后记得拿肥皂好好刷洗，清除残留的 DNA！
 
 ent-TSFMindShieldImplanter = 心灵护盾植入器
+    .desc = 一支专为注射皮下植入物设计的一次性注射器。
 
 ent-DeathRattleImplanterTSF = 濒死警报植入器
+    .desc = 一支专为注射皮下植入物设计的一次性注射器。
 
 ent-BluespaceImplanter = 蓝空间植入器
+    .desc = 一支专为注射皮下植入物设计的一次性注射器。
 
 ent-RedspaceImplanter = 红空间植入器
+    .desc = 专用于注射皮下植入物的小型一次性注射器。用完记得拿肥皂刷洗，清除残留的脱氧核糖核酸！
 
 ent-GearAcidifierImplanter = 装备酸蚀植入器
+    .desc = 一种小巧的一次性注射器，专为注射皮下植入物而设计。用完后记得拿肥皂好好刷洗，清除残留的 DNA！
 
 ent-SELFStorageImplanter = S.E.L.F 储物植入器
+    .desc = 一支专为注射皮下植入物设计的小巧一次性注射器。用完后记得拿肥皂刷干净，别留下残余的遗传物质！
 
 ent-MindControlImplanter = 精神控制植入器
+    .desc = 一种小巧的一次性注射器，专为注射皮下植入物而设计。用完后记得拿肥皂好好刷洗，清除残留的 DNA！
 
 ent-CommandTrackerImplanter = 指挥部追踪植入器
+    .desc = 一支专为注射皮下植入物设计的一次性注射器。
 
 ent-UnfinishedForgedShotgun = 组装完成的锻造霰弹枪
     .desc = 尚未完成的零件，需要焊接后才能使用。
@@ -608,6 +657,7 @@ ent-PictureFrame = 相框
     .desc = 一件具有特殊用途的物品。
 
 ent-TapeRecorderTranscript = 录音文字稿
+    .desc = 一张白纸。
 
 ent-PaperNTCC = 纳米传讯—中央指挥部公文纸
     .desc = 一件具有特殊用途的物品。
@@ -622,64 +672,94 @@ ent-PenQuillBurnt = 烧焦的羽毛笔
     .desc = 一件具有特殊用途的物品。
 
 ent-RubberStampMagistrate = 裁判官橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampNtrep = 纳米传讯代表橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampIAA = 内部事务特工橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampBSO = 蓝盾干员橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampBrigmedic = 狱医橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCAD = 中央行政部门橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCCD = 中央货运部门橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCED = 中央工程部门橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCID = 中央情报部门橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCMD = 中央医疗部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCRD = 中央科研部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCDD = 中央民政部门橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCSOD = 中央特种作战部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCSD = 中央安保部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-BoxStampsCCDepartments = 中央指挥部印章盒
+    .desc = 用来存放物品的纸板盒。
 
 ent-RubberStampAcknowledged = “已知悉”橡皮章
+    .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampMissingStamps = “缺少印章”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampIncorrectStamps = “印章错误”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampIncorrectForm = “表格错误”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampIncompleteForm = “表格不完整”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampSentToATS = “已转交审计”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampDeferToCommand = “交由指挥部”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampStandby = “待命”橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-BoxStampsCCAdministrative = 中央指挥部印章盒
+    .desc = 用来存放物品的纸板盒。
 
 ent-RubberStampSalvageLead = 打捞队长橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampTSF = 太阳联邦橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampTSMC = 太阳联邦海军陆战队橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampSolgovLaw = 索尔政府执法部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampSolgovRep = 索尔政府代表橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampSolgovTraders = 索尔政府商贸部门橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampReporter = 记者橡皮章
     .desc = 一件具有特殊用途的物品。
@@ -733,76 +813,112 @@ ent-XenoroachSelfDestructImplant = 异种蟑螂自毁植入物
     .desc = 用于将专用皮下植入物注入体内的装置。
 
 ent-FloorTileItemCarpetDeco = 装饰地毯地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemDarkBitile = 深色双色地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemSteelBitile = 钢制双色地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWhiteBitile = 白色双色地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemHierophant = 教主地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemSepia = 深褐色地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemTerracotta = 陶瓦地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemTerracottaDiagonal = 陶瓦斜纹地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemTerracottaSmall = 小块陶瓦地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemDarkWood = 深色木地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemDarkWoodPattern = 深色花纹木地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemDarkWoodLarge = 大型深色木地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemWoodParquet = 木拼花地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodBlack = 黑色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodDark = 深色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodLight = 浅色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodRed = 红色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodLargeBlack = 大型黑色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodLargeDark = 大型深色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodLargeLight = 大型浅色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodLargeRed = 大型红色木地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodParquetBlack = 黑色木拼花地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodParquetDark = 深色木拼花地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodParquetLight = 浅色木拼花地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodParquetRed = 红色木拼花地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodChess = 木棋盘格地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodChessBlack = 黑色木棋盘格地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodChessDark = 深色木棋盘格地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodChessLight = 浅色木棋盘格地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemWoodChessRed = 红色木棋盘格地块
+    .desc = 拿来当投掷武器应该相当趁手。
 
 ent-FloorTileItemMetalDark = 深色 金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemMetalBrown = 棕色 金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemMetalBlue = 蓝色  金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemMetalPurple = 紫色 金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemMetalRed = 红色 金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItemMetalGreen = 绿色 金属 地块
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-FloorTileItem3x3Black = 3x3 黑色 地块
     .desc = 一组可铺设的装饰地板材料。

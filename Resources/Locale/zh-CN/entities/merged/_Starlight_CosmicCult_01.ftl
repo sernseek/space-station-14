@@ -126,6 +126,7 @@ ent-CosmicShuttleCore = 邪异仪器
     .desc = 它的表面亮起无数不可解读的符文，将一个词直接传入你的心智：“飞行”。
 
 ent-CosmicChair = 邪异长椅
+    .desc = 你会坐在这上面。自愿也好，被迫也罢。
 
 ent-CosmicObelisk = 邪异方尖碑
     .desc = 一座神秘却毫无动静的建筑。令人不安。
@@ -148,18 +149,22 @@ ent-WallCosmicCult = 邪异墙
     .desc = 一堵外观奇特的墙。盯得太久会让人感到不适。
 
 ent-WallCosmicCultTrimmed = 邪异饰边墙
+    .desc = 一面模样诡异的墙。盯得太久会让人心生不适。
 
 ent-WindowCosmicCult = 邪异窗格
     .desc = 一扇外观古怪的窗户。它有种说不上来的瘆人之处。
 
 ent-WindowCosmicCultDark = 邪异暗色窗格
+    .desc = 一扇模样古怪的窗户。它身上的某种东西令你不安。
 
 ent-WindowCosmicCultDiagonal = 邪异斜角窗格
     .desc = 一扇外观古怪的窗户。它有种说不上来的瘆人之处。
 
 ent-WindowCosmicCultDiagonalDark = 邪异暗色斜角窗格
+    .desc = 一扇模样古怪的窗户。它身上的某种东西令你不安。
 
 ent-CrateChaplain = 宗教用品箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateServiceReligious = 宗教物资箱
     .desc = 装有圣水、香炉和一本圣经。
@@ -171,20 +176,28 @@ ent-CosmicGlyphBase = 基础符文
     .desc = 一道奇异、仿佛来自异界的印记。
 
 ent-CosmicGlyphTruth = 真理符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-CosmicGlyphKnowledge = 知识符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-CosmicGlyphCessation = 终止符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-CosmicGlyphBlades = 刀刃符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-CosmicGlyphWarding = 守护符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-CosmicGlyphProjection = 投影符文
+    .desc = 一道来自异界的诡异印记。
 
 ent-MindRoleCosmicCult = 宇宙教团角色
+    .desc = 心灵角色实体
 
 ent-MindRoleCosmicColossus = 巨像角色
+    .desc = 心灵角色实体
 
 ent-ColossusSurviveObjective = 坚持
     .desc = 坚持到万物终结。

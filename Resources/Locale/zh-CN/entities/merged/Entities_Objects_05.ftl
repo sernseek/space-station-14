@@ -93,27 +93,37 @@ ent-CrayonInedible = 蜡笔
     .desc = 一件用途与其名称相符的物品。
 
 ent-CrayonMime = 哑剧蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonRainbow = 彩虹蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonBorg = 电动蜡笔
     .desc = 一件用途与其名称相符的物品。
 
 ent-CrayonWhite = 白色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonBlack = 黑色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonRed = 红色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonOrange = 橙色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonYellow = 黄色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonGreen = 绿色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonBlue = 蓝色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonPurple = 紫色蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-CrayonBox = 蜡笔盒
     .desc = 一件用途与其名称相符的物品。
@@ -154,6 +164,7 @@ ent-DiceBag = 骰子袋
     .desc = 一件用途与其名称相符的物品。
 
 ent-MagicDiceBag = 骰子袋
+    .desc = 装着你这辈子所需的全部好运。
 
 
 ent-SingularityToy = 奇点蛾牌玩具
@@ -269,6 +280,7 @@ ent-MrChips = 奇普斯先生
     .desc = 一件用途与其名称相符的物品。
 
 ent-MrDips = 迪普斯先生
+    .desc = 这是个假人，傻瓜！
 
 ent-Error = 错误
     .desc = 一件用途与其名称相符的物品。
@@ -358,72 +370,96 @@ ent-SheetRGlass = 钢化玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetRGlass1 = 钢化玻璃
+    .desc = 一张强化玻璃。
 
 ent-SheetPGlass = 等离子玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetPGlass1 = 等离子玻璃
+    .desc = 一张半透明的等离子体。
 
 ent-SheetRPGlass = 钢化等离子玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetRPGlass1 = 钢化等离子玻璃
+    .desc = 一张强化的半透明等离子玻璃。
 
 ent-SheetUGlass = 铀玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetUGlass1 = 铀玻璃
+    .desc = 一张铀玻璃。
 
 ent-SheetRUGlass = 钢化铀玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetRUGlass1 = 钢化铀玻璃
+    .desc = 一张强化铀玻璃。
 
 ent-SheetClockworkGlass = 发条玻璃
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetClockworkGlass1 = 发条玻璃
+    .desc = 一张以黄铜强化的玻璃，主要供发条机械爱好者和残余的拉特瓦教徒使用。
 
 
 ent-SheetSteel = 钢材
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetSteel10 = 钢材
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetSteel1 = 钢材
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetBrass = 黄铜
     .desc = 一件用途与其名称相符的物品。
 
 ent-SheetBrass10 = 黄铜
+    .desc = 一张黄铜板，主要供发条机械爱好者和残余的拉特瓦教徒使用。
 
 ent-SheetBrass1 = 黄铜
+    .desc = 一张黄铜板，主要供发条机械爱好者和残余的拉特瓦教徒使用。
 
 ent-SheetPlasteel = 塑钢
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetPlasteel10 = 塑钢
+    .desc = 一张金属板，在空间站内用途广泛。
 
 ent-SheetPlasteel1 = 塑钢
+    .desc = 一张金属板，在空间站内用途广泛。
 
 
 ent-SheetPaper = 纸
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPaper1 = 纸
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPlasma = 等离子体
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPlasma1 = 等离子体
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPlastic = 塑料
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPlastic10 = 塑料
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetPlastic1 = 塑料
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetUranium = 铀
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-SheetUranium1 = 铀
+    .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-MaterialSheetMeat = 肉片
+    .desc = 一张材料薄片，常用于空间站内的各种用途。
 
 
 ent-ShardCrystalBase = 水晶碎片
@@ -433,53 +469,75 @@ ent-ShardCrystalCyan = 青色水晶碎片
     .desc = 一件用途与其名称相符的物品。
 
 ent-ShardCrystalBlue = 蓝色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalYellow = 黄色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalOrange = 橙色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalBlack = 黑色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalPink = 粉色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalGreen = 绿色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalRed = 红色水晶碎片
+    .desc = 一小块水晶。
 
 ent-ShardCrystalRandom = 随机水晶碎片
+    .desc = 一小块水晶。
 
 
 ent-IngotGold = 金锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-IngotGold1 = 金锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-IngotSilver = 银锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-IngotSilver1 = 银锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 
 ent-MaterialCardboard = 纸板
+    .desc = 一种原材料。
 
 ent-MaterialCloth = 布料
+    .desc = 一种原材料。
 
 ent-MaterialDurathread = 耐久丝
+    .desc = 一种原材料。
 
 ent-MaterialWoodPlank = 木材
+    .desc = 一种原材料。
 
 ent-MaterialBiomass = 生物质
+    .desc = 一种原材料。
 
 ent-MaterialHideBear = 熊皮
+    .desc = 一种原材料。
 
 ent-MaterialHideCorgi = 柯基皮
     .desc = 一件用途与其名称相符的物品。
 
 ent-MaterialDiamond = 精炼钻石
+    .desc = 一种原材料。
 
 ent-MaterialCotton = 棉花
+    .desc = 一种原材料。
 
 ent-MaterialPyrotton = 火绒棉
+    .desc = 一种原材料。
 
 ent-MaterialBananium = 香蕉矿
+    .desc = 一种原材料。
 
 ent-MaterialWebSilk = 蛛丝
     .desc = 一件用途与其名称相符的物品。
@@ -491,6 +549,7 @@ ent-MaterialToothSharkminnow = 鲨鱼米诺鱼牙
     .desc = 一件用途与其名称相符的物品。
 
 ent-MaterialBones = 骨头
+    .desc = 一种原材料。
 
 ent-MaterialGunpowder = 火药
     .desc = 一件用途与其名称相符的物品。
@@ -500,24 +559,34 @@ ent-MaterialGoliathHide = 歌利亚甲皮
 
 
 ent-GoldOre = 金矿石
+    .desc = 一块未经精炼的矿石。
 
 ent-DiamondOre = 钻石矿石
+    .desc = 一块未经冶炼的矿石。
 
 ent-SteelOre = 铁矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-PlasmaOre = 等离子矿石
+    .desc = 一块未经精炼的矿石。
 
 ent-SilverOre = 银矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-SpaceQuartz = 太空石英
+    .desc = 一块未经提炼的矿石。
 
 ent-UraniumOre = 铀矿石
+    .desc = 一块未经提炼的矿石。
 
 ent-BananiumOre = 香蕉矿石
+    .desc = 一块未经精炼的矿石。
 
 ent-Coal = 煤
+    .desc = 一块未经冶炼的矿石。
 
 ent-SaltOre = 盐
+    .desc = 一块未经提炼的矿石。
 
 
 ent-PartRodMetal = 金属棒
@@ -573,6 +642,7 @@ ent-ScrapFirelock2 = 防火闸门板
     .desc = 一件用途与其名称相符的物品。
 
 ent-ScrapFirelock3 = 防火闸框架
+    .desc = 一堆不值钱的破烂，不过兴许还能从中拆出点材料。
 
 ent-ScrapIntercom = 对讲机废料
     .desc = 一件用途与其名称相符的物品。
@@ -642,10 +712,13 @@ ent-BedsheetBase = 床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetBlack = 黑色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetBlue = 蓝色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetBrown = 棕色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetCaptain = 舰长床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
@@ -669,8 +742,10 @@ ent-BedsheetCult = 邪教床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetGreen = 绿色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetGrey = 灰色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetHOP = 人事主管床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
@@ -679,6 +754,7 @@ ent-BedsheetHOS = 安保主管床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetIan = 伊恩床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetMedical = 医疗床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
@@ -690,12 +766,16 @@ ent-BedsheetNT = NT 床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetOrange = 橙色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetPurple = 紫色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetQM = 军需官床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetRainbow = 彩虹床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetRD = 研究主管床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
@@ -704,6 +784,7 @@ ent-BedsheetBrigmedic = 狱医床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetRed = 红色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetSyndie = 辛迪加床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
@@ -712,11 +793,13 @@ ent-BedsheetUSA = 美国领地床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetWhite = 白色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 ent-BedsheetWiz = 巫师床单
     .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
 ent-BedsheetYellow = 黄色床单
+    .desc = 一条柔软得出人意料的亚麻床单。
 
 
 ent-BookBase = 书
@@ -884,6 +967,7 @@ ent-BrbSign = 暂离标牌
 
 
 ent-BriefcaseBrown = 棕色公文包
+    .desc = 方便用手提着携带物品。
 
 ent-BriefcaseWeapon = 安全武器箱
     .desc = 适合心怀大志的雇佣兵，也适合想做超大煎蛋的人。
@@ -897,49 +981,70 @@ ent-Candle = 蜡烛
     .desc = 一根穿过油脂的细灯芯。
 
 ent-CandleRed = 红色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleBlue = 蓝色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleBlack = 黑色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleGreen = 绿色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandlePurple = 紫色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleSmall = 小号蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleRedSmall = 小号红色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleBlueSmall = 小号蓝色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleBlackSmall = 小号黑色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleGreenSmall = 小号绿色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandlePurpleSmall = 小号紫色蜡烛
+    .desc = 一根细灯芯贯穿油脂。
 
 ent-CandleInfinite = 魔法蜡烛
     .desc = 不知是魔法还是高科技，它永不熄灭，但火焰十分冰冷。
 
 ent-CandleRedInfinite = 魔法红色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleBlueInfinite = 魔法蓝色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleBlackInfinite = 魔法黑色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleGreenInfinite = 魔法绿色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandlePurpleInfinite = 魔法紫色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleRedSmallInfinite = 小号魔法红色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleBlueSmallInfinite = 小号魔法蓝色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleBlackSmallInfinite = 小号魔法黑色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandleGreenSmallInfinite = 小号魔法绿色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 ent-CandlePurpleSmallInfinite = 小号魔法紫色蜡烛
+    .desc = 要么是魔法，要么是高科技——总之这根蜡烛永远不会熄灭。可另一方面，它的火焰相当冰冷。
 
 
 ent-CandyBowl = 糖果碗

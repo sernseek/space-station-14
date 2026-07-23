@@ -6,16 +6,22 @@ ent-BaseXenoborgChassis = 异种赛博格
 
 
 ent-BorgChassisGeneric = 通用赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisMining = 打捞赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisEngineer = 工程赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisJanitor = 清洁赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisMedical = 医疗赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisService = 服务赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisSyndicateAssault = 辛迪加突击赛博格
     .desc = 精悍凶猛的杀戮机器，可使用多种致命模块。
@@ -117,6 +123,7 @@ ent-MobKangaroo = 袋鼠
     .desc = 一种大型有袋食草动物，后腿强壮，趾甲犹如长爪。
 
 ent-MobBoxingKangaroo = 拳击袋鼠
+    .desc = 一种大型有袋类食草动物。后腿强健，趾甲形似长爪。
 
 ent-MobBaseAncestor = 基因祖先
     .desc = 某种……呃……东西的双足基因祖先。没错，空间站里肯定有某种东西是从这玩意儿演化来的。
@@ -179,6 +186,7 @@ ent-MobPossum = 负鼠
     .desc = “啊，负鼠！我的负鼠！”——沃尔特·惠特曼，1865年
 
 ent-MobPossumOld = 老负鼠
+    .desc = “哦，负鼠！我的负鼠！”——沃尔特·惠特曼，1865 年
 
 ent-MobRaccoon = 浣熊
     .desc = 垃圾熊猫！
@@ -232,6 +240,7 @@ ent-MobReindeerBuck = 雄驯鹿
     .desc = 你觉得它能拉雪橇吗？
 
 ent-MobReindeerDoe = 雌驯鹿
+    .desc = 你觉得它能拉雪橇吗？
 
 ent-MobCorgiSmart = 聪明柯基
     .desc = 一只聪明得异乎寻常的狗。
@@ -298,12 +307,16 @@ ent-BaseMobBehonker = 魔鸣怪
     .desc = 鸣母的恶魔化身，漂浮在空中。
 
 ent-MobBehonkerElectrical = 电击魔鸣怪
+    .desc = 呵叫之母的一具浮空恶魔化身。
 
 ent-MobBehonkerPyro = 火焰魔鸣怪
+    .desc = 呵叫之母的一具浮空恶魔化身。
 
 ent-MobBehonkerGrav = 重力魔鸣怪
+    .desc = 呵叫之母的一具浮空恶魔化身。
 
 ent-MobBehonkerIce = 寒冰魔鸣怪
+    .desc = 呵叫之母的一具浮空恶魔化身。
 
 
 ent-BaseMobCarp = 太空鲤鱼
@@ -319,6 +332,7 @@ ent-MobCarpRainbow = 彩虹鲤鱼
     .desc = 哇，好闪亮的小鱼！
 
 ent-MobCarpDragon = 龙化太空鲤鱼
+    .desc = 这是一条太空鲤鱼。
 
 ent-MobShark = 鲨形小鱼
     .desc = 来自无尽太空黑暗深处的危险鲨鱼，最爱饮血。
@@ -443,6 +457,7 @@ ent-MobPossumMorty = 莫蒂
     .desc = 空间站常驻的北美负鼠。一个敏感却坚韧的小家伙。
 
 ent-MobPossumMortyOld = 老莫蒂
+    .desc = 空间站常住的北美负鼠。一个敏感却坚韧的家伙。
 
 ent-MobPossumPoppy = 波比 # the Safety Possum
     .desc = 一只负鼠，也就是小型食腐有袋动物。它穿戴着合适的个人防护装备。
@@ -508,11 +523,13 @@ ent-MobRevenant = 怨灵
 
 
 ent-MobBaseScurret = 沼狸
+    .desc = 某种……呃……东西的双足遗传祖先。没错，空间站里肯定有什么是从这玩意儿进化来的。
 
 ent-MobScurret = 沼狸
     .desc = 俗称“哇哇”，来自哇哇星的湿地。这些小动物构成了阿诺德披萨店“忠诚员工”的主力。
 
 ent-MobBaseEmotionalSupportScurret = 情绪支持沼狸
+    .desc = 某种……呃……东西的双足遗传祖先。没错，空间站里肯定有什么是从这玩意儿进化来的。
 
 ent-MobEmotionalSupportScurret = 情绪支持沼狸
     .desc = 俗称“哇哇”，来自哇哇星的湿地。这些小动物构成了阿诺德披萨店“忠诚员工”的主力。这一只来这里做临时工。
@@ -547,16 +564,22 @@ ent-MobAdultSlimes = 基础史莱姆
     .desc = 它看起来太像果冻了。不知道吃起来是什么味道？
 
 ent-MobAdultSlimesBlue = 蓝色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 ent-MobAdultSlimesBlueAngry = 愤怒的蓝色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 ent-MobAdultSlimesGreen = 绿色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 ent-MobAdultSlimesGreenAngry = 愤怒的绿色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 ent-MobAdultSlimesYellow = 黄色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 ent-MobAdultSlimesYellowAngry = 愤怒的黄色史莱姆
+    .desc = 看起来太像果冻了。不知道尝起来是什么味道？
 
 
 ent-MobSpaceBasic = 基础太空生物
@@ -578,6 +601,7 @@ ent-MobSnail = 蜗牛
     .desc = 除非法国人，否则都会觉得恶心。
 
 ent-MobSnailMoth = 蛾牛
+    .desc = 除非你是法国人，否则看着就反胃。
 
 
 ent-MobTick = 太空蜱虫
@@ -588,18 +612,25 @@ ent-MobXeno = 掘穴异形
     .desc = 它们大多在夜间出没。大多如此。
 
 ent-MobXenoPraetorian = 禁卫异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoDrone = 工蜂异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoQueen = 异形女王
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoRavager = 毁灭者异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoRunner = 奔行异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoRouny = 罗尼异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoSpitter = 喷吐异形
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobPurpleSnake = 太空蝰蛇
     .desc = 来自开普勒-283c的一条凶恶紫蛇。
@@ -862,6 +893,7 @@ ent-CossackSpawner = 哥萨克生成器
 
 
 ent-AdminObserver = 管理员观察者
+    .desc = 呜哇！
 
 ent-ActionAGhostShowSolar = 太阳能控制界面
     .desc = 查看太阳能控制界面。

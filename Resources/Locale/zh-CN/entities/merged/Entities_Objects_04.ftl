@@ -81,27 +81,37 @@ ent-DoorRemoteDefault = 门禁遥控器
     .desc = 可远程开门和落下门栓的小装置。
 
 ent-DoorRemoteCommand = 指挥部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteCustom = 自定义门禁遥控器
     .desc = 可远程开门和落下门栓的小装置。这个高级型号没有内置权限，而会继承使用者ID卡的权限。
 
 ent-DoorRemoteSecurity = 安保部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteArmory = 军械库门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteService = 服务部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteResearch = 科研部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteCargo = 货运部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteMedical = 医疗部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteEngineering = 工程部门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteAll = 超级门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteXenoborg = 异种赛博格门禁遥控器
+    .desc = 可远程开门和落下门闩的小装置。
 
 
 ent-EncryptionKey = 加密密钥
@@ -457,6 +467,7 @@ ent-PinpointerBase = 定位针
     .desc = 手持追踪设备。它通常远比现在强大，但这一台被设定为只能锁定特定信号。请保持竖直以维持精度。
 
 ent-PinpointerNuclear = 定位针
+    .desc = 一种手持追踪设备。它通常远不止这点本事，但这一台被设置为锁定特定信号。保持竖直以确保精度。
 
 ent-PinpointerSyndicateNuclear = 辛迪加定位针
     .desc = 专为核弹特工任务生产，快去拿到那张核弹授权盘！
@@ -711,8 +722,10 @@ ent-ToyReticence = 缄默玩具
 
 
 ent-SynthesizerInstrument = 合成器
+    .desc = 那是一件乐器。
 
 ent-AccordionInstrument = 手风琴
+    .desc = 那可是一件乐器。
 
 ent-KalimbaInstrument = 卡林巴琴
     .desc = 一件可以演奏出独特音色的卡林巴琴。
@@ -760,6 +773,7 @@ ent-BananaPhoneInstrument = 香蕉电话
 
 
 ent-GlockenspielInstrument = 钟琴
+    .desc = 那是一件乐器。
 
 ent-MusicBoxInstrument = 八音盒
     .desc = 一件可以演奏出独特音色的八音盒。
@@ -793,6 +807,7 @@ ent-GuitarlessFretsInstrument = 无琴身品格
     .desc = 一件可以演奏出独特音色的无琴身品格。
 
 ent-BanjoInstrument = 班卓琴
+    .desc = 那可是一件乐器。
 
 ent-ViolinInstrument = 小提琴
     .desc = 一件可以演奏出独特音色的小提琴。

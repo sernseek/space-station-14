@@ -226,18 +226,25 @@ ent-NocturineHypo = 诺克图林自动注射器
 
 
 ent-MonkeyCube = 猴子方块
+    .desc = 加水即可！
 
 ent-KoboldCube = 狗头人方块
+    .desc = 加水就行！
 
 ent-CowCube = 奶牛方块
+    .desc = 只需加水！
 
 ent-GoatCube = 山羊方块
+    .desc = 加水就行！
 
 ent-MothroachCube = 蛾蠊方块
+    .desc = 加水即可！
 
 ent-MoproachCube = 拖把蟑螂方块
+    .desc = 加水即可！
 
 ent-MouseCube = 老鼠方块
+    .desc = 加水即可！
 
 ent-CockroachCube = 蟑螂方块
     .desc = 只要加点水——我的天啊！
@@ -336,6 +343,7 @@ ent-CowToolbox = 牛用工具箱
     .desc = 一个形状怪异的箱子，里面装着……工具？
 
 ent-CowToolboxFilled = 牛用工具箱
+    .desc = 一个形状古怪的箱子，里面装着……工具？
 
 
 ent-BaseCrowbar = 撬棍
@@ -372,6 +380,7 @@ ent-Fulton = 富尔顿回收装置
     .desc = 用于回收容器和物品，也可把人强行招募到你的行动基地。
 
 ent-Fulton1 = 富尔顿回收装置
+    .desc = 用于回收容器、物品，或强行把人招募到你的行动基地。
 
 ent-FultonEffect = 富尔顿回收效果
 
@@ -417,14 +426,19 @@ ent-GlowstickBase = 荧光棒
     .desc = 适用于锐舞派对和紧急情况。
 
 ent-GlowstickRed = 红色荧光棒
+    .desc = 开锐舞派对和应付紧急情况都很好用。
 
 ent-GlowstickPurple = 紫色荧光棒
+    .desc = 开锐舞派对和应付紧急情况都很好用。
 
 ent-GlowstickYellow = 黄色荧光棒
+    .desc = 开锐舞派对和应付紧急情况都很好用。
 
 ent-GlowstickBlue = 蓝色荧光棒
+    .desc = 开锐舞派对和应付紧急情况都很好用。
 
 ent-GlowstickGreen = 绿色荧光棒
+    .desc = 开锐舞派对和应付紧急情况都很好用。
 
 ent-LightBehaviourTest1 = 灯光脉冲测试
 
@@ -458,6 +472,7 @@ ent-RadioJammer = 无线电干扰器
     .desc = 激活后会干扰附近所有向外发送的无线电通信及制服传感器。
 
 ent-XenoborgRadioJammer = 异星赛博格无线电干扰器
+    .desc = 该设备启动后会干扰附近所有向外发送的无线电通信及太空服传感器。
 
 
 ent-JawsOfLife = 液压救援钳
@@ -474,30 +489,40 @@ ent-ActionToggleJetpack = 切换喷气背包
     .desc = 切换喷气背包，使你能在空间站外移动。
 
 ent-JetpackBlue = 喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackBlueFilled = 喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackBlack = 喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackBlackFilled = 喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackCaptain = 舰长喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackCaptainFilled = 舰长喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackMini = 迷你喷气背包
     .desc = 一个喷气背包，可容纳1.5升气体。
 
 ent-JetpackMiniFilled = 迷你喷气背包
+    .desc = 这是一个喷气背包，可容纳 1.5 升气体。
 
 ent-JetpackSecurity = 安保迷你喷气背包
     .desc = 安保人员巡逻空间站外部时使用的紧凑型喷气背包。不适合长途移动，只能容纳1.5升气体。
 
 ent-JetpackVoid = 虚空喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackVoidFilled = 虚空喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 ent-JetpackXenoborg = 异星赛博格喷气背包
+    .desc = 这是一个喷气背包，可容纳 5 升气体。
 
 
 ent-LightReplacer = 灯管更换器
@@ -561,10 +586,13 @@ ent-BasePKAUpgrade = PKA改装套件
     .desc = 原型动能加速器的改装套件。
 
 ent-PKAUpgradeDamage = PKA改装套件（伤害）
+    .desc = 用于原型动能加速器的改装套件。
 
 ent-PKAUpgradeRange = PKA改装套件（射程）
+    .desc = 用于原型动能加速器的改装套件。
 
 ent-PKAUpgradeFireRate = PKA改装套件（射速）
+    .desc = 用于原型动能加速器的改装套件。
 
 
 ent-SprayPainter = 喷漆器
@@ -983,51 +1011,73 @@ ent-MagazineFoamBox = L6SAW弹链箱（泡沫飞镖）
 
 
 ent-BulletAntiMateriel = 弹头（.60反器材）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletCaselessRifle = 弹头（.25无壳）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletCaselessRiflePractice = 弹头（.25无壳训练弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-PelletClusterRubber = 弹丸（球形，橡胶）
+    .desc = 如果你能看清它，你多半已经死了！
 
 ent-PelletClusterLethal = 弹丸（球形，致命）
+    .desc = 如果你能看清它，你多半已经死了！
 
 ent-PelletClusterIncendiary = 弹丸（球形，燃烧弹）
+    .desc = 如果你能看清它，你多半已经死了！
 
 ent-PelletClusterLessLethal = 弹丸（球形，低致命）
+    .desc = 如果你能看清它，你多半已经死了！
 
 
 ent-BulletHeavyRifle = 弹头（.10步枪）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletMinigun = 转管机枪弹头（.10步枪）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletLightRifle = 弹头（.30步枪）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletLightRiflePractice = 弹头（.30步枪训练弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletLightRifleIncendiary = 弹头（.30步枪燃烧弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletLightRifleUranium = 弹头（.30步枪铀芯弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletMagnum = 弹头（.45马格南）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletMagnumPractice = 弹头（.45马格南训练弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletMagnumIncendiary = 弹头（.45马格南燃烧弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletMagnumAP = 弹头（.45马格南穿甲弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletMagnumUranium = 弹头（.45马格南铀芯弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BulletPistol = 弹头（.35自动）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletPistolPractice = 弹头（.35自动训练弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletPistolIncendiary = 弹头（.35自动燃烧弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletPistolUranium = 弹头（.35自动铀芯弹）
+    .desc = 如果你能看到这个，那你多半已经死了！

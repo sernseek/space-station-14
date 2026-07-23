@@ -20,8 +20,10 @@ ent-BaseBarrelChemRadioactive = 放射性废料桶
     .desc = 它似乎有点泄漏。你大概不想在旁边待太久。
 
 ent-filingCabinet = 文件柜
+    .desc = 一个能满足你所有文件归档需求的柜子。
 
 ent-filingCabinetTall = 高文件柜
+    .desc = 一个能满足你所有文件归档需求的柜子。
 
 ent-filingCabinetDrawer = 抽屉柜
     .desc = 满足你所有归档需求的小抽屉柜，现在还有轮子！

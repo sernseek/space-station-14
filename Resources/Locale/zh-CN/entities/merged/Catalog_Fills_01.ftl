@@ -101,8 +101,10 @@ ent-BoxAgrichem = NT“农化真有趣”套装
     .desc = 献给准备学习如何最大限度提高农场产量的新晋植物学家。这个褪色盒子至少有 50 年历史了。
 
 ent-BoxLightbulbColorfulMixed = 彩色混装灯泡盒
+    .desc = 盒内形状经过特殊设计，只能装下灯管和灯泡。
 
 ent-BoxLighttubeColorfulMixed = 彩色混装灯管盒
+    .desc = 盒内形状经过特殊设计，只能装下灯管和灯泡。
 
 ent-CrateHydroponicsSeedsExotic = 异域种子箱
     .desc = 每位创业型植物学家的梦想。内含多种异域种子。需要水培权限才能打开。
@@ -360,15 +362,22 @@ ent-CrateSyndicateSuperSurplusBundle = 辛迪加超级剩余物资箱
     .desc = 内含价值 125 遥晶的完全随机辛迪加物品。
 
 ent-BriefcaseWeaponHushpupFilled = Hushpup 安全武器箱
+    .desc = 对梦想成为雇佣兵的人很有用，无论你为公司、国家还是别的什么而战。也可以拿来做一份特别大的煎蛋卷。
 
 ent-BriefcaseWeaponC20Filled = C-20r 安全武器箱
+    .desc = 对梦想成为雇佣兵的人很有用，无论你为公司、国家还是别的什么而战。也可以拿来做一份特别大的煎蛋卷。
 
 ent-BriefcaseWeaponBulldogFilled = 斗牛犬安全武器箱
+    .desc = 对梦想成为雇佣兵的人很有用，无论你为公司、国家还是别的什么而战。也可以拿来做一份特别大的煎蛋卷。
 
 ent-BriefcaseWeaponChinaLakeFilled = 中国湖安全武器箱
+    .desc = 对梦想成为雇佣兵的人很有用，无论你为公司、国家还是别的什么而战。也可以拿来做一份特别大的煎蛋卷。
 
 ent-NitrogenTankFilled = 氮气罐
+    .desc = 用于储存氮气的标准圆柱形气罐。可容纳 5 升气体。
 
 ent-NitrousOxideTankFilled = 一氧化二氮气罐
+    .desc = 内含空气与一氧化二氮的混合气体。切勿用纯 N2O 重新灌装。可容纳 5 升气体。
 
 ent-PlasmaTankFilled = 等离子体罐
+    .desc = 内含危险的等离子体。请勿吸入。极度易燃。可容纳 5 升气体。

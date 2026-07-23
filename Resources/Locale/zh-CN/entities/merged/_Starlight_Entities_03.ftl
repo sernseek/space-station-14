@@ -265,10 +265,13 @@ ent-NTNCBorgChassisHAW = NT-NC H.A.W 型
     .desc = 纳米传讯生产的特制底盘，用于协助中央指挥部部队执行任务。H.A.W（危险突击步行机）配有重型武器和专用权限配置器，可立即取得通行权限。 # SL
 
 ent-BorgSecuritySubtypeBase = 安保赛博格子类型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgCargoSubtypeBase = 货运赛博格子类型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgPurrfusSubtypeBase = 呼噜型赛博格子类型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BaseStationBorgiChassis = 智能博基
     .desc = 一只异常聪明的狗，喜欢宣读自己的法则。
@@ -277,138 +280,202 @@ ent-BaseSyndicateBorgiChassis = 辛迪加博基
     .desc = 一只异常聪明、却一心只想杀戮的狗。
 
 ent-BorgChassisSyndicateStealth = 辛迪加隐形赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisSecurity = 安保赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisSecurityPowered = 安保赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisPurrfus = 呼噜型赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-PurrfusBorgChassisDerelict = 废弃呼噜型赛博格
     .desc = 呼噜型的人机混合体。这一台已经严重失修。
 
 ent-BorgChassisCargo = 货运赛博格
+    .desc = 协助空间站作业的人机混合体。它们就喜欢被人一遍又一遍地要求复述法则。
 
 ent-BorgChassisTSF = TSMC 突击赛博格
     .desc = TSMC 使用的专用突击硅基。
 
 ent-BorgEngineerSubtypeStandard = 标准型 # ITS ISNT A TYPO ITS STANDARD INSTEAD OF STANDART
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeAntique = 古董型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeNoble = 贵族-工程
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeTallborgMMeka = MMeka 工程型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgEngineerSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgGenericSubtypeGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgGenericSubtypeDroid = 仿生人
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgGenericSubtypeNoble = 贵族-标准
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgGenericSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeStandard = 标准型 # ITS ISNT A TYPO ITS STANDARD INSTEAD OF STANDART
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeMopbot = 拖地机器人
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeNoble = 贵族-清洁
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeTallborgMMeka = MMeka 清洁型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgJanitorSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeStandard = 标准型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeNeedles = 针刺型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeDroid = 高级仿生人
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeNoble = 贵族-医疗
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeTallborgMMeka = MMeka 医疗型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMedicalSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMiningStandard = 标准型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMiningGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeDroid = 高级仿生人
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMiningNoble = 贵族-采掘
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMiningCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMiningBeetle = 甲虫
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeTallborgMMeka = MMeka 打捞型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeStandard = 标准型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeGeneric = 通用型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeWaitress = 女服务员
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeBrobot = 兄弟机器人
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeMaximillion = 马克西米利安
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeNoble = 贵族-服务
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeTallborgMMeka = Meka 服务型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgServiceSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeRedKnight = 红骑士
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeBlackKnight = 黑骑士
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeStandard = 标准型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeNoble = 贵族-安保
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgSecuritySubtypeHeavy = 重型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeCargoStandard = 标准型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeCargoNoble = 贵族-补给
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeCargoCricket = 蟋蟀
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgMiningSubtypeCargoRealTech = 真正的货运技师
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgCargoSubtypeTallborgMeka = Meka 货运型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgCargoSubtypeTallborgMMeka = MMeka 货运型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgCargoSubtypeMezo = 梅佐
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgPurrfusSubtypeGreen = 绿色呼噜型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgPurrfusSubtypeOrange = 橙色呼噜型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-BorgPurrfusSubtypePink = 粉色呼噜型
+    .desc = 供其他子类型使用的默认状态。
 
 ent-DerelictBorgiChassis = 废弃博基
     .desc = 这么多年过去了，它依然喜欢追着自己的尾巴跑。
@@ -429,17 +496,22 @@ ent-XenoBorgiChassis = 异种博基
     .desc = 一种试图自我复制的人机混合体。它们喜欢取出大脑并装入崭新的异种赛博格底盘，以壮大自己的军队。这一只似乎是博基型，为了长出双手支援其他异种赛博格而换上了劣质血肉。
 
 ent-FilledXenoBorgiChassis = 异种博基
+    .desc = 一种以自我复制为目标的人机混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体，以此壮大军队。这只似乎属于博基型号：牺牲了肉体性能，换来一双能协助其他异种赛博格的手。
 
 ent-XenoBorgiDerelictBase = 废弃异种博基
     .desc = 这么多年过去了，它依然喜欢蓝色。
 
 ent-XenoborgEngiDerelict = 废弃工程异种赛博格
+    .desc = 一种试图自我复制的人机混合体。这一台显然已不复当年。
 
 ent-XenoborgHeavyDerelict = 废弃重型异种赛博格
+    .desc = 一种试图自我复制的人机混合体。这一台显然已不复当年。
 
 ent-XenoborgScoutDerelict = 废弃侦察异种赛博格
+    .desc = 一种试图自我复制的人机混合体。这一台显然已不复当年。
 
 ent-XenoborgStealthDerelict = 废弃隐形异种赛博格
+    .desc = 一种试图自我复制的人机混合体。这一台显然已不复当年。
 
 ent-MobXenoroach = 异种蟑螂
     .desc = 异种赛博格母舰制造的微型生物机械间谍机器人。它的处理能力不足以完成复杂任务，但小巧的身形使其能轻松钻过通风口和门缝。
@@ -508,6 +580,7 @@ ent-MobMonkeyStirStir = 搅搅
     .desc = 一只声名狼藉、不可信任的猴子。真正的牢房常客。
 
 ent-MobMouseRemy = 雷米
+    .desc = 吱吱！
 
 ent-MobAdminMouse = 管理员老鼠
     .desc = 一只惹是生非的老鼠，多半会以某种方式促成你的死亡。
@@ -519,54 +592,76 @@ ent-MobSpiderlingBase = 幼蛛
     .desc = 一只小蜘蛛，会长成某种未知、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorRed = 幼蛛
+    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorGray = 幼蛛
+    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorGreen = 幼蛛
+    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingSpiderAngry = 幼蛛
+    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
 
 ent-MobTerrorSpider = 恐怖蜘蛛
     .desc = 巨型蜘蛛与异形的致命混合体。
 
 ent-MobTerrorRedUnevolvable = 红色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorRed = 红色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGrayUnevolvable = 灰色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGray = 灰色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGreenUnevolvable = 绿色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGreen = 绿色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorBlackUnevolvable = 黑色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorBlack = 黑色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorPurpleUnevolvable = 紫色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorPurple = 紫色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorWhiteUnevolvable = 白色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorWhite = 白色恐蛛
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorPrince = 恐蛛王子
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorPrincess = 恐蛛公主
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorMother = 恐蛛之母
+    .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobXenoAdmeme = 掘穴者
     .desc = 它们大多在夜里出现。大多如此。
 
 ent-MobXenoRunnerAdmeme = 禁卫
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoRounyAdmeme = 罗尼
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-MobXenoSpitterAdmeme = 喷吐者
+    .desc = 它们大多在夜里出没。大多如此。
 
 ent-XenobiologySlimeGray = 灰色异种生物学史莱姆
     .desc = 灰色
@@ -648,6 +743,7 @@ ent-ActionToggleAGhostHide = 切换对其他人的可见性
 ent-MobArachnid = 乌里斯特·麦克网
 
 ent-CorruptHonkmother = 呵叫之母
+    .desc = 此处插入一则搞笑双关
 
 ent-MobDiona = 乌里斯特·麦克植物
 
@@ -716,6 +812,7 @@ ent-RandomHumanoidSpawnerCBURNCorpsman = CBURN 医务兵
 ent-MobLagomorph = 乌里斯特·麦克兔兔
 
 ent-PureHonkmother = 呵叫之母
+    .desc = 在此插入一句好笑的双关语。
 
 ent-MobReptilian = 乌里斯特·麦克鳞片
 
@@ -726,6 +823,7 @@ ent-MobShadekin = 乌里斯特·麦克暗影
 ent-MobBrighteye = 乌里斯特·麦克明眼
 
 ent-TSFtationAi = 太阳政府 AI 核心
+    .desc = 最新型的人工智能。
 
 ent-MobHumanTerminator = 终结者
 

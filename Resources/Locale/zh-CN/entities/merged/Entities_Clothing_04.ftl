@@ -107,16 +107,22 @@ ent-UniformShortsRedWithTop = 带上衣的拳击短裤
     .desc = 这是短裤，不是内裤。
 
 ent-ClothingRandomSpawner = 随机彩色服装
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-ClothingUniformRandomArmless = 彩色无袖服装
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-ClothingUniformRandomStandard = 彩色服装
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-ClothingUniformRandomBra = 彩色胸衣
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-ClothingUniformRandomShorts = 彩色长裤
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-ClothingUniformRandomShirt = 彩色服装
+    .desc = 由神经网络根据最新时尚潮流生成。
 
 ent-UniformScrubsColorPurple = 紫色手术服
     .desc = 舒适性与实用性的结合，旨在让你掏空某人的每一件器官，再把它们卖给太空机器人时显得正式得多。

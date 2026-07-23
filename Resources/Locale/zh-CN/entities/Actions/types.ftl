@@ -83,6 +83,7 @@ ent-ActionGravityJump = 跳跃
     .desc = 启动先进推进系统，朝视线方向推进一小段距离。
 
 ent-ActionJumpBoost = 跳跃助推
+    .desc = 启动高级推进系统后，你会朝视线方向推进一小段距离。
 
 ent-ActionVulpkaninGravityJump = 飞跃
     .desc = 用灵活的双腿向前跃出一小段距离。小心别撞到东西！

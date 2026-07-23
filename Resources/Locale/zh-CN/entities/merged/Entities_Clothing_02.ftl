@@ -2,64 +2,94 @@ ent-ClothingHeadHatHoodWinterCentcom = 中央指挥部冬季外套兜帽
     .desc = 一件中央指挥部冬季外套兜帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatHoodWinterChem = 药剂师冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCMO = 医疗主管的冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterEngineer = 工程师冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHOP = 人事主管的冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHOS = 安保主管的冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterHydro = 水培员外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterJani = 清洁工外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMed = 医疗人员外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMime = 哑剧演员外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterMiner = 矿工外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterPara = 急救员外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterQM = 军需官的外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterRD = 研究主管的外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterRobo = 机器人专家外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSci = 科学家外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSec = 安保外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterSyndie = 辛迪加外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterWarden = 典狱长的外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterWeb = 战术外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBlack = 黑色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorPurple = 紫色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorRed = 红色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBlue = 蓝色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorBrown = 棕色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorGray = 灰色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorGreen = 绿色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorLightBrown = 浅色棕色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorOrange = 橙色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorWhite = 白色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterColorYellow = 黄色冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodVoidCloak = 虚空斗篷兜帽
     .desc = 一件虚空斗篷兜帽，兼具实用性与独特风格。
@@ -125,81 +155,97 @@ ent-ClothingHeadHatBluesoft = 蓝色帽
     .desc = 一件蓝色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatBluesoftFlipped = 蓝色帽
+    .desc = 一顶蓝色棒球帽。
 
 ent-ClothingHeadHatCargosoft = 货运帽
     .desc = 一件货运帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatCargosoftFlipped = 货运帽
+    .desc = 配色与货运部制服相称的棒球帽。
 
 ent-ClothingHeadHatQMsoft = 军需官的帽
     .desc = 一件军需官的帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatQMsoftFlipped = 军需官的帽
+    .desc = 配色与军需官制服相称的棒球帽。
 
 ent-ClothingHeadHatCommandSoft = 指挥部帽
     .desc = 一件指挥部帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatCommandSoftFlipped = 指挥部帽
+    .desc = 采用指挥部标志性蓝色的棒球帽。
 
 ent-ClothingHeadHatCorpsoft = 公司帽
     .desc = 一件公司帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatCorpsoftFlipped = 公司帽
+    .desc = 采用公司配色的棒球帽。
 
 ent-ClothingHeadHatGreensoft = 绿色帽
     .desc = 一件绿色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatGreensoftFlipped = 绿色帽
+    .desc = 一顶绿色棒球帽。
 
 ent-ClothingHeadHatBlacksoft = 黑色帽
     .desc = 一件黑色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatBlacksoftFlipped = 黑色帽
+    .desc = 一顶黑色棒球帽。
 
 ent-ClothingHeadHatGreysoft = 灰色帽
     .desc = 一件灰色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatGreysoftFlipped = 灰色帽
+    .desc = 一顶灰色棒球帽。
 
 ent-ClothingHeadHatMimesoft = 白色帽
     .desc = 一件白色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatMimesoftFlipped = 白色帽
+    .desc = 一顶白色棒球帽。
 
 ent-ClothingHeadHatOrangesoft = 橙色帽
     .desc = 一件橙色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatOrangesoftFlipped = 橙色帽
+    .desc = 一顶橙色棒球帽。
 
 ent-ClothingHeadHatPurplesoft = 紫色帽
     .desc = 一件紫色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatPurplesoftFlipped = 紫色帽
+    .desc = 一顶紫色棒球帽。
 
 ent-ClothingHeadHatRedsoft = 红色帽
     .desc = 一件红色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatRedsoftFlipped = 红色帽
+    .desc = 一顶红色棒球帽。
 
 ent-ClothingHeadHatSecsoft = 安保帽
     .desc = 一件安保帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatSecsoftFlipped = 安保帽
+    .desc = 配色与安保部制服相称的棒球帽。
 
 ent-ClothingHeadHatYellowsoft = 黄色帽
     .desc = 一件黄色帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatYellowsoftFlipped = 黄色帽
+    .desc = 一顶黄色棒球帽。
 
 ent-ClothingHeadHatBizarreSoft = 捣蛋鬼的帽
     .desc = 一件捣蛋鬼的帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatBizarreSoftFlipped = 捣蛋鬼的帽
+    .desc = 一件确实……古怪的配饰。
 
 ent-ClothingHeadHatParamedicsoft = 急救员帽
     .desc = 一件急救员帽，兼具实用性与独特风格。
 
 ent-ClothingHeadHatParamedicsoftFlipped = 急救员帽
+    .desc = 一顶正面带有十字标志的蓝色棒球帽。
 
 ent-ClothingHeadHatWelding = 焊接面罩
     .desc = 一件焊接面罩，兼具实用性与独特风格。
@@ -277,6 +323,7 @@ ent-ClothingMaskClownBase = 小丑假发与面具
     .desc = 一件小丑假发与面具，兼具实用性与独特风格。
 
 ent-ClothingMaskClownBanana = banana小丑假发与面具
+    .desc = 真正的恶作剧高手才会戴的面部装束。没有假发和面具的小丑是不完整的。
 
 ent-ClothingMaskClownSecurity = 安保小丑假发与面具
     .desc = 一件安保小丑假发与面具，兼具实用性与独特风格。
@@ -336,6 +383,7 @@ ent-ClothingMaskNeckGaiter = 脖套
     .desc = 一件脖套，兼具实用性与独特风格。
 
 ent-ClothingMaskNeckGaiterRed = 红色脖套
+    .desc = 套在脖子上的时髦脖套，也许能挡住宇宙之风？……
 
 ent-ClothingMaskBlushingClown = 红晕小丑面具
     .desc = 一件红晕小丑面具，兼具实用性与独特风格。
@@ -374,24 +422,34 @@ ent-BaseTowel = 基础毛巾
     .desc = 这是基础毛巾。
 
 ent-TowelColorWhite = 白色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorLightBrown = 浅色棕色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorGray = 灰色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorGreen = 绿色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorDarkGreen = 深色绿色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorOrange = 橙色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorBlack = 黑色毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorNT = 纳米传讯brand毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorCentcom = centcom毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-TowelColorSyndicate = 辛迪加毛巾
+    .desc = 想在这儿活下去，你就得知道自己的毛巾在哪儿。
 
 ent-ClothingNeckCloakCentcom = centralcommander的斗篷
     .desc = 一件centralcommander的斗篷，兼具实用性与独特风格。
@@ -774,41 +832,49 @@ ent-ClothingOuterCoatLab = 实验服
     .desc = 一件实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabOpened = 实验服
+    .desc = 一件可防护轻微化学品泼溅的服装。
 
 ent-ClothingOuterCoatLabChem = 药剂师实验服
     .desc = 一件药剂师实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabChemOpened = 药剂师实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，肩部有一道橙色条纹。
 
 ent-ClothingOuterCoatLabViro = 病毒学家实验服
     .desc = 一件病毒学家实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabViroOpened = 病毒学家实验服
+    .desc = 一件能够抵御细菌和病毒的服装，肩部有一道绿色条纹。
 
 ent-ClothingOuterCoatLabGene = 遗传学家实验服
     .desc = 一件遗传学家实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabGeneOpened = 遗传学家实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，肩部有一道蓝色条纹。
 
 ent-ClothingOuterCoatLabCmo = 医疗主管的实验服
     .desc = 一件医疗主管的实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabCmoOpened = 医疗主管的实验服
+    .desc = 为医疗主管定制的蓝色实验服，能更好地防护化学品泼溅和轻微割伤。
 
 ent-ClothingOuterCoatRnd = 科学家实验服
     .desc = 一件科学家实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatRndOpened = 科学家实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，肩部有一道紫色条纹。
 
 ent-ClothingOuterCoatRobo = 机器人专家实验服
     .desc = 一件机器人专家实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatRoboOpened = 机器人专家实验服
+    .desc = 与其说是实验服，不如说是件怪诞外套。血迹也能被糊弄成审美设计的一部分。附带红色垫肩。
 
 ent-ClothingOuterCoatRD = 研究主管实验服
     .desc = 一件研究主管实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatRDOpened = 研究主管实验服
+    .desc = 这件实验服采用顶尖技术织造，其防辐射方式与实验型硬装宇航服相似。
 
 ent-ClothingOuterCoatPirate = 海盗garb
     .desc = 一件海盗garb，兼具实用性与独特风格。
@@ -829,6 +895,7 @@ ent-ClothingOuterCoatParamedicWB = 急救员风衣
     .desc = 一件急救员风衣，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatParamedicWBOpened = 急救员风衣
+    .desc = 急救员值得信赖的风衣，专门抵御太空里的风。
 
 ent-ClothingOuterCoatSyndieCap = 辛迪加的外套
     .desc = 一件辛迪加的外套，兼具实用性与独特风格。
@@ -843,11 +910,13 @@ ent-ClothingOuterCoatLabSeniorResearcher = 资深研究员实验服
     .desc = 一件资深研究员实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabSeniorResearcherOpened = 资深研究员实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，领口和袖口饰有紫色滚边。
 
 ent-ClothingOuterCoatLabSeniorPhysician = 资深医师实验服
     .desc = 一件资深医师实验服，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatLabSeniorPhysicianOpened = 资深医师实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，配有浅蓝色衣袖和橙色腰部滚边。
 
 ent-ClothingOuterCoatSpaceAsshole = 外套of太空asshole
     .desc = 一件外套of太空asshole，兼具实用性与独特风格。
@@ -856,6 +925,7 @@ ent-ClothingOuterCoatExpensive = 昂贵外套
     .desc = 一件昂贵外套，兼具实用性与独特风格。
 
 ent-ClothingOuterCoatExpensiveOpened = 昂贵外套
+    .desc = 非常蓬松的粉色外套，用非常昂贵的毛皮制成（显而易见）。
 
 ent-ClothingOuterHardsuitAtmos = atmos硬装宇航服
     .desc = 一件atmos硬装宇航服，兼具实用性与独特风格。

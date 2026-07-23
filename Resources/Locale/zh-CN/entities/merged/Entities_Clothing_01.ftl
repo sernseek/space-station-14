@@ -77,6 +77,7 @@ ent-ClothingBackpackDeathSquad = 纳米传讯特勤背包 #starlight
     .desc = 装着纳米传讯最令人畏惧的特工所用装备。
 
 ent-ClothingBackpackSyndicate = 辛迪加背包
+    .desc = 背在背上，再往里面装东西。
 
 ent-ClothingBackpackHolding = 储物袋
     .desc = 这是一件储物袋，具有与其用途相符的设计。
@@ -223,8 +224,10 @@ ent-ClothingBackpackSatchelSmugglerUnanchored = 走私者挎包
     .desc = 这是一件走私者挎包，具有与其用途相符的设计。
 
 ent-BriefcaseSmugglerCash = 走私者公文包
+    .desc = 方便用手提着携带物品。
 
 ent-ClothingBackpackDuffelClownSmuggler = 走私者小丑旅行包
+    .desc = 可容纳额外呵叫用品的大号旅行包。
 
 ent-RandomSatchelSpawner = 随机走私者挎包生成器
 
@@ -274,6 +277,7 @@ ent-ClothingBeltSuspendersRed = 红色背带
     .desc = 这是一件红色背带，具有与其用途相符的设计。
 
 ent-ClothingBeltSuspendersBlack = 黑色背带
+    .desc = 用来提住你的裤子。
 
 ent-ClothingBeltStorageWaistbag = 皮革腰包
     .desc = 这是一件皮革腰包，具有与其用途相符的设计。
@@ -490,24 +494,34 @@ ent-SilverRingGem = 银质宝石戒指
     .desc = 这是一件银质宝石戒指，具有与其用途相符的设计。
 
 ent-ClothingHeadBandBlack = 黑色头巾
+    .desc = 让你看起来很酷的黑色头巾。
 
 ent-ClothingHeadBandBlue = 蓝色头巾
+    .desc = 让你看起来很酷的蓝色头巾。
 
 ent-ClothingHeadBandBotany = 植物学头巾
+    .desc = 让你看起来很酷的植物学头巾，以天然纤维制成。
 
 ent-ClothingHeadBandGold = 金头巾
+    .desc = 让你看起来很酷的金色头巾。
 
 ent-ClothingHeadBandGreen = 绿色头巾
+    .desc = 让你看起来很酷的绿色头巾。
 
 ent-ClothingHeadBandGrey = 灰色头巾
+    .desc = 让你看起来很酷的灰色头巾。
 
 ent-ClothingHeadBandRed = 红色头巾
+    .desc = 让你看起来很酷的红色头巾。
 
 ent-ClothingHeadBandSkull = 骷髅头巾
+    .desc = 印着骷髅的头巾，让你看起来更酷了。
 
 ent-ClothingHeadBandMerc = 雇佣兵头巾
+    .desc = 用来保护头部，免受阳光、昆虫及高远征途上其他危险的侵扰。
 
 ent-ClothingHeadBandBrown = 棕色头巾
+    .desc = 让你看起来很酷的棕色头巾。
 
 ent-ClothingHeadHatHardhatBlue = 蓝色安全帽
     .desc = 这是一件蓝色安全帽，具有与其用途相符的设计。
@@ -843,10 +857,13 @@ ent-ClothingHeadHatPartyRed = 红色派对帽
     .desc = 这是一件红色派对帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatPartyYellow = 黄色派对帽
+    .desc = 传播欢乐吧！
 
 ent-ClothingHeadHatPartyGreen = 绿色派对帽
+    .desc = 传播欢乐吧！
 
 ent-ClothingHeadHatPartyBlue = 蓝色派对帽
+    .desc = 传播欢乐吧！
 
 ent-ClothingHeadHatPartyWaterCup = 水杯派对帽
     .desc = 这是一件水杯派对帽，具有与其用途相符的设计。
@@ -861,14 +878,19 @@ ent-ClothingHeadHatCowboyBrown = 棕色牛仔帽
     .desc = 这是一件棕色牛仔帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatCowboyBlack = 黑色牛仔帽
+    .desc = “这顶帽子容不下我们两个。”
 
 ent-ClothingHeadHatCowboyGrey = 灰色牛仔帽
+    .desc = “这顶帽子容不下我们两个。”
 
 ent-ClothingHeadHatCowboyRed = 红色牛仔帽
+    .desc = “这顶帽子容不下我们两个。”
 
 ent-ClothingHeadHatCowboyWhite = 白色牛仔帽
+    .desc = “这顶帽子容不下我们两个。”
 
 ent-ClothingHeadHatCowboyBountyHunter = 赏金猎人牛仔帽
+    .desc = “这顶帽子容不下我们两个。”
 
 ent-ClothingHeadHatStrawHat = 草编帽
     .desc = 这是一件草编帽，具有与其用途相符的设计。
@@ -1003,12 +1025,16 @@ ent-ClothingHeadHatHoodMoth = 蛾人面具
     .desc = 模仿蛾人头部造型的轻质面具，有着大眼睛和长触角，常用于角色扮演和影视拍摄。
 
 ent-ClothingHeadHatHoodWinterDefault = 普通冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterBartender = 酒保冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCaptain = 舰长冬季外套兜帽
     .desc = 这是一件舰长冬季外套兜帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatHoodWinterCargo = 货运冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。
 
 ent-ClothingHeadHatHoodWinterCE = 工程主管冬季外套兜帽
+    .desc = 用来给脑袋保暖的兜帽。

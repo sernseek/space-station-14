@@ -145,33 +145,46 @@ ent-ClothingOuterWinterCoat = 冬季大衣
     .desc = 用“合成”动物毛皮制成的厚重大衣。
 
 ent-ClothingOuterWinterCoatToggleable = 带兜帽的冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterAtmos = 大气冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterBar = 酒保冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCap = 舰长冬季大衣
+    .desc = 结实的大衣，暖和的大衣，但不是装甲大衣。
 
 ent-ClothingOuterWinterCargo = 货运部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCE = 工程主管冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCentcom = 中央指挥部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterChef = 厨师冷库大衣
     .desc = 专为冷库工作设计的大衣，冷血的蜥蜴人厨师尤其需要它。
 
 ent-ClothingOuterWinterChem = 化学冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCMO = 医疗主管冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterClown = 小丑冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterEngi = 工程部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterGen = 遗传学冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterHoP = 人事主管冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterHoS = 安保主管装甲冬季大衣
     .desc = 结实实用的冬季大衣，可保护安保主管免受押往禁闭室的威胁和失温事故伤害。
@@ -180,28 +193,40 @@ ent-ClothingOuterWinterHoSUnarmored = 安保主管冬季大衣
     .desc = 结实又暖和，但没有装甲。
 
 ent-ClothingOuterWinterHydro = 水培冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterJani = 清洁工冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMed = 医疗部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMime = 哑剧演员冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterMiner = 采矿冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterPara = 急救员冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterQM = 军需官冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterRD = 研究主管冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterRobo = 机器人学冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterSci = 科研部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterSec = 安保部冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterViro = 病毒学冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterWarden = 典狱长装甲冬季大衣
     .desc = 结实实用的冬季大衣，可保护典狱长免受禁闭室相关威胁和失温事故伤害。
@@ -225,26 +250,37 @@ ent-ClothingOuterWinterWeb = 蛛网冬季大衣
     .desc = 摸起来像茧的内壁，不过这并不会让你待在茧里时少害怕一点。
 
 ent-ClothingOuterWinterColorBlack = 黑色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorPurple = 紫色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorRed = 红色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorBlue = 蓝色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorBrown = 棕色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorGray = 灰色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorGreen = 绿色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorLightBrown = 浅棕色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorOrange = 橙色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorWhite = 白色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterColorYellow = 黄色冬季大衣
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 
 ent-ClothingShoesBootsWork = 工作靴
@@ -272,16 +308,22 @@ ent-ClothingShoesBootsLaceup = 系带鞋
     .desc = 时尚巅峰，而且出厂前就擦亮了！
 
 ent-ClothingShoesBootsWinter = 冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterCargo = 货运部冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterEngi = 工程部冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterMed = 医疗部冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterSci = 科研部冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterSec = 安保部冬靴
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterSyndicate = 辛迪加冬靴
     .desc = 耐用的厚重靴子，看起来像“辛迪乐园”的周边商品。
@@ -293,10 +335,13 @@ ent-ClothingShoesBootsCowboyBrown = 棕色牛仔靴
     .desc = 靴刺走起来叮叮当当，或者当当叮叮。
 
 ent-ClothingShoesBootsCowboyBlack = 黑色牛仔靴
+    .desc = 靴上的马刺叮铃作响，或是咣啷作响。
 
 ent-ClothingShoesBootsCowboyWhite = 白色牛仔靴
+    .desc = 靴上的马刺叮铃作响，或是咣啷作响。
 
 ent-ClothingShoesBootsCowboyFancy = 华丽牛仔靴
+    .desc = 靴上的马刺叮铃作响，或是咣啷作响。
 
 
 ent-ClothingShoesColorBlack = 黑色鞋
@@ -849,6 +894,7 @@ ent-ClothingUniformJumpsuitClown = 小丑服
     .desc = 呵叫！
 
 ent-ClothingUniformJumpsuitClownBanana = 香蕉小丑服
+    .desc = 呵叫！
 
 ent-ClothingUniformJumpsuitJester = 弄臣服
     .desc = 欢快的服装，正适合逗主人开心，叔叔。

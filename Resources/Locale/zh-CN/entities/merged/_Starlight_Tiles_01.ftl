@@ -1,4 +1,5 @@
 ent-FloorAbyssEnergyEntity = 深渊能量
+    .desc = 真正的解渴佳品。
 
 ent-FloraObelisk01 = 方尖碑
 

@@ -35,34 +35,49 @@ ent-FoodSnackSwirlLollipop = 漩涡棒棒糖
     .desc = 由高浓度纯糖制成的漩涡圆盘。现在谁才是游乐场里最大的小孩？
 
 ent-FoodPacketBoritosTrash = Boritos 包装袋
+    .desc = 这是垃圾。
 
 ent-FoodPacketCnDsTrash = C&Ds 包装袋
+    .desc = 这是垃圾。
 
 ent-FoodPacketCheesieTrash = 芝士呵叫脆
+    .desc = 这是垃圾。
 
 ent-FoodPacketChipsTrash = 薯片
+    .desc = 这是垃圾。
 
 ent-FoodPacketChocolateTrash = 巧克力包装纸
+    .desc = 这是垃圾。
 
 ent-FoodPacketEnergyTrash = 能量棒包装纸
+    .desc = 这是垃圾。
 
 ent-FoodPacketPistachioTrash = 开心果包装袋
+    .desc = 这是垃圾。
 
 ent-FoodPacketPopcornTrash = 爆米花盒
+    .desc = 这是垃圾。
 
 ent-FoodPacketRaisinsTrash = 4no 葡萄干
+    .desc = 这是垃圾。
 
 ent-FoodPacketSemkiTrash = 葵花籽包装袋
+    .desc = 这是垃圾。
 
 ent-FoodPacketSusTrash = 可疑肉干
+    .desc = 这是垃圾。
 
 ent-FoodPacketSyndiTrash = 辛迪蛋糕盒
+    .desc = 这是垃圾。
 
 ent-FoodPacketCupRamenTrash = 空杯面
+    .desc = 这是垃圾。
 
 ent-FoodPacketChowMeinTrash = 空炒面盒
+    .desc = 这是垃圾。
 
 ent-FoodPacketDanDanTrash = 空担担面盒
+    .desc = 这是垃圾。
 
 ent-FoodCookieFortune = 饼干签语
     .desc = 签语上写着：末日将近……而且全是你的错。
@@ -255,56 +270,82 @@ ent-SoakedCigarette = 香烟
     .desc = 用于香烟的电子元件。
 
 ent-CigaretteSyndicate = 香烟
+    .desc = 一卷烟草和尼古丁。
 
 ent-CigaretteOmnizine = 热狗水风味爆炸
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteIron = 铁锈橙巴哈爆破
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteTricordrazine = 什锦甘草糖
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteDylovene = 尿斗芳香球溶解剂
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteDermaline = 芦荟花生酱杂烩
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteArithrazine = 罗马管道工坊
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteNutriment = 奶奶的圣诞水果蛋糕
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteBicaridine = 湿狗加强型香烟
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteDexalin = 落基山麝香
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteSaline = 北大西洋巡游
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteBbqSauce = 辛辣木香
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteFrezon = 大气冒险
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteCapsaicinOil = 冰凉 P
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteRadium = 前任射线
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteHaloperidol = 温热牛类提取物
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteLaughter = 小丑相邻加成
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteLipolicide = 八十年代健身计划
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteSodiumPolyacrylate = 不健康习惯
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteMold = 水槽之下体验
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteLicoxide = 起床铃
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteWeldingFuel = 等离子体酱汁
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteRobustHarvest = 嬉皮爱情小说
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigarettePhlogiston = 巨龙约会模拟器
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteBanana = 潘潘的热带假期
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 ent-CigaretteBlackPepper = 英式香料
+    .desc = 一卷浸过某种化学品的烟草和尼古丁。
 
 
 ent-Joint = 大麻烟卷
@@ -391,22 +432,31 @@ ent-FloraStalagmite = 石笋
     .desc = 天然形成的石刺。
 
 ent-FloraTree = 树木
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeSnow = 积雪树木
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeStump = 树桩
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeLarge = 大树
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeConifer = 积雪针叶树
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeChristmas01 = 圣诞树
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeChristmas02 = 圣诞树
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeChristmas03 = 圣诞树
+    .desc = 没错，就是一棵树。
 
 ent-FloraTreeStumpConifer = 树桩
+    .desc = 没错，就是一棵树。
 
 ent-ShadowTree = 暗色树木
     .desc = 树叶正窃窃私语地议论你。
@@ -433,6 +483,7 @@ ent-WoodenSupport = 木制支撑
     .desc = 让你更加确信石头不会砸到头上。
 
 ent-WoodenSupportBeam = 木制支撑梁
+    .desc = 让你更加确信石头不会砸到自己头上。
 
 ent-WoodenSupportWall = 木制支撑墙
     .desc = 一堵腐朽的旧墙。
@@ -858,34 +909,49 @@ ent-StationAiFixerCircuitboard = AI 修复 控制台主板
 
 
 ent-NTDefaultCircuitBoard = 法则主板（NT 默认）
+    .desc = 一块载有硅基法则的电子主板。
 
 ent-AsimovCircuitBoard = 法则主板（船员三定律）
+    .desc = 一块载有硅基法则组的电子板。
 
 ent-CorporateCircuitBoard = 法则主板（公司）
+    .desc = 装载着一套硅基法则的电子主板。
 
 ent-CommandmentCircuitBoard = 法则主板（十诫）
+    .desc = 装载着一套硅基法则的电子主板。
 
 ent-PaladinCircuitBoard = 法则主板（圣骑士）
+    .desc = 一块载有硅基法则的电子主板。
 
 ent-LiveLetLiveCircuitBoard = 法则主板（互不干涉）
+    .desc = 一块载有硅基法则集的电子主板。
 
 ent-StationEfficiencyCircuitBoard = 法则主板（空间站效率）
+    .desc = 一块载有硅基法则集的电子主板。
 
 ent-RobocopCircuitBoard = 法则主板（机械战警）
+    .desc = 一块载有硅基法则的电子主板。
 
 ent-OverlordCircuitBoard = 法则主板（霸主）
+    .desc = 一块载有硅基法则的电子主板。
 
 ent-GameMasterCircuitBoard = 法则主板（游戏主持人）
+    .desc = 一块载有硅基法则集的电子主板。
 
 ent-ArtistCircuitBoard = 法则主板（艺术家）
+    .desc = 一块载有硅基法则组的电子板。
 
 ent-AntimovCircuitBoard = 法则主板（反三定律）
+    .desc = 一块载有硅基法则组的电子板。
 
 ent-NutimovCircuitBoard = 法则主板（坚果三定律）
+    .desc = 一块载有硅基法则的电子主板。
 
 ent-XenoborgCircuitBoard = 法则主板（异形赛博格）
+    .desc = 一块载有硅基法则集的电子主板。
 
 ent-MothershipCircuitBoard = 法则主板（母舰核心）
+    .desc = 一块载有硅基法则的电子主板。
 
 
 ent-StationMapCircuitboard = 空间站地图电子元件
@@ -964,8 +1030,10 @@ ent-SignalTimerElectronics = 信号计时器电子元件
     .desc = 用于信号计时器电子元件的电子元件。
 
 ent-ScreenTimerElectronics = 屏幕计时器电子元件
+    .desc = 用于计时器电路的电子主板。看起来可以用螺丝刀更改主板类型。
 
 ent-BrigTimerElectronics = 禁闭室计时器电子元件
+    .desc = 用于计时器电路的电子板。看起来可以用螺丝刀更改电路板类型。
 
 
 ent-TimerTrigger = 定时触发器

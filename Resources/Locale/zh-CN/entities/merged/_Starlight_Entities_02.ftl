@@ -41,6 +41,7 @@ ent-ClothingOuterArmorBlueShield = 蓝盾防弹背心
     .desc = 一件按规定配发的蓝盾防弹背心，穿着者的身份一目了然。
 
 ent-ClothingOuterArmorAbductor = 特工背心
+    .desc = 标准Ⅰ型装甲背心，可有效抵御大多数类型的伤害。
 
 ent-ChangelingClothingOuterArmor = 几丁质护甲
     .desc = 一件具有可靠防护性能的几丁质护甲。
@@ -103,11 +104,13 @@ ent-ClothingOuterCoatNtrep = NT代表夹克
     .desc = 一件按规定配发的NT代表夹克，穿着者的身份一目了然。
 
 ent-ClothingOuterCoatNtrepOpen = NT代表夹克
+    .desc = 华丽的黑色夹克，纳米传讯代表的标准配发服装。
 
 ent-ClothingOuterCoatLabSeniorChemist = 资深药剂师实验服
     .desc = 一件具有可靠防护性能的资深药剂师实验服。
 
 ent-ClothingOuterCoatLabSeniorChemistOpened = 资深药剂师实验服
+    .desc = 一件可防护轻微化学品泼溅的服装，配有橙色衣袖、橙色腰部滚边，以及肩部的两道粉色条纹。
 
 ent-ClothingOuterCoatCorpsman = 战地医护兵装甲夹克
     .desc = 一件具有可靠防护性能的战地医护兵装甲夹克。
@@ -116,11 +119,13 @@ ent-ClothingOuterCoatLabBrigmedic = 狱医's怀旧大衣
     .desc = 一件风格鲜明的狱医's怀旧大衣。
 
 ent-ClothingOuterCoatLabBrigmedicOpened = 狱医's怀旧大衣
+    .desc = 一件来自令人怀念的太平岁月的实验服，已经过多次加固。
 
 ent-ClothingOuterCoatLabCorpsman = 战地医护兵怀旧大衣
     .desc = 一件风格鲜明的战地医护兵怀旧大衣。
 
 ent-ClothingOuterCoatLabCorpsmanOpened = 战地医护兵怀旧大衣
+    .desc = 一件经过多次加固的深色实验服。太平日子已经死了。
 
 ent-ClothingOuterCoatSpaceCourier = 太空快递员重型外套
     .desc = 一件剪裁考究的太空快递员重型外套，兼具时尚感与实用性。
@@ -141,51 +146,61 @@ ent-ClothingOuterSecurityBomber = 安保飞行夹克
     .desc = 一件具有可靠防护性能的安保飞行夹克。
 
 ent-ClothingOuterSecurityBomberOpened = 安保飞行夹克
+    .desc = 普通的飞行夹克，不过加了装甲衬片。
 
 ent-ClothingOuterWindbreakerSecurity = 安保风衣
     .desc = 一件剪裁考究的安保风衣，兼具时尚感与实用性。
 
 ent-ClothingOuterWindbreakerSecurityOpened = 安保风衣
+    .desc = 一件时髦的红色风衣，额外嵌有护板衬垫，供安保人员使用。
 
 ent-ClothingOuterWindbreakerCargo = 货运风衣
     .desc = 一件保暖舒适的货运风衣。
 
 ent-ClothingOuterWindbreakerCargoOpened = 货运风衣
+    .desc = 一件带毛领的简约风衣。
 
 ent-ClothingOuterWindbreakerEngineering = engineering风衣
     .desc = 一件engineering风衣，有着与众不同的来历与风格。
 
 ent-ClothingOuterWindbreakerEngineeringOpened = engineering风衣
+    .desc = 供工程师穿着的反光风衣。
 
 ent-ClothingOuterWindbreakerMedical = medical风衣
     .desc = 一件medical风衣，有着与众不同的来历与风格。
 
 ent-ClothingOuterWindbreakerMedicalOpened = medical风衣
+    .desc = 一件浅色风衣，好让你误割动脉时看得一清二楚。
 
 ent-ClothingOuterCoatLabSeniorChemistLong = 长款资深药剂师实验服
     .desc = 一件按规定配发的长款资深药剂师实验服，穿着者的身份一目了然。
 
 ent-ClothingOuterCoatLabSeniorChemistLongOpened = 长款资深药剂师实验服
+    .desc = 纳米传讯医务人员标准实验服的长款，饰有亮橙色与紫色细节。
 
 ent-ClothingOuterCoatLabVirologyLong = 长款病毒学家实验服
     .desc = 一件按规定配发的长款病毒学家实验服，穿着者的身份一目了然。
 
 ent-ClothingOuterCoatLabVirologyLongOpened = 长款病毒学家实验服
+    .desc = 纳米传讯医务人员标准实验服，饰有亮绿色细节。
 
 ent-ClothingOuterCoatLabBlackLong = 长款黑色实验服
     .desc = 一件按规定配发的长款黑色实验服，穿着者的身份一目了然。
 
 ent-ClothingOuterCoatLabBlackLongOpened = 长款黑色实验服
+    .desc = 纳米传讯医务人员标准实验服的黑色款。
 
 ent-ClothingOuterCoatLabCoronerLong = 长款验尸官实验服
     .desc = 一件按规定配发的长款验尸官实验服，穿着者的身份一目了然。
 
 ent-ClothingOuterCoatLabCoronerLongOpened = 长款验尸官实验服
+    .desc = 纳米传讯医务人员标准实验服的黑色款，饰有白色细节。
 
 ent-ClothingOuterWindbreakerScience = science风衣
     .desc = 一件实用的science风衣，还带有方便收纳物品的口袋。
 
 ent-ClothingOuterWindbreakerScienceOpened = science风衣
+    .desc = 实验服款式的风衣，带有一个能装下你所有笔的口袋。
 
 ent-ClothingOuterCoatWardenCentcomm = 中央指挥部装甲冬季外套
     .desc = 一件剪裁考究的中央指挥部装甲冬季外套，兼具时尚感与实用性。
@@ -374,8 +389,10 @@ ent-ClothingOuterSoftsuitWizard = 巫师void长袍
     .desc = 一件具有可靠防护性能的巫师void长袍，可抵御太空环境。
 
 ent-ClothingOuterWinterChemSenior = 资深化学冬季外套
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterCargoSenior = 礼服货运冬季外套
+    .desc = 用“合成”动物毛皮制成的厚重夹克。
 
 ent-ClothingOuterWinterDutyOfficer = 值班干员's装甲冬季外套
     .desc = 一件具有可靠防护性能的值班干员's装甲冬季外套。
@@ -393,8 +410,10 @@ ent-ClothingShoesBootsSeniorMail = 资深邮件技师靴子
     .desc = 一件剪裁考究的资深邮件技师靴子，兼具时尚感与实用性。
 
 ent-ClothingShoesBootsWinterChem = 化学winter靴子
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingShoesBootsWinterSeniorCourier = 礼服货运winter靴子
+    .desc = 毛茸茸的靴子，助你熬过最严寒的冬天。
 
 ent-ClothingUniformBootsVampir = 染血贵族靴子
     .desc = 一件颇有年代感的染血贵族靴子，承载着往昔的痕迹。
@@ -884,6 +903,7 @@ ent-ClothingUniformJumpsuitSoviet = 旧式战争制服
 ent-ClothingUniformJumpsuitAbductor = 绑架者制服
 
 ent-ClothingUniformJumpsuitAtmosSyndie = 柔术师连体衣
+    .desc = 我在上班。我不能下班。工作就是呼吸。我在检测空气质量。
 
 ent-MagistrateUniformSuit = 裁判官's连体衣
 

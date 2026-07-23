@@ -18,3 +18,4 @@ ent-MobSecurityCadet = 安保学员
     .desc = 你被随机地随机选中，接受一次随机搜查
 
 ent-MobSecurityCadetHostile = 安保学员
+    .desc = 你已被随机地随机选中，接受一次随机搜查。

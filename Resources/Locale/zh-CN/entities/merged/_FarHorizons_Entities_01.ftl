@@ -51,23 +51,31 @@ ent-BaseGasTurbineBlade = 燃气轮机叶片
     .desc = 燃气轮机的替换叶片。
 
 ent-SteelGasTurbineBlade = 钢制燃气轮机叶片
+    .desc = 燃气轮机的替换叶片。
 
 ent-BrassGasTurbineBlade = 黄铜燃气轮机叶片
+    .desc = 燃气轮机的替换叶片。
 
 ent-DiamondGasTurbineBlade = 钻石燃气轮机叶片
+    .desc = 燃气轮机的替换叶片。
 
 ent-GoldGasTurbineBlade = 黄金燃气轮机叶片
+    .desc = 燃气轮机的替换叶片。
 
 ent-PlasteelGasTurbineBlade = 塑钢燃气轮机叶片
+    .desc = 燃气轮机的替换叶片。
 
 ent-BaseGasTurbineStator = 燃气轮机定子
     .desc = 燃气轮机的替换定子。
 
 ent-SteelGasTurbineStator = 钢制燃气轮机定子
+    .desc = 燃气轮机的替换定子。
 
 ent-SilverGasTurbineStator = 银制燃气轮机定子
+    .desc = 燃气轮机的替换定子。
 
 ent-GoldGasTurbineStator = 黄金燃气轮机定子
+    .desc = 燃气轮机的替换定子。
 
 ent-BaseReactorFuelRod = 燃料棒
     .desc = 核反应堆使用的燃料棒。
@@ -82,70 +90,100 @@ ent-BaseReactorHeatExchanger = 换热棒
     .desc = 核反应堆使用的换热器。
 
 ent-CerenkiteReactorFuelRod = 瑟伦矿燃料棒 # These are your basic, semi-harmless fuel rods
+    .desc = 核反应堆用燃料棒。
 
 ent-UraniumReactorFuelRod = 铀燃料棒
+    .desc = 核反应堆的燃料棒。
 
 ent-PlutoniumReactorFuelRod = 钚燃料棒
+    .desc = 核反应堆的燃料棒。
 
 ent-BananiumReactorFuelRod = 香蕉矿燃料棒
     .desc = 核反应堆使用的鸣笛棒。
 
 ent-PlasmaReactorFuelRod = 等离子体燃料棒
+    .desc = 核反应堆的燃料棒。
 
 ent-UraniumGlassReactorFuelRod = 铀玻璃燃料棒
+    .desc = 核反应堆的燃料棒。
 
 ent-MeatReactorFuelRod = 肉质燃料棒
     .desc = 燃料棒——等等，它是不是活的？
 
 ent-BohrumReactorControlRod = 玻尔合金控制棒 # what the crew start with
+    .desc = 核反应堆用控制棒组件。
 
 ent-SteelReactorControlRod = 钢制控制棒
+    .desc = 核反应堆的控制棒组件。
 
 ent-GoldReactorControlRod = 黄金控制棒
+    .desc = 核反应堆使用的控制棒组件。
 
 ent-SilverReactorControlRod = 银制控制棒
+    .desc = 核反应堆的控制棒组件。
 
 ent-BrassReactorControlRod = 黄铜控制棒
+    .desc = 核反应堆用控制棒组件。
 
 ent-PlasteelReactorControlRod = 塑钢控制棒
+    .desc = 核反应堆的控制棒组件。
 
 ent-GlassReactorControlRod = 玻璃控制棒
+    .desc = 核反应堆使用的控制棒组件。
 
 ent-PlasmaGlassReactorControlRod = 等离子玻璃控制棒
+    .desc = 核反应堆的控制棒组件。
 
 ent-DiamondReactorControlRod = 钻石控制棒
+    .desc = 用于核反应堆的控制棒组件。
 
 ent-SteelReactorGasChannel = 钢制气体通道棒
+    .desc = 核反应堆的气体通道。
 
 ent-GoldReactorGasChannel = 黄金气体通道棒
+    .desc = 核反应堆使用的气体通道。
 
 ent-SilverReactorGasChannel = 银制气体通道棒
+    .desc = 核反应堆的气体通道。
 
 ent-BrassReactorGasChannel = 黄铜气体通道棒
+    .desc = 核反应堆用气体通道。
 
 ent-PlasteelReactorGasChannel = 塑钢气体通道棒
+    .desc = 核反应堆的气体通道。
 
 ent-GlassReactorGasChannel = 玻璃气体通道棒
+    .desc = 核反应堆使用的气体通道。
 
 ent-PlasmaGlassReactorGasChannel = 等离子玻璃气体通道棒
+    .desc = 核反应堆的气体通道。
 
 ent-DiamondReactorGasChannel = 钻石气体通道棒
+    .desc = 用于核反应堆的气体通道。
 
 ent-SteelReactorHeatExchanger = 钢制换热棒
+    .desc = 核反应堆的换热器。
 
 ent-GoldReactorHeatExchanger = 黄金换热棒
+    .desc = 核反应堆使用的换热器。
 
 ent-SilverReactorHeatExchanger = 银制换热棒
+    .desc = 核反应堆的换热器。
 
 ent-BrassReactorHeatExchanger = 黄铜换热棒
+    .desc = 核反应堆用换热器。
 
 ent-PlasteelReactorHeatExchanger = 塑钢换热棒
+    .desc = 核反应堆的换热器。
 
 ent-GlassReactorHeatExchanger = 玻璃换热棒
+    .desc = 核反应堆使用的换热器。
 
 ent-PlasmaGlassReactorHeatExchanger = 等离子玻璃换热棒
+    .desc = 核反应堆的换热器。
 
 ent-DiamondReactorHeatExchanger = 钻石换热棒
+    .desc = 用于核反应堆的换热器。
 
 ent-MatBag = 建材袋
     .desc = 一个粗糙、肮脏又结实的重型建材袋，侧面胡乱焊着一块磁铁。它既能放进背包，也能像腰带一样挂在胯上。
@@ -180,6 +218,7 @@ ent-BaseNuclearReactor = 核反应堆
     .desc = 一个带有燃料棒及其他部件插槽的核反应堆容器。等等，这玩意以前是不是炸过一次？
 
 ent-BaseNuclearReactorSmall = 小型核反应堆
+    .desc = 配有燃料棒和其他部件插槽的核反应堆容器。等等，这玩意儿以前是不是炸过一次？
 
 ent-NuclearReactorSmallMelted = 熔毁的小型核反应堆
     .desc = 一个损坏的核反应堆容器，正因高温和辐射而发光。

@@ -14,41 +14,55 @@ ent-BaseLightTubeCrystal = 水晶灯管
     .desc = 一种高功率高能量灯泡，内部有一个小彩色水晶。
 
 ent-LightTubeCrystalCyan = 青色水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalBlue = 蓝水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalYellow = 黄色水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalPink = 粉色水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalOrange = 橙色水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalBlack = 黑水晶灯管
     .desc = 一种高功率高能量灯泡，内部有一个小彩色水晶。不是很亮。
 
 ent-LightTubeCrystalRed = 红水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightTubeCrystalGreen = 绿色水晶灯管
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-BaseLightbulbCrystal = 水晶灯泡
     .desc = 一款高功率高能量灯泡，内部有一个小彩色水晶。
 
 ent-LightBulbCrystalCyan = 青色水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalBlue = 蓝色水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalYellow = 黄色水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalPink = 粉色水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalOrange = 橙色水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalBlack = 黑水晶灯泡
     .desc = 一种高功率高能量灯泡，内部有一个小彩色水晶。不是很亮。
 
 ent-LightBulbCrystalRed = 红水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-LightBulbCrystalGreen = 绿水晶灯泡
+    .desc = 一种高功率、高能耗的灯泡，里面装着一小块彩色水晶。
 
 ent-PowerCellPotato = 土豆电池
     .desc = 有人在一个大土豆里扎了两个钉子和一些电线。不知怎的，它提供了一点费用。
@@ -484,6 +498,7 @@ ent-MegaSprayBottle = 巨型喷雾瓶
     .desc = 巨大的喷雾瓶，具有无与伦比的清洁能力。
 
 ent-SprayBottleWater = 喷雾瓶
+    .desc = 一个瓶盖可以拧下来的喷雾瓶。
 
 ent-BorgSprayBottle = 内喷式
     .desc = 用于喷射试剂的加压容器，直接安装到保管机器人中。通常填充有空间清洁剂，用于处理那些令人讨厌的溢出物。
@@ -647,56 +662,82 @@ ent-HealingToolbox = 治愈工具箱
     .desc = 充满活力的强大工具箱。它可以治愈你的伤口，让你充满杀机。
 
 ent-PillDexalin = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterDexalin = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillDylovene = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterDylovene = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillHyronalin = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterHyronalin = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillPotassiumIodide = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterPotassiumIodide = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillIron = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCopper = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterIron = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillCanisterCopper = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillKelotane = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterKelotane = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillDermaline = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterDermaline = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillSpaceDrugs = 太空海市蜃楼
+    .desc = 这可不是栓剂。
 
 ent-PillTricordrazine = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterTricordrazine = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillBicaridine = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterBicaridine = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillCharcoal = 丸
+    .desc = 这可不是栓剂。
 
 ent-PillCanisterCharcoal = 药丸罐
+    .desc = 最多可装 10 颗药丸。
 
 ent-PillRomerol = 罗默罗丸
+    .desc = 这可不是栓剂。
 
 ent-PillAmbuzol = 安布佐丸
+    .desc = 这可不是栓剂。
 
 ent-PillAmbuzolPlus = 安布佐加丸
+    .desc = 这可不是栓剂。
 
 ent-HandheldHealthAnalyzer = 健康分析仪
     .desc = 一款能够区分对象生命体征的手持式人体扫描仪。

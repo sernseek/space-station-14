@@ -95,10 +95,13 @@ ent-BoxCourierPAI = 太空信使衣箱
     .desc = 以传奇太空信使为主题的时髦绿色服装套装。在热门点评网站上排名 9/13！
 
 ent-BoxEncryptionKeyExpedition = 远征加密密钥箱
+    .desc = 一盒备用加密密钥。
 
 ent-BoxEncryptionKeySalvage = 打捞加密密钥箱
+    .desc = 一盒备用加密密钥。
 
 ent-Boxblacklight = 黑光灯箱
+    .desc = 盒内形状经过特殊设计，只能装下灯管和灯泡。
 
 ent-BoxBeakerSmall = 小烧杯箱
     .desc = 装有四个小烧杯的箱子。
@@ -247,8 +250,10 @@ ent-CrateVendingMachineRestockIceCreamFilled = 冰淇淋补货箱
 ent-SyndieDeadDropSpawner = 辛迪加最高指挥部 # Used for radio announcement
 
 ent-BriefcaseSyndieDeadDrop = 辛迪加公文包
+    .desc = 方便用手提着携带物品。
 
 ent-BriefcaseWeaponDMRFilled = 安全细剑箱
+    .desc = 对梦想成为雇佣兵的人很有用，无论你为公司、国家还是别的什么而战。也可以拿来做一份特别大的煎蛋卷。
 
 ent-HealiumTankEmpty = 催眠气体罐
     .desc = 内含空气与催眠气体的混合物。将压力保持在 65，应该连呼吸氮气的生物也能放倒。可容纳 5 L 气体。
@@ -260,122 +265,178 @@ ent-SecureBriefings = 安全简报文件
     .desc = 一套用于向安保部新成员介绍情况的机密文件。
 
 ent-ToolboxElectricalTurretPirateFilled = 电气工具箱
+    .desc = 一个通常装满电气工具的工具箱。
 
 ent-ToolboxArtisticFilledCleaner = 艺术工具箱
+    .desc = 一个通常装满美术用品的工具箱。
 
 ent-ToolboxRoboticist = 机器人专家工具箱
     .desc = 怎么了，这不就是机器人专家工具箱吗？你还期待别的东西？
 
 ent-ToolboxRoboticistFilled = 机器人专家工具箱
+    .desc = 怎么了，这不就是个机器人专家工具箱吗？你还期待别的东西？
 
 ent-GunSafeEnergySniper = LWAP 枪械保险柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-GunSafeLMG = 重武器保险柜
     .desc = 当讲道理已经不够用时。
 
 ent-SuitStorageSecDouble = 双位服装储存单元
+    .desc = 一台用来存放太空服的精美高科技储存单元。
 
 ent-PrintedDocumentReportMorgue = 停尸间拒绝复苏报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentReportStation = 空间站情况报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentReportOnEliminationOfViolations = 问题处理报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentReportDepartment = 部门审查报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentReportEmployeePerformance = 工作报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentReportOnTheChaptersMeeting = 投票记录
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentInternalAffairsAgentsReport = 审计报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentConditionReport = 维护报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentObjectInvestigationReport = 未知物体调查报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentExperimentReport = 实验报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentDisposalReport = 处置报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentArrestReport = 逮捕报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentSalvageLeadReport = 打捞主管报告
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentStatementAppointmentInterimChapter = 临时指挥职位任命书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentEmploymentStatement = 雇佣合同
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentResignationStatement = 辞职通知
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentAccessRequestStatement = 权限申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentEquipmentRequestStatement = 装备申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentInvocation = 传唤通知
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentEvacuationShuttleRequest = 撤离穿梭机申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentShuttleRegistrationRequest = 穿梭机登记表
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestCallCentCommMembers = 请求呼叫中央指挥部成员
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestRequestEstablishThreatLevel = 威胁等级设立申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestChangeSalary = 薪资变更申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestForNonlistedEmployment = 编外雇佣合同
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestForPromotion = 晋升申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestDocuments = 文件调取申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestEuthanasia = 安乐死申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestConstructionWork = 施工申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestModernization = 现代化改造申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentRequestERT = 应急响应队（ERT）申请
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentProductOrder = 产品订单
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentComplaintViolationLaborRules = 部门投诉书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentComplaintOffense = 刑事控告书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentPermissionEquipment = 装备许可证
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentSearchPermission = 搜查令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentPermissionToCarryWeapons = 武器许可证
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentPermissionDisposeBody = 遗体处置授权书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentConstructionPermit = 施工许可证
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentSurgeryConsentPermit = 手术同意书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentArtPermit = 艺术创作许可证
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentDismissalOrder = 解职令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentAccessRevocationOrder = 权限撤销令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentIncentiveOrder = 功绩嘉奖令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentPrisonerParoleOrder = 强制假释令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentOrderRecognizingReasonablenessCreature = 智慧生命认定书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentMedicalInterventionOrder = 医疗干预令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentExecutionDNROrder = 处决与拒绝复苏令
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentEOCDesignation = 公司之敌认定书
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentCentCommCommunication = 中央指挥部通讯
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentGreenshiftAlert = 空间站位置通知
+    .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-BasePaperQuietChaos = Q 的终结 # no longer "the" since when you emote it would come out to "the the end of Q x"
     .desc = 一张无法传真的可怕纸张，但它自有四处传播的办法。

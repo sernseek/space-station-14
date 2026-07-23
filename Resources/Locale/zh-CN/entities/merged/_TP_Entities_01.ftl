@@ -29,3 +29,4 @@ ent-TP14KitchenDeepFryer = 油炸锅
     .desc = 可以用来炸制美食，也可以炸掉科研部所有的黄金。侧面的说明写着仅限使用玉米油。
 
 ent-TP14KitchenDeepFryerTabletop = 台式油炸锅
+    .desc = 可以拿来炸美味的食物，也可以炸掉科研部的全部黄金。侧面的说明写着只能使用玉米油。

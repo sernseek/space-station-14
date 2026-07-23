@@ -83,25 +83,34 @@ ent-ApcNetSwitch = APC 网络开关
     .desc = 用来切换连接至同一 APC 的灯具的开关。
 
 ent-SignalSwitchDirectional = 信号开关
+    .desc = 一个用来切换设备电源的开关。
 
 ent-SignalButtonDirectional = 信号按钮
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-ApcNetSwitchDirectional = APC 网络开关
+    .desc = 用于开关连接至同一 APC 的灯具。
 
 ent-LockableButton = 可上锁按钮
+    .desc = 这是一个用来启动某种东西的按钮。
 
 ent-ButtonFrame = 按钮框架
     .desc = 用来从外观上区分开关的框架。
 
 ent-SignalButtonExt1 = 外部按钮 1
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-SignalButtonExt2 = 外部按钮 2
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-SignalButtonExt3 = 外部按钮 3
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-SignalButtonBridge = 舰桥窗户按钮
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-SignalButtonWindows = 外部窗户按钮
+    .desc = 一个用来启动某种东西的按钮。
 
 ent-WallmountTelescreen = 壁挂屏幕
     .desc = 这里终于有点像样的信号了……
@@ -152,22 +161,31 @@ ent-SurveillanceCameraBase = 摄像头
     .desc = 一个监控摄像头。它在看着你。大概吧。
 
 ent-SurveillanceCameraConstructed = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraEngineering = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraSecurity = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraScience = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraSupply = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraCommand = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraService = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraMedical = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraGeneral = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraAssembly = 摄像头
     .desc = 一个监控摄像头。看起来一时半会儿还监视不了任何人。大概吧。
@@ -203,20 +221,28 @@ ent-IronRockMining = 铁岩
     .desc = 一颗小行星。
 
 ent-IronSandstone = 铁砂岩
+    .desc = 一颗岩石遍布的小行星。
 
 ent-IronSandstoneMining = 铁砂岩
+    .desc = 一颗岩石遍布的小行星。
 
 ent-WallRock = 岩石
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRockBasalt = 玄武岩
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRockSnow = 雪堆
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRockSand = 砂岩
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRockChromite = 铬铁矿
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRockAndesite = 安山岩
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-FenceMetalBroken = 损坏的铁丝网围栏
     .desc = 有人对一件死物发了好大的火。
@@ -258,8 +284,10 @@ ent-ClockworkGrilleBroken = 发条格栅
     .desc = 以传统拉特瓦尔风格组装的脆弱铁杆框架。它曾经也风光过。
 
 ent-GrilleDiagonal = 斜向格栅
+    .desc = 由铁杆搭成的脆弱框架。
 
 ent-ClockworkGrilleDiagonal = 斜向发条格栅
+    .desc = 以传统拉特瓦尔风格组装的脆弱铁杆框架。
 
 ent-InflatableWall = 充气路障
     .desc = 充气薄膜。激活即可放气。请勿刺破。
@@ -271,74 +299,106 @@ ent-BaseRailing = 栏杆
     .desc = 基础栏杆，防止你这样的笨蛋掉下去。
 
 ent-Railing = 栏杆 #SL
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCorner = 栏杆 #SL
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerSmall = 栏杆 #SL
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingRound = 栏杆 #SL
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-BaseStructureWall = 基础墙
     .desc = 把空气关在里面，把助理挡在外面。
 
 ent-WallBrick = 砖墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallClock = 时钟墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallClown = 香蕉矿墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallMeat = 肉墙
     .desc = 黏糊糊的。
 
 ent-WallCult = 邪教墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallDebug = 调试墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallDiamond = 钻石墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallGold = 黄金墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallIce = 冰墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlasma = 等离子体墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlastic = 塑料墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlastitaniumIndestructible = 塑钛墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlastitanium = 塑钛墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlastitaniumDiagonalIndestructible = 塑钛墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallPlastitaniumDiagonal = 塑钛墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallReinforced = 强化墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallReinforcedDiagonal = 强化墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallRiveted = 铆接墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallSandstone = 砂岩墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallSilver = 银墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallShuttleDiagonal = 穿梭机墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallShuttle = 穿梭机墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallSolid = 实心墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallSolidDiagonal = 实心墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallSolidChitin = 实心几丁质墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallReinforcedChitin = 强化几丁质墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallXenoborg = 异种赛博格墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallXenoborgDiagonal = 异种赛博格墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallUranium = 铀墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallWood = 木墙
     .desc = 抵御助理的传统防线。
@@ -347,17 +407,22 @@ ent-WallWeb = 蛛网墙
     .desc = 把蜘蛛关在里面，把助理挡在外面。
 
 ent-WallNecropolis = 石墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallMining = 采矿墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallMiningDiagonal = 采矿墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallVaultAlien = 外星宝库墙
     .desc = 一面神秘华丽的墙。里面可能藏着古老的危险。
 
 ent-WallVaultRock = 岩石宝库墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallVaultSandstone = 砂岩宝库墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallInvisible = 隐形墙
 
@@ -367,17 +432,22 @@ ent-WallCobblebrick = 鹅卵石砖墙
     .desc = 一块块石头严丝合缝地砌成了这面墙。
 
 ent-WallBasaltCobblebrick = 玄武岩砖墙
+    .desc = 一石一石严丝合缝地拼在一起，筑成了一面墙。
 
 ent-WallSnowCobblebrick = 雪砖墙
     .desc = 一面寒冷、没那么坚不可摧的墙。
 
 ent-WallAsteroidCobblebrick = 小行星石砖墙
+    .desc = 一石一石严丝合缝地拼在一起，筑成了一面墙。
 
 ent-WallSandCobblebrick = 砂岩砖墙
+    .desc = 一石一石严丝合缝地拼在一起，筑成了一面墙。
 
 ent-WallChromiteCobblebrick = 铬铁矿砖墙
+    .desc = 一石一石严丝合缝地拼在一起，筑成了一面墙。
 
 ent-WallAndesiteCobblebrick = 安山岩砖墙
+    .desc = 一石一石严丝合缝地拼在一起，筑成了一面墙。
 
 ent-WallIronsandCobblebrick = 铁砂砖墙
     .desc = 构成这面墙的浅色圆润石块，与据称用来制作它们的铁砂截然不同。
@@ -392,8 +462,10 @@ ent-WindowClockworkDirectional = 方向性发条窗
     .desc = 别把下面的黄铜弄花了。
 
 ent-MiningWindow = 采矿窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlasmaWindow = 等离子体窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlasmaWindowDirectional = 方向性等离子体窗
     .desc = 别把下面的玻璃弄花了。
@@ -402,35 +474,46 @@ ent-PlastitaniumWindowBase = 塑钛窗
     .desc = 别把下面的玻璃弄花了。
 
 ent-PlastitaniumWindowSquareBase = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlastitaniumWindowIndestructible = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlastitaniumWindow = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlastitaniumWindowDiagonalBase = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlastitaniumWindowDiagonalIndestructible = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlastitaniumWindowDiagonal = 塑钛窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-ReinforcedWindow = 强化窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-WindowReinforcedDirectional = 方向性强化窗
     .desc = 别把下面的玻璃弄花了。
 
 ent-ReinforcedPlasmaWindow = 强化等离子体窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-PlasmaReinforcedWindowDirectional = 方向性强化等离子体窗
     .desc = 别把下面的玻璃弄花了。
 
 ent-ReinforcedUraniumWindow = 强化铀窗
+    .desc = 别把那里的玻璃抹花了。
 
 ent-UraniumReinforcedWindowDirectional = 方向性强化铀窗
     .desc = 别把下面的玻璃弄花了。
 
 ent-ShuttleWindow = 穿梭机窗
+    .desc = 别把下面的玻璃弄花了。
 
 ent-UraniumWindow = 铀窗
+    .desc = 别把下面的玻璃弄花了。
 
 ent-UraniumWindowDirectional = 方向性铀窗
     .desc = 别把下面的玻璃弄花了。
@@ -448,6 +531,7 @@ ent-WindowFrostedDirectional = 方向性磨砂窗
     .desc = 别把下面的玻璃弄花了。
 
 ent-XenoborgWindow = 异种赛博格窗
+    .desc = 别把下面的玻璃弄花了。
 
 ent-XenoResinWindow = 树脂窗
     .desc = 透明且坚硬，但摸起来略微发黏。比普通强化窗稍强。
@@ -489,8 +573,10 @@ ent-IronsandStep = 铁砂台阶
     .desc = 让你的铁砂更上一层楼。
 
 ent-IronsandStepConvexCorner = 铁砂台阶凸角
+    .desc = 让你的铁砂更上一层。
 
 ent-IronsandStepConcaveCorner = 铁砂台阶凹角
+    .desc = 让你的铁砂更上一层。
 
 ent-TwoWayLever = 双向拉杆
     .desc = 一个双向拉杆。

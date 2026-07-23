@@ -1,10 +1,14 @@
 ent-CasinoIDCardDealer = 蛾摩拉荷官 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CasinoIDCardOwner = 蛾摩拉老板 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CasinoIDCardManager = 蛾摩拉经理 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-CasinoIDCardSecurity = 蛾摩拉安保 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 
 ent-MechHouse = 庄家
@@ -151,6 +155,7 @@ ent-ClothingOuterHardsuitMedTakMedic = 梅德塔克医护硬装宇航服
     .desc = 梅德塔克医护员穿着的装甲硬装宇航服，内置除颤系统。
 
 ent-ClothingOuterHardsuitMedTakPilot = 梅德塔克驾驶员硬装宇航服
+    .desc = 梅德塔克干员穿着的装甲硬装宇航服。
 
 ent-ClothingOuterHardsuitMedTakHeavy = 梅德塔克重型硬装宇航服
     .desc = 梅德塔克重装安保穿着的重甲硬装宇航服。
@@ -175,32 +180,42 @@ ent-BorgChassisMedTak = 梅德塔克硅基机体
 
 
 ent-MedTakImplanterMindShield = 梅德塔克心灵护盾植入器
+    .desc = 一种小巧的一次性植入器，可快速且（基本）无痛地将植入物置于皮下。
 
 ent-MedTakImplanterTrackingBronze = 梅德塔克青铜追踪植入器
+    .desc = 一种小巧的一次性植入器，可快速且（基本）无痛地将植入物置于皮下。
 
 ent-MedTakImplanterTrackingSilver = 梅德塔克白银追踪植入器
+    .desc = 一种小巧的一次性植入器，可快速且（基本）无痛地将植入物置于皮下。
 
 ent-MedTakImplanterTrackingGold = 梅德塔克黄金追踪植入器
+    .desc = 一种小巧的一次性植入器，可快速且（基本）无痛地将植入物置于皮下。
 
 ent-MedTakImplanterTrackingTeam = 梅德塔克小队追踪植入器
+    .desc = 一种小巧的一次性植入器，可快速且（基本）无痛地将植入物置于皮下。
 
 
 ent-TrackingImplantMedTak = 梅德塔克信标植入物
     .desc = 使用者陷入危急状态或死亡时，这枚植入物会通知最近的梅德塔克单位。
 
 ent-TrackingImplantMedTakBronze = 梅德塔克青铜信标植入物
+    .desc = 使用者一旦陷入危急状态或死亡，该植入物便会通知最近的梅德塔克单位。
 
 ent-TrackingImplantMedTakSilver = 梅德塔克白银信标植入物
+    .desc = 使用者一旦陷入危急状态或死亡，该植入物便会通知最近的梅德塔克单位。
 
 ent-TrackingImplantMedTakGold = 梅德塔克黄金信标植入物
+    .desc = 使用者一旦陷入危急状态或死亡，该植入物便会通知最近的梅德塔克单位。
 
 ent-TrackingImplantMedTakTeam = 梅德塔克小队信标植入物
+    .desc = 使用者一旦陷入危急状态或死亡，该植入物便会通知最近的梅德塔克单位。
 
 ent-MedTakMindShieldImplant = 梅德塔克心灵护盾植入物
     .desc = 这枚植入物能保护干员免受精神控制装置影响。
 
 
 ent-BodyBagMedTak = 安全运尸袋
+    .desc = 稍微结实些的袋子，配有防止他人乱动的 ID 锁，专为存放和运送遗体而设计，以延缓尸体腐烂。
 
 
 ent-BorgModuleMedTakMedical = 梅德塔克医疗赛博格模块
@@ -214,12 +229,16 @@ ent-PaperMedTak = 梅德塔克信纸
     .desc = 一张页眉印有梅德塔克徽标的纸。看起来很贵，至少对你来说是这样。
 
 ent-PrintedDocumentMedTakContract = 梅德塔克保障合同
+    .desc = 一张印着梅德塔克标志的纸。看起来很贵。对你来说。
 
 ent-PrintedDocumentMedTakCorrespondence = 梅德塔克往来函件
+    .desc = 一张印着梅德塔克标志的纸。看起来很贵。对你来说。
 
 ent-PrintedDocumentMedTakInvoice = 梅德塔克发票
+    .desc = 一张印着梅德塔克标志的纸。看起来很贵。对你来说。
 
 ent-PrintedDocumentMedTakReport = 梅德塔克行动后报告
+    .desc = 一张印着梅德塔克标志的纸。看起来很贵。对你来说。
 
 
 ent-HandheldMedTakMonitor = 梅德塔克手持监测仪
@@ -235,14 +254,19 @@ ent-MedTakHypo = 梅德塔克喷射注射器
 
 
 ent-MedTakIDCardTeamLead = 梅德塔克队长 ID 卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-MedTakIDCardDispatcher = 梅德塔克调度员 ID 卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-MedTakIDCardMedic = 梅德塔克医护员 ID 卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-MedTakIDCardPilot = 梅德塔克驾驶员 ID 卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 ent-MedTakIDCardSecurity = 梅德塔克安保 ID 卡
+    .desc = 进入空间站内各个区域所必需的卡片。
 
 
 ent-BottleCaseMedTak = 化学药瓶箱
@@ -275,6 +299,7 @@ ent-MedTakPDADispatcher = 梅德塔克调度员 PDA
 
 
 ent-RubberStampMedTak = 梅德塔克橡皮章
+    .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 
 ent-StasisBedMedTak = 梅德塔克停滞医疗床
@@ -337,6 +362,7 @@ ent-SuitRacingRandom = 高速竞速服
     .desc = 这看起来只是普通衣服……
 
 ent-SuitRacingRandomSpawner = 随机高速竞速服生成器
+    .desc = 这看起来不过是普通衣服……
 
 ent-SuitRacingArmless = 无袖高速竞速服
     .desc = 这看起来只是普通衣服……
@@ -361,6 +387,7 @@ ent-ClothingHandsGlovesCombatmous = 无法脱下的鼠鼠战斗手套
     .desc = 鼠鼠为鼠鼠制造！
 
 ent-ClothingBackpackDuffelSyndicateAmmoMouse = 鼠鼠特工弹药包
+    .desc = 可容纳各种叛徒用品的大号旅行包。
 
 ent-ClothingOuterHardsuitSyndieMouseOps = 鼠鼠红色硬装宇航服
     .desc = 鼠鼠为鼠鼠制造！
@@ -381,8 +408,10 @@ ent-TophatThatFuckingKillsYou = 摘下就会杀死你的帽子
     .desc = 顾名思义。这真就是一顶邪门透顶的该死帽子。除非你恨自己，否则别戴。
 
 ent-TophatThatFuckingGibsYou = 摘下就会把你炸成碎块的帽子
+    .desc = 效果就跟名字写的一样。真他妈是一顶邪门透顶的破帽子。除非你恨自己，否则别戴。
 
 ent-TophatThatFuckingAshesYou = 摘下就会把你化成灰的帽子
+    .desc = 效果就跟名字写的一样。真他妈是一顶邪门透顶的破帽子。除非你恨自己，否则别戴。
 
 
 ent-MobSkubmoth = 斯卡布蛾
@@ -392,6 +421,7 @@ ent-SkubPack = 斯卡布包
     .desc = 这……什么鬼……
 
 ent-SkubSpreadShot = 斯卡布广域弹幕
+    .desc = 斯卡布是第五位混沌之神。
 
 ent-SkubPDA = 斯卡布 PDA
     .desc = 非常斯卡布。
@@ -417,20 +447,28 @@ ent-RandomHumanoidSpawnerBlackstarInitiate = 黑星新晋者
 
 
 ent-BlackstarIDCard = 黑星 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarLegionCommanderIDCard = 军团指挥官 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarHighLegateIDCard = 高阶军团使 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarLegateIDCard = 军团使 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarDreadwalkerIDCard = 恐行者 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarLegionnaireIDCard = 军团士兵 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarBlackguardIDCard = 黑卫 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 ent-BlackstarInitiateIDCard = 新晋者 ID 卡
+    .desc = 用于进入空间站各处的必备卡片。
 
 
 ent-BlackstarLegionCommanderPDA = 军团指挥官 PDA

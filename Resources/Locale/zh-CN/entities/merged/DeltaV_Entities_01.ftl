@@ -23,26 +23,31 @@ ent-ClothingOuterCoatLabLong = 长款实验服
     .desc = 纳米传讯为医疗人员配发的标准实验服，不过更长。
 
 ent-ClothingOuterCoatLabLongOpened = 敞开式长款实验服
+    .desc = 纳米传讯医务人员标准实验服的长款。
 
 ent-ClothingOuterCoatLabChemistLong = 药剂师长款实验服
     .desc = 纳米传讯为医疗人员配发的标准实验服，不过更长，还带有亮橙色装饰。
 
 ent-ClothingOuterCoatLabChemistLongOpened = 敞开式药剂师长款实验服
+    .desc = 纳米传讯医务人员标准实验服的长款，饰有亮橙色细节。
 
 ent-ClothingOuterCoatLabCmoLong = 医疗主管长款实验服
     .desc = 纳米传讯出品的蓝色长款实验服，带有绿色装饰，专为医疗主管设计。
 
 ent-ClothingOuterCoatLabCmoLongOpened = 敞开式医疗主管长款实验服
+    .desc = 纳米传讯为医疗主管设计的蓝色长款实验服，饰有绿色细节。
 
 ent-ClothingOuterCoatLabGeneLong = 遗传学家长款实验服
     .desc = 纳米传讯为医疗人员配发的标准实验服，不过更长，还带有浅蓝色装饰。
 
 ent-ClothingOuterCoatLabGeneLongOpened = 敞开式遗传学家长款实验服
+    .desc = 纳米传讯医务人员标准实验服的长款，饰有浅蓝色细节。
 
 ent-ClothingOuterCoatParamedicJacket = 急救员夹克
     .desc = 一件饰有白色条纹与十字的时髦深蓝夹克。十位急救员里有九位建议：“不要复苏。”
 
 ent-ClothingOuterCoatParamedicJacketOpened = 敞开式急救员夹克
+    .desc = 一件时髦的深蓝色夹克，饰有白色条纹和十字。十位急救员中有九位推荐“请勿复苏”。
 
 ent-ClothingOuterCoatDuster = 粗犷防尘大衣
     .desc = 一件搭配头巾围脖的粗犷防尘大衣，用来隔绝灰烬与尘土。不过太空里倒没多少这种东西。

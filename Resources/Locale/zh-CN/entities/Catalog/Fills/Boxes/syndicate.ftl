@@ -1,4 +1,5 @@
 ent-ElectricalDisruptionKit = 电气干扰套件
+    .desc = 一个用来存放物品的纸板箱。
 
 ent-ChemicalSynthesisKit = 化学合成套件
     .desc = 为有志药剂师准备的入门套件，内含两瓶维斯汀，满足你的一切犯罪需求！

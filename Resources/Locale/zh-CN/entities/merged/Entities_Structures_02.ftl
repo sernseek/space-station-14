@@ -14,6 +14,7 @@ ent-VendingMachineDonut = 蒙奇甜甜圈
     .desc = 由 Robust Industries, LLC 提供的甜甜圈售货机。
 
 ent-VendingMachineWallmount = 自动售货机
+    .desc = 只需加入资本主义！
 
 ent-VendingMachineHydrobe = 水培衣橱
     .desc = 名字很上口的机器，出售植物学相关服装和装备。
@@ -28,6 +29,7 @@ ent-VendingBarDrobe = 酒吧衣橱
     .desc = 时髦的售货机，出售最时髦的酒吧服装！
 
 ent-VendingMachineChapel = 虔诚贩卖机
+    .desc = 只需加入资本主义！
 
 ent-VendingMachineCargoDrobe = 货运衣橱
     .desc = 高度先进的自动售货机，可以免费购买货运相关服装。
@@ -96,6 +98,7 @@ ent-VendingMachineWallMedicalCivilian = NanoMed 创可贴
     .desc = 壁挂式医疗设备供应机。只用天然化学品！
 
 ent-VendingMachineWallMedical = 纳米医疗壁挂机
+    .desc = 一台壁挂式医疗设备分配器。只用天然化学品！
 
 
 ent-SurveillanceWirelessCameraBase = 无线摄像机
@@ -137,30 +140,43 @@ ent-GasMinerBase = 气体矿机
     .desc = 从下方（上方？）气态巨行星开采的气体经由这个巨大通风口流出。
 
 ent-GasMinerOxygen = O2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerOxygenStation = O2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerOxygenStationLarge = O2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerNitrogen = N2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerNitrogenStation = N2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerNitrogenStationLarge = N2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerCarbonDioxide = CO2 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerPlasma = 等离子体气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerTritium = 氚气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerFrezon = 弗里昂气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerWaterVapor = 水蒸气气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerAmmonia = 氨气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 ent-GasMinerNitrousOxide = 一氧化二氮气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 
 ent-GasPipeSansLayers = 气体管道
@@ -193,11 +209,13 @@ ent-GasFilter = 气体过滤器
     .desc = 非常适合过滤气体。
 
 ent-GasFilterFlipped = 气体过滤器
+    .desc = 过滤气体时非常实用。
 
 ent-GasMixer = 气体混合器
     .desc = 非常适合混合气体。
 
 ent-GasMixerFlipped = 气体混合器
+    .desc = 混合气体时非常实用。
 
 ent-PressureControlledValve = 气动阀
     .desc = 由压力控制的双向阀。当输出管压力比控制管低 101.325 kPa 时开启。
@@ -270,6 +288,7 @@ ent-DisposalSignalRouter = 废弃物信号路由器
 
 
 ent-DisposalUnit = 废弃物处理单元
+    .desc = 气动废弃物处理单元。
 
 ent-MailingUnit = 邮件投递单元
     .desc = 气动邮件投递单元。
@@ -536,15 +555,19 @@ ent-BaseThruster = 推进器
     .desc = 使穿梭机能够移动的推进器。
 
 ent-Thruster = 推进器
+    .desc = 让穿梭机得以移动的推进器。
 
 ent-ThrusterXenoborg = 异形赛博格推进器 # Starlight
+    .desc = 让穿梭机得以移动的推进器。
 
 ent-ThrusterLarge = 大型 推进器
+    .desc = 让穿梭机得以移动的推进器。
 
 ent-Gyroscope = 陀螺仪
     .desc = 提升穿梭机的角旋转能力。
 
 ent-DebugGyroscope = 陀螺仪 # Starlight
+    .desc = 让穿梭机得以移动的推进器。
 
 ent-RustedThruster = 锈蚀的 推进器
     .desc = 因长期磨损而损坏且无法修复的推进器，只能拆成废料。
@@ -576,6 +599,7 @@ ent-MopBucket = 拖把桶
     .desc = 装着水和清洁工的泪水。
 
 ent-MopBucketFull = 拖把桶
+    .desc = 装着水，还有清洁工的眼泪。
 
 ent-MopBucketCubeWrapped = 拖把桶方块
     .desc = 拆开包装即可获得一个拖把桶方块。
@@ -598,6 +622,7 @@ ent-GasCanister = 气罐
     .desc = 可容纳任意气体的气罐。可用扳手将其连接到连接端口。
 
 ent-StorageCanister = 储存罐
+    .desc = 一个可以容纳任何气体的储气罐。可用扳手将其连接到接口上。
 
 ent-AirCanister = 空气罐
     .desc = 可容纳任意气体的气罐。这个应该装有空气混合物。可用扳手将其连接到连接端口。
@@ -642,68 +667,93 @@ ent-GasCanisterBrokenBase = 损坏的 气罐
     .desc = 损坏的气罐。还不算毫无用处，可以拆出高品质材料。
 
 ent-WaterVaporCanisterBroken = 损坏的 水蒸气气罐
+    .desc = 一个损坏的储气罐。还不算毫无用处，可以从中回收高品质材料。
 
 
 ent-LockerBaseSecure = 安全壁橱 # Starlight-edit
+    .desc = 纳米传讯制式储物单元。 # SL
 
 
 ent-LockerBooze = 酒水储藏柜
     .desc = 酒保把酒存放在这里。
 
 ent-LockerSteel = 安全壁橱
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerQuarterMaster = 军需官储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSalvageSpecialist = 打捞专员装备柜
     .desc = 别在意那把镐子。
 
 ent-LockerCaptain = 舰长储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerHeadOfPersonnel = 人事主管储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerChiefEngineer = 工程主管储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerElectricalSupplies = 电气用品储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerWeldingSupplies = 焊接用品储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerAtmospherics = 大气技师储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerEngineer = 工程师储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerEvacRepair = 紧急撤离穿梭机应急储物柜
     .desc = 从里到外全是应急用品。
 
 ent-LockerFreezerBase = 冷冻柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerFreezer = 冷冻柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerBotanist = 植物学家储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMedicine = 药品储物柜
     .desc = 塞满了各种医疗杂物。
 
 ent-LockerMedical = 医师储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerParamedic = 急救员储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerChemistry = 化学品储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerChiefMedicalOfficer = 医疗主管储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerResearchDirector = 研究主管储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerScientist = 科学家储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerHeadOfSecurity = 安保主管储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerWarden = 典狱长储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerBrigmedic = 狱医储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSecurity = 安保干员储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-GunSafe = 枪械保险柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerPrisoner = 囚犯壁橱
     .desc = 安全储物柜，用于在囚犯服刑期间存放其个人物品。
@@ -721,10 +771,13 @@ ent-LockerBluespaceStation = 蓝空间储物柜
     .desc = 先进的储物柜技术。
 
 ent-LockerClown = 小丑储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMime = 哑剧演员储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerRepresentative = 纳米传讯代表储物柜 # Starlight, added apostrophe s
+    .desc = 纳米传讯制式储物单元。 # SL
 
 
 ent-ClosetBase = 壁橱
@@ -803,6 +856,7 @@ ent-ClosetWallGreen = 绿色 壁挂壁橱
     .desc = 塞满时尚绿色服装的衣柜。
 
 ent-ClosetWallOrange = 监狱 壁挂壁橱
+    .desc = 纳米传讯标准配发的储物柜，如今挂到墙上了。 # SL
 
 ent-ClosetWallYellow = 黄色 壁挂壁橱
     .desc = 塞满时尚黄色服装的衣柜。
@@ -817,8 +871,10 @@ ent-ClosetWallMixed = 混色 壁挂壁橱
     .desc = 塞满各色服装的衣柜。
 
 ent-ClosetWallAtmospherics = 大气 壁挂壁橱
+    .desc = 纳米传讯标准配发的储物柜，如今挂到墙上了。 # SL
 
 ent-LockerWallMedical = 医疗 壁挂储物柜
+    .desc = 纳米传讯制式储物单元，现在上墙了。 # SL
 
 ent-LockerWallEvacRepair = 紧急撤离穿梭机应急壁挂储物柜
     .desc = 从里到外全是应急用品。
@@ -843,6 +899,7 @@ ent-WardrobeGreen = 绿色 衣柜
     .desc = 塞满时尚绿色服装的衣柜。
 
 ent-WardrobePrison = 监狱 衣柜
+    .desc = 用于存放纳米传讯制式服装的储存单元。 # SL
 
 ent-WardrobeYellow = 黄色 衣柜
     .desc = 塞满时尚黄色服装的衣柜。
@@ -857,8 +914,10 @@ ent-WardrobeMixed = 混色 衣柜
     .desc = 塞满各色服装的衣柜。
 
 ent-WardrobeSecurity = 安保 衣柜
+    .desc = 用于存放纳米传讯制式服装的储存单元。 # SL
 
 ent-WardrobeAtmospherics = 大气 衣柜
+    .desc = 用于存放纳米传讯制式服装的储存单元。 # SL
 
 ent-ClosetJanitor = 清洁用品柜
     .desc = 用于存放清洁服装和装备的储物单元。
@@ -876,25 +935,34 @@ ent-ClosetLegal = 法律用品柜
     .desc = 用于存放法庭服装及用品的储物单元。
 
 ent-WardrobeCargo = 货运 衣柜
+    .desc = 用于存放纳米传讯制式服装的储存单元。 # SL
 
 ent-WardrobeSalvage = 打捞 衣柜
     .desc = 值得一提的是，它不是捡来的。
 
 ent-WardrobeEngineering = 工程 衣柜
+    .desc = 一个塞满时髦黄色服装的衣柜。
 
 ent-WardrobeMedicalDoctor = 医师衣柜
+    .desc = 一个塞满时髦白色服装的衣柜。
 
 ent-WardrobeRobotics = 机器人学 衣柜
+    .desc = 一个塞满时髦黑色服装的衣柜。
 
 ent-WardrobeChemistry = 化学 衣柜
+    .desc = 一个塞满时髦白色服装的衣柜。
 
 ent-WardrobeGenetics = 遗传学 衣柜
+    .desc = 一个塞满时髦白色服装的衣柜。
 
 ent-WardrobeVirology = 病毒学 衣柜
+    .desc = 一个塞满时髦白色服装的衣柜。
 
 ent-WardrobeScience = 科研 衣柜
+    .desc = 一个塞满时髦白色服装的衣柜。
 
 ent-WardrobeBotanist = 植物学家 衣柜
+    .desc = 一个塞满时髦绿色服装的衣柜。
 
 
 ent-CrateGeneric = 板条箱
@@ -902,74 +970,103 @@ ent-CrateGeneric = 板条箱
 
 
 ent-CrateGenericSteel = 板条箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CratePlastic = 塑料箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateFreezer = 冷冻柜
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateHydroponics = 水培箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateMedical = 医疗箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateRadiation = 防辐射装备箱
     .desc = 实际上并未衬铅。请勿用它存放钚。
 
 ent-CrateInternals = 氧气箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateElectrical = 电气箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateEngineering = 工程箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateScience = 科研箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSurgery = 手术箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateWeb = 蛛网箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSecgear = 安保装备箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateEngineeringSecure = 安全工程箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateMedicalSecure = 安全医疗箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateChemistrySecure = 安全化学品箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CratePrivateSecure = 私人箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateScienceSecure = 安全科研箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CratePlasma = 等离子体箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSecure = 安全箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateHydroSecure = 安全水培箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateWeaponSecure = 安全武器箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateContrabandStorageSecure = 违禁品储存箱
     .desc = 需要军械库权限才能开启的板条箱，用于存放从嫌疑人或囚犯处没收的违禁品。
 
 ent-CrateCommandSecure = 指挥部箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSyndicateSecure = 安全辛迪加箱
     .desc = 深色钢制板条箱，带有红色条带，正面压印着字母 S。
 
 ent-CrateLivestock = 牲畜箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateRodentCage = 仓鼠笼
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateBaseLockBox = 资金箱
     .desc = 安全资金箱，出售所得会返还给相应部门。记住：货运部总要抽成。
 
 ent-CrateLockBoxEngineering = 工程 资金箱
+    .desc = 一个安全的锁箱。出售所得会返还给本部门。只需记住：货运部总要抽成。
 
 ent-CrateLockBoxMedical = 医疗 资金箱
+    .desc = 一个安全的锁箱。出售所得会返还给本部门。只需记住：货运部总要抽成。
 
 ent-CrateLockBoxScience = 科研 资金箱
+    .desc = 一个安全的锁箱。出售所得会返还给本部门。只需记住：货运部总要抽成。
 
 ent-CrateLockBoxSecurity = 安保 资金箱
+    .desc = 一个安全的锁箱。出售所得会返还给本部门。只需记住：货运部总要抽成。
 
 ent-CrateLockBoxService = 服务 资金箱
+    .desc = 一个安全的锁箱。出售所得会返还给本部门。只需记住：货运部总要抽成。
 
 ent-CratePirate = 海盗宝箱
     .desc = 太空海盗的宝箱，空间站旱鸭子莫碰。
@@ -990,8 +1087,10 @@ ent-CrateSyndicate = 辛迪加箱
     .desc = 深色钢制板条箱，带有红色条带，正面压印着字母 S。
 
 ent-CrateTrashCart = 垃圾推车
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateTrashCartJani = 清洁垃圾推车
+    .desc = 用来存放物品的大型容器。
 
 
 ent-StorageTank = 储存罐

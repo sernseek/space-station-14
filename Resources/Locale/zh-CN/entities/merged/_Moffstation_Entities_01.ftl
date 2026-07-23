@@ -59,29 +59,39 @@ ent-BasePlayingCardDeckBox = 扑克牌盒
 ent-PlayingCardDynamic = 扑克牌
 
 ent-PlayingCardDeckDynamic = 一副扑克牌
+    .desc = 图案鲜活、色彩缤纷的纸牌，等候出牌时也能赏心悦目。
 
 ent-PlayingCardHandDynamic = 一手牌
 
 ent-GoFishCardDeckBox = 钓鱼牌盒
+    .desc = 一个用来装一叠小纸片的小纸盒。真刺激。
 
 ent-GoFishCardDeck = 一副扑克牌
+    .desc = 图案鲜明、色彩艳丽的卡牌，让你等候出牌时也能大饱眼福。
 
 ent-PlayingCardDeckBoxBlack = 扑克牌盒
+    .desc = 一个小纸盒，用来装一叠小卡纸片。真刺激。
 
 ent-PlayingCardDeckBlack = 一副扑克牌
+    .desc = 图案鲜活、色彩缤纷的纸牌，等候出牌时也能赏心悦目。
 
 ent-PlayingCardDeckBoxSyndicate = 扑克牌盒
+    .desc = 一个小纸盒，用来装一叠小卡纸片。真刺激。
 
 ent-PlayingCardDeckSyndicate = 一副扑克牌
+    .desc = 图案鲜活、色彩缤纷的纸牌，等候出牌时也能赏心悦目。
 
 ent-PlayingCardDeckBoxNanotrasen = 扑克牌盒
+    .desc = 一个小纸盒，用来装一叠小卡纸片。真刺激。
 
 ent-PlayingCardDeckNanotrasen = 一副扑克牌
+    .desc = 图案鲜活、色彩缤纷的纸牌，等候出牌时也能赏心悦目。
 
 ent-TarotCardDeckBox = 大阿卡纳塔罗牌盒
     .desc = 一个装有一套占卜塔罗牌大阿卡纳牌的小纸盒。
 
 ent-TarotCardDeck = 一副牌
+    .desc = 图案与色彩鲜艳夺目的纸牌，让你在等待轮到自己时也能赏心悦目。
 
 ent-WeaponNinjaChainSickle = 锁镰 # Starlight
     .desc = 一把连着蛛丝锁链的镰刀。蜘蛛氏族即使在窃取未来之时，也仍践行着古老之道。

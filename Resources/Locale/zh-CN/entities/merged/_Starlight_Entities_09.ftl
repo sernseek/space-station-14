@@ -14,13 +14,16 @@ ent-SLVendingMachine = 自动售货机
     .desc = 一台用于执行其标示功能的设备。
 
 ent-SLVendingMachineHugDispenser = 功能设备
+    .desc = 只需加入资本主义！
 
 ent-SLVendingMachineFashion = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-SLVendingMachineMedical = 医疗 分配器
+    .desc = 只需加入资本主义！
 
 ent-SLVendingMachineEngi = 功能设备
+    .desc = 只需加入资本主义！
 
 ent-VendingMachineClown = 功能设备
     .desc = 一台用于执行其标示功能的设备。
@@ -29,10 +32,13 @@ ent-VendingMachineMime = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-SLVendingMachineSecurity = 安保 分配器
+    .desc = 只需加入资本主义！
 
 ent-SLVendingMachineSalvage = 打捞 取号机
+    .desc = 只需加入资本主义！
 
 ent-SLVendingMachineMining = 采矿 取号机
+    .desc = 只需加入资本主义！
 
 ent-VendingMachineAbductorDispenser = 功能设备
     .desc = 一台用于执行其标示功能的设备。
@@ -53,31 +59,37 @@ ent-VendingMachineMedicalBaseSyndicate = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineMedicalSyndicate = 功能设备
+    .desc = 英特戴恩制药出品的医疗药品分配器。为了全人类的健康。
 
 ent-VendingMachineWallMedicalCivilianSyndicate = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineWallMedicalSyndicate = 功能设备
+    .desc = 英特戴恩制药出品的壁挂式医疗设备分配器。为了全人类的健康。
 
 ent-VendingMachineMedicalBaseDeforest = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineMedicalDeforest = 功能设备
+    .desc = 德福雷斯医疗出品的医疗药品分配器。健康，高可摩天。
 
 ent-VendingMachineWallMedicalCivilianDeforest = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineWallMedicalDeforest = 功能设备
+    .desc = 德福雷斯医疗出品的壁挂式医疗设备分配器。健康，高可摩天。
 
 ent-VendingMachineMedicalBaseGold = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineMedicalGold = GOLD 功能设备
+    .desc = 在人生的这个时刻，你能来到这里——确切地说，来到这台黄金版纳米医疗面前——简直就是奇迹。这令我欣喜万分。
 
 ent-VendingMachineWallMedicalCivilianGold = GOLD 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-VendingMachineWallMedicalGold = GOLD 功能设备
+    .desc = 一台豪华壁挂式医疗设备分配器。它令你欣喜万分。
 
 ent-VendingMachineCAD = 功能设备
     .desc = 一台用于执行其标示功能的设备。
@@ -91,12 +103,16 @@ ent-PlumbingDuctBase = 流体管道
     .desc = 一台用于执行其标示功能的设备。
 
 ent-PlumbingDuctStraight = 流体管道
+    .desc = 用于在流体管网中输送试剂的管道。
 
 ent-PlumbingDuctBend = 流体管道
+    .desc = 用于在流体管网中输送试剂的管道。
 
 ent-PlumbingDuctTJunction = 流体管道
+    .desc = 用于在流体管网中输送试剂的管道。
 
 ent-PlumbingDuctFourway = 流体管道
+    .desc = 用于在流体管网中输送试剂的管道。
 
 ent-PlumbingDuctManifold = 流体歧管
     .desc = 一台用于执行其标示功能的设备。
@@ -237,53 +253,77 @@ ent-Cascad1 = 物品
 
 
 ent-UlnitraniumCanister = 储物容器
+    .desc = 一个可以容纳任何气体的储气罐。可用扳手将其连接到接口上。
 
 ent-ZXACanister = 储物容器
+    .desc = 一个可以容纳任何气体的储气罐。可用扳手将其连接到接口上。
 
 ent-RainbowCanisterEmpty = 彩虹 气罐
+    .desc = 可容纳任意气体的储气罐。可用扳手将其连接至接口。
 
 
 ent-LockerSteelLarge = 大型安全柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSecurityLarge = 大型安保干员's 储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerBrigmedicLarge = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerBlueshield = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMagistrate = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerIAA = 内部事务特工's 储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerNCT = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSalvageLead = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSalvageSpecialistLarge = 大型打捞专员's 储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMiningSpecialist = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMiningSpecialistLarge = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerCargo = 货运技师's 储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerCargoLarge = 大型货运技师's 储物柜
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMail = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerMailLarge = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerSurgeon = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerCoroner = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerVirologist = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerGeneticist = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerRoboticist = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 ent-LockerJanitor = 储物容器
+    .desc = 纳米传讯制式储物单元。 # SL
 
 
 ent-ClosetPirateBase = 储物容器
@@ -312,18 +352,22 @@ ent-ClosetPirateCaptainScooner = 储物容器
 
 
 ent-CrateInternalsO2N2 = 储物容器
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSoviet = SSF 储物容器
     .desc = 用于安全存放相关物品的容器。
 
 ent-CrateRDSecure = RD 板条箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateRoboticsSecure = 储物容器
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateSalvageContrabandStorageSecure = 储物容器
     .desc = 用于安全存放相关物品的容器。
 
 ent-CrateCentralCommandSecure = 中央指挥部 板条箱
+    .desc = 用来存放物品的大型容器。
 
 ent-CrateCentralCommandSecureStrong = 中央指挥部 板条箱
     .desc = 用于安全存放相关物品的容器。
@@ -334,14 +378,19 @@ ent-TableAbductor = 家具
 
 
 ent-BarSignLights = 标识装饰
+    .desc = 灯具。装上灯管后会消耗电力并发光。
 
 ent-ClinicSignLights = 标识装饰
+    .desc = 灯具。装上灯管后会消耗电力并发光。
 
 ent-OnAirSignLights = 标识装饰
+    .desc = 一盏灯具。装上灯管后便会耗电发光。
 
 ent-OpenSignLights = 标识装饰
+    .desc = 一盏灯具。装上灯管后便会耗电发光。
 
 ent-OpenBarSignLights = 标识装饰
+    .desc = 一盏灯具。装上灯管后便会耗电发光。
 
 
 ent-PaintingRedTide = 标识装饰
@@ -763,28 +812,40 @@ ent-Speaker = 扬声器
 
 
 ent-SurveillanceCameraIsolatedNetwork = 摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedAssembly = 强化摄像头
+    .desc = 一个监控摄像头。短时间内应该不会盯着任何人。大概。
 
 ent-SurveillanceCameraReinforcedBase = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedConstructed = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedEngineering = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedSecurity = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedScience = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedSupply = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedCommand = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedService = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedMedical = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 ent-SurveillanceCameraReinforcedGeneral = 强化摄像头
+    .desc = 一个监控摄像头。算是在盯着你吧。
 
 
 ent-WallmountMassScannerBroken = 结构
@@ -818,10 +879,13 @@ ent-BaseWallSafe = 墙式保险箱
 
 
 ent-WallRockDark = 暗色岩石
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallTrash = 垃圾
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallMeatroid = 结构
+    .desc = 黏糊糊的。
 
 
 ent-RailingEnd = 栏杆
@@ -832,50 +896,68 @@ ent-BaseRailingWood = 栏杆
     .desc = 一种用于建造或分隔区域的结构。
 
 ent-RailingWood = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingWoodEnd = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingWoodEndAlt = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerWood = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerSmallWood = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingRoundWood = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-BaseRailingYellow = 栏杆
     .desc = 一种用于建造或分隔区域的结构。
 
 ent-RailingYellow = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingYellowEnd = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingYellowEndAlt = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerYellow = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerSmallYellow = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingRoundYellow = 栏杆
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-BaseRailingBoxing = 结构
     .desc = 一种用于建造或分隔区域的结构。
 
 ent-RailingBoxing = 结构
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 ent-RailingCornerBoxing = 结构
+    .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 
 ent-WallAbductorDiagonal = 结构
     .desc = 一种用于建造或分隔区域的结构。
 
 ent-WallAbductor = 结构
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallConcrete = 结构
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallXenoborgRCD = 结构
+    .desc = 把空气留在里面，把助理挡在外面。
 
 ent-WallDarkWood = 结构
+    .desc = 传统的防助理设施。
 
 ent-WallReinforcedPlastitanium = 结构
     .desc = 一种用于建造或分隔区域的结构。
@@ -893,10 +975,13 @@ ent-WallFan = 结构
 
 
 ent-BarWindow = 结构
+    .desc = 别把下面的玻璃弄花了。
 
 ent-BarWindowDiagonal = 结构
+    .desc = 别把下面的玻璃弄花了。
 
 ent-BarAltWindowDiagonal = 结构
+    .desc = 别把下面的玻璃弄花了。
 
 
 ent-ShuttleWindowDirectional = 结构
@@ -904,9 +989,11 @@ ent-ShuttleWindowDirectional = 结构
 
 
 ent-RetroShuttleWindow = 结构
+    .desc = 别把那里的玻璃抹花了。
 
 
 ent-XenoborgWindowRCD = 结构
+    .desc = 别把下面的玻璃弄花了。
 
 
 ent-CMPlatform = 平台
@@ -967,6 +1054,7 @@ ent-FloorAzureWaterEntity = 物品
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-FloorWaterDestructibleEntity = 水
+    .desc = 真正的解渴佳品。
 
 ent-FloorAzureWaterDestructibleEntity = 物品
     .desc = 仔细检查可以了解它的用途与特性。

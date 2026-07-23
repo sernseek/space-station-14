@@ -288,8 +288,10 @@ ent-DrinkCafeLatte = 拿铁咖啡
     .desc = 阅读时来上一杯，香浓又美味。
 
 ent-DrinkTeacup = 茶
+    .desc = 一只朴素的白瓷茶杯。
 
 ent-DrinkGreenTea = 绿茶
+    .desc = 一只朴素的白瓷茶杯。
 
 ent-DrinkLean = 葡萄汁
     .desc = 可恶，一点乐子都不许有。
@@ -391,6 +393,7 @@ ent-DrinkShakeWhite = 白色奶昔
 
 
 ent-FoodBagel = 贝果
+    .desc = 一个美味的贝果。
 
 ent-FoodBagelPoppy = 罂粟籽贝果
     .desc = 美味的贝果，撒有浸入双硫啶的罂粟籽。
@@ -521,6 +524,7 @@ ent-FoodCakePlain = 蛋糕
     .desc = 普通的蛋糕，不是谎言。
 
 ent-FoodCakePlainSlice = 蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeCarrot = 胡萝卜蛋糕
     .desc = 某只调皮兔子最爱的甜点。
@@ -544,16 +548,19 @@ ent-FoodCakeOrange = 橙子蛋糕
     .desc = 加入了橙子的蛋糕。
 
 ent-FoodCakeOrangeSlice = 橙子蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeLime = 青柠蛋糕
     .desc = 加入了青柠的蛋糕。
 
 ent-FoodCakeLimeSlice = 青柠蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeLemon = 柠檬蛋糕
     .desc = 加入了柠檬的蛋糕。
 
 ent-FoodCakeLemonSlice = 柠檬蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeLemoon = 柠月蛋糕
     .desc = 象征地球月亮的蛋糕。
@@ -565,6 +572,7 @@ ent-FoodCakeChocolate = 巧克力蛋糕
     .desc = 加入了巧克力的蛋糕。
 
 ent-FoodCakeChocolateSlice = 巧克力蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeApple = 苹果蛋糕
     .desc = 以苹果为夹心的蛋糕。
@@ -588,6 +596,7 @@ ent-FoodCakeChristmas = 圣诞蛋糕
     .desc = 用圣诞节做成的蛋糕。
 
 ent-FoodCakeChristmasSlice = 圣诞蛋糕片
+    .desc = 只是一片蛋糕，却够人人都分上一口。
 
 ent-FoodCakeBirthday = 生日蛋糕
     .desc = 小丑，祝你生日快乐……
@@ -681,11 +690,13 @@ ent-FoodDonkpocketStonk = 暴涨夹心饼
     .desc = 味道不错，却令人悲伤地想起 24 年的大崩盘。
 
 ent-FoodDonkpocketStonkWarm = 热暴涨夹心饼
+    .desc = 味道不错，却令人悲伤地想起 24 年那场大崩盘。
 
 ent-FoodDonkpocketCarp = 鲤鱼夹心饼
     .desc = 失传已久的 Donk 夹心饼口味，专为辛勤工作的打捞员制作。
 
 ent-FoodDonkpocketCarpWarm = 热鲤鱼夹心饼
+    .desc = 失传已久的 Donk 夹心饼版本，专为辛勤工作的打捞专员打造。
 
 ent-FoodDonkpocketDink = 叮克夹心饼
     .desc = 山寨蜥蜴版 Donk 夹心饼，腌胡萝卜作馅，外裹海苔。冷食最佳，更好的选择是根本别吃。
@@ -694,13 +705,17 @@ ent-FoodDonkpocketMoth = 飞蛾夹心饼
     .desc = 嗡嗡作响的 Donk 夹心饼，诞生于反对……的大规模抗议期间。算了，谁在乎？就是给蛾人吃的夹心饼。
 
 ent-FoodDonkpocketMothWarm = 热飞蛾夹心饼
+    .desc = 嗡嗡作响的 Donk 夹心饼版本，诞生于一场反对……的群众抗议。说真的，谁在乎？不过是给蛾人吃的 Donk 夹心饼。
 
 
 ent-FoodDonutPlain = 原味甜甜圈
+    .desc = 配上一杯够劲的咖啡再合适不过。
 
 ent-FoodDonutJellyPlain = 原味果酱甜甜圈
+    .desc = 配上一杯够劲的咖啡再合适不过。
 
 ent-FoodDonutHomer = 甜甜圈
+    .desc = 配上一杯够劲的咖啡再合适不过。
 
 ent-FoodDonutChaos = 混沌甜甜圈
     .desc = 就像人生，每次尝起来都不太一样。
@@ -879,6 +894,7 @@ ent-FoodPieApple = 苹果派
     .desc = 装满甜蜜爱意……或者苹果的派。
 
 ent-FoodPieAppleSlice = 苹果派切片
+    .desc = 一片派。真香！
 
 ent-FoodPieBaklava = 果仁蜜饼
     .desc = 由层层坚果和薄面皮制成的美味健康点心。
@@ -896,35 +912,42 @@ ent-FoodPieClafoutis = 莓果克拉芙缇
     .desc = 没有黑鸟，这是个好兆头。
 
 ent-FoodPieClafoutisSlice = 莓果克拉芙缇切片
+    .desc = 一片派。真香！
 
 ent-FoodPieCherry = 樱桃派
     .desc = 好吃得足以让成年男人落泪。
 
 ent-FoodPieCherrySlice = 樱桃派切片
+    .desc = 一片派。真香！
 
 ent-FoodPieMeat = 肉派
     .desc = 一位老理发师的配方，非常美味！
 
 ent-FoodPieMeatSlice = 肉派切片
+    .desc = 一片派。真香！
 
 ent-FoodPiePumpkin = 南瓜派
     .desc = 应该有人把它做成拿铁！
 
 ent-FoodPiePumpkinSlice = 南瓜派切片
+    .desc = 一片派。真香！
 
 ent-FoodPieXeno = 异形派
 
 ent-FoodPieXenoSlice = 异形派切片
+    .desc = 一片派。真香！
 
 ent-FoodPieFrosty = 冰霜派
     .desc = 吃起来又蓝又冷。
 
 ent-FoodPieFrostySlice = 冰霜派切片
+    .desc = 一片派。真香！
 
 ent-FoodTartMime = 哑剧挞
     .desc = "      "
 
 ent-FoodTartMimeSlice = 哑剧挞切片
+    .desc = 一片派。真香！
 
 ent-FoodPieAmanita = 鹅膏菌派
     .desc = 香甜可口的毒蘑菇派。

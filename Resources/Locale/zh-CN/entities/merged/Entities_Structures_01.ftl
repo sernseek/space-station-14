@@ -90,12 +90,16 @@ ent-StatueBananiumClown = 香蕉矿救世主雕像
     .desc = 一尊香蕉矿雕像。它描绘了救世主归来、挺身率领小丑奔向伟大鸣笛的景象。
 
 ent-StatueIronsandSmall = 小型铁砂雕像
+    .desc = 一尊发现于铁砂荒漠中的神秘雕像。
 
 ent-StatueIronsandSmall2 = 小型铁砂雕像
+    .desc = 一尊发现于铁砂荒漠中的神秘雕像。
 
 ent-StatueIronsandTall = 高大铁砂雕像
+    .desc = 一尊发现于铁砂荒漠中的神秘雕像。
 
 ent-StatueIronsandTall2 = 高大铁砂雕像
+    .desc = 一尊发现于铁砂荒漠中的神秘雕像。
 
 
 ent-BoozeDispenserEmpty = 酒水分配器
@@ -118,6 +122,7 @@ ent-AirlockHatchSyndicate = 气密舱口
 
 
 ent-PinionAirlockAssembly = 气闸门组件
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 
 ent-AirlockAssembly = 气闸门组件
@@ -135,8 +140,10 @@ ent-BaseFirelock = 防火闸
     .desc = 请使用撬棍。
 
 ent-FirelockGlass = 玻璃防火闸
+    .desc = 请使用撬棍。
 
 ent-FirelockEdge = 防火闸
+    .desc = 请使用撬棍。
 
 
 ent-MetalDoor = 金属门
@@ -172,6 +179,7 @@ ent-BaseSecretDoorAssembly = 暗门组件
     .desc = 它会打开，也会关闭，或许还会把你夹扁。
 
 ent-SolidSecretDoor = 实心墙
+    .desc = 把空气留在里面，把助理挡在外面。
 
 
 ent-BlastDoorFrame = 防爆门框架
@@ -252,6 +260,7 @@ ent-TableBase = 桌子
     .desc = 一块由四条金属腿支撑的方形金属板。
 
 ent-CounterBase = 柜台
+    .desc = 一块由四条金属腿支撑的方形金属板。
 
 
 ent-OperatingTable = 手术台
@@ -320,40 +329,58 @@ ent-AltarBase = 祭坛
     .desc = 众神的祭坛。
 
 ent-AltarNanotrasen = 纳米传讯祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarChaos = 混沌祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarDruid = 德鲁伊祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarToolbox = 工具箱祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarSpaceChristian = 太空基督教祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarSatana = 撒旦祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarTechnology = 科技祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertFestival = 节庆祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertMaint = 维护通道祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertBlue = 蓝色祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertBurden = 重负祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvert = 皈依祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertOrange = 橙色祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertRed = 红色祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertWhite = 白色祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarConvertYellow = 黄色祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarHeaven = 天堂祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarFangs = 尖牙祭坛
+    .desc = 众神的祭坛。
 
 ent-AltarBananium = 鸣笛圣母祭坛
     .desc = 一座以香蕉矿制成、供奉鸣笛圣母的祭坛。
@@ -395,32 +422,43 @@ ent-SeatBase = 椅子
     .desc = 你会坐在上面。自愿也好，被迫也罢。
 
 ent-UnanchoredChairBase = 椅子
+    .desc = 你会坐在这上面。自愿也好，被迫也罢。
 
 ent-ChairBase = 椅子
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-OfficeChairBase = 椅子
+    .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-StoolBase = 凳子
+    .desc = 你会坐在这上面。自愿也好，被迫也罢。
 
 ent-Chair = 椅子
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ChairGreyscale = 椅子
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-Stool = 凳子
     .desc = 请把屁股放上去。
 
 ent-StoolBar = 酒吧凳
+    .desc = 你会坐在这上面。自愿也好，被迫也罢。
 
 ent-ChairBrass = 黄铜椅
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ChairOfficeLight = 白色办公椅
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ChairOfficeDark = 黑色办公椅
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ChairPilotSeat = 驾驶座
     .desc = 一艘名舰的驾驶座。
 
 ent-ChairWood = 木椅
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 ent-ChairRitual = 仪式椅
     .desc = 看起来不太舒服。
@@ -447,6 +485,7 @@ ent-WoodenBench = 木制长椅
     .desc = 被木刺扎到了？好吧，至少它很环保。
 
 ent-ChairXeno = 异形椅
+    .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
 
 ent-Memorial = 纪念碑
@@ -483,12 +522,16 @@ ent-SinkEmpty = 水槽
     .desc = 水龙头已经拧到了最大扭矩，却还是会滴水。
 
 ent-Sink = 水槽
+    .desc = 水龙头已经拧到扭矩极限，可它还是出了名的会滴水。
 
 ent-SinkWide = 宽水槽
+    .desc = 水龙头已经拧到扭矩极限，可它还是出了名的会滴水。
 
 ent-SinkStemless = 水槽
+    .desc = 水龙头已经拧到扭矩极限，可它还是出了名的会滴水。
 
 ent-SinkStemlessWater = 水槽
+    .desc = 水龙头已经拧到扭矩极限，可它还是出了名的会滴水。
 
 
 ent-BaseToilet = 马桶
@@ -561,6 +604,7 @@ ent-ArcadeBase = 街机
     .desc = 一台街机柜。
 
 ent-SpaceVillainArcade = 太空恶棍街机
+    .desc = 一台街机。
 
 ent-BlockGameArcade = NT 方块游戏
     .desc = 一台装着某款莫名眼熟游戏的街机。
@@ -921,27 +965,37 @@ ent-SurveillanceCameraRouterBase = 摄像头路由器
     .desc = 一台监控摄像头路由器。它负责路由。大概吧。
 
 ent-SurveillanceCameraRouterEngineering = 工程部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterSecurity = 安保部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterScience = 科研部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterSupply = 后勤部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterCommand = 指挥部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterService = 服务部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterMedical = 医疗部摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraRouterGeneral = 通用摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraWirelessRouterBase = 无线摄像头路由器
     .desc = 一台无线监控摄像头路由器。它负责路由。大概吧。
 
 ent-SurveillanceCameraWirelessRouterEntertainment = 娱乐区摄像头路由器
+    .desc = 一个无线监控摄像头路由器。它会路由。也许吧。
 
 ent-SurveillanceCameraWirelessRouterXenoborg = 异形赛博格摄像头无线路由器
+    .desc = 一个无线监控摄像头路由器。它会路由。也许吧。
 
 
 ent-TelecomServer = 电信服务器
@@ -1018,6 +1072,7 @@ ent-VendingMachineMedicalBase = 纳米医疗民用型
     .desc = 一台医用药物分配器。只供应天然化学品！
 
 ent-VendingMachineMedical = 纳米医疗加强版
+    .desc = 一台医疗药品分配器。只用天然化学品！
 
 ent-VendingMachineNutri = 营养至上
     .desc = 一台装有植物营养剂和植物学工具的自动售货机。

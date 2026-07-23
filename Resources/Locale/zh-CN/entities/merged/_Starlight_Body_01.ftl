@@ -61,12 +61,16 @@ ent-OrganSlimesLungs = 史莱姆气囊
     .desc = 收集氮气，供史莱姆细胞维持生命活动。
 
 ent-OrganProtoArachnidHeart = 蛛人赛博心脏
+    .desc = 其实不需要跳动，只是模仿心跳来让使用者安心。
 
 ent-OrganProtoAvaliStomach = 阿瓦利生物反应堆
+    .desc = 有人说这是过度设计，但它对原生机械的运作至关重要。它能把有机物转化为有机能和电能，为原生机械的赛博改造部件与血肉供能。
 
 ent-OrganProtoAvaliHeart = 阿瓦利赛博心脏
+    .desc = 其实不需要跳动，只是模仿心跳来让使用者安心。
 
 ent-OrganProtoAvaliLiver = 阿瓦利赛博肝脏
+    .desc = 搭配建议：一份发酵内存条，再来颗上好的处理器。
 
 ent-OrganProtogenBrain = 赛博大脑
     .desc = 不可思议且无穷无尽的智慧之源。01201020 02102111 01201210 02121012 20121210
@@ -105,6 +109,7 @@ ent-OrganProtoCycloriteEye = 赛克洛人赛博眼睛
     .desc = 赛克洛人眼中的世界略有不同。
 
 ent-OrganProtoCycloriteHeart = 赛克洛人赛博心脏
+    .desc = 其实不需要跳动，只是模仿心跳来让使用者安心。
 
 ent-OrganProtoDionaStomach = 强化胃
     .desc = 相当于狄奥娜的胃，散发着芦笋和醋的恶臭。
@@ -140,6 +145,7 @@ ent-OrganProtoResomiEyes = 瑞索米赛博眼睛
     .desc = 这双眼睛拥有出色的夜视能力，但对强光极其敏感。
 
 ent-OrganProtoResomiHeart = 瑞索米赛博心脏
+    .desc = 其实不需要跳动，只是模仿心跳来让使用者安心。
 
 ent-OrganProtoResomiLungs = 瑞索米赛博肺
     .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
@@ -163,8 +169,10 @@ ent-OrganProtoSlimeSlurpoid = 强化啜胶体
     .desc = 从里到外都是明胶般的质感。
 
 ent-OrganProtoVoxStomach = 沃克斯生物反应堆
+    .desc = 有人说这是过度设计，但它对原生机械的运作至关重要。它能把有机物转化为有机能和电能，为原生机械的赛博改造部件与血肉供能。
 
 ent-OrganProtoVoxHeart = 沃克斯赛博心脏
+    .desc = 其实不需要跳动，只是模仿心跳来让使用者安心。
 
 ent-OrganProtoVoxLungs = 沃克斯赛博肺
     .desc = 从大气中过滤氮气，再将其送入血液作为电子载体。
@@ -431,17 +439,22 @@ ent-OrganShadekinTongue = 影裔舌头
 ent-OrganShadekinAppendix = 影裔阑尾
 
 ent-OrganShadekinHeart = 影裔心脏
+    .desc = 真替那个丢了这颗心的无心混蛋难过。
 
 ent-OrganShadekinStomach = 影裔胃
+    .desc = 真恶心，实在难以下咽。
 
 ent-OrganShadekinLiver = 影裔肝脏
+    .desc = 搭配建议：基安蒂葡萄酒和蚕豆。
 
 ent-OrganShadekinKidneys = 影裔肾脏
+    .desc = 过滤血液中的毒素。
 
 ent-OrganShadekinCore = 影裔核心
     .desc = 影裔神秘而强大的核心，似乎是其能量之源。
 
 ent-OrganShadekinCoreUndamaged = 亮眼核心
+    .desc = 影裔的核心，一种神秘而强大的器官，似乎是其能量来源。
 
 ent-SentientSlimeCore = 智慧史莱姆核心
     .desc = 不可思议且无穷无尽的黏糊之源。
@@ -480,6 +493,7 @@ ent-OrganVoxKidneys = 沃克斯肾脏
     .desc = 闻起来一点就着。
 
 ent-OrganVoxEyes = 沃克斯眼睛
+    .desc = 我看见你了！
 
 ent-OrganVoxTongue = 沃克斯舌头
     .desc = 一块主要用来尖叫的肉质肌肉。

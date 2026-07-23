@@ -55,6 +55,7 @@ ent-BiomassReclaimer = 生物质回收机
 ent-BaseAnomalyInjector = 异常注入器
 
 ent-FloorCarpetItemRed = 地毯
+    .desc = 拿来当投掷武器应该相当不错。
 
 ent-ToteBase = 电路板周转箱
     .desc = 用于携带电路板的大型周转箱。
@@ -105,6 +106,7 @@ ent-WeaponPistolCHIMPUpgradeKit = C.H.I.M.P. 手炮升级芯片
     .desc = C.H.I.M.P. 的实验性升级套件。
 
 ent-DrinkBottleCoffeeLiqueur = 咖啡利口酒瓶
+    .desc = 有咖啡的绝佳风味，却没有咖啡的任何好处。
 
 ent-DrinkBottleNTCahors = NT 卡奥尔酒瓶
 
@@ -158,6 +160,7 @@ ent-ClothingMiscChameleon = 优秀船员金质奖章
     .desc = 授予展现出杰出船员精神的船员。
 
 ent-SurveillanceCameraRouterIsolatedNetwork = 摄像头路由器
+    .desc = 一个监控摄像头路由器。它会路由。也许吧。
 
 ent-CoffeeDispenserEmpty = 咖啡分配器
     .desc = 一台提供多种咖啡和茶的饮料分配器，带有一个容器填充槽。
@@ -178,13 +181,16 @@ ent-GasFilterInline = 直通式气体过滤器
     .desc = 在不将管网一分为二的情况下过滤其中的气体。
 
 ent-IngotAbyssium = 深渊矿锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-PinpointerTerminator = 目标信标
     .desc = 显示目标当前所在的位置。
 
 ent-BriefcaseSecure = 安全公文包
+    .desc = 方便用手提着携带物品。配有电子锁。
 
 ent-BriefcaseSyndicateRedspace = 辛迪加公文包
+    .desc = 方便用手提着携带物品。
 
 ent-Ticket = 票券
     .desc = 一张印有编号和 NT 标志的白纸。
@@ -214,6 +220,7 @@ ent-SpiderJelly = 蜘蛛王浆
     .desc = 蜘蛛制造的奇异胶状物，拥有不可思议的再生能力。
 
 ent-ThrowingStarChangeling = 骨片
+    .desc = 一种沿用至今的古老武器，因为它特别容易卡进受害者的身体部位。
 
 ent-AdvancedClaws = 高级利爪
     .desc = 嵌入手中的锋利可伸缩塑钢爪。
@@ -225,6 +232,7 @@ ent-VampiricClawsItem = 吸血鬼利爪
     .desc = 由鲜血铸成的利爪，命中时可汲取生命精华。挥击 15 次后，或遭到驱散时便会消散。
 
 ent-BulletCaselessRifleRubber = 子弹（.25 无壳橡胶弹）
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-MagazineGrenadeCleanade = 清洁弹榴弹弹药筒
 
@@ -276,10 +284,13 @@ ent-ClothingShoesBootsMagMedTak = MedTak 战斗磁力靴
     .desc = 配发给执行非行星任务的 MedTak 单位的制式战斗磁力靴。
 
 ent-OrganDwarfLiver = 矮人肝脏
+    .desc = 搭配建议：基安蒂葡萄酒和蚕豆。
 
 ent-OrganDwarfStomach = 矮人胃
+    .desc = 真恶心，实在难以下咽。
 
 ent-BoxWardenStamps = 典狱长印章盒
+    .desc = 装有印章的小盒子。
 
 ent-CrateSecurityReflectiveArmor = 反射护甲板条箱
     .desc = 装有三件反射背心。需要安保部权限才能打开。
@@ -299,16 +310,21 @@ ent-ActionAGhostShowCharacterRecords = 角色档案界面
     .desc = 查看所有角色档案
 
 ent-IngotPlutonium = 钚锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-IngotPlutonium1 = 钚锭
+    .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-ClothingHeadHelmetMetalHydrogen = 金属氢头盔
     .desc = 采用人类所能获得的最坚固、最稀有材料打造的顶级头盔。
 
 ent-EeepGunBullet = 咿噗闪电
+    .desc = 如果你看得见这个，那你多半已经死了！
 
 ent-NunoCardDeckBox = 扑克牌盒
+    .desc = 一个小纸盒，用来装一叠小卡纸片。真刺激。
 
 ent-NunoCardDeck = 一副扑克牌
+    .desc = 图案鲜活、色彩缤纷的纸牌，等候出牌时也能赏心悦目。
 
 ent-TP14DeepFryerCircuitboard = 油炸机主板
