@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightPacked
-  mapName: 'Packed'
+  mapName: 满载站
   mapPath: /Maps/_Starlight/Stations/Packed.yml
   minPlayers: 0
   maxPlayers: 35

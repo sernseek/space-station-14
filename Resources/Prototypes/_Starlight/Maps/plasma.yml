@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightPlasma
-  mapName: 'Plasma'
+  mapName: 等离子站
   mapPath: /Maps/_Starlight/Stations/Plasma.yml
   minPlayers: 25
   maxPlayers: 80

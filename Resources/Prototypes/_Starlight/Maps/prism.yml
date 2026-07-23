@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightPrism
-  mapName: 'Prism Station'
+  mapName: 棱镜站
   mapPath: /Maps/_Starlight/Stations/Prism.yml
   minPlayers: 25
   maxPlayers: 80

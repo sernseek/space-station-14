@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightManor
-  mapName: 'Manor Station'
+  mapName: 庄园站
   mapPath: /Maps/_Starlight/Stations/Manor.yml
   minPlayers: 50
   maxPlayers: 350

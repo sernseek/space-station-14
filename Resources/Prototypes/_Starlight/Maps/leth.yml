@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightLeth
-  mapName: 'Leth Vessel'
+  mapName: 莱斯号
   mapPath: /Maps/_Starlight/Stations/Leth.yml
   minPlayers: 15
   maxPlayers: 65

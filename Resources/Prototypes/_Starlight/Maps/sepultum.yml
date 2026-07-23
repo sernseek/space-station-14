@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightSepultum
-  mapName: 'Sepultum Station'
+  mapName: 塞普图姆站
   mapPath: /Maps/_Starlight/Stations/Sepultum.yml
   minPlayers: 50
   maxPlayers: 350

@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightBox
-  mapName: 'Box Station'
+  mapName: 盒子站
   mapPath: /Maps/_Starlight/Stations/Box.yml
   minPlayers: 50
   maxPlayers: 120

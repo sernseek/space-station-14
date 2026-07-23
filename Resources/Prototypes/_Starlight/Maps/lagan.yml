@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightLagan
-  mapName: 'Lagan'
+  mapName: 拉甘站
   mapPath: /Maps/_Starlight/Stations/Lagan.yml
   minPlayers: 50
   maxPlayers: 350

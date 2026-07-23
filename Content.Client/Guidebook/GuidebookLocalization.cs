@@ -13,6 +13,7 @@ namespace Content.Client.Guidebook;
 public static class GuidebookLocalization
 {
     private static readonly ResPath GuidebookRoot = new("/ServerInfo/Guidebook");
+    private static readonly ResPath ServerInfoRoot = new("/ServerInfo");
 
     public static ResPath GetLocalizedGuide(this IResourceManager resourceManager, ResPath path)
     {
@@ -20,10 +21,22 @@ public static class GuidebookLocalization
         if (culture is null or "en-US")
             return path;
 
-        if (!path.TryRelativeTo(GuidebookRoot, out var relative))
-            return path;
+        // Main guidebook: /ServerInfo/Guidebook/X -> /ServerInfo/Guidebook/<culture>/X
+        if (path.TryRelativeTo(GuidebookRoot, out var relative))
+        {
+            var localized = GuidebookRoot / culture / relative.Value;
+            if (resourceManager.ContentFileExists(localized))
+                return localized;
+        }
 
-        var localized = GuidebookRoot / culture / relative.Value;
-        return resourceManager.ContentFileExists(localized) ? localized : path;
+        // Fork guidebooks and other ServerInfo docs: /ServerInfo/X -> /ServerInfo/<culture>/X
+        if (path.TryRelativeTo(ServerInfoRoot, out var siRelative))
+        {
+            var localized = ServerInfoRoot / culture / siRelative.Value;
+            if (resourceManager.ContentFileExists(localized))
+                return localized;
+        }
+
+        return path;
     }
 }

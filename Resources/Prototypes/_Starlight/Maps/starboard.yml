@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightStarboard
-  mapName: 'Starboard'
+  mapName: 右舷站
   mapPath: /Maps/_Starlight/Stations/Starboard.yml
   minPlayers: 90
   maxPlayers: 500

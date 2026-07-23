@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightCork
-  mapName: 'Cork Outpost'
+  mapName: 科克前哨
   mapPath: /Maps/_Starlight/Stations/Cork.yml
   maxRandomOffset: 0
   randomRotation: false

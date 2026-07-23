@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightElkridge
-  mapName: 'Elkridge Depot'
+  mapName: 麋鹿岭仓库
   mapPath: /Maps/_Starlight/Stations/Elkridge.yml
   minPlayers: 15
   maxPlayers: 75

@@ -1,6 +1,6 @@
 - type: gameMap
   id: Empty
-  mapName: Empty
+  mapName: 空白图
   mapPath: /Maps/Test/empty.yml
   minPlayers: 0
   stations:
@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: Dev
-  mapName: Dev
+  mapName: 开发图
   mapPath: /Maps/Test/dev_map.yml
   minPlayers: 0
   stations:
@@ -30,7 +30,7 @@
 
 - type: gameMap
   id: TestTeg
-  mapName: Test TEG
+  mapName: TEG 测试图
   mapPath: /Maps/Test/test_teg.yml
   minPlayers: 0
   stations:

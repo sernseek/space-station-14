@@ -1,8 +1,8 @@
-Welcome to Space Station 14! You have just started your shift aboard a Nanotrasen space station and along with your crewmates should cooperate, perform your job role to the best of your ability and have fun (not at the expense of others hopefully).
+欢迎来到 Space Station 14！你刚刚开始在纳米传讯空间站的一个班次。你应当与船员们互相配合、尽力做好本职工作，并玩得开心（当然，最好别建立在别人的痛苦之上）。
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues on shift in person or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+请务必先了解服务器规则（F1）。有任何疑问，可以查阅本指南、当面或通过无线电询问同班同事，也可以在 Discord 提问。你还可以通过管理求助（AHelp）联系管理员：按 Esc 键 > 管理求助，输入消息即可发送给在线管理员。如果目睹有人违反规则，尤其应当这么做。
 
-To reiterate, you are all a crew of people who work together (even the clown) and you should not be harming each other unless you have an extremely good reason (self defence) and even then, call security over radio, stun and detain, do not commit murder as a non antagonist (see antagonist further down).
+再强调一次：你们是一整船共事的船员（包括小丑在内），除非有极充分的理由（如正当防卫），否则不应互相伤害——即使那样，也请优先通过无线电呼叫安保、击晕并逮捕。非敌对角色不得杀人（敌对角色的说明见下文）。
 
 
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+我们没有"意图"系统，取而代之的是战斗模式。按键设置见下方"操作"章节。战斗模式关闭时你无法攻击任何人——再也不会用自己的撬棍砸到自己了。

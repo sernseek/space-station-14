@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightStationBuilding
-  mapName: 'Under Construction'
+  mapName: 施工中
   mapPath: /Maps/_Starlight/Stations/StationBuilding.yml
   minPlayers: 20
   maxPlayers: 100

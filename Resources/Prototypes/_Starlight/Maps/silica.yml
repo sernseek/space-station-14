@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightSilica
-  mapName: 'Silica Station'
+  mapName: 硅石站
   mapPath: /Maps/_Starlight/Stations/Silica.yml
   minPlayers: 25
   maxPlayers: 120

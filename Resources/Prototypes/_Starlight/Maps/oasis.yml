@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightOasis
-  mapName: 'Oasis'
+  mapName: 绿洲站
   mapPath: /Maps/_Starlight/Stations/Oasis.yml
   minPlayers: 50
   maxPlayers: 150

@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightBarratry
-  mapName: 'Barratry'
+  mapName: 讼棍站
   mapPath: /Maps/_Starlight/Stations/Barratry.yml
   minPlayers: 40
   maxPlayers: 130

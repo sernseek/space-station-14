@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightCluster
-  mapName: 'Cluster'
+  mapName: 集群站
   mapPath: /Maps/_Starlight/Stations/Cluster.yml
   minPlayers: 0
   maxPlayers: 35

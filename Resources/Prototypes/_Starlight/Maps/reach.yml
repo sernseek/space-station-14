@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightReach
-  mapName: 'Reach'
+  mapName: 里奇站
   mapPath: /Maps/_Starlight/Stations/Reach.yml
   minPlayers: 0
   maxPlayers: 15

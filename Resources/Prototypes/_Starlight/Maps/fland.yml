@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightFland
-  mapName: 'Fland Installation'
+  mapName: 弗兰德设施
   mapPath: /Maps/_Starlight/Stations/Fland.yml
   minPlayers: 65
   maxPlayers: 350

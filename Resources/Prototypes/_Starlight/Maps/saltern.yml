@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightSaltern
-  mapName: 'Saltern'
+  mapName: 盐场站
   mapPath: /Maps/_Starlight/Stations/Saltern.yml
   minPlayers: 0
   maxPlayers: 40

@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightSerpentcrest
-  mapName: 'Serpentcrest'
+  mapName: 蛇冠站
   mapPath: /Maps/_Starlight/Stations/Serpentcrest.yml
   minPlayers: 60
   maxPlayers: 150

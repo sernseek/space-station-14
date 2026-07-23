@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightOrwell
-  mapName: 'Orwell "Citadel" Station'
+  mapName: 奥威尔堡垒站
   mapPath: /Maps/_Starlight/Stations/Orwell.yml
   minPlayers: 50
   maxPlayers: 350

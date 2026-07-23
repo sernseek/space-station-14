@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightSpaceMall
-  mapName: 'Space Mall'
+  mapName: 太空商城
   mapPath: /Maps/_Starlight/Stations/SpaceMall.yml
   minPlayers: 60
   maxPlayers: 350

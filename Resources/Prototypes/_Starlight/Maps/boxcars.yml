@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightBoxcars
-  mapName: 'Boxcars'
+  mapName: 棚车站
   mapPath: /Maps/_Starlight/Stations/Boxcars.yml
   minPlayers: 25
   maxPlayers: 95
