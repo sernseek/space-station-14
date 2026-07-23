@@ -1,0 +1,11 @@
+reagent-physical-desc-abductor = 遭绑架的
+reagent-physical-desc-avali = 非铁质的
+reagent-physical-desc-resomi = 非铁质的
+reagent-physical-desc-crab-juice = 蟹化的
+reagent-physical-desc-devil-juice = 恶魔般的
+reagent-physical-desc-otherworldly = 异世界的
+reagent-physical-desc-elf-diethylamine = 焕发活力的
+reagent-physical-desc-elf-tranexamic-acid = 凝血的
+reagent-physical-desc-elf-space-cleaner = 闪耀的
+reagent-physical-desc-highlander = 不朽的
+reagent-physical-desc-resinfera = 多刺的

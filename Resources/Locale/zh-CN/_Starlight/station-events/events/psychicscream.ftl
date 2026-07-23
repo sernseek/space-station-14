@@ -1,0 +1,3 @@
+station-event-psychicscreach-announcement = 我们刚刚收到读数，一股未知能量辐射穿过了空间站。电气系统似乎受到了影响。有人收到吗？
+station-event-psychicscreach-nosebleed = 你的鼻子开始流血……
+station-event-psychicscreach-borg = 你的集成传感器检测到异常。部分重启开始，你的系统将受到影响。

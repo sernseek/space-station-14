@@ -1,0 +1,14 @@
+rpd-component-piping = 管道
+rpd-component-atmospheric-utility = 大气辅助设备
+rpd-component-pumps = 泵与阀门
+rpd-component-vents = 通风口
+rpd-component-sensors-monitors = 传感器与监测器
+rcd-rpd-mode-primary = 主要
+rcd-rpd-mode-secondary = 次要
+rcd-rpd-mode-tertiary = 第三
+rcd-rpd-mode-quaternary = 第四
+rcd-rpd-mode-quinary = 第五
+rcd-rpd-mode-free = 自由
+rcd-component-examine-rpd-mode = 当前模式：[color=cyan]{$mode}[/color]
+rcd-verb-switch-mode = 切换模式
+rcd-item-status-mode = 模式：{$mode}

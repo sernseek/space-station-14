@@ -1,0 +1,15 @@
+security-drill-event-fail-announcement = 原定于此时进行的指挥部演习因警戒等级升高而取消。
+security-drill-basic = 中央安保部门已下令在全站开展{LOC($drill)}演习。
+security-drill-basic-1 = 野生动物肆虐
+security-drill-basic-2 = 火灾
+security-drill-basic-3 = 敌对登舰
+security-drill-basic-4 = 炸弹
+security-drill-basic-5 = 智慧涌现
+security-drill-detain = 中央安保部门因可疑活动下令临时拘留并搜查 { $target }。请就嫌疑人过去 48 小时的活动和行踪进行彻底讯问，随后传真一份报告，附上讯问内容及其身上查出的所有违禁品清单。
+security-drill-questioning = 中央安保部门因{LOC($drill)}下令临时拘留并讯问 { $target }。请就嫌疑人过去 48 小时的活动和行踪进行彻底讯问，随后传真一份报告，附上讯问内容及其身上查出的所有违禁品。
+security-drill-questioning-1 = 截获的敌对通信将其指认为潜在渗透渠道
+security-drill-questioning-2 = 追查到与敌对行动有关的可疑银行转账
+security-drill-questioning-3 = 追查到与走私活动有关的非法商品购买记录
+security-drill-questioning-4 = 可能遭到外部敌对势力植入服从植入物
+security-drill-questioning-5 = 上级下令对其档案进行安保审查
+security-drill-questioning-6 = 上级下令评估其对纳米传讯及中央指挥部的威胁

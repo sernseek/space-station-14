@@ -1,0 +1,10 @@
+job-name-syndicate-captain = 辛迪加舰长
+job-name-syndicate-chief-engineer = 辛迪加工程主管
+job-name-syndicate-chief-medical-officer = 辛迪加医疗主管
+job-name-syndicate-head-of-personnel = 辛迪加人事主管
+job-name-syndicate-head-of-security = 辛迪加安保主管
+job-name-syndicate-iaa = 辛迪加内务特工
+job-name-syndicate-magistrate = 辛迪加地方法官
+job-name-syndicate-quartermaster = 辛迪加军需官
+job-name-syndicate-research-director = 辛迪加研究主管
+job-name-syndicate-redshield = 红盾干员

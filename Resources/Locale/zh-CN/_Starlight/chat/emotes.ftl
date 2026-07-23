@@ -1,0 +1,47 @@
+# 动作名称
+chat-emote-name-mew = 轻喵
+chat-emote-name-hiss = 嘶叫
+chat-emote-name-purr = 呼噜
+chat-emote-name-meow = 喵叫
+chat-emote-name-trill = 颤鸣
+chat-emote-name-yip = 嗷叫
+chat-emote-name-marr = 呜鸣
+chat-emote-name-wurble = 啭鸣
+chat-emote-name-scree = 尖啸
+chat-emote-name-call = 呼唤
+chat-emote-name-squawk = 粗鸣
+chat-emote-name-lizardpurr = 呼噜
+chat-emote-name-lizardhiss = 嘶叫
+chat-emote-name-lizardrattle = 摇尾
+chat-emote-name-flap-wings = 扇动翅膀
+chat-emote-name-bubble = 冒泡
+chat-emote-name-pop = 啵声
+chat-emote-name-squee = 吱叫
+chat-emote-name-snort = 喷鼻息
+chat-emote-name-stomp = 跺脚
+chat-emote-name-hum = 哼唱
+chat-emote-name-glub = 咕噜
+
+# 动作消息
+chat-emote-msg-mew = 轻轻喵了一声
+chat-emote-msg-hiss = 发出嘶声
+chat-emote-msg-purr = 打起呼噜
+chat-emote-msg-meow = 喵喵叫
+chat-emote-msg-trill = 发出颤鸣
+chat-emote-msg-yip = 嗷叫
+chat-emote-msg-marr = 呜鸣
+chat-emote-msg-wurble = 发出啭鸣
+chat-emote-msg-scree = 发出尖啸
+chat-emote-msg-call = 发出呼唤
+chat-emote-msg-squawk = 粗声鸣叫
+chat-emote-msg-lurr = 打起呼噜
+chat-emote-msg-liss = 发出嘶声
+chat-emote-msg-rattle = 摇响尾巴
+chat-emote-msg-flap-wings = 扇动{POSS-ADJ($entity)}的翅膀。
+chat-emote-msg-bubble = 冒起泡泡
+chat-emote-msg-pop = 发出啵声
+chat-emote-msg-squee = 吱吱叫
+chat-emote-msg-snort = 喷着鼻息
+chat-emote-msg-stomp = 跺了跺脚
+chat-emote-msg-hum = 哼唱起来
+chat-emote-msg-glub = 咕噜作响

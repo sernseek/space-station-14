@@ -1,0 +1,17 @@
+names-devil-title-dataset-1 = 夜幕王子
+names-devil-title-dataset-2 = 受缚者
+names-devil-title-dataset-3 = 扭曲者
+names-devil-title-dataset-4 = 替罪羊
+names-devil-title-dataset-5 = 邪恶之灵
+names-devil-title-dataset-6 = 残酷者
+names-devil-title-dataset-7 = 上班族
+names-devil-title-dataset-8 = 暴怒者
+names-devil-title-dataset-9 = 群星之属
+names-devil-title-dataset-10 = 深渊之属
+names-devil-title-dataset-11 = 无底深渊之属
+names-devil-title-dataset-12 = 暴食者
+names-devil-title-dataset-13 = 恶臭之属
+names-devil-title-dataset-14 = 黑暗统治者
+names-devil-title-dataset-15 = 平庸者
+names-devil-title-dataset-16 = 凡俗者
+names-devil-title-dataset-17 = 怪异者

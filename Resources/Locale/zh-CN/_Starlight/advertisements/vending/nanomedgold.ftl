@@ -1,0 +1,9 @@
+advertisement-nanomedgold-1 = 快去救人吧！——豪华版——
+advertisement-nanomedgold-2 = 豪华医务室用品的最佳之选。
+advertisement-nanomedgold-3 = 只提供最无瑕的工具。
+advertisement-nanomedgold-4 = 豪华化学品！
+advertisement-nanomedgold-5 = 这些东西能救命。
+advertisement-nanomedgold-6 = 你难道不想来点吗？
+advertisement-nanomedgold-7 = 砰！
+advertisement-nanomedgold-8 = 小心别让人用药过量！
+advertisement-nanomedgold-9 = 快去让人用药过量！

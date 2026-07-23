@@ -1,0 +1,9 @@
+advertisement-legaldrobe-1 = 站住！把法治穿在身上！
+advertisement-legaldrobe-2 = 快去纠缠安保，直到他们遵守你定的规矩！
+advertisement-legaldrobe-3 = 又有新案子了？快把他们从牢里捞出来！
+advertisement-legaldrobe-4 = 我请求传唤鹦鹉出庭作证！
+advertisement-legaldrobe-5 = 去找典狱长没完没了地争论辩诉交易吧。
+advertisement-legaldrobe-6 = 再鸡毛蒜皮的纠纷也能解决！
+advertisement-legaldrobe-7 = 我们不卖勾玉。
+advertisement-legaldrobe-8 = 你或亲友曾被纳米传讯伤害？快找律师！
+advertisement-legaldrobe-9 = 新一场审判开庭了！

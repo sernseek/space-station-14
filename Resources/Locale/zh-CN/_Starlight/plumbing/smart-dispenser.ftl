@@ -1,0 +1,10 @@
+plumbing-smart-dispenser-window-title = 智能分配器
+plumbing-smart-dispenser-reagent-entry = {$reagent}：{$amount}u
+plumbing-smart-dispenser-empty = 未储存试剂。
+plumbing-smart-dispenser-total = {$count} 种试剂——共 {$total}u
+plumbing-smart-dispenser-no-container = 未绑定容器。
+plumbing-smart-dispenser-hint = 使用带标签的容器自动分配对应试剂，或使用无标签容器手动分配。
+plumbing-smart-dispenser-row-tooltip = {$reagent}：已储存 {$stored}u／{$max}u。
+plumbing-smart-dispenser-not-in-stock = {$reagent} 无库存。
+plumbing-smart-dispenser-jug-full = 容器已经装满。
+plumbing-smart-dispenser-filled = 已装入 {$amount}u {$reagent}。

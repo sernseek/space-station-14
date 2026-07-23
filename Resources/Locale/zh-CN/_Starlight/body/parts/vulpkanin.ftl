@@ -1,0 +1,11 @@
+ent-PartVulpkanin = 伏尔卡宁身体部位
+ent-TorsoVulpkanin = 伏尔卡宁躯干
+ent-HeadVulpkanin = 伏尔卡宁头部
+ent-LeftArmVulpkanin = 伏尔卡宁左臂
+ent-RightArmVulpkanin = 伏尔卡宁右臂
+ent-LeftHandVulpkanin = 伏尔卡宁左手
+ent-RightHandVulpkanin = 伏尔卡宁右手
+ent-LeftLegVulpkanin = 伏尔卡宁左腿
+ent-RightLegVulpkanin = 伏尔卡宁右腿
+ent-LeftFootVulpkanin = 伏尔卡宁左脚
+ent-RightFootVulpkanin = 伏尔卡宁右脚

@@ -1,0 +1,12 @@
+advertisement-icecream-1 = 这可比抽烟酷多了！
+advertisement-icecream-2 = 不想逃离炎热吗？
+advertisement-icecream-3 = 那些工业车床肯定把这里弄得很热，对吧？
+advertisement-icecream-4 = 是我的错觉，还是房间变热了？
+advertisement-icecream-5 = 如同环绕我们的无尽深空一般冰冷。
+advertisement-icecream-6 = 来一份豪华巨无霸冰淇淋，犒劳自己吧。
+advertisement-icecream-7 = 尝尝美味的奶油冰棒！
+advertisement-icecream-8 = 听着，烟味冰棒在纸面上真的是个好主意。
+advertisement-icecream-9 = 沃克斯船员心中的第一名。
+advertisement-icecream-10 = 狐族船员心中的第一名。
+advertisement-icecream-11 = 伏尔卡宁船员心中的第一名。
+advertisement-icecream-12 = 要是你受不了炎热，我会陪着你。

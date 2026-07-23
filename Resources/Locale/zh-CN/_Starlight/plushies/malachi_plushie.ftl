@@ -1,0 +1,10 @@
+plushie-malachi-1 = 我想念我的腿……
+plushie-malachi-2 = 我待我的队伍很好。
+plushie-malachi-3 = 你想要德卡德？好极了。
+plushie-malachi-4 = 安保部今天获准使用铜指虎。小伙子们，别留情！
+plushie-malachi-5 = 海洛？是啊，老朋友了。是个好医生。
+plushie-malachi-6 = 斯皮里特？我好多年没听过这个名字了……混蛋。
+plushie-malachi-7 = 酒保，给我来一杯丛林鸟好吗？
+plushie-malachi-8 = 呃，你大概已经服完刑了。滚吧。
+plushie-malachi-9 = 嫉妒是一种病，婊子，祝你早日康复。
+plushie-malachi-10 = 我唯一搞砸的，就是一切。

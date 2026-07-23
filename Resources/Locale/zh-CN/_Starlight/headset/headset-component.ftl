@@ -1,0 +1,13 @@
+chat-radio-law = 法律
+chat-radio-nanotrasen = 纳米传讯
+chat-radio-soviet = 苏维埃
+chat-radio-expedition = 远征
+chat-radio-tsf = 跨太阳系
+chat-radio-tsf-borg = 太阳系政府赛博格
+chat-radio-blackstar = 黑星
+chat-radio-merchant = 商人
+chat-radio-winds = 魔法之风
+chat-radio-global = 全局
+chat-radio-aspace = Aspace
+chat-radio-medtak = MedTak
+chat-radio-medtak-borg = MedTak 硅基

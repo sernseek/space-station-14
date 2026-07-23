@@ -1,0 +1,9 @@
+advertisement-deforest-1 = 快去救人吧！
+advertisement-deforest-2 = 医务室用品的最佳之选。
+advertisement-deforest-3 = 只提供最洁净的工具。
+advertisement-deforest-4 = 高品质注射器！
+advertisement-deforest-5 = 这些东西能救命！
+advertisement-deforest-6 = 你难道不想来点吗？
+advertisement-deforest-7 = 哔！
+advertisement-deforest-8 = 小心别让人用药过量！
+advertisement-deforest-9 = 快去让人用药过量！

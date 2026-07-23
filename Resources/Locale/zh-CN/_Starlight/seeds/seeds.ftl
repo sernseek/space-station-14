@@ -1,0 +1,14 @@
+seeds-organ-tree-name = 器官树
+seeds-organ-tree-display-name = 器官树
+seeds-evilapple-name = 恶魔苹果
+seeds-evilapple-display-name = 恶魔苹果树
+seeds-resinfera-name = 树脂蕨
+seeds-resinfera-display-name = 树脂蕨
+seeds-mint-name = 薄荷灌木
+seeds-mint-display-name = 薄荷灌木
+seeds-spear-mint-name = 绿薄荷
+seeds-spear-mint-display-name = 绿薄荷
+seeds-cinnamon-name = 肉桂树
+seeds-cinnamon-display-name = 肉桂树
+seeds-cinnaflare-name = 烈桂树
+seeds-cinnaflare-display-name = 烈桂树

@@ -1,0 +1,10 @@
+advertisement-donkpocket-1 = 绝佳风味意味着绝大责任！
+advertisement-donkpocket-2 = 《DONK 兄弟》全新剧集，每周四在 Donk Plus 上线！
+advertisement-donkpocket-3 = 低价也有好品质！
+advertisement-donkpocket-4 = 吃饱总比死掉好！
+advertisement-donkpocket-5 = 从法律意义上讲，这确实是食物！
+advertisement-donkpocket-6 = DONK 夹心饼华夫饼味已停产。
+advertisement-donkpocket-7 = 尝尝我们的神秘肉特餐！
+advertisement-donkpocket-8 = 你以为自己知道小丑惊喜里有什么？再想想！
+advertisement-donkpocket-9 = 十位医师中有九位在胁迫下表示赞同！
+advertisement-donkpocket-10 = 大概不含兴奋剂。

@@ -1,0 +1,57 @@
+# Traitor single items
+steal-target-groups-rddiploma = 研究主管文凭
+steal-target-groups-cmolicense = 医疗执照
+steal-target-groups-hypoinjector-combined = 医疗主管的快速注射器或狱医的战术喷射注射器
+steal-target-groups-pinpointer-nuclear = 核弹定位器
+steal-target-groups-access-configurator = 权限配置器
+steal-target-groups-hop-id-card = 人事主管 ID 卡
+steal-target-groups-ntr-briefcase = 纳米传讯代表的安全公文包
+steal-target-groups-clothing-outer-hardsuit-cmo = 医疗主管的太空服
+steal-target-groups-clothing-outer-hardsuit-ce = 工程主管的太空服
+steal-target-groups-jetpack-ce = 工程主管的真空喷气背包
+steal-target-groups-clothing-outer-hardsuit-hos = 安保主管的太空服
+steal-target-groups-clothing-outer-hardsuit-warden = 典狱长的太空服
+steal-target-groups-clothing-outer-hardsuit-brigmedic = 狱医的太空服
+steal-target-groups-clothing-outer-hardsuit-qm = 军需官的豪华马克沁太空服
+steal-target-groups-clothing-outer-hardsuit-salvlead = 首席太空航行员太空服
+steal-target-groups-clothing-outer-hardsuit-captain = 舰长的装甲太空服
+steal-target-groups-clothing-outer-hardsuit-ntr = 纳米传讯代表的太空服
+steal-target-groups-clothing-outer-hardsuit-bso = 蓝盾干员的太空服
+steal-target-groups-clothing-shoes-boots-mag-bso = 蓝盾干员的磁力靴
+steal-target-groups-encryption-key-hybrid = 打捞、医安、医研或空间站主加密密钥
+steal-target-groups-hopboard = 官僚电子板
+steal-target-groups-hos-weapon = 安保主管的 Proto-5x 或 WT550r
+steal-target-groups-security-rare-guns = 典狱长的能量霰弹枪或侦探的能量马格南
+steal-target-groups-bso-weapon = 蓝盾干员的 X-01 多相能量枪或蓝卫制式手枪
+# Thief single items
+steal-target-groups-strange-brigmed-bedsheet = 奇怪的狱医床单
+steal-target-groups-salvlead-mantle = 打捞领队的仪式打捞披肩
+steal-target-groups-firing-pin = 击针
+steal-target-groups-firing-pin-advanced-laser = 原型激光晶体
+steal-target-groups-firing-pin-smart-lmg = 智能枪枪栓组件
+steal-target-groups-security-tech-fab-circuitboard = 安保科技制造机机器板
+steal-target-groups-log-probe-cartridge = 日志探针程序卡
+steal-target-groups-med-tek-cartridge = 医疗技术程序卡
+steal-target-groups-astro-nav-cartridge = 天文导航程序卡
+steal-target-groups-mining-shuttle-console-circuitboard = 采矿穿梭机控制台电路板
+steal-target-groups-salvage-shuttle-console-circuitboard = 打捞穿梭机控制台电路板
+steal-target-groups-communications-computer-circuitboard = 通信计算机电路板
+steal-target-groups-id-card-computer-circuitboard = ID 卡计算机电路板
+steal-target-groups-shipyard-computer-circuitboard = 船坞计算机电路板
+steal-target-groups-clothing-headset-alt-command = 指挥部包耳式耳机
+steal-target-groups-ptech-circuitboard = PTech 电路板
+steal-target-groups-spyglass = 舰长的“望远镜”
+steal-target-groups-captain-tablet = 舰长的管理平板
+# Thief Collection
+steal-target-groups-handheld-monitors = 手持监测器
+steal-target-groups-galoshes = 胶鞋
+steal-target-groups-rcd-rpd = RCD 和 RPD
+steal-target-groups-misc-sunglasses = 啤酒护目镜、乐手墨镜、安保眼镜、医务兵眼镜或侦探的黑色科技眼镜
+steal-target-groups-rare-sunglasses = 行政、技能、蓝盾或狱医墨镜
+steal-target-groups-assistant-headsets = 助手耳机
+steal-target-groups-medical-belts = 装满的医疗腰带、急救员腰带、医务兵勤务腰带、战术创伤腰带、战术创伤挂具、蓝盾医疗腰带或蓝盾携行具
+# docs
+steal-target-groups-corporate-documents = 机密公司秘密文件
+steal-target-groups-criminal-documents = 机密犯罪报告文件
+steal-target-groups-secure-documents = 机密安全文件
+steal-target-groups-secure-documents-brighteye = 明眸机密安全文件

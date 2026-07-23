@@ -1,0 +1,10 @@
+plushie-brighteyes-1 = 喵嗨！
+plushie-brighteyes-2 = 喵上好，船员们。
+plushie-brighteyes-3 = 有人见到我老婆了吗？
+plushie-brighteyes-4 = 哨兵群，集合！
+plushie-brighteyes-5 = 我做到了，拉纳德，我杀了那条龙！
+plushie-brighteyes-6 = 我不需要搜查令，我有确凿的猫爪证据！
+plushie-brighteyes-7 = 帅毙了。
+plushie-brighteyes-8 = 我可不是什么吓破胆的小猫咪！
+plushie-brighteyes-9 = 要是指挥部收拾不了局面，我就来接手。
+plushie-brighteyes-10 = 你还好吗，吉姆肖？

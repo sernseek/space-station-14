@@ -1,0 +1,9 @@
+vendor-hug-dispenser = 拥抱售货机
+vendor-medical-dispenser = 医疗售货机
+vendor-engineering-dispenser = 工程售货机
+vendor-clown-dispenser = 呵呵呵叫售货机
+vendor-mime-dispenser = 寂静售货机
+vendor-security-dispenser = 安保售货机
+vendor-fashion-o-mat = 时尚售货机
+vendor-salvage-ticket-machine = 打捞票券机
+vendor-mining-ticket-machine = 采矿票券机

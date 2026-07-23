@@ -1,0 +1,16 @@
+fibers-cloth = 布料
+fibers-fur = 毛皮
+fibers-purple-fur = 紫色毛皮
+fibers-red-fur = 红色毛皮
+fibers-black-fur = 黑色毛皮
+fibers-red-and-black-woven-fur = 红黑交织毛皮
+fibers-blue-fur = 蓝色毛皮
+fibers-teal-fur = 蓝绿色毛皮
+fibers-brown-fur = 棕色毛皮
+fibers-light-brown-fur = 浅棕色毛皮
+fibers-grey-fur = 灰色毛皮
+fibers-green-fur = 绿色毛皮
+fibers-orange-fur = 橙色毛皮
+fibers-white-fur = 白色毛皮
+fibers-yellow-fur = 黄色毛皮
+fibers-dark-black-fur = 深黑色毛皮

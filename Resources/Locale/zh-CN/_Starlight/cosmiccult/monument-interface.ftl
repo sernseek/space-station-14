@@ -1,0 +1,24 @@
+# 通用
+monument-interface-title = 纪念碑
+monument-interface-occupied = 目前有其他人正在使用。
+monument-interface-progress-bar = {$percentage}%
+monument-interface-entropy-title = 熵
+monument-interface-entropy-infused-label = 已注入：
+monument-interface-entropy-value = {$infused} 熵
+monument-interface-entropy-available-label = 可用：
+monument-interface-entropy-next-stage-title = 距下一阶段所需熵：
+monument-interface-entropy-seperator = 或
+monument-interface-entropy-crew-convert-title = 距下一阶段所需转化人数：
+monument-interface-glyphs-title = 符文
+monument-interface-glyphs-button-scribe = 刻写符文
+monument-interface-glyphs-button-unscribe = 抹除符文
+monument-interface-influences-title = 影响力
+monument-interface-influences-unlocked = 已解锁
+monument-interface-influences-locked = 已锁定
+monument-interface-influences-owned = 已拥有
+monument-interface-influences-cost = 花费：
+monument-interface-influences-button-gain = 获取
+monument-interface-influences-purchased = 已获得
+monument-interface-influences-owned-tooltip = 你已经拥有此影响力。
+monument-interface-influences-unlocked-not-enough-entropy-tooltip = 还需要 {$entropy} 熵才能获取此影响力。
+monument-interface-influences-locked-tooltip = 此影响力尚未解锁，请向纪念碑提供更多熵。

@@ -1,0 +1,9 @@
+advertisement-interdyne-1 = 快去救人吧！
+advertisement-interdyne-2 = 创伤中心用品的最佳之选。
+advertisement-interdyne-3 = 只提供最锋利的工具。
+advertisement-interdyne-4 = 天然草药！
+advertisement-interdyne-5 = 这些东西能杀人！
+advertisement-interdyne-6 = 不想再来点吗？
+advertisement-interdyne-7 = 乓！
+advertisement-interdyne-8 = 小心别让人用药过量！
+advertisement-interdyne-9 = 快去让人用药过量！

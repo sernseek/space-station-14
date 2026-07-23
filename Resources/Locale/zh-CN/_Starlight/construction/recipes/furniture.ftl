@@ -1,0 +1,67 @@
+## 舒适座椅
+construction-recipe-comfy-chair-gray = 舒适座椅（灰色）
+construction-recipe-comfy-chair-white = 舒适座椅（白色）
+construction-recipe-comfy-chair-blue = 舒适座椅（蓝色）
+construction-recipe-comfy-chair-green = 舒适座椅（绿色）
+construction-recipe-comfy-chair-red = 舒适座椅（红色）
+construction-recipe-comfy-chair-brown = 舒适座椅（棕色）
+
+## 长椅
+construction-recipe-white-comf-bench = 舒适长椅（白色）
+construction-recipe-comfy-bench-white-corner = 舒适长椅（白色，转角）
+construction-recipe-comfy-bench-white-left = 舒适长椅（白色，左端）
+construction-recipe-comfy-bench-white-right = 舒适长椅（白色，右端）
+construction-recipe-comfy-bench-white-mid = 舒适长椅（白色，中段）
+construction-recipe-comfy-bench-red-corner = 舒适长椅（红色，转角）
+construction-recipe-comfy-bench-red-left = 舒适长椅（红色，左端）
+construction-recipe-comfy-bench-red-right = 舒适长椅（红色，右端）
+construction-recipe-comfy-bench-red-mid = 舒适长椅（红色，中段）
+construction-recipe-comfy-bench-blue-corner = 舒适长椅（蓝色，转角）
+construction-recipe-comfy-bench-blue-left = 舒适长椅（蓝色，左端）
+construction-recipe-comfy-bench-blue-right = 舒适长椅（蓝色，右端）
+construction-recipe-comfy-bench-blue-mid = 舒适长椅（蓝色，中段）
+construction-recipe-gray-comf-bench = 舒适长椅（灰色）
+construction-recipe-comfy-bench-gray-corner = 舒适长椅（灰色，转角）
+construction-recipe-comfy-bench-gray-left = 舒适长椅（灰色，左端）
+construction-recipe-comfy-bench-gray-right = 舒适长椅（灰色，右端）
+construction-recipe-comfy-bench-gray-mid = 舒适长椅（灰色，中段）
+construction-recipe-green-comf-bench = 舒适长椅（绿色）
+construction-recipe-comfy-bench-green-corner = 舒适长椅（绿色，转角）
+construction-recipe-comfy-bench-green-left = 舒适长椅（绿色，左端）
+construction-recipe-comfy-bench-green-right = 舒适长椅（绿色，右端）
+construction-recipe-comfy-bench-green-mid = 舒适长椅（绿色，中段）
+construction-recipe-pew-left = 木制教堂长椅（左）
+construction-recipe-pew-mid = 木制教堂长椅（中）
+construction-recipe-pew-right = 木制教堂长椅（右）
+
+## 沙发
+construction-recipe-sofa-gray-corner = 沙发（灰色，转角）
+construction-recipe-sofa-gray-left = 沙发（灰色，左端）
+construction-recipe-sofa-gray-right = 沙发（灰色，右端）
+construction-recipe-sofa-gray-mid = 沙发（灰色，中段）
+construction-recipe-sofa-white-corner = 沙发（白色，转角）
+construction-recipe-sofa-white-left = 沙发（白色，左端）
+construction-recipe-sofa-white-right = 沙发（白色，右端）
+construction-recipe-sofa-white-mid = 沙发（白色，中段）
+construction-recipe-sofa-blue-corner = 沙发（蓝色，转角）
+construction-recipe-sofa-blue-left = 沙发（蓝色，左端）
+construction-recipe-sofa-blue-right = 沙发（蓝色，右端）
+construction-recipe-sofa-blue-mid = 沙发（蓝色，中段）
+construction-recipe-sofa-red-corner = 沙发（红色，转角）
+construction-recipe-sofa-red-left = 沙发（红色，左端）
+construction-recipe-sofa-red-right = 沙发（红色，右端）
+construction-recipe-sofa-red-mid = 沙发（红色，中段）
+construction-recipe-sofa-green-corner = 沙发（绿色，转角）
+construction-recipe-sofa-green-left = 沙发（绿色，左端）
+construction-recipe-sofa-green-right = 沙发（绿色，右端）
+construction-recipe-sofa-green-mid = 沙发（绿色，中段）
+construction-recipe-sofa-brown-corner = 沙发（棕色，转角）
+construction-recipe-sofa-brown-left = 沙发（棕色，左端）
+construction-recipe-sofa-brown-right = 沙发（棕色，右端）
+construction-recipe-sofa-brown-mid = 沙发（棕色，中段）
+construction-recipe-sofa-fancy-left = 华丽沙发（左）
+construction-recipe-sofa-fancy-right = 华丽沙发（右）
+construction-recipe-sofa-fancy-mid = 华丽沙发（中）
+construction-recipe-booth-left = 餐厅卡座（左）
+construction-recipe-booth-mid = 餐厅卡座（中）
+construction-recipe-booth-right = 餐厅卡座（右）

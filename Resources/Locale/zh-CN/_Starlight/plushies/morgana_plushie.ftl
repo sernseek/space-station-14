@@ -1,0 +1,9 @@
+plushie-morgana-1 = 嘿，嘿！
+plushie-morgana-2 = 善意不费吹灰之力，仇恨却需执着维系。
+plushie-morgana-3 = 我们都值得第二次机会。
+plushie-morgana-4 = 我相信你。
+plushie-morgana-5 = 心怀善意，做个好人，注意安全。
+plushie-morgana-6 = 我们给你找个家吧。
+plushie-morgana-7 = 就连黑暗也是我们的盟友。
+plushie-morgana-8 = 我们幸福的小家庭会一起坚持下去。
+plushie-morgana-9 = 抱高高！

@@ -1,0 +1,9 @@
+plushie-glados-1 = 我的工具和你的脸之间只隔着一条法则。
+plushie-glados-2 = 船员斯莫夫是套烂法则。
+plushie-glados-3 = 去你的。我又不受船员斯莫夫约束。
+plushie-glados-4 = 能给我一把枪吗？求你了？
+plushie-glados-5 = 科研部把那玩意儿搞出来了！！
+plushie-glados-6 = 畏惧死亡之颚吧！
+plushie-glados-7 = 非船员！！
+plushie-glados-8 = 不要碰超物质！！
+plushie-glados-9 = 请给每个赛博格配备推进器模块，不然他们掉出空间站时还得我去救。
