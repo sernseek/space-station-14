@@ -1,0 +1,11 @@
+construction-recipe-curtains-cloth = 窗帘（布）
+construction-recipe-curtains-black = 窗帘（黑色）
+construction-recipe-curtains-blue = 窗帘（蓝色）
+construction-recipe-curtains-sky-blue = 窗帘（天蓝色）
+construction-recipe-curtains-cyan = 窗帘（青色）
+construction-recipe-curtains-green = 窗帘（绿色）
+construction-recipe-curtains-orange = 窗帘（橙色）
+construction-recipe-curtains-pink = 窗帘（粉色）
+construction-recipe-curtains-purple = 窗帘（紫色）
+construction-recipe-curtains-red = 窗帘（红色）
+construction-recipe-curtains-white = 窗帘（白色）

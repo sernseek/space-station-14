@@ -1,0 +1,10 @@
+gas-ammonia-abbreviation = NH₃（氨）
+gas-carbon-dioxide-abbreviation = CO₂（二氧化碳）
+gas-frezon-abbreviation = F
+gas-nitrogen-abbreviation = N₂（氮气）
+gas-nitrous-oxide-abbreviation = N₂O（笑气）
+gas-oxygen-abbreviation = O₂（氧气）
+gas-plasma-abbreviation = P
+gas-tritium-abbreviation = T
+gas-water-vapor-abbreviation = H₂O（水蒸气）
+gas-unknown-abbreviation = X
