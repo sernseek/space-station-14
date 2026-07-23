@@ -1,0 +1,254 @@
+story-gen-book-type1 = 书
+story-gen-book-type2 = 对开本
+story-gen-book-type3 = 文集
+story-gen-book-type4 = 笔记
+story-gen-book-type5 = 手稿
+story-gen-book-type6 = 记录
+story-gen-book-type7 = 巨著
+story-gen-book-type8 = 日记
+story-gen-book-type9 = 档案
+story-gen-book-type10= 法典
+story-gen-book-type11= 回忆录
+story-gen-book-type12= 汇编
+
+story-gen-book-genre1 = 犯罪小说
+story-gen-book-genre2 = 喜剧
+story-gen-book-genre3 = 恐怖故事
+story-gen-book-genre4 = 诗歌
+story-gen-book-genre5 = 中篇小说
+story-gen-book-genre6 = 编年史
+story-gen-book-genre7 = 科幻作品
+story-gen-book-genre8 = 奇幻故事
+story-gen-book-genre9 = 爱情故事
+story-gen-book-genre10= 惊悚小说
+story-gen-book-genre11= 历史小说
+story-gen-book-genre12= 传记
+story-gen-book-genre13= 冒险故事
+story-gen-book-genre14= 戏剧
+
+story-gen-book-appearance1 = 古老的
+story-gen-book-appearance2 = 破旧的
+story-gen-book-appearance3 = 肮脏的
+story-gen-book-appearance4 = 不寻常的
+story-gen-book-appearance5 = 褪色的
+story-gen-book-appearance6 = 恶心的
+story-gen-book-appearance7 = 满是灰尘的
+story-gen-book-appearance8 = 吓人的
+story-gen-book-appearance9 = 沾血的
+story-gen-book-appearance10= 鲜亮的
+story-gen-book-appearance11= 可疑的
+story-gen-book-appearance12= 引人入胜的
+story-gen-book-appearance13= 丑陋的
+story-gen-book-appearance14= 歪斜的
+story-gen-book-appearance15= 皱巴巴的
+story-gen-book-appearance16= 污秽的
+story-gen-book-appearance17= 优雅的
+story-gen-book-appearance18= 华丽的
+story-gen-book-appearance19= 饱经风霜的
+story-gen-book-appearance20= 崭新的
+story-gen-book-appearance21= 奢华的
+story-gen-book-appearance22= 破烂的
+story-gen-book-appearance23= 光亮的
+story-gen-book-appearance24= 有浮雕的
+story-gen-book-appearance25= 拼凑的
+story-gen-book-appearance26= 镀金的
+story-gen-book-appearance27= 奇怪的
+
+story-gen-book-character1 = 小丑
+story-gen-book-character2 = 哑剧演员
+story-gen-book-character3 = 记者
+story-gen-book-character4 = 屠夫
+story-gen-book-character5 = 酒保
+story-gen-book-character6 = 清洁工
+story-gen-book-character7 = 工程师
+story-gen-book-character8 = 科学家
+story-gen-book-character9 = 警卫
+story-gen-book-character10 = 医师
+story-gen-book-character11 = 药剂师
+story-gen-book-character12 = 囚犯
+story-gen-book-character13 = 研究员
+story-gen-book-character14 = 商人
+story-gen-book-character15 = 舰长
+story-gen-book-character16 = 蜥蜴人
+story-gen-book-character17 = 蛾人
+story-gen-book-character18 = 狄奥娜
+story-gen-book-character19 = 猫娘
+story-gen-book-character20 = 猫
+story-gen-book-character21 = 柯基
+story-gen-book-character22 = 狗
+story-gen-book-character23 = 负鼠
+story-gen-book-character24 = 树懒
+story-gen-book-character25 = 辛迪加特工
+story-gen-book-character26 = 怨灵
+story-gen-book-character27 = 鼠王
+story-gen-book-character28 = 忍者
+story-gen-book-character29 = 太空龙
+story-gen-book-character30 = 革命者
+story-gen-book-character31 = 核弹特工
+story-gen-book-character32 = 纳尔西教徒
+story-gen-book-character33 = 拉特瓦教徒
+story-gen-book-character34 = 助理
+story-gen-book-character35 = 蛛人
+story-gen-book-character36 = 沃克斯
+story-gen-book-character37 = 矮人
+story-gen-book-character38 = 小偷
+story-gen-book-character39 = 巫师
+
+# Starlight edit start
+story-gen-book-character40 = 拉斯比
+story-gen-book-character41 = 精灵
+story-gen-book-character42 = 哥布林
+story-gen-book-character43 = 兽人
+story-gen-book-character44 = 内务代理
+story-gen-book-character45 = 影裔
+story-gen-book-character46 = 阿瓦利
+story-gen-book-character47 = 雷索米
+story-gen-book-character48 = 萨文
+# Starlight edit end
+
+story-gen-book-character-trait1 = 愚蠢的
+story-gen-book-character-trait2 = 聪明的
+story-gen-book-character-trait3 = 滑稽的
+story-gen-book-character-trait4 = 迷人的
+story-gen-book-character-trait5 = 有魅力的
+story-gen-book-character-trait6 = 讨厌的
+story-gen-book-character-trait7 = 垂死的
+story-gen-book-character-trait8 = 年老的
+story-gen-book-character-trait9 = 年轻的
+story-gen-book-character-trait10 = 富有的
+story-gen-book-character-trait11 = 贫穷的
+story-gen-book-character-trait12 = 受欢迎的
+story-gen-book-character-trait13 = 心不在焉的
+story-gen-book-character-trait14 = 严厉的
+story-gen-book-character-trait15 = 富有号召力的
+story-gen-book-character-trait16 = 坚忍的
+story-gen-book-character-trait17 = 可爱的
+story-gen-book-character-trait18 = 矮人族的
+story-gen-book-character-trait19 = 满身啤酒味的
+story-gen-book-character-trait20 = 快乐的
+story-gen-book-character-trait21 = 美得令人心痛的
+story-gen-book-character-trait22 = 机械的
+story-gen-book-character-trait23 = 全息的
+story-gen-book-character-trait24 = 狂笑不止的
+
+story-gen-book-event1 = 一场丧尸疫情
+story-gen-book-event2 = 一次核爆炸
+story-gen-book-event3 = 一场大屠杀
+story-gen-book-event4 = 突然失压
+story-gen-book-event5 = 一次停电
+story-gen-book-event6 = 主角们险些饿死
+story-gen-book-event7 = 一种消耗性疾病
+story-gen-book-event8 = 一见钟情
+story-gen-book-event9 = 灵感迸发
+story-gen-book-event10 = 某种神秘现象
+story-gen-book-event11 = 神明干预
+story-gen-book-event12 = 角色们自私的动机
+story-gen-book-event13 = 一场始料未及的骗局
+story-gen-book-event14 = 一名角色死而复生
+story-gen-book-event15 = 主角们遭受残酷折磨
+story-gen-book-event16 = 意外释放了引力奇点
+story-gen-book-event17 = 对未来事件的灵能预言
+story-gen-book-event18 = 一次反物质爆炸
+story-gen-book-event19 = 偶遇一名猫娘
+story-gen-book-event20 = 喝下太多酒
+story-gen-book-event21 = 吃下太多披萨
+story-gen-book-event22 = 与密友争吵
+story-gen-book-event23 = 家园突然葬身火海
+story-gen-book-event24 = 丢失一台 PDA
+
+story-gen-book-action1 = 与……接吻
+story-gen-book-action2 = 勒死……
+story-gen-book-action3 = 炸碎……
+story-gen-book-action4 = 在国际象棋中战胜……
+story-gen-book-action5 = 在国际象棋中输给……
+story-gen-book-action6 = 揭露……隐藏的秘密
+story-gen-book-action7 = 操纵……
+story-gen-book-action8 = 向……献祭一只仓鼠
+story-gen-book-action9 = 潜入……的婚礼
+story-gen-book-action10 = 联手击败共同的敌人，
+story-gen-book-action11 = 被迫合作逃离……
+story-gen-book-action12 = 向……赠送贵重礼物
+
+story-gen-book-action-trait1 = 笨拙地
+story-gen-book-action-trait2 = 恶心地
+story-gen-book-action-trait3 = 精彩地
+story-gen-book-action-trait4 = 友善地
+story-gen-book-action-trait5 = 古怪地
+story-gen-book-action-trait6 = 有趣地
+story-gen-book-action-trait7 = 异想天开地
+story-gen-book-action-trait8 = 令人赞叹地
+story-gen-book-action-trait9 = 不负责任地
+story-gen-book-action-trait10 = 严厉地
+story-gen-book-action-trait11 = 无情地
+story-gen-book-action-trait12 = 顽皮地
+story-gen-book-action-trait13 = 体贴地
+
+story-gen-book-location1 = 在一座地下设施中
+story-gen-book-location2 = 在探险途中
+story-gen-book-location3 = 被困在外太空时
+story-gen-book-location4 = 在新闻办公室里
+story-gen-book-location5 = 在一座秘密花园里
+story-gen-book-location6 = 在当地餐馆的厨房里
+story-gen-book-location7 = 在当地运动酒吧的柜台下
+story-gen-book-location8 = 在一座古老的图书馆里
+story-gen-book-location9 = 在空间站维护通道的深处
+story-gen-book-location10 = 在星舰舰桥上
+story-gen-book-location11 = 在肮脏的公共厕所里
+story-gen-book-location12 = 被困在板条箱里
+story-gen-book-location13 = 被卡在柜子里
+story-gen-book-location14 = 驻扎在“海盗行为号”上时
+story-gen-book-location15 = 在乡村教堂的大厅里
+story-gen-book-location16 = 在火葬场里
+story-gen-book-location17 = 站得离异常太近时
+story-gen-book-location18 = 挤在撤离穿梭机里
+story-gen-book-location19 = 站在新雪中
+story-gen-book-location20 = 在树林里迷路
+story-gen-book-location21 = 在严酷的沙漠中
+story-gen-book-location22 = 为社交网络担忧时
+story-gen-book-location23 = 在山顶上
+story-gen-book-location24 = 开车时
+story-gen-book-location25 = 在逃生舱里
+story-gen-book-location26 = 身处虚构的异国时
+story-gen-book-location27 = 紧抓飞行中飞机的机翼时
+story-gen-book-location28 = 在口袋维度中
+story-gen-book-location29 = 在太空巫师联盟的穿梭机上
+story-gen-book-location30 = 站在尸山顶上
+story-gen-book-location31 = 以灵能投射进入自己的潜意识时
+story-gen-book-location32 = 被困在暗影维度时
+story-gen-book-location33 = 试图逃离被毁的空间站时
+story-gen-book-location34 = 被夹在特斯拉球与引力奇点之间时
+
+story-gen-book-element1 = 情节
+story-gen-book-element2 = 转折
+story-gen-book-element3 = 高潮
+story-gen-book-element4 = 终幕
+story-gen-book-element5 = 结局
+story-gen-book-element6 = 故事寓意
+story-gen-book-element7 = 作品主题
+story-gen-book-element8 = 文学风格
+story-gen-book-element9 = 插图
+
+story-gen-book-element-trait1 = 可怕
+story-gen-book-element-trait2 = 恶心
+story-gen-book-element-trait3 = 精彩
+story-gen-book-element-trait4 = 可爱
+story-gen-book-element-trait5 = 无聊
+story-gen-book-element-trait6 = 奇怪
+story-gen-book-element-trait7 = 有趣
+story-gen-book-element-trait8 = 异想天开
+story-gen-book-element-trait9 = 令人赞叹
+story-gen-book-element-trait10 = 引人入胜
+story-gen-book-element-trait11 = 不尽如人意
+story-gen-book-element-trait12 = 悲伤
+story-gen-book-element-trait13 = 相当压抑
+
+
+
+
+
+
+
+
+
+
+

@@ -19,6 +19,7 @@
 
 翻译规则（严格）：
 - 只新建 `Resources/Locale/zh-CN/` 下的文件。绝不修改 en-US、Prototypes、代码或任何其他文件。不执行任何 git 命令。
+- **所有译文必须由你自己直接产出。禁止调用任何翻译服务、API 或其他模型代翻——包括 Google 翻译、本机 Ollama、任何本地或远程接口。工作量大就分文件逐个做，做不完就如实报告进度停下，协调方会恢复会话让你继续。**
 - 消息 ID、属性名（.desc/.name/.suffix 等）原样保留；只翻译等号右边的值。
 - 保留全部 Fluent 语法元素：`{ $var }`（变量名不改）、`{ message-ref }`、`{ -term }`、`{ CAPITALIZE(...) }` 等函数调用、`[color=x]`/`[bold]`/`[font=...]` 标记。绝不使用原文中不存在的变量。
 - 英语语法函数处理：`THE($x)`、`CAPITALIZE(...)` 可保留（引擎有中文覆盖）；`SUBJECT/OBJECT/POSS-ADJ/REFLEXIVE` 尽量改写成自然中文（代词 他/她/TA/它），`CONJUGATE-BE/HAVE/BASIC` 与 `INDEFINITE/A/AN` 直接去掉按中文语序重写。
