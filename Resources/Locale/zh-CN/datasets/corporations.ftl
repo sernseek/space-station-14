@@ -1,0 +1,9 @@
+traitor-corporations-dataset-1 = 赛博骄阳工业
+traitor-corporations-dataset-2 = 戈莱克斯掠夺者
+traitor-corporations-dataset-3 = MI13
+traitor-corporations-dataset-4 = 猛虎合作社
+traitor-corporations-dataset-5 = S.E.L.F.
+traitor-corporations-dataset-6 = 动物权利联合会
+traitor-corporations-dataset-7 = 唐克公司
+traitor-corporations-dataset-8 = 华夫饼公司
+traitor-corporations-dataset-9 = 因特戴恩制药

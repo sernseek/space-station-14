@@ -1,0 +1,16 @@
+descriptions-atv-dataset-1 = 全地形载具。
+descriptions-atv-dataset-2 = 防蚂蚁载具。
+descriptions-atv-dataset-3 = 随时供应的蔬菜。
+descriptions-atv-dataset-4 = 其实是两辆载具。
+descriptions-atv-dataset-5 = 任意类型变量。
+descriptions-atv-dataset-6 = 辅助创伤载具。
+descriptions-atv-dataset-7 = 算法传播病毒。
+descriptions-atv-dataset-8 = 酒鬼幼童空缺。
+descriptions-atv-dataset-9 = 撕裂混蛋的火山。
+descriptions-atv-dataset-10 = 一台电视。
+descriptions-atv-dataset-11 = 笨拙调整的流浪汉。
+descriptions-atv-dataset-12 = 艺术悲剧志愿者。
+descriptions-atv-dataset-13 = 自动墨西哥卷空缺。
+descriptions-atv-dataset-14 = 又一幅绝佳景色。
+descriptions-atv-dataset-15 = 所有处男。
+descriptions-atv-dataset-16 = 一辆糟糕的载具。

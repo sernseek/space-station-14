@@ -1,0 +1,15 @@
+names-regal-rat-kingdom-dataset-1 = 瘟疫
+names-regal-rat-kingdom-dataset-2 = 氨气
+names-regal-rat-kingdom-dataset-3 = 维护
+names-regal-rat-kingdom-dataset-4 = 破烂
+names-regal-rat-kingdom-dataset-5 = 垃圾
+names-regal-rat-kingdom-dataset-6 = 鼠辈
+names-regal-rat-kingdom-dataset-7 = 害兽
+names-regal-rat-kingdom-dataset-8 = 奶酪
+names-regal-rat-kingdom-dataset-9 = 啃食
+names-regal-rat-kingdom-dataset-10 = 大
+names-regal-rat-kingdom-dataset-11 = 污秽
+names-regal-rat-kingdom-dataset-12 = 下水道
+names-regal-rat-kingdom-dataset-13 = 废弃物处理
+names-regal-rat-kingdom-dataset-14 = 服务
+names-regal-rat-kingdom-dataset-15 = 至高
