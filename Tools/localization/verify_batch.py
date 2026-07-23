@@ -98,10 +98,14 @@ def main() -> int:
             print(f"[多出] {rel}: 多 {len(extra)} 条: {sorted(extra)[:5]}{'...' if len(extra) > 5 else ''}")
             problems += 1
 
+        # accent 目录的触发词/替换值本就是英文或外语腔（见 ReplacementAccentSystem），
+        # 与原文相同属正常，不算漏译。
+        is_accent = rel.parts[0] == "accent" or (len(rel.parts) > 1 and rel.parts[1] == "accent")
         untranslated = [
             k for k in set(zh_e) & set(en_e)
             if zh_e[k] == en_e[k] and en_e[k] and k not in ALLOW_IDENTICAL
             and not IDENTICAL_OK_RE.match(en_e[k])
+            and not (is_accent and any(w in k for w in ("words", "replace", "replacement", "replaced")))
         ]
         if untranslated:
             print(f"[照抄] {rel}: {len(untranslated)} 条与原文相同: {untranslated[:5]}{'...' if len(untranslated) > 5 else ''}")
