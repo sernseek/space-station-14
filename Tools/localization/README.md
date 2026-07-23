@@ -37,8 +37,12 @@ python3 Tools/localization/check_coverage.py
 git rev-parse HEAD > Tools/localization/baseline.txt
 ```
 
-## LLM 批量翻译建议
+## 分工与批量翻译
 
-按 ftl 文件为单位投喂，prompt 附带 `glossary.csv`；产出后必须：
-1. 跑 `check_coverage.py` 确认无占位符错误；
-2. 抽查高频可见文本（UI、聊天、职位、告警）。
+- **翻译**：本机 Codex（gpt-5.6-sol low）执行，任务提示词模板见 `TRANSLATION_PROMPT.md`（含批次顺序建议）。
+- **代码/工具/验收**：Claude 负责（字体、引擎适配、验收基建、术语裁决）。
+
+每批产出后必须：
+1. `python3 Tools/localization/verify_batch.py --dirs <目录...>` —— 逐文件条数/照抄/术语检查；
+2. `python3 Tools/localization/check_coverage.py` —— 全局覆盖率与占位符校验；
+3. 新术语决定补进 `glossary.csv`，与既有译名冲突时以 glossary 为准改译文。

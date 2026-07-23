@@ -2,6 +2,7 @@ using System.Diagnostics;
 using System.Linq;
 using Content.Client._Starlight.UserInterface; // Starlight
 using Content.Client._Starlight.Guidebook.Richtext;
+using Content.Client.Guidebook; // zh-CN
 using Content.Client.Guidebook.RichText;
 using Content.Client.UserInterface.ControlExtensions;
 using Content.Client.UserInterface.Controls;
@@ -124,7 +125,7 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
         EntryContainer.Visible = true;
         SearchBar.Text = "";
         EntryContainer.RemoveAllChildren();
-        using var file = _resourceManager.ContentFileReadText(entry.Text);
+        using var file = _resourceManager.ContentFileReadText(_resourceManager.GetLocalizedGuide(entry.Text)); // zh-CN
 
         SearchContainer.Visible = entry.FilterEnabled;
 
