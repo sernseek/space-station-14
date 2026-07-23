@@ -1,1014 +1,1014 @@
-ent-ClothingBackpack = backpack
-    .desc = You wear this on your back and put items into it.
+ent-ClothingBackpack = 背包
+    .desc = 背在身后，用来装东西。
 
-ent-ClothingBackpackClown = giggles von honkerton
-    .desc = It's a backpack made by Honk! Co.
+ent-ClothingBackpackClown = 呵呵·冯·呵肯顿
+    .desc = 呵呵公司出品的背包。
 
-ent-ClothingBackpackIan = Ian's backpack
-    .desc = Sometimes he wears it.
+ent-ClothingBackpackIan = 伊恩背包
+    .desc = 伊恩偶尔会背上它。
 
-ent-ClothingBackpackSecurity = security backpack
-    .desc = It's a very robust backpack.
+ent-ClothingBackpackSecurity = 安保背包
+    .desc = 一个极其结实的背包。
 
-ent-ClothingBackpackBrigmedic = brigmedic backpack
-    .desc = It's a very sterile backpack.
+ent-ClothingBackpackBrigmedic = 狱医背包
+    .desc = 一个非常洁净的背包。
 
-ent-ClothingBackpackEngineering = engineering backpack
-    .desc = It's a tough backpack for the daily grind of station life.
+ent-ClothingBackpackEngineering = 工程背包
+    .desc = 结实耐用，足以应付空间站日常工作的磨损。
 
-ent-ClothingBackpackAtmospherics = atmospherics backpack
-    .desc = It's a backpack made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackAtmospherics = 大气背包
+    .desc = 由耐火纤维制成，闻起来有股等离子体味。
 
-ent-ClothingBackpackMedical = medical backpack
-    .desc = It's a backpack especially designed for use in a sterile environment.
+ent-ClothingBackpackMedical = 医疗背包
+    .desc = 专为无菌环境设计的背包。
 
-ent-ClothingBackpackCaptain = captain's backpack
-    .desc = It's a special backpack made exclusively for NanoTrasen officers. # SL
+ent-ClothingBackpackCaptain = 舰长背包
+    .desc = 纳米传讯专为高级官员制作的特制背包。 # SL
 
-ent-ClothingBackpackMime = mime backpack
-    .desc = A silent backpack made for those silent workers. Silence Co.
+ent-ClothingBackpackMime = 哑剧演员背包
+    .desc = 为沉默工作者打造的无声背包。静默公司出品。
 
-ent-ClothingBackpackChemistry = chemistry backpack
-    .desc = A backpack specially designed to repel stains and hazardous liquids.
+ent-ClothingBackpackChemistry = 化学背包
+    .desc = 专门设计用于防污和抵御危险液体的背包。
 
-ent-ClothingBackpackHydroponics = hydroponics backpack
-    .desc = It's a backpack made of all-natural fibers.
+ent-ClothingBackpackHydroponics = 水培背包
+    .desc = 由纯天然纤维制成的背包。
 
-ent-ClothingBackpackScience = science backpack
-    .desc = A backpack specially designed to repel stains and hazardous liquids.
+ent-ClothingBackpackScience = 科研背包
+    .desc = 专门设计用于防污和抵御危险液体的背包。
 
-ent-ClothingBackpackVirology = virology backpack
-    .desc = A backpack made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackVirology = 病毒学背包
+    .desc = 采用低致敏纤维制成，能帮助遏制疾病传播。闻起来像猴子。
 
-ent-ClothingBackpackGenetics = genetics backpack
-    .desc = A backpack designed to be super tough, just in case someone hulks out on you.
+ent-ClothingBackpackGenetics = 遗传学背包
+    .desc = 特别加固的背包，以防有人突然变成绿巨人袭击你。
 
-ent-ClothingBackpackCargo = cargo backpack
-    .desc = A robust backpack for stealing cargo's loot.
+ent-ClothingBackpackCargo = 货运背包
+    .desc = 结实的背包，适合顺走货运部的战利品。
 
-ent-ClothingBackpackSalvage = salvage bag
-    .desc = A robust backpack for stashing your loot.
+ent-ClothingBackpackSalvage = 打捞背包
+    .desc = 结实的背包，适合藏匿你的战利品。
 
-ent-ClothingBackpackMerc = mercenary bag
-    .desc = A backpack that has been in many dangerous places, a reliable combat backpack.
+ent-ClothingBackpackMerc = 雇佣兵背包
+    .desc = 久经险地考验，可靠耐用的战斗背包。
 
-ent-ClothingBackpackERTLeader = ERT leader backpack
-    .desc = A spacious backpack with lots of pockets, worn by the Leader of an Emergency Response Team.
+ent-ClothingBackpackERTLeader = 应急响应队队长背包
+    .desc = 宽敞且口袋众多，供应急响应队队长使用。
 
-ent-ClothingBackpackERTSecurity = ERT security backpack
-    .desc = A spacious backpack with lots of pockets, worn by Security Officers of an Emergency Response Team.
+ent-ClothingBackpackERTSecurity = 应急响应队安保背包
+    .desc = 宽敞且口袋众多，供应急响应队安保干员使用。
 
-ent-ClothingBackpackERTMedical = ERT medical backpack
-    .desc = A spacious backpack with lots of pockets, worn by Medical Officers of an Emergency Response Team.
+ent-ClothingBackpackERTMedical = 应急响应队医疗背包
+    .desc = 宽敞且口袋众多，供应急响应队医疗干员使用。
 
-ent-ClothingBackpackERTEngineer = ERT engineer backpack
-    .desc = A spacious backpack with lots of pockets, worn by Engineers of an Emergency Response Team.
+ent-ClothingBackpackERTEngineer = 应急响应队工程师背包
+    .desc = 宽敞且口袋众多，供应急响应队工程师使用。
 
-ent-ClothingBackpackERTJanitor = ERT janitor backpack
-    .desc = A spacious backpack with lots of pockets, worn by Janitors of an Emergency Response Team.
+ent-ClothingBackpackERTJanitor = 应急响应队清洁工背包
+    .desc = 宽敞且口袋众多，供应急响应队清洁工使用。
 
-ent-ClothingBackpackERTClown = ERT clown backpack
-    .desc = A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
+ent-ClothingBackpackERTClown = 应急响应队小丑背包
+    .desc = 宽敞且口袋众多，供应急响应队小丑使用。
 
-ent-ClothingBackpackERTChaplain = ERT chaplain backpack
-    .desc = A spacious backpack with lots of pockets, worn by Chaplains of an Emergency Response Team.
+ent-ClothingBackpackERTChaplain = 应急响应队牧师背包
+    .desc = 宽敞且口袋众多，供应急响应队牧师使用。
 
-ent-ClothingBackpackDeathSquad = ntsf backpack #starlight
-    .desc = Holds the kit of NanoTrasen's most feared agents.
+ent-ClothingBackpackDeathSquad = 纳米传讯特勤背包 #starlight
+    .desc = 装着纳米传讯最令人畏惧的特工所用装备。
 
-ent-ClothingBackpackSyndicate = syndicate backpack
+ent-ClothingBackpackSyndicate = 辛迪加背包
 
-ent-ClothingBackpackHolding = bag of holding
-    .desc = A backpack that opens into a localized pocket of bluespace.
+ent-ClothingBackpackHolding = 储物袋
+    .desc = 这是一件储物袋，具有与其用途相符的设计。
 
-ent-ClothingBackpackCluwne = jiggles von jonkerton
-    .desc = It's a backpack made by Jonk! Co.
+ent-ClothingBackpackCluwne = 吉格斯·冯·囧肯顿
+    .desc = 这是一件吉格斯·冯·囧肯顿，具有与其用途相符的设计。
 
-ent-ClothingBackpackElectropack = electropack
-    .desc = Shocks on the signal. It is used to keep a particularly dangerous criminal under control.
+ent-ClothingBackpackElectropack = 电击背包
+    .desc = 这是一件电击背包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDebug = wackpack
-    .desc = What the fuck is this?
+ent-ClothingBackpackDebug = 怪包
+    .desc = 这是一件怪包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDebug2 = big wackpack
-    .desc = What the fuck is this?
+ent-ClothingBackpackDebug2 = 大怪包
+    .desc = 这是一件大怪包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDebug3 = gay wackpack
-    .desc = What the fuck is this?
+ent-ClothingBackpackDebug3 = 彩虹怪包
+    .desc = 这是一件彩虹怪包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDebug4 = offset wackpack
-    .desc = What the fuck is this?
+ent-ClothingBackpackDebug4 = 偏置怪包
+    .desc = 这是一件偏置怪包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffel = duffel bag
-    .desc = A large duffel bag for holding extra things.
+ent-ClothingBackpackDuffel = 旅行包
+    .desc = 这是一件旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelEngineering = engineering duffel bag
-    .desc = A large duffel bag for holding extra tools and supplies.
+ent-ClothingBackpackDuffelEngineering = 工程旅行包
+    .desc = 这是一件工程旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelAtmospherics = atmospherics duffel bag
-    .desc = A large duffel bag made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackDuffelAtmospherics = 大气旅行包
+    .desc = 这是一件大气旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelMedical = medical duffel bag
-    .desc = A large duffel bag for holding extra medical supplies.
+ent-ClothingBackpackDuffelMedical = 医疗旅行包
+    .desc = 这是一件医疗旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelCaptain = captain's duffel bag
-    .desc = A large duffel bag for holding extra captainly goods.
+ent-ClothingBackpackDuffelCaptain = 舰长旅行包
+    .desc = 这是一件舰长旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelClown = clown duffel bag
-    .desc = A large duffel bag for holding extra honk goods.
+ent-ClothingBackpackDuffelClown = 小丑旅行包
+    .desc = 这是一件小丑旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelSecurity = security duffel bag
-    .desc = A large duffel bag for holding extra security related goods.
+ent-ClothingBackpackDuffelSecurity = 安保旅行包
+    .desc = 这是一件安保旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelBrigmedic = brigmedic duffel bag
-    .desc = A large duffel bag for holding extra medical related goods.
+ent-ClothingBackpackDuffelBrigmedic = 狱医旅行包
+    .desc = 这是一件狱医旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelChemistry = chemistry duffel bag
-    .desc = A large duffel bag for holding extra beakers and test tubes.
+ent-ClothingBackpackDuffelChemistry = 化学旅行包
+    .desc = 这是一件化学旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelVirology = virology duffel bag
-    .desc = A large duffel bag made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackDuffelVirology = 病毒学旅行包
+    .desc = 这是一件病毒学旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelGenetics = genetics duffel bag
-    .desc = A large duffel bag for holding extra genetic mutations.
+ent-ClothingBackpackDuffelGenetics = 遗传学旅行包
+    .desc = 这是一件遗传学旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelMime = mime duffel bag
-    .desc = A large duffel bag for holding... mime... stuff.
+ent-ClothingBackpackDuffelMime = 哑剧演员旅行包
+    .desc = 这是一件哑剧演员旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelScience = science duffel bag
-    .desc = A large duffel bag for holding extra science related goods.
+ent-ClothingBackpackDuffelScience = 科研旅行包
+    .desc = 这是一件科研旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelHydroponics = hydroponics duffel bag
-    .desc = A large duffel bag for holding extra gardening tools.
+ent-ClothingBackpackDuffelHydroponics = 水培旅行包
+    .desc = 这是一件水培旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelCargo = cargo duffel bag
-    .desc = A large duffel bag for stealing cargo's precious loot.
+ent-ClothingBackpackDuffelCargo = 货运旅行包
+    .desc = 这是一件货运旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelSalvage = salvage duffel bag
-    .desc = A large duffel bag for holding extra exotic treasures.
+ent-ClothingBackpackDuffelSalvage = 打捞旅行包
+    .desc = 这是一件打捞旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelSyndicate = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicate = 辛迪加旅行包
+    .desc = 这是一件辛迪加旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelHolding = duffelbag of holding
-    .desc = A duffelbag that opens into a localized pocket of bluespace.
+ent-ClothingBackpackDuffelHolding = 储物旅行包
+    .desc = 这是一件储物旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackDuffelCBURN = CBURN duffel bag
-    .desc = A duffel bag containing a variety of biological containment equipment.
+ent-ClothingBackpackDuffelCBURN = 生化快速响应队旅行包
+    .desc = 这是一件生化快速响应队旅行包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchel = satchel
-    .desc = A trendy looking satchel.
+ent-ClothingBackpackSatchel = 挎包
+    .desc = 这是一件挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelLeather = leather satchel
-    .desc = A trend-setting satchel from a bygone era.
+ent-ClothingBackpackSatchelLeather = 皮革挎包
+    .desc = 这是一件皮革挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelEngineering = engineering satchel
-    .desc = A tough satchel with extra pockets.
+ent-ClothingBackpackSatchelEngineering = 工程挎包
+    .desc = 这是一件工程挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelAtmospherics = atmospherics satchel
-    .desc = A tough satchel made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackSatchelAtmospherics = 大气挎包
+    .desc = 这是一件大气挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelClown = clown satchel
-    .desc = For fast running from security.
+ent-ClothingBackpackSatchelClown = 小丑挎包
+    .desc = 这是一件小丑挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelMime = mime satchel
-    .desc = A satchel designed for the silent and expressive art of miming.
+ent-ClothingBackpackSatchelMime = 哑剧演员挎包
+    .desc = 这是一件哑剧演员挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelMedical = medical satchel
-    .desc = A sterile satchel used in medical departments.
+ent-ClothingBackpackSatchelMedical = 医疗挎包
+    .desc = 这是一件医疗挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelChemistry = chemistry satchel
-    .desc = A sterile satchel with chemist colours.
+ent-ClothingBackpackSatchelChemistry = 化学挎包
+    .desc = 这是一件化学挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelVirology = virology satchel
-    .desc = A satchel made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackSatchelVirology = 病毒学挎包
+    .desc = 这是一件病毒学挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelGenetics = genetics satchel
-    .desc = A sterile satchel with geneticist colours.
+ent-ClothingBackpackSatchelGenetics = 遗传学挎包
+    .desc = 这是一件遗传学挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelScience = science satchel
-    .desc = Useful for holding research materials.
+ent-ClothingBackpackSatchelScience = 科研挎包
+    .desc = 这是一件科研挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelSecurity = security satchel
-    .desc = A robust satchel for security related needs.
+ent-ClothingBackpackSatchelSecurity = 安保挎包
+    .desc = 这是一件安保挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelBrigmedic = brigmedic satchel
-    .desc = A sterile satchel for medical related needs.
+ent-ClothingBackpackSatchelBrigmedic = 狱医挎包
+    .desc = 这是一件狱医挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelCaptain = captain's satchel
-    .desc = An exclusive satchel for NanoTrasen officers. # SL
+ent-ClothingBackpackSatchelCaptain = 舰长挎包
+    .desc = 这是一件舰长挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelHydroponics = hydroponics satchel
-    .desc = A satchel made of all natural fibers.
+ent-ClothingBackpackSatchelHydroponics = 水培挎包
+    .desc = 这是一件水培挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelCargo = cargo satchel
-    .desc = A robust satchel for stealing cargo's loot.
+ent-ClothingBackpackSatchelCargo = 货运挎包
+    .desc = 这是一件货运挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelSalvage = salvage satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelSalvage = 打捞挎包
+    .desc = 这是一件打捞挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelNinja = spider clan satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelNinja = 蜘蛛氏族挎包
+    .desc = 这是一件蜘蛛氏族挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelHolding = satchel of holding
-    .desc = A satchel that opens into a localized pocket of bluespace.
+ent-ClothingBackpackSatchelHolding = 储物挎包
+    .desc = 这是一件储物挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelAdmin = satchel of administration
-    .desc = If you are somehow seeing this, no you're not.
+ent-ClothingBackpackSatchelAdmin = 管理员挎包
+    .desc = 这是一件管理员挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelSmuggler = smuggler's satchel
-    .desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
+ent-ClothingBackpackSatchelSmuggler = 走私者挎包
+    .desc = 这是一件走私者挎包，具有与其用途相符的设计。
 
-ent-ClothingBackpackSatchelSmugglerUnanchored = smuggler's satchel
-    .desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
+ent-ClothingBackpackSatchelSmugglerUnanchored = 走私者挎包
+    .desc = 这是一件走私者挎包，具有与其用途相符的设计。
 
-ent-BriefcaseSmugglerCash = smuggler's briefcase
+ent-BriefcaseSmugglerCash = 走私者公文包
 
-ent-ClothingBackpackDuffelClownSmuggler = smuggler's clown duffel bag
+ent-ClothingBackpackDuffelClownSmuggler = 走私者小丑旅行包
 
-ent-RandomSatchelSpawner = random smuggler's satchel spawner
+ent-RandomSatchelSpawner = 随机走私者挎包生成器
 
-ent-ClothingBackpackChameleon = backpack
-    .desc = You wear this on your back and put items into it.
+ent-ClothingBackpackChameleon = 背包
+    .desc = 这是一件背包，具有与其用途相符的设计。
 
-ent-ClothingBackpackWaterTank = backpack water tank
-    .desc = Holds a large amount of fluids. Supplies to spray nozzles in your hands, and has a slot on the side for said spray nozzles.
+ent-ClothingBackpackWaterTank = 背负式水箱
+    .desc = 可容纳大量液体，为手持喷嘴供液；侧面还有存放喷嘴的插槽。
 
-ent-ClothingBagPet = pet bag
-    .desc = A small bag designed for use by pets and small animals.
+ent-ClothingBagPet = 宠物背包
+    .desc = 为宠物和小动物设计的小背包。
 
-ent-ClothingBackpackHarmpack = H.A.R.M.P.A.C.K.
-    .desc = Now you can reload, punch, and eat a snack - simultaneously.
+ent-ClothingBackpackHarmpack = 多功能战斗背包
+    .desc = 现在你可以同时换弹、挥拳和吃零食了。
 
-ent-XenoborgMaterialBag = silicon storage square
-    .desc = A knockoff version of a bluespace bag, can vacumn up select materials, unfit for use by humanoids due to harmful emissions.
+ent-XenoborgMaterialBag = 硅基储物方包
+    .desc = 蓝空间袋的仿制品，可吸入指定材料；因会释放有害物质，不适合人形生物使用。
 
-ent-ClothingBeltUtility = utility belt
-    .desc = Can hold various things.
+ent-ClothingBeltUtility = 工具腰带
+    .desc = 这是一件工具腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltChiefEngineer = chief engineer's toolbelt
-    .desc = Holds tools, looks snazzy.
+ent-ClothingBeltChiefEngineer = 工程主管工具腰带
+    .desc = 这是一件工程主管工具腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltJanitor = janibelt
-    .desc = A belt used to hold most janitorial supplies.
+ent-ClothingBeltJanitor = 清洁工腰带
+    .desc = 这是一件清洁工腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltMedical = medical belt
-    .desc = Can hold various medical equipment.
+ent-ClothingBeltMedical = 医疗腰带
+    .desc = 这是一件医疗腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltMedicalEMT = EMT belt
-    .desc = Perfect for holding various equipment for medical emergencies.
+ent-ClothingBeltMedicalEMT = 急救员腰带
+    .desc = 这是一件急救员腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltPlant = botanical belt
-    .desc = A belt used to hold most hydroponics supplies. Suprisingly, not green.
+ent-ClothingBeltPlant = 植物腰带
+    .desc = 这是一件植物腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltChef = chef belt
-    .desc = A belt used to hold kitchen knives and condiments for quick access.
+ent-ClothingBeltChef = 厨师腰带
+    .desc = 这是一件厨师腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltSecurity = security belt
-    .desc = Can hold security gear like handcuffs and flashes.
+ent-ClothingBeltSecurity = 安保腰带
+    .desc = 这是一件安保腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltChampion = championship belt
-    .desc = Proves to the world that you are the strongest!
+ent-ClothingBeltChampion = 冠军腰带
+    .desc = 这是一件冠军腰带，具有与其用途相符的设计。
 
-ent-ClothingBeltSuspendersRed = red suspenders
-    .desc = For holding your pants up.
+ent-ClothingBeltSuspendersRed = 红色背带
+    .desc = 这是一件红色背带，具有与其用途相符的设计。
 
-ent-ClothingBeltSuspendersBlack = black suspenders
+ent-ClothingBeltSuspendersBlack = 黑色背带
 
-ent-ClothingBeltStorageWaistbag = leather waist bag
-    .desc = A leather waist bag meant for carrying small items.
+ent-ClothingBeltStorageWaistbag = 皮革腰包
+    .desc = 这是一件皮革腰包，具有与其用途相符的设计。
 
-ent-ClothingHeadsetAltCargo = quartermaster's over-ear headset
+ent-ClothingHeadsetAltCargo = 军需官包耳式耳机
 
-ent-ClothingHeadsetAltCommand = command over-ear headset
+ent-ClothingHeadsetAltCommand = 指挥部包耳式耳机
 
-ent-ClothingHeadsetAltEngineering = chief engineer's over-ear headset
+ent-ClothingHeadsetAltEngineering = 工程主管包耳式耳机
 
-ent-ClothingHeadsetAltMedical = chief medical officer's over-ear headset
+ent-ClothingHeadsetAltMedical = 医疗主管包耳式耳机
 
-ent-ClothingHeadsetAltSecurity = head of security's over-ear headset
+ent-ClothingHeadsetAltSecurity = 安保主管包耳式耳机
 
-ent-ClothingHeadsetAltScience = research director's over-ear headset
+ent-ClothingHeadsetAltScience = 研究主管包耳式耳机
 
-ent-ClothingHeadsetAltSyndicate = blood-red over-ear headset
-    .desc = An updated, modular syndicate intercom that fits over the head and takes encryption keys (there are 5 key slots.).
+ent-ClothingHeadsetAltSyndicate = 血红包耳式耳机
+    .desc = 这是一件血红包耳式耳机，具有与其用途相符的设计。
 
-ent-ClothingHeadsetAltFreelancer = freelancer's over-ear headset
+ent-ClothingHeadsetAltFreelancer = 自由职业者包耳式耳机
 
-ent-ClothingHeadsetAltWizard = wizard's over-ear headset
+ent-ClothingHeadsetAltWizard = 巫师包耳式耳机
 
-ent-ClothingEyesGlassesGar = gar glasses
-    .desc = Go beyond impossible and kick reason to the curb!
+ent-ClothingEyesGlassesGar = 钻头眼镜
+    .desc = 这是一件钻头眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesGarOrange = orange gar glasses
-    .desc = Just who the hell do you think I am?!
+ent-ClothingEyesGlassesGarOrange = 橙钻眼镜
+    .desc = 这是一件橙钻眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesGarGiga = giga gar glasses
-    .desc = We evolve past the person we were a minute before. Little by little we advance with each turn. That's how a drill works!
+ent-ClothingEyesGlassesGarGiga = 巨钻眼镜
+    .desc = 这是一件巨钻眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesMeson = engineering goggles #less confusion
-    .desc = Green-tinted goggles using a proprietary polymer that provides protection from eye damage of all types.
+ent-ClothingEyesGlassesMeson = 工程护目镜 #less confusion
+    .desc = 这是一件工程护目镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlasses = glasses
-    .desc = A pair of spectacular spectacles with prescription lenses.
+ent-ClothingEyesGlasses = 眼镜
+    .desc = 这是一件眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesJensen = jensen glasses
-    .desc = A pair of yellow tinted folding glasses. You never asked for these.
+ent-ClothingEyesGlassesJensen = 延森眼镜
+    .desc = 这是一件延森眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesJamjar = jamjar glasses
-    .desc = These retro glasses remind you of a simpler time.
+ent-ClothingEyesGlassesJamjar = 果酱罐眼镜
+    .desc = 这是一件果酱罐眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesOutlawGlasses = outlaw glasses
-    .desc = A must for every self-respecting undercover agent.
+ent-ClothingEyesGlassesOutlawGlasses = 法外狂徒眼镜
+    .desc = 这是一件法外狂徒眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesCheapSunglasses = cheap sunglasses
-    .desc = A pair of black sunglasses. Doesn't block light well, more of an accessory than something useful.
+ent-ClothingEyesGlassesCheapSunglasses = 廉价太阳镜
+    .desc = 这是一件廉价太阳镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesSunglasses = sun glasses
-    .desc = A pair of black sunglasses.
+ent-ClothingEyesGlassesSunglasses = 太阳镜
+    .desc = 这是一件太阳镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesSecurity = security glasses
-    .desc = Upgraded sunglasses that provide flash immunity and a security HUD.
+ent-ClothingEyesGlassesSecurity = 安保眼镜
+    .desc = 这是一件安保眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesCommand = administration glasses
-    .desc = Upgraded sunglasses that provide flash immunity and show ID card status.
+ent-ClothingEyesGlassesCommand = 管理眼镜
+    .desc = 这是一件管理眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesMercenary = mercenary glasses
-    .desc = Glasses made for combat, to protect the eyes from bright blinding flashes.
+ent-ClothingEyesGlassesMercenary = 雇佣兵眼镜
+    .desc = 这是一件雇佣兵眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesThermal = optical thermal scanner
-    .desc = Thermals in the shape of glasses.
+ent-ClothingEyesGlassesThermal = 光学热能扫描仪
+    .desc = 这是一件光学热能扫描仪，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesChemical = chemical analysis goggles
-    .desc = Goggles that can scan the chemical composition of a solution.
+ent-ClothingEyesGlassesChemical = 化学分析护目镜
+    .desc = 这是一件化学分析护目镜，具有与其用途相符的设计。
 
-ent-ClothingEyesVisorNinja = ninja visor
-    .desc = An advanced visor protecting a ninja's eyes from flashing lights.
+ent-ClothingEyesVisorNinja = 忍者面罩
+    .desc = 这是一件忍者面罩，具有与其用途相符的设计。
 
-ent-ClothingEyesGlassesNoir = detective's noir-tech glasses
-    .desc = A pair of glasses that simulate what the world looked like before the invention of color.
+ent-ClothingEyesGlassesNoir = 侦探黑色电影科技眼镜
+    .desc = 这是一件侦探黑色电影科技眼镜，具有与其用途相符的设计。
 
-ent-ClothingEyesChameleon = sun glasses
-    .desc = Useful both for security and cargonia.
+ent-ClothingEyesChameleon = 太阳镜
+    .desc = 这是一件太阳镜，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorPurple = purple gloves
-    .desc = Regular purple gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorPurple = 紫色手套
+    .desc = 这是一件紫色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorRed = red gloves
-    .desc = Regular red gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorRed = 红色手套
+    .desc = 这是一件红色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorBlue = blue gloves
-    .desc = Regular blue gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBlue = 蓝色手套
+    .desc = 这是一件蓝色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorTeal = teal gloves
-    .desc = Regular teal gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorTeal = 蓝绿色手套
+    .desc = 这是一件蓝绿色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorBrown = brown gloves
-    .desc = Regular brown gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBrown = 棕色手套
+    .desc = 这是一件棕色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorGray = grey gloves
-    .desc = Regular grey gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorGray = 灰色手套
+    .desc = 这是一件灰色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorGreen = green gloves
-    .desc = Regular green gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorGreen = 绿色手套
+    .desc = 这是一件绿色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorLightBrown = light brown gloves
-    .desc = Regular light brown gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorLightBrown = 浅棕色手套
+    .desc = 这是一件浅棕色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorOrange = orange gloves
-    .desc = Regular orange gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorOrange = 橙色手套
+    .desc = 这是一件橙色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorWhite = white gloves
-    .desc = Regular white gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorWhite = 白色手套
+    .desc = 这是一件白色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorBlack = black gloves
-    .desc = Regular black gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBlack = 黑色手套
+    .desc = 这是一件黑色手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorYellow = insulated gloves
-    .desc = These gloves will protect the wearer from electric shocks.
+ent-ClothingHandsGlovesColorYellow = 绝缘手套
+    .desc = 这是一件绝缘手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesColorYellowBudget = budget insulated gloves
-    .desc = These gloves are cheap knockoffs of the coveted ones - no way this can end badly.
+ent-ClothingHandsGlovesColorYellowBudget = 廉价绝缘手套
+    .desc = 这是一件廉价绝缘手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesBoxingRed = red boxing gloves
-    .desc = Red gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRed = 红色拳击手套
+    .desc = 这是一件红色拳击手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesBoxingBlue = blue boxing gloves
-    .desc = Blue gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingBlue = 蓝色拳击手套
+    .desc = 这是一件蓝色拳击手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesBoxingGreen = green boxing gloves
-    .desc = Green gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingGreen = 绿色拳击手套
+    .desc = 这是一件绿色拳击手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesBoxingYellow = yellow boxing gloves
-    .desc = Yellow gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingYellow = 黄色拳击手套
+    .desc = 这是一件黄色拳击手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesCaptain = captain gloves
-    .desc = Regal blue gloves, with a nice gold trim. Swanky.
+ent-ClothingHandsGlovesCaptain = 舰长手套
+    .desc = 这是一件舰长手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesHop = papercut-proof gloves
-    .desc = Perfect for dealing with paperwork and matters with bureaucracy.
+ent-ClothingHandsGlovesHop = 防纸割手套
+    .desc = 这是一件防纸割手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesLatex = latex gloves
-    .desc = Thin sterile latex gloves. Basic PPE for any doctor.
+ent-ClothingHandsGlovesLatex = 乳胶手套
+    .desc = 这是一件乳胶手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesNitrile = nitrile gloves
-    .desc = High-quality nitrile gloves. Expensive medical PPE.
+ent-ClothingHandsGlovesNitrile = 丁腈手套
+    .desc = 这是一件丁腈手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesLeather = botanist's leather gloves
-    .desc = These leather gloves protect against thorns, barbs, prickles, spikes and other harmful objects of floral origin. They're also quite warm.
+ent-ClothingHandsGlovesLeather = 皮手套
+    .desc = 这是一件皮手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesPowerglove = power gloves
-    .desc = Now I'm playin' with power! Wait... they're turned off. #Use "Now I'm playin' with power! BAM!" for when they're turned on
+ent-ClothingHandsGlovesPowerglove = 动力手套
+    .desc = 这是一件动力手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesRobohands = robohands gloves
-    .desc = Beep boop borp!
+ent-ClothingHandsGlovesRobohands = 机器手手套
+    .desc = 这是一件机器手手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesSpaceNinja = space ninja gloves
-    .desc = These black nano-enhanced gloves insulate from electricity and provide fire resistance.
+ent-ClothingHandsGlovesSpaceNinja = 太空忍者手套
+    .desc = 这是一件太空忍者手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesCombat = combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesCombat = 战斗手套
+    .desc = 这是一件战斗手套，具有与其用途相符的设计。
 
-ent-ClothingHandsTacticalMaidGloves = tactical maid gloves
-    .desc = Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
+ent-ClothingHandsTacticalMaidGloves = 战术女仆手套
+    .desc = 这是一件战术女仆手套，具有与其用途相符的设计。
 
-ent-ClothingHandsMercGlovesCombat = mercenary combat gloves
-    .desc = High-quality combat gloves to protect hands from mechanical damage during combat.
+ent-ClothingHandsMercGlovesCombat = 雇佣兵战斗手套
+    .desc = 这是一件雇佣兵战斗手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesFingerless = fingerless gloves
-    .desc = Plain black gloves without fingertips for the hard working.
+ent-ClothingHandsGlovesFingerless = 露指手套
+    .desc = 这是一件露指手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesFingerlessInsulated = fingerless insulated gloves
-    .desc = Insulated gloves resistant to shocks, or at least they used to.
+ent-ClothingHandsGlovesFingerlessInsulated = 露指绝缘手套
+    .desc = 这是一件露指绝缘手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesMercFingerless = mercenary fingerless gloves
-    .desc = Gloves that may not protect you from finger burns, but will make you cooler.
+ent-ClothingHandsGlovesMercFingerless = 雇佣兵露指手套
+    .desc = 这是一件雇佣兵露指手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesCluwne = cluwne hands
-    .desc = A cursed pair of cluwne hands.
+ent-ClothingHandsGlovesCluwne = 受诅小丑手套
+    .desc = 这是一件受诅小丑手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesNorthStar = gloves of the north star
-    .desc = These gloves allow you to punch incredibly fast.
+ent-ClothingHandsGlovesNorthStar = 北斗手套
+    .desc = 这是一件北斗手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesForensic = forensic gloves
-    .desc = Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
+ent-ClothingHandsGlovesForensic = 法医手套
+    .desc = 这是一件法医手套，具有与其用途相符的设计。
 
-ent-ClothingHandsGlovesJanitor = rubber gloves
-    .desc = High-quality rubber gloves, squeaky to do some cleaning!
+ent-ClothingHandsGlovesJanitor = 橡胶手套
+    .desc = 这是一件橡胶手套，具有与其用途相符的设计。
 
-ent-ClothingHandsKnuckleDusters = knuckle dusters
-    .desc = Cold plasteel knuckle dusters, makes your punches hit much harder.
+ent-ClothingHandsKnuckleDusters = 指虎
+    .desc = 这是一件指虎，具有与其用途相符的设计。
 
-ent-ClothingHandsKnuckleDustersBrass = brass knuckle dusters
-    .desc = Brass knuckle dusters, just like how they used to make em and still hit just as hard.
+ent-ClothingHandsKnuckleDustersBrass = 黄铜指虎
+    .desc = 这是一件黄铜指虎，具有与其用途相符的设计。
 
-ent-ClothingHandsKnuckleDustersQM = QM's golden knuckle dusters
-    .desc = "24karat gold infused with plasteel and branded with the NanoTrasen logo. A true symbol of the Quartermaster's might." # SL
+ent-ClothingHandsKnuckleDustersQM = 军需官金质指虎
+    .desc = 这是一件军需官金质指虎，具有与其用途相符的设计。
 
-ent-ClothingHandsKnuckleDustersSyndicate = syndicate knuckle dusters
-    .desc = Plastitanium knuckle dusters branded with the blood-red S. A real man beats someone to death with these.
+ent-ClothingHandsKnuckleDustersSyndicate = 辛迪加指虎
+    .desc = 这是一件辛迪加指虎，具有与其用途相符的设计。
 
-ent-ClothingHandsKnuckleDustersStun = stun knuckle dusters
-    .desc = A pair of knuckle dusters combined with the tech of a stun baton. This makes beating tiders a whole lot easier.
+ent-ClothingHandsKnuckleDustersStun = 电击指虎
+    .desc = 这是一件电击指虎，具有与其用途相符的设计。
 
-ent-GoldRing = gold ring
-    .desc = A precious ring.
+ent-GoldRing = 金戒指
+    .desc = 这是一件金戒指，具有与其用途相符的设计。
 
-ent-SilverRing = silver ring
-    .desc = Looks slightly less valuable than a gold one.
+ent-SilverRing = 银戒指
+    .desc = 这是一件银戒指，具有与其用途相符的设计。
 
-ent-GoldRingDiamond = gold diamond ring
-    .desc = Made from ethically mined space diamonds.
+ent-GoldRingDiamond = 金质钻石戒指
+    .desc = 这是一件金质钻石戒指，具有与其用途相符的设计。
 
-ent-SilverRingDiamond = silver diamond ring
-    .desc = Made from ethically mined space diamonds.
+ent-SilverRingDiamond = 银质钻石戒指
+    .desc = 这是一件银质钻石戒指，具有与其用途相符的设计。
 
-ent-GoldRingGem = gold gem ring
-    .desc = Shiny and valuable!
+ent-GoldRingGem = 金质宝石戒指
+    .desc = 这是一件金质宝石戒指，具有与其用途相符的设计。
 
-ent-SilverRingGem = silver gem ring
-    .desc = Shiny and not quite as valuable!
+ent-SilverRingGem = 银质宝石戒指
+    .desc = 这是一件银质宝石戒指，具有与其用途相符的设计。
 
-ent-ClothingHeadBandBlack = black bandana
+ent-ClothingHeadBandBlack = 黑色头巾
 
-ent-ClothingHeadBandBlue = blue bandana
+ent-ClothingHeadBandBlue = 蓝色头巾
 
-ent-ClothingHeadBandBotany = botany bandana
+ent-ClothingHeadBandBotany = 植物学头巾
 
-ent-ClothingHeadBandGold = gold bandana
+ent-ClothingHeadBandGold = 金头巾
 
-ent-ClothingHeadBandGreen = green bandana
+ent-ClothingHeadBandGreen = 绿色头巾
 
-ent-ClothingHeadBandGrey = grey bandana
+ent-ClothingHeadBandGrey = 灰色头巾
 
-ent-ClothingHeadBandRed = red bandana
+ent-ClothingHeadBandRed = 红色头巾
 
-ent-ClothingHeadBandSkull = skull bandana
+ent-ClothingHeadBandSkull = 骷髅头巾
 
-ent-ClothingHeadBandMerc = mercenary bandana
+ent-ClothingHeadBandMerc = 雇佣兵头巾
 
-ent-ClothingHeadBandBrown = brown bandana
+ent-ClothingHeadBandBrown = 棕色头巾
 
-ent-ClothingHeadHatHardhatBlue = blue hard hat
-    .desc = A hard hat, painted in blue, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatBlue = 蓝色安全帽
+    .desc = 这是一件蓝色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatOrange = orange hard hat
-    .desc = A hard hat, painted in orange, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatOrange = 橙色安全帽
+    .desc = 这是一件橙色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatRed = red hard hat
-    .desc = A hard hat, painted in red, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatRed = 红色安全帽
+    .desc = 这是一件红色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatWhite = white hard hat
-    .desc = A hard hat, painted in white, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatWhite = 白色安全帽
+    .desc = 这是一件白色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatYellow = yellow hard hat
-    .desc = A hard hat, painted in yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatYellow = 黄色安全帽
+    .desc = 这是一件黄色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatYellowDark = dark yellow hard hat
-    .desc = A hard hat, painted in dark yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatYellowDark = 深黄色安全帽
+    .desc = 这是一件深黄色安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHardhatArmored = armored hard hat
-    .desc = An armored hard hat. Provides the best of both worlds in both protection & utility - perfect for the engineer on the frontlines.
+ent-ClothingHeadHatHardhatArmored = 装甲安全帽
+    .desc = 这是一件装甲安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitAtmos = atmos hardsuit helmet
-    .desc = A special hardsuit helmet designed for working in low-pressure, high thermal environments.
+ent-ClothingHeadHelmetHardsuitAtmos = 大气硬装宇航服头盔
+    .desc = 这是一件大气硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitEngineering = engineering hardsuit helmet
-    .desc = An engineering hardsuit helmet designed for working in low-pressure, high radioactive environments.
+ent-ClothingHeadHelmetHardsuitEngineering = 工程硬装宇航服头盔
+    .desc = 这是一件工程硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSpatio = spationaut hardsuit helmet
-    .desc = A sturdy helmet designed for complex industrial operations in space.
+ent-ClothingHeadHelmetHardsuitSpatio = 太空作业员硬装宇航服头盔
+    .desc = 这是一件太空作业员硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSalvage = salvage hardsuit helmet
-    .desc = A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
+ent-ClothingHeadHelmetHardsuitSalvage = 打捞硬装宇航服头盔
+    .desc = 这是一件打捞硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitGoliath = goliath hardsuit helmet
-    .desc = A sturdy hardsuit helmet, infused with a goliath's hide and an eerie, unblinking eye cut from its mass.
+ent-ClothingHeadHelmetHardsuitGoliath = 歌利亚硬装宇航服头盔
+    .desc = 这是一件歌利亚硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitMaxim = salvager maxim helmet
-    .desc = A predication of decay washes over your mind.
+ent-ClothingHeadHelmetHardsuitMaxim = 打捞员马克西姆头盔
+    .desc = 这是一件打捞员马克西姆头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSecurity = security hardsuit helmet
-    .desc = Armored hardsuit helmet for security needs.
+ent-ClothingHeadHelmetHardsuitSecurity = 安保硬装宇航服头盔
+    .desc = 这是一件安保硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitBrigmedic = brigmedic hardsuit helmet
-    .desc = The lightweight helmet of the brigmedic hardsuit. Protects against viruses, and clowns.
+ent-ClothingHeadHelmetHardsuitBrigmedic = 狱医硬装宇航服头盔
+    .desc = 这是一件狱医硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitWarden = warden's hardsuit helmet
-    .desc = A modified riot helmet. Oddly comfortable.
+ent-ClothingHeadHelmetHardsuitWarden = 典狱长硬装宇航服头盔
+    .desc = 这是一件典狱长硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitCap = captain's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the captain of the station.
+ent-ClothingHeadHelmetHardsuitCap = 舰长硬装宇航服头盔
+    .desc = 这是一件舰长硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = chief engineer's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the chief engineer of the station.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = 工程主管硬装宇航服头盔
+    .desc = 这是一件工程主管硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitMedical = chief medical officer's hardsuit helmet
-    .desc = Lightweight medical hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitMedical = 医疗主管硬装宇航服头盔
+    .desc = 轻便的医疗硬装宇航服头盔，不会妨碍头部活动。
 
-ent-ClothingHeadHelmetHardsuitRd = experimental research hardsuit helmet
-    .desc = Lightweight hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitRd = 实验研究硬装宇航服头盔
+    .desc = 这是一件实验研究硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = head of security's hardsuit helmet
-    .desc = Security hardsuit helmet with the latest top secret NT-HUD software. Belongs to the HoS.
+ent-ClothingHeadHelmetHardsuitSecurityRed = 安保主管硬装宇航服头盔
+    .desc = 这是一件安保主管硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
-    .desc = A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndie = 血红硬装宇航服头盔
+    .desc = 这是一件血红硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
-    .desc = An advanced red hardsuit helmet specifically designed for field medic operations.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = 血红医疗员硬装宇航服头盔
+    .desc = 这是一件血红医疗员硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = syndicate elite helmet
-    .desc = An elite version of the blood-red hardsuit's helmet, with improved radiation resistance and fireproofing. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndieElite = 辛迪加精英头盔
+    .desc = 这是一件辛迪加精英头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = syndicate commander helmet
-    .desc = A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+ent-ClothingHeadHelmetHardsuitSyndieCommander = 辛迪加指挥官头盔
+    .desc = 这是一件辛迪加指挥官头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitCybersun = cybersun juggernaut helmet
-    .desc = Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
+ent-ClothingHeadHelmetHardsuitCybersun = 赛博桑重装头盔
+    .desc = 这是一件赛博桑重装头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitWizard = wizard hardsuit helmet
-    .desc = A bizarre gem-encrusted helmet that radiates magical energies.
+ent-ClothingHeadHelmetHardsuitWizard = 巫师硬装宇航服头盔
+    .desc = 这是一件巫师硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitLing = organic space helmet
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingHeadHelmetHardsuitLing = 有机头盔
+    .desc = 这是一件有机头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitPirateEVA = deep space EVA helmet
-    .desc = A deep space EVA helmet, very heavy but provides good protection.
+ent-ClothingHeadHelmetHardsuitPirateEVA = 深空头盔
+    .desc = 这是一件深空头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitPirateCap = pirate captain's hardsuit helmet
-    .desc = A special hardsuit helmet, made for the captain of a pirate ship.
+ent-ClothingHeadHelmetHardsuitPirateCap = 海盗舰长硬装宇航服头盔
+    .desc = 这是一件海盗舰长硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTLeader = 应急响应队队长硬装宇航服头盔
+    .desc = 这是一件应急响应队队长硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTChaplain = ERT chaplain hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTChaplain = 应急响应队牧师硬装宇航服头盔
+    .desc = 这是一件应急响应队牧师硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTEngineer = ERT engineer hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTEngineer = 应急响应队工程师硬装宇航服头盔
+    .desc = 这是一件应急响应队工程师硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTMedical = ERT medic hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTMedical = 应急响应队医疗员硬装宇航服头盔
+    .desc = 这是一件应急响应队医疗员硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTSecurity = ERT security hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTSecurity = 应急响应队安保硬装宇航服头盔
+    .desc = 这是一件应急响应队安保硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitERTJanitor = ERT janitor hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTJanitor = 应急响应队清洁工硬装宇航服头盔
+    .desc = 这是一件应急响应队清洁工硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetCBURN = CBURN exosuit helmet
-    .desc = A pressure resistant and fireproof hood worn by special cleanup units.
+ent-ClothingHeadHelmetCBURN = 生化快速响应队外骨骼服头盔
+    .desc = 这是一件生化快速响应队外骨骼服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = deathsquad hardsuit helmet
-    .desc = A robust helmet for special operations.
+ent-ClothingHeadHelmetHardsuitDeathsquad = 死亡小队硬装宇航服头盔
+    .desc = 这是一件死亡小队硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitClown = clown hardsuit helmet
-    .desc = A clown hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitClown = 小丑硬装宇航服头盔
+    .desc = 这是一件小丑硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitMime = mime hardsuit helmet
-    .desc = A mime hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitMime = 哑剧演员硬装宇航服头盔
+    .desc = 这是一件哑剧演员硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSanta = Santa's hardsuit helmet
-    .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
+ent-ClothingHeadHelmetHardsuitSanta = 圣诞老人硬装宇航服头盔
+    .desc = 这是一件圣诞老人硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeaverHat = beaver hat
-    .desc = "Gentlemen?"
+ent-ClothingHeadHatBeaverHat = 海狸帽
+    .desc = 这是一件海狸帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeret = beret
-    .desc = An artist's favorite headwear.
+ent-ClothingHeadHatBeret = 贝雷帽
+    .desc = 这是一件贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretFrench = french beret
-    .desc = A French beret. "Vive la France!"
+ent-ClothingHeadHatBeretFrench = 法式贝雷帽
+    .desc = 这是一件法式贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretSecurity = security beret
-    .desc = A beret with the security department's insignia. For officers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretSecurity = 安保贝雷帽
+    .desc = 这是一件安保贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSecurityTrooper = trooper hat
-    .desc = A campaign hat for the NanoTrasen Troopers. It's supposed to come with a case, too... # SL
+ent-ClothingHeadHatSecurityTrooper = 骑警帽
+    .desc = 这是一件骑警帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCasa = casa
-    .desc = Cone-shaped hat.
+ent-ClothingHeadHatCasa = 卡萨
+    .desc = 这是一件卡萨，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretRND = scientific beret
-    .desc = A beret for real scientists.
+ent-ClothingHeadHatBeretRND = 科研贝雷帽
+    .desc = 这是一件科研贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretEngineering = engineering beret
-    .desc = A beret with the engineering department's insignia. For engineers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretEngineering = 工程贝雷帽
+    .desc = 这是一件工程贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretQM = quartermaster's beret
-    .desc = A beret with the cargo department's insignia.
+ent-ClothingHeadHatBeretQM = 军需官贝雷帽
+    .desc = 这是一件军需官贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretHoS = head of security's beret
-    .desc = A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretHoS = 安保主管贝雷帽
+    .desc = 这是一件安保主管贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretWarden = warden's beret
-    .desc = A corporate-blue beret with a warden's rank emblem. For officers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretWarden = 典狱长贝雷帽
+    .desc = 这是一件典狱长贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretSeniorPhysician = physician beret
-    .desc = Donning the colours of medical and chemistry, physicians are the pride of this department!
+ent-ClothingHeadHatBeretSeniorPhysician = 医师贝雷帽
+    .desc = 这是一件医师贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretBrigmedic = brigmedical beret
-    .desc = A white beret for brigmedics.
+ent-ClothingHeadHatBeretBrigmedic = 狱医贝雷帽
+    .desc = 这是一件狱医贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretMerc = mercenary beret
-    .desc = An olive beret with a badge depicting a jackal on a rock.
+ent-ClothingHeadHatBeretMerc = 雇佣兵贝雷帽
+    .desc = 这是一件雇佣兵贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretCommand = command beret
-    .desc = A beret with the NanoTrasen logo. It has an aura of authority. # SL
+ent-ClothingHeadHatBeretCommand = 指挥部贝雷帽
+    .desc = 这是一件指挥部贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBowlerHat = bowler hat
-    .desc = A stylish bowler hat.
+ent-ClothingHeadHatBowlerHat = 圆顶礼帽
+    .desc = 这是一件圆顶礼帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCaptain = captain's hardhat
-    .desc = Feels good being the king.
+ent-ClothingHeadHatCaptain = 舰长安全帽
+    .desc = 这是一件舰长安全帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCardborg = cardborg helmet
-    .desc = A hat made out of a box.
+ent-ClothingHeadHatCardborg = 纸箱赛博格头盔
+    .desc = 这是一件纸箱赛博格头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCentcom = CentComm brand hat
-    .desc = Feels good being the king's boss.
+ent-ClothingHeadHatCentcom = 中央指挥部品牌帽
+    .desc = 这是一件中央指挥部品牌帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatChef = chef's hat
-    .desc = A hat used by chefs to keep their hair out of your food. Judging by the food in the mess, they don't work.
+ent-ClothingHeadHatChef = 厨师帽
+    .desc = 这是一件厨师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatFedoraBrown = brown fedora
-    .desc = A brown fedora.
+ent-ClothingHeadHatFedoraBrown = 棕色软呢帽
+    .desc = 这是一件棕色软呢帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatFedoraGrey = grey fedora
-    .desc = A grey fedora.
+ent-ClothingHeadHatFedoraGrey = 灰色软呢帽
+    .desc = 这是一件灰色软呢帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatFez = fez
-    .desc = A red fez.
+ent-ClothingHeadHatFez = 土耳其毡帽
+    .desc = 这是一件土耳其毡帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHopcap = head of personnel's cap
-    .desc = A stylish cap worn by the Head of Personnel. Shows paperwork who's in charge.
+ent-ClothingHeadHatHopcap = 人事主管帽
+    .desc = 这是一件人事主管帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoshat = head of security cap
-    .desc = The robust hat of the Head of Security. For showing the officers who's the real boss.
+ent-ClothingHeadHatHoshat = 安保主管帽
+    .desc = 这是一件安保主管帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatOutlawHat = outlaw's hat
-    .desc = A hat that makes you look like you carry a notched pistol, numbered one and nineteen more.
+ent-ClothingHeadHatOutlawHat = 法外狂徒帽
+    .desc = 这是一件法外狂徒帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWitch1 = witch hat
-    .desc = A witch hat.
+ent-ClothingHeadHatWitch1 = 女巫帽
+    .desc = 这是一件女巫帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatPaper = paper hat
-    .desc = A hat made of paper.
+ent-ClothingHeadHatPaper = 纸帽
+    .desc = 这是一件纸帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatPirate = pirate hat
-    .desc = "Yo ho ho and a bottle of rum!"
+ent-ClothingHeadHatPirate = 海盗帽
+    .desc = 这是一件海盗帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatPlaguedoctor = plague doctor hat
-    .desc = These were once used by plague doctors.
+ent-ClothingHeadHatPlaguedoctor = 瘟疫医生帽
+    .desc = 这是一件瘟疫医生帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatRedwizard = red wizard hat
-    .desc = A strange-looking red hat that most certainly belongs to a powerful magic-user.
+ent-ClothingHeadHatRedwizard = 红色巫师帽
+    .desc = 这是一件红色巫师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSantahat = santa hat
-    .desc = A festive hat worn by Santa Claus. Now with a foldable beard.
+ent-ClothingHeadHatSantahat = 圣诞老人帽
+    .desc = 这是一件圣诞老人帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSombrero = sombrero
-    .desc = "Perfect for Space Mexico, si?"
+ent-ClothingHeadHatSombrero = 宽边帽
+    .desc = 这是一件宽边帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSurgcapBlue = blue surgical cap
-    .desc = A blue cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapBlue = 蓝色手术帽
+    .desc = 这是一件蓝色手术帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSurgcapGreen = green surgical cap
-    .desc = A green cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapGreen = 绿色手术帽
+    .desc = 这是一件绿色手术帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSurgcapPurple = purple surgical cap
-    .desc = A purple cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapPurple = 紫色手术帽
+    .desc = 这是一件紫色手术帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatTophat = tophat
-    .desc = A stylish black tophat.
+ent-ClothingHeadHatTophat = 高顶礼帽
+    .desc = 这是一件高顶礼帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatUshanka = ushanka
-    .desc = "Perfect for winter in Siberia, da?"
+ent-ClothingHeadHatUshanka = 俄式毛帽
+    .desc = 这是一件俄式毛帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCanadaBeanie = beanie
-    .desc = Red, white and snug. It radiates a homely feeling, if your home happens to be chilly and filled with coffeehouses.
+ent-ClothingHeadHatCanadaBeanie = 针织帽
+    .desc = 这是一件针织帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatVioletwizard = violet wizard hat
-    .desc = A strange-looking violet hat that most certainly belongs to a powerful magic-user.
+ent-ClothingHeadHatVioletwizard = 紫罗兰色巫师帽
+    .desc = 这是一件紫罗兰色巫师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWarden = warden's cap
-    .desc = This hat emphasizes that you are THE LAW.
+ent-ClothingHeadHatWarden = 典狱长帽
+    .desc = 这是一件典狱长帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWitch = witch hat
-    .desc = A witch hat.
+ent-ClothingHeadHatWitch = 女巫帽
+    .desc = 这是一件女巫帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWizardFake = fake wizard hat
-    .desc = It has "WIZZARD" written across it in garish sequins. Comes with a cool beard.
+ent-ClothingHeadHatWizardFake = 仿制巫师帽
+    .desc = 这是一件仿制巫师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWizard = blue wizard hat # Starlight name consistency
-    .desc = A strange-looking blue hat that most certainly belongs to a powerful magic-user.
+ent-ClothingHeadHatWizard = 蓝色巫师帽 # Starlight name consistency
+    .desc = 这是一件蓝色巫师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatXmasCrown = xmas crown
-    .desc = "Happy Christmas!"
+ent-ClothingHeadHatXmasCrown = 圣诞王冠
+    .desc = 这是一件圣诞王冠，具有与其用途相符的设计。
 
-ent-ClothingHeadHatTrucker = trucker hat
-    .desc = Formerly Chuck's, this hat is yours now.
+ent-ClothingHeadHatTrucker = 卡车司机帽
+    .desc = 这是一件卡车司机帽，具有与其用途相符的设计。
 
-ent-ClothingHeadPyjamaSyndicateBlack = syndicate black pyjama hat
-    .desc = For keeping that traitor head of yours warm.
+ent-ClothingHeadPyjamaSyndicateBlack = 辛迪加黑色睡衣帽
+    .desc = 这是一件辛迪加黑色睡衣帽，具有与其用途相符的设计。
 
-ent-ClothingHeadPyjamaSyndicatePink = syndicate pink pyjama hat
-    .desc = For keeping that traitor head of yours warm.
+ent-ClothingHeadPyjamaSyndicatePink = 辛迪加粉色睡衣帽
+    .desc = 这是一件辛迪加粉色睡衣帽，具有与其用途相符的设计。
 
-ent-ClothingHeadPyjamaSyndicateRed = syndicate red pyjama hat
-    .desc = For keeping that traitor head of yours warm.
+ent-ClothingHeadPyjamaSyndicateRed = 辛迪加红色睡衣帽
+    .desc = 这是一件辛迪加红色睡衣帽，具有与其用途相符的设计。
 
-ent-ClothingHeadPaperSack = papersack hat
-    .desc = A paper sack with crude holes cut out for eyes. Useful for hiding one's identity and/or ugliness.
+ent-ClothingHeadPaperSack = 纸袋头套
+    .desc = 这是一件纸袋头套，具有与其用途相符的设计。
 
-ent-ClothingHeadPaperSackSmile = smiling papersack hat
-    .desc = A paper sack with crude holes cut out for eyes and a sketchy smile drawn on the front. Not creepy at all.
+ent-ClothingHeadPaperSackSmile = 笑脸纸袋头套
+    .desc = 这是一件笑脸纸袋头套，具有与其用途相符的设计。
 
-ent-ClothingHeadFishCap = fishing cap
-    .desc = "Women fear me. Fish fear me. Men turn their eyes away from me. As I walk no beast dares make a sound in my presence. I am alone on this barren Earth."
+ent-ClothingHeadFishCap = 钓鱼帽
+    .desc = 这是一件钓鱼帽，具有与其用途相符的设计。
 
-ent-ClothingHeadWehcellentCap = wehcellent cap
-    .desc = "It was a net hat! Tiders wear them all the time! It's got airholes in the back to keep a cross-breeze going and everything!"
+ent-ClothingHeadWehcellentCap = 威秀帽
+    .desc = 这是一件威秀帽，具有与其用途相符的设计。
 
-ent-ClothingHeadNurseHat = nurse hat
-    .desc = Somehow I feel I'm not supposed to leave this place.
+ent-ClothingHeadNurseHat = 护士帽
+    .desc = 这是一件护士帽，具有与其用途相符的设计。
 
-ent-ClothingHeadRastaHat = rasta hat
-    .desc = Right near da beach, boyee.
+ent-ClothingHeadRastaHat = 拉斯塔帽
+    .desc = 这是一件拉斯塔帽，具有与其用途相符的设计。
 
-ent-ClothingHeadSafari = safari hat
-    .desc = Keeps the sun out of your eyes. Makes you a target for the locals.
+ent-ClothingHeadSafari = 狩猎帽
+    .desc = 这是一件狩猎帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatJester = jester hat
-    .desc = A hat with bells, to add some merriness to your head.
+ent-ClothingHeadHatJester = 弄臣帽
+    .desc = 这是一件弄臣帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretCmo = chief medical officer's beret
-    .desc = A turquoise beret with a cross on the front. The sight of it calms you down and makes it clear that you will be cured.
+ent-ClothingHeadHatBeretCmo = 医疗主管贝雷帽
+    .desc = 正面饰有十字的青绿色贝雷帽，让人安心，并清楚表明你会得到救治。
 
-ent-ClothingHeadHatPirateTricord = pirate hat
-    .desc = "Yo ho ho and a bottle of rum!"
+ent-ClothingHeadHatPirateTricord = 海盗帽
+    .desc = 这是一件海盗帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWatermelon = watermelon helmet
-    .desc = A carelessly cut half of a watermelon, gutted from the inside, to be worn as a helmet. It can soften the blow to the head.
+ent-ClothingHeadHatWatermelon = 西瓜头盔
+    .desc = 这是一件西瓜头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHolyWatermelon = watermelon halo
-    .desc = Holy moly.
+ent-ClothingHeadHatHolyWatermelon = 西瓜光环
+    .desc = 这是一件西瓜光环，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSyndie = syndicate hat
-    .desc = A souvenir hat from "Syndieland", their production has already been closed.
+ent-ClothingHeadHatSyndie = 辛迪加帽
+    .desc = 这是一件辛迪加帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSyndieMAA = master at arms hat
-    .desc = Master at arms hat, looks intimidating, I doubt that you will like to communicate with its owner...
+ent-ClothingHeadHatSyndieMAA = 军械长帽
+    .desc = 这是一件军械长帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatTacticalMaidHeadband = tactical maid headband
-    .desc = A red headband - don't imagine yourself a Rambo and don't pick up a few machine guns.
+ent-ClothingHeadHatTacticalMaidHeadband = 战术女仆头带
+    .desc = 这是一件战术女仆头带，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHetmanHat = hetman hat
-    .desc = From the Zaporozhian Sich with love.
+ent-ClothingHeadHatHetmanHat = 盖特曼帽
+    .desc = 这是一件盖特曼帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatMagician = magician's tophat
-    .desc = A magician's top hat.
+ent-ClothingHeadHatMagician = 魔术师高顶礼帽
+    .desc = 这是一件魔术师高顶礼帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCapcap = cap cap
-    .desc = A grand, stylish cap worn by the Captain. Shows the station who's in charge.
+ent-ClothingHeadHatCapcap = 舰长帽帽
+    .desc = 这是一件舰长帽帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCentcomcap = CentComm cap
-    .desc = An extravagant, stylish cap worn by CentComm officials. Shows the Captain who's in charge.
+ent-ClothingHeadHatCentcomcap = 中央指挥部帽
+    .desc = 这是一件中央指挥部帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatGladiator = gladiator helmet
-    .desc = Protects the head from harsh ash winds and toy spears.
+ent-ClothingHeadHatGladiator = 角斗士头盔
+    .desc = 这是一件角斗士头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHatPartyRed = red party hat
-    .desc = Spread a joy!
+ent-ClothingHeadHatPartyRed = 红色派对帽
+    .desc = 这是一件红色派对帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatPartyYellow = yellow party hat
+ent-ClothingHeadHatPartyYellow = 黄色派对帽
 
-ent-ClothingHeadHatPartyGreen = green party hat
+ent-ClothingHeadHatPartyGreen = 绿色派对帽
 
-ent-ClothingHeadHatPartyBlue = blue party hat
+ent-ClothingHeadHatPartyBlue = 蓝色派对帽
 
-ent-ClothingHeadHatPartyWaterCup = water cup party hat
-    .desc = Not as fulfilling as you had hoped...
+ent-ClothingHeadHatPartyWaterCup = 水杯派对帽
+    .desc = 这是一件水杯派对帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatGreyFlatcap = grey flatcap
-    .desc = Fashionable for both the working class and old man Jenkins.
+ent-ClothingHeadHatGreyFlatcap = 灰色鸭舌帽
+    .desc = 这是一件灰色鸭舌帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBrownFlatcap = brown flatcap
-    .desc = "Stupid clown! You made me look bad!"
+ent-ClothingHeadHatBrownFlatcap = 棕色鸭舌帽
+    .desc = 这是一件棕色鸭舌帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCowboyBrown = brown cowboy hat
-    .desc = "This hat ain't big enough for the two of us."
+ent-ClothingHeadHatCowboyBrown = 棕色牛仔帽
+    .desc = 这是一件棕色牛仔帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatCowboyBlack = black cowboy hat
+ent-ClothingHeadHatCowboyBlack = 黑色牛仔帽
 
-ent-ClothingHeadHatCowboyGrey = grey cowboy hat
+ent-ClothingHeadHatCowboyGrey = 灰色牛仔帽
 
-ent-ClothingHeadHatCowboyRed = red cowboy hat
+ent-ClothingHeadHatCowboyRed = 红色牛仔帽
 
-ent-ClothingHeadHatCowboyWhite = white cowboy hat
+ent-ClothingHeadHatCowboyWhite = 白色牛仔帽
 
-ent-ClothingHeadHatCowboyBountyHunter = bounty hunter cowboy hat
+ent-ClothingHeadHatCowboyBountyHunter = 赏金猎人牛仔帽
 
-ent-ClothingHeadHatStrawHat = straw hat
-    .desc = A fancy hat for hot days! Not recommended to wear near fires.
+ent-ClothingHeadHatStrawHat = 草编帽
+    .desc = 这是一件草编帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatBeretMedic = medical beret
-    .desc = A sterile white beret.
+ent-ClothingHeadHatBeretMedic = 医疗贝雷帽
+    .desc = 这是一件医疗贝雷帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatSolidHeadband = solid headband
-    .desc = "You'll feel like you're Invisible while wearing this! (DISCLAIMER: DOES NOT ACTUALLY MAKE THE WEARER INVISIBLE)"
+ent-ClothingHeadHatSolidHeadband = 实色头带
+    .desc = 这是一件实色头带，具有与其用途相符的设计。
 
-ent-ClothingHeadPropellerHat = propeller hat
-    .desc = You're the bestest boy.
+ent-ClothingHeadPropellerHat = 螺旋桨帽
+    .desc = 这是一件螺旋桨帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetBasic = helmet
-    .desc = Standard security gear. Protects the head from impacts.
+ent-ClothingHeadHelmetBasic = 头盔
+    .desc = 这是一件头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetMerc = mercenary helmet
-    .desc = The combat helmet is commonly used by mercenaries, is strong, light and smells like gunpowder and the jungle.
+ent-ClothingHeadHelmetMerc = 雇佣兵头盔
+    .desc = 这是一件雇佣兵头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetSwat = SWAT helmet
-    .desc = An extremely robust helmet, commonly used by paramilitary forces. This one has the NanoTrasen logo emblazoned on the top. # SL
+ent-ClothingHeadHelmetSwat = 特警头盔
+    .desc = 这是一件特警头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetSwatSyndicate = SWAT helmet
-    .desc = An extremely robust helmet, commonly used by paramilitary forces. It is adorned in a nefarious red and black stripe pattern.
+ent-ClothingHeadHelmetSwatSyndicate = 特警头盔
+    .desc = 这是一件特警头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetRiot = light riot helmet
-    .desc = It's a helmet specifically designed to protect against close range attacks.
+ent-ClothingHeadHelmetRiot = 防暴头盔
+    .desc = 这是一件防暴头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetBombSuit = bombsuit helmet
-    .desc = A heavy helmet designed to withstand the pressure generated by a bomb and any fragments the bomb may produce.
+ent-ClothingHeadHelmetBombSuit = 防爆服头盔
+    .desc = 这是一件防爆服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetJanitorBombSuit = janitorial bombsuit helmet
-    .desc = A heavy helmet designed to withstand explosions formed from reactions between chemicals.
+ent-ClothingHeadHelmetJanitorBombSuit = 清洁防爆服头盔
+    .desc = 这是一件清洁防爆服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetCult = cult helmet
-    .desc = A robust, evil-looking cult helmet.
+ent-ClothingHeadHelmetCult = 邪教头盔
+    .desc = 这是一件邪教头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetSpaceNinja = space ninja helmet
-    .desc = What may appear to be a simple black garment is in fact a highly sophisticated nano-weave helmet. Standard issue ninja gear.
+ent-ClothingHeadHelmetSpaceNinja = 太空忍者头盔
+    .desc = 这是一件太空忍者头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetTemplar = knight helmet
-    .desc = Decorative helmet fashioned to resemble the knights of old.
+ent-ClothingHeadHelmetTemplar = 骑士头盔
+    .desc = 这是一件骑士头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetThunderdome = thunderdome helmet
-    .desc = Let the battle commence!
+ent-ClothingHeadHelmetThunderdome = 雷霆穹顶头盔
+    .desc = 这是一件雷霆穹顶头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetWizardHelm = wizard helm
-    .desc = Strange-looking helmet that most certainly belongs to a real magic user.
+ent-ClothingHeadHelmetWizardHelm = 巫师头盔
+    .desc = 这是一件巫师头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetFire = fire helmet
-    .desc = An atmos tech's best friend. Provides some heat resistance and looks cool.
+ent-ClothingHeadHelmetFire = 消防头盔
+    .desc = 这是一件消防头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetAtmosFire = atmos fire helmet
-    .desc = An atmos fire helmet, able to keep the user cool in any situation.
+ent-ClothingHeadHelmetAtmosFire = 大气消防头盔
+    .desc = 这是一件大气消防头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetLing = chitinous helmet
-    .desc = An all-consuming chitinous mass of armor.
+ent-ClothingHeadHelmetLing = 甲壳头盔
+    .desc = 这是一件甲壳头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetERTLeader = ERT leader helmet
-    .desc = An in-atmosphere helmet worn by the leader of a NanoTrasen Emergency Response Team. Has blue highlights. # SL
+ent-ClothingHeadHelmetERTLeader = 应急响应队队长头盔
+    .desc = 这是一件应急响应队队长头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetERTSecurity = ERT security helmet
-    .desc = An in-atmosphere helmet worn by security members of the NanoTrasen Emergency Response Team. Has red highlights. # SL
+ent-ClothingHeadHelmetERTSecurity = 应急响应队安保头盔
+    .desc = 这是一件应急响应队安保头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetERTMedic = ERT medic helmet
-    .desc = An in-atmosphere helmet worn by medical members of the NanoTrasen Emergency Response Team. Has white highlights. # SL
+ent-ClothingHeadHelmetERTMedic = 应急响应队医疗员头盔
+    .desc = 这是一件应急响应队医疗员头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetERTEngineer = ERT engineer helmet
-    .desc = An in-atmosphere helmet worn by engineering members of the NanoTrasen Emergency Response Team. Has orange highlights. # SL
+ent-ClothingHeadHelmetERTEngineer = 应急响应队工程师头盔
+    .desc = 这是一件应急响应队工程师头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetERTJanitor = ERT janitor helmet
-    .desc = An in-atmosphere helmet worn by janitorial members of the NanoTrasen Emergency Response Team. Has dark purple highlights. # SL
+ent-ClothingHeadHelmetERTJanitor = 应急响应队清洁工头盔
+    .desc = 这是一件应急响应队清洁工头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetRaid = syndicate raid helmet
-    .desc = An armored helmet for use with the syndicate raid suit. Very stylish.
+ent-ClothingHeadHelmetRaid = 辛迪加突袭头盔
+    .desc = 这是一件辛迪加突袭头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetBone = bone helmet
-    .desc = Cool-looking helmet made of skull of your enemies.
+ent-ClothingHeadHelmetBone = 骨制头盔
+    .desc = 这是一件骨制头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetPodWars = ironclad II helmet
-    .desc = An ironclad II helmet, a relic of the pod wars.
+ent-ClothingHeadHelmetPodWars = 铁甲二型头盔
+    .desc = 这是一件铁甲二型头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetJustice = justice helm
-    .desc = Advanced security gear. Protects the station from ne'er-do-wells.
+ent-ClothingHeadHelmetJustice = 正义头盔
+    .desc = 先进的安保装备，保护空间站免受不法之徒侵扰。
 
-ent-ActionToggleJusticeHelm = Toggle Justice Helm
-    .desc = Toggles the justice helm on and off.
+ent-ActionToggleJusticeHelm = 切换正义头盔
+    .desc = 开启或关闭正义头盔。
 
-ent-CardHelmet = cardboard helmet
-    .desc = A medieval helmet built from cardboard.
+ent-CardHelmet = 纸板头盔
+    .desc = 这是一件纸板头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioGeneral = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioGeneral = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioCmo = bio hood
-    .desc = An advanced hood for chief medical officers that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioCmo = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioJanitor = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioJanitor = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioScientist = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioScientist = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioSecurity = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioSecurity = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodBioVirology = bio hood
-    .desc = A hood that strongly protects the head and face from biological contaminants.
+ent-ClothingHeadHatHoodBioVirology = 生化防护兜帽
+    .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodChaplainHood = chaplain hood #Starlight, de-pluralifcation
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodChaplainHood = 牧师兜帽 #Starlight, de-pluralifcation
+    .desc = 这是一件牧师兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodCulthood = cult hood
-    .desc = There's no cult without cult hoods.
+ent-ClothingHeadHatHoodCulthood = 邪教兜帽
+    .desc = 这是一件邪教兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodNunHood = nun hood
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodNunHood = 修女兜帽
+    .desc = 这是一件修女兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodRad = radiation hood
-    .desc = A hood of the hazmat suit, designed for protection from high radioactivity.
+ent-ClothingHeadHatHoodRad = 辐射兜帽
+    .desc = 这是一件辐射兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodGoliathCloak = goliath cloak hood
-    .desc = A hood of a goliath cloak, it is made from the hide of resilient fauna from a distant planet.
+ent-ClothingHeadHatHoodGoliathCloak = 歌利亚兜帽
+    .desc = 这是一件歌利亚兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodIan = ian hood
-    .desc = A hood to complete the 'Good boy' look.
+ent-ClothingHeadHatHoodIan = 伊恩兜帽
+    .desc = 这是一件伊恩兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodCarp = carp hood
-    .desc = A gnarly hood adorned with plastic space carp teeth.
+ent-ClothingHeadHatHoodCarp = 鲤鱼兜帽
+    .desc = 这是一件鲤鱼兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodMoth = moth mask
-    .desc = A mask in the form of a moths head is usually made of lightweight materials. It mimics the shape of a moths head with large eyes and long antennae. Such masks are often used in cosplay, or when shooting movies and videos.
+ent-ClothingHeadHatHoodMoth = 蛾人面具
+    .desc = 模仿蛾人头部造型的轻质面具，有着大眼睛和长触角，常用于角色扮演和影视拍摄。
 
-ent-ClothingHeadHatHoodWinterDefault = default winter coat hood
+ent-ClothingHeadHatHoodWinterDefault = 普通冬季外套兜帽
 
-ent-ClothingHeadHatHoodWinterBartender = bartender winter coat hood
+ent-ClothingHeadHatHoodWinterBartender = 酒保冬季外套兜帽
 
-ent-ClothingHeadHatHoodWinterCaptain = captain's winter coat hood
-    .desc = An expensive hood, to keep the captain's head warm.
+ent-ClothingHeadHatHoodWinterCaptain = 舰长冬季外套兜帽
+    .desc = 这是一件舰长冬季外套兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodWinterCargo = cargo winter coat hood
+ent-ClothingHeadHatHoodWinterCargo = 货运冬季外套兜帽
 
-ent-ClothingHeadHatHoodWinterCE = chief engineer's winter coat hood
+ent-ClothingHeadHatHoodWinterCE = 工程主管冬季外套兜帽

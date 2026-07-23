@@ -87,7 +87,7 @@ ent-ActionXenoborgControlMonitor = 异种赛博格控制台
 ent-ActionXenoborgCameraMonitor = 异种赛博格摄像头监视器
     .desc = 查看异种赛博格摄像头监视器
 
-ent-MobNarsieBase = Nar'Sie
+ent-MobNarsieBase = 纳尔希
     .desc = 当你的心智试图理解眼前所见时，它开始沸腾、渗漏。
 
 ent-MobObserverBase = 观察者

@@ -866,7 +866,7 @@ ent-DragonsBreathGun = dragon的 lung
 ent-ActionSpawnRift = summon 鲤鱼 rift（专名）
     .desc = 一种在太空环境中也能生存的生物。
 
-ent-ActionDevour = [color=red]devour[/color]
+ent-ActionDevour = [color=red]吞噬[/color]
     .desc = 一种在太空环境中也能生存的生物。
 
 ent-ActionDragonsBreath = [color=orange]dragon的 breath[/color]

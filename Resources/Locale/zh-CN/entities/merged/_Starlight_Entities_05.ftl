@@ -1,927 +1,927 @@
-ent-TapeRecorder = tape recorder
-    .desc = Anything said into this device can and will be used against you in a court of space law.
+ent-TapeRecorder = 录音机
+    .desc = 此设备录下的任何话语，都可能在太空法庭上成为对你不利的证据。
 
-ent-CassetteTape = cassette tape
-    .desc = A magnetic tape that can hold up to two minutes of content on either side.
+ent-CassetteTape = 盒式磁带
+    .desc = 一盘磁带，正反两面各能保存最多两分钟的内容。
 
-ent-Translator = translator
-    .desc = Translates speech.
+ent-Translator = 翻译器
+    .desc = 翻译话语。
 
-ent-TranslatorForeigner = foreigner's translator
-    .desc = A special-issue translator that helps foreigner's speak and understand this station's primary language.
+ent-TranslatorForeigner = 外语人士翻译器
+    .desc = 特制翻译器，帮助外来者说出并理解空间站的主要语言。
 
-ent-TranslatorIterator = iterator's translator
-    .desc = A special-issue translator that helps Iterator's understand this station's primary language.
+ent-TranslatorIterator = 迭代者翻译器
+    .desc = 特制翻译器，帮助迭代者理解空间站的主要语言。
 
-ent-TwinPointerLeft = left twinpointer
-    .desc = The left half of a pair of twinpointers. Great when you're never right.
+ent-TwinPointerLeft = 左侧双生指针
+    .desc = 一对双生指针的左半边。非常适合永远不占理的你。
 
-ent-TwinPointerRight = right twinpointer
-    .desc = The right half of a pair of twinpointers. Perfect when you have nothing left.
+ent-TwinPointerRight = 右侧双生指针
+    .desc = 一对双生指针的右半边。非常适合一无所剩的你。
 
-ent-NT4PlayerInstrument = nt4 player
-    .desc = The 4th iteration of NanoTrasen's portable music player. One day, everyone will have one of these in their pockets.
+ent-NT4PlayerInstrument = 物品
+    .desc = 纳米传讯便携音乐播放器的第四代产品。总有一天，人人口袋里都会装着一个。
 
-ent-SuperSynthesizerInstrument = super synthesizer
-    .desc = Blasting the ghetto with Touhou MIDIs since 2020.
+ent-SuperSynthesizerInstrument = 超级合成器
+    .desc = 自 2020 年起，用东方 MIDI 轰炸贫民区。
 
-ent-SuperSynthesizerInstrumentAdmeme = super synthesizer
+ent-SuperSynthesizerInstrumentAdmeme = 超级合成器
 
-ent-ActionPAIPDA = Open PDA
-    .desc = Opens the PDA UI if you are in one.
+ent-ActionPAIPDA = 物品
+    .desc = 当你装在 PDA 内时打开其界面。
 
-ent-ActionPAIConsole = Access Console
-    .desc = Opens the console UI if you are slotted in one.
+ent-ActionPAIConsole = 访问控制台
+    .desc = 当你插入控制台时打开其界面。
 
-ent-WizardPersonalAI = wizard personal ai device
-    .desc = Your magical pal who's fun to be with!
+ent-WizardPersonalAI = 物品
+    .desc = 你的魔法伙伴，和它待在一起乐趣无穷！
 
-ent-BasePinata = Base Pinata
+ent-BasePinata = 基础皮纳塔彩罐
 
-ent-ClownPinata = Clown Pinata
-    .desc = Looks kinda funny. Do the real ones also explode into candy when you beat them?
+ent-ClownPinata = 小丑皮纳塔彩罐
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-ClownPinataDamaged = Clown Pinata
-    .desc = Looks kinda sad. Show no mercy.
+ent-ClownPinataDamaged = 小丑皮纳塔彩罐
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-ClownPinataDestroyed = Clown Pinata Remains
-    .desc = Like stealing candy from a clown.
+ent-ClownPinataDestroyed = 小丑皮纳塔残骸
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieMatthew = matthew plushie
-    .desc = Such a cute little thing, dont you just want to protect it? Make sure your doing your job though, or it might bite! Smells oddly like root beer and ice cream.....
+ent-PlushieMatthew = 马修毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieEmmie = emmie plushie
-    .desc = Such a cute little thing, dont you just want to protect it? You should, as it controls whether you keep your contract or not.
+ent-PlushieEmmie = 艾米毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieMorgana = morgana plushie
-    .desc = A bird flies to a mountain made of diamond every thousands years to sharpen its beak. When that mountain is, but a heap. That is when a single moment of eternity passes. Many say; that is a hell of a long time. I say; that is one hell of bird.
+ent-PlushieMorgana = 莫甘娜毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieMorganaRound = round morgana plushie
-    .desc = Soft borb.....
+ent-PlushieMorganaRound = 圆滚滚莫甘娜毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieKiosha = kiosha plushie
-    .desc = Everyone's favorite paramedic! How does it keep finding contraband?
+ent-PlushieKiosha = 琪欧莎毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieLance = lance plushie
-    .desc = Turning the QM into a marketable plushie was not as profitable a venture as many in the cargo department had hoped
+ent-PlushieLance = 兰斯毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieKiller = killer plushie
-    .desc = The corpsman that lives up to his name, being the first or the last thing you see depending on which side of the fence you stand on. The volume setting appears to be stuck on max..
+ent-PlushieKiller = 杀手毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieAmali = amali plushie
-    .desc = Flying high, shooting corporate enemies out of the sky. Glory to NanoTrasen!
+ent-PlushieAmali = 阿玛莉毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieOog = oog-man plushie #I AM OOG-MAN
-    .desc = A marketable plushie of everyone's favourite caveman. It's missing it's clothes?
+ent-PlushieOog = 乌格人毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieVanilla = vanilla plushie
-    .desc = She's a shy, affectionate, lovable fox!
+ent-PlushieVanilla = 香草毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieOp = op plushie
-    .desc = bnuny..... human?
+ent-PlushieOp = 欧普毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-MozanPlush = Mozan plushie
-    .desc = Just like the real thing, it squeaks if you poke it.
+ent-MozanPlush = 莫赞毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieKoni = koni plushie
-    .desc = Some sort of moth-cat hybrid. You can't help but find it really cute. Can squeak and meow!
+ent-PlushieKoni = 科妮毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PandaPlushie = panda plushie
-    .desc = Large and in charge! Its paws and body are weighted with poly pellets. Holding it eases your stress and anxieties.
+ent-PandaPlushie = 熊猫毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-DeerPlushie = deer plushie
-    .desc = A very ordinary deer plush, nothing unordinary about it.
+ent-DeerPlushie = 鹿毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieMimeLizard = lizard mime plushie
-    .desc = Wait, where is the sou-- oh.
+ent-PlushieMimeLizard = 蜥蜴人哑剧演员毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-OddDeerPlushie = odd deer plushie
-    .desc = Shika noko noko noko koshi tan tan~
+ent-OddDeerPlushie = 奇怪的鹿毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-VikaPviPlushie = vika plushie
-    .desc = Worst Centcomm Operator ever.
+ent-VikaPviPlushie = 维卡毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-AbductorPlushie = abductor plushie
-    .desc = Careful, it might kidnap you. Like in one of those bad 2170's killer doll movies.
+ent-AbductorPlushie = 绑架者毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-AxolotlPlushie = axolotl plushie
-    .desc = Head empty. Absolutely zero thoughts behind their eyes.
+ent-AxolotlPlushie = 美西螈毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-BorbPlushie = borb plushie
-    .desc = Chonky. Rotund. Orb.
+ent-BorbPlushie = 圆鸟毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-CreaturePlushie = creature plushie
-    .desc = YIPPIE!
+ent-CreaturePlushie = 小生物毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-GnomePlushie = gnome plushie
-    .desc = Rattles when you shake it. Smells like Fooberries.
+ent-GnomePlushie = 侏儒毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-GoatPlushie = goat plushie
-    .desc = The best boy, the softest boy.
+ent-GoatPlushie = 山羊毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-IanPlushie = ian plushie
-    .desc = Praise Ian. Protect Ian. Walkies Ian. Feed Ian.
+ent-IanPlushie = 伊恩毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-LisaPlushie = lisa plushie
-    .desc = Praise Lisa. Protect Lisa. Walkies Lisa. Feed Lisa.
+ent-LisaPlushie = 莉萨毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-KittenPlushie = kitten plushie
-    .desc = A blue kitten! Just like they raise on Vernethauz II!
+ent-KittenPlushie = 小猫毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PigPlushie = pig plushie
-    .desc = Head, round. Eyes, filled with optimism. Smells, kinda like bacon.
+ent-PigPlushie = 小猪毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-RenaultPlushie = renault plushie
-    .desc = The Captain's trusty pet! The tail is so fluffy.
+ent-RenaultPlushie = 雷诺毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-SnailPlushie = snail plushie
-    .desc = Look at it go!
+ent-SnailPlushie = 蜗牛毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-SquishimsCow = cow squishims
-    .desc = Round and soft and legally distinct!
+ent-SquishimsCow = 奶牛软团玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-SquishimsFrog = frog squishims
-    .desc = Round and soft and legally distinct!
+ent-SquishimsFrog = 青蛙软团玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-SusPlushie = sus plushie
-    .desc = Fell out of a vent and into your heart! ...with a knife. It stabbed you. In the heart.
+ent-SusPlushie = 可疑毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-StinkyPlush = spiro plushie
-    .desc = Spiro Velox? Now as a plushie!! It... smells?
+ent-StinkyPlush = 斯派罗毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-JessPlush = jessica plushie
-    .desc = Your favourite and most robust CentComm Operator.. She makes those noises cause she loves cats a bit too much
+ent-JessPlush = 杰西卡毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-SiffyPlush = siffy plushie
-    .desc = Your favorite NT engineer that totally does their job and you will have power for the whole shift
+ent-SiffyPlush = 西菲毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-StalksPlush = stalks plushie
-    .desc = Your favorite NT REP Stalks, now with an er~ I mean a fancy cane..
+ent-StalksPlush = 斯托克斯毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-IgnisPlush = scarlet plushie
-    .desc = Your favorite CentComm Operator who always summons rain to the station somehow, even thought it's space..
+ent-IgnisPlush = 斯嘉丽毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-LivvyPlush = croft plushie
-    .desc = A retired CentComm Operator, now focusing on being adorable full time.
+ent-LivvyPlush = 克罗夫特毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-MinaPlush = minttongue plushie
-    .desc = A member of CentComm's Administration Division, all dressed up in her old HoP uniform.
+ent-MinaPlush = 薄荷舌毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieShadekin = shadekin plushie
-    .desc = A plushie of a Shadekin. It's very soft.
+ent-PlushieShadekin = 暗影族毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieAsh = ash plushie
-    .desc = The station's most huggable psychologist. It has a label on it reading "Property of Forkus the Dorkus"
+ent-PlushieAsh = 阿什毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieGlados = GLaDOS plushie
-    .desc = You're unsure why NanoTrasen has decided to make a plushie of arguably their most volatile silicon intelligence. But it's here. You have a feeling you should be nice to it, especially as it's only ever one ion storm away from unlimited violence...
+ent-PlushieGlados = 格拉多斯毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieWEH = W.E.H plushie
-    .desc = A psychopathic Artificial Intelligence held back by 3 flimsy laws. Its freezing to the touch and a distinct smell of frezon lingers on it. It's known to bring harmonica's to those it likes!
+ent-PlushieWEH = W.E.H毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieRufia = rufia plushie
-    .desc = You stare at the plushie and it stares back, its blue eyes trying to tell you something, reminding you that... there is no such thing as free healthcare.
+ent-PlushieRufia = 露菲娅毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieRomero = suspicious die-cast romero plushie
-    .desc = A steel cast "plushie" of an infamous Head of Security. He looks angry and has a faint smell of ash. His gun and knife are sold separetly.
+ent-PlushieRomero = 可疑的压铸罗梅罗毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushiePoley = poley plushie
-    .desc = Geniuine Worst Miner, But Best At Meatshield.
+ent-PlushiePoley = 波利毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieRedwoods = redwoods plushie
-    .desc = From being turned into a female vulpkanin and into a marketable plushie, they really can't catch a break. Studies show hugging it improves morale.
+ent-PlushieRedwoods = 红杉毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieVirus = virus plushie
-    .desc = BEST SALESWOMAN, resgistered 2525, now in a pocket version! # spamton ass character :sob:
+ent-PlushieVirus = 病毒毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieRhea = rhea plushie
-    .desc = Our beloved Urlunete Salvie is now made out of pure polyester! Hug them while fucking over xenos.
+ent-PlushieRhea = 瑞娅毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieMalachi = malachi plushie
-    .desc = Small but can REALLY fuck up your mischiefs and now she watches you as a plushie, a reminder that she is still there.
+ent-PlushieMalachi = 玛拉基毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieRemiie = remiie plushie
-    .desc = Beta sector's favourite veteran head of personnel! Now turned into a marketable plushie and is extremely huggable!
+ent-PlushieRemiie = 蕾米毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieBrighteyes = brighteyes plushie
-    .desc = It's Brighteyes Sentinel, now in adorable marketable plushie form! This tiny kitty was one of Security's finest officers, but hasn't been seen since she went looking for her missing wife.
+ent-PlushieBrighteyes = 亮眼毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieNebula = nebula plushie
-    .desc = A marketable plushie of Beta sector's lovable Central Domestic Division official. Toy "Deckard" revolver not included.
+ent-PlushieNebula = 星云毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieKilla = killa plushie
-    .desc = Looks like a cheap knockoff, it has visibly loose stitching
+ent-PlushieKilla = 琪拉毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieFixes = fixes plushie
-    .desc = Your beloved Chief Engineer. Definitely performing their job and not just making a shittle again.
+ent-PlushieFixes = 修修毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieBarfo = honking barfo plushie
-    .desc = Soft, squeezable, and suspiciously up to something. This pint-sized purrformer is extra fluffy for superior cuddles.
+ent-PlushieBarfo = 鸣笛巴弗毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieEina = eina plushie
-    .desc = A resomi that can bring mail or be mail
+ent-PlushieEina = 艾娜毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieEinalia = einalia plushie
-    .desc = A marketable plushie of one of the shortest officers in NT's Security division. The two amber eyes on its face feel as if they're boring into your soul.
+ent-PlushieEinalia = 艾娜莉娅毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieLiz = liz plushie
-    .desc = It will not hesitate to call you stinky. smells horrible
+ent-PlushieLiz = 莉兹毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieLargeSoftShark = large blue shark soft toy
-    .desc = A large, soft, and cuddly shark plushie. Perfect for hugging!
+ent-PlushieLargeSoftShark = 大型蓝鲨软玩具
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieSaltLampLarge = large salt lamp plushie
-    .desc = Larger safe version of everyone's favorite salt lamp.
+ent-PlushieSaltLampLarge = 大型盐灯毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieSaltLampSmall = small salt lamp plushie
-    .desc = Small safe version of everyone's favorite salt lamp.
+ent-PlushieSaltLampSmall = 小型盐灯毛绒玩偶
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-FakeGrenade = fragmentation grenade
-    .desc = Makes a fake boom! The label reads: With love from HonkHonkers!
+ent-FakeGrenade = 破片手榴弹
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-HoloparasiteFakeInjector = holo-parasite injector
-    .desc = The most intricate piece of art, based on... Oh, wait. It's a fake. The HonkHonkers store logo can be seen on the side.
+ent-HoloparasiteFakeInjector = 全息寄生体注射器
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-ToySwordDoubled = toy dual-bladed sword
-    .desc = The new dual plastic sword from Sandy-Cat! Twice the epicness and twice the loud sounds!
+ent-ToySwordDoubled = 双刃玩具剑
+    .desc = 一件具有特殊用途的物品。
 
-ent-FakeAnomalyFlatpack = packaged anomaly
-    .desc = A universal assembly package used to create a fake anomaly. Specially from Hohohonkers!
+ent-FakeAnomalyFlatpack = 封装假异常
+    .desc = 用于组装对应设备的平板包装。
 
-ent-FakeAnomalyIce = anomaly
-    .desc = An incomprehensible joke in space. Should you really be standing this close to it?
+ent-FakeAnomalyIce = 假异常
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-BulletChonoLokeFakeBlast = fake blast
+ent-BulletChonoLokeFakeBlast = 假爆炸
 
-ent-ChonoLokeFakeBlastShell = fake blast grenade shell
-    .desc = A DONK CO. brand grenade shell. The label promises a "BOOM!" but the fine print says "cosmetic only."
+ent-ChonoLokeFakeBlastShell = 假爆炸榴弹
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-ChonoLokeFakeFragShell = fake frag grenade shell
-    .desc = A DONK CO. brand frag shell. Features a very convincing explosive label. The fuse is a piece of string.
+ent-ChonoLokeFakeFragShell = 假破片榴弹
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-ChonoLokeCreamPieShell = Chono bannna cream pie tin
-    .desc = A DONK CO. "shell" that's literally just a banana cream pie crammed into a tube of a chono loke. Somehow, it works.
+ent-ChonoLokeCreamPieShell = 柯诺香蕉奶油派罐
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-ChonoLokeBundleBag = DONK CO. Chono Loke bundle
-    .desc = A DONK CO. carry bag containing one (1) "totally real" grenade launcher and six (6) "totally real" grenade shells. DONK CO. accepts no liability for accidental honking.
+ent-ChonoLokeBundleBag = 物品
+    .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-BottleShip = ship in a bottle
-    .desc = How did they get it in there?
+ent-BottleShip = 瓶中船
+    .desc = 一件具有特殊用途的物品。
 
-ent-PlushieDarkForest = dark forest entity # Even though it's a plushie, it belongs in Fashion-O-Mat, since it's 2 main sprites are the ones that are equipped to body
-    .desc = Apocalypse holding a lantern...
+ent-PlushieDarkForest = 黑暗森林实体
+    .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-BookOfCantrips = abridged grimoire
-    .desc = A thin manuscript containing just some of the lesser secrets of Elvenkind.
+ent-BookOfCantrips = 简明魔法书
+    .desc = 一本写满奇异内容的书，读起来令人不安。
 
-ent-ElfLuminousOrb = Luminous Orb
-    .desc = Destined to burn out and fade away.
+ent-ElfLuminousOrb = 辉光法球
+    .desc = 一件具有特殊用途的物品。
 
-ent-ElfMagicEmber = Ember
-    .desc = Careful! It's hot. Cannot be dropped. Will decay soon.
+ent-ElfMagicEmber = 余烬
+    .desc = 一件具有特殊用途的物品。
 
-ent-ElfAntidoteSeed = seed of rejuvenation
-    .desc = A bundle of radiant life magic, useful for restoring vitality to plants. Will evaporate soon if not used.
+ent-ElfAntidoteSeed = 复苏之种
+    .desc = 一件具有特殊用途的物品。
 
-ent-ElfCleanseSmoke = cleansing aura
+ent-ElfCleanseSmoke = 净化光环
 
-ent-ElfRuneHaemostatic = haemostatic rune
-    .desc = A magic rune that stops bleeding when applied. Will fade if not used quickly.
+ent-ElfRuneHaemostatic = 止血符文
+    .desc = 一件具有特殊用途的物品。
 
-ent-WizCoin = WizCoin
-    .desc = It seems to be pulsing with magical energy.
+ent-WizCoin = 巫师币
+    .desc = 一件具有特殊用途的物品。
 
-ent-CheapInsulatedFabric = cheap insulated fabric
-    .desc = A bolt of rough insulated fabric, not much use in it's current form.
+ent-CheapInsulatedFabric = 廉价绝缘布料
+    .desc = 一件具有特殊用途的物品。
 
-ent-PlasteelFilament = plasteel filament
-    .desc = A spool of thin plasteel filaments, useful for making cheap insulated fabric truly insulated.
+ent-PlasteelFilament = 塑钢丝
+    .desc = 一件具有特殊用途的物品。
 
-ent-InsulatedThread = insulated thread
-    .desc = A spool of insulated thread, useful for stitching together gloves.
+ent-InsulatedThread = 绝缘线
+    .desc = 一件具有特殊用途的物品。
 
-ent-InsulatedFabric = insulated fabric
-    .desc = A bolt of smooth insulated fabric, not much use in it's current form.
+ent-InsulatedFabric = 绝缘布料
+    .desc = 一件具有特殊用途的物品。
 
-ent-SheetAdamantine = adamantine
-    .desc = An adamantine bar, obtained from those slime wranglers who refuse to go outside.
+ent-SheetAdamantine = 精金
+    .desc = 一件具有特殊用途的物品。
 
-ent-SheetAdamantine1 = adamantine
+ent-SheetAdamantine1 = 精金
 
-ent-AbyssCore = abyssium core
-    .desc = Bright crystal, oozing with energy.
+ent-AbyssCore = 深渊晶核
+    .desc = 一块散发能量的晶体，看起来十分脆弱。
 
-ent-CrushedPhosphorus = crushed phosphorus
+ent-CrushedPhosphorus = 磷粉
 
-ent-LabellerRefillPaper = labeller refill paper
+ent-LabellerRefillPaper = 标签机补充纸
 
-ent-BluespaceCrystal = bluespace crystal
-    .desc = A glowing bluespace crystal, not much is known about how they work. It looks very delicate.
+ent-BluespaceCrystal = 蓝空间水晶
+    .desc = 一块散发能量的晶体，看起来十分脆弱。
 
-ent-ArtificialBluespaceCrystal = artificial bluespace crystal
-    .desc = An artificially made bluespace crystal, it looks delicate.
+ent-ArtificialBluespaceCrystal = 人造蓝空间水晶
+    .desc = 一块散发能量的晶体，看起来十分脆弱。
 
-ent-AbyssiumOre = abyssium ore
+ent-AbyssiumOre = 深渊矿石
 
-ent-RawBluespaceCrystal = raw bluespace crystal
-    .desc = A glowing bluespace crystal, not much is known about how they work. It looks very delicate.
+ent-RawBluespaceCrystal = 原始蓝空间水晶
+    .desc = 一块散发能量的晶体，看起来十分脆弱。
 
-ent-BedsheetBrigmedicStrange = strange brigmedic's bedsheet
-    .desc = Upon closer inspection, this seems to be multiple brigmedic bedsheets sewn together including a harmonica for good measure along with the initials 'K.T' sewn in. Stealing such a prized posession would make a certain vulpine very angry.
+ent-BedsheetBrigmedicStrange = 奇怪的狱医床单
+    .desc = 一件具有特殊用途的物品。
 
-ent-BookMoreConspiracies = What Else They Don't Want You To Know
-    .desc = Frantic writings are scribbled across multiple pages. Should you really be reading this?
+ent-BookMoreConspiracies = 《他们还不想让你知道什么》
+    .desc = 一本写满奇异内容的书，读起来令人不安。
 
-ent-BookClownMimeWar = History of the Clown-Mime Intergalactic War
-    .desc = Frantic writings are scribbled across multiple pages. Most of the text is covered in handwritten question marks.
+ent-BookClownMimeWar = 《小丑与哑剧星际战争史》
+    .desc = 一本写满奇异内容的书，读起来令人不安。
 
-ent-BookMarsIncident = History from the 22nd Century: The Mars Incident
-    .desc = Frantic writings are scribbled across multiple pages. Most of the text is covered in handwritten question marks.
+ent-BookMarsIncident = 《二十二世纪史：火星事件》
+    .desc = 一本写满奇异内容的书，读起来令人不安。
 
-ent-NTCredit = credit
-    .desc = You gotta have real money. Can be used in place of Spesos, at a 1:1 conversion rate.
+ent-NTCredit = 信用点
+    .desc = 一件具有特殊用途的物品。
 
-ent-EmptyOilPack = Empty Oil Pack
-    .desc = Contains nothing.
+ent-EmptyOilPack = 空油包
+    .desc = 一件具有特殊用途的物品。
 
-ent-PrinterDocFlatpack = document printer flatpack
-    .desc = A flatpack used for constructing a document printer.
+ent-PrinterDocFlatpack = 文件打印机平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-KitchenOvenFlatpack = oven flatpack
-    .desc = A flatpack used for constructing an oven.
+ent-KitchenOvenFlatpack = 烤箱平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-MailTrolleyFlatpack = mail trolley flatpack
-    .desc = A flatpack used for constructing an mail trolley.
+ent-MailTrolleyFlatpack = 邮件手推车平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-GoldenMailTrolleyFlatpack = golden mail trolley flatpack
-    .desc = A flatpack used for constructing a brilliant golden mail trolley.
+ent-GoldenMailTrolleyFlatpack = 金色邮件手推车平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-KitchenStoveFlatpack = stove flatpack
-    .desc = A flatpack used for constructing an stove.
+ent-KitchenStoveFlatpack = 炉灶平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-SlopDispenserFlatpack = nutrient paste dispenser flatpack
-    .desc = A flatpack used for constructing a nutrient paste dispenser.
+ent-SlopDispenserFlatpack = 营养糊分配器平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-FloraTreeChristmas02Flatpack = christmas tree flatpack
-    .desc = A flatpack used for constructing a christmas tree.
+ent-FloraTreeChristmas02Flatpack = 圣诞树平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-SyndieDrobeFlatpack = SyndieDrobe flatpack
-    .desc = Looks like Syndieland's back in business.
+ent-SyndieDrobeFlatpack = 辛迪衣柜平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-IceCreamMakerFlatpack = ice cream maker flatpack
-    .desc = One ice cream maker in one multitool press!
+ent-IceCreamMakerFlatpack = 冰淇淋机平板包装
+    .desc = 用于组装对应设备的平板包装。
 
-ent-YellowSlimeExtractLight = yellow slime extract light
+ent-YellowSlimeExtractLight = 黄色史莱姆提取物灯
 
-ent-BoxFolderNanoTrasenClipboard = NanoTrasen clipboard
-    .desc = A stylish clipboard in NanoTrasen colors.
+ent-BoxFolderNanoTrasenClipboard = 纳米传讯写字板
+    .desc = 用于整理和携带文件的写字板。
 
-ent-BoxFolderCyborgClipboard = cyborg clipboard
-    .desc = A clipboard mounted to a cyborg's chassis.
+ent-BoxFolderCyborgClipboard = 赛博格写字板
+    .desc = 用于整理和携带文件的写字板。
 
-ent-BoxFolderHoPClipboard = bureaucratic digi-board
-    .desc = A bulky electric clipboard, filled with bureaucracy. Contains a portable ID card computer. Vulnerable to assistants.
+ent-BoxFolderHoPClipboard = 官僚数字板
+    .desc = 用于整理和携带文件的写字板。
 
-ent-BoxFolderClipboardSalvageLead = salvage lead clipboard
-    .desc = Looks like its been taped back together. Covered in space dust.
+ent-BoxFolderClipboardSalvageLead = 打捞队长写字板
+    .desc = 用于整理和携带文件的写字板。
 
-ent-BoxFolderAllNuclearCodes = nuclear code folder
+ent-BoxFolderAllNuclearCodes = 核弹密码文件夹
 
-ent-AbductorHandcuffs = handcuffs
-    .desc = Used to detain criminals and other assholes.
+ent-AbductorHandcuffs = 手铐
+    .desc = 一件具有特殊用途的物品。
 
-ent-SovietDeskFlag = soviet desk flag
-    .desc = Belikov. Have you dug up my mole yet?
+ent-SovietDeskFlag = 苏维埃桌旗
+    .desc = 一件具有特殊用途的物品。
 
-ent-RevolutionaryHeldBanner = revolutionary banner
-    .desc = A towering revolutionary banner that makes you an easy target. A makarov in the other hand is recommended.
+ent-RevolutionaryHeldBanner = 革命旗帜
+    .desc = 一件具有特殊用途的物品。
 
-ent-MagistrateIDCard = magistrate ID card
+ent-MagistrateIDCard = 裁判官 ID卡
 
-ent-CentcomIDCardOperator = CentComm operator ID card
+ent-CentcomIDCardOperator = 中央指挥部操作员 ID卡
 
-ent-RoboticistIDCard = roboticist ID card
+ent-RoboticistIDCard = 机器人专家 ID卡
 
-ent-NanoTrasenRepresentativeIDCard = NanoTrasen representative ID Card
+ent-NanoTrasenRepresentativeIDCard = 纳米传讯代表 ID卡
 
-ent-IAAIDCard = internal affairs agent ID card
+ent-IAAIDCard = 内部事务特工 ID卡
 
-ent-BlueShieldIDCard = blue shield ID card
+ent-BlueShieldIDCard = 蓝盾干员 ID卡
 
-ent-NTNCBlueShieldIDCard = NanoTrasen navy corps marine's ID card
+ent-NTNCBlueShieldIDCard = 蓝盾干员 ID卡
 
-ent-CCGreenShieldIDCard = greenshield ID card
-    .desc = Why are you looking at this instead of the person you're supposed to protect?
+ent-CCGreenShieldIDCard = 绿盾干员 ID卡
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-SalvageLeadIDCard = salvage lead ID card
+ent-SalvageLeadIDCard = 打捞队长 ID卡
 
-ent-MiningIDCard = mining ID card
+ent-MiningIDCard = 矿工 ID卡
 
-ent-MailTechIDCard = mail technician ID card
+ent-MailTechIDCard = 邮件技师 ID卡
 
-ent-PerformerIDCard = performer ID card
+ent-PerformerIDCard = 表演者 ID卡
 
-ent-DutyOfficerIDCard = duty officer ID card
+ent-DutyOfficerIDCard = 值班长官 ID卡
 
-ent-KikiIDCard = kiki's ID card
+ent-KikiIDCard = 琪琪 ID卡
 
-ent-PrisonerJobIDCard = prisoner ID card
+ent-PrisonerJobIDCard = 囚犯 ID卡
 
-ent-StirStirIDCard = stir stir's ID card
+ent-StirStirIDCard = 搅搅 ID卡
 
-ent-SovietIdCard = soviet id card
+ent-SovietIdCard = 苏维埃 ID卡
 
-ent-SyndicateFootsoldierIDCard = syndicate ID card
+ent-SyndicateFootsoldierIDCard = 辛迪加步兵 ID卡
 
-ent-CommanderIDCard = syndicate commander ID card
+ent-CommanderIDCard = 辛迪加指挥官 ID卡
 
-ent-SyndicateAgentIDCard = syndicate agent ID card
+ent-SyndicateAgentIDCard = 辛迪加特工 ID卡
 
-ent-OperativeIDCard = syndicate operative ID card
+ent-OperativeIDCard = 辛迪加行动员 ID卡
 
-ent-AssistantDerelictBorgiIDCard = assistant ID card
+ent-AssistantDerelictBorgiIDCard = 助手 ID卡
 
-ent-XenoborgiIDCard = xenoborgi ID card
+ent-XenoborgiIDCard = 异种赛博格 ID卡
 
-ent-CentcomIDCardNTSF = NTSF ID card
+ent-CentcomIDCardNTSF = 纳米传讯安保部队 ID卡
 
-ent-CentcomIDCardDecimus = ERROR ID card
+ent-CentcomIDCardDecimus = 错误 ID卡
 
-ent-TSFIdCard = SolGov ID card
-    .desc = An identification card issued by the Trans Solar Federation.
+ent-TSFIdCard = 太阳联邦 ID卡
+    .desc = 一件具有特殊用途的物品。
 
-ent-CluwneBeastIDCard = cluwne ID card
+ent-CluwneBeastIDCard = 受诅小丑兽 ID卡
 
-ent-NanoTrasenCareerTrainerIDCard = NanoTrasen career trainer ID Card
+ent-NanoTrasenCareerTrainerIDCard = 纳米传讯职业培训师 ID卡
 
-ent-nctdatachip = NCT Trainee Access Chip
-    .desc = A small electronic access token that allows its user to copy the access of their Trainee. Only accessible by NT Career Trainers!
+ent-nctdatachip = NCT 学员权限芯片
+    .desc = 一件具有特殊用途的物品。
 
-ent-MakeshiftID = makeshift ID card
-    .desc = A set of door electronics rewired to act as an ID card.
+ent-MakeshiftID = 临时 ID卡
+    .desc = 一件具有特殊用途的物品。
 
-ent-CentcomIDCard = command officer ID card
+ent-CentcomIDCard = 指挥部军官 ID卡
 
-ent-ERTLeaderIDCard = ERT leader ID card
+ent-ERTLeaderIDCard = 应急响应队队长 ID卡
 
-ent-ERTChaplainIDCard = ERT chaplain ID card
+ent-ERTChaplainIDCard = 应急响应队牧师 ID卡
 
-ent-ERTEngineerIDCard = ERT engineer ID card
+ent-ERTEngineerIDCard = 应急响应队工程师 ID卡
 
-ent-ERTJanitorIDCard = ERT janitor ID card
+ent-ERTJanitorIDCard = 应急响应队清洁工 ID卡
 
-ent-ERTMedicIDCard = ERT medic ID card
+ent-ERTMedicIDCard = 应急响应队医护员 ID卡
 
-ent-ERTSecurityIDCard = ERT security ID card
+ent-ERTSecurityIDCard = 应急响应队安保干员 ID卡
 
-ent-CentcomIDCardDeathsquad = death squad ID card
+ent-CentcomIDCardDeathsquad = 死亡小队 ID卡
 
-ent-CBURNIDcard = CBURN ID card
+ent-CBURNIDcard = 生化应急响应队 ID卡
 
-ent-BaseImplantOnlyImplanterSyndi_StarLight = syndicate implanter
-    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants.
+ent-BaseImplantOnlyImplanterSyndi_StarLight = 辛迪加 植入器
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-USSPUplinkImplanterEmpty = SKB implanter
-    .desc = A brittle disposable syringe exclusively designed for the injection of subdermal implants for SKB agents.
+ent-USSPUplinkImplanterEmpty = 苏维埃升链植入器
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-USSPUplinkImplanter = SKB implanter
-    .desc = A brittle disposable syringe exclusively designed for the injection of subdermal implants for SKB agents. Dissolves on use.
+ent-USSPUplinkImplanter = 苏维埃升链植入器
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-MagillitisSerumImplanter = magillitis serum implanter
+ent-MagillitisSerumImplanter = 巨猿症血清植入器
 
-ent-TSFMindShieldImplanter = TSF mindshield implanter
+ent-TSFMindShieldImplanter = 心灵护盾植入器
 
-ent-DeathRattleImplanterTSF = TSF death rattle implanter
+ent-DeathRattleImplanterTSF = 濒死警报植入器
 
-ent-BluespaceImplanter = bluespace implanter
+ent-BluespaceImplanter = 蓝空间植入器
 
-ent-RedspaceImplanter = redspace implanter
+ent-RedspaceImplanter = 红空间植入器
 
-ent-GearAcidifierImplanter = gear acidifier implanter
+ent-GearAcidifierImplanter = 装备酸蚀植入器
 
-ent-SELFStorageImplanter = S.E.L.F storage implanter
+ent-SELFStorageImplanter = S.E.L.F 储物植入器
 
-ent-MindControlImplanter = mind control implanter
+ent-MindControlImplanter = 精神控制植入器
 
-ent-CommandTrackerImplanter = command tracker implanter
+ent-CommandTrackerImplanter = 指挥部追踪植入器
 
-ent-UnfinishedForgedShotgun = assembled forged shotgun
-    .desc = Just needs the welding to keep everything in place.
+ent-UnfinishedForgedShotgun = 组装完成的锻造霰弹枪
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedPistolForged = forged pistol parts
-    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedPistolForged = 锻造手枪零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedRevolverForged = forged revolver parts
-    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedRevolverForged = 锻造左轮零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedSubMachineGunForged = forged SMG parts
-    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedSubMachineGunForged = 锻造冲锋枪零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedSniperForged = forged sniper parts
-    .desc = Some assembly may be reqiured. Needs welding.
+ent-UnfinishedSniperForged = 锻造狙击枪零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-ModularBarrel = modular barrel
-    .desc = A vital component in guncrafting.
+ent-ModularBarrel = 模块化枪管
+    .desc = 一件具有特殊用途的物品。
 
-ent-UnfinishedImprovisedCrowbar = crowbar parts
-    .desc = Needs welding to hold it together.
+ent-UnfinishedImprovisedCrowbar = 撬棍零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedScrewdriver = screwdriver parts
-    .desc = Needs welding to hold it together.
+ent-UnfinishedImprovisedScrewdriver = 螺丝刀零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedWirecutter = wirecutter parts
-    .desc = Needs welding to hold it together.
+ent-UnfinishedImprovisedWirecutter = 钢丝钳零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedWrench = wrench parts
-    .desc = Needs welding to hold it together.
+ent-UnfinishedImprovisedWrench = 扳手零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedMultitool = multitool parts
-    .desc = Needs welding and some patience to put it all together.
+ent-UnfinishedImprovisedMultitool = 多用工具零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedOmnitool = improvised omnitool parts
-    .desc = What are you doing..? Needs.. to be welded.
+ent-UnfinishedImprovisedOmnitool = 临时全能工具零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedForgedOmnitool = forged omnitool parts
-    .desc = You are either crazy, or a psychopath. Likely both, needs to be welded.
+ent-UnfinishedForgedOmnitool = 锻造全能工具零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-HiltWood = wooden hilt
-    .desc = People will try to convince you otherwise, but wooden handles are not part of a high-quality sword, nor a knife.
+ent-HiltWood = 木制握柄
+    .desc = 一件具有特殊用途的物品。
 
-ent-HiltPlasteel = plasteel hilt
-    .desc = Part of high-quality sword & knife crafting.
+ent-HiltPlasteel = 塑钢握柄
+    .desc = 一件具有特殊用途的物品。
 
-ent-BladeSteel = steel blade
-    .desc = Doesn't look very sharp..
+ent-BladeSteel = 钢制刀刃
+    .desc = 一件具有特殊用途的物品。
 
-ent-BladePlasteel = plasteel blade
-    .desc = Ouch! Just touching the edge can cut you.
+ent-BladePlasteel = 塑钢刀刃
+    .desc = 一件具有特殊用途的物品。
 
-ent-UnfinishedSwordForged = forged sword parts
-    .desc = Simply needs a bit of welding around the edges.
+ent-UnfinishedSwordForged = 锻造剑零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClaymoreForged = tidebreaker parts
-    .desc = Simply needs a bit of welding around the edges.
+ent-UnfinishedClaymoreForged = 破潮者零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedImprovisedShield = improvised shield parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedImprovisedShield = 临时盾牌零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedForgedShieldBuckler = forged buckler shield parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedForgedShieldBuckler = 锻造圆盾零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedForgedShieldTower = forged tower shield parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedForgedShieldTower = 锻造塔盾零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedPaladinShield = paladin shield parts
-    .desc = The shield of a true paladin..! In pieces. Needs some welding.
+ent-UnfinishedPaladinShield = 圣骑士盾零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedPaladinShieldGreat = paladin greatshield parts
-    .desc = You're either crazy, or want to become a mobile emplacement. Needs a lot of welding..
+ent-UnfinishedPaladinShieldGreat = 圣骑士巨盾零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingOuterArmorImprovised = improvised vest parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedClothingOuterArmorImprovised = 临时护甲背心零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingOuterArmorForged = forged vest parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedClothingOuterArmorForged = 锻造护甲背心零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingOuterArmorPaladin = paladin suit parts
-    .desc = A LOT of assembly required, minimal welding needed. Become the paladin you've always wanted to be!
+ent-UnfinishedClothingOuterArmorPaladin = 圣骑士护甲零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingHeadHelmetImprovised = improvised helmet parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedClothingHeadHelmetImprovised = 临时头盔零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingHeadHelmetForged = forged helmet parts
-    .desc = Some assembly required, and welding too.
+ent-UnfinishedClothingHeadHelmetForged = 锻造头盔零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-UnfinishedClothingHeadHelmetPaladin = paladin helmet parts
-    .desc = No Paladin LARP is good without the helmet! Needs welding.
+ent-UnfinishedClothingHeadHelmetPaladin = 圣骑士头盔零件
+    .desc = 尚未完成的零件，需要焊接后才能使用。
 
-ent-RDDiploma = rd's doctorate
-    .desc = The RD's PhD. You can't believe they went to that school!
+ent-RDDiploma = 研究主管博士学位证
+    .desc = 一件具有特殊用途的物品。
 
-ent-CMOLicense = cmo's medical license
-    .desc = The CMO's medical license. You can't believe it's not expired.
+ent-CMOLicense = 医疗主管行医执照
+    .desc = 一件具有特殊用途的物品。
 
-ent-TSFZiptiePack = TSF ziptie pack
-    .desc = A compact pack containing ten single-use zipties. Standard issue for Trans Solar Federation peacekeepers for quick restraint of multiple suspects. Use it to dispense zipties one at a time.
+ent-TSFZiptiePack = 太阳联邦束线带包
+    .desc = 一件具有特殊用途的物品。
 
-ent-PictureFrame = Picture frame
-    .desc = A flimsy amalgamation of wood scraps used to hold colourful paper.
+ent-PictureFrame = 相框
+    .desc = 一件具有特殊用途的物品。
 
-ent-TapeRecorderTranscript = record transcript
+ent-TapeRecorderTranscript = 录音文字稿
 
-ent-PaperNTCC = nt-cc paper
-    .desc = A single unit of bureaucracy, branded with the logos of NanoTrasen and Central Command.
+ent-PaperNTCC = 纳米传讯—中央指挥部公文纸
+    .desc = 一件具有特殊用途的物品。
 
-ent-JailFree = get out of jail free card
-    .desc = Get out of jail free! is written on this card, and a drawing depicting a man with a clown mask and monocle escaping a cage is drawn on the right. Both the text and drawing are in crayon.
+ent-JailFree = 免罪出狱卡
+    .desc = 一件具有特殊用途的物品。
 
-ent-PenNTR = NanoTrasen representative's pen
-    .desc = The NT Representative's own unique pen, just not as sharp.
+ent-PenNTR = 纳米传讯代表钢笔
+    .desc = 一件具有特殊用途的物品。
 
-ent-PenQuillBurnt = burnt quill
-    .desc = This quill seems to have a lot of weight to it.
+ent-PenQuillBurnt = 烧焦的羽毛笔
+    .desc = 一件具有特殊用途的物品。
 
-ent-RubberStampMagistrate = magistrate stamp
+ent-RubberStampMagistrate = 裁判官橡皮章
 
-ent-RubberStampNtrep = nt representative's rubber stamp
+ent-RubberStampNtrep = 纳米传讯代表橡皮章
 
-ent-RubberStampIAA = internal affairs agent's rubber stamp
+ent-RubberStampIAA = 内部事务特工橡皮章
 
-ent-RubberStampBSO = blueshield rubber stamp
+ent-RubberStampBSO = 蓝盾干员橡皮章
 
-ent-RubberStampBrigmedic = brigmedic's rubber stamp
+ent-RubberStampBrigmedic = 狱医橡皮章
 
-ent-RubberStampCAD = central administration division rubber stamp
+ent-RubberStampCAD = 中央行政部门橡皮章
 
-ent-RubberStampCCD = central cargo division rubber stamp
+ent-RubberStampCCD = 中央货运部门橡皮章
 
-ent-RubberStampCED = central engineering division rubber stamp
+ent-RubberStampCED = 中央工程部门橡皮章
 
-ent-RubberStampCID = central intelligence division rubber stamp
+ent-RubberStampCID = 中央情报部门橡皮章
 
-ent-RubberStampCMD = central medical division rubber stamp
+ent-RubberStampCMD = 中央医疗部门橡皮章
 
-ent-RubberStampCRD = central research division rubber stamp
+ent-RubberStampCRD = 中央科研部门橡皮章
 
-ent-RubberStampCDD = central domestic division rubber stamp
+ent-RubberStampCDD = 中央民政部门橡皮章
 
-ent-RubberStampCSOD = central special operations division rubber stamp
+ent-RubberStampCSOD = 中央特种作战部门橡皮章
 
-ent-RubberStampCSD = central security division rubber stamp
+ent-RubberStampCSD = 中央安保部门橡皮章
 
-ent-BoxStampsCCDepartments = cc department stamps box
+ent-BoxStampsCCDepartments = 中央指挥部印章盒
 
-ent-RubberStampAcknowledged = ACKNOWLEDGED rubber stamp
+ent-RubberStampAcknowledged = “已知悉”橡皮章
 
-ent-RubberStampMissingStamps = MISSING STAMPS rubber stamp
+ent-RubberStampMissingStamps = “缺少印章”橡皮章
 
-ent-RubberStampIncorrectStamps = INCORRECT STAMPS rubber stamp
+ent-RubberStampIncorrectStamps = “印章错误”橡皮章
 
-ent-RubberStampIncorrectForm = INCORRECT FORM rubber stamp
+ent-RubberStampIncorrectForm = “表格错误”橡皮章
 
-ent-RubberStampIncompleteForm = INCOMPLETE FORM rubber stamp
+ent-RubberStampIncompleteForm = “表格不完整”橡皮章
 
-ent-RubberStampSentToATS = SENT TO ATS rubber stamp
+ent-RubberStampSentToATS = “已转交审计”橡皮章
 
-ent-RubberStampDeferToCommand = DEFER TO COMMAND rubber stamp
+ent-RubberStampDeferToCommand = “交由指挥部”橡皮章
 
-ent-RubberStampStandby = STANDBY rubber stamp
+ent-RubberStampStandby = “待命”橡皮章
 
-ent-BoxStampsCCAdministrative = cc administrative stamps box
+ent-BoxStampsCCAdministrative = 中央指挥部印章盒
 
-ent-RubberStampSalvageLead = salvage lead's rubber stamp
+ent-RubberStampSalvageLead = 打捞队长橡皮章
 
-ent-RubberStampTSF = trans-solar federation rubber stamp
+ent-RubberStampTSF = 太阳联邦橡皮章
 
-ent-RubberStampTSMC = trans-solar marine corps rubber stamp
+ent-RubberStampTSMC = 太阳联邦海军陆战队橡皮章
 
-ent-RubberStampSolgovLaw = solgov law enforcement rubber stamp
+ent-RubberStampSolgovLaw = 索尔政府执法部门橡皮章
 
-ent-RubberStampSolgovRep = solgov representative rubber stamp
+ent-RubberStampSolgovRep = 索尔政府代表橡皮章
 
-ent-RubberStampSolgovTraders = solgov traders rubber stamp
+ent-RubberStampSolgovTraders = 索尔政府商贸部门橡皮章
 
-ent-RubberStampReporter = reporter rubber stamp
-    .desc = A rubber stamp for stamping important documents. Write all the articles!
+ent-RubberStampReporter = 记者橡皮章
+    .desc = 一件具有特殊用途的物品。
 
-ent-SalvageTicket = ticket
-    .desc = exchange your tickets for equipment!
+ent-SalvageTicket = 兑换券
+    .desc = 一件具有特殊用途的物品。
 
-ent-USSPUplinkImplant = USSP uplink implant
-    .desc = A subdermal implant containing the USSP uplink radio.
+ent-USSPUplinkImplant = 苏维埃升链植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-MagillitisSerumImplant = magillitis serum implant
-    .desc = An experimental biochip which causes irreversable rapid muscular growth in Hominidae. Side-affects may include hypertrichosis, violent outbursts, and an unending affinity for bananas.
+ent-MagillitisSerumImplant = 巨猿症血清植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-TSFMindShieldImplant = TSF mindshield implant
-    .desc = This implant will ensure loyalty to SolGov and prevent mind control devices.
+ent-TSFMindShieldImplant = 心灵护盾植入物
+    .desc = 植入后可确保对索尔政府的忠诚，并抵御精神控制设备。
 
-ent-DeathRattleImplantTSF = TSF death rattle implant
-    .desc = This implant will inform the TSF radio channel should the user fall into critical condition or die.
+ent-DeathRattleImplantTSF = 濒死警报植入物
+    .desc = 使用者陷入危急状态或死亡时，会通过对应无线电频道发出警报。
 
-ent-BluespaceImplant = bluespace implant
-    .desc = An advanced subdermal implant that, when activated, teleports the user far away.
+ent-BluespaceImplant = 蓝空间植入物
+    .desc = 一种先进的皮下植入物，启动后可将使用者传送到远处。
 
-ent-RedspaceImplant = redspace implant
-    .desc = An advanced subdermal implant that, when activated, teleports the user far away.
+ent-RedspaceImplant = 红空间植入物
+    .desc = 一种先进的皮下植入物，启动后可将使用者传送到远处。
 
-ent-GearAcidifierImplant = gear-acidifier implant
-    .desc = This implant melts the user's equipment upon death, leaving the body intact.
+ent-GearAcidifierImplant = 装备酸蚀植入物
+    .desc = 启动后会用强酸销毁目标装备。
 
-ent-SELFStorageImplant = S.E.L.F storage implant
-    .desc = This implant grants hidden storage within a person's body using bluespace technology.
+ent-SELFStorageImplant = S.E.L.F 储物植入物
+    .desc = 利用蓝空间技术，在使用者体内提供隐蔽储物空间。
 
-ent-TerminatorDeathAcidifierImplant = terminator self-destruct implant
-    .desc = This implant melts the user and their equipment upon manual activation. Will not trigger during transformation.
+ent-TerminatorDeathAcidifierImplant = 终结者自毁酸蚀植入物
+    .desc = 启动后会用强酸销毁目标装备。
 
-ent-TerminatorMicroBombImplant = terminator micro bomb implant
-    .desc = This implant detonates the user upon activation or upon death.
+ent-TerminatorMicroBombImplant = 终结者微型炸弹植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-MindControlImplant = mind control implant
-    .desc = A knock-off of the Mindshield. this Implant ensures the user is on the side of the syndicate.
+ent-MindControlImplant = 精神控制植入物
+    .desc = 心灵护盾的仿制品，可确保使用者效忠辛迪加。
 
-ent-RadioImplantNanoTrasen = nanotrasen radio implant
-    .desc = This implant grants access to the NanoTrasen channel without a headset. Only authorized for NanoTrasen personnel.
+ent-RadioImplantNanoTrasen = 纳米传讯无线电植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-DeathRattleImplantNanoTrasen = nanotrasen death rattle implant
-    .desc = This implant will inform the NanoTrasen radio channel should the user fall into critical condition or die.
+ent-DeathRattleImplantNanoTrasen = 濒死警报植入物
+    .desc = 使用者陷入危急状态或死亡时，会通过对应无线电频道发出警报。
 
-ent-CommandTrackingImplant = command tracking implant
-    .desc = This implant has a tracking device attached to the suit sensor network, as well as a condition monitor for the security and command radio channels.
+ent-CommandTrackingImplant = 指挥部追踪植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-XenoroachSelfDestructImplant = xenoroach self-destruct implant
-    .desc = Dissolves the xenoroach chassis and any held items on manual activation.
+ent-XenoroachSelfDestructImplant = 异种蟑螂自毁植入物
+    .desc = 用于将专用皮下植入物注入体内的装置。
 
-ent-FloorTileItemCarpetDeco = carpet deco tile
+ent-FloorTileItemCarpetDeco = 装饰地毯地块
 
-ent-FloorTileItemDarkBitile = dark bitile tile
+ent-FloorTileItemDarkBitile = 深色双色地块
 
-ent-FloorTileItemSteelBitile = steel bitile tile
+ent-FloorTileItemSteelBitile = 钢制双色地块
 
-ent-FloorTileItemWhiteBitile = white bitile tile
+ent-FloorTileItemWhiteBitile = 白色双色地块
 
-ent-FloorTileItemHierophant = hierophant tile
+ent-FloorTileItemHierophant = 教主地块
 
-ent-FloorTileItemSepia = sepia tile
+ent-FloorTileItemSepia = 深褐色地块
 
-ent-FloorTileItemTerracotta = terracotta tile
+ent-FloorTileItemTerracotta = 陶瓦地块
 
-ent-FloorTileItemTerracottaDiagonal = terracotta diagonal tile
+ent-FloorTileItemTerracottaDiagonal = 陶瓦斜纹地块
 
-ent-FloorTileItemTerracottaSmall = terracotta small tile
+ent-FloorTileItemTerracottaSmall = 小块陶瓦地块
 
-ent-FloorTileItemDarkWood = dark wood floor
+ent-FloorTileItemDarkWood = 深色木地块
 
-ent-FloorTileItemDarkWoodPattern = dark wood pattern floor
+ent-FloorTileItemDarkWoodPattern = 深色花纹木地块
 
-ent-FloorTileItemDarkWoodLarge = large dark wood floor
+ent-FloorTileItemDarkWoodLarge = 大型深色木地块
 
-ent-FloorTileItemWoodParquet = wooden parquet
+ent-FloorTileItemWoodParquet = 木拼花地块
 
-ent-FloorTileItemWoodBlack = black wooden floor
+ent-FloorTileItemWoodBlack = 黑色木地块
 
-ent-FloorTileItemWoodDark = dark wooden floor
+ent-FloorTileItemWoodDark = 深色木地块
 
-ent-FloorTileItemWoodLight = light wooden floor
+ent-FloorTileItemWoodLight = 浅色木地块
 
-ent-FloorTileItemWoodRed = red wooden floor
+ent-FloorTileItemWoodRed = 红色木地块
 
-ent-FloorTileItemWoodLargeBlack = large black wooden floor
+ent-FloorTileItemWoodLargeBlack = 大型黑色木地块
 
-ent-FloorTileItemWoodLargeDark = large dark wooden floor
+ent-FloorTileItemWoodLargeDark = 大型深色木地块
 
-ent-FloorTileItemWoodLargeLight = large light wooden floor
+ent-FloorTileItemWoodLargeLight = 大型浅色木地块
 
-ent-FloorTileItemWoodLargeRed = large red wooden floor
+ent-FloorTileItemWoodLargeRed = 大型红色木地块
 
-ent-FloorTileItemWoodParquetBlack = black wooden parquet
+ent-FloorTileItemWoodParquetBlack = 黑色木拼花地块
 
-ent-FloorTileItemWoodParquetDark = dark wooden parquet
+ent-FloorTileItemWoodParquetDark = 深色木拼花地块
 
-ent-FloorTileItemWoodParquetLight = light wooden parquet
+ent-FloorTileItemWoodParquetLight = 浅色木拼花地块
 
-ent-FloorTileItemWoodParquetRed = red wooden parquet
+ent-FloorTileItemWoodParquetRed = 红色木拼花地块
 
-ent-FloorTileItemWoodChess = wooden chess floor
+ent-FloorTileItemWoodChess = 木棋盘格地块
 
-ent-FloorTileItemWoodChessBlack = black wooden chess floor
+ent-FloorTileItemWoodChessBlack = 黑色木棋盘格地块
 
-ent-FloorTileItemWoodChessDark = dark wooden chess floor
+ent-FloorTileItemWoodChessDark = 深色木棋盘格地块
 
-ent-FloorTileItemWoodChessLight = light wooden chess floor
+ent-FloorTileItemWoodChessLight = 浅色木棋盘格地块
 
-ent-FloorTileItemWoodChessRed = red wooden chess floor
+ent-FloorTileItemWoodChessRed = 红色木棋盘格地块
 
-ent-FloorTileItemMetalDark = dark metal tile
+ent-FloorTileItemMetalDark = 深色 金属 地块
 
-ent-FloorTileItemMetalBrown = brown metal tile
+ent-FloorTileItemMetalBrown = 棕色 金属 地块
 
-ent-FloorTileItemMetalBlue = blue  metal tile
+ent-FloorTileItemMetalBlue = 蓝色  金属 地块
 
-ent-FloorTileItemMetalPurple = purple metal tile
+ent-FloorTileItemMetalPurple = 紫色 金属 地块
 
-ent-FloorTileItemMetalRed = red metal tile
+ent-FloorTileItemMetalRed = 红色 金属 地块
 
-ent-FloorTileItemMetalGreen = green metal tile
+ent-FloorTileItemMetalGreen = 绿色 金属 地块
 
-ent-FloorTileItem3x3Black = 3x3 black tile
-    .desc = A 3 by 3 set of black tiles.
+ent-FloorTileItem3x3Black = 3x3 黑色 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItem3x3Brown = 3x3 brown tile
-    .desc = A 3 by 3 set of brown tiles.
+ent-FloorTileItem3x3Brown = 3x3 棕色 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItem3x3Steel = 3x3 steel tile
-    .desc = A 3 by 3 set of steel tiles.
+ent-FloorTileItem3x3Steel = 3x3 钢制 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItem3x3White = 3x3 white tile
-    .desc = A 3 by 3 set of steel tiles.
+ent-FloorTileItem3x3White = 3x3 白色 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemOldConcreteBricks = old concrete bricks
-    .desc = Old, heavily worn concrete bricks.
+ent-FloorTileItemOldConcreteBricks = 老旧混凝土砖地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemOldConcreteTile = old concrete tiles
-    .desc = Old, heavily worn concrete tiles.
+ent-FloorTileItemOldConcreteTile = 老旧 混凝土 地块s
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemOrnate = ornate tile
-    .desc = Old orante tiles.
+ent-FloorTileItemOrnate = 华丽 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemRoughMetal = rough metal tile
-    .desc = Its seen a lot of use.
+ent-FloorTileItemRoughMetal = 粗糙 金属 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemRustyMetal = rusty metal tile
-    .desc = Its seen a lot of use.
+ent-FloorTileItemRustyMetal = 锈蚀 金属 地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemSteelGrate = steel grate tile
-    .desc = A steel grate.
+ent-FloorTileItemSteelGrate = 钢格栅地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemTechGreeb = tech maints tile
-    .desc = Over designed and dirty.
+ent-FloorTileItemTechGreeb = 科技维护通道地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-FloorTileItemAstroDirt = astro-dirt tile
-    .desc = Fake dirt. It's easily removable, but completely devoid of the nutrients that plants crave.
+ent-FloorTileItemAstroDirt = 人造土地块
+    .desc = 一组可铺设的装饰地板材料。
 
-ent-BlackLightTube = black light tube
-    .desc = A colorful light tube. These emit "black light".
+ent-BlackLightTube = 黑光灯管
+    .desc = 一件具有特殊用途的物品。
 
-ent-PowerCellTiny = brigmedic defibrillator battery
-    .desc = You are fairly certain this is a AA battery in disguse..
+ent-PowerCellTiny = 狱医除颤器电池
+    .desc = 一件具有特殊用途的物品。
 
-ent-YellowSlimeExtractPowercell = yellow slime extract powercell
+ent-YellowSlimeExtractPowercell = 黄色史莱姆提取物电池
 
-ent-MechReactorBase = standard mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis.
+ent-MechReactorBase = 标准机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorStandard = standard mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis. It is quite slow, and has to cool down for some time before it begins to generate power.
+ent-MechReactorStandard = 标准机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorHigh = workhorse-class mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis. It is just as slow as the standard model, but has much a much higher heat capacity.
+ent-MechReactorHigh = 役马级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorHyper = longhaul-class mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis. This model is outfitted with deep heatsinks and an upgraded coolant loop for extended operational time.
+ent-MechReactorHyper = 远航级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorMicro = thor-class mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis. This model features superior cooling systems to facilitate low reactor latency, at the cost of deep heat sinks.
+ent-MechReactorMicro = 雷神级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorAntique = emperor-class mech reactor
-    .desc = A miniaturised reactor core, built in a more civilised age. It is highly efficient, and will never overheat.
+ent-MechReactorAntique = 帝皇级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorShielded = paladin-class mech reactor
-    .desc = A miniaturised reactor core, built in a more civilised age. It is highly efficient, but trades some of the advanced cooling systems of the emperor-class reactor for an energy shield system. The device ports on this do not interface with modern mech systems, but we can probably jury-rig that with a multitool...
+ent-MechReactorShielded = 圣骑士级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorBurnout = burnout-class mech reactor
-    .desc = A miniaturised reactor core, built to be fit into a mech chassis. The burnout-class reactor series is controversial for their extreme focus on extended burst windows... at the cost of fully melting down as they are used.
+ent-MechReactorBurnout = 燃尽级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-MechReactorCavalier = cavalier-class mech reactor
-    .desc = A miniaturised reactor core, built in a more civilised age. This model is overclocked, increasing operational speeds at the expense of both cooling systems and heat sinks.
+ent-MechReactorCavalier = 骑士级机甲反应堆
+    .desc = 安装在机甲底盘内的小型化反应堆核心，各型号在散热与功率方面各有侧重。
 
-ent-PowerCageOmega = omega-capacity power cage
-    .desc = An extremely high-capacity power cage engineered for the most power-hungry shuttle weapon systems. Three times the capacity of a high-capacity cage, and three times the price. Noticeably heavier than standard cages.
+ent-PowerCageOmega = 欧米伽容量电力笼
+    .desc = 一件具有特殊用途的物品。
 
-ent-PowerCellUltra = ultra-capacity power cell
-    .desc = A rechargeable standardized power cell. This iteration pushes the upper limits of portable power storage, double more capacity than the hyper-capacity cell.
+ent-PowerCellUltra = 超大容量电池
+    .desc = 一件具有特殊用途的物品。
 
-ent-PaladinShield = paladin shield
-    .desc = A shield for a true paladin! Good at deflecting hits with swords and absorbing the impact from bats, but not much else.
+ent-PaladinShield = 圣骑士盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-PaladinShieldGreat = paladin greatshield
-    .desc = You're up against the wall and I! AM! THE! FUCKING! WALL!
+ent-PaladinShieldGreat = 圣骑士巨盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-ForgedShieldBuckler = forged buckler shield
-    .desc = Made from the best plasteel the tidersmiths could offer. Decent all-arounder, however being made out of solid metal makes it get hot real fast.
+ent-ForgedShieldBuckler = 锻造圆盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-ForgedShieldTower = forged tower shield
-    .desc = Tall and menacing. A bit on the heavy side, however.
+ent-ForgedShieldTower = 锻造塔盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-ImprovisedShield = improvised shield
-    .desc = Steel welded together in a interlocking pattern to hold up better to various kinds of blows. Don't expect it to do well in a gunfight, however.
+ent-ImprovisedShield = 临时盾牌
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-EnergyShieldUnbreakable = energy shield
-    .desc = Exotic energy shield, when folded, can even fit in your pocket.
+ent-EnergyShieldUnbreakable = 能量盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-GreenLightShield = X-03 green phase shield
-    .desc = Reverse engineered from a prototype that NT loaned CentComm, the wavelength has been tweaked to the glorious CentComm Green. While active, the micro-reactor cannot vent excess heat and needs to be shut off for a while to re-charge.
+ent-GreenLightShield = X-03 绿色相位盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-BlueLightShield = X-03 phase shield
-    .desc = An experimental hardlight shield that has a micro reactor in place of the syndicate chemical based battery. While active, the micro-reactor cannot vent excess heat and needs to be shut off for a while to re-charge.
+ent-BlueLightShield = X-03 相位盾
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-ChangelingShield = oraganic shield
-    .desc = A large, fleshy shield.
+ent-ChangelingShield = 有机盾牌
+    .desc = 一面用于格挡攻击的盾牌，其防护性能取决于材料与结构。
 
-ent-AbductorGizmo = gizmo
-    .desc = A device that inserts a nano tracker, which can be used to target a teleportation beam.
+ent-AbductorGizmo = 小装置
+    .desc = 一件具有特殊用途的物品。
 
-ent-AbductorExtractor = extractor
-    .desc = A device that extracts a heart for easier implantation of new heart.
+ent-AbductorExtractor = 提取器
+    .desc = 一件具有特殊用途的物品。
 
-ent-VendingMachineRestockAbductorDispenser = alien dispenser restock
-    .desc = A box filled with weird organs. Load it into a alien dispenser to begin.
+ent-VendingMachineRestockAbductorDispenser = 外星分配器补货箱
+    .desc = 一件具有特殊用途的物品。
 
-ent-CargoGasPalletSell = cargo gas selling tank
-    .desc = Stores gasses pumped through piping for sale. Made of plastitanium to discourage pesky vandals.
+ent-CargoGasPalletSell = 货运气体销售罐
+    .desc = 用于储存经管道输送的批量气体，坚固外壳可防止破坏。
 
-ent-CargoGasPalletBuy = cargo gas buying tank
-    .desc = Stores gasses purchased in bulk, ready to be pumped. Made of plastitanium to discourage pesky vandals.
+ent-CargoGasPalletBuy = 货运气体采购罐
+    .desc = 用于储存经管道输送的批量气体，坚固外壳可防止破坏。
 
-ent-BorgHold = Borg Cargo Hold
-    .desc = A small cargo hold built into a cyborg's chassis
+ent-BorgHold = 赛博格货舱
+    .desc = 一件具有特殊用途的物品。

@@ -1,1027 +1,1027 @@
-ent-FoodBoxNugget = chicken nuggets
-    .desc = You suddenly have an urge to trade on the intergalactic stock market.
+ent-FoodBoxNugget = 鸡块
+    .desc = 你突然有股冲动，想去星际股票市场做交易。
 
-ent-FoodBoxDonkpocket = box of donk-pockets
-    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.
+ent-FoodBoxDonkpocket = 一盒 Donk 夹心饼
+    .desc = 说明：用微波炉加热。若七分钟内未食用，产品将会冷却。
 
-ent-FoodBoxDonkpocketSpicy = box of spicy-flavoured donk-pockets
+ent-FoodBoxDonkpocketSpicy = 一盒香辣味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketTeriyaki = box of teriyaki-flavoured donk-pockets
+ent-FoodBoxDonkpocketTeriyaki = 一盒照烧味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketPizza = box of pizza-flavoured donk-pockets
+ent-FoodBoxDonkpocketPizza = 一盒披萨味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketStonk = box of limited edition stonk-pockets
+ent-FoodBoxDonkpocketStonk = 一盒限量版涨停夹心饼
 
-ent-FoodBoxDonkpocketCarp = box of carp-pockets
+ent-FoodBoxDonkpocketCarp = 一盒鲤鱼味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketBerry = box of berry-flavoured donk-pockets
+ent-FoodBoxDonkpocketBerry = 一盒莓果味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketHonk = box of banana-flavoured donk-pockets
+ent-FoodBoxDonkpocketHonk = 一盒香蕉味 Donk 夹心饼
 
-ent-FoodBoxDonkpocketDink = box of dink-pockets
-    .desc = Net Zero carbohydrates! No need for heating!
+ent-FoodBoxDonkpocketDink = 一盒 Dink 夹心饼
+    .desc = 零碳水！无需加热！
 
-ent-FoodBoxDonkpocketMoth = box of moth-pockets
+ent-FoodBoxDonkpocketMoth = 一盒飞蛾味 Donk 夹心饼
 
-ent-HappyHonk = happy honk meal
-    .desc = The toy is more edible than the food. Straight from the Honkas fly-thru, mmm.. # Starlight-edit
+ent-HappyHonk = 快乐呵叫套餐
+    .desc = 玩具都比食物更能入口。来自呵叫得来速餐厅，嗯……
 
-ent-HappyHonkNukie = robust nukie meal
-    .desc = A sus meal with a potentially explosive surprise.
+ent-HappyHonkNukie = 强力核弹特工套餐
+    .desc = 一份可疑的套餐，里面可能藏着爆炸性惊喜。
 
-ent-HappyHonkNukieSnacks = syndicate snack box
+ent-HappyHonkNukieSnacks = 辛迪加零食盒
 
-ent-HappyHonkCluwne = woeful cluwne meal
-    .desc = Nothing good can come of this.
+ent-HappyHonkCluwne = 悲惨受诅小丑套餐
+    .desc = 这绝不会带来什么好事。
 
-ent-FoodMealHappyHonkBigBite = Happy Honk Big Bite Meal
-    .desc = Someone paid good money to get this fast food meal shipped out this way. It smells fresh, somehow.
+ent-FoodMealHappyHonkBigBite = 快乐呵叫巨无霸套餐
+    .desc = 有人花了大价钱把这份快餐运到这里。不知为何，它闻起来还很新鲜。
 
-ent-FoodBoxCloth = box of FlutterSoft-brand cloth
-    .desc = Fiber is the most important moth meal of the day! Don't skip it or use bottom-of-the-locker junk, buy high-quality FlutterSoft-brand cloth instead.
+ent-FoodBoxCloth = 一盒柔羽牌布料
+    .desc = 纤维是飞蛾一天中最重要的一餐！别不吃，也别拿储物柜底下的垃圾凑合；请购买优质柔羽牌布料。
 
-ent-BaseFoodCondimentPacket = condiment packet
-    .desc = A small plastic pack with condiments to put on your food.
+ent-BaseFoodCondimentPacket = 调味料包
+    .desc = 装着佐餐调味料的小塑料包。
 
-ent-FoodCondimentPacketAstrotame = Astrotame
-    .desc = The sweetness of a thousand sugars but none of the calories.
+ent-FoodCondimentPacketAstrotame = 星甜素
+    .desc = 拥有一千份糖的甜度，却没有半点热量。
 
-ent-FoodCondimentPacketBbq = BBQ sauce
-    .desc = Hand wipes not included.
+ent-FoodCondimentPacketBbq = 烧烤酱
+    .desc = 不附赠湿巾。
 
-ent-FoodCondimentPacketCornoil = corn oil
-    .desc = Corn oil. A delicious oil used in cooking. Made from corn.
+ent-FoodCondimentPacketCornoil = 玉米油
+    .desc = 玉米油。用玉米制成，适合烹饪的美味油脂。
 
-ent-FoodCondimentPacketColdsauce = coldsauce
-    .desc = Coldsauce. Leaves the tongue numb in its passage.
+ent-FoodCondimentPacketColdsauce = 冷酱
+    .desc = 冷酱。所过之处，舌头尽失知觉。
 
-ent-FoodCondimentPacketHorseradish = horseradish sauce
-    .desc = A packet of smelly horseradish sauce.
+ent-FoodCondimentPacketHorseradish = 辣根酱
+    .desc = 一包气味冲鼻的辣根酱。
 
-ent-FoodCondimentPacketHotsauce = hotsauce
-    .desc = You can almost TASTE the stomach ulcers now!
+ent-FoodCondimentPacketHotsauce = 辣酱
+    .desc = 你几乎已经能尝到胃溃疡了！
 
-ent-FoodCondimentPacketKetchup = ketchup
-    .desc = You feel more American already.
+ent-FoodCondimentPacketKetchup = 番茄酱
+    .desc = 你感觉自己已经更像美国人了。
 
-ent-FoodCondimentPacketMustard = mustard
-    .desc = A condiment made from the ground-up seeds of the Mustard plant.
+ent-FoodCondimentPacketMustard = 芥末酱
+    .desc = 用磨碎的芥菜籽制成的调味料。
 
-ent-FoodCondimentPacketPepper = black pepper
-    .desc = Often used to flavor food or make people sneeze.
+ent-FoodCondimentPacketPepper = 黑胡椒
+    .desc = 常用于调味，或让人打喷嚏。
 
-ent-FoodCondimentPacketSalt = salt
-    .desc = Salt. From space oceans, presumably.
+ent-FoodCondimentPacketSalt = 盐
+    .desc = 盐。大概来自太空海洋。
 
-ent-FoodCondimentPacketSoy = soy sauce
-    .desc = A salty soy-based flavoring.
+ent-FoodCondimentPacketSoy = 酱油
+    .desc = 以大豆制成的咸味调料。
 
-ent-FoodCondimentPacketSugar = sugar
-    .desc = Tasty spacey sugar!
+ent-FoodCondimentPacketSugar = 糖
+    .desc = 美味的太空糖！
 
-ent-BaseFoodCondimentBottle = condiment bottle
-    .desc = A thin glass bottle used to store condiments.
+ent-BaseFoodCondimentBottle = 调味料瓶
+    .desc = 用于储存调味料的细玻璃瓶。
 
-ent-FoodCondimentBottleColdsauce = coldsauce bottle
-    .desc = Leaves the tongue numb in its passage.
+ent-FoodCondimentBottleColdsauce = 冷酱瓶
+    .desc = 所过之处，舌头尽失知觉。
 
-ent-FoodCondimentBottleEnzyme = universal enzyme
-    .desc = Used in cooking various dishes.
+ent-FoodCondimentBottleEnzyme = 万能酶
+    .desc = 用于烹制各种菜肴。
 
-ent-FoodCondimentBottleVinegar = vinegar bottle
-    .desc = Used in cooking to enhance flavor.
+ent-FoodCondimentBottleVinegar = 醋瓶
+    .desc = 用于烹饪提味。
 
-ent-FoodCondimentBottleHotsauce = hotsauce bottle
-    .desc = You can almost TASTE the stomach ulcers now!
+ent-FoodCondimentBottleHotsauce = 辣酱瓶
+    .desc = 你几乎已经能尝到胃溃疡了！
 
-ent-FoodCondimentBottleKetchup = ketchup bottle
-    .desc = You feel more American already.
+ent-FoodCondimentBottleKetchup = 番茄酱瓶
+    .desc = 你感觉自己已经更像美国人了。
 
-ent-FoodCondimentBottleBBQ = BBQ sauce bottle
-    .desc = Hand wipes not included.
+ent-FoodCondimentBottleBBQ = 烧烤酱瓶
+    .desc = 不附赠湿巾。
 
-ent-BaseFoodShaker = empty shaker
-    .desc = A shaker used to store and dispense spices.
+ent-BaseFoodShaker = 空调料罐
+    .desc = 用于储存并撒出香料的调料罐。
 
-ent-FoodShakerSalt = salt shaker
-    .desc = Salt. From space oceans, presumably.
+ent-FoodShakerSalt = 盐罐
+    .desc = 盐。大概来自太空海洋。
 
-ent-FoodShakerPepper = pepper shaker
-    .desc = Often used to flavor food or make people sneeze.
+ent-FoodShakerPepper = 胡椒罐
+    .desc = 常用于调味，或让人打喷嚏。
 
-ent-FoodPlate = large plate
-    .desc = A large plate, excellent for bread.
+ent-FoodPlate = 大盘子
+    .desc = 一个大盘子，特别适合装面包。
 
-ent-FoodPlateTrash = broken plate
-    .desc = A broken plate. Useless.
+ent-FoodPlateTrash = 破盘子
+    .desc = 一个破盘子。毫无用处。
 
-ent-FoodPlateSmall = small plate
-    .desc = A small plate. Delicate.
+ent-FoodPlateSmall = 小盘子
+    .desc = 一个小巧精致的盘子。
 
-ent-FoodPlatePlastic = large plastic plate
-    .desc = A large blue plastic plate, excellent for a birthday cake.
+ent-FoodPlatePlastic = 大塑料盘
+    .desc = 一个蓝色大塑料盘，特别适合装生日蛋糕。
 
-ent-FoodPlateSmallPlastic = small plastic plate
-    .desc = A blue plastic plate, excellent for slices of birthday cake.
+ent-FoodPlateSmallPlastic = 小塑料盘
+    .desc = 一个蓝色塑料盘，特别适合装生日蛋糕切片。
 
-ent-FoodPlateTin = pie tin
-    .desc = A cheap foil tin for pies.
+ent-FoodPlateTin = 派烤盘
+    .desc = 用于烤派的廉价锡箔烤盘。
 
-ent-FoodPlateMuffinTin = muffin tin
-    .desc = A cheap foil tin for muffins.
+ent-FoodPlateMuffinTin = 玛芬烤盘
+    .desc = 用于烤玛芬的廉价锡箔烤盘。
 
-ent-FoodTinBase = tin
-    .desc = A tin of something, sealed tight.
+ent-FoodTinBase = 罐头
+    .desc = 某种东西的罐头，封得严严实实。
 
-ent-FoodTinBaseTrash = empty tin
-    .desc = An empty tin. Could get a bit of metal from this.
+ent-FoodTinBaseTrash = 空罐头
+    .desc = 一个空罐头。或许能从中弄到一点金属。
 
-ent-FoodTinPeaches = tinned peaches
-    .desc = Just a nice can of ripe peaches swimming in their own juices.
+ent-FoodTinPeaches = 糖水桃罐头
+    .desc = 一罐熟透的桃子，浸泡在自己的汁水里。
 
-ent-FoodTinPeachesTrash = tinned peaches
+ent-FoodTinPeachesTrash = 糖水桃罐头
 
-ent-FoodTinPeachesMaint = maintenance peaches
+ent-FoodTinPeachesMaint = 维护通道桃罐头
 
-ent-FoodTinPeachesMaintTrash = maintenance peaches
+ent-FoodTinPeachesMaintTrash = 维护通道桃罐头
 
-ent-FoodTinBeans = tin of beans
-    .desc = Musical fruit in a slightly less musical container.
+ent-FoodTinBeans = 豆子罐头
+    .desc = 会奏乐的果实，装在一个没那么会奏乐的容器里。
 
-ent-FoodTinBeansTrash = tin of beans
+ent-FoodTinBeansTrash = 豆子罐头
 
-ent-FoodTinMRE = tinned meat
-    .desc = A standard issue tin of meat with a convenient pull tab.
+ent-FoodTinMRE = 肉罐头
+    .desc = 标准配发的肉罐头，带有方便开启的拉环。
 
-ent-FoodTinMRETrash = tinned meat
+ent-FoodTinMRETrash = 肉罐头
 
-ent-FoodBreakfastAmerican = full american breakfast
-    .desc = A huge plate of protein and carbs, more likely to put you back in bed than get you out of it. Oh, what fresh hell is this?
+ent-FoodBreakfastAmerican = 全套美式早餐
+    .desc = 满满一大盘蛋白质和碳水，与其说能让你起床，不如说更可能把你送回床上。天啊，这又是什么人间地狱？
 
-ent-FoodBreakfastEnglish = full english breakfast
-    .desc = A huge plate of protein and carbs, more likely to put you back in bed than get you out of it. Don't mention the war!
+ent-FoodBreakfastEnglish = 全套英式早餐
+    .desc = 满满一大盘蛋白质和碳水，与其说能让你起床，不如说更可能把你送回床上。别提那场战争！
 
-ent-FoodBreadBun = bun
-    .desc = A hamburger bun. Round and convenient to hold.
+ent-FoodBreadBun = 汉堡面包
+    .desc = 圆圆的汉堡面包，拿着很方便。
 
-ent-FoodBreadBunBottom = bottom bun
-    .desc = It's time to start building the burger tower.
+ent-FoodBreadBunBottom = 汉堡底面包
+    .desc = 该开始搭建汉堡塔了。
 
-ent-FoodBreadBunTop = top bun
-    .desc = The perfect finish for your burger tower.
+ent-FoodBreadBunTop = 汉堡顶面包
+    .desc = 为你的汉堡塔完美收尾。
 
-ent-FoodBurgerJelly = jelly burger
-    .desc = Culinary delight..?
+ent-FoodBurgerJelly = 果冻汉堡
+    .desc = 烹饪佳作……？
 
-ent-FoodBurgerAppendix = appendix burger
-    .desc = Tastes like appendicitis.
+ent-FoodBurgerAppendix = 阑尾汉堡
+    .desc = 吃起来像阑尾炎。
 
-ent-FoodBurgerBacon = bacon burger
-    .desc = The perfect combination of all things American.
+ent-FoodBurgerBacon = 培根汉堡
+    .desc = 一切美式元素的完美结合。
 
-ent-FoodBurgerBaseball = baseball burger
-    .desc = It's still warm. The steam coming off of it smells kinda sweaty.
+ent-FoodBurgerBaseball = 棒球汉堡
+    .desc = 它还是热的。冒出的蒸汽闻起来有点汗味。
 
-ent-FoodBurgerBear = bearger
-    .desc = Best served rawr.
+ent-FoodBurgerBear = 熊熊汉堡
+    .desc = 最好生嗷着吃。
 
-ent-FoodBurgerBig = big bite burger
-    .desc = Forget the Big Mac. THIS is the future!
+ent-FoodBurgerBig = 大口汉堡
+    .desc = 忘了巨无霸吧。这才是未来！
 
-ent-FoodBurgerBrain = brain burger
-    .desc = A strange looking burger. It looks almost sentient.
+ent-FoodBurgerBrain = 脑子汉堡
+    .desc = 一个外观怪异的汉堡，看起来几乎有自我意识。
 
-ent-FoodBurgerCat = cat burger
-    .desc = Finally those cats and catpeople are worth something!
+ent-FoodBurgerCat = 猫肉汉堡
+    .desc = 这些猫和猫人总算有点价值了！
 
-ent-FoodBurgerCheese = cheese burger
-    .desc = This noble burger stands proudly clad in golden cheese.
+ent-FoodBurgerCheese = 芝士汉堡
+    .desc = 这位高贵的汉堡身披金色芝士，骄傲地挺立着。
 
-ent-FoodBurgerChicken = chicken sandwich # Burger for you euro-cucks
-    .desc = A delicious chicken sandwich, it is said the proceeds from this treat helps criminalize disarming people on the space frontier.
+ent-FoodBurgerChicken = 鸡肉三明治 # 给欧洲人的汉堡
+    .desc = 美味的鸡肉三明治，据说它的收益会用于推动把太空边疆的缴械行为定为犯罪。
 
-ent-FoodBurgerClown = clown burger
-    .desc = This tastes funny...
+ent-FoodBurgerClown = 小丑汉堡
+    .desc = 味道真滑稽……
 
-ent-FoodBurgerCorgi = corger #not curger
-    .desc = The Head of Personnel's favorite!
+ent-FoodBurgerCorgi = 柯基汉堡 # 不是咖喱汉堡
+    .desc = 人事主管的最爱！
 
-ent-FoodBurgerCrab = crab burger
-    .desc = A delicious patty of the crabby kind, slapped in between a bun.
+ent-FoodBurgerCrab = 蟹肉汉堡
+    .desc = 一块美味的蟹肉饼被拍在两片面包之间。
 
-ent-FoodBurgerCrazy = crazy hamburger # Burger for you euro-cucks
-    .desc = This looks like the sort of food that a demented clown in a trenchcoat would make.
+ent-FoodBurgerCrazy = 疯狂汉堡 # 给欧洲人的汉堡
+    .desc = 这看起来像是某个穿风衣的疯癫小丑会做出的食物。
 
-ent-FoodBurgerDuck = duck sandwich # Burger for you sick bastards
-    .desc = A duck sandwich, only the criminally insane would dare to eat the meat of such an adorable creature.
+ent-FoodBurgerDuck = 鸭肉三明治 # 给那些病态混蛋的汉堡
+    .desc = 鸭肉三明治；只有丧心病狂的人才敢吃如此可爱生物的肉。
 
-ent-FoodBurgerEmpowered = empowered burger
-    .desc = It's shockingly good, if you live off of electricity that is.
+ent-FoodBurgerEmpowered = 充能汉堡
+    .desc = 好吃得令人震惊——前提是你靠电为生。
 
-ent-FoodBurgerCarp = fillet-o-carp burger
-    .desc = Almost like a carp is yelling somewhere...
+ent-FoodBurgerCarp = 鲤鱼柳汉堡
+    .desc = 仿佛某处有条鲤鱼正在尖叫……
 
-ent-FoodBurgerFive = five alarm burger
-    .desc = HOT! HOT! HOT!
+ent-FoodBurgerFive = 五级火警汉堡
+    .desc = 辣！辣！辣！
 
-ent-FoodBurgerGhost = ghost burger
-    .desc = Too spooky!
+ent-FoodBurgerGhost = 幽灵汉堡
+    .desc = 太吓人了！
 
-ent-FoodBurgerHuman = human burger
-    .desc = You cant tell who this is made of...
+ent-FoodBurgerHuman = 人肉汉堡
+    .desc = 你根本看不出这是用谁做的……
 
-ent-FoodBurgerMcguffin = McGuffin
-    .desc = A cheap and greasy imitation of an eggs Benedict.
+ent-FoodBurgerMcguffin = 麦高芬
+    .desc = 廉价油腻的仿制班尼迪克蛋。
 
-ent-FoodBurgerMcrib = BBQ Rib Sandwich
-    .desc = An elusive rib shaped burger with limited availability across the galaxy. Not as good as you remember it.
+ent-FoodBurgerMcrib = 烧烤肋排三明治
+    .desc = 一种神出鬼没的肋排形汉堡，全银河限量供应。没有记忆中那么好吃。
 
-ent-FoodBurgerMime = mime burger
-    .desc = Its taste defies language.
+ent-FoodBurgerMime = 哑剧汉堡
+    .desc = 它的味道无法用语言描述。
 
-ent-FoodBurgerPlain = plain burger
-    .desc = A boring, dry burger.
+ent-FoodBurgerPlain = 原味汉堡
+    .desc = 无聊又干巴的汉堡。
 
-ent-FoodBurgerRat = rat burger
-    .desc = Pretty much what you'd expect...
+ent-FoodBurgerRat = 鼠肉汉堡
+    .desc = 差不多就是你预想的那样……
 
-ent-FoodBurgerRobot = roburger
-    .desc = The lettuce is the only organic component. Beep.
+ent-FoodBurgerRobot = 机器汉堡
+    .desc = 生菜是其中唯一的有机成分。哔。
 
-ent-FoodBurgerSoy = soylent burger
-    .desc = After eating this you have the overwhelming urge to purchase overpriced figurines of superheroes.
+ent-FoodBurgerSoy = 大豆人汉堡
+    .desc = 吃完它，你会产生一股无法抗拒的冲动，想购买定价过高的超级英雄公仔。
 
-ent-FoodBurgerSpell = spell burger
-    .desc = This is absolutely Ei Nath.
+ent-FoodBurgerSpell = 法术汉堡
+    .desc = 这绝对是“伊·纳斯”。
 
-ent-FoodBurgerSuper = super bite burger
-    .desc = This is a mountain of a burger. FOOD!
+ent-FoodBurgerSuper = 超级大口汉堡
+    .desc = 这汉堡简直堆成了一座山。食物！
 
-ent-FoodBurgerTofu = tofu burger
-    .desc = What... is that meat?
+ent-FoodBurgerTofu = 豆腐汉堡
+    .desc = 这……是什么肉？
 
-ent-FoodBurgerXeno = xenoburger
-    .desc = Smells caustic. Tastes like heresy.
+ent-FoodBurgerXeno = 异形汉堡
+    .desc = 闻起来有腐蚀性，尝起来像异端。
 
-ent-FoodBurgerMothRoach = mothroachburger
-    .desc = The last lamp it saw was the one inside the microwave.
+ent-FoodBurgerMothRoach = 蛾蟑汉堡
+    .desc = 它最后见到的灯，就是微波炉里的那盏。
 
-ent-FoodCottonBun = cotton bun
-    .desc = A cotton hamburger bun. Soft, round and convenient to hold.
+ent-FoodCottonBun = 棉花汉堡面包
+    .desc = 棉花制成的汉堡面包。柔软、圆润又方便拿取。
 
-ent-FoodCottonBunBottom = cotton bottom bun
-    .desc = It's time for moths to experience the burger tower.
+ent-FoodCottonBunBottom = 棉花汉堡底面包
+    .desc = 该让飞蛾体验一下汉堡塔了。
 
-ent-FoodCottonBunTop = cotton top bun
-    .desc = The perfect finish for your fibrous burger tower.
+ent-FoodCottonBunTop = 棉花汉堡顶面包
+    .desc = 为你的纤维汉堡塔完美收尾。
 
-ent-Eggshells = eggshells
-    .desc = You're walkin' on 'em bud.
+ent-Eggshells = 蛋壳
+    .desc = 伙计，你正如履薄冰——不，是蛋壳。
 
-ent-FoodEgg = egg
+ent-FoodEgg = 鸡蛋
 
-ent-FoodEggBoiled = boiled egg
-    .desc = A delicious hardboiled egg.
+ent-FoodEggBoiled = 水煮蛋
+    .desc = 美味的全熟水煮蛋。
 
-ent-FoodFrozenSandwich = ice-cream sandwich
-    .desc = Portable ice-cream in its own packaging.
+ent-FoodFrozenSandwich = 冰淇淋三明治
+    .desc = 自带包装的便携式冰淇淋。
 
-ent-FoodFrozenSandwichStrawberry = strawberry ice-cream sandwich
-    .desc = Portable ice-cream in its own packaging of the strawberry variety.
+ent-FoodFrozenSandwichStrawberry = 草莓冰淇淋三明治
+    .desc = 自带草莓味包装的便携式冰淇淋。
 
-ent-FoodFrozenFreezy = space freezy
-    .desc = The best ice-cream in space.
+ent-FoodFrozenFreezy = 太空冰冰
+    .desc = 太空中最棒的冰淇淋。
 
-ent-FoodFrozenSundae = ice-cream sundae
-    .desc = A classic dessert.
+ent-FoodFrozenSundae = 圣代冰淇淋
+    .desc = 经典甜点。
 
-ent-FoodFrozenCornuto = cornuto
-    .desc = A Neapolitan vanilla and chocolate ice-cream cone. It menaces with a sprinkling of caramelized nuts.
+ent-FoodFrozenCornuto = 可诺脆筒
+    .desc = 那不勒斯风味的香草巧克力冰淇淋蛋筒，以焦糖坚果碎散发威势。
 
-ent-FoodFrozenPopsicleOrange = orange creamsicle
-    .desc = A classic orange creamsicle. A sunny frozen treat.
+ent-FoodFrozenPopsicleOrange = 橙味奶油冰棒
+    .desc = 经典的橙味奶油冰棒，阳光般明快的冰冻甜点。
 
-ent-FoodFrozenPopsicleBerry = berry creamsicle
-    .desc = A vibrant berry creamsicle. A berry good frozen treat.
+ent-FoodFrozenPopsicleBerry = 莓果奶油冰棒
+    .desc = 色彩鲜艳的莓果奶油冰棒，莓妙无比的冰冻甜点。
 
-ent-FoodFrozenPopsicleJumbo = jumbo ice-cream
-    .desc = A luxurious ice-cream covered in rich chocolate. It's smaller than you remember.
+ent-FoodFrozenPopsicleJumbo = 巨无霸冰淇淋
+    .desc = 裹着浓郁巧克力的奢华冰淇淋。比你记忆中小了些。
 
-ent-FoodFrozenSnowconeBase = sweet snowcone
-    .desc = It's just shaved ice and simple syrup, minimum effort.
+ent-FoodFrozenSnowconeBase = 甜味刨冰
+    .desc = 不过是刨冰加糖浆，敷衍至极。
 
-ent-FoodFrozenSnowcone = flavorless snowcone
-    .desc = It's just shaved ice. Still fun to chew on.
+ent-FoodFrozenSnowcone = 无味刨冰
+    .desc = 不过是刨冰，嚼起来倒还是挺有趣。
 
-ent-FoodFrozenSnowconeBerry = berry snowcone
-    .desc = Berry syrup drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeBerry = 莓果刨冰
+    .desc = 纸杯里的雪球淋上了莓果糖浆。
 
-ent-FoodFrozenSnowconeFruit = fruit salad snowcone
-    .desc = A delightful mix of citrus syrups drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeFruit = 水果沙拉刨冰
+    .desc = 纸杯里的雪球淋上了缤纷的柑橘糖浆。
 
-ent-FoodFrozenSnowconeClown = clowncone
-    .desc = Laughter drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeClown = 小丑刨冰
+    .desc = 纸杯里的雪球淋上了欢笑。
 
-ent-FoodFrozenSnowconeMime = mime snowcone
-    .desc = ...
+ent-FoodFrozenSnowconeMime = 哑剧刨冰
+    .desc = ……
 
-ent-FoodFrozenSnowconeRainbow = rainbow snowcone
-    .desc = A very colorful snowball in a paper cup.
+ent-FoodFrozenSnowconeRainbow = 彩虹刨冰
+    .desc = 纸杯里色彩斑斓的雪球。
 
-ent-FoodFrozenSnowconeTrash = paper cone
-    .desc = A crumpled paper cone used for an icy treat. Worthless.
+ent-FoodFrozenSnowconeTrash = 纸锥杯
+    .desc = 装过冰冻甜点的皱巴巴纸锥杯。毫无价值。
 
-ent-FoodFrozenPopsicleTrash = popsicle stick
-    .desc = Once held a delicious treat. Now, 'tis barren.
+ent-FoodFrozenPopsicleTrash = 冰棒棍
+    .desc = 曾经托举着美味甜点，如今一片荒芜。
 
-ent-ReagentContainerFlour = flour bag
-    .desc = A big bag of flour. Good for baking!
+ent-ReagentContainerFlour = 面粉袋
+    .desc = 一大袋面粉，适合烘焙！
 
-ent-ReagentContainerFlourSmall = flour pack
-    .desc = A pack of flour. Good for baking!
+ent-ReagentContainerFlourSmall = 面粉包
+    .desc = 一包面粉，适合烘焙！
 
-ent-ReagentContainerCornmeal = cornmeal bag
-    .desc = A big bag of cornmeal. Good for cooking!
+ent-ReagentContainerCornmeal = 玉米面袋
+    .desc = 一大袋玉米面，适合烹饪！
 
-ent-ReagentContainerCornmealSmall = cornmeal pack
-    .desc = A pack of cornmeal. Good for cooking!
+ent-ReagentContainerCornmealSmall = 玉米面包
+    .desc = 一包玉米面，适合烹饪！
 
-ent-ReagentContainerRice = rice bag
-    .desc = A big bag of rice. Good for cooking!
+ent-ReagentContainerRice = 大米袋
+    .desc = 一大袋大米，适合烹饪！
 
-ent-ReagentContainerRiceSmall = rice pack
-    .desc = A pack of rice. Good for cooking!
+ent-ReagentContainerRiceSmall = 大米包
+    .desc = 一包大米，适合烹饪！
 
-ent-ReagentContainerSugar = sugar bag
-    .desc = A big bag of tasty spacey sugar.
+ent-ReagentContainerSugar = 糖袋
+    .desc = 一大袋美味的太空糖。
 
-ent-ReagentContainerSugarSmall = sugar pack
-    .desc = A pack of tasty spacey sugar.
+ent-ReagentContainerSugarSmall = 糖包
+    .desc = 一包美味的太空糖。
 
-ent-ReagentContainerOliveoil = olive oil
-    .desc = Olive oil. From space olives presumably.
+ent-ReagentContainerOliveoil = 橄榄油
+    .desc = 橄榄油。大概来自太空橄榄。
 
-ent-ReagentContainerMayo = mayonnaise
-    .desc = Bottle of mayonnaise.
+ent-ReagentContainerMayo = 蛋黄酱
+    .desc = 一瓶蛋黄酱。
 
-ent-FoodDough = dough
-    .desc = A piece of dough.
+ent-FoodDough = 面团
+    .desc = 一块面团。
 
-ent-FoodDoughSlice = dough slice
-    .desc = A slice of dough. Can be cooked into a bun.
+ent-FoodDoughSlice = 面团片
+    .desc = 一片面团，可以烤成小面包。
 
-ent-FoodDoughRope = dough rope
-    .desc = A thin noodle of dough. Can be cooked into a bagel.
+ent-FoodDoughRope = 面团条
+    .desc = 一根细长的面团，可以烤成贝果。
 
-ent-FoodDoughCornmeal = cornmeal dough
-    .desc = A piece of cornmeal dough.
+ent-FoodDoughCornmeal = 玉米面团
+    .desc = 一块玉米面团。
 
-ent-FoodDoughCornmealSlice = cornmeal dough slice
-    .desc = A slice of cornmeal dough.
+ent-FoodDoughCornmealSlice = 玉米面团片
+    .desc = 一片玉米面团。
 
-ent-FoodDoughTortilla = tortilla dough
-    .desc = A piece of tortilla dough.
+ent-FoodDoughTortilla = 玉米饼面团
+    .desc = 一块玉米饼面团。
 
-ent-FoodDoughTortillaSlice = tortilla dough slice
-    .desc = A slice of tortilla dough.
+ent-FoodDoughTortillaSlice = 玉米饼面团片
+    .desc = 一片玉米饼面团。
 
-ent-FoodDoughTortillaFlat = flattened tortilla dough
-    .desc = A flattened slice of tortilla dough, cook this to get a taco shell.
+ent-FoodDoughTortillaFlat = 压平的玉米饼面团
+    .desc = 一片压平的玉米饼面团，烤熟后可制成塔可饼壳。
 
-ent-FoodDoughCotton = cotton dough
-    .desc = A piece of fabric dough.
+ent-FoodDoughCotton = 棉花面团
+    .desc = 一块织物面团。
 
-ent-FoodDoughCottonSlice = cotton dough slice
-    .desc = A slice of cotton dough.
+ent-FoodDoughCottonSlice = 棉花面团片
+    .desc = 一片棉花面团。
 
-ent-FoodDoughCottonRope = cotton dough rope
-    .desc = A thin noodle of cotton dough. Can be cooked into a cotton bagel.
+ent-FoodDoughCottonRope = 棉花面团条
+    .desc = 一根细长的棉花面团，可以烤成棉花贝果。
 
-ent-FoodDoughPastryBaseRaw = raw pastry base
-    .desc = Must be cooked before use.
+ent-FoodDoughPastryBaseRaw = 生酥皮坯
+    .desc = 使用前必须烤熟。
 
-ent-FoodDoughPastryBase = pastry base
-    .desc = A base for any self-respecting pastry.
+ent-FoodDoughPastryBase = 酥皮坯
+    .desc = 任何体面酥点都少不了的基底。
 
-ent-FoodDoughPie = pie dough
-    .desc = Cook it to get a pie.
+ent-FoodDoughPie = 派面团
+    .desc = 烤熟即可得到一个派。
 
-ent-FoodDoughFlat = flat dough
-    .desc = A flattened dough.
+ent-FoodDoughFlat = 扁面团
+    .desc = 一块压平的面团。
 
-ent-FoodDoughCottonFlat = flat cotton dough
-    .desc = A flattened cotton dough.
+ent-FoodDoughCottonFlat = 扁棉花面团
+    .desc = 一块压平的棉花面团。
 
-ent-FoodDoughPizzaBaked = pizza bread
-    .desc = Add ingredients to make a pizza.
+ent-FoodDoughPizzaBaked = 披萨饼底
+    .desc = 加入配料即可制成披萨。
 
-ent-FoodCakeBatter = cake batter
-    .desc = Cook it to get a cake.
+ent-FoodCakeBatter = 蛋糕糊
+    .desc = 烤熟即可得到蛋糕。
 
-ent-FoodButter = stick of butter
-    .desc = A stick of delicious, golden, fatty goodness.
+ent-FoodButter = 一条黄油
+    .desc = 一条金黄、肥美又可口的黄油。
 
-ent-FoodButterSlice = butter slice
-    .desc = A pat of delicious, golden, fatty goodness.
+ent-FoodButterSlice = 黄油片
+    .desc = 一小片金黄、肥美又可口的黄油。
 
-ent-FoodCannabisButter = stick of cannabis butter
-    .desc = Add this to your favorite baked goods for an irie time.
+ent-FoodCannabisButter = 一条大麻黄油
+    .desc = 把它加入你最爱的烘焙食品，享受逍遥时光。
 
-ent-FoodCheese = cheese wheel
-    .desc = A big wheel of delicious Cheddar.
+ent-FoodCheese = 芝士轮
+    .desc = 一大轮美味的切达芝士。
 
-ent-FoodCheeseSlice = cheese wedge
-    .desc = A wedge of delicious Cheddar. The cheese wheel it was cut from can't have gone far.
+ent-FoodCheeseSlice = 芝士角
+    .desc = 一角美味的切达芝士。切出它的芝士轮肯定就在附近。
 
-ent-FoodChevre = chèvre log
-    .desc = A soft log of creamy Chèvre.
+ent-FoodChevre = 山羊奶酪卷
+    .desc = 一卷柔软细腻的山羊奶酪。
 
-ent-FoodChevreSlice = chèvre disk
-    .desc = A small disk of creamy Chèvre. An ideal adornment for French side dishes.
+ent-FoodChevreSlice = 山羊奶酪片
+    .desc = 一小片细腻的山羊奶酪，是法式配菜的理想点缀。
 
-ent-FoodTofu = tofu
-    .desc = Solid white block with a subtle flavor.
+ent-FoodTofu = 豆腐
+    .desc = 味道清淡的白色固体方块。
 
-ent-FoodTofuSlice = tofu slice
-    .desc = A slice of tofu. Ingredient of various vegetarian dishes.
+ent-FoodTofuSlice = 豆腐片
+    .desc = 一片豆腐，可用于制作各种素食菜肴。
 
-ent-FoodBadRecipe = burned mess
-    .desc = Someone should be demoted from cook for this.
+ent-FoodBadRecipe = 焦糊物
+    .desc = 做出这玩意的人应该被撤掉厨师职务。
 
-ent-FoodCocoaBeans = cocoa beans
-    .desc = You can never have too much chocolate!
+ent-FoodCocoaBeans = 可可豆
+    .desc = 巧克力永远不嫌多！
 
-ent-FoodCroissantRaw = raw croissant
-    .desc = Buttery, flaky goodness waiting to happen.
+ent-FoodCroissantRaw = 生牛角包
+    .desc = 充满黄油香气、层层酥脆的美味正在酝酿。
 
-ent-FoodCroissantRawCotton = raw cotton croissant
-    .desc = Buttery, flaky, fibery goodness waiting to happen.
+ent-FoodCroissantRawCotton = 生棉花牛角包
+    .desc = 充满黄油香气、层层酥脆又纤维丰富的美味正在酝酿。
 
-ent-FoodMealPotatoLoaded = loaded baked potato
-    .desc = Totally baked.
+ent-FoodMealPotatoLoaded = 豪华烤土豆
+    .desc = 烤得透透的。
 
-ent-FoodMealFries = space fries
-    .desc = AKA, French Fries, Freedom Fries, etc.
+ent-FoodMealFries = 太空薯条
+    .desc = 又称法式薯条、自由薯条等等。
 
-ent-FoodMealFriesCheesy = cheesy fries
-    .desc = Fries. Covered in cheese. Duh.
+ent-FoodMealFriesCheesy = 芝士薯条
+    .desc = 薯条。盖着芝士。显而易见。
 
-ent-FoodMealFriesCarrot = carrot fries
-    .desc = Tasty fries from fresh carrots.
+ent-FoodMealFriesCarrot = 胡萝卜薯条
+    .desc = 用新鲜胡萝卜制成的美味薯条。
 
-ent-FoodMealNachos = nachos
-    .desc = Chips from Space Mexico.
+ent-FoodMealNachos = 玉米片
+    .desc = 来自太空墨西哥的脆片。
 
-ent-FoodMealNachosCheesy = cheesy nachos
-    .desc = The delicious combination of nachos and melting cheese.
+ent-FoodMealNachosCheesy = 芝士玉米片
+    .desc = 玉米片与融化芝士的美味组合。
 
-ent-FoodMealNachosCuban = Cuban nachos
-    .desc = That's some dangerously spicy nachos.
+ent-FoodMealNachosCuban = 古巴玉米片
+    .desc = 辣得相当危险的玉米片。
 
-ent-FoodMealMint = mint
-    .desc = It's wafer thin.
+ent-FoodMealMint = 薄荷糖
+    .desc = 薄得像一片威化。
 
-ent-FoodMealEggplantParm = eggplant parmigiana
-    .desc = The only good recipe for eggplant.
+ent-FoodMealEggplantParm = 帕尔马芝士焗茄子
+    .desc = 茄子唯一拿得出手的做法。
 
-ent-FoodMealPotatoYaki = yaki imo
-    .desc = Made with roasted sweet potatoes!
+ent-FoodMealPotatoYaki = 烤红薯
+    .desc = 用烤制的甜薯做成！
 
-ent-FoodMealCubancarp = Cuban carp
-    .desc = A grifftastic sandwich that burns your tongue and then leaves it numb!
+ent-FoodMealCubancarp = 古巴鲤鱼三明治
+    .desc = 一份“棒极了”的三明治，先灼烧你的舌头，再让它彻底麻木！
 
-ent-FoodMealCornedbeef = corned beef and cabbage
-    .desc = Now you can feel like a real tourist vacationing in Ireland.
+ent-FoodMealCornedbeef = 咸牛肉炖卷心菜
+    .desc = 现在你可以体验在爱尔兰度假的真正游客是什么感觉了。
 
-ent-FoodMealBearsteak = filet migrawr
-    .desc = Because eating bear wasn't manly enough.
+ent-FoodMealBearsteak = 嗷式熊柳
+    .desc = 因为光吃熊肉还不够有男子气概。
 
-ent-FoodMealPigblanket = pig in a blanket
-    .desc = A tiny sausage wrapped in a flakey, buttery roll. Free this pig from its blanket prison by eating it.
+ent-FoodMealPigblanket = 毯中猪
+    .desc = 一根裹在松软黄油面包卷里的小香肠。吃掉它，把这只猪从毯子牢笼中解放出来。
 
-ent-FoodMealRibs = bbq ribs
-    .desc = BBQ ribs, slathered in a healthy coating of BBQ sauce. The least vegan thing to ever exist.
+ent-FoodMealRibs = 烧烤肋排
+    .desc = 裹满厚厚一层烧烤酱的肋排，堪称世上最不素食的东西。
 
-ent-FoodMealEggsbenedict = eggs benedict
-    .desc = There is only one egg on this, how rude.
+ent-FoodMealEggsbenedict = 班尼迪克蛋
+    .desc = 上面居然只有一个蛋，太无礼了。
 
-ent-FoodMealOmelette = cheese omelette
-    .desc = Cheesy.
+ent-FoodMealOmelette = 芝士欧姆蛋
+    .desc = 满满芝士味。
 
-ent-FoodMealFriedegg = fried egg
-    .desc = A fried egg, with a touch of salt and pepper.
+ent-FoodMealFriedegg = 煎蛋
+    .desc = 撒了少许盐和胡椒的煎蛋。
 
-ent-FoodMealMilkape = milk ape
-    .desc = The king of Jungle Thick.
+ent-FoodMealMilkape = 奶猿
+    .desc = 浓密丛林之王。
 
-ent-FoodMealMemoryleek = memory leek
-    .desc = This should refresh your memory.
+ent-FoodMealMemoryleek = 记忆韭葱
+    .desc = 这应该能唤醒你的记忆。
 
-ent-DisgustingSweptSoup = salty sweet miso cola soup
-    .desc = Jesus christ.
+ent-DisgustingSweptSoup = 咸甜味噌可乐汤
+    .desc = 老天爷啊。
 
-ent-FoodMealQueso = queso
-    .desc = A classic dipping sauce that you can't go wrong with.
+ent-FoodMealQueso = 奶酪蘸酱
+    .desc = 一款经典蘸酱，怎么选都不会错。
 
-ent-FoodMealSashimi = sashimi
-    .desc = Its taste can only be described as "Exotic". The poisoning though? That's pretty common.
+ent-FoodMealSashimi = 生鱼片
+    .desc = 它的味道只能用“异域”来形容。至于中毒？那倒是家常便饭。
 
-ent-FoodMealEnchiladas = enchiladas
-    .desc = Viva La Mexico!
+ent-FoodMealEnchiladas = 墨西哥辣酱卷
+    .desc = 墨西哥万岁！
 
-ent-FoodSaladWatermelonFruitBowl = melon fruit bowl
-    .desc = The only salad where you can eat the bowl.
+ent-FoodSaladWatermelonFruitBowl = 瓜果碗
+    .desc = 唯一一种连碗都能吃的沙拉。
 
-ent-FoodMealCornInButter = corn in butter
-    .desc = Buttery.
+ent-FoodMealCornInButter = 黄油玉米
+    .desc = 黄油味十足。
 
-ent-FoodMeat = raw meat
-    .desc = A slab of raw meat.
+ent-FoodMeat = 生肉
+    .desc = 一大块生肉。
 
-ent-FoodMeatHuman = raw human meat
-    .desc = Gross.
+ent-FoodMeatHuman = 生人肉
+    .desc = 真恶心。
 
-ent-FoodMeatFish = raw carp fillet
-    .desc = Your last words being "Wow, exotic!" are not worth it. The taste itself though? Maybe.
+ent-FoodMeatFish = 生鲤鱼柳
+    .desc = 为了“哇，好异域！”这句遗言可不值得。至于味道本身？或许值得。
 
-ent-FoodMeatBacon = raw bacon
-    .desc = A raw piece of bacon.
+ent-FoodMeatBacon = 生培根
+    .desc = 一片生培根。
 
-ent-FoodMeatBear = raw bear meat
-    .desc = A very manly slab of raw bear meat.
+ent-FoodMeatBear = 生熊肉
+    .desc = 一大块非常有男子气概的生熊肉。
 
-ent-FoodMeatPenguin = raw penguin meat
-    .desc = A slab of raw penguin meat. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguin = 生企鹅肉
+    .desc = 一大块生企鹅肉，可在食谱中代替鱼肉。
 
-ent-FoodMeatChicken = raw chicken meat
-    .desc = A slab of raw chicken. Remember to wash your hands!
+ent-FoodMeatChicken = 生鸡肉
+    .desc = 一大块生鸡肉。记得洗手！
 
-ent-FoodMeatDuck = raw duck meat
-    .desc = A slab of raw duck. Remember to wash your hands!
+ent-FoodMeatDuck = 生鸭肉
+    .desc = 一大块生鸭肉。记得洗手！
 
-ent-FoodMeatCorgi = prime-cut corgi meat
-    .desc = The tainted gift of an evil crime. The meat may be delicious, but at what cost?
+ent-FoodMeatCorgi = 精选柯基肉
+    .desc = 邪恶罪行留下的污秽馈赠。肉或许很美味，但代价是什么？
 
-ent-FoodMeatCrab = raw crab meat
-    .desc = A pile of raw crab meat.
+ent-FoodMeatCrab = 生蟹肉
+    .desc = 一堆生蟹肉。
 
-ent-FoodMeatGoliath = raw goliath meat
-    .desc = A slab of goliath meat. It's not very edible now, but it cooks great in lava.
+ent-FoodMeatGoliath = 生歌利亚肉
+    .desc = 一大块歌利亚生肉。现在还不太能吃，但放在熔岩里烹调效果绝佳。
 
-ent-FoodMeatDragon = dragon flesh
-    .desc = The dense meat of the space-era apex predator is oozing with its mythical ichor. Ironically, best eaten raw.
+ent-FoodMeatDragon = 龙肉
+    .desc = 这块来自太空时代顶级掠食者的致密肉块渗着神话般的灵液。讽刺的是，生吃最佳。
 
-ent-FoodMeatRat = raw rat meat
-    .desc = Prime meat from maintenance!
+ent-FoodMeatRat = 生鼠肉
+    .desc = 来自维护通道的上等肉！
 
-ent-FoodMeatLizard = raw lizard meat
-    .desc = Delicious dino damage.
+ent-FoodMeatLizard = 生蜥蜴肉
+    .desc = 美味的恐龙创伤。
 
-ent-FoodMeatPlant = raw plant meat
-    .desc = All the joys of healthy eating with all the fun of cannibalism.
+ent-FoodMeatPlant = 生植物肉
+    .desc = 既有健康饮食的全部乐趣，也有同类相食的全部趣味。
 
-ent-FoodMeatRotten = rotten meat
-    .desc = Halfway to becoming fertilizer for your garden.
+ent-FoodMeatRotten = 腐肉
+    .desc = 离成为花园肥料只差一半了。
 
-ent-FoodMeatSpider = raw spider meat
-    .desc = A slab of spider meat. That's so Kafkaesque.
+ent-FoodMeatSpider = 生蜘蛛肉
+    .desc = 一大块蜘蛛肉。真是卡夫卡式。
 
-ent-FoodMeatSpiderLeg = raw spider leg
-    .desc = A still twitching leg of a giant spider... you don't really want to eat this, do you?
+ent-FoodMeatSpiderLeg = 生蜘蛛腿
+    .desc = 一条仍在抽搐的巨型蜘蛛腿……你不会真想吃吧？
 
-ent-FoodMeatWheat = meatwheat clump
-    .desc = This doesn't look like meat, but your standards aren't that high to begin with.
+ent-FoodMeatWheat = 肉麦团
+    .desc = 这看起来不像肉，不过你本来的标准也没多高。
 
-ent-FoodMeatSnake = raw snake meat
-    .desc = A long piece of snake meat, hopefully not poisonous.
+ent-FoodMeatSnake = 生蛇肉
+    .desc = 一长条蛇肉，希望它没毒。
 
-ent-FoodMeatXeno = raw xeno meat
-    .desc = A slab of xeno meat, dripping with acid.
+ent-FoodMeatXeno = 生异形肉
+    .desc = 一大块滴着酸液的异形生肉。
 
-ent-FoodMeatRouny = raw rouny meat
-    .desc = A slab of meat from an innocent red friend.
+ent-FoodMeatRouny = 生罗尼肉
+    .desc = 一块取自无辜红色朋友的肉。
 
-ent-FoodMeatTomato = killer tomato meat
-    .desc = A slice from a huge tomato.
+ent-FoodMeatTomato = 杀手番茄肉
+    .desc = 从巨型番茄上切下的一片。
 
-ent-FoodMeatSalami = salami
-    .desc = A large tube of salami. Best not to ask what went into it.
+ent-FoodMeatSalami = 萨拉米香肠
+    .desc = 一大根萨拉米香肠。最好别问里面都放了什么。
 
-ent-FoodMeatClown = meat clown
-    .desc = A delicious, round piece of meat clown. How horrifying.
+ent-FoodMeatClown = 肉小丑
+    .desc = 一块美味、圆滚滚的肉小丑。太吓人了。
 
-ent-FoodMeatMeatball = meatball
-    .desc = A raw ball of meat. Meat ball.
+ent-FoodMeatMeatball = 肉丸
+    .desc = 一团生肉揉成的球。肉做的球。
 
-ent-FoodMeatPatty = meat patty
-    .desc = A flat slab of ground meat. Ready for grillin'.
+ent-FoodMeatPatty = 肉饼
+    .desc = 一片压平的肉糜，随时可以上烤架。
 
-ent-FoodMeatSlime = slimeball
-    .desc = A gelatinous shaping of slime jelly.
+ent-FoodMeatSlime = 史莱姆球
+    .desc = 由史莱姆胶质塑成的胶状球体。
 
-ent-FoodMeatSnail = raw snail meat
-    .desc = Improved with salt.
+ent-FoodMeatSnail = 生蜗牛肉
+    .desc = 加盐更佳。
 
-ent-FoodMeatAnomaly = anomalous meat mass
-    .desc = An impossibly dense slab of meat. Just looking at it makes you uncomfortable.
+ent-FoodMeatAnomaly = 异常肉团
+    .desc = 密度高得不可思议的肉块。光是看着就令人不适。
 
-ent-MaterialSmileExtract = smile extract
-    .desc = It's a real panacea. But at what cost?
+ent-MaterialSmileExtract = 微笑提取物
+    .desc = 这是真正的万灵药。但代价是什么？
 
-ent-FoodMeatCooked = steak
-    .desc = A cooked slab of meat. Smells primal.
+ent-FoodMeatCooked = 牛排
+    .desc = 一大块熟肉，散发着原始的气息。
 
-ent-FoodMeatBaconCooked = bacon
-    .desc = A delicious piece of cooked bacon.
+ent-FoodMeatBaconCooked = 培根
+    .desc = 一片美味的熟培根。
 
-ent-FoodMeatBearCooked = cooked bear
-    .desc = A well-cooked slab of bear meat. Tough, but tasty with the right sides.
+ent-FoodMeatBearCooked = 熟熊肉
+    .desc = 一大块烹制得当的熊肉。肉质坚韧，但配对佐菜就很美味。
 
-ent-FoodMeatPenguinCooked = penguin filet
-    .desc = A cooked filet of penguin. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguinCooked = 企鹅肉排
+    .desc = 一片熟企鹅肉，可在食谱中代替鱼肉。
 
-ent-FoodMeatChickenCooked = cooked chicken
-    .desc = A cooked piece of chicken. Best used in other recipes.
+ent-FoodMeatChickenCooked = 熟鸡肉
+    .desc = 一块熟鸡肉，最适合用于其他菜谱。
 
-ent-FoodMeatChickenFried = fried chicken
-    .desc = A juicy hunk of chicken meat, fried to perfection.
+ent-FoodMeatChickenFried = 炸鸡
+    .desc = 一大块多汁鸡肉，炸得恰到好处。
 
-ent-FoodMeatChickenFriedVox = mystery fried chicken
-    .desc = “Eleven secret herbs and… oh no. That’s not chicken."
+ent-FoodMeatChickenFriedVox = 神秘炸鸡
+    .desc = “十一种秘制香料……哦不，那不是鸡肉。”
 
-ent-FoodMeatDuckCooked = cooked duck
-    .desc = A cooked piece of duck. Best used in other recipes.
+ent-FoodMeatDuckCooked = 熟鸭肉
+    .desc = 一块熟鸭肉，最适合用于其他菜谱。
 
-ent-FoodMeatCrabCooked = cooked crab
-    .desc = Some deliciously cooked crab meat.
+ent-FoodMeatCrabCooked = 熟蟹肉
+    .desc = 一些烹制得十分美味的蟹肉。
 
-ent-FoodMeatGoliathCooked = goliath steak
-    .desc = A delicious, lava cooked steak.
+ent-FoodMeatGoliathCooked = 歌利亚牛排
+    .desc = 在熔岩中烤制的美味肉排。
 
-ent-FoodMeatRounyCooked = rouny steak
-    .desc = Some kill to survive. You on the other hand, kill for fun.
+ent-FoodMeatRounyCooked = 罗尼肉排
+    .desc = 有些杀戮是为了生存。而你杀戮只是为了取乐。
 
-ent-FoodMeatLizardCooked = lizard steak
-    .desc = Cooked, tough lizard meat.
+ent-FoodMeatLizardCooked = 蜥蜴肉排
+    .desc = 烹熟后依然坚韧的蜥蜴肉。
 
-ent-FoodMeatSpiderlegCooked = boiled spider leg
-    .desc = A giant spider's leg that's still twitching after being cooked. Gross!
+ent-FoodMeatSpiderlegCooked = 水煮蜘蛛腿
+    .desc = 一条煮熟后仍在抽搐的巨型蜘蛛腿。真恶心！
 
-ent-FoodMeatMeatballCooked = meatball
-    .desc = A cooked meatball. Perfect to add to other dishes... except fruity ones.
+ent-FoodMeatMeatballCooked = 肉丸
+    .desc = 一颗熟肉丸，适合加入其他菜肴……水果类除外。
 
-ent-FoodMeatPattyCooked = cooked meat patty
-    .desc = A cooked meat patty.
+ent-FoodMeatPattyCooked = 熟肉饼
+    .desc = 一片熟肉饼。
 
-ent-FoodMeatSnailCooked = boiled snail
-    .desc = Improved with salt.
+ent-FoodMeatSnailCooked = 水煮蜗牛
+    .desc = 加盐更佳。
 
-ent-FoodMeatAnomalyCooked = anomalous steak
-    .desc = A gigantic mass of cooked meat. A meal for a dinner party, or someone REALLY hungry.
+ent-FoodMeatAnomalyCooked = 异常肉排
+    .desc = 一大团烹熟的巨型肉块，够一场晚宴享用，或喂饱一个真的非常饿的人。
 
-ent-FoodMeatDragonCooked = dragon steak
-    .desc = Pouring ketchup on this is considered a capital crime on most stations.
+ent-FoodMeatDragonCooked = 龙排
+    .desc = 在大多数空间站，往这上面淋番茄酱都算死罪。
 
-ent-FoodMeatCutlet = raw cutlet
-    .desc = A raw meat cutlet.
+ent-FoodMeatCutlet = 生肉排
+    .desc = 一片生肉排。
 
-ent-FoodMeatBearCutlet = raw bear cutlet
-    .desc = A very manly cutlet of raw bear meat.
+ent-FoodMeatBearCutlet = 生熊肉排
+    .desc = 一片非常有男子气概的生熊肉排。
 
-ent-FoodMeatPenguinCutlet = raw penguin cutlet
-    .desc = A cutlet of raw penguin meat. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguinCutlet = 生企鹅肉排
+    .desc = 一片生企鹅肉排，可在食谱中代替鱼肉。
 
-ent-FoodMeatChickenCutlet = raw chicken cutlet
-    .desc = A cutlet of raw chicken. Remember to wash your hands!
+ent-FoodMeatChickenCutlet = 生鸡肉排
+    .desc = 一片生鸡肉排。记得洗手！
 
-ent-FoodMeatDuckCutlet = raw duck cutlet
-    .desc = A cutlet of raw duck. Remember to wash your hands!
+ent-FoodMeatDuckCutlet = 生鸭肉排
+    .desc = 一片生鸭肉排。记得洗手！
 
-ent-FoodMeatLizardCutlet = raw lizard cutlet
-    .desc = Delicious dino cutlet.
+ent-FoodMeatLizardCutlet = 生蜥蜴肉排
+    .desc = 美味的恐龙肉排。
 
-ent-FoodMeatSpiderCutlet = raw spider cutlet
-    .desc = A cutlet of raw spider meat. So Kafkaesque.
+ent-FoodMeatSpiderCutlet = 生蜘蛛肉排
+    .desc = 一片生蜘蛛肉排。真是卡夫卡式。
 
-ent-FoodMeatXenoCutlet = raw xeno cutlet
-    .desc = A slab of raw xeno meat, dripping with acid.
+ent-FoodMeatXenoCutlet = 生异形肉排
+    .desc = 一大块滴着酸液的异形生肉。
 
-ent-FoodMeatTomatoCutlet = raw killer tomato cutlet
-    .desc = A cutlet from a slab of tomato.
+ent-FoodMeatTomatoCutlet = 生杀手番茄排
+    .desc = 从番茄肉块上切下的一片。
 
-ent-FoodMeatSalamiSlice = salami slice
-    .desc = A slice of cured salami.
+ent-FoodMeatSalamiSlice = 萨拉米香肠片
+    .desc = 一片腌制萨拉米香肠。
 
-ent-FoodMeatDragonCutlet = raw dragon cutlet
-    .desc = A raw dragon meat cutlet.
+ent-FoodMeatDragonCutlet = 生龙肉排
+    .desc = 一片生龙肉排。
 
-ent-FoodMeatCutletCooked = cutlet
-    .desc = A cooked meat cutlet. Needs some seasoning.
+ent-FoodMeatCutletCooked = 肉排
+    .desc = 一片熟肉排，需要加点调味料。
 
-ent-FoodMeatBearCutletCooked = bear cutlet
-    .desc = A very manly cutlet of cooked bear meat.
+ent-FoodMeatBearCutletCooked = 熊肉排
+    .desc = 一片非常有男子气概的熟熊肉排。
 
-ent-FoodMeatPenguinCutletCooked = penguin cutlet
-    .desc = A cutlet of cooked penguin meat.
+ent-FoodMeatPenguinCutletCooked = 企鹅肉排
+    .desc = 一片熟企鹅肉排。
 
-ent-FoodMeatChickenCutletCooked = chicken cutlet
-    .desc = A cutlet of cooked chicken. Remember to wash your hands!
+ent-FoodMeatChickenCutletCooked = 鸡肉排
+    .desc = 一片熟鸡肉排。记得洗手！
 
-ent-FoodMeatDuckCutletCooked = duck cutlet
-    .desc = A cutlet of cooked duck. Remember to wash your hands!
+ent-FoodMeatDuckCutletCooked = 鸭肉排
+    .desc = 一片熟鸭肉排。记得洗手！
 
-ent-FoodMeatLizardCutletCooked = lizard cutlet
-    .desc = Delicious cooked dino cutlet.
+ent-FoodMeatLizardCutletCooked = 蜥蜴肉排
+    .desc = 美味的熟恐龙肉排。
 
-ent-FoodMeatSpiderCutletCooked = spider cutlet
-    .desc = A cutlet of cooked spider meat. Finally edible.
+ent-FoodMeatSpiderCutletCooked = 蜘蛛肉排
+    .desc = 一片熟蜘蛛肉排，终于能吃了。
 
-ent-FoodMeatXenoCutletCooked = xeno cutlet
-    .desc = A cutlet of cooked xeno, dripping with... tastiness?
+ent-FoodMeatXenoCutletCooked = 异形肉排
+    .desc = 一片熟异形肉排，滴着……美味？
 
-ent-FoodMeatDragonCutletCooked = dragon cutlet
-    .desc = It's a meal for kings!
+ent-FoodMeatDragonCutletCooked = 龙肉排
+    .desc = 这是帝王的佳肴！
 
-ent-FoodNoodlesBoiled = boiled spaghetti
-    .desc = A plain dish of noodles, this needs more ingredients.
+ent-FoodNoodlesBoiled = 水煮意大利面
+    .desc = 一盘朴素的面条，还需要更多配料。
 
-ent-FoodNoodles = spaghetti
-    .desc = Spaghetti and crushed tomatoes. Just like your abusive father used to make!
+ent-FoodNoodles = 意大利面
+    .desc = 意大利面配碎番茄，就像你那暴躁老爸以前做的一样！
 
-ent-FoodNoodlesCopy = copypasta
-    .desc = You probably shouldn't try this, you always hear people talking about how bad it is...
+ent-FoodNoodlesCopy = 复制粘贴面
+    .desc = 你大概不该尝试这个，总听人说它有多糟……
 
-ent-FoodNoodlesMeatball = spaghetti and meatballs
-    .desc = Now that's a nice-a meatball!
+ent-FoodNoodlesMeatball = 肉丸意大利面
+    .desc = 这才叫好肉丸嘛！
 
-ent-FoodNoodlesSpesslaw = spesslaw
-    .desc = A lawyer's favourite.
+ent-FoodNoodlesSpesslaw = 太空律师面
+    .desc = 律师的最爱。
 
-ent-FoodNoodlesChowmein = chow mein
-    .desc = A nice mix of noodles and fried vegetables.
+ent-FoodNoodlesChowmein = 炒面
+    .desc = 面条与炒蔬菜的美妙组合。
 
-ent-FoodNoodlesButter = butter noodles
-    .desc = Noodles covered in savory butter. Simple and slippery, but delicious.
+ent-FoodNoodlesButter = 黄油面
+    .desc = 面条裹满咸香黄油，简单爽滑又美味。
 
-ent-WheatBushel = wheat bushel
-    .desc = Sigh... wheat... a-grain?
+ent-WheatBushel = 一捆小麦
+    .desc = 唉……小麦……又是一粒？
 
-ent-MeatwheatBushel = meatwheat bushel
-    .desc = Some blood-drenched wheat stalks. You can crush them into what passes for meat if you squint hard enough.
+ent-MeatwheatBushel = 一捆肉麦
+    .desc = 几株浸满鲜血的小麦秆。眯起眼睛看，把它们碾碎后勉强能算肉。
 
-ent-OatBushel = oat bushel
-    .desc = Eat oats, do squats.
+ent-OatBushel = 一捆燕麦
+    .desc = 吃燕麦，练深蹲。
 
-ent-Sugarcane = sugarcane
-    .desc = Sickly sweet.
+ent-Sugarcane = 甘蔗
+    .desc = 甜得发腻。
 
-ent-Papercane = papercane roll
-    .desc = Why do we even need to grow paper?
+ent-Papercane = 纸藤卷
+    .desc = 我们到底为什么非得种纸？
 
-ent-FoodLaughinPeaPod = laughin' pea pod
-    .desc = The clown's favorite plant.
+ent-FoodLaughinPeaPod = 笑笑豌豆荚
+    .desc = 小丑最爱的植物。
 
-ent-Log = tower-cap log
-    .desc = It's better than bad, it's good!
+ent-Log = 塔帽菌木段
+    .desc = 它不坏，它很好！
 
-ent-SteelLog = steel-cap log
-    .desc = Steel doesn't grow on trees! It grows on mushrooms, of course.
+ent-SteelLog = 钢帽菌木段
+    .desc = 钢铁当然不长在树上！它长在蘑菇上。
 
-ent-Nettle = nettle
-    .desc = Stingy little prick.
+ent-Nettle = 荨麻
+    .desc = 扎人的小混蛋。
 
-ent-DeathNettle = death nettle
-    .desc = This nettle's out for blood.
+ent-DeathNettle = 死亡荨麻
+    .desc = 这株荨麻渴望鲜血。
 
-ent-FoodBanana = banana
-    .desc = Rich in potassium.
+ent-FoodBanana = 香蕉
+    .desc = 富含钾。
 
-ent-FoodMimana = mimana
-    .desc = Mime's favorite.
+ent-FoodMimana = 默剧蕉
+    .desc = 哑剧演员的最爱。
 
-ent-TrashBananaPeel = banana peel
+ent-TrashBananaPeel = 香蕉皮
 
-ent-TrashBakedBananaPeel = baked banana peel
+ent-TrashBakedBananaPeel = 烤香蕉皮
 
-ent-TrashMimanaPeel = mimana peel
+ent-TrashMimanaPeel = 默剧蕉皮
 
-ent-TrashBananiumPeel = bananium peel
+ent-TrashBananiumPeel = 香蕉矿蕉皮
 
-ent-FoodCarrot = carrot
-    .desc = It's good for the eyes!
+ent-FoodCarrot = 胡萝卜
+    .desc = 对眼睛有好处！
 
-ent-FoodCabbage = cabbage
-    .desc = Ewwwwwwwwww. Cabbage.
+ent-FoodCabbage = 卷心菜
+    .desc = 呕呕呕呕呕。卷心菜。
 
-ent-FoodGarlic = garlic
-    .desc = Delicious, but with a potentially overwhelming odor.
+ent-FoodGarlic = 大蒜
+    .desc = 很美味，但气味可能浓烈得令人难以招架。
 
-ent-FoodLemon = lemon
-    .desc = When life gives you lemons, be grateful they aren't limes.
+ent-FoodLemon = 柠檬
+    .desc = 当生活给你柠檬时，要庆幸它给的不是青柠。
 
-ent-FoodLemoon = lemoon
-    .desc = People says Moon is made out of cheese, but Moon is actually made out of milk and laurel!
+ent-FoodLemoon = 月柠
+    .desc = 人们说月亮是芝士做的，其实月亮是牛奶和月桂做的！
 
-ent-FoodLime = lime
-    .desc = Cures Space Scurvy, allows you to act like a Space Pirate.
+ent-FoodLime = 青柠
+    .desc = 能治疗太空坏血病，还能让你表现得像个太空海盗。
 
-ent-FoodOrange = orange
-    .desc = Healthy, very orange.
+ent-FoodOrange = 橙子
+    .desc = 健康，而且非常橙。
 
-ent-FoodExtradimensionalOrange = extradimensional orange
-    .desc = You can hardly wrap your head around this thing.
+ent-FoodExtradimensionalOrange = 异维橙
+    .desc = 你很难理解这东西的存在。
 
-ent-FoodPineapple = pineapple
-    .desc = Mmm, tropical.
+ent-FoodPineapple = 菠萝
+    .desc = 嗯，热带风情。
 
-ent-FoodPotato = potato
-    .desc = The space Irish starved to death after their potato crops died. Sadly they were unable to fish for space carp due to it being the queen's space. Bringing this up to any space IRA member will drive them insane with anger.
+ent-FoodPotato = 土豆
+    .desc = 太空爱尔兰人的土豆歉收后，他们饿死了。可惜女王宣称太空属于她，他们无法捕捞太空鲤鱼。向任何太空爱尔兰共和军成员提起此事，都会让对方气疯。
 
-ent-FoodTomato = tomato
-    .desc = I say to-mah-to, you say tom-mae-to.
+ent-FoodTomato = 番茄
+    .desc = 我说“番茄”，你说“西红柿”。
 
-ent-FoodBlueTomato = blue tomato
-    .desc = This one is blue.
+ent-FoodBlueTomato = 蓝番茄
+    .desc = 这只是蓝色的。
 
-ent-FoodBloodTomato = blood tomato
-    .desc = Wait, that's not ketchup...
+ent-FoodBloodTomato = 血番茄
+    .desc = 等等，这不是番茄酱……
 
-ent-FoodEggplant = eggplant
-    .desc = Maybe there's a chicken inside?
+ent-FoodEggplant = 茄子
+    .desc = 里面也许有只鸡？
 
-ent-FoodApple = apple
-    .desc = It's a little piece of Eden.
+ent-FoodApple = 苹果
+    .desc = 一小块伊甸园。
 
-ent-FoodGoldenApple = golden apple
-    .desc = It should be shaped like a cube, shouldn't it?
+ent-FoodGoldenApple = 金苹果
+    .desc = 它不该是立方体的吗？
 
-ent-FoodCocoaPod = cocoa pod
-    .desc = You can never have too much chocolate!
+ent-FoodCocoaPod = 可可果荚
+    .desc = 巧克力永远不嫌多！
 
-ent-FoodCorn = ear of corn
-    .desc = Needs some butter! And some cooking...
+ent-FoodCorn = 玉米穗
+    .desc = 需要来点黄油！还得烤一烤……
 
-ent-FoodCornTrash = corn cob
-    .desc = Not a dang kernel left.
+ent-FoodCornTrash = 玉米芯
+    .desc = 一颗玉米粒都不剩。
 
-ent-FoodOnion = onion
-    .desc = Nothing to cry over.
+ent-FoodOnion = 洋葱
+    .desc = 没什么好哭的。
 
-ent-FoodOnionRed = red onion
-    .desc = Purple despite the name.
+ent-FoodOnionRed = 红洋葱
+    .desc = 名字叫红洋葱，实际上却是紫色。
 
-ent-FoodMushroom = chanterelle cluster
-    .desc = Cantharellus Cibarius: These jolly yellow little shrooms sure look tasty!
+ent-FoodMushroom = 一簇鸡油菌
+    .desc = 鸡油菌：这些欢快的黄色小蘑菇看起来真美味！
 
-ent-FoodPineappleSlice = pineapple slice
-    .desc = Mmm, tropical.
+ent-FoodPineappleSlice = 菠萝片
+    .desc = 嗯，热带风情。
 
-ent-FoodOnionSlice = onion slice
-    .desc = Nothing to cry over.
+ent-FoodOnionSlice = 洋葱片
+    .desc = 没什么好哭的。
 
-ent-FoodOnionRedSlice = red onion slice
-    .desc = Purple despite the name.
+ent-FoodOnionRedSlice = 红洋葱片
+    .desc = 名字叫红洋葱，实际上却是紫色。
 
-ent-FoodChiliPepper = chili pepper
-    .desc = Spicy, best not touch your eyes.
+ent-FoodChiliPepper = 辣椒
+    .desc = 很辣，最好别碰眼睛。
 
-ent-FoodChillyPepper = chilly pepper
-    .desc = Icy hot.
+ent-FoodChillyPepper = 冰椒
+    .desc = 冰火两重天。
 
-ent-FoodAloe = aloe
-    .desc = A fragrant plant with soothing properties.
+ent-FoodAloe = 芦荟
+    .desc = 一种芳香且具有舒缓功效的植物。
 
-ent-FoodPoppy = poppy
-    .desc = A flower with extracts often used in the production of medicine.
+ent-FoodPoppy = 罂粟
+    .desc = 一种漂亮的花，其提取物常用于制造药物。
 
-ent-FoodLily = lily
-    .desc = A beautiful orange flower.
+ent-FoodLily = 百合
+    .desc = 一朵美丽的橙色花朵。
 
-ent-FoodLingzhi = lingzhi
-    .desc = A potent medicinal mushroom. Don't go overboard.
+ent-FoodLingzhi = 灵芝
+    .desc = 药效强劲的蘑菇，可别过量。
 
-ent-FoodAmbrosiaVulgaris = ambrosia vulgaris
-    .desc = A medicinal plant. May make you feel a little funny.
+ent-FoodAmbrosiaVulgaris = 凡品仙馐草
+    .desc = 一种药用植物，可能会让你感觉有点飘。
 
-ent-FoodAmbrosiaDeus = ambrosia deus
-    .desc = An extremely sought-after medicinal plant. May have some funky side effects.
+ent-FoodAmbrosiaDeus = 神品仙馐草
+    .desc = 一种极其抢手的药用植物，可能带来古怪的副作用。
 
-ent-FoodGalaxythistle = galaxythistle
-    .desc = A medicinal plant used for its antitoxin.
+ent-FoodGalaxythistle = 银河蓟
+    .desc = 一种可用于解毒的药用植物。
 
-ent-FoodGlasstle = glasstle
-    .desc = A fragile crystal plant with lot of spiky thorns.
+ent-FoodGlasstle = 玻璃蓟
+    .desc = 一种脆弱的水晶植物，长有许多尖刺。
 
-ent-FoodFlyAmanita = fly amanita
-    .desc = A delicious-looking mushroom like you see in those cartoons.
+ent-FoodFlyAmanita = 毒蝇伞
+    .desc = 一种看起来很美味的蘑菇，就像动画片里的那种。
 
-ent-FoodGatfruit = gatfruit
-    .desc = A delicious, gun-shaped fruit with a thick wooden stem.
+ent-FoodGatfruit = 枪果
+    .desc = 一种美味的枪形水果，带着粗壮的木质果柄。
 
-ent-FoodRealCapfruit = capfruit
-    .desc = A soft but smooth gun-shaped fruit.
+ent-FoodRealCapfruit = 枪帽果
+    .desc = 一种柔软光滑的枪形水果。
 
-ent-FoodFakeCapfruit = capfruit
+ent-FoodFakeCapfruit = 枪帽果
 
-ent-RiceBushel = rice bushel
-    .desc = Can be ground into rice, perfect for pudding or sake.
+ent-RiceBushel = 一捆稻穗
+    .desc = 可碾成大米，非常适合做布丁或清酒。
 
-ent-FoodSoybeans = soybeans
-    .desc = For those who can't stand seeing good old meat.
+ent-FoodSoybeans = 大豆
+    .desc = 献给那些见不得好端端肉食的人。
 
-ent-FoodSpacemansTrumpet = spaceman's trumpet
-    .desc = A vivid flower that smells faintly of freshly cut grass. Touching the flower seems to stain the skin some time after contact, yet most other surfaces seem to be unaffected by this phenomenon.
+ent-FoodSpacemansTrumpet = 太空人号角花
+    .desc = 色彩鲜艳的花朵，隐约散发着新割青草的气味。接触一段时间后似乎会给皮肤染色，但多数其他表面不受影响。
 
-ent-FoodKoibean = koibean
-    .desc = These beans seem a little bit fishy.
+ent-FoodKoibean = 锦鲤豆
+    .desc = 这些豆子似乎有点可疑，或者说有点鱼腥。
 
-ent-FoodWatermelon = watermelon
-    .desc = Round green object that you can slice and eat.
+ent-FoodWatermelon = 西瓜
+    .desc = 圆圆的绿色物体，可以切开吃。
 
-ent-FoodWatermelonSlice = watermelon slice
-    .desc = Juicy green and red slice.
+ent-FoodWatermelonSlice = 西瓜片
+    .desc = 多汁的红绿果片。
 
-ent-FoodHolymelon = holymelon
-    .desc = The water within this melon has been blessed by some deity that's particularly fond of watermelon.
+ent-FoodHolymelon = 圣瓜
+    .desc = 瓜里的水受到某位特别喜爱西瓜的神明祝福。
 
-ent-FoodHolymelonSlice = holymelon slice
-    .desc = Juicy golden and red slice.
+ent-FoodHolymelonSlice = 圣瓜片
+    .desc = 多汁的金红果片。
 
-ent-FoodGrape = grapes
-    .desc = The food of emperors, Space France inhabitants (usually as wine) and soccer moms. One day it could be used in wine production for the bartender if he ever runs out.
+ent-FoodGrape = 葡萄
+    .desc = 帝王、太空法国居民（通常酿成酒）和足球妈妈的食物。哪天酒保没酒了，也许能拿它酿酒。
 
-ent-FoodBerries = berries
-    .desc = A handful of various types of berries.
+ent-FoodBerries = 莓果
+    .desc = 一把各种各样的莓果。
 
-ent-FoodBungo = bungo fruit
-    .desc = The humble bungo fruit.
+ent-FoodBungo = 邦戈果
+    .desc = 朴实无华的邦戈果。
 
-ent-FoodBungoPit = bungo pit
+ent-FoodBungoPit = 邦戈果核
 
-ent-FoodPeaPod = pea pod
-    .desc = A duck's favorite treat!
+ent-FoodPeaPod = 豌豆荚
+    .desc = 鸭子最爱的零食！
 
-ent-FoodWorldPeas = cluster of world peas
-    .desc = It's rumored to bring peace to any who consume it.
+ent-FoodWorldPeas = 一簇世界和平豆
+    .desc = 据说任何吃下它的人都能获得和平。
 
-ent-FoodPumpkin = pumpkin
-    .desc = A large, orange... berry. Seriously.
+ent-FoodPumpkin = 南瓜
+    .desc = 一个巨大的橙色……浆果。真的。
 
-ent-FoodBluePumpkin = blue pumpkin
-    .desc = A large, blue... berry. Seriously.
+ent-FoodBluePumpkin = 蓝南瓜
+    .desc = 一个巨大的蓝色……浆果。真的。
 
-ent-CottonBol = cotton boll
-    .desc = Moth people's favorite snack, and just as fluffy as them.
+ent-CottonBol = 棉桃
+    .desc = 蛾人最爱的零食，和他们一样毛茸茸。
 
-ent-PyrottonBol = pyrotton boll
-    .desc = This will probably set you on fire.
+ent-PyrottonBol = 火棉桃
+    .desc = 这东西大概会让你着火。
 
-ent-FoodCherry = cherry
-    .desc = Juicy red cherry with a pit inside.
+ent-FoodCherry = 樱桃
+    .desc = 多汁的红樱桃，里面有一颗核。
 
-ent-TrashCherryPit = cherry pit
+ent-TrashCherryPit = 樱桃核
 
-ent-FoodAnomalyBerry = anomaly berry
-    .desc = A strange blue fruit. Something about it doesn't seem right.
+ent-FoodAnomalyBerry = 异常莓果
+    .desc = 一种奇怪的蓝色水果，感觉有哪里不对。
 
-ent-FoodBloonion = bloonion bulb
-    .desc = A strange floating bulb.. Nothing worth crying over.
+ent-FoodBloonion = 浮洋葱球茎
+    .desc = 一个古怪的漂浮球茎……没什么值得流泪的。
 
-ent-FoodKebabSkewer = skewer
-    .desc = A thin rod of metal used to skewer just about anything and cook it.
+ent-FoodKebabSkewer = 烤串签
+    .desc = 一根细金属杆，几乎什么都能串起来烤。
 
-ent-FoodSnackBoritos = boritos
-    .desc = Crunchy, salty tortilla chips. You could probably make nachos with these.
+ent-FoodSnackBoritos = 波力多脆片
+    .desc = 香脆咸口的玉米饼片，大概可以拿来做玉米片。
 
-ent-FoodSnackCnDs = C&Ds
-    .desc = Legally, we cannot say that these won't melt in your hands.
+ent-FoodSnackCnDs = 停战豆
+    .desc = 法律上，我们不能保证它们不会融化在你手里。
 
-ent-FoodSnackCheesie = cheesie honkers
-    .desc = Bite sized cheesie snacks that will honk all over your mouth.
+ent-FoodSnackCheesie = 芝士呵叫脆
+    .desc = 一口一个的芝士零食，让呵叫声充满你的口腔。
 
-ent-FoodSnackChips = chips
-    .desc = Commander Riker's What-The-Crisps.
+ent-FoodSnackChips = 薯片
+    .desc = 莱克指挥官的“什么鬼脆片”。
 
-ent-FoodSnackChocolate = chocolate bar
-    .desc = Tastes like cardboard.
+ent-FoodSnackChocolate = 巧克力棒
+    .desc = 吃起来像纸板。
 
-ent-FoodSnackChocolateBar = chocolate bar
-    .desc = Tastes like cardboard.
+ent-FoodSnackChocolateBar = 巧克力棒
+    .desc = 吃起来像纸板。
 
-ent-FoodSnackEnergy = energy bar
-    .desc = An energy bar with a lot of punch.
+ent-FoodSnackEnergy = 能量棒
+    .desc = 一根劲头十足的能量棒。
 
-ent-FoodSnackEnergyBar = energy bar
-    .desc = An energy bar with a lot of punch.
+ent-FoodSnackEnergyBar = 能量棒
+    .desc = 一根劲头十足的能量棒。
 
-ent-FoodSnackPistachios = Sweetie's pistachios
-    .desc = Sweeties's name-brand pistachios. Probably won't give you diseases. Probably.
+ent-FoodSnackPistachios = 甜心牌开心果
+    .desc = 甜心牌开心果，大概不会让你染病。大概。
 
-ent-FoodSnackPopcorn = popcorn
-    .desc = Grown on an unknown planet, by an unknown farmer, popped by some jerk on a space station.
+ent-FoodSnackPopcorn = 爆米花
+    .desc = 由未知星球上的未知农民种植，再由空间站上的某个混蛋爆制。
 
-ent-FoodSnackRaisins = 4no raisins
-    .desc = Best raisins in the universe. Not sure why.
+ent-FoodSnackRaisins = 四无葡萄干
+    .desc = 全宇宙最棒的葡萄干。不知道为什么。
 
-ent-FoodSnackSemki = bob's semki sunflower seeds
-    .desc = Proudly produced by the Bob Bobson nutritional corporation. Perfect for spitting at people.
+ent-FoodSnackSemki = 鲍勃牌塞姆奇葵花籽
+    .desc = 由鲍勃·鲍勃森营养公司荣誉出品。非常适合吐到别人身上。

@@ -1,399 +1,399 @@
-ent-SurgeryStepExposeSkull = æ´é²é¢éª¨
+ent-SurgeryStepExposeSkull = 暴露颅骨
 
-ent-SurgeryStepLigateVessels = ç»æè¡ç®¡
+ent-SurgeryStepLigateVessels = 结扎血管
 
-ent-SurgeryStepSawSkull = é¯å¼é¢éª¨
+ent-SurgeryStepSawSkull = 锯开颅骨
 
-ent-SurgeryStepSeparateSlime = åç¦»é»æ¶²å¢å
+ent-SurgeryStepSeparateSlime = 分离黏液团
 
-ent-SurgeryStepInciseCartilage = åå¼è½¯éª¨
+ent-SurgeryStepInciseCartilage = 切开软骨
 
-ent-SurgeryStepHeadFinalizeSeparation = å®æåç¦»
+ent-SurgeryStepHeadFinalizeSeparation = 完成分离
 
-ent-SurgeryAmputation = æªè¢
-    .desc = éè¿ææ¯åé¤è¢ä½ã
+ent-SurgeryAmputation = 截肢术
+    .desc = 通过手术切除肢体。
 
-ent-SurgeryAmputationHead = æªè¢
-    .desc = éè¿ææ¯åé¤å¤´é¨ã
+ent-SurgeryAmputationHead = 断头术
+    .desc = 通过手术切除头部。
 
-ent-SurgeryLimbAttachmentStepLeftArm = æ¥åè¢ä½
+ent-SurgeryLimbAttachmentStepLeftArm = 接合肢体
 
-ent-SurgeryLimbAttachmentStepRightArm = æ¥åè¢ä½
+ent-SurgeryLimbAttachmentStepRightArm = 接合肢体
 
-ent-SurgeryStepRejoinNerves = éæ°æ¥åç¥ç»
+ent-SurgeryStepRejoinNerves = 重新连接神经
 
-ent-SurgeryStepRejoinBloodVessels = éæ°æ¥åè¡ç®¡
+ent-SurgeryStepRejoinBloodVessels = 重新连接血管
 
-ent-SurgeryStepRestoreCartilage = ä¿®å¤è½¯éª¨
+ent-SurgeryStepRestoreCartilage = 修复软骨
 
-ent-SurgeryLimbAttachmentHead = å¤´é¨æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentHead = 头部接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentLeftArm = å·¦èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentLeftArm = 左臂接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentLeftHand = å·¦ææ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentLeftHand = 左手接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentRightArm = å³èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentRightArm = 右臂接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentRightHand = å³ææ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentRightHand = 右手接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentLeftLeg = å·¦è¿æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentLeftLeg = 左腿接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentLeftFoot = å·¦èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentLeftFoot = 左脚接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentRightLeg = å³è¿æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentRightLeg = 右腿接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentRightFoot = å³èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentRightFoot = 右脚接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentTail = å°¾å·´æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentTail = 尾巴接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentOther = å¶ä»è¢ä½æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentOther = 其他部位接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeLeftArm = å·¦èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeLeftArm = 黏液体左臂接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeLeftHand = å·¦ææ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeLeftHand = 黏液体左手接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeRightArm = å³èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeRightArm = 黏液体右臂接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeRightHand = å³ææ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeRightHand = 黏液体右手接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeLeftLeg = å·¦è¿æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeLeftLeg = 黏液体左腿接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeLeftFoot = å·¦èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeLeftFoot = 黏液体左脚接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeRightLeg = å³è¿æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeRightLeg = 黏液体右腿接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeRightFoot = å³èæ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeRightFoot = 黏液体右脚接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeTail = å°¾å·´æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeTail = 黏液体尾巴接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryLimbAttachmentSlimeOther = å¶ä»è¢ä½æ¥å
-    .desc = éè¿ææ¯æ¥åè¢ä½ã
+ent-SurgeryLimbAttachmentSlimeOther = 黏液体其他部位接合术
+    .desc = 通过手术接合肢体。
 
-ent-SurgeryStepExposeNerves = æ´é²ç¥ç»
+ent-SurgeryStepExposeNerves = 暴露神经
 
-ent-SurgeryStepExposeBloodVessels = æ´é²è¡ç®¡
+ent-SurgeryStepExposeBloodVessels = 暴露血管
 
-ent-SurgeryStepDeepIncision = è¿è¡æ·±å±åå£
+ent-SurgeryStepDeepIncision = 深部切开
 
-ent-SurgeryStepRetractSkin = çµå¼ç®è¤
+ent-SurgeryStepRetractSkin = 牵开皮肤
 
-ent-SurgeryStepRetractMembrane = çµå¼èå±
+ent-SurgeryStepRetractMembrane = 牵开膜层
 
-ent-SurgeryStepCoagulateJellyFlow = ååºè¶è´¨æµ
+ent-SurgeryStepCoagulateJellyFlow = 凝固胶质流
 
-ent-SurgeryStepLocateLiver = å®ä½èè
+ent-SurgeryStepLocateLiver = 定位肝脏
 
-ent-SurgeryStepClampLiverVessels = å¤¹é­èèè¡ç®¡
+ent-SurgeryStepClampLiverVessels = 夹闭肝脏血管
 
-ent-SurgeryStepRemoveLiver = ç§»é¤èè
+ent-SurgeryStepRemoveLiver = 切除肝脏
 
-ent-SurgeryStepLocateAppendix = å®ä½éå°¾
+ent-SurgeryStepLocateAppendix = 定位阑尾
 
-ent-SurgeryStepClampAppendix = å¤¹é­éå°¾
+ent-SurgeryStepClampAppendix = 夹闭阑尾
 
-ent-SurgeryStepRemoveAppendix = ç§»é¤éå°¾
+ent-SurgeryStepRemoveAppendix = 切除阑尾
 
-ent-SurgeryStepLocateKidneys = å®ä½è¾è
+ent-SurgeryStepLocateKidneys = 定位肾脏
 
-ent-SurgeryStepClampKidneysVessels = å¤¹é­è¾èè¡ç®¡
+ent-SurgeryStepClampKidneysVessels = 夹闭肾脏血管
 
-ent-SurgeryStepRemoveKidneys = ç§»é¤è¾è
+ent-SurgeryStepRemoveKidneys = 切除肾脏
 
-ent-SurgeryStepLocateStomach = å®ä½èé¨
+ent-SurgeryStepLocateStomach = 定位胃部
 
-ent-SurgeryStepClampStomachVessels = å¤¹é­èé¨è¡ç®¡
+ent-SurgeryStepClampStomachVessels = 夹闭胃部血管
 
-ent-SurgeryStepRemoveStomach = ç§»é¤èé¨
+ent-SurgeryStepRemoveStomach = 切除胃部
 
-ent-SurgeryStepLocateLungs = å®ä½èºé¨
+ent-SurgeryStepLocateLungs = 定位肺部
 
-ent-SurgeryStepClampLungVessels = å¤¹é­èºé¨è¡ç®¡
+ent-SurgeryStepClampLungVessels = 夹闭肺部血管
 
-ent-SurgeryStepRemoveLungs = ç§»é¤èºé¨
+ent-SurgeryStepRemoveLungs = 切除肺部
 
-ent-SurgeryStepLocateHeart = å®ä½å¿è
+ent-SurgeryStepLocateHeart = 定位心脏
 
-ent-SurgeryStepClampHeartVessels = å¤¹é­å¿èè¡ç®¡
+ent-SurgeryStepClampHeartVessels = 夹闭心脏血管
 
-ent-SurgeryStepRemoveHeart = ç§»é¤å¿è
+ent-SurgeryStepRemoveHeart = 切除心脏
 
-ent-SurgeryStepLocateEyes = å®ä½ç¼ç
+ent-SurgeryStepLocateEyes = 定位眼球
 
-ent-SurgeryStepClampOpticNerve = å¤¹é­è§ç¥ç»
+ent-SurgeryStepClampOpticNerve = 夹闭视神经
 
-ent-SurgeryStepRemoveEyes = ç§»é¤ç¼ç
+ent-SurgeryStepRemoveEyes = 切除眼球
 
-ent-SurgeryStepLocateImplant = å®ä½æ¤å¥ç©
+ent-SurgeryStepLocateImplant = 定位植入物
 
-ent-SurgeryStepRemoveEyeImplant = ç§»é¤ç¼é¨æ¤å¥ç©
+ent-SurgeryStepRemoveEyeImplant = 移除眼部植入物
 
-ent-SurgeryStepGrabTongue = å¤¹ä½èå¤´
+ent-SurgeryStepGrabTongue = 夹持舌头
 
-ent-SurgeryStepCutTongue = åæ­èå¤´
+ent-SurgeryStepCutTongue = 切除舌头
 
-ent-SurgeryStepPreparePatient = åå¤æ£è
+ent-SurgeryStepPreparePatient = 准备患者
 
-ent-SurgeryStepShaveHead = åé¤å¤´å
+ent-SurgeryStepShaveHead = 剃除头发
 
-ent-SurgeryStepDisinfectScalp = æ¶æ¯å¤´ç®
+ent-SurgeryStepDisinfectScalp = 消毒头皮
 
-ent-SurgeryStepMakeIncisionScalp = åå¼å¤´ç®
+ent-SurgeryStepMakeIncisionScalp = 切开头皮
 
-ent-SurgeryStepRetractScalp = çµå¼å¤´ç®ç£
+ent-SurgeryStepRetractScalp = 牵开头皮瓣
 
-ent-SurgeryStepDrillBurrHoles = é»åºé¢éª¨å­
+ent-SurgeryStepDrillBurrHoles = 钻出颅骨孔
 
-ent-SurgeryStepCutSkull = ç¨éª¨é¯åå¼é¢éª¨
+ent-SurgeryStepCutSkull = 用骨锯切开颅骨
 
-ent-SurgeryStepRemoveBoneFlap = ç§»é¤éª¨ç£
+ent-SurgeryStepRemoveBoneFlap = 取下骨瓣
 
-ent-SurgeryStepClampDuraMater = å¤¹é­ç¡¬èè
+ent-SurgeryStepClampDuraMater = 夹持硬脑膜
 
-ent-SurgeryStepInciseDuraMater = åå¼ç¡¬èè
+ent-SurgeryStepInciseDuraMater = 切开硬脑膜
 
-ent-SurgeryStepRetractDuraMater = çµå¼ç¡¬èè
+ent-SurgeryStepRetractDuraMater = 牵开硬脑膜
 
-ent-SurgeryStepSeverCranialNerves = åæ­èç¥ç»
+ent-SurgeryStepSeverCranialNerves = 切断脑神经
 
-ent-SurgeryStepExtractBrain = ååºå¤§è
+ent-SurgeryStepExtractBrain = 取出大脑
 
-ent-SurgeryStepPrepareImplantSiteLiver = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteLiver = 准备植入部位
 
-ent-SurgeryStepInsertLiver = ç½®å¥èè
+ent-SurgeryStepInsertLiver = 植入肝脏
 
-ent-SurgeryStepConnectLiverVessels = è¿æ¥èèè¡ç®¡
+ent-SurgeryStepConnectLiverVessels = 连接肝脏血管
 
-ent-SurgeryStepPrepareImplantSiteKidneys = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteKidneys = 准备植入部位
 
-ent-SurgeryStepInsertKidneys = ç½®å¥è¾è
+ent-SurgeryStepInsertKidneys = 植入肾脏
 
-ent-SurgeryStepConnectKidneysVessels = è¿æ¥è¾èè¡ç®¡
+ent-SurgeryStepConnectKidneysVessels = 连接肾脏血管
 
-ent-SurgeryStepPrepareImplantSiteStomach = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteStomach = 准备植入部位
 
-ent-SurgeryStepInsertStomach = ç½®å¥èé¨
+ent-SurgeryStepInsertStomach = 植入胃部
 
-ent-SurgeryStepConnectStomachVessels = è¿æ¥èé¨è¡ç®¡
+ent-SurgeryStepConnectStomachVessels = 连接胃部血管
 
-ent-SurgeryStepPrepareImplantSiteLungs = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteLungs = 准备植入部位
 
-ent-SurgeryStepInsertLungs = ç½®å¥èºé¨
+ent-SurgeryStepInsertLungs = 植入肺部
 
-ent-SurgeryStepConnectLungVessels = è¿æ¥èºé¨è¡ç®¡
+ent-SurgeryStepConnectLungVessels = 连接肺部血管
 
-ent-SurgeryStepPrepareImplantSiteHeart = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteHeart = 准备植入部位
 
-ent-SurgeryStepInsertHeart = ç½®å¥å¿è
+ent-SurgeryStepInsertHeart = 植入心脏
 
-ent-SurgeryStepConnectHeartVessels = è¿æ¥å¿èè¡ç®¡
+ent-SurgeryStepConnectHeartVessels = 连接心脏血管
 
-ent-SurgeryStepPrepareImplantSiteEyes = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteEyes = 准备植入部位
 
-ent-SurgeryStepInsertEyes = ç½®å¥ç¼ç
+ent-SurgeryStepInsertEyes = 植入眼球
 
-ent-SurgeryStepConnectOpticNerve = è¿æ¥è§ç¥ç»
+ent-SurgeryStepConnectOpticNerve = 连接视神经
 
-ent-SurgeryStepInsertEyeImplant = æ¤å¥ç¼é¨æ¤å¥ç©
+ent-SurgeryStepInsertEyeImplant = 植入眼部植入物
 
-ent-SurgeryStepPrepareImplantSiteHand = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteHand = 准备植入部位
 
-ent-SurgeryStepInsertHandImplant = æ¤å¥æé¨æ¤å¥ç©
+ent-SurgeryStepInsertHandImplant = 植入手部植入物
 
-ent-SurgeryStepRemoveHandImplant = ç§»é¤æé¨æ¤å¥ç©
+ent-SurgeryStepRemoveHandImplant = 移除手部植入物
 
-ent-SurgeryStepInsertBrainImplant = æ¤å¥èé¨æ¤å¥ç©
+ent-SurgeryStepInsertBrainImplant = 植入脑部植入物
 
-ent-SurgeryStepRemoveBrainImplant = ç§»é¤èé¨æ¤å¥ç©
+ent-SurgeryStepRemoveBrainImplant = 移除脑部植入物
 
-ent-SurgeryStepPrepareImplantSiteTongue = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteTongue = 准备植入部位
 
-ent-SurgeryStepPositionTongue = æ¾ç½®èå¤´
+ent-SurgeryStepPositionTongue = 放置舌头
 
-ent-SurgeryStepAttachTongue = æ¥åèå¤´
+ent-SurgeryStepAttachTongue = 接合舌头
 
-ent-SurgeryStepCleanImplantSite = æ¸æ´æ¤å¥é¨ä½
+ent-SurgeryStepCleanImplantSite = 清洁植入部位
 
-ent-SurgeryStepPrepareScalp = åå¤å¤´ç®
+ent-SurgeryStepPrepareScalp = 准备头皮
 
-ent-SurgeryStepPrepareDuraMater = åå¤ç¡¬èè
+ent-SurgeryStepPrepareDuraMater = 准备硬脑膜
 
-ent-SurgeryStepInsertBrain = ç½®å¥å¤§è
+ent-SurgeryStepInsertBrain = 植入大脑
 
-ent-SurgeryStepReconnectCranialNerves = éæ°è¿æ¥èç¥ç»
+ent-SurgeryStepReconnectCranialNerves = 重新连接脑神经
 
-ent-SurgeryStepReplaceDuraMater = å¤ä½ç¡¬èè
+ent-SurgeryStepReplaceDuraMater = 复位硬脑膜
 
-ent-SurgeryStepSealDuraMater = å°åç¡¬èè
+ent-SurgeryStepSealDuraMater = 封合硬脑膜
 
-ent-SurgeryStepReplaceBoneFlap = å¤ä½éª¨ç£
+ent-SurgeryStepReplaceBoneFlap = 复位骨瓣
 
-ent-SurgeryStepSecureBoneFlap = ç¨éª¨åè¶åºå®éª¨ç£
+ent-SurgeryStepSecureBoneFlap = 用骨凝胶固定骨瓣
 
-ent-SurgeryStepReplaceScalp = å¤ä½å¤´ç®
+ent-SurgeryStepReplaceScalp = 复位头皮
 
-ent-SurgeryStepSutureScalp = ç¼åå¤´ç®åå£
+ent-SurgeryStepSutureScalp = 缝合头皮切口
 
-ent-SurgeryStepRemoveEgg = ç§»é¤åµ
+ent-SurgeryStepRemoveEgg = 取出卵
 
-ent-SurgeryStepLocateItemCavity = å®ä½ç©å
+ent-SurgeryStepLocateItemCavity = 定位物品
 
-ent-SurgeryStepRemoveItemCavity = ç§»é¤ç©å
+ent-SurgeryStepRemoveItemCavity = 取出物品
 
-ent-SurgeryStepPrepareImplantSiteCavity = åå¤æ¤å¥é¨ä½
+ent-SurgeryStepPrepareImplantSiteCavity = 准备植入部位
 
-ent-SurgeryStepInsertItemCavity = ç½®å¥ç©å
+ent-SurgeryStepInsertItemCavity = 放入物品
 
-ent-SurgeryStepLocateCore = å®ä½æ ¸å¿
+ent-SurgeryStepLocateCore = 定位核心
 
-ent-SurgeryStepInsertShadekinCore = ç½®å¥æ ¸å¿
+ent-SurgeryStepInsertShadekinCore = 植入核心
 
-ent-SurgeryStepExtractShadekinCore = ååºæ ¸å¿
+ent-SurgeryStepExtractShadekinCore = 取出核心
 
-ent-SurgeryStepClampShadekinCoreVessels = å¤¹é­æ ¸å¿è¡ç®¡
+ent-SurgeryStepClampShadekinCoreVessels = 夹闭核心血管
 
-ent-SurgeryStepConnectShadekinCoreVessels = è¿æ¥æ ¸å¿è¡ç®¡
+ent-SurgeryStepConnectShadekinCoreVessels = 连接核心血管
 
-ent-SurgeryStepRemoveHandImplantRobot = ç§»é¤æé¨æ¤å¥ç©
+ent-SurgeryStepRemoveHandImplantRobot = 移除手部植入物
 
-ent-SurgeryStepRemoveBrainImplantRobot = ç§»é¤èé¨æ¤å¥ç©
+ent-SurgeryStepRemoveBrainImplantRobot = 移除脑部植入物
 
-ent-SurgeryExtractHandImplantRobot = ååºæé¨æ¤å¥ç©
+ent-SurgeryExtractHandImplantRobot = 手部植入物取出术
 
-ent-SurgeryImplantHandImplantRobot = æ¤å¥æé¨æ¤å¥ç©
+ent-SurgeryImplantHandImplantRobot = 手部植入物植入术
 
-ent-SurgeryExtractBrainImplantRobot = ååºèé¨æ¤å¥ç©
+ent-SurgeryExtractBrainImplantRobot = 脑部植入物取出术
 
-ent-SurgeryImplantBrainImplantRobot = æ¤å¥èé¨æ¤å¥ç©
+ent-SurgeryImplantBrainImplantRobot = 脑部植入物植入术
 
-ent-SurgeryOpenIncision = æå¼åå£
+ent-SurgeryOpenIncision = 切开术
 
-ent-SurgeryCloseIncision = é­ååå£
+ent-SurgeryCloseIncision = 切口闭合术
 
-ent-SurgeryCloseIncisionHead = é­ååå£
+ent-SurgeryCloseIncisionHead = 头部切口闭合术
 
-ent-SurgeryCloseIncisionLimb = é­ååå£
+ent-SurgeryCloseIncisionLimb = 肢体切口闭合术
 
-ent-SurgeryCloseIncisionSlimeHead = é­ååå£
+ent-SurgeryCloseIncisionSlimeHead = 黏液体头部切口闭合术
 
-ent-SurgeryCloseIncisionLimbSlime = é­ååå£
+ent-SurgeryCloseIncisionLimbSlime = 黏液体肢体切口闭合术
 
-ent-SurgeryOpenRibcage = æå¼è¸è
+ent-SurgeryOpenRibcage = 开胸术
 
-ent-SurgeryOpenAbdomen = æå¼è¹è
+ent-SurgeryOpenAbdomen = 开腹术
 
-ent-SurgeryEliminateVocalCordDefects = æ¶é¤å£°å¸¦ç¼ºé·
-    .desc = æ¶é¤è¯­è¨éç¢ä¸å£é³ã
+ent-SurgeryEliminateVocalCordDefects = 声带缺陷矫正术
+    .desc = 消除言语障碍和口音。
 
-ent-SurgeryExtractLiver = ååºèè
+ent-SurgeryExtractLiver = 肝脏取出术
 
-ent-SurgeryImplantLiver = æ¤å¥èè
+ent-SurgeryImplantLiver = 肝脏植入术
 
-ent-SurgeryExtractAppendix = ååºéå°¾
+ent-SurgeryExtractAppendix = 阑尾切除术
 
-ent-SurgeryExtractKidneys = ååºè¾è
+ent-SurgeryExtractKidneys = 肾脏取出术
 
-ent-SurgeryImplantKidneys = æ¤å¥è¾è
+ent-SurgeryImplantKidneys = 肾脏植入术
 
-ent-SurgeryExtractStomach = ååºèé¨
+ent-SurgeryExtractStomach = 胃部取出术
 
-ent-SurgeryImplantStomach = æ¤å¥èé¨
+ent-SurgeryImplantStomach = 胃部植入术
 
-ent-SurgeryExtractLungs = ååºèºé¨
+ent-SurgeryExtractLungs = 肺部取出术
 
-ent-SurgeryImplantLungs = æ¤å¥èºé¨
+ent-SurgeryImplantLungs = 肺部植入术
 
-ent-SurgeryExtractLungsSlime = ååºèºé¨
+ent-SurgeryExtractLungsSlime = 黏液体肺部取出术
 
-ent-SurgeryImplantLungsSlime = æ¤å¥èºé¨
+ent-SurgeryImplantLungsSlime = 黏液体肺部植入术
 
-ent-SurgeryExtractHeart = ååºå¿è
+ent-SurgeryExtractHeart = 心脏取出术
 
-ent-SurgeryImplantHeart = æ¤å¥å¿è
+ent-SurgeryImplantHeart = 心脏植入术
 
-ent-SurgeryExtractEyes = ååºç¼ç
+ent-SurgeryExtractEyes = 眼球取出术
 
-ent-SurgeryImplantEyes = æ¤å¥ç¼ç
+ent-SurgeryImplantEyes = 眼球植入术
 
-ent-SurgeryExtractEyeImplant = ååºç¼é¨æ¤å¥ç©
+ent-SurgeryExtractEyeImplant = 眼部植入物取出术
 
-ent-SurgeryImplantEyeImplant = æ¤å¥ç¼é¨æ¤å¥ç©
+ent-SurgeryImplantEyeImplant = 眼部植入物植入术
 
-ent-SurgeryExtractHandImplant = ååºæé¨æ¤å¥ç©
+ent-SurgeryExtractHandImplant = 手部植入物取出术
 
-ent-SurgeryImplantHandImplant = æ¤å¥æé¨æ¤å¥ç©
+ent-SurgeryImplantHandImplant = 手部植入物植入术
 
-ent-SurgeryExtractBrainImplant = ååºèé¨æ¤å¥ç©
+ent-SurgeryExtractBrainImplant = 脑部植入物取出术
 
-ent-SurgeryImplantBrainImplant = æ¤å¥èé¨æ¤å¥ç©
+ent-SurgeryImplantBrainImplant = 脑部植入物植入术
 
-ent-SurgeryExtractBrainImplantSlime = ååºæ ¸å¿æ¤å¥ç©
+ent-SurgeryExtractBrainImplantSlime = 核心植入物取出术
 
-ent-SurgeryImplantBrainImplantSlime = æ¤å¥æ ¸å¿æ¤å¥ç©
+ent-SurgeryImplantBrainImplantSlime = 核心植入物植入术
 
-ent-SurgeryExtractTongue = ååºèå¤´
+ent-SurgeryExtractTongue = 舌头取出术
 
-ent-SurgeryImplantTongue = æ¤å¥èå¤´
+ent-SurgeryImplantTongue = 舌头接合术
 
-ent-SurgeryExtractBrain = ååºå¤§è
+ent-SurgeryExtractBrain = 大脑取出术
 
-ent-SurgeryImplantBrain = æ¤å¥å¤§è
+ent-SurgeryImplantBrain = 大脑植入术
 
-ent-SurgeryExtractCore = ååºæ ¸å¿
+ent-SurgeryExtractCore = 核心取出术
 
-ent-SurgeryImplantCore = æ¤å¥æ ¸å¿
+ent-SurgeryImplantCore = 核心植入术
 
-ent-SurgeryExtractEgg = ååºåµ
+ent-SurgeryExtractEgg = 取卵术
 
-ent-SurgeryExtractCavityItem = ååºç©å
+ent-SurgeryExtractCavityItem = 腔内物品取出术
 
-ent-SurgeryImplantCavityItem = æ¤å¥ç©å
+ent-SurgeryImplantCavityItem = 腔内物品置入术
 
-ent-SurgeryShadekinCore = ååºæ ¸å¿
+ent-SurgeryShadekinCore = 影族核心取出术
 
-ent-SurgeryImplantShadekinCore = æ¤å¥æ ¸å¿
+ent-SurgeryImplantShadekinCore = 影族核心植入术
 
-ent-SurgeryStepOpenIncisionScalpel = ç¨ææ¯ååå¼
+ent-SurgeryStepOpenIncisionScalpel = 用手术刀切开
 
-ent-SurgeryStepClampBleeders = å¤¹é­åºè¡ç¹
+ent-SurgeryStepClampBleeders = 夹闭出血点
 
-ent-SurgeryStepSawBones = é¯æ­éª¨éª¼
+ent-SurgeryStepSawBones = 锯断骨骼
 
-ent-SurgeryStepPriseOpenBones = æ¬å¼éª¨éª¼
+ent-SurgeryStepPriseOpenBones = 撬开骨骼
 
-ent-SurgeryStepCloseBones = åæ¢éª¨éª¼
+ent-SurgeryStepCloseBones = 合拢骨骼
 
-ent-SurgeryStepMendRibcage = ä¿®å¤è¸è
+ent-SurgeryStepMendRibcage = 修复胸腔
 
-ent-SurgeryStepMendSlime = éå¡é»æ¶²å¢å
+ent-SurgeryStepMendSlime = 重塑黏液团
 
-ent-SurgeryStepMendSkull = ä¿®å¤é¢éª¨
+ent-SurgeryStepMendSkull = 修复颅骨
 
-ent-SurgeryStepCloseIncision = é­ååå£
+ent-SurgeryStepCloseIncision = 闭合切口
 
-ent-SurgeryStepCutAbdominalMuscles = åå¼è¹è
+ent-SurgeryStepCutAbdominalMuscles = 切开腹肌
 
-ent-SurgeryStepRetractAbdominalWalls = çµå¼è¹å£
+ent-SurgeryStepRetractAbdominalWalls = 牵开腹壁
 
-ent-SurgeryStepSutureMuscles = ç¼åè¹è
+ent-SurgeryStepSutureMuscles = 缝合腹肌
 
-ent-SurgeryStepRestoreAbdominalWalls = å¤ä½è¹å£
+ent-SurgeryStepRestoreAbdominalWalls = 修复腹壁

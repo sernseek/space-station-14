@@ -1,885 +1,885 @@
-ent-BrainImplantTranslator = translator implant
-    .desc = Translates from your language to galactic common right in your brain!
+ent-BrainImplantTranslator = 翻译植入体
+    .desc = 直接在你的脑中将你的语言翻译成银河通用语！
 
-ent-BrainImplantCommsExpedition = expedition radio implant
-    .desc = A handy implant for the salvager of the modern age.
+ent-BrainImplantCommsExpedition = 远征无线电植入体
+    .desc = 现代打捞专员的便利植入体。
 
-ent-BrainImplantComms = integrated radio implant
-    .desc = A headset, right in your brain!
+ent-BrainImplantComms = 集成无线电植入体
+    .desc = 一副直接装进脑子里的耳麦！
 
-ent-BrainImplantNexus = Nexus uplink
-    .desc = A weird piece of Avali tech... Gives you access to the Nexus!
+ent-BrainImplantNexus = 纳克瑟斯升链
+    .desc = 一件古怪的阿瓦利科技产物……能让你接入纳克瑟斯！
 
-ent-EyeImplantWelding = welding implant
-    .desc = Protects eyes from welding flashes.
+ent-EyeImplantWelding = 焊接防护植入体
+    .desc = 保护眼睛免受焊接闪光伤害。
 
-ent-EyeImplantDiagnostic = diagnostic implant
-    .desc = Enables you to see information about mechanisms without diagnostic glasses.
+ent-EyeImplantDiagnostic = 诊断植入体
+    .desc = 无需诊断眼镜即可查看机械的信息。
 
-ent-EyeImplantMedical = medical implant
-    .desc = Enables you to see information about humanoids without medical glasses.
+ent-EyeImplantMedical = 医疗植入体
+    .desc = 无需医疗眼镜即可查看人形生物的信息。
 
-ent-EyeImplantChemistry = chemistry implant
-    .desc = Enables you to see information about solutions without chemical analysis goggles.
+ent-EyeImplantChemistry = 化学植入体
+    .desc = 无需化学分析护目镜即可查看溶液的信息。
 
-ent-EyeImplantSecurity = security implant
-    .desc = Enables you to see information about station crew without security glasses.
+ent-EyeImplantSecurity = 安保植入体
+    .desc = 无需安保眼镜即可查看空间站船员的信息。
 
-ent-EyeImplantSyndie = syndie implant
-    .desc = Enables you to see information about station crew, humanoids and syndie without any glasses.
+ent-EyeImplantSyndie = 辛迪加植入体
+    .desc = 无需任何眼镜即可查看空间站船员、人形生物和辛迪加成员的信息。
 
-ent-HandImplantInsulated = insulation implant
-    .desc = Protects your hands from electric currents!
+ent-HandImplantInsulated = 绝缘植入体
+    .desc = 保护你的双手免受电流伤害！
 
-ent-HandImplantForensics = forensics implant
-    .desc = Removes your fingerprints! Great for forensics, at the cost of your mail.
+ent-HandImplantForensics = 反取证植入体
+    .desc = 消除你的指纹！对反取证大有帮助。
 
-ent-HandImplantClaws = claws implant
-    .desc = Gives you retractable claws!
+ent-HandImplantClaws = 利爪植入体
+    .desc = 赋予你可伸缩的利爪！
 
-ent-HandImplantThrusters = thruster implant
-    .desc = Wrist-mounted micro-thrusters to help you maneuver in space.
+ent-HandImplantThrusters = 推进器植入体
+    .desc = 腕载微型推进器，帮助你在太空中机动。
 
-ent-OrganAnimalLungs = animal lungs
+ent-OrganAnimalLungs = 动物肺
 
-ent-OrganAnimalStomach = animal stomach
+ent-OrganAnimalStomach = 动物胃
 
-ent-OrganAnimalLiver = animal liver
+ent-OrganAnimalLiver = 动物肝脏
 
-ent-OrganAnimalHeart = animal heart
+ent-OrganAnimalHeart = 动物心脏
 
-ent-OrganAnimalKidneys = animal kidneys
+ent-OrganAnimalKidneys = 动物肾脏
 
-ent-OrganAnimalEyes = animal eyes
+ent-OrganAnimalEyes = 动物眼睛
 
-ent-OrganAnimalRuminantStomach = ruminant stomach
+ent-OrganAnimalRuminantStomach = 反刍动物胃
 
-ent-SentientSlimesCore = sentient slimes core
-    .desc = The source of incredible, unending gooeyness.
+ent-SentientSlimesCore = 智慧史莱姆核心
+    .desc = 不可思议且无穷无尽的黏糊之源。
 
-ent-OrganSlimesLungs = slimes gas sacs
-    .desc = Collects nitrogen, which slime cells use for maintenance.
+ent-OrganSlimesLungs = 史莱姆气囊
+    .desc = 收集氮气，供史莱姆细胞维持生命活动。
 
-ent-OrganProtoArachnidHeart = arachnid cybernetic heart
+ent-OrganProtoArachnidHeart = 蛛人赛博心脏
 
-ent-OrganProtoAvaliStomach = avali biological reactor
+ent-OrganProtoAvaliStomach = 阿瓦利生物反应堆
 
-ent-OrganProtoAvaliHeart = avali cybernetic heart
+ent-OrganProtoAvaliHeart = 阿瓦利赛博心脏
 
-ent-OrganProtoAvaliLiver = avali cybernetic liver
+ent-OrganProtoAvaliLiver = 阿瓦利赛博肝脏
 
-ent-OrganProtogenBrain = cybernetic brain
-    .desc = The source of incredible, unending intelligence. 01201020 02102111 01201210 02121012 20121210
+ent-OrganProtogenBrain = 赛博大脑
+    .desc = 不可思议且无穷无尽的智慧之源。01201020 02102111 01201210 02121012 20121210
 
-ent-OrganProtogenEyes = cybernetic eyes
-    .desc = It's still focusing on you.. Creepy.
+ent-OrganProtogenEyes = 赛博眼睛
+    .desc = 它仍在盯着你对焦……真瘆人。
 
-ent-OrganProtogenTongue = cybernetic tongue
-    .desc = A completely glowing organ commonly used for lying or self-expression. Sometimes both. #  Starlight, quotation marks removed
+ent-OrganProtogenTongue = 赛博舌头
+    .desc = 一个通体发光、常用于撒谎或表达自我的器官。
 
-ent-OrganProtogenTongueForked = forked cybernetic tongue
-    .desc = A completely glowing organ commonly used for lying or self-expression. Sometimes both. Now split in two. #  Starlight, quotation marks removed
+ent-OrganProtogenTongueForked = 分叉赛博舌头
+    .desc = 一个通体发光、常用于撒谎或表达自我的器官。
 
-ent-OrganProtogenEars = cybernetic ears
-    .desc = Process audio at a higher quality than most humanoids, allowing for greater appreciation of techno music #  Starlight, quotation marks removed
+ent-OrganProtogenEars = 赛博耳朵
+    .desc = 能以高于大多数人形生物的音质处理声音。
 
-ent-OrganProtogenLungs = cybernetic lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier. Entirely cybernetic in nature, working in tandem with the visor's filtration system. #  Starlight, quotation marks removed
+ent-OrganProtogenLungs = 赛博肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganProtogenHeart = cybernetic heart
-    .desc = Doesn't actually need to beat, simply mimics the movement to provide comfort for the user.
+ent-OrganProtogenHeart = 赛博心脏
+    .desc = 其实无需跳动，只是模仿这种动作来让使用者安心。
 
-ent-OrganProtogenStomach = biological reactor
-    .desc = Some call it over-engineered, but it's vital to the function of a protogen. Turns organic matter into organic and electrical energy to power the protogen's cybernetics and flesh. #  Starlight, quotation marks removed
+ent-OrganProtogenStomach = 生物反应堆
+    .desc = 它虽设计过度，却对原型机族的机能至关重要，能将有机物转化为能量。
 
-ent-OrganProtogenLiver = cybernetic liver
-    .desc = Pairing suggestion, a side of fermented RAM sticks and a nice CPU.
+ent-OrganProtogenLiver = 赛博肝脏
+    .desc = 搭配建议：佐以发酵内存条和一颗上好的处理器。
 
-ent-OrganProtogenKidneys = cybernetic kidneys
-    .desc = Pumps toxins out of the bloodstream and serves as a minor biological battery for electrical components #  Starlight, quotation marks removed
+ent-OrganProtogenKidneys = 赛博肾脏
+    .desc = 将毒素泵出血液，同时充当小型生物电池。
 
-ent-OrganProtoCycloriteLungs = cyclorite cybernetic lungs
-    .desc = Filters nitrogen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier. Entirely cybernetic in nature, working in tandem with the visor's filtration system.
+ent-OrganProtoCycloriteLungs = 赛克洛人赛博肺
+    .desc = 从大气中过滤氮气，再将其送入血液作为电子载体。
 
-ent-OrganProtoCycloriteEye = cyclorite cybernetic eye
-    .desc = Cyclorites see the world slightly differently.
+ent-OrganProtoCycloriteEye = 赛克洛人赛博眼睛
+    .desc = 赛克洛人眼中的世界略有不同。
 
-ent-OrganProtoCycloriteHeart = cyclorite cybernetic heart
+ent-OrganProtoCycloriteHeart = 赛克洛人赛博心脏
 
-ent-OrganProtoDionaStomach = augmented stomach
-    .desc = The diona's equivalent of a stomach, it reeks of asparagus and vinegar.
+ent-OrganProtoDionaStomach = 强化胃
+    .desc = 相当于狄奥娜的胃，散发着芦笋和醋的恶臭。
 
-ent-OrganProtoDionaLungs = diona augmented lungs
-    .desc = A spongy mess of slimy, leaf-like structures. Capable of breathing both carbon dioxide and oxygen.
+ent-OrganProtoDionaLungs = 狄奥娜强化肺
+    .desc = 一团黏糊的海绵状叶片结构，能呼吸二氧化碳和氧气。
 
-ent-OrganProtoDionaStomachNymph = proto-diona nymph stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganProtoDionaStomachNymph = 原型狄奥娜幼体胃
+    .desc = 恶心。这玩意儿实在难以下咽。
 
-ent-OrganProtoDionaNymphStomach = proto-diona nymph stomach
-    .desc = Contains the stomach of a formerly fully-formed Proto-Diona. It doesn't taste any better for it.
+ent-OrganProtoDionaNymphStomach = 原型狄奥娜幼体胃
+    .desc = 装着一名曾经发育完全的原型狄奥娜的器官。
 
-ent-OrganProtoDionaLungsNymph = proto-diona nymph lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.
+ent-OrganProtoDionaLungsNymph = 原型狄奥娜幼体肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganProtoDionaNymphLungs = proto-diona nymph lungs
-    .desc = Contains the lungs of a formerly fully-formed Proto-Diona. Breathtaking.
+ent-OrganProtoDionaNymphLungs = 原型狄奥娜幼体肺
+    .desc = 装着一名曾经发育完全的原型狄奥娜的器官。
 
-ent-OrganProtoDwarfHeart = dwarf cybernetic heart
-    .desc = Doesn't actually need to beat, simply mimics the movement to provide comfort for the user.
+ent-OrganProtoDwarfHeart = 矮人赛博心脏
+    .desc = 其实无需跳动，只是模仿这种动作来让使用者安心。
 
-ent-OrganProtoDwarfLiver = dwarf cybernetic liver
-    .desc = Pairing suggestion, a side of fermented RAM sticks and a nice CPU.
+ent-OrganProtoDwarfLiver = 矮人赛博肝脏
+    .desc = 搭配建议：佐以发酵内存条和一颗上好的处理器。
 
-ent-OrganProtoDwarfStomach = dwarf biological reactor
-    .desc = Some call it over-engineered, but it's vital to the function of a protogen. Turns organic matter into organic and electrical energy to power the protogen's cybernetics and flesh.
+ent-OrganProtoDwarfStomach = 矮人生物反应堆
+    .desc = 它虽设计过度，却对原型机族的机能至关重要，能将有机物转化为能量。
 
-ent-OrganProtoMothStomach = moth biological reactor
-    .desc = Some call it over-engineered, but it's vital to the function of a protogen. Turns organic matter into organic and electrical energy to power the protogen's cybernetics and flesh. #  Starlight, quotation marks removed
+ent-OrganProtoMothStomach = 蛾人生物反应堆
+    .desc = 它虽设计过度，却对原型机族的机能至关重要，能将有机物转化为能量。
 
-ent-OrganProtoResomiEyes = resomi cybernetic eyes
-    .desc = These cybernetic eyes have great night vision for hunting prey in maintenance tunnels, but are very sensitive to bright flashes.
+ent-OrganProtoResomiEyes = 瑞索米赛博眼睛
+    .desc = 这双眼睛拥有出色的夜视能力，但对强光极其敏感。
 
-ent-OrganProtoResomiHeart = resomi cybernetic heart
+ent-OrganProtoResomiHeart = 瑞索米赛博心脏
 
-ent-OrganProtoResomiLungs = resomi cybernetic lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier. Entirely cybernetic in nature, working in tandem with the visor's filtration system. #  Starlight, quotation marks removed
+ent-OrganProtoResomiLungs = 瑞索米赛博肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganProtokinEyes = shadekin cybernetic eyes
-    .desc = Cybernetic eyes of a Black-eye Shadekin that can never see their home reality again. These eyes have excellent night vision, but are very sensitive to bright flashes as a result.
+ent-OrganProtokinEyes = 影裔赛博眼睛
+    .desc = 再也无法看见故乡现实的黑眼影裔之眼，夜视极佳但畏惧强光。
 
-ent-SentientProtoSlimeCore = augmented sentient slime core
-    .desc = The source of incredible, unending gooeyness.
+ent-SentientProtoSlimeCore = 强化智慧史莱姆核心
+    .desc = 不可思议且无穷无尽的黏糊之源。
 
-ent-OrganProtoSlimeHeart = augmented slime circulator
-    .desc = A little circulator what makes the fluid move through the slime body.
+ent-OrganProtoSlimeHeart = 强化史莱姆循环器
+    .desc = 一个让液体在史莱姆体内流动的小型循环器。
 
-ent-OrganProtoSlimeLungs = augmented slime gas sacs
-    .desc = Collects nitrogen, which slime cells use for maintenance.
+ent-OrganProtoSlimeLungs = 强化史莱姆气囊
+    .desc = 收集氮气，供史莱姆细胞维持生命活动。
 
-ent-OrganProtoSlimePeepoids = augmented peepoids
-    .desc = Primitive and goopy, but more or less just as good as the human equivalent.
+ent-OrganProtoSlimePeepoids = 强化窥豆体
+    .desc = 原始又黏糊，但用起来大致不输人类器官。
 
-ent-OrganProtoSlimeSlurpoid = augmented slurpoid
-    .desc = It has all the consistency of gelatin.
+ent-OrganProtoSlimeSlurpoid = 强化啜胶体
+    .desc = 从里到外都是明胶般的质感。
 
-ent-OrganProtoVoxStomach = vox biological reactor
+ent-OrganProtoVoxStomach = 沃克斯生物反应堆
 
-ent-OrganProtoVoxHeart = vox cybernetic heart
+ent-OrganProtoVoxHeart = 沃克斯赛博心脏
 
-ent-OrganProtoVoxLungs = vox cybernetic lungs
-    .desc = Filters nitrogen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier. Entirely cybernetic in nature, working in tandem with the visor's filtration system. #  Starlight, quotation marks removed
+ent-OrganProtoVoxLungs = 沃克斯赛博肺
+    .desc = 从大气中过滤氮气，再将其送入血液作为电子载体。
 
-ent-OrganAbductorBrain = strange brain
-    .desc = The source of incredible yet strange intelligence.
+ent-OrganAbductorBrain = 奇异大脑
+    .desc = 不可思议却又古怪的智慧之源。
 
-ent-OrganAbductorEyes = strange eyes
-    .desc = These large beady eyes silently stare at you.
+ent-OrganAbductorEyes = 奇异眼睛
+    .desc = 这双硕大的珠状眼睛默默盯着你。
 
-ent-OrganAbductorEars = strange ears
-    .desc = There are three parts to the ear: inner, middle and outer. Only one of these parts should normally be visible.
+ent-OrganAbductorEars = 奇异耳朵
+    .desc = 耳朵分为内耳、中耳和外耳三部分。正常情况下只有一部分看得见。
 
-ent-OrganAbductorLungs = strange lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.
+ent-OrganAbductorLungs = 奇异肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganAbductorHeart = strange heart
-    .desc = Doesn't look like this one was experimented on.
+ent-OrganAbductorHeart = 奇异心脏
+    .desc = 看起来这个并没有遭受过实验。
 
-ent-OrganAbductorStomach = strange stomach
-    .desc = May yearn for grilled cheese.
+ent-OrganAbductorStomach = 奇异胃
+    .desc = 可能会渴望烤奶酪三明治。
 
-ent-OrganAbductorLiver = strange liver
-    .desc = This odd liver is rather poor at breaking down alcohol.
+ent-OrganAbductorLiver = 奇异肝脏
+    .desc = 这颗怪异的肝脏不太擅长分解酒精。
 
-ent-OrganAbductorKidneys = strange kidneys
-    .desc = Filters strange toxins from its strange bloodstream.
+ent-OrganAbductorKidneys = 奇异肾脏
+    .desc = 从它古怪的血液中过滤古怪的毒素。
 
-ent-OrganCorgiLungs = corgi lungs
-    .desc = Used for barking.
+ent-OrganCorgiLungs = 柯基肺
+    .desc = 用来汪汪叫。
 
-ent-OrganArachnidStomach = arachnid stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganArachnidStomach = 蛛人胃
+    .desc = 恶心。这玩意儿实在难以下咽。
 
-ent-OrganArachnidLungs = arachnid lungs
-    .desc = Filters oxygen from an atmosphere... just more greedily.
+ent-OrganArachnidLungs = 蛛人肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganArachnidHeart = arachnid heart
-    .desc = A disgustingly persistent little biological pump made for spiders.
+ent-OrganArachnidHeart = 蛛人心脏
+    .desc = 为蛛人打造的顽强小型生物泵。
 
-ent-OrganArachnidLiver = arachnid liver
-    .desc = Pairing suggestion: chianti and fava beans.
+ent-OrganArachnidLiver = 蛛人肝脏
+    .desc = 搭配建议：基安蒂葡萄酒与蚕豆。
 
-ent-OrganArachnidKidneys = arachnid kidneys
-    .desc = Filters toxins from the bloodstream.
+ent-OrganArachnidKidneys = 蛛人肾脏
+    .desc = 从血液中过滤毒素。
 
-ent-OrganArachnidEyes = arachnid eyes
-    .desc = Two was already too many.
+ent-OrganArachnidEyes = 蛛人眼睛
+    .desc = 两只就已经够多了。
 
-ent-OrganArachnidTongue = arachnid tongue
-    .desc = A fleshy muscle mostly used for lying.
+ent-OrganArachnidTongue = 蛛人舌头
+    .desc = 一块主要用来撒谎的肉质肌肉。
 
-ent-OrganAvaliStomach = avali stomach
-    .desc = On closer inspection, actually consists of two stomachs.
+ent-OrganAvaliStomach = 阿瓦利胃
+    .desc = 仔细一看，它其实由两个胃组成。
 
-ent-OrganAvaliHeart = avali heart
-    .desc = The heart of an Avali.
+ent-OrganAvaliHeart = 阿瓦利心脏
+    .desc = 这是该物种的心脏。
 
-ent-OrganAvaliLiver = avali liver
-    .desc = The liver of an Avali.
+ent-OrganAvaliLiver = 阿瓦利肝脏
+    .desc = 这是该物种的肝脏。
 
-ent-OrganAvaliKidneys = avali kidneys
-    .desc = The kidneys of an Avali.
+ent-OrganAvaliKidneys = 阿瓦利肾脏
+    .desc = 这是该物种的肾脏。
 
-ent-OrganAvaliLungs = avali lungs
-    .desc = The lungs of an Avali.
+ent-OrganAvaliLungs = 阿瓦利肺
+    .desc = 这是该物种的肺。
 
-ent-OrganAvaliEyes = avali eyes
-    .desc = The eyes of an Avali.
+ent-OrganAvaliEyes = 阿瓦利眼睛
+    .desc = 这是该物种的眼睛。
 
-ent-OrganAvaliBrain = avali brain
-    .desc = Where Avali think evil thoughts.
+ent-OrganAvaliBrain = 阿瓦利大脑
+    .desc = 酝酿邪恶念头的地方。
 
-ent-OrganCyber = cyber organ
+ent-OrganCyber = 赛博器官
 
-ent-CyberEyeNightVision = night vision cyber eyes
-    .desc = Enables you to see in the dark.
+ent-CyberEyeNightVision = 夜视赛博眼
+    .desc = 让你能在黑暗中看清事物。
 
-ent-CyberEyeThermal = thermal vision cyber eyes
-    .desc = Enables you to see in the dark and detect warm objects through walls.
+ent-CyberEyeThermal = 热成像赛博眼
+    .desc = 让你能在黑暗中视物，并隔墙探测温热物体。
 
-ent-BudgetCyberEyes = budget cyber eyes
-    .desc = Cold and soulless. Just as depressing to look out of as to look into.
+ent-BudgetCyberEyes = 廉价赛博眼
+    .desc = 冰冷而没有灵魂，向外看和往里瞧都同样令人沮丧。
 
-ent-BudgetCyberTongue = budget cyber tongue
-    .desc = An artificial tongue with full range of movement. Taste buds not included.
+ent-BudgetCyberTongue = 廉价赛博舌头
+    .desc = 活动自如的人造舌头，不附赠味蕾。
 
-ent-BudgetCyberLiver = budget cyber liver
-    .desc = Design so reliable, it didn't have to be changed for the last 237 years! Warning: This product isn't meant for recreational drinking!
+ent-BudgetCyberLiver = 廉价赛博肝脏
+    .desc = 设计可靠到整整237年都无需改动！本产品不适用于娱乐性饮酒！
 
-ent-BudgetCyberStomach = budget cyber stomach
-    .desc = An artifical stomach. Its lack of elasticity is a desired feature for those who want to control their eating habits.
+ent-BudgetCyberStomach = 廉价赛博胃
+    .desc = 缺乏弹性的人造胃，适合想控制饮食的人。
 
-ent-BudgetCyberKidneys = budget cyber kidneys
-    .desc = A pair of artificial kidneys. Due to cheap materials used, they waste significantly more water than organic ones.
+ent-BudgetCyberKidneys = 廉价赛博肾脏
+    .desc = 一对廉价人造肾脏，耗水量远高于天然肾脏。
 
-ent-CyberRebreather = cyber rebreather
-    .desc = Artificial lungs with an integrated gas tank system. Can be filled with any breathable gas mixture.
+ent-CyberRebreather = 赛博循环呼吸器
+    .desc = 集成气罐系统的人造肺，可填充任何可呼吸混合气体。
 
-ent-OrganCycloriteBrain = cyclorite brain
-    .desc = The source of incredible, unending intelligence. Honk.
+ent-OrganCycloriteBrain = 赛克洛人大脑
+    .desc = 不可思议且无穷无尽的智慧之源。呵叫。
 
-ent-OrganCycloriteEye = cyclorite eye
-    .desc = Cyclorites see the world slightly differently.
+ent-OrganCycloriteEye = 赛克洛人眼睛
+    .desc = 赛克洛人眼中的世界略有不同。
 
-ent-OrganCycloriteTongue = cyclorite tongue
-    .desc = A fleshy muscle mostly used for lying.
+ent-OrganCycloriteTongue = 赛克洛人舌头
+    .desc = 一块主要用来撒谎的肉质肌肉。
 
-ent-OrganCycloriteEars = cyclorite ears
-    .desc = There are three parts to the ear: inner, middle and outer. Only one of these parts should normally be visible.
+ent-OrganCycloriteEars = 赛克洛人耳朵
+    .desc = 耳朵分为内耳、中耳和外耳三部分。正常情况下只有一部分看得见。
 
-ent-OrganCycloriteLungs = cyclorite lungs
-    .desc = Cyclorite lungs filter nitrogen from the atmosphere to breathe.
+ent-OrganCycloriteLungs = 赛克洛人肺
+    .desc = 赛克洛人的肺从大气中过滤氮气以供呼吸。
 
-ent-OrganCycloriteHeart = cyclorite heart
-    .desc = I feel bad for the heartless bastard who lost this.
+ent-OrganCycloriteHeart = 赛克洛人心脏
+    .desc = 真替那个丢了它的没心肝混蛋难过。
 
-ent-OrganCycloriteStomach = cyclorite stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganCycloriteStomach = 赛克洛人胃
+    .desc = 恶心。这玩意儿实在难以下咽。
 
-ent-OrganCycloriteLiver = cyclorite liver
-    .desc = Pairing suggestion: chianti and fava beans.
+ent-OrganCycloriteLiver = 赛克洛人肝脏
+    .desc = 搭配建议：基安蒂葡萄酒与蚕豆。
 
-ent-OrganCycloriteKidneys = cyclorite kidneys
-    .desc = Filters toxins from the bloodstream.
+ent-OrganCycloriteKidneys = 赛克洛人肾脏
+    .desc = 从血液中过滤毒素。
 
-ent-OrganDionaBrain = diona brain
-    .desc = The central hub of a diona's pseudo-neurological activity, its root-like tendrils search for its former body.
+ent-OrganDionaBrain = 狄奥娜大脑
+    .desc = 狄奥娜伪神经活动的中枢，其根须正寻找曾经的身体。
 
-ent-OrganDionaEyes = diona eyes
-    .desc = I see you!
+ent-OrganDionaEyes = 狄奥娜眼睛
+    .desc = 我看见你了！
 
-ent-OrganDionaStomach = diona stomach
-    .desc = The diona's equivalent of a stomach, it reeks of asparagus and vinegar.
+ent-OrganDionaStomach = 狄奥娜胃
+    .desc = 相当于狄奥娜的胃，散发着芦笋和醋的恶臭。
 
-ent-OrganDionaLungs = diona lungs
-    .desc = A spongy mess of slimy, leaf-like structures. Capable of breathing both carbon dioxide and oxygen.
+ent-OrganDionaLungs = 狄奥娜肺
+    .desc = 一团黏糊的海绵状叶片结构，能呼吸二氧化碳和氧气。
 
-ent-OrganDionaBrainNymph = diona nymph brain
-    .desc = The source of incredible, unending intelligence. Honk.
+ent-OrganDionaBrainNymph = 狄奥娜幼体大脑
+    .desc = 不可思议且无穷无尽的智慧之源。呵叫。
 
-ent-OrganDionaStomachNymph = diona nymph stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganDionaStomachNymph = 狄奥娜幼体胃
+    .desc = 恶心。这玩意儿实在难以下咽。
 
-ent-OrganDionaLungsNymph = diona nymph lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.
+ent-OrganDionaLungsNymph = 狄奥娜幼体肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganDionaNymphBrain = diona nymph
-    .desc = Contains the brain of a formerly fully-formed Diona. Killing this would kill the Diona forever. You monster.
+ent-OrganDionaNymphBrain = 狄奥娜幼体
+    .desc = 装着一名曾经发育完全的狄奥娜的器官。
 
-ent-OrganDionaNymphStomach = diona nymph stomach
-    .desc = Contains the stomach of a formerly fully-formed Diona. It doesn't taste any better for it.
+ent-OrganDionaNymphStomach = 狄奥娜幼体胃
+    .desc = 装着一名曾经发育完全的狄奥娜的器官。
 
-ent-OrganDionaNymphLungs = diona nymph lungs
-    .desc = Contains the lungs of a formerly fully-formed Diona. Breathtaking.
+ent-OrganDionaNymphLungs = 狄奥娜幼体肺
+    .desc = 装着一名曾经发育完全的狄奥娜的器官。
 
-ent-OrganDubiousHealth = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousHealth = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-OrganDubiousNitrousOxide = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousNitrousOxide = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-OrganDubiousGravity = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousGravity = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-OrganDubiousEgg = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousEgg = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-OrganDubiousSpider = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousSpider = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-OrganDubiousVent = gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousVent = 腺体
+    .desc = 可疑的外星腺体，会取代心脏。
 
-ent-RandomOrganDubious = random gland
-    .desc = a random abductor gland
+ent-RandomOrganDubious = 随机腺体
+    .desc = 一个随机的绑架者腺体。
 
-ent-OrganFelionoidEyes = felionoid eyes
-    .desc = The eyes of a Felionoid.
+ent-OrganFelionoidEyes = 猫科人眼睛
+    .desc = 这是该物种的眼睛。
 
-ent-OrganHumanBrain = brain
-    .desc = The source of incredible, unending intelligence. Honk.
+ent-OrganHumanBrain = 大脑
+    .desc = 不可思议且无穷无尽的智慧之源。呵叫。
 
-ent-OrganHumanEyes = eyes
-    .desc = I see you!
+ent-OrganHumanEyes = 眼睛
+    .desc = 我看见你了！
 
-ent-OrganHumanTongue = tongue
-    .desc = A fleshy muscle mostly used for lying.
+ent-OrganHumanTongue = 舌头
+    .desc = 一块主要用来撒谎的肉质肌肉。
 
-ent-OrganHumanAppendix = appendix
+ent-OrganHumanAppendix = 阑尾
 
-ent-OrganHumanEars = ears
-    .desc = There are three parts to the ear. Inner, middle and outer. Only one of these parts should normally be visible.
+ent-OrganHumanEars = 耳朵
+    .desc = 耳朵分为内耳、中耳和外耳三部分。正常情况下只有一部分看得见。
 
-ent-OrganHumanLungs = lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier.
+ent-OrganHumanLungs = 肺
+    .desc = 从大气中过滤氧气，再将其送入血液作为电子载体。
 
-ent-OrganHumanHeart = heart
-    .desc = I feel bad for the heartless bastard who lost this.
+ent-OrganHumanHeart = 心脏
+    .desc = 真替那个丢了它的没心肝混蛋难过。
 
-ent-OrganHumanStomach = stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganHumanStomach = 胃
+    .desc = 恶心。这玩意儿实在难以下咽。
 
-ent-OrganHumanLiver = liver
-    .desc = Pairing suggestion: chianti and fava beans.
+ent-OrganHumanLiver = 肝脏
+    .desc = 搭配建议：基安蒂葡萄酒与蚕豆。
 
-ent-OrganHumanKidneys = kidneys
-    .desc = Filters toxins from the bloodstream.
+ent-OrganHumanKidneys = 肾脏
+    .desc = 从血液中过滤毒素。
 
-ent-OrganLagomorphStomach = lagomorph stomach
-    .desc = Yearns for fresh produce.
+ent-OrganLagomorphStomach = 兔形目胃
+    .desc = 渴望新鲜农产品。
 
-ent-OrganLagomorphHeart = lagomorph heart
-    .desc = The rapidly beating heart of a Lagomorph.
+ent-OrganLagomorphHeart = 兔形目心脏
+    .desc = 兔形目生物快速跳动的心脏。
 
-ent-OrganMothEyes = moth eyes
-    .desc = Large compound eyes used to catch light.
+ent-OrganMothEyes = 蛾人眼睛
+    .desc = 用于捕捉光线的大型复眼。
 
-ent-OrganMothStomach = moth stomach
-    .desc = A stomach specialized for digesting normally inedible cloth.
+ent-OrganMothStomach = 蛾人胃
+    .desc = 专门消化通常无法食用的布料的胃。
 
-ent-OrganRatLungs = rat lungs
-    .desc = It ain't easy to stay breathing in these tunnels.
+ent-OrganRatLungs = 老鼠肺
+    .desc = 想在这些隧道里喘下去可不容易。
 
-ent-OrganRatStomach = rat stomach
-    .desc = Yearns for cheese.
+ent-OrganRatStomach = 老鼠胃
+    .desc = 渴望奶酪。
 
-ent-OrganResomiEyes = resomi eyes
-    .desc = Resomi eyes have great night vision for hunting prey in maintenance tunnels, but are very sensitive to bright flashes.
+ent-OrganResomiEyes = 瑞索米眼睛
+    .desc = 这双眼睛拥有出色的夜视能力，但对强光极其敏感。
 
-ent-OrganResomiLiver = resomi liver
-    .desc = The liver of a Resomi.
+ent-OrganResomiLiver = 瑞索米肝脏
+    .desc = 这是该物种的肝脏。
 
-ent-OrganResomiKidneys = resomi kidney
-    .desc = The kidneys of a Resomi.
+ent-OrganResomiKidneys = 瑞索米肾脏
+    .desc = 这是该物种的肾脏。
 
-ent-OrganResomiLungs = resomi lungs
-    .desc = The lungs of a Resomi.
+ent-OrganResomiLungs = 瑞索米肺
+    .desc = 这是该物种的肺。
 
-ent-OrganResomiBrain = resomi brain
-    .desc = Where Resomi think evil thoughts.
+ent-OrganResomiBrain = 瑞索米大脑
+    .desc = 酝酿邪恶念头的地方。
 
-ent-OrganResomiStomach = resomi stomach
-    .desc = The dual chamber stomach of a Resomi.
+ent-OrganResomiStomach = 瑞索米胃
+    .desc = 瑞索米的双腔胃。
 
-ent-OrganRodentiaEyes = rodentia eyes
-    .desc = The beady eyes of a Rodentia.
+ent-OrganRodentiaEyes = 啮齿人眼睛
+    .desc = 啮齿人珠子般的眼睛。
 
-ent-OrganRodentiaStomach = rodentia stomach
-    .desc = The resistant stomach of a Rodentia.
+ent-OrganRodentiaStomach = 啮齿人胃
+    .desc = 啮齿人耐受力极强的胃。
 
-ent-OrganRodentiaHeart = rodentia heart
-    .desc = The animal-like heart of a Rodentia.
+ent-OrganRodentiaHeart = 啮齿人心脏
+    .desc = 啮齿人野兽般的心脏。
 
-ent-OrganShadekinBrain = shadekin brain
-    .desc = The source of incredible, unending intelligence. Marr.
+ent-OrganShadekinBrain = 影裔大脑
+    .desc = 不可思议且无穷无尽的智慧之源。喵呜。
 
-ent-OrganShadekinEyes = shadekin eyes
-    .desc = Eyes of a Black-eye Shadekin that can never see their home reality again. These eyes have excellent night vision, but are very sensitive to bright flashes as a result.
+ent-OrganShadekinEyes = 影裔眼睛
+    .desc = 再也无法看见故乡现实的黑眼影裔之眼，夜视极佳但畏惧强光。
 
-ent-OrganShadekinTongue = shadekin tongue
-    .desc = Used to marr and occasionally wurble.
+ent-OrganShadekinTongue = 影裔舌头
+    .desc = 用来喵呜，偶尔也咕噜几声。
 
-ent-OrganShadekinAppendix = shadekin appendix
+ent-OrganShadekinAppendix = 影裔阑尾
 
-ent-OrganShadekinHeart = shadekin heart
+ent-OrganShadekinHeart = 影裔心脏
 
-ent-OrganShadekinStomach = shadekin stomach
+ent-OrganShadekinStomach = 影裔胃
 
-ent-OrganShadekinLiver = shadekin liver
+ent-OrganShadekinLiver = 影裔肝脏
 
-ent-OrganShadekinKidneys = shadekin kidneys
+ent-OrganShadekinKidneys = 影裔肾脏
 
-ent-OrganShadekinCore = shadekin core
-    .desc = A core of a Shadekin, a mysterious and powerful organ that seems to be the source of their energy.
+ent-OrganShadekinCore = 影裔核心
+    .desc = 影裔神秘而强大的核心，似乎是其能量之源。
 
-ent-OrganShadekinCoreUndamaged = bright-eye core
+ent-OrganShadekinCoreUndamaged = 亮眼核心
 
-ent-SentientSlimeCore = sentient slime core
-    .desc = The source of incredible, unending gooeyness.
+ent-SentientSlimeCore = 智慧史莱姆核心
+    .desc = 不可思议且无穷无尽的黏糊之源。
 
-ent-OrganSlimeLungs = slime gas sacs
-    .desc = Collects nitrogen, which slime cells use for maintenance.
+ent-OrganSlimeLungs = 史莱姆气囊
+    .desc = 收集氮气，供史莱姆细胞维持生命活动。
 
-ent-OrganSlimeHeart = slime circulator
-    .desc = A little circulator what makes the fluid move through the slime body.
+ent-OrganSlimeHeart = 史莱姆循环器
+    .desc = 一个让液体在史莱姆体内流动的小型循环器。
 
-ent-OrganSlimePeepoids = peepoids
-    .desc = Primitive and goopy, but more or less just as good as the human equivalent.
+ent-OrganSlimePeepoids = 窥豆体
+    .desc = 原始又黏糊，但用起来大致不输人类器官。
 
-ent-OrganSlimeSlurpoid = slurpoid
-    .desc = It has all the consistency of gelatin.
+ent-OrganSlimeSlurpoid = 啜胶体
+    .desc = 从里到外都是明胶般的质感。
 
-ent-OrganThavenBrain = thaven brain
-    .desc = An organic positronic brain. Quite remarkable, really.
+ent-OrganThavenBrain = 塔文大脑
+    .desc = 一颗有机正电子脑，确实相当非凡。
 
-ent-OrganThavenEyes = thaven eyes
-    .desc = The eyes of a Thaven.
+ent-OrganThavenEyes = 塔文眼睛
+    .desc = 这是该物种的眼睛。
 
-ent-OrganVoxLungs = vox lungs
-    .desc = The blue, anaerobic lungs of a vox, they intake nitrogen to breathe. Any form of gaseous oxygen is lethally toxic if breathed in.
+ent-OrganVoxLungs = 沃克斯肺
+    .desc = 沃克斯蓝色的厌氧肺，以氮气呼吸，氧气则具有致命毒性。
 
-ent-OrganVoxStomach = vox stomach
-    .desc = A stomach that smells of ammonia.
+ent-OrganVoxStomach = 沃克斯胃
+    .desc = 散发着氨味的胃。
 
-ent-OrganVoxLiver = vox liver
-    .desc = Smells flammable.
+ent-OrganVoxLiver = 沃克斯肝脏
+    .desc = 闻起来一点就着。
 
-ent-OrganVoxHeart = vox heart
-    .desc = The strange heart of a vox.
+ent-OrganVoxHeart = 沃克斯心脏
+    .desc = 沃克斯的奇异心脏。
 
-ent-OrganVoxKidneys = vox kidneys
-    .desc = Smells flammable.
+ent-OrganVoxKidneys = 沃克斯肾脏
+    .desc = 闻起来一点就着。
 
-ent-OrganVoxEyes = vox eyes
+ent-OrganVoxEyes = 沃克斯眼睛
 
-ent-OrganVoxTongue = vox tongue
-    .desc = A fleshy muscle mostly used for screaming.
+ent-OrganVoxTongue = 沃克斯舌头
+    .desc = 一块主要用来尖叫的肉质肌肉。
 
-ent-PartAbductor = Abductor body part
+ent-PartAbductor = 绑架者身体部位
 
-ent-TorsoAbductor = Abductor torso
+ent-TorsoAbductor = 绑架者躯干
 
-ent-HeadAbductor = Abductor head
+ent-HeadAbductor = 绑架者头部
 
-ent-LeftArmAbductor = left Abductor arm
+ent-LeftArmAbductor = 左绑架者手臂
 
-ent-RightArmAbductor = right Abductor arm
+ent-RightArmAbductor = 右绑架者手臂
 
-ent-LeftHandAbductor = left Abductor hand
+ent-LeftHandAbductor = 左绑架者手
 
-ent-RightHandAbductor = right Abductor hand
+ent-RightHandAbductor = 右绑架者手
 
-ent-LeftLegAbductor = left Abductor leg
+ent-LeftLegAbductor = 左绑架者腿
 
-ent-RightLegAbductor = right Abductor leg
+ent-RightLegAbductor = 右绑架者腿
 
-ent-LeftFootAbductor = left Abductor foot
+ent-LeftFootAbductor = 左绑架者脚
 
-ent-RightFootAbductor = right Abductor foot
+ent-RightFootAbductor = 右绑架者脚
 
-ent-PartAnimal = animal body part
+ent-PartAnimal = 动物身体部位
 
-ent-HandsAnimal = animal hands
+ent-HandsAnimal = 动物手
 
-ent-LeftHandAnimal = left animal hand
+ent-LeftHandAnimal = 左动物手
 
-ent-RightHandAnimal = right animal hand
+ent-RightHandAnimal = 右动物手
 
-ent-LegsAnimal = animal legs
+ent-LegsAnimal = 动物腿
 
-ent-FeetAnimal = animal feet
+ent-FeetAnimal = 动物脚
 
-ent-TorsoAnimal = animal torso
+ent-TorsoAnimal = 动物躯干
 
-ent-HeadAnimal = animal head
+ent-HeadAnimal = 动物头部
 
-ent-LeftHandSmartCorgi = corgi hand
+ent-LeftHandSmartCorgi = 柯基手
 
-ent-RightHandSmartCorgi = corgi hand
+ent-RightHandSmartCorgi = 柯基手
 
-ent-LeftHandAdmemeCorgi = corgi hand
+ent-LeftHandAdmemeCorgi = 柯基手
 
-ent-RightHandAdmemeCorgi = corgi hand
+ent-RightHandAdmemeCorgi = 柯基手
 
-ent-PartArachnid = arachnid body part
+ent-PartArachnid = 蛛人身体部位
 
-ent-TorsoArachnid = arachnid torso
+ent-TorsoArachnid = 蛛人躯干
 
-ent-HeadArachnid = arachnid head
+ent-HeadArachnid = 蛛人头部
 
-ent-LeftArmArachnid = left arachnid arm
+ent-LeftArmArachnid = 左蛛人手臂
 
-ent-RightArmArachnid = right arachnid arm
+ent-RightArmArachnid = 右蛛人手臂
 
-ent-LeftHandArachnid = left arachnid hand
+ent-LeftHandArachnid = 左蛛人手
 
-ent-RightHandArachnid = right arachnid hand
+ent-RightHandArachnid = 右蛛人手
 
-ent-LeftLegArachnid = left arachnid leg
+ent-LeftLegArachnid = 左蛛人腿
 
-ent-RightLegArachnid = right arachnid leg
+ent-RightLegArachnid = 右蛛人腿
 
-ent-LeftFootArachnid = left arachnid foot
+ent-LeftFootArachnid = 左蛛人脚
 
-ent-RightFootArachnid = right arachnid foot
+ent-RightFootArachnid = 右蛛人脚
 
-ent-PartAvali = avali body part
+ent-PartAvali = 阿瓦利身体部位
 
-ent-TorsoAvali = avali torso
+ent-TorsoAvali = 阿瓦利躯干
 
-ent-HeadAvali = avali head
+ent-HeadAvali = 阿瓦利头部
 
-ent-LeftArmAvali = left avali arm
+ent-LeftArmAvali = 左阿瓦利手臂
 
-ent-RightArmAvali = right avali arm
+ent-RightArmAvali = 右阿瓦利手臂
 
-ent-LeftHandAvali = left avali hand
+ent-LeftHandAvali = 左阿瓦利手
 
-ent-RightHandAvali = right avali hand
+ent-RightHandAvali = 右阿瓦利手
 
-ent-LeftLegAvali = left avali leg
+ent-LeftLegAvali = 左阿瓦利腿
 
-ent-RightLegAvali = right avali leg
+ent-RightLegAvali = 右阿瓦利腿
 
-ent-LeftFootAvali = left avali foot
+ent-LeftFootAvali = 左阿瓦利脚
 
-ent-RightFootAvali = right avali foot
+ent-RightFootAvali = 右阿瓦利脚
 
-ent-BasePart = body part
+ent-BasePart = 身体部位
 
-ent-BaseTorso = torso
+ent-BaseTorso = 躯干
 
-ent-BaseHead = head
+ent-BaseHead = 头部
 
-ent-BaseLeftArm = left arm
+ent-BaseLeftArm = 左手臂
 
-ent-BaseRightArm = right arm
+ent-BaseRightArm = 右手臂
 
-ent-BaseLeftHand = left hand
+ent-BaseLeftHand = 左手
 
-ent-BaseRightHand = right hand
+ent-BaseRightHand = 右手
 
-ent-BaseLeftLeg = left leg
+ent-BaseLeftLeg = 左腿
 
-ent-BaseRightLeg = right leg
+ent-BaseRightLeg = 右腿
 
-ent-BaseLeftFoot = left foot
+ent-BaseLeftFoot = 左脚
 
-ent-BaseRightFoot = right foot
+ent-BaseRightFoot = 右脚
 
-ent-LeftArmCyber = left cyber arm
+ent-LeftArmCyber = 左赛博手臂
 
-ent-RightArmCyber = right cyber arm
+ent-RightArmCyber = 右赛博手臂
 
-ent-LeftHandCyber = left cyber hand
+ent-LeftHandCyber = 左赛博手
 
-ent-RightHandCyber = right cyber hand
+ent-RightHandCyber = 右赛博手
 
-ent-LeftLegCyberBase = left base cyber leg
+ent-LeftLegCyberBase = 左基础赛博腿
 
-ent-LeftLegCyber = left cyber leg
+ent-LeftLegCyber = 左赛博腿
 
-ent-LeftLegCyberBudget = left budget cyber leg
+ent-LeftLegCyberBudget = 左廉价赛博腿
 
-ent-RightLegCyberBase = right base cyber leg
+ent-RightLegCyberBase = 右基础赛博腿
 
-ent-RightLegCyber = right cyber leg
+ent-RightLegCyber = 右赛博腿
 
-ent-RightLegCyberBudget = right budget cyber leg
+ent-RightLegCyberBudget = 右廉价赛博腿
 
-ent-LeftFootCyber = left cyber foot
+ent-LeftFootCyber = 左赛博脚
 
-ent-RightFootCyber = right cyber foot
+ent-RightFootCyber = 右赛博脚
 
-ent-LeftLegCyberSpeed = left speed leg
-    .desc = Gotta Go Fast!
+ent-LeftLegCyberSpeed = 左疾速腿
+    .desc = 必须快起来！
 
-ent-RightLegCyberSpeed = right speed leg
-    .desc = Gotta Go Fast!
+ent-RightLegCyberSpeed = 右疾速腿
+    .desc = 必须快起来！
 
-ent-LeftArmCyberReaper = left reaper arm
-    .desc = Augmented arm for the surgeons of the modern age.
+ent-LeftArmCyberReaper = 左收割者手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberReaper = left reaper hand
-    .desc = Augmented hand for the surgeons of the modern age.
+ent-LeftHandCyberReaper = 左收割者手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberReaper = right reaper arm
-    .desc = Augmented arm for the surgeons of the modern age.
+ent-RightArmCyberReaper = 右收割者手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberReaper = right reaper hand
-    .desc = Augmented hand for the surgeons of the modern age.
+ent-RightHandCyberReaper = 右收割者手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberMechwright = left mechwright arm
-    .desc = Augmented arm for the tiders of the modern age.
+ent-LeftArmCyberMechwright = 左机械巧匠手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberMechwright = left mechwright hand
-    .desc = Augmented hand for the tiders of the modern age.
+ent-LeftHandCyberMechwright = 左机械巧匠手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberMechwright = right mechwright arm
-    .desc = Augmented arm for the tiders of the modern age.
+ent-RightArmCyberMechwright = 右机械巧匠手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberMechwright = right mechwright hand
-    .desc = Augmented hand for the tiders of the modern age.
+ent-RightHandCyberMechwright = 右机械巧匠手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberEngineer = left engineer arm
-    .desc = Augmented arm for the engineers of the modern age.
+ent-LeftArmCyberEngineer = 左工程师手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberEngineer = left engineer hand
-    .desc = Augmented hand for the engineers of the modern age.
+ent-LeftHandCyberEngineer = 左工程师手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberEngineer = right engineer arm
-    .desc = Augmented arm for the engineers of the modern age.
+ent-RightArmCyberEngineer = 右工程师手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberEngineer = right engineer hand
-    .desc = Augmented hand for the engineers of the modern age.
+ent-RightHandCyberEngineer = 右工程师手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberBulwark = left bulwark arm
+ent-LeftArmCyberBulwark = 左堡垒手臂
 
-ent-LeftHandCyberBulwark = left bulwark hand
+ent-LeftHandCyberBulwark = 左堡垒手
 
-ent-RightArmCyberBulwark = right bulwark arm
+ent-RightArmCyberBulwark = 右堡垒手臂
 
-ent-RightHandCyberBulwark = right bulwark hand
+ent-RightHandCyberBulwark = 右堡垒手
 
-ent-LeftArmCyberMantisBlade = left mantis blade arm
+ent-LeftArmCyberMantisBlade = 左螳螂刃手臂
 
-ent-LeftHandCyberMantisBlade = left mantis blade hand
+ent-LeftHandCyberMantisBlade = 左螳螂刃手
 
-ent-RightArmCyberMantisBlade = right mantis blade arm
+ent-RightArmCyberMantisBlade = 右螳螂刃手臂
 
-ent-RightHandCyberMantisBlade = right mantis blade hand
+ent-RightHandCyberMantisBlade = 右螳螂刃手
 
-ent-LeftArmCyberRipper = left ripperdoc arm
-    .desc = Augmented arm for the surgeons of the modern age.
+ent-LeftArmCyberRipper = 左开膛医师手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberRipper = left ripperdoc hand
-    .desc = Augmented hand for the surgeons of the modern age.
+ent-LeftHandCyberRipper = 左开膛医师手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberRipper = right ripperdoc arm
-    .desc = Augmented arm for the surgeons of the modern age.
+ent-RightArmCyberRipper = 右开膛医师手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberRipper = right ripperdoc hand
-    .desc = Augmented hand for the surgeons of the modern age.
+ent-RightHandCyberRipper = 右开膛医师手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberSpacer = left spacer arm
-    .desc = Augmented arm for the salvagers of the modern age.
+ent-LeftArmCyberSpacer = 左太空客手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberSpacer = left spacer hand
-    .desc = Augmented hand for the salvagers of the modern age.
+ent-LeftHandCyberSpacer = 左太空客手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberSpacer = right spacer arm
-    .desc = Augmented arm for the salvagers of the modern age.
+ent-RightArmCyberSpacer = 右太空客手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberSpacer = right spacer hand
-    .desc = Augmented hand for the salvagers of the modern age.
+ent-RightHandCyberSpacer = 右太空客手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberGorilla = left G.O.R.I.L.L.A arm
-    .desc = Augmented arm for the scientists of the modern age.
+ent-LeftArmCyberGorilla = 左大猩猩手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberGorilla = left G.O.R.I.L.L.A hand
-    .desc = Augmented hand for the scientists of the modern age.
+ent-LeftHandCyberGorilla = 左大猩猩手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberGorilla = right G.O.R.I.L.L.A arm
-    .desc = Augmented arm for the scientists of the modern age.
+ent-RightArmCyberGorilla = 右大猩猩手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberGorilla = right G.O.R.I.L.L.A hand
-    .desc = Augmented hand for the scientists of the modern age.
+ent-RightHandCyberGorilla = 右大猩猩手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberAngel = left angel arm
-    .desc = Augmented arm for the doctors of the modern age.
+ent-LeftArmCyberAngel = 左天使手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberAngel = left angel hand
-    .desc = Augmented hand for the doctors of the modern age.
+ent-LeftHandCyberAngel = 左天使手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberAngel = right angel arm
-    .desc = Augmented arm for the doctors of the modern age.
+ent-RightArmCyberAngel = 右天使手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberAngel = right angel hand
-    .desc = Augmented hand for the doctors of the modern age.
+ent-RightHandCyberAngel = 右天使手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberZeus = left zeus arm
+ent-LeftArmCyberZeus = 左宙斯手臂
 
-ent-LeftHandCyberZeus = left zeus hand
+ent-LeftHandCyberZeus = 左宙斯手
 
-ent-RightArmCyberZeus = right zeus arm
+ent-RightArmCyberZeus = 右宙斯手臂
 
-ent-RightHandCyberZeus = right zeus hand
+ent-RightHandCyberZeus = 右宙斯手
 
-ent-LeftArmCyberRiplet = left riplet arm
-    .desc = Augmented arm for the cargo techs of the modern age.
+ent-LeftArmCyberRiplet = 左撕裂者手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberRiplet = left riplet hand
-    .desc = Augmented hand for the cargo techs of the modern age.
+ent-LeftHandCyberRiplet = 左撕裂者手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberRiplet = right riplet arm
-    .desc = Augmented arm for the cargo techs of the modern age.
+ent-RightArmCyberRiplet = 右撕裂者手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberRiplet = right riplet hand
-    .desc = Augmented hand for the cargo techs of the modern age.
+ent-RightHandCyberRiplet = 右撕裂者手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberPersephone = left persephone arm
+ent-LeftArmCyberPersephone = 左珀耳塞福涅手臂
 
-ent-LeftHandCyberPersephone = left persephone hand
+ent-LeftHandCyberPersephone = 左珀耳塞福涅手
 
-ent-RightArmCyberPersephone = right persephone arm
+ent-RightArmCyberPersephone = 右珀耳塞福涅手臂
 
-ent-RightHandCyberPersephone = right persephone hand
+ent-RightHandCyberPersephone = 右珀耳塞福涅手
 
-ent-LeftArmCyberScribe = left scribe arm
-    .desc = Augmented arm for the bureaucrats of the modern age.
+ent-LeftArmCyberScribe = 左书记官手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-LeftHandCyberScribe = left scribe hand
-    .desc = Augmented hand for the bureaucrats of the modern age.
+ent-LeftHandCyberScribe = 左书记官手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-RightArmCyberScribe = right scribe arm
-    .desc = Augmented arm for the bureaucrats of the modern age.
+ent-RightArmCyberScribe = 右书记官手臂
+    .desc = 为现代专业人员打造的强化手臂。
 
-ent-RightHandCyberScribe = right scribe hand
-    .desc = Augmented hand for the bureaucrats of the modern age.
+ent-RightHandCyberScribe = 右书记官手
+    .desc = 为现代专业人员打造的强化手。
 
-ent-LeftArmCyberHerakles = left herakles arm
+ent-LeftArmCyberHerakles = 左赫拉克勒斯手臂
 
-ent-LeftHandCyberHerakles = left herakles hand
+ent-LeftHandCyberHerakles = 左赫拉克勒斯手
 
-ent-RightArmCyberHerakles = right herakles arm
+ent-RightArmCyberHerakles = 右赫拉克勒斯手臂
 
-ent-RightHandCyberHerakles = right herakles hand
+ent-RightHandCyberHerakles = 右赫拉克勒斯手
 
-ent-LeftArmCyberInvestigator = left investigator arm
+ent-LeftArmCyberInvestigator = 左调查员手臂
 
-ent-LeftHandCyberInvestigator = left investigator hand
+ent-LeftHandCyberInvestigator = 左调查员手
 
-ent-RightArmCyberInvestigator = right investigator arm
+ent-RightArmCyberInvestigator = 右调查员手臂
 
-ent-RightHandCyberInvestigator = right investigator hand
+ent-RightHandCyberInvestigator = 右调查员手
 
-ent-LeftLegCyberHydraulic = left hydraulic cyber leg
+ent-LeftLegCyberHydraulic = 左液压赛博腿
 
-ent-RightLegCyberHydraulic = right hydraulic cyber leg
+ent-RightLegCyberHydraulic = 右液压赛博腿
 
-ent-LeftLegCyberPilebunker = left pilebunker leg
+ent-LeftLegCyberPilebunker = 左打桩机腿
 
-ent-RightLegCyberPilebunker = right pilebunker leg
+ent-RightLegCyberPilebunker = 右打桩机腿
 
-ent-LeftLegCyberCargo = left cargo cyber leg
-    .desc = Wait a moment... This is just an older model of cyberleg someone strapped a pouch to!
+ent-LeftLegCyberCargo = 左货运赛博腿
+    .desc = 等等……这不就是有人在旧型号赛博腿上绑了个袋子吗！
 
-ent-RightLegCyberCargo = right cargo cyber leg
-    .desc = Wait a moment... This is just an older model of cyberleg someone strapped a pouch to!
+ent-RightLegCyberCargo = 右货运赛博腿
+    .desc = 等等……这不就是有人在旧型号赛博腿上绑了个袋子吗！
 
-ent-TorsoCyclorite = cyclorite torso
+ent-TorsoCyclorite = 赛克洛人躯干
 
-ent-HeadCyclorite = cyclorite head
+ent-HeadCyclorite = 赛克洛人头部
 
-ent-LeftArmCyclorite = left cyclorite arm
+ent-LeftArmCyclorite = 左赛克洛人手臂
 
-ent-RightArmCyclorite = right cyclorite arm
+ent-RightArmCyclorite = 右赛克洛人手臂
 
-ent-LeftHandCyclorite = left cyclorite hand
+ent-LeftHandCyclorite = 左赛克洛人手
 
-ent-RightHandCyclorite = right cyclorite hand
+ent-RightHandCyclorite = 右赛克洛人手
 
-ent-LeftLegCyclorite = left cyclorite leg
+ent-LeftLegCyclorite = 左赛克洛人腿
 
-ent-RightLegCyclorite = right cyclorite leg
+ent-RightLegCyclorite = 右赛克洛人腿
 
-ent-LeftFootCyclorite = left cyclorite foot
+ent-LeftFootCyclorite = 左赛克洛人脚
 
-ent-RightFootCyclorite = right cyclorite foot
+ent-RightFootCyclorite = 右赛克洛人脚
 
-ent-PartDiona = diona body part
+ent-PartDiona = 狄奥娜身体部位
 
-ent-TorsoDiona = diona torso
+ent-TorsoDiona = 狄奥娜躯干
 
-ent-HeadDiona = diona head
+ent-HeadDiona = 狄奥娜头部
 
-ent-LeftArmDiona = left diona arm
+ent-LeftArmDiona = 左狄奥娜手臂
 
-ent-RightArmDiona = right diona arm
+ent-RightArmDiona = 右狄奥娜手臂
 
-ent-LeftHandDiona = left diona hand
+ent-LeftHandDiona = 左狄奥娜手
 
-ent-RightHandDiona = right diona hand
+ent-RightHandDiona = 右狄奥娜手
 
-ent-LeftLegDiona = left diona leg
+ent-LeftLegDiona = 左狄奥娜腿
 
-ent-RightLegDiona = right diona leg
+ent-RightLegDiona = 右狄奥娜腿
 
-ent-LeftFootDiona = left diona foot
+ent-LeftFootDiona = 左狄奥娜脚
 
-ent-RightFootDiona = right diona foot
+ent-RightFootDiona = 右狄奥娜脚
 
-ent-PartElf = elf body part
+ent-PartElf = 精灵身体部位
 
-ent-TorsoElf = elf torso
+ent-TorsoElf = 精灵躯干
 
-ent-HeadElf = elf head
+ent-HeadElf = 精灵头部
 
-ent-LeftArmElf = left elf arm
+ent-LeftArmElf = 左精灵手臂
 
-ent-RightArmElf = right elf arm
+ent-RightArmElf = 右精灵手臂
 
-ent-LeftHandElf = left elf hand
+ent-LeftHandElf = 左精灵手
 
-ent-RightHandElf = right elf hand
+ent-RightHandElf = 右精灵手
 
-ent-LeftLegElf = left elf leg
+ent-LeftLegElf = 左精灵腿
 
-ent-RightLegElf = right elf leg
+ent-RightLegElf = 右精灵腿
 
-ent-LeftFootElf = left elf foot
+ent-LeftFootElf = 左精灵脚
 
-ent-RightFootElf = right elf foot
+ent-RightFootElf = 右精灵脚
 
-ent-TorsoFelionoid = felionoid torso
+ent-TorsoFelionoid = 猫科人躯干
 
-ent-HeadFelionoid = felionoid head
+ent-HeadFelionoid = 猫科人头部
 
-ent-LeftArmFelionoid = left felionoid arm
+ent-LeftArmFelionoid = 左猫科人手臂
 
-ent-RightArmFelionoid = right felionoid arm
+ent-RightArmFelionoid = 右猫科人手臂
 
-ent-LeftHandFelionoid = left felionoid hand
+ent-LeftHandFelionoid = 左猫科人手
 
-ent-RightHandFelionoid = right felionoid hand
+ent-RightHandFelionoid = 右猫科人手
 
-ent-LeftLegFelionoid = left felionoid leg
+ent-LeftLegFelionoid = 左猫科人腿
 
-ent-RightLegFelionoid = right felionoid leg
+ent-RightLegFelionoid = 右猫科人腿
 
-ent-LeftFootFelionoid = left felionoid foot
+ent-LeftFootFelionoid = 左猫科人脚
 
-ent-RightFootFelionoid = right felionoid foot
+ent-RightFootFelionoid = 右猫科人脚
 
-ent-PartGingerbread = gingerbread body part
+ent-PartGingerbread = 姜饼人身体部位
 
-ent-TorsoGingerbread = gingerbread torso
+ent-TorsoGingerbread = 姜饼人躯干
