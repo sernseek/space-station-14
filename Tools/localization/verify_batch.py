@@ -39,6 +39,8 @@ ALLOW_IDENTICAL = {
     "hud-chatbox-highlights-placeholder",  # 高亮词示例
     "player-tab-antag-prefix",      # 纯 emoji（🗡），必须与原文逐字节一致
     "humanoid-profile-editor-voice-play",  # 纯符号 ▶
+    "reagent-dispenser-window-eject-container-button",  # 纯图标 ⏏（20px 图标按钮）
+    "solar-control-window-degrees",  # 纯符号 °
 }
 
 # 术语违规扫描：(错误写法正则, 提示)
