@@ -1,0 +1,23 @@
+advertisement-boozeomat-1 = 希望没人叫我倒一杯该死的茶……
+advertisement-boozeomat-2 = 酒是人类的朋友。你会抛弃朋友吗？
+advertisement-boozeomat-3 = 很高兴为你服务！
+advertisement-boozeomat-4 = 这个空间站就没人渴吗？
+advertisement-boozeomat-5 = 喝起来！
+advertisement-boozeomat-6 = 酒有益健康！
+advertisement-boozeomat-7 = 酒是人类最好的朋友。
+advertisement-boozeomat-8 = 想来杯冰爽啤酒吗？
+advertisement-boozeomat-9 = 没什么比酒更能治愈你！
+advertisement-boozeomat-10 = 抿一口！
+advertisement-boozeomat-11 = 喝一杯！
+advertisement-boozeomat-12 = 来杯啤酒！
+advertisement-boozeomat-13 = 啤酒有益健康！
+advertisement-boozeomat-14 = 只卖最好的酒！
+advertisement-boozeomat-15 = 自 2053 年起，始终供应顶级美酒！
+advertisement-boozeomat-16 = 获奖葡萄酒！
+advertisement-boozeomat-17 = 酒精拉满！
+advertisement-boozeomat-18 = 男人爱啤酒。
+advertisement-boozeomat-19 = 为进步干杯！
+thankyou-boozeomat-1 = 请负责任地饮酒！
+thankyou-boozeomat-2 = 请不负责任地饮酒！
+thankyou-boozeomat-3 = 请尽情享用！
+

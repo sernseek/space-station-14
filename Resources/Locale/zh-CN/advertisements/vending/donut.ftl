@@ -1,0 +1,10 @@
+advertisement-donut-1 = 我们每个人心里都住着一个小警察！
+advertisement-donut-2 = 希望你饿了！
+advertisement-donut-3 = 已售出超过 100 万个甜甜圈！
+advertisement-donut-4 = 我们以产品始终如一为傲！
+advertisement-donut-5 = 香甜、多糖又美味！
+advertisement-donut-6 = 甜甜圈担心，开心点！
+thankyou-donut-1 = 请享用甜甜圈！
+thankyou-donut-2 = 又卖出一个甜甜圈！
+thankyou-donut-3 = 祝你今天愉快，干员！
+thankyou-donut-4 = 希望你会上瘾！

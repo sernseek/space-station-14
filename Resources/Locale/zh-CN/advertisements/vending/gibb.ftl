@@ -1,0 +1,12 @@
+advertisement-gibb-1 = 美味！
+advertisement-gibb-2 = 至少一位医师推荐！
+advertisement-gibb-3 = 销量超过 100 万杯！
+advertisement-gibb-4 = 吉布博士，最坏能坏到哪去？
+advertisement-gibb-5 = 吉布博士，味觉大爆炸！
+advertisement-gibb-6 = 相信我，我是医师！
+advertisement-gibb-7 = 银河系最棒的糖分注入！
+advertisement-gibb-8 = 太空可乐可以滚去碎尸！
+thankyou-gibb-1 = 博士就在……你的肚子里！
+thankyou-gibb-2 = 诊断结果：美味！
+thankyou-gibb-3 = 享受 42 种风味！
+thankyou-gibb-4 = 享受糖浆般的美妙！

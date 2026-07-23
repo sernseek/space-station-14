@@ -1,0 +1,12 @@
+advertisement-smite-1 = 天罚！封禁你的口渴！
+advertisement-smite-2 = 柠檬与青柠的邪术冲击！
+advertisement-smite-3 = 销量超过 100 万杯！
+advertisement-smite-4 = 天罚！掷 2d8 点风味。
+advertisement-smite-5 = 天罚！来把文书工作做完！
+advertisement-smite-6 = 清洁工盯上你了！
+advertisement-smite-7 = 天罚！不会把你灌醉。
+advertisement-smite-8 = 柠檬青柠时间到！
+thankyou-smite-1 = 天罚即正义！
+thankyou-smite-2 = 你绝对想要柠檬青柠味！
+thankyou-smite-3 = 办公室的人绝对反应不过来。
+thankyou-smite-4 = 放逐你的口渴。

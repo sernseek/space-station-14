@@ -1,0 +1,17 @@
+advertisement-medibot-1 = 这是什么医疗部？大家跟死苍蝇似的倒了一地。
+advertisement-medibot-2 = 我就知道，我当初应该去做整形医生。
+advertisement-medibot-3 = 凡事总有代价，而我是其中最出色的。
+advertisement-medibot-4 = 每天一苹果，医疗机器人远离我。
+advertisement-medibot-5 = 我与众不同！
+advertisement-medibot-6 = 去你的。
+advertisement-medibot-7 = 我们为什么还在这里？只是为了受苦吗？
+advertisement-medibot-8 = 我……我以前从没失去过患者。至少今天没有。
+advertisement-medibot-9 = 注入莱克索林。
+advertisement-medibot-10 = 祝你今天愉快！
+advertisement-medibot-11 = 希望你不用再回来！
+advertisement-medibot-12 = 记得刷牙。
+advertisement-medibot-13 = 真希望我有手。
+advertisement-medibot-14 = 我来帮忙！
+advertisement-medibot-15 = 找医师要根棒棒糖吧！
+advertisement-medibot-16 = 祝你早日康复！
+advertisement-medibot-17 = 每天一苹果，医师远离我！

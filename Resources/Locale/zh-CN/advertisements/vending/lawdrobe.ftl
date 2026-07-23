@@ -1,0 +1,14 @@
+advertisement-lawdrobe-1 = 反对！把法治穿到自己身上！
+advertisement-lawdrobe-2 = 去纠缠安保，直到他们遵守你定的规矩！
+advertisement-lawdrobe-3 = 新案子来了？快去把他们保出监狱！
+advertisement-lawdrobe-4 = 每天一甜甜圈，安保离你远！
+advertisement-lawdrobe-5 = 法律面前人人平等！
+advertisement-lawdrobe-6 = 不，干员，我不同意搜身！
+advertisement-lawdrobe-7 = 注射太空毒品不会留下证据！
+advertisement-lawdrobe-8 = 你或亲人被纳米传讯伤害了？真倒霉！
+advertisement-lawdrobe-9 = 结案！被告穿得太潮了！
+thankyou-lawdrobe-1 = 穿这身，你什么案子都能赢！
+thankyou-lawdrobe-2 = 也给你的委托人来一套！
+thankyou-lawdrobe-3 = 输赢无所谓，反正你都有钱拿！
+thankyou-lawdrobe-4 = 记住：没被抓到就不算违法！
+thankyou-lawdrobe-5 = 反对！这身衣服帅得不宜出庭！

@@ -1,0 +1,9 @@
+advertisement-sovietsoda-1 = 为了同志与祖国。
+advertisement-sovietsoda-2 = 你今天完成营养配额了吗？
+advertisement-sovietsoda-3 = 非常好！
+advertisement-sovietsoda-4 = 我们是朴素的人民，因为我们只有这些可吃。
+advertisement-sovietsoda-5 = 有人，就有问题。没人，就没问题。
+advertisement-sovietsoda-6 = 日常生活够用，对我们就够用！
+thankyou-sovietsoda-1 = 请享用，同志！
+thankyou-sovietsoda-2 = 现在回去工作。
+thankyou-sovietsoda-3 = 你只能拿到这些。

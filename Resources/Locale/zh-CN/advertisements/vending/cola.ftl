@@ -1,0 +1,12 @@
+advertisement-cola-1 = 清爽提神！
+advertisement-cola-2 = 希望你正口渴！
+advertisement-cola-3 = 销量超过 100 万杯！
+advertisement-cola-4 = 渴了？何不来杯可乐？
+advertisement-cola-5 = 请喝一杯！
+advertisement-cola-6 = 喝起来！
+advertisement-cola-7 = 银河系最棒的饮料！
+advertisement-cola-8 = 比吉布博士好喝多了！
+thankyou-cola-1 = 拉开罐子，好好享用！
+thankyou-cola-2 = 砰！口渴，吃我一招！
+thankyou-cola-3 = 希望你喜欢这味道！
+thankyou-cola-4 = 享用这杯糖分满满的饮料吧！

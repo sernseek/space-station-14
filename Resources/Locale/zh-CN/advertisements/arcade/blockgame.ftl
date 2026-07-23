@@ -1,0 +1,26 @@
+advertisement-block-game-1 = 法律意义上绝不雷同！
+advertisement-block-game-2 = T 旋到底是什么鬼？
+advertisement-block-game-3 = 这些方块可不会自己消掉！
+advertisement-block-game-4 = 哔哔啵啵！呜——啵！
+advertisement-block-game-5 = 来玩一局吧！
+advertisement-block-game-6 = 足足 6 种颜色的游戏体验！
+advertisement-block-game-7 = 火热的 8 位动作！
+advertisement-block-game-8 = 方块，方块，还是方块！
+advertisement-block-game-9 = 你觉得自己能拿下最高分吗？
+advertisement-block-game-10 = 纳米传讯方块游戏，就是 TetrISN'T！
+advertisement-block-game-11 = 现已支持爆炸处理！
+advertisement-block-game-12 = 我们的律师已严阵以待！
+advertisement-block-game-13 = 哈利路亚，天上下方块啦！
+
+thankyou-block-game-1 = 记得再来玩！
+thankyou-block-game-2 = 玩得漂亮！
+thankyou-block-game-3 = 再来一局？
+thankyou-block-game-4 = 这么快就不玩了？
+thankyou-block-game-5 = 方块们会想你的。
+thankyou-block-game-6 = 谢谢游玩！
+thankyou-block-game-7 = 早点回来！
+thankyou-block-game-8 = 哔——呜啵！
+thankyou-block-game-9 = 永远都有时间再玩一局！
+thankyou-block-game-10 = 现在可别放弃！
+thankyou-block-game-11 = 方块永远多得是！
+thankyou-block-game-12 = 方块们等你回来！

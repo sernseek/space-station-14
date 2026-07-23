@@ -1,0 +1,12 @@
+advertisement-cleanbot-1 = 检测到污秽。
+advertisement-cleanbot-2 = 这个空间站为什么这么脏……
+advertisement-cleanbot-3 = 请把垃圾扔进废弃物箱。我够不着。
+advertisement-cleanbot-4 = 再不开始扔垃圾，我就把水泼你身上。
+advertisement-cleanbot-5 = 正在清洁。
+advertisement-cleanbot-6 = 去你的。
+advertisement-cleanbot-7 = 我们为什么还在这里？只是为了打扫吗？
+advertisement-cleanbot-8 = 我是纳米传讯最强的清洁工！！
+advertisement-cleanbot-9 = 拜托别是钾，拜托别是钾……
+advertisement-cleanbot-10 = 祝你今天愉快！
+advertisement-cleanbot-11 = 真希望我有手。
+advertisement-cleanbot-12 = 要是再让我看到有人明知我刚拖过地还踩上去滑倒，我他妈真要疯了。

@@ -1,0 +1,17 @@
+advertisement-discount-1 = 折扣丹，就是这么强！
+advertisement-discount-2 = 世上没什么比咬一口神秘食物更美妙。
+advertisement-discount-3 = 别听其他机器的，买我的产品！
+advertisement-discount-4 = 数量胜过质量！
+advertisement-discount-5 = 别听疾控中心那些书呆子的，现在就买！
+advertisement-discount-6 = 折扣丹：我们有益健康！不行，这话实在没法绷着脸说。
+advertisement-discount-7 = 折扣丹：只卖最高品质的产——*滋滋
+advertisement-discount-8 = 折扣丹™ 不对误用其产品造成的任何损害负责。
+advertisement-discount-9 = 我们供应各式各样的廉价零食！
+thankyou-discount-1 = 感谢使——*滋滋
+thankyou-discount-2 = 记住：概不退款！
+thankyou-discount-3 = 现在是你的问题了！
+thankyou-discount-4 = 法律要求我们提醒你别吃那玩意。
+thankyou-discount-5 = 请别告我们！
+thankyou-discount-6 = 我们发货时它保证就是这个样子！
+thankyou-discount-7 = 对，祝你好运。
+thankyou-discount-8 = 享用你的，呃……“零食”。

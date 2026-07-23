@@ -1,0 +1,14 @@
+advertisement-happyhonk-1 = 呵叫！呵叫！今天何不点一份快乐呵叫餐？
+advertisement-happyhonk-2 = 小丑值得一个拥抱，见到小丑记得表达你的欣赏。
+advertisement-happyhonk-3 = 如果找到了黄金呵叫器，就向诸神祈祷吧，你真是个幸运儿。
+advertisement-happyhonk-4 = 快乐呵叫：一顿饭，一好价，还有让你尖叫的塑料玩具。
+advertisement-happyhonk-5 = 什么东西黑白相间又浑身通红？那个哑剧演员，她死于头部钝击伤。
+advertisement-happyhonk-6 = 逮捕你需要几名安保干员？三名：一名把你打死，一名给你戴铐，还有一名把尸体扔进维护通道。
+advertisement-happyhonk-7 = 快乐呵叫不对快乐呵叫餐盒内食品的质量负责。
+advertisement-happyhonk-8 = 何不来一份限量版哑剧快乐呵叫餐？
+advertisement-happyhonk-9 = 快乐呵叫是 Honk! 公司的商标，远胜强韧核弹特工食品公司。
+advertisement-happyhonk-10 = 快乐呵叫餐保证给你大惊喜！
+thankyou-happyhonk-1 = 呵叫！
+thankyou-happyhonk-2 = 呵叫呵叫！
+thankyou-happyhonk-3 = 去分享欢乐吧！呵叫！
+thankyou-happyhonk-4 = 去让别人滑倒吧！呵叫！

@@ -1,0 +1,11 @@
+advertisement-magivend-1 = 用魔法售货机，以正确姿势施法！
+advertisement-magivend-2 = 做自己的胡迪尼！快用魔法售货机！
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
+advertisement-magivend-5 = >MFW
+advertisement-magivend-6 = HONK!
+advertisement-magivend-7 = EI NATH
+advertisement-magivend-8 = 摧毁空间站！
+advertisement-magivend-9 = 扭曲时空的硬件！
+advertisement-magivend-10 = 1234 个疯子，笑死！
+advertisement-magivend-11 = NAR'SIE，崛起吧！！！
