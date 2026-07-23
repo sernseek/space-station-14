@@ -1,0 +1,51 @@
+<Document>
+# 空间站与班次
+
+SS14 的每个回合都是一个[bold]相互独立的班次[/bold]，发生在众多不同空间站中的一座上。
+
+回合通常持续[color=cyan]45 至 90 分钟[/color]，但玩家可以在回合进行期间随时离开或加入。
+
+## 穿梭机终端
+若你在班次进行到一半时加入，很可能会出生在[color=lime]穿梭机终端[/color]。
+你可以在这里取用饮料、与其他玩家交谈，并等待穿梭机将你送往空间站。
+
+墙上的屏幕会显示穿梭机预计抵达时间。
+穿梭机到达后，只需走进去便可前往空间站。
+
+务必留在终端内部，不要站在穿梭机着陆区。[color=#EB2D3A][bold]飞入的穿梭机会把你压扁[/bold][/color]
+
+## 导航
+每座空间站都有许多可以前往的地点。
+其中既有开展工作的特定部门，也有供你放松并与他人交谈的公共区域。
+
+<Box>
+  <GuideEntityEmbed Entity="StationMap"/>
+  <GuideEntityEmbed Entity="SignDirectionalDorms" Caption="方向指示牌"/>
+  <GuideEntityEmbed Entity="SignBridge" Caption="地点标志牌"/>
+</Box>
+
+[color=cyan]空间站地图[/color]会显示整个空间站的概览，并用不同颜色的标记注明各类地点。
+墙上的普通[color=cyan]指示牌[/color]可以指引你前往不同部门。
+
+## 离开空间站
+班次结束时[color=gray]（除非发生[color=red][bold]核灾难[/bold][/color]）[/color]，你会搭乘[color=lime]紧急撤离穿梭机[/color]离开空间站。
+呼叫穿梭机后，空间站会播放公告通知船员，并说明它将在[color=cyan]10 分钟后抵达。[/color]
+穿梭机抵达后，你需要赶到并登上穿梭机，然后在前往[bold]中央指挥部[/bold]的途中活下来。
+
+只有抵达[bold]中央指挥部[/bold]后，回合才会正式结束。
+
+<Box>
+  <GuideEntityEmbed Entity="CryogenicSleepUnit"/>
+</Box>
+
+如果需要提前退出回合，可以使用[color=lime]低温休眠舱[/color]。
+只需进入休眠舱再退出游戏，系统便会收存你的随身物品，确保其不会遭到偷窃或滥用。
+
+## 更多信息
+正在学习操作？[textlink="点击此处了解各种操作方式" link="Controls"]
+
+不知道如何履行职业职责？[textlink="点击此处查看部门列表" link="Jobs"]
+
+总是死掉？[textlink="点击此处查看生存指南" link="Survival"]
+
+</Document>

@@ -1,0 +1,15 @@
+<Document>
+  # 被动单向阀
+  被动单向阀是一种简单的单向阀，可防止气体逆向流动。
+  <Box>
+    <GuideEntityEmbed Entity="GasPassiveGate"/>
+  </Box>
+
+  阀门的输入端位于[color=red]红色[/color]圆圈一侧。
+  检查阀门时还会显示管道当前的流量。
+
+  它有许多用途，例如：
+  - 防止混合气体沿管道回流，污染纯净气体。
+  - 防止两个[textlink="管网" link="PipeNetworks"]之间的压力或温度变化向反方向传递。
+  - 无需使用[textlink="气体分析仪" link="AtmosTools"]，即可快速检查管网流量。
+</Document>

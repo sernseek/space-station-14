@@ -1,0 +1,55 @@
+<Document>
+  # 混合与过滤
+  气体混合器和过滤器是调整[textlink="管道网络" link="PipeNetworks"]内气体成分的重要工具。
+  <Box>
+    <GuideEntityEmbed Entity="GasMixer"/>
+    <GuideEntityEmbed Entity="GasFilter"/>
+  </Box>
+
+  ## 气体混合器
+  气体混合器用于在[textlink="管道网络。" link="PipeNetworks"]内按指定比例混合气体。
+  要为各种用途配制成分可控的混合气体，它必不可少。
+
+  如下所示，气体混合器有 3 个接口：2 个输入口和 1 个输出口：
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="主输入口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasMixer" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出口" Rotation="90"/>
+  </Box>
+<Box>
+  <GuideEntityEmbed Entity="GasPipeStraight" Caption="侧输入口"/>
+</Box>
+
+  即使某种输入气体不足，气体混合器仍会遵循所设定的混合比例。例如：
+  - 如果设定的混合气体为 22% 氧气和 78% 氮气，但没有可用的氧气，混合器将停止工作，直到有氧气可用。
+  - 如果有氧气，但其压力低于以设定压力配制正确混合气体所需的压力，混合器仍会进行混合，但输出压力会低于设定值。
+
+  气体混合器按压力而非 mol 数混合气体。如果气体温度不同，这可能引发问题。例如：
+  - 假设气体混合器需要以 1:2 的比例，在某个指定压力下混合氧气与氮气。
+  - 此时氮气的温度是氧气的两倍。
+  - 温度更高的气体压力更高，因此同体积内的 mol 数少于氧气。
+  - 因此，当气体混合器尝试配制混合气体时，氮气的 mol 数将只有氧气的一半。
+  - 最终输出比例将是 1:1，而非 1:2。每 1 mol 氧气只会对应 1 mol 氮气，而不是 2 mol 氮气。
+
+  气体混合器用途广泛，例如：
+  - 混合氧气与氮气，制造可呼吸的大气
+  - 混合氧气与等离子体，燃烧等离子体以制造氚
+
+  ## 气体过滤器
+  气体过滤器用于从[textlink="管道网络。" link="PipeNetworks"]内的混合气体中分离气体。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输入口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasFilter" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出口" Rotation="90"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="过滤输出口"/>
+  </Box>
+
+  如果任一输出口堵塞，气体过滤器就会阻塞并停止过滤气体。
+
+  气体过滤器用途广泛，例如：
+  - 从[textlink="管道网络" link="PipeNetworks"]中过滤不需要的气体
+  - 分离特定气体，存入空间站的回收气体网络
+</Document>

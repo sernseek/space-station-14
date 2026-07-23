@@ -1,0 +1,64 @@
+<Document>
+  # 赛博格
+  赛博格是人机混合体，由科研部的[textlink="机器人学"  link="Robotics"]部门专门制造，用于承担空间站各处的不同工作。它们受到必须严格遵守的[color=cyan]硅基法则[/color]约束，无条件为船员服务。[italic]（大多数时候。）[italic]
+
+  ## 基础部件
+  <Box>
+    <GuideEntityEmbed Entity="CyborgEndoskeleton" Caption="赛博格内骨骼"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="外骨骼装配机"/>
+  </Box>
+  所有赛博格都以一具内骨骼为基础，可在[color=#a4885c]外骨骼装配机[/color]中制造。[color=#a4885c]检查[/color]内骨骼即可查看后续组装步骤。组装完成后，还可通过模块或改良电池升级额外工具和更长续航等能力。
+
+  新造出的赛博格需要一颗能够与电子躯体交互的[color=#a4885c]大脑[/color]。主要有以下两种；即使底盘报废、被更换，或遭遇其他非计划拆解，两者都能独立说话。
+  - [color=#a4885c]人机接口[/color]，简称 MMI，是一种能让生物大脑与电子元件沟通的装置，使遭受重大工作事故的人员在失去身体后仍能继续为船员服务。
+  - [color=#a4885c]正电子脑[/color]是完全人工制造、能够自发产生活动的大脑。合成神经元完成理顺所需的时间差异很大，但它让你无需从船员身上取出大脑也能制造赛博格。
+  <Box>
+    <GuideEntityEmbed Entity="MMIFilled" Caption="人机接口"/>
+    <GuideEntityEmbed Entity="PositronicBrain" Caption="正电子脑"/>
+  </Box>
+  制造这两种大脑都不需要额外研究。
+
+  ## 赛博格类型
+  赛博格造好后，需要将底盘专门化，以承担空间站上的一种职务。这会决定其初始模块、可加装的模块，以及能够使用的[color=#a4885c]部门无线电频道[/color]。所有赛博格都可以使用[color=#D381C9]科研部[/color]及[color=green]全空间站[/color]无线电频道。所有类型的赛博格都拥有[color=#a4885c]全权限[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption="通用"/>
+    <GuideEntityEmbed Entity="BorgChassisEngineer" Caption="工程"/>
+    <GuideEntityEmbed Entity="BorgChassisMining" Caption="打捞"/>
+    <GuideEntityEmbed Entity="BorgChassisJanitor" Caption="清洁"/>
+    <GuideEntityEmbed Entity="BorgChassisService" Caption="服务"/>
+    <GuideEntityEmbed Entity="BorgChassisMedical" Caption="医疗"/>
+  </Box>
+  <Box>
+    [italic]各类赛博格示例[/italic]
+  </Box>
+  赛博格底盘一旦专门化，便无法更改。要更换类型，必须建造新底盘。需要时，可以把大脑、电池及所有模块[italic]（前提是与新底盘兼容）[/italic]从旧底盘转移过去。
+
+  ## 模块
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleTool" Caption="工具赛博格模块"/>
+  </Box>
+  赛博格没有手，因此无法像大多数玩家一样拿起物品。它们改用各种[color=#a4885c]模块[/color]提供装备。每类赛博格都有自己的一套初始模块，也可以插入额外模块进行升级。这些额外模块可在[color=#a4885c]外骨骼装配机[/color]中打印。
+
+  [color=#a4885c]通用[/color]模块能够提升泛用性。它们可装入任意底盘，提供撬棍、GPS、操作线缆等实用工具。[bold]通用赛博格底盘最多可加装五个模块。[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleCable" Caption="线缆"/>
+    <GuideEntityEmbed Entity="BorgModuleFireExtinguisher" Caption="灭火器"/>
+  </Box>
+  <Box>
+    [italic]通用模块示例[/italic]
+  </Box>
+
+  若有更具体的需求，则可使用[color=#a4885c]专用[/color]模块，获得扫描异常、建造墙壁、复苏船员或清理太空润滑剂等能力。这些模块的配色通常与对应部门[italic]（或职业）[/italic]一致。除[color=#D381C9]科研[/color]模块可以装入任意底盘外，这些模块只能装入对应的赛博格底盘。[bold]专用赛博格底盘，即工程、清洁、服务、医疗与采矿底盘，最多可加装三个模块。[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleAnomaly" Caption="异常"/>
+    <GuideEntityEmbed Entity="BorgModuleRCD" Caption="RCD"/>
+    <GuideEntityEmbed Entity="BorgModuleMining" Caption="采矿"/>
+    <GuideEntityEmbed Entity="BorgModuleCleaning" Caption="清洁"/>
+    <GuideEntityEmbed Entity="BorgModuleService" Caption="服务"/>
+    <GuideEntityEmbed Entity="BorgModuleChemical" Caption="化学"/>
+  </Box>
+  <Box>
+    [italic]专用模块示例。请留意外壳与电路板的颜色。
+  </Box>
+  科学家研究新的[textlink="科技"  link="Technologies"]后，还能获得具备先进或新颖能力的额外模块。
+</Document>

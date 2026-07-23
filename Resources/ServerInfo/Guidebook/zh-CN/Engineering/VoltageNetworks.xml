@@ -1,0 +1,95 @@
+<Document>
+  # 电压网络
+  在 Space Station 14 中，配电系统分为三个相互独立的电压网络。
+  它们分别是[color=green]低压[/color]网络、[color=Yellow]中压[/color]网络和[color=orange]高压[/color]网络。
+
+  这些网络为站内不同类型的机械供电。
+
+  <Box>
+    <GuideEntityEmbed Entity="CableHVStack"/>
+    <GuideEntityEmbed Entity="CableMVStack"/>
+    <GuideEntityEmbed Entity="CableApcStack"/>
+  </Box>
+
+  ## 低压网络
+  [color=green]低压[/color]网络用于为空间站上几乎所有小型机械供电，包括灯具、计算机及其他小型设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="PoweredSmallLight" Caption=""/>
+    <GuideEntityEmbed Entity="ComputerShuttleCargo" Caption=""/>
+    <GuideEntityEmbed Entity="ComputerComms" Caption=""/>
+    <GuideEntityEmbed Entity="Autolathe" Caption=""/>
+    <GuideEntityEmbed Entity="VendingMachineEngivend" Caption=""/>
+    <GuideEntityEmbed Entity="VendingMachineMedical" Caption=""/>
+    <GuideEntityEmbed Entity="AlwaysPoweredWallLight" Caption=""/>
+  </Box>
+
+  [color=green]低压[/color]电力由 APC 提供。APC 是一种壁挂设备，可将[color=Yellow]中压[/color]网络的电力转换为[color=green]低压[/color]电力。
+
+  <Box>
+    <GuideEntityEmbed Entity="APCBasic"/>
+  </Box>
+
+  [color=green]低压[/color]电线无需直接铺设到每台机械旁；只要距离机械足够近，一根电线就能为多台机械供电。
+  它可以为径向 2 个地块以内，以及四个正方向上 3 个地块以内的机械供电。
+
+  ## 中压网络
+  [color=Yellow]中压[/color]网络用于为 APC 及其他只能接受[color=Yellow]中压[/color]电力的高耗能机械供电。
+  粒子加速器就是一个例子，它使用[color=Yellow]中压[/color]电力运行。
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorControlBox" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorFuelChamber" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="CableMV" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorPowerBox" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterStarboard" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterFore" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterPort" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    [color=#999999][italic]粒子加速器[italic][/color]
+  </Box>
+
+  [color=Yellow]中压[/color]电力由变电站提供。变电站是一种大型机械，可将[color=Orange]高压[/color]网络的电力转换为[color=Yellow]中压[/color]电力。
+
+  变电站还有适用于穿梭机等狭小空间的壁挂型号。
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="SubstationBasic"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="SubstationWallBasic"/>
+    </Box>
+  </Box>
+
+  ## 高压网络
+  [color=Orange]高压[/color]网络用于在空间站内输送大量电力，并为 SMES 和变电站等大多数电力处理设备供电。
+
+  大多数高输出发电机都会将电力输出至[color=Orange]高压[/color]网络。
+
+  <Box>
+    <GuideEntityEmbed Entity="SMESBasic"/>
+    <GuideEntityEmbed Entity="RadiationCollector"/>
+    <GuideEntityEmbed Entity="TeslaCoil"/>
+    <GuideEntityEmbed Entity="SubstationBasic"/>
+  </Box>
+
+  ## 电击伤害
+  如果被带电线缆电击，你会受到伤害。伤害量取决于线缆的电压。
+
+  [color=green]低压[/color]线缆造成的伤害低于[color=Yellow]中压[/color]线缆，后者造成的伤害又低于[color=Orange]高压[/color]线缆。
+
+  通电的[color=Orange]高压[/color]和[color=Yellow]中压[/color]线缆会造成伤害，因此进行相关作业时务必佩戴绝缘手套。
+
+</Document>

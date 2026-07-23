@@ -1,0 +1,65 @@
+<Document>
+  # 空气警报器
+  空气警报器是一种设备，可集中监控和控制与其连接的所有相关大气设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirAlarm"/>
+  </Box>
+
+  大气技师可以使用空气警报器快速高效地管理指定区域的大气环境。
+
+  房间的墙上通常会安装空气警报器，便于快速控制房间内的多台设备。
+
+  如何连接设备，请参阅[textlink="连接" link="Networking"]指南。
+
+  ## 用户界面
+  与空气警报器互动会打开一个分为 3 个部分的菜单：
+  - 顶部：空气警报器的当前状态，包括其所监控区域的当前压力和温度。
+  - 中部：列出已连接的[textlink="通风口" link="AirVent"]、[textlink="空气洗涤器" link="AirScrubber"]，以及所有向空气警报器回报数据的传感器。
+  - 底部：用于控制空气警报器运行模式的按钮，以及自动切换模式的开关。
+
+  ## 警报状态
+  空气警报器会通过设备指示灯的颜色，迅速传达其所监控区域的状态：
+  - [color=green]正常[/color]：该区域可以安全呼吸。
+  - [color=yellow]警告[/color]：该区域正开始偏离理想大气环境，并逐渐变得不安全。
+  - [color=red]危险[/color]：该区域已不再安全，需要使用内部供气和／或硬壳服。
+
+  当状态达到[color=Red]危险[/color]时，空气警报器会自动降下（关闭）已连接的[textlink="防火闸" link="FireAndGasControl"]。
+  当状态恢复为[color=green]正常[/color]时，这些[textlink="防火闸" link="FireAndGasControl"]会自动升起（打开）。
+
+  空气警报器会为三种状态分别输出[textlink="信号" link="Networking"]；状态变化时，可以用这些信号触发其他[textlink="信号" link="Networking"]设备。
+
+  ## 传感器
+  所有[textlink="通风口" link="AirVent"]和[textlink="空气洗涤器" link="AirScrubber"]都内置传感器，会向空气警报器回报数据。
+  这些传感器可在空气警报器菜单的[bold]传感器[/bold]选项卡中调整。
+
+  空气警报器的状态直接由各传感器的阈值决定。
+  如果传感器报告的压力、温度或气体成分超出设定阈值，空气警报器就会相应改变状态。
+
+  你可以按需调整或禁用这些阈值。
+  例如，如果你监控的房间本来就温度较低（如冷冻库）或较高（如燃烧室），可以调整温度阈值，使其符合预期数值。
+
+  你也可以建造空气传感器，并将其[textlink="连接" link="Networking"]到空气警报器。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirSensor"/>
+  </Box>
+
+  这适合用于监控尚未安装通风口或洗涤器的区域。
+
+  ## 运行模式
+  为便于快速控制已连接设备，空气警报器提供多种运行模式，可迅速改变所有已连接设备的行为，以达到预期效果。
+  - 无：禁用与空气警报器连接的所有设备。
+  - 过滤：启用[textlink="通风口" link="AirVent"]，并将其外部压力上限设为标准大气压。启用[textlink="空气洗涤器" link="AirScrubber"]，正常洗涤所有废气。
+  - 过滤（宽域）：与过滤模式相同，但所有已连接的[textlink="空气洗涤器" link="AirScrubber"]都会启用宽域模式。
+  - 填充：启用[textlink="通风口" link="AirVent"]，并将其外部压力上限设为最大压力 [color=orange][protodata="GasVentPump" comp="GasVentPump" member="MaxPressure"/] kPa[/color]。禁用[textlink="空气洗涤器" link="AirScrubber"]。
+  - 紧急抽气：禁用[textlink="通风口" link="AirVent"]，并将[textlink="空气洗涤器" link="AirScrubber"]设为虹吸模式。
+
+  空气警报器会根据所监控区域的当前状态，在过滤与过滤（宽域）模式之间自动切换。
+  - 如果区域达到或超过[color=red]危险[/color]状态，空气警报器会切换至过滤（宽域）模式。
+  - 如果区域达到[color=green]正常[/color]或[color=yellow]警告[/color]状态，空气警报器会切换至过滤模式。
+
+  你可以关闭空气警报器菜单底部的“自动”复选框，禁用此行为。
+
+  关于如何修复[textlink="失压" link="Spacing"]和[textlink="火灾" link="Fires"]，请参阅相应指南中的实用提示。
+</Document>

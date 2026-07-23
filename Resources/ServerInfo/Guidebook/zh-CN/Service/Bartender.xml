@@ -1,0 +1,28 @@
+<Document>
+# 酒保
+酒保的工作十分简单：供应饮品。人们会来找你点单，而你要做的就是把他们要的饮品递过去。
+
+[textlink="点击此处查看完整饮品清单。" link="Drinks"]
+
+<Box>
+制作这些饮品的材料可在多处找到：
+</Box>
+<Box>
+<GuideEntityEmbed Entity="BoozeDispenser"/>
+<GuideEntityEmbed Entity="SodaDispenser"/>
+<GuideEntityEmbed Entity="VendingMachineBooze"/>
+</Box>
+
+<Box>
+别忘了准备盛装饮品的容器！
+</Box>
+<Box>
+<GuideEntityEmbed Entity="DrinkGlass" Caption="玻璃杯"/>
+<GuideEntityEmbed Entity="DrinkGlassCoupeShaped"/>
+<GuideEntityEmbed Entity="DrinkShotGlass"/>
+<GuideEntityEmbed Entity="DrinkShaker"/>
+<GuideEntityEmbed Entity="DrinkJigger"/>
+</Box>
+
+所有可点饮品的清单可在“参考表”条目中找到。
+</Document>

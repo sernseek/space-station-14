@@ -1,0 +1,64 @@
+<Document>
+  # 机器人学
+  科研团队能够制造多种独特机器人，以满足空间站的需求。首先，你需要研究[color=#a4885c]机器人学[/color]科技。
+
+  ## 外骨骼制造机
+<Box>
+<GuideEntityEmbed Entity="ExosuitFabricator" Caption="外骨骼制造机"/>
+</Box>
+  你会在[color=#a4885c]外骨骼制造机[/color]上打印大部分造物零件，例如：
+  - [textlink="赛博格" link="Cyborgs"]肢体
+  - 机甲零件与设备
+  - 接近传感器
+
+  外骨骼制造机的操作方式与空间站上的其他车床相同：点击制造机打开 UI，再点击想要打印的零件图标即可。
+  - 没有配方？点击 UI 上的[color=#a4885c]同步[/color]按钮，检查是否有新蓝图。如果依然什么也没有，可能是因为尚未研究相关科技！
+  - 如果配方显示为灰色，通常是材料不足。手持材料（[color=#99A3A4]钢[/color]、[color=#ECF0F1]塑料[/color]或[color=#AED6F1]玻璃[/color]）点击制造机，即可加入新材料。
+
+  每座空间站开局默认配有完整的机器人设备；研究[color=#a4885c]机器人学[/color]科技后，还可制作相应电路板，再造一台制造机。
+
+  ## 机器人
+<Box>
+<GuideEntityEmbed Entity="MobCleanBot" Caption="清洁机器人"/>
+<GuideEntityEmbed Entity="MobMedibot" Caption="医疗机器人"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="MobHonkBot" Caption="呵叫机器人"/>
+<GuideEntityEmbed Entity="MobMimeBot" Caption="哑剧机器人"/>
+</Box>
+  [color=#a4885c]机器人[/color]是小巧简单的自动机械，可以执行清洁等简单任务。它们不使用蓄电池，但十分脆弱。制造它们需要外骨骼制造机生产的零件。
+
+  要制造机器人，打开[color=#a4885c]建造菜单[/color]，前往“实用工具”分类（或直接搜索“机器人”），即可看到全部配方。组装时，把配方列出的零件放在身边并点击[color=#a4885c]建造[/color]；几秒后，崭新的硅基仆从便会出现在你的脚边！
+
+  ## 机甲
+<Box>
+<GuideEntityEmbed Entity="MechRipley" Caption="雷普利 APLU"/>
+<GuideEntityEmbed Entity="MechHonker" Caption="H.O.N.K."/>
+<GuideEntityEmbed Entity="MechHamtr" Caption="HAMTR"/>
+<GuideEntityEmbed Entity="MechVim" Caption="Vim"/>
+</Box>
+  [color=#a4885c]机甲[/color]是钢铁巨兽，各型号分别为不同功能而设计。它们由玩家驾驶，并需要蓄电池供能。
+
+  每种机甲都需要独有的一套肢体和零件。这些零件与其他零件一样，可在外骨骼制造机上生产；但所需的[color=#a4885c]电路板[/color]例外，它们由[color=#a4885c]电路板打印机[/color]制造。该设备通常位于[textlink="科研部" link="Science"]。
+<Box>
+<GuideEntityEmbed Entity="RipleyCentralElectronics" Caption="雷普利中央控制模块"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="RipleyPeripheralsElectronics" Caption="雷普利外设控制模块"/>
+</Box>
+
+  例如，制造雷普利机甲必须同时使用上面两块电路板，而且它们不能用于制造其他机甲。
+
+  要开始制造机甲，先在制造机中打印骨架并装入肢体。所有肢体安装就位后，你可以[color=#a4885c]检查[/color]骨架，查看后续建造步骤。
+  - 底盘组装完成后，每种机甲都需要以某种组合使用线缆、工具和独有电路板来完成建造。多数机甲需要两块或更多独有电路板。例如，[color=#a4885c]雷普利[/color]机甲需要一块[color=#a4885c]雷普利控制模块[/color]电路板和一块[color=#a4885c]雷普利外设模块[/color]电路板。
+  - 制造机甲需要大量材料——缺少材料时，记得向其他科学家和货运部人员求助！
+  - Vim 外骨骼需要一对赛博格腿、一顶普通或辛迪加 EVA 头盔，再加一个语音触发器和一块蓄电池。
+
+  ## 设备
+    没有专用工具的机甲只是一大块昂贵金属。设备与其他零件一样，可以在制造机上生产。
+<Box>
+<GuideEntityEmbed Entity="MechEquipmentGrabber" Caption="以液压钳为例。"/>
+</Box>
+  - 要安装设备，只需手持设备点击机甲。
+  - 要使用设备，执行“切换设备”动作，直到装备好所需工具。
+</Document>

@@ -1,0 +1,76 @@
+<Document>
+  # 气闸门升级
+  总会有些胆大妄为的人试图摆弄气闸门内部线路，借此绕过门禁。
+
+  好在可以为气闸门安装一些反制措施，给潜在入侵者制造麻烦。
+
+  ## 中等安保气闸门
+  最基本的防入侵措施，是安装加固钢板，阻止他人接触气闸门的内部线路。
+
+  将基础气闸门升级为中等安保气闸门，需要以下材料：
+  <Box HorizontalAlignment="Stretch">
+	  <Box>
+		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 张钢板"/>
+	  </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="螺丝刀"/>
+	  </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Welder" Caption="焊接工具"/>
+	  </Box>
+  </Box>
+
+  升级基础气闸门：
+  -	用螺丝刀打开气闸门维护面板。
+  -	将钢板放入气闸门。
+  -	把钢板焊接到位。
+  -	用螺丝刀关闭维护面板。
+
+  ## 高等安保气闸门
+  对于通往空间站敏感区域的气闸门，建议采用更强的防护措施。高等安保气闸门配有强化装甲板，可保护内部线路。
+
+  将中等安保气闸门升级为高等安保气闸门，需要以下材料：
+  <Box HorizontalAlignment="Stretch">
+	  <Box>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 张塑钢板"/>
+	  </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="螺丝刀"/>
+	  </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Welder" Caption="焊接工具"/>
+	  </Box>
+  </Box>
+
+  升级中等安保气闸门：
+  - 用螺丝刀打开气闸门维护面板。
+  - 将塑钢板放入气闸门。
+  - 把塑钢板焊接到位。
+  - 用螺丝刀关闭维护面板。
+
+  ## 最高安保气闸门
+  你也可以选择把高等安保气闸门升级为最高安保气闸门。除其他防护外，最高安保气闸门还附加一层通电金属网，可以电击任何试图擅自改动气闸门的未授权人员。
+
+  将高等安保气闸门升级为最高安保气闸门，需要以下材料：
+  <Box HorizontalAlignment="Stretch">
+	  <Box>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 张塑钢板"/>
+	  </Box>
+    <Box>
+      <GuideEntityEmbed Entity="PartRodMetal" Caption="2 根金属棒"/>
+    </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="螺丝刀"/>
+	  </Box>
+	  <Box>
+		  <GuideEntityEmbed Entity="Welder" Caption="焊接工具"/>
+	  </Box>
+  </Box>
+
+  升级高等安保气闸门：
+  -	用螺丝刀打开气闸门维护面板。
+  -	将塑钢板放入气闸门。
+  -	把塑钢板焊接到位。
+  - 将金属棒放入气闸门。
+  -	用螺丝刀关闭维护面板。
+</Document>

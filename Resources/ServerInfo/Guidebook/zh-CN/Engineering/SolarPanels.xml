@@ -1,0 +1,112 @@
+<Document>
+  # 太阳能板
+  太阳能板是低维护的被动电源，利用照射而来的阳光发电。
+
+  它是一种可再生电源，可在空间站电网中补充发电机的供电。
+  这一点非常实用：大多数发电机都会以某种方式消耗某类燃料，而太阳能板可以免费发电。
+
+  <Box>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanel"/>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+  </Box>
+
+  ## 发电
+  太阳能板的发电量取决于其相对太阳的角度，以及是否被其他物体遮挡。
+
+  因此，你可能看到部分太阳能板产生 0 W 电力，而其他太阳能板的发电量高得多。
+  这是因为空间站遮住了部分太阳能板，不必过分担心。
+  大多数空间站在各个方向都设有太阳能阵列，因此总会有一些阵列正在发电。
+
+  普通太阳能板正对太阳且没有物体遮挡时，可以产生[color=orange][protodata="SolarPanel" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color]电力。
+
+  太阳能板产生[color=orange]高压电力[/color]，因此下方必须铺设[color=orange]高压线缆[/color]，才能接入空间站电网。
+
+  ## 电力过渡
+  乍看之下，太阳能板似乎是多余的电源。
+  毕竟，空间站中央已经有一个巨大的黑洞。
+  既然能利用它，为什么还要设置太阳能？
+
+  出于以下原因，最好在启动[textlink="反物质引擎" link="AME"]的同时设置太阳能：
+  - 与单独使用[textlink="反物质引擎" link="AME"]相比，同时运行太阳能板能显著延长空间站电池的续航时间，为工程师争取更多时间设置大型电源。
+  - 运行太阳能板可以减轻电网中其他发电设备的负载。例如，如果太阳能阵列足以满足空间站一半的用电需求，其他引擎的负载就会相应降低，从而减少燃料消耗。
+
+
+  ## 调整太阳能板
+  空间站环绕恒星运行，因此太阳在太空中的位置会随时间变化。
+  太阳能板必须直指太阳才能高效发电，也必须随时间移动以跟上太阳的位置。
+
+  可以通过太阳能控制计算机调整太阳能板朝向。
+  <Box>
+    <GuideEntityEmbed Entity="ComputerSolarControl"/>
+  </Box>
+
+  你也可以调整太阳能板追踪太阳时的转动速率。
+
+  太阳绕空间站移动的速率每个班次都会变化，因此请测定太阳位置变化所需的时间，并相应调整速率。
+
+  太阳能控制计算机还会报告太阳能板产生的总功率。
+
+  ## 建造
+
+  对太阳能组件使用两张玻璃板，即可建造太阳能板。
+  <Box>
+    <GuideEntityEmbed Entity="SolarAssembly" Caption=""/>
+    <GuideEntityEmbed Entity="SheetGlass10" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+  </Box>
+
+  可以从货运部购买太阳能组件。
+
+  ## 修理
+  太阳能板有时会受损，需要修理。
+
+  <Box>
+    <GuideEntityEmbed Entity="SolarPanelBroken"/>
+  </Box>
+
+  使用撬棍撬出太阳能板中的碎玻璃。
+  将碎玻璃焊成玻璃板，再用其制作新的太阳能板。
+
+  <Box>
+    <GuideEntityEmbed Entity="SolarPanelBroken" Caption=""/>
+    <GuideEntityEmbed Entity="Crowbar" Caption=""/>
+    <GuideEntityEmbed Entity="ShardGlass" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Welder" Caption=""/>
+    <GuideEntityEmbed Entity="SheetGlass10" Caption=""/>
+    <GuideEntityEmbed Entity="SolarAssembly" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+  </Box>
+
+  ## 设置太阳能阵列
+  太阳能阵列通常位于空间站外部，用于为空间站产生大量免费电力。
+
+  你可以从外部进行太空行走抵达阵列，也可以绕行空间站维护通道前往。
+  太阳能阵列机房通常设有标志，并由工程部门禁保护。
+  <Box>
+    <GuideEntityEmbed Entity="SignDirectionalSolar" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockEngineering" Caption=""/>
+  </Box>
+
+  班次开始时，太阳能板朝向不正确，也未接入电网。
+  你需要校准朝向并将其接入空间站电网，才能开始发电。
+
+  通常需要从太阳能阵列机房向太阳能板铺设一条[color=orange]高压线缆[/color]，再使用太阳能控制计算机校准太阳能板。
+
+  太阳能阵列机房附近通常设有太阳能控制计算机，以及一台用于储存阵列所发电力、供稍后使用的[textlink="SMES" link="PowerStorage"]。
+
+  ## 升级太阳能板
+  可以升级太阳能板，提高其输出功率。
+
+  <Box>
+    <GuideEntityEmbed Entity="SolarPanelPlasma" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanelUranium" Caption=""/>
+  </Box>
+
+  将太阳能组件内的玻璃板换成等离子玻璃板或铀玻璃板，即可完成升级。
+
+  等离子太阳能板与铀太阳能板分别产生[color=orange][protodata="SolarPanelPlasma" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color]和[color=orange][protodata="SolarPanelUranium" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color]电力。
+  它们也比普通太阳能板坚固得多。
+</Document>

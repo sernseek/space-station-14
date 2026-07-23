@@ -1,0 +1,53 @@
+<Document>
+# 药剂师
+你可真会选，偏偏挑了这个必须做“数学题”的职业。拿上烧杯，搬把椅子坐好，开工配药吧。
+
+药剂师主要负责制造药物，但可制备的化学品种类非常丰富，指南手册的“化学品”条目中列出了所有化学品。
+
+[textlink="点击此处查看完整化学品列表。" link="Chemicals"]
+
+关于自动化学品生产，请参阅[textlink="化工管线" link="Plumbing"]。
+
+## 设备：
+
+  <Box>
+    <GuideEntityEmbed Entity="ChemDispenser"/>
+    <GuideEntityEmbed Entity="ChemBag"/>
+    <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
+    <GuideEntityEmbed Entity="ChemMaster"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="LargeBeaker"/>
+    <GuideEntityEmbed Entity="ChemistryEmptyBottle01"/>
+    <GuideEntityEmbed Entity="HandLabeler"/>
+    <GuideEntityEmbed Entity="Syringe"/>
+    <GuideEntityEmbed Entity="PillCanister"/>
+  </Box>
+
+## 基础操作：
+了解大致流程后，化学其实相当简单。下面是一套简单的入门步骤。
+
+- 拿取一个烧杯、一个药丸罐，并按需拿取一些药瓶。
+- 将烧杯放入化学品分配器，将药丸罐（或药瓶）放入化学大师。
+- 打开化学品分配器界面并配制混合物。配方可在指南手册的其他章节中查阅。
+- Alt+单击分配器取出烧杯，再将其放入化学大师。
+- 打开化学大师界面。在“输入”选项卡中，将混合物移入缓冲区。
+- 切换到“输出”选项卡，自定义药丸，然后按下“创建”按钮。
+- Alt+单击化学大师取出药丸瓶。你可能需要先取出烧杯。
+- 如有需要，单击桌子、板条箱或其他表面倒空药丸瓶。你也可以将其存入或倒入其他储物容器。
+
+大功告成，你的第一批药丸已经做好了！接下来可以询问医师和其他船员还需要什么，补充医疗区仓库里的医疗包，或者自行尝试新配方！
+
+你也可以使用手持标签机整理单独的药瓶或袋子，无需使用化学大师的标签系统。
+
+## 额外内容：
+
+说到实验，化学领域还有几种有趣的玩意可供使用。这个职业需要不断试错，不过这些东西值得一提！至于能用它们造出什么，就由你来探索了。
+
+  <Box>
+    <GuideEntityEmbed Entity="ModularGrenade"/>
+    <GuideEntityEmbed Entity="CableApcStack"/>
+    <GuideEntityEmbed Entity="ChemicalPayload"/>
+    <GuideEntityEmbed Entity="TimerTrigger"/>
+  </Box>
+</Document>

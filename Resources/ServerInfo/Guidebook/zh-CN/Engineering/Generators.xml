@@ -1,0 +1,86 @@
+<Document>
+  # 发电机
+  发电机是为空间站生产电力的设备。它们的尺寸和输出功率各异，每种都有独特特性和使用要求。
+
+  工程师应在班次开始时设置太阳能阵列和反物质引擎等初级发电机，以便留出足够时间设置奇点引擎等高级发电机，为班次余下时间持续供电。
+
+  <Box>
+    <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
+    <GuideEntityEmbed Entity="TeslaGenerator" Caption=""/>
+  </Box>
+  <Box>
+    ## 奇点与特斯拉引擎
+  </Box>
+  <Box>
+    [color=#999999][italic]可产生无限能源——也拥有无限破坏潜力的设备[italic][/color]
+  </Box>
+
+  <Box>
+	  <GuideEntityEmbed Entity="NuclearReactorNormal" Caption="" Scale="1.5"/>
+	  <GuideEntityEmbed Entity="GasTurbineNormal" Caption="" Scale="1.5"/>
+  </Box>
+  <Box>
+    ## 核能发电机
+  </Box>
+  <Box>
+    [color=#999999][italic]利用核裂变能量为空间站供电。[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="AmeController" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+  <Box>
+    ## 反物质引擎
+  </Box>
+  <Box>
+    [color=#999999][italic]为空间站提供短期辅助供电的发电机[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="TegCirculator" Rotation="180" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="TegCenter" Rotation="90" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="TegCirculator" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    ## 热电发电机
+  </Box>
+  <Box>
+    [color=#999999][italic]利用气体能量的高级大气发电机[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+    <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
+  </Box>
+  <Box>
+    ## 太阳能板
+  </Box>
+  <Box>
+    [color=#999999][italic]维护需求低的被动电源[italic][/color]
+  </Box>
+
+
+  <Box>
+    <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="" />
+    <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="" />
+    <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="" />
+  </Box>
+  <Box>
+    ## 便携式发电机
+  </Box>
+  <Box>
+    [color=#999999][italic]供船员使用及紧急供电的便携式发电机[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="GeneratorRTG" Caption="" />
+  </Box>
+  <Box>
+    ## 放射性同位素热电发电机
+  </Box>
+  <Box>
+    [color=#999999][italic]无需维护的被动电源[italic][/color]
+  </Box>
+</Document>

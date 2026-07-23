@@ -1,0 +1,17 @@
+<Document>
+# 预先批准材料清单
+
+本预先批准材料清单[bold]并不[/bold]意味着你必须订购其中的物品，而是表示可以省略[italic]物品申请表[/italic]或部门领料单。
+
+你仍须考虑空间站的需求与货运部的预算。
+
+<Box>
+	以下物品视为基础材料：
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="SheetSteel"/>
+	<GuideEntityEmbed Entity="SheetPlastic"/>
+	<GuideEntityEmbed Entity="SheetGlass"/>
+	<GuideEntityEmbed Entity="MaterialCloth"/>
+</Box>
+</Document>

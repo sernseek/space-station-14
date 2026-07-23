@@ -1,0 +1,52 @@
+<Document>
+  # 丧尸
+
+  <Box>
+    [color=#999999][italic]“他们来抓你了，芭芭拉！”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="SignBiohazard" Caption=""/>
+  </Box>
+
+  丧尸是转化型敌对角色，会通过撕咬使所有生物感染[color=#7e916e]罗梅罗尔[/color]。这是一种致命的传染性病毒，若不加以控制，很容易蔓延。
+
+  <Box>
+    <GuideReagentEmbed Reagent="Romerol"/>
+  </Box>
+
+  ## 最初感染者
+  你是零号病人。[color=#7e916e]罗梅罗尔[/color]正在你的血管中流淌，而你强烈渴望把它分享给目之所及的每一个血肉生物。
+
+  得知自己感染后，[italic]一切规则都不再重要[/italic]。你变异前的时间所剩无几，而你希望[bold]尽可能提高占领空间站的成功率。[/bold]
+  利用这段时间准备武器、装备与陷阱。[italic]《太空法》现在对你毫无意义。[/italic]
+
+  ## 传播
+  丧尸只会蹒跚行走、撕咬，以及用身体冲撞路障。厚重的衣物可能使其撕咬[bold]无法每次都传播[color=#7e916e]罗梅罗尔[/color][/bold]，但肯定还是很疼。
+
+  不死者还可以啃咬濒危或死亡的尸体，将其[bold]立即转化[/bold]为丧尸。
+
+  ## 丧尸特征
+  丧尸可通过深绿色皮肤、红眼、行动迟缓、腐烂气味与运动机能丧失加以辨认。转化时，他们会掉落耳机和手套，手铐也挡不住其凶狠撕咬。
+
+  丧尸以[bold]耐受切割、钝击、毒素与寒冷伤害[/bold]著称。他们可以在真空中生存，也不需要食物、水、空气或睡眠。然而，不死者会[italic]受到更高的灼烧与电击伤害。[/italic]
+
+  ## 生存
+  当感染席卷全站、[color=#cb0000]安保部[/color]也已沦陷时，[bold]幸存者[/bold]只能设法抵达中央指挥部。
+
+  在部门周围[bold]修筑路障[/bold]或[bold]锁死门扉[/bold]，可以争取足够时间制作武器、拯救生命或拟订计划。
+
+  切记，当局势彻底失控时，只要不以其他幸存者为代价，[italic]就得采取一切必要手段[/italic]。从没能活下来的人身上搜集所需物资。
+
+  ## 治疗
+  [bold]已经成为不死者的人只能通过[color=red]死亡[/color]得到“治愈”。[/bold]
+
+  如果你已经感染但尚未丧尸化，使用[color=#86caf7]安布唑[/color]可以治愈感染，但不能防止再次感染。[color=#1274b5]安布唑加强剂[/color]可以治愈并防止再次感染，但仅在目标尚且存活时有效。
+
+  <Box>
+    <GuideReagentEmbed Reagent="Ambuzol"/>
+  </Box>
+  <Box>
+    <GuideReagentEmbed Reagent="AmbuzolPlus"/>
+  </Box>
+
+</Document>

@@ -1,0 +1,194 @@
+<Document>
+  # 打捞
+
+  [color=cyan]打捞[/color]是货运部重要、同时也最危险的收入来源之一。打捞工作从[color=cyan]太空残骸[/color]和神秘的[color=cyan]采矿小行星[/color]中获取财富。
+
+  太空深处虽然危机四伏，但只要准备充分、协调得当，任何打捞队都能为货运部赚取大笔收入。
+
+  ## 准备工作
+
+  离开空间站前，请确保所有必要装备都已备齐，否则你很可能还没见到收益就先送命了！
+
+  <Box>
+    <GuideEntityEmbed Entity="SuitStorageSalv"/>
+    <GuideEntityEmbed Entity="LockerSalvageSpecialist"/>
+    <GuideEntityEmbed Entity="VendingMachineSalvage"/>
+  </Box>
+
+  打捞区的初始房间内备有离站前所需的一切。科研部虽能研究更好的武器装备，但穿上初始装备总比毫无防护强。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSpatio"/>
+    <GuideEntityEmbed Entity="ClothingShoesBootsMag"/>
+    <GuideEntityEmbed Entity="VendingMachineTankDispenserEVA"/>
+  </Box>
+
+  你最基本的装备是一套 EVA 配装。
+
+  - [color=cyan]太空员硬壳服[/color]：让你能在太空中存活。[italic]记得启动头盔才能呼吸，并打开内置手电筒[/italic]。
+  - [color=cyan]磁力靴[/color]：探索太空残骸时提供重力效果，并防止滑倒。
+  - [color=cyan]氧气／氮气[/color]：根据物种，你需要[color=cyan]氮气[/color]（拉斯比与沃克斯）或[color=cyan]氧气[/color]（其他所有物种）。[color=cyan]储气罐分配器[/color]备有所有所需气罐，请多带一些。
+
+  <Box>
+    <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
+  </Box>
+
+  所有打捞专员都必须携带武器，以备抵御敌对生物。
+
+  - [color=cyan]原型动能加速器[/color]：这种枪弹药无限，可用于缓慢采矿并在太空中移动。科研部能打印升级件，提高其伤害、射程和循环速度。
+
+  <Box>
+    <GuideEntityEmbed Entity="Pickaxe"/>
+    <GuideEntityEmbed Entity="OreBag"/>
+  </Box>
+
+  严格来说，只用 PKA 和背包也能采矿并收集矿石，但打捞专员开局拥有更专业的装备。
+
+  - [color=cyan]镐[/color]：双手持握后，以合理速度采矿所必需的工具，也是一件趁手的近战武器！
+  - [color=cyan]矿石袋[/color]：装备在腰带栏时会磁吸附近的矿石，并自动拾取。
+
+  <Box>
+    <GuideEntityEmbed Entity="FireExtinguisher"/>
+    <GuideEntityEmbed Entity="WeaponGrapplingGun"/>
+    <GuideEntityEmbed Entity="SalvagePDA"/>
+    <GuideEntityEmbed Entity="ComputerRadar"/>
+  </Box>
+
+  之后虽能获得更先进的交通方式，但开局只能使用较朴素的手段。
+
+  - [color=cyan]灭火器[/color]：穷人的喷气背包。在太空中，可利用灭火器的后坐力向相反方向推进。任何液体都能为其补充。
+  - [color=cyan]抓钩枪[/color]：潜力无限的移动工具。像普通枪械一样发射，装填即可收回。钩住物体后，单击[color=yellow][bold][keybind="UseSecondary"][/bold][/color]将自己拉过去。
+  - [color=cyan]打捞 PDA[/color]：PDA 初始安装 AstroNav GPS 程序，拿在手中即可当作 GPS。出发前务必记下空间站坐标！
+  - [color=cyan]质量扫描计算机[/color]：以俯视图显示空间站和太空中的附近实体。出发前用它再次确认残骸或小行星的位置与方向。
+
+  <Box>
+    <GuideEntityEmbed Entity="RadioHandheld"/>
+    <GuideEntityEmbed Entity="HandheldGPSBasic"/>
+    <GuideEntityEmbed Entity="ClothingBeltUtilityFilled"/>
+  </Box>
+
+  打捞区还有一些有用但非必需的装备。
+
+  - [color=cyan]手持无线电[/color]：即使普通无线电通信中断，也能与其他打捞专员联络。
+  - [color=cyan]全球定位系统[/color]：备用 GPS，与 PDA 预装版本相同，适合作为后备或交给新入职的打捞专员。
+  - [color=cyan]工具腰带[/color]：装有从打捞废墟和采矿小行星拆取机器等所需的全部工具。不打算采矿时请佩戴它。
+
+  ## 打捞磁铁牵引
+
+  准备完毕后，就该探索群星了。
+
+  <Box>
+    <GuideEntityEmbed Entity="SalvageMagnet"/>
+  </Box>
+
+  [color=cyan]打捞磁铁[/color]是一台将太空残骸牵引到附近太空的机器。
+
+  打捞磁铁会给出五个选项，由[color=cyan]小行星[/color]、[color=cyan]打捞废墟[/color]与[color=cyan]太空残骸[/color]随机混合组成。选择后，目标区块会被牵引并维持[bold]6 分钟[/bold]；时间结束时，牵引网格上剩余的战利品都会消失。若没有中意选项且未作选择，列表每[bold]3 分钟[/bold]刷新一次。
+
+  在这 6 分钟内飞往牵引网格，尽可能搜刮所有收益，再返回空间站。
+
+### 小行星
+
+  <Box>
+    <GuideEntityEmbed Entity="Pickaxe"/>
+    <GuideEntityEmbed Entity="OreBag"/>
+    <GuideEntityEmbed Entity="OreProcessor"/>
+  </Box>
+
+  打捞磁铁会显示小行星上的资源类型，帮助你根据空间站当前需求决定优先级。小行星上没有敌对生物，因此相对安全——但绝非毫无危险……
+
+  你只需四处飞行，用[color=cyan]镐[/color]和[color=cyan]矿石袋[/color]采集矿石。收集完毕后，可通过[color=cyan]矿石处理机[/color]精炼成材料。
+
+  小心脚下——看似普通的岩石中藏有[color=red]吉布顿矿[/color]，稍受扰动便会爆炸。
+
+### 太空残骸
+
+  <Box>
+    <GuideEntityEmbed Entity="Wrench"/>
+    <GuideEntityEmbed Entity="FireExtinguisher"/>
+    <GuideEntityEmbed Entity="Recycler"/>
+  </Box>
+
+  [color=cyan]太空残骸[/color]用途广泛，可提供班次初期紧缺的重要基础材料（钢、玻璃等）。物品和废料散落其上，必须逐一收集。可以拖着残骸上的储物柜或板条箱，方便储存。
+
+  残骸遍布威胁。嗜血的[color=red]太空鲤鱼[/color]和[color=red]鲨鱼鲦[/color]盘踞其中，会扑向靠近的打捞专员。残骸上偶尔还有[color=red]地雷[/color]，足以令粗心的探索者失去行动能力。
+
+  返回后，将发现的废料放入部门的[color=cyan]回收机[/color]转化为实用材料，再交给货运部分发。若找到[color=yellow]硬币、戒指、手表[/color]等贵重品，请交给货运部，在[color=cyan]自动贸易站[/color]出售获利。
+
+  ### 打捞废墟
+
+  <Box>
+    <GuideEntityEmbed Entity="SurvivalKnife"/>
+    <GuideEntityEmbed Entity="Fulton"/>
+    <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
+  </Box>
+
+  打捞磁铁会显示废墟大小。打捞废墟的危险与价值差异极大，威胁种类通常比[color=cyan]太空残骸[/color]更多。与敌人保持距离，并用[color=cyan]原型动能加速器[/color]射击。留意贵重战利品和机器，用[color=cyan]估价工具[/color]检查价值。
+
+  ## 发展与升级
+
+  初始装备足以完成基础工作，但高级装备能显著降低难度，并让你有能力挑战可怕的[color=red]采矿小行星[/color]。
+
+  ### 打捞任务板
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerSalvageJobBoard"/>
+  </Box>
+
+  [color=cyan]打捞任务板[/color]位于打捞舱，是打捞部门版本的[color=cyan]货运悬赏计算机[/color]。打捞专员可提交指定的打捞材料，赚取 spesos 并解锁[color=yellow]高级打捞装备[/color]。
+
+  收集齐任务物资后，打印[color=cyan]打捞任务货运标签[/color]，贴在装有货物的板条箱或储物柜上。可用[color=cyan]估价工具[/color]再次确认货物已可出售。随后将准备好的悬赏货物送至[color=cyan]自动贸易站[/color]，即可赚取货运 spesos，并在[color=cyan]货运请求计算机[/color]中解锁新的打捞专用板条箱。
+
+  <Box>
+    <GuideEntityEmbed Entity="Fulton1"/>
+    <GuideEntityEmbed Entity="WeaponCrusher"/>
+    <GuideEntityEmbed Entity="SeismicCharge"/>
+  </Box>
+
+  完成打捞任务会提升等级，并在[color=cyan]货运请求计算机[/color]中解锁新装备：
+
+  - [color=cyan]富尔顿装置[/color]：与富尔顿信标连接后，可安装到未固定的板条箱或机器等结构上，稍等片刻便会传送回信标。搬运物品和人员都极其方便。
+  - [color=cyan]粉碎者武器[/color]：供打捞专员购买的一系列强化近战武器。[color=red]粉碎者匕首[/color]是生存刀的升级版，可自动挥砍，速度远快于普通刀。[color=red]粉碎者[/color]与升级版[color=red]粉碎者长柄刀[/color]是巨型长柄武器，双手持握时能发射特殊弹丸。弹丸本身不造成伤害，但若及时近战攻击被标记的敌人，就能吸取其生命治疗自己。所有粉碎者武器都内置探照灯。
+  - [color=cyan]地震炸药[/color]：用于破碎小行星或炸开危险废墟的采矿炸药。请记住，可将其连接至遥控起爆器，或设为贴上墙壁后开始倒计时，以便更安全地爆破。
+
+  ### 与科研部合作
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineScientist"/>
+    <GuideEntityEmbed Entity="ResearchDisk"/>
+  </Box>
+
+  [color=purple]科研部[/color]是打捞工作的重要伙伴。科研部依靠打捞获取基础材料（钢、塑料、玻璃）和高级材料（银、金、等离子体、铀），打捞部门则依靠科研部提供提高工作效率的升级装备。
+
+  尽可能与科研部沟通，并优先满足其需求。科研部需要大量基础材料，更完全依赖你们供应[color=yellow]金、银和铀[/color]；这些材料也是制造高级打捞装备所必需的。想让科研部帮助你，就得先帮助他们，反之亦然。
+
+  <Box>
+    <GuideEntityEmbed Entity="MiningDrill"/>
+    <GuideEntityEmbed Entity="HandHeldMassScanner"/>
+    <GuideEntityEmbed Entity="PKAUpgradeRange"/>
+  </Box>
+
+  科研部是多种实用装备的唯一来源，包括：
+
+  - [color=cyan]采矿装备[/color]：科研部能提供[color=yellow]采矿钻机和矿物扫描仪[/color]，让采矿更快更轻松。他们还能建造[color=yellow]工业矿石处理机[/color]，以更高效率将矿石加工成成品材料。
+  - [color=cyan]手持质量扫描仪[/color]：便携式质量扫描计算机。虽然需要电池，但能让你在太空中随时查看自身位置。
+  - [color=cyan]PKA 升级件[/color]：可从三类升级中选择最多两种不同升级装到 PKA 上：[color=red]伤害[/color]、[color=yellow]射速[/color]和[color=green]射程[/color]。
+
+  ## 采矿小行星
+
+  熟练掌握打捞磁铁后，遥远的[color=red]采矿小行星[/color]就是打捞专员旅程的下一站。前往那里通常需要穿梭机或喷气背包；内部极其危险，通常不应独自探索。
+
+  <Box>
+    <GuideEntityEmbed Entity="MobGoliath"/>
+    <GuideEntityEmbed Entity="MobHivelord"/>
+    <GuideEntityEmbed Entity="MobBasilisk"/>
+  </Box>
+
+  采矿小行星分为两部分：[color=cyan]地牢[/color]是随机生成、遍布敌人与材料战利品的建筑；[color=cyan]小行星[/color]则蕴藏巨量矿产，其间散布着战利品与怪物。
+
+  务必提防采矿小行星上的怪物，它们远比废墟和残骸上的威胁强大。
+
+  - [color=cyan]歌利亚[/color]：庞然巨兽，能用扭动的触须使目标失去行动能力，再以巨爪和利齿撕碎毫无还手之力的猎物。它们很难击倒，但可屠宰获得珍贵的[color=cyan]歌利亚皮甲片[/color]，用于完成打捞任务和升级太空员硬壳服。
+  - [color=cyan]蜂巢领主[/color]：行动快速且难以预测的异常生物。它们喜欢保持距离作战，喷出小型[color=cyan]蜂巢领主幼体[/color]围攻打捞专员。其本身并不耐打，请迅速伏击，别让它召出淹没你的大群幼体。屠宰后可获得迅速腐烂的[color=cyan]蜂巢领主核心[/color]，既可完成打捞任务，也可生吃以快速治疗。
+  - [color=cyan]蛇怪[/color]：潜伏在阴影中的冰封恐魔。蛇怪会发射冰冻能量弹，伤害并减速目标，通常先借此削弱猎物再上前击杀。将其击败并屠宰，可获得价值极高的[color=cyan]钻石矿石[/color]。
+</Document>

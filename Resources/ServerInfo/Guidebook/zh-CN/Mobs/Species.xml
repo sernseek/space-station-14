@@ -1,0 +1,36 @@
+<Document>
+  # 物种
+
+  纳米传讯雇用了多种智慧物种。
+
+<!-- Starlight start, reorganizing all of this alphabetically-->
+  <Box>
+  <GuideEntityEmbed Entity="AppearanceElf" Caption="艾利希"/>
+  <GuideEntityEmbed Entity="AppearanceArachnid" Caption="蛛人"/>
+  <GuideEntityEmbed Entity="AppearanceAvali" Caption="阿瓦利"/>
+  <GuideEntityEmbed Entity="AppearanceCyclorite" Caption="赛克洛莱特"/>
+  <GuideEntityEmbed Entity="AppearanceDiona" Caption="狄奥娜"/>
+  <GuideEntityEmbed Entity="AppearanceDwarf" Caption="矮人"/>
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="AppearanceFelionoid" Caption="猫人"/>
+  <GuideEntityEmbed Entity="AppearanceHuman" Caption="人类"/>
+  <GuideEntityEmbed Entity="AppearanceLagomorph" Caption="兔形人"/>
+  <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="拉斯比"/>
+  <GuideEntityEmbed Entity="AppearanceMoth" Caption="蛾人"/>
+  <GuideEntityEmbed Entity="AppearanceResomi" Caption="雷索米"/>
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="AppearanceReptilian" Caption="蜥蜴人"/>
+  <GuideEntityEmbed Entity="AppearanceRodentia" Caption="啮齿人"/>
+  <GuideEntityEmbed Entity="AppearanceShadekin" Caption="影裔"/>
+  <GuideEntityEmbed Entity="AppearanceThaven" Caption="萨文"/>
+  <GuideEntityEmbed Entity="AppearanceVox" Caption="沃克斯"/>
+  <GuideEntityEmbed Entity="AppearanceVulpkanin" Caption="伏尔卡宁"/>
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="AppearanceProtogen" Caption="原型兽"/> <!--FH-->
+  <GuideEntityEmbed Entity="AppearanceIPC" Caption="IPC"/> <!--FH-->
+  </Box>
+<!-- Starlight end, reorganizing all of this alphabetically-->
+</Document>

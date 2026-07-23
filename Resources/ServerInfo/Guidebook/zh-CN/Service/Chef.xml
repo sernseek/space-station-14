@@ -1,0 +1,75 @@
+<Document>
+# 厨师
+人总得吃饭，而厨师的职责就是确保大家不必只能拿垃圾果腹。
+
+
+[textlink="单击此处查看食物配方列表。" link="FoodRecipes"]
+
+首先，你需要熟悉厨房以及可用的工具。
+
+<Box>
+<GuideEntityEmbed Entity="KitchenKnife"/>
+<GuideEntityEmbed Entity="LargeBeaker"/>
+<GuideEntityEmbed Entity="ReagentContainerFlour"/>
+<GuideEntityEmbed Entity="FoodContainerEgg"/>
+<GuideEntityEmbed Entity="MobCow"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="VendingMachineChefvend" Caption="厨师自动售货机"/>
+<GuideEntityEmbed Entity="KitchenMicrowave"/>
+<GuideEntityEmbed Entity="KitchenSpike"/>
+<GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="餐具自动售货机"/>
+</Box>
+
+## 厨房准备：
+
+很难在介绍厨师玩法时不让人觉得是在发号施令，不过这里有一些基础事项。
+
+- 查看手头有哪些食材。大多数厨房一开始都有面粉、大米、鸡蛋、猴子方块，以及少量其他食材。
+- 在烧杯中混合水与面粉，试着揉些面团。（记得用水槽！）
+- 查阅 Wiki（或“食物配方”指南手册），寻找想做的菜肴；把列出的全部食材放入微波炉，烹制成餐点。
+- 布置捕鼠夹。没错，真有必要。如果不预防鼠患，你的辛苦成果很容易一扫而空。
+
+积累一些经验并熟悉可制作的菜肴后，最好拟定几份菜单或“速查表”，这样便能把食材清单交给植物学家。
+
+## 制作面团：
+在烧杯中加入面粉与水。（使用水槽取水！）
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker"/>
+<GuideEntityEmbed Entity="ReagentContainerFlour"/>
+<GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="水"/>
+<GuideEntityEmbed Entity="FoodDough"/>
+</Box>
+## 制作面粉：
+将小麦放入研磨机（机器内要放一个烧杯），然后研磨！
+<Box>
+<GuideEntityEmbed Entity="KitchenReagentGrinder"/>
+<GuideEntityEmbed Entity="LargeBeaker"/>
+<GuideEntityEmbed Entity="WheatBushel"/>
+<GuideEntityEmbed Entity="ReagentContainerFlour"/>
+</Box>
+## 获取植物：
+向植物学家索取所需作物。如果没有植物学家，你可能需要亲自种植更多植物。
+<Box>
+<GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
+<GuideEntityEmbed Entity="hydroponicsTray"/>
+<GuideEntityEmbed Entity="WheatBushel"/>
+</Box>
+## 收集牛奶：
+手持容器时用 Alt+单击奶牛。（烧杯、水桶、牛奶壶等均可。）
+<Box>
+<GuideEntityEmbed Entity="Bucket"/>
+<GuideEntityEmbed Entity="MobCow"/>
+<GuideEntityEmbed Entity="DrinkMilkCarton"/>
+</Box>
+## 如何屠宰：
+大多数情况下，你可以直接对死亡生物使用刀具。最好在冷冻室里处理，因为产物会……很凌乱。
+
+不过，猴子（以及其他人形生物）必须拖到肉钩上才能屠宰。
+<Box>
+<GuideEntityEmbed Entity="KitchenSpike"/>
+<GuideEntityEmbed Entity="KitchenKnife"/>
+<GuideEntityEmbed Entity="MobMonkey"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+</Box>
+</Document>

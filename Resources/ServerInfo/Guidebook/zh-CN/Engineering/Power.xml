@@ -1,0 +1,35 @@
+<Document>
+  # 电力
+  电力是空间站的命脉。
+  没有电力，空间站很快就会陷入混乱。
+  工程师负责维护空间站电网，确保电力得到供应与分配，并满足各部门的需求。
+
+  <Box>
+    <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
+    <GuideEntityEmbed Entity="TeslaGenerator" Caption=""/>
+    <GuideEntityEmbed Entity="AmeController" Caption=""/>
+    <GuideEntityEmbed Entity="SMESBasic" Caption=""/>
+    <GuideEntityEmbed Entity="SubstationBasic" Caption=""/>
+    <GuideEntityEmbed Entity="APCBasic" Caption=""/>
+  </Box>
+
+  Space Station 14 的电力系统模拟及工程部预期玩法包含许多不同方面。
+
+  请牢记以下重要信息：
+  - 空间站的[textlink="发电机" link="Generators"]分为不同等级，并遵循一套层级体系。等级越低，持续运行能力越弱，但设置越容易；等级越高，持续运行能力越强，但设置也越复杂。
+  - Space Station 14 设有[textlink="电压网络" link="VoltageNetworks"]，用于将电力分配至空间站各处；机器会逐级降低电压，以供其他机器使用。
+  - [textlink="发电机" link="Generators"]存在[textlink="爬升过程" link="Ramping"]，这意味着它们需要一定时间才能让供电量与电网需求相匹配。
+
+  ## 开局准备
+  班次开始时，空间站完全依靠[textlink="电池" link="PowerStorage"]供电。
+  根据空间站的耗电量，这些电力最多只能维持 5-10 分钟。
+
+  要延长供电时间，可以启动空间站的[textlink="反物质引擎" link="AME"]，即[textlink="AME" link="AME"]。
+  这会大幅延长空间站电池的续航，让你有更多时间设置更高等级的[textlink="发电机" link="Generators"]。
+  你还可以设置能够免费发电的[textlink="太阳能板" link="SolarPanels"]，进一步延长供电时间。
+
+  设置好[textlink="AME" link="AME"]和[textlink="太阳能板" link="SolarPanels"]后，空间站应当已有可观的发电量。
+
+  现在你已经争取到了时间，可以着手设置更高等级的[textlink="发电机" link="Generators"]，例如足以为班次剩余时间持续供电的[textlink="奇点引擎" link="SingularityEngine"]。
+
+</Document>

@@ -1,0 +1,30 @@
+<Document>
+  # 巫师
+
+  <Box>
+    [color=#457573][italic]现在是巫师时间，混账——……[italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineWizard" Caption=""/>
+  </Box>
+  巫师是混乱与不可预测的化身。你永远不知道他们接下来会做什么。
+  他们通常由[color=#40E0D0]太空巫师联盟[/color]派来，也可能只是某个倒霉蛋掷诅咒骰子时出了天然 20，结果变成了巫师。
+  正因为巫师极难预测，他们可能会在你最意想不到的时候现身！
+
+  ## 魔法书
+  <Box>
+    <GuideEntityEmbed Entity="WizardsGrimoire" Caption="巫师魔法书"/>
+  </Box>
+
+  [bold]依照古老的巫师法，你的魔法书与你绑定。[/bold]这意味着你不能与任何人分享魔法书。书中的法术和装备只属于你，也只能由你使用。
+  巫师魔法书可用于取得各种魔法法术、装备和生物。你能买到的东西[italic]威力极其强大[/italic]，所以只有 10 枚[color=#FF0000]巫[/color][color=#FFA500]师[/color][color=#FFFF00]金[/color][color=#00FF00]币[/color][color=#0000FF]™[/color]可供花费。
+  除了价格，你唯一的限制就是创造力。试着找出一些好用的组合吧！
+
+  <Box>
+    <GuideEntityEmbed Entity="PonderingOrbWizard" Caption="沉思宝珠"/>
+  </Box>
+
+  若你忽然想陷入沉思，它正是最佳选择！[bold]沉思宝珠[/bold]能让巫师接入空间站的摄像头网络，在他人毫无察觉时暗中窥探。
+  如果你正在筹划行动，或想始终领先[color=red]安保部[/color]一步，它会很有用。
+
+</Document>

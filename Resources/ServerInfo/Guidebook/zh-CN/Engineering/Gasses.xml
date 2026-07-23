@@ -1,0 +1,122 @@
+<Document>
+  # 气体
+  气体是空间站运作的关键组成部分。
+  你可能只把它们当作呼吸所需的物质，但它们还有许多其他用途。
+
+  各种气体具有不同性质，因而适用于不同任务。
+  大气系统还可以用其他气体合成特殊气体，供特殊用途使用。
+
+  ## 氧气
+  <Box>
+    <GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="OxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="DoubleEmergencyOxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="ExtendedEmergencyOxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyOxygenTank" Caption=""/>
+  </Box>
+
+  一种常见气体，空间站上的大多数物种都用它呼吸。
+
+  氧气是氧化剂，能够助燃。
+  这使它既可用于在燃烧室中熔合气体，又会在与可燃气体混合时带来危险。
+
+  ## 氮气
+  <Box>
+    <GuideEntityEmbed Entity="NitrogenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="NitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="DoubleEmergencyNitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="ExtendedEmergencyNitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyNitrogenTank" Caption=""/>
+  </Box>
+
+  一种惰性气体，与氧气配合可构成可呼吸的大气。
+
+  氮气非常稳定，是标准可呼吸大气的主要成分。
+
+  拉斯比等部分物种呼吸氮气，而沃克斯只能呼吸氮气。
+
+  ## 混合空气
+  <Box>
+    <GuideEntityEmbed Entity="AirCanister" Caption=""/>
+    <GuideEntityEmbed Entity="AirTank" Caption=""/>
+  </Box>
+
+  一种可供空间站上大多数物种呼吸的混合气体。
+  其中含 21% 氧气和 79% 氮气。
+
+
+  ## 二氧化碳
+  <Box>
+    <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
+  </Box>
+
+  空间站上大多数物种产生的废气，也是燃烧的常见副产物。
+
+  虽然看似无用，但某些部门会在工作中使用它。
+
+  ## 水蒸气
+  <Box>
+    <GuideEntityEmbed Entity="WaterVaporCanister" Caption=""/>
+  </Box>
+  一种常见气体，由等离子体燃烧及其他过程产生。
+
+  与其他气体相比，水蒸气的比热容较高，因此适合传递热量。
+
+  ## 等离子体
+  <Box>
+    <GuideEntityEmbed Entity="PlasmaCanister" Caption=""/>
+  </Box>
+  一种高度易燃的气体，用于空间站上的许多流程。
+
+  工程部使用这种气体发电并制造特殊气体。
+
+  燃烧等离子体会产生大量热量；根据燃烧效率，还会产生二氧化碳、水蒸气和氚等气体副产物。
+
+  等离子体气体的比热容也较高，适合传递热量。
+
+  ## 氚
+  <Box>
+    <GuideEntityEmbed Entity="TritiumCanister" Caption=""/>
+  </Box>
+  一种极度易燃且具有放射性的气体，用于制造 Frezon。
+
+  在燃烧室内燃烧等离子体可产生氚；通过复杂的混合流程，氚可用于制造 Frezon 气体。
+
+  氚聚变效率取决于燃烧浓度和温度等多种因素。
+
+  ## Frezon
+  <Box>
+    <GuideEntityEmbed Entity="FrezonCanister" Caption=""/>
+  </Box>
+
+  一种十分抢手的气体，因为它难以制造且拥有多种特性。
+
+  它具有极高的比热容，非常适合传递大量热量。
+
+  Frezon 可在空气中与氮气结合生成一氧化二氮，同时使空气大幅冷却至冰点以下。
+
+  Frezon 的制造过程非常复杂，需要精确调配氚、氧气与氮气才能生成。
+  如果你想亲自制造这种气体，需要了解以下事项：
+  - Frezon 由氧气、氚和氮气结合生成。
+  - 氚和氧气的混合比例约为 1:8。
+  - 氮气是反应所需的催化剂。氮气消耗量取决于反应效率。
+  - Frezon 反应只会在低于 73.15 K 的深冷温度下发生。反应效率（即生成的 Frezon 量）取决于温度。温度越接近 73.15 K，生成的 Frezon 越多，消耗的氮气越少。
+
+  请记住，大气系统的核心就是实验和流程优化。不断尝试，直到成功为止！
+
+  ## 一氧化二氮
+  <Box>
+    <GuideEntityEmbed Entity="NitrousOxideCanister" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyFunnyOxygenTank" Caption=""/>
+  </Box>
+  一种娱乐用及废弃气体，由拉斯比产生，也可由 Frezon 与氮气结合生成。
+
+  ## 氨气
+  <Box>
+    <GuideEntityEmbed Entity="AmmoniaCanister" Caption=""/>
+  </Box>
+  一种由尸体分解产生的气体。
+
+  可将其冷凝成氨，用于制造太空清洁剂。
+
+</Document>

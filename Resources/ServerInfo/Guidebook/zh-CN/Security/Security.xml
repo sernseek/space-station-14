@@ -1,0 +1,43 @@
+<Document>
+# 安保部
+[color=#cb0000]安保部[/color]的首要职责是保障空间站和船员的安全。他们随时准备应对各种状况，[color=#cb0000]安保部[/color]负责维持秩序与控制人群。
+
+他们需要面对[textlink="辛迪加特工" link="Traitors"]、[textlink="核弹特工" link="NuclearOperatives"]、[textlink="丧尸" link="Zombies"]以及不守规矩的员工。
+
+## 人员
+[color=#cb0000]安保部[/color]的成员包括安保学员、安保干员和侦探。典狱长和安保主管负责管理[color=#cb0000]安保部[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="安保干员"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="侦探"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="典狱长"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="安保主管"/>
+  </Box>
+
+## 装备
+首先是非致命装备，它们比单纯要求对方配合更进一步。电击棍和致残枪都能限制袭击者的行动，而手铐则能剥夺犯人的行动自由和双手使用能力。解铐时若[color=red]伤害模式[/color]处于开启状态，手铐还会将对方推倒。
+  <Box>
+    <GuideEntityEmbed Entity="Stunbaton"/>
+    <GuideEntityEmbed Entity="Handcuffs"/>
+   <GuideEntityEmbed Entity="WeaponDisabler"/>
+  </Box>
+
+## 闪光器
+[color=#a4885c]闪光器[/color]是驱散人群和逮捕格外灵活目标的有效工具，其大范围闪光能致盲所有未受防护的人。
+值得注意的是，闪光器既可以进行大范围使用（快捷键[color=yellow]Z[/color]），也可以在[color=red]伤害模式[/color]开启时用它攻击某个人。需要特别注意，定点闪光的持续时间是大范围闪光的[color=yellow]2.5[/color]倍。
+[color=#cb0000]安保部[/color]和[color=#a4885c]部分[/color]其他员工拥有抵御闪光弹与闪光器的眼部防护。
+  <Box>
+    <GuideEntityEmbed Entity="Flash"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
+    <GuideEntityEmbed Entity="GrenadeFlashBang"/>
+  </Box>
+
+## 致命武器
+若形势需要，[color=#cb0000]安保部[/color]可以使用激光步枪、霰弹枪、手枪和自动步枪，对任何与空间站为敌者施加强大火力。
+  <Box>
+    <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
+    <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>
+    <GuideEntityEmbed Entity="WeaponPistolMk58"/>
+    <GuideEntityEmbed Entity="WeaponRifleLecter"/>
+  </Box>
+</Document>

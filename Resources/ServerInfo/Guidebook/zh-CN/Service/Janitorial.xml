@@ -1,0 +1,58 @@
+<Document>
+# 清洁工作
+
+你负责保持环境整洁。这份工作有时很辛苦，但总得有人来做。本指南会介绍清洁工作的各种工具及其用法。
+
+## 基础装备
+<Box>
+<GuideEntityEmbed Entity="MopItem"/>
+<GuideEntityEmbed Entity="JanitorialTrolley"/>
+<GuideEntityEmbed Entity="MopBucket"/>
+<GuideEntityEmbed Entity="Bucket"/>
+<GuideEntityEmbed Entity="TrashBag"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="SprayBottleSpaceCleaner"/>
+<GuideEntityEmbed Entity="BoxLightMixed"/>
+<GuideEntityEmbed Entity="SoapNT"/>
+<GuideEntityEmbed Entity="Mousetrap"/>
+</Box>
+
+## 额外装备
+<Box>
+<GuideEntityEmbed Entity="WetFloorSign"/>
+<GuideEntityEmbed Entity="Holoprojector" Caption="全息警示牌投影仪"/>
+<GuideEntityEmbed Entity="LightReplacer"/>
+<GuideEntityEmbed Entity="WireBrush"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="高级拖把，请向研发部询问"/>
+</Box>
+
+## 液体的获取与排放
+<Box>
+<GuideEntityEmbed Entity="WaterTankFull"/>
+<GuideEntityEmbed Entity="Sink"/>
+<GuideEntityEmbed Entity="FloorDrain"/>
+</Box>
+
+## 开始打扫
+现在进入（比喻意义上的）正菜。我们来这里就是为了打扫，对吧？那就简单一点。你最常使用的工具是可靠的拖把、垃圾袋、太空清洁剂，以及三种不同水桶中的一种。
+
+拖地：先给清洁推车装满水，然后找找地上的水洼！把拖把浸湿并擦掉水洼；留下的清水会在短时间后蒸发。别忘了摆放“小心地滑”警示牌！
+- 要排空清洁推车，可用光标将其拖到地漏上。这样会倒掉车内的所有液体！地漏通常位于医疗部某处、厨房冷冻库，当然还有清洁工储藏室。
+
+垃圾：可以直接将垃圾放入袋中，也可以把垃圾袋拿在手里。点击垃圾-附近-可一次收起周围的-所有-杂物，也可以逐件点击。对废物处理装置使用垃圾袋即可将其清空。
+- 货运部可能会需要你的垃圾，偶尔去问问或许很值得！
+
+太空清洁剂：这种神奇喷剂能做两件事——清除涂鸦，以及在紧急情况下清理水洼！
+- 你或许可以从化学实验室获得更多太空清洁剂。
+
+## 额外职责
+优秀的清洁工总会留意还能做些什么，而你手头有许多工具可用。留心损坏的灯具，帮助厨师处理厨房里的老鼠；如果你感觉-特别-慷慨，还可以尝试为全站的自动售货机和应急壁柜补货！
+
+##附加信息：
+<GuideReagentEmbed Reagent="SpaceCleaner"/>
+<GuideReagentEmbed Reagent="Ammonia"/>
+
+</Document>

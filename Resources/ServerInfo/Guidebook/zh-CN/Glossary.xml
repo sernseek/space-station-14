@@ -1,0 +1,222 @@
+<Document>
+# 术语表
+
+本页收录了你可能在空间站内以及社区中遇到的大多数俚语！
+
+# 角色内俚语
+
+以下术语可能会在游戏中遇到。
+
+## AOS
+Arrest on Sight 的缩写，意为“见到即逮捕”。
+
+## AA
+<!-- Starlight-edit: add "abbreviation for" -->
+All Access（全权限）的缩写，亦可指拥有空间站全部权限的 ID。正常情况下，只有舰长会拥有这种权限。
+
+## Atmos
+Atmospherics（大气系统）的简称。
+
+## Atmosian
+对大气技师的称呼，也泛指大部分时间都在处理大气事务或尤其擅长大气系统的人。
+
+## Bolted
+指被螺栓锁定、无法改变状态的气闸门。在解除螺栓锁定前，它会一直保持开启或关闭。关闭且锁定的气闸门会亮起常亮红灯。
+
+## Borg
+Cyborg 的简称，即由玩家控制的赛博格。
+
+## Braindead
+指已经断开游戏连接的玩家。断线玩家仍可重新连接服务器，再次控制自己的角色。
+
+## Brig
+安保部的主要区域。囚犯会被带到这里关押并接受处罚。典狱长负责确保监狱正常运作。
+
+## Cap
+Captain（舰长）的简称。
+
+## Cargonia
+指货运部宣布独立。此行为违反规则。
+
+## CE
+<!-- Starlight-edit: abbrev -->
+Chief Engineer（工程主管）的缩写，即工程部的部门主管。
+
+## CentComm/Central Command
+<!-- Starlight-edit: fix capitalization of NanoTrasen -->
+负责监管你所在的纳米传讯空间站的行政机构，即中央指挥部。
+
+<!-- Starlight-start -->
+## CL
+Corporate Law（公司法）的缩写，即空间站现行的法律规范。
+<!-- Starlight-end -->
+
+## CMO
+<!-- Starlight-edit: abbrev -->
+Chief Medical Officer（医疗主管）的缩写，即医疗部的部门主管。
+
+## Crit/Critical
+指角色失去意识、无法移动的濒危状态。处于濒危状态时，你的健康状况会持续恶化直至死亡，除非得到外界救助。
+
+## Emag
+<!-- Starlight-edit: fix indent (TODO: send upstream!) -->
+指辛迪加密码序列器。“Emagged”通常指气闸门或储物柜被破解并锁定在开启状态，也可泛指任何被 Emag 破解的设备。
+
+## Emergency Access/EA
+<!-- Starlight-edit: indent (TODO: send upstream!) -->
+指任何人都能开启的气闸门，即使没有相应权限甚至没有 ID 也可以。设为紧急通行状态的气闸门会闪烁黄灯。
+
+## ERT
+<!-- Starlight-edit: abbrev -->
+Emergency Response Team（应急响应队）的缩写。中央指挥部可能出于多种目的派遣他们。
+
+## Flukie
+由“Fluke”和“Nukie”拼合而成，通常带有贬义，用来称呼任务失败的核弹特工小队。也可能写作“Fluke Ops”。
+
+## God(s)
+代表服务器管理员的角色内说法。有时也会用 CentComm（中央指挥部）表达这一含义。
+
+## Greytide/Greyshirt/Tider/Assistant
+<!-- Starlight-edit: "in other sectors" -->
+通常因其他星区中助理的标准制服颜色而用来称呼助理，但也可能带贬义地指称行为不守规矩或犯下各种轻罪的其他船员（不只助理）。
+
+## HoP
+<!-- Starlight-edit: abbrev -->
+Head of Personnel（人事主管）的缩写，即服务部的部门主管。也可以指人事主管办公室，ID 会在那里发放或修改。
+
+## HoS
+<!-- Starlight-edit: abbrev -->
+Head of Security（安保主管）的缩写，即安保部的部门主管。
+
+## Insuls
+Insulated Gloves（绝缘手套）的简称。它们是工程人员最常佩戴的黄色手套，能够完全防止被带电物体电击，效果远胜廉价版本。
+
+## Jani
+Janitor（清洁工）的简称。
+
+## KOS
+<!-- Starlight-edit: abbrev -->
+Kill On Sight 的缩写，意为“见到即杀”。指某人犯下极其严重的罪行，以至于被认为不值得逮捕。
+
+## Mats
+<!-- Starlight-edit: "short for" -->
+Materials（材料）的简称，通常指钢、塑料、塑钢、玻璃、银和金。
+
+## NanoTrasen/NT
+<!-- Starlight-edit: fix capitalization of NanoTrasen -->
+纳米传讯是拥有你所在空间站的公司。
+
+## Newkie
+由“New”和“Nukie”拼合而成，指扮演核弹特工但经验不足的玩家。
+
+## Nukie
+核弹特工的俚语或简称，有时也写作“Nuke Op”。
+
+## Perma
+Permanent Brig（永久监禁区）的简称。这里关押罪行最严重、永远不会获释的囚犯。大多数空间站都在安保部设有独立的永久监禁区域。
+
+## QM
+<!-- Starlight-edit: abbrev -->
+Quartermaster（军需官）的缩写，即货运部的部门主管。
+
+## RD
+<!-- Starlight-edit: abbrev -->
+Research Director（研究主管）的缩写，即科研部的部门主管。
+
+## Robust
+用于形容某人尤其善于战斗，或挺过了一场艰苦战斗。
+
+## Salv
+Salvage Technician（打捞专员）的简称。
+
+## Sci
+Science（科研部）的简称。
+
+## Sec
+Security（安保部）的简称。
+
+## Secoff
+Security Officer（安保干员）的简称。
+
+## Shift
+对回合的角色内称呼，即“班次”。
+
+## Singulo
+Singularity Engine（奇点引擎）的简称。奇点可以为空间站提供无限电力，但极其危险。
+
+## Singuloose
+指增长过度并突破收容的奇点。它会撕裂空间站，造成巨大破坏。
+
+<!-- Starlight-start -->
+## SOP
+Standard Operating Procedures（标准操作程序）的缩写，即空间站所有人都应遵守的政策和准则。
+<!-- Starlight-end -->
+
+## Spacing
+指导致某一区域失去气压的事件，例如船体破损。
+
+## Spess
+“Space”的故意错拼，有时也被理解为“space”和“mess”的合成词。还可能出现在“Spessmen”等词中。
+
+## SSD
+<!-- Starlight-edit: abbrev -->
+Sudden Sleep Disorder 或 Space Sleep Disorder 的缩写，即“突发睡眠障碍”或“太空睡眠障碍”。这是指玩家断开连接且不再响应的角色内说法。
+
+## Syndie/Syndi/Syndicate
+对所有受雇于辛迪加者的统称，涵盖（疑似）辛迪加特工乃至核弹特工。
+
+## TC
+<!-- Starlight-edit: abbrev -->
+Telecrystal（遥晶）的缩写。这是辛迪加特工购买武器等管制违禁品及其他非法装备时使用的货币。
+
+## Wardenloose
+模仿 Singuloose 的玩笑说法，指典狱长被人看到离开监狱区域。
+
+## Xenoarchaeology
+对遗物的研究，通常由科研部进行，即异星考古学。
+
+# 场外俚语
+
+以下术语只能在 OOC 聊天或游戏之外使用。
+
+## Admeme
+由管理员主持或引发的事件，即“管理员搞事”。
+
+## AHelp/Admin Help
+用于向管理员举报违规行为或反馈其他问题的管理求助渠道。
+
+## Antag
+Antagonist（敌对角色）的简称，特指被选中、用于推动回合陷入混乱的角色。
+
+## Bwoink
+收到管理求助消息时发出的提示音。祈祷这不是封禁通知吧。
+
+## Ick Ock
+有人在 OOC 中泄露本回合角色内信息时，其他人常喊出的说法；也可表示“in-character, out-of-character”（角色内、场外）。
+
+## LOOC/OOC
+<!-- Starlight-edit: abbrev -->
+分别是本地场外和（全局）场外的缩写。这两个文字频道供玩家脱离角色扮演与其他玩家交谈。回合进行期间会启用 LOOC，而 OOC 通常只在回合结束后开放。
+
+## LRP
+<!-- Starlight-edit: abbrev -->
+Low Roleplay（低强度角色扮演）的缩写。标为 LRP 的服务器通常采用较宽松的角色扮演规则。
+
+## MRP
+<!-- Starlight-edit: abbrev -->
+Medium Roleplay（中等强度角色扮演）的缩写。MRP 服务器通常有一套较完善的角色扮演规则，并要求玩家在特定情境中按角色现实中会采取的方式行事。公开违抗安保或上司等行为受到的宽容更少。
+
+## HRP
+<!-- Starlight-edit: abbrev -->
+High Roleplay（高强度角色扮演）的缩写。HRP 服务器通常对扮演角色时允许和禁止的行为制定详尽规则。一般要求你依照角色行事、拥有角色背景故事并遵循空间站规程。一些 HRP 服务器还会创作自己的背景设定，以进一步实现其希望营造的服务器风格。
+
+## Self-Antag
+指玩家并非敌对角色，却从事类似敌对角色的活动。该词涵盖多种行为，但通常用来描述毫无目的地骚扰他人或严重损害其他玩家利益的行为。自发敌对行为可导致封禁。有时也会在角色内使用。千万别这么做。
+
+## Upstream
+游戏的基准版本。上游的任何改动都会向下“流入”游戏的所有其他 fork。所有 Wizard's Den 官方服务器都基于上游版本运行。
+
+## Validhunter
+专门追杀“valids”（即按规则可以杀死的人）的玩家，即使此人并非安保。
+
+</Document>

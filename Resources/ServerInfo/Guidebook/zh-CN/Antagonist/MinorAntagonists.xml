@@ -1,0 +1,95 @@
+<Document>
+  # 次要敌对角色
+
+  次要敌对角色是由幽灵控制的角色，会让死者获得第二次机会，在空间站四处互动（以及制造混乱！）。他们由随机事件生成。
+
+  # 悖论克隆体
+
+  <Box>
+    <GuideEntityEmbed Entity="ParadoxCloneDummy"/>
+  </Box>
+
+  这是某位随机船员的完美复制品，被时空异常抛入了我们的宇宙。为了修复悖论并活下去，克隆体必须找到并杀死自己的原版。
+
+  两个人都是“真正的”克隆体，其他所有船员也都拥有与双方人生经历相符的记忆。
+  因此，船员应当认为自己的记忆并不可靠，并相信两个克隆体说的都是真话。
+  此外，双方都坚信自己才是原版。
+
+  他们没有特殊能力，但外貌、DNA、指纹、衣着、装备和 ID 都完全相同，因此很难判断谁是原版、谁是克隆体……除非你非常了解自己的同事！
+
+  # 怨灵
+
+  <Box>
+    <GuideEntityEmbed Entity="MobRevenant"/>
+  </Box>
+
+  怨灵是由灵质构成的虚体生物，会纠缠船员并窃取他们的[color=#8f63e6]生命精华[/color]。
+
+  为了获取灵魂，怨灵可以摧毁燃烧室，或使空间站暴露于太空。
+
+  - 精华就是你自身的[bold]生命力[/bold]。受到伤害会减少精华。
+  - 使用[bold]能力[/bold]同样会消耗精华。
+  - 要获得精华，首先需要[bold]检查[/bold]各个灵魂的价值。越有价值的灵魂能提供越多精华。随后，当受害者处于濒危、死亡或睡眠状态时，你必须[bold]汲取[/bold]其精华。以上操作均使用 [color=yellow][bold][keybind="Use"][/bold][/color] 完成。
+  - [bold]窃取的精华[/bold]可用于购买新能力，让你更容易制服船员。
+  - 汲取灵魂或使用能力时，你会变得[bold]易受攻击[/bold]。出现[color=#8f63e6][italic]实体化[/italic][/color]状态效果，就表示你正处于易受攻击状态。
+
+  # 鼠王
+
+  <Box>
+    <GuideEntityEmbed Entity="MobRatServant" Caption=""/>
+    <GuideEntityEmbed Entity="MobLargeRatServant" Caption=""/>
+    <GuideEntityEmbed Entity="MobRatKing" Scale="2.4"/>
+    <GuideEntityEmbed Entity="MobLargeRatServant" Caption=""/>
+    <GuideEntityEmbed Entity="MobRatServant" Caption=""/>
+  </Box>
+
+  鼠王是体型异常巨大的啮齿动物，主要目标是[color=yellow]建立庞大的鼠群军队[/color]，并吃掉同样多得惊人的食物。
+
+  鼠王属于敌对角色，但可以为了推进目标而与船员交易。
+  除非绝对必要，否则鼠王[color=red]不得[/color]主动保护船员。
+  如果船员妨碍鼠王获取食物，鼠王很清楚船员也可以成为[italic]应急口粮[/italic]。
+
+  - 你拥有多种能力，使用它们需要消耗[bold]饱食度。[/bold]
+  - 其中一项能力是[color=yellow][italic]召集军队[/italic][/color]，可召唤一只[bold]鼠仆[/bold]。你可以[bold]命令[/bold]仆从原地待命、跟随你、攻击指定目标，或不分敌我地攻击。
+  - 使用[color=purple][italic]鼠王领域[/italic][/color]可召出一团[color=#77b58e]氨气[/color]。这种紫色气体对人类有轻微毒性，却能治疗老鼠。
+  - 通过上下文菜单[color=#9daa98][italic]翻找[/italic][/color]废料处理单元，寻找[bold]食物残渣[/bold]来壮大军队。
+  - 除了能力之外，[bold]你也比大多数动物更强壮。[/bold]你和仆从都能说话，而且体型足够小，可以钻过气闸门和桌子下方。
+  - [bold]你的手下仍然非常脆弱！[/bold]小心船体破损、爆炸，以及近战武器挥来的那一端。
+
+  # 太空龙
+
+  <Box>
+    <GuideEntityEmbed Entity="MobCarp" Caption=""/>
+    <GuideEntityEmbed Entity="CarpRift" Caption=""/>
+    <GuideEntityEmbed Entity="MobDragon"/>
+    <GuideEntityEmbed Entity="CarpRift" Caption=""/>
+    <GuideEntityEmbed Entity="MobCarp" Caption=""/>
+  </Box>
+
+  太空龙是来自其他维度的巨型鱼类，可以[color=red]吞食船员[/color]并制造[color=#4b7fcc]鲤鱼裂隙[/color]。
+
+  太空龙被视为优先威胁，指挥部不得与其交易。
+
+  - 龙拥有强有力的颚，可用[color=red][italic]吞噬[/italic][/color]破坏门、窗户和墙壁等设施。
+  - 对昏迷或死亡的船员使用[color=red][italic]吞噬[/italic][/color]，也能治疗自身。
+  - 你的[color=orange][italic]龙息[/italic][/color]是一枚沿直线飞行的[bold]火焰弹体[/bold]，会多次爆炸并点燃沿途物体。尽量别打中自己的鲤鱼！
+  - 你可以[color=#4b7fcc][italic]召唤鲤鱼裂隙[/italic][/color]。裂隙会定期生成[bold]太空鲤鱼[/bold]，并在 5 分钟内积蓄能量，[bold]此时它可以被摧毁。[/bold]5 分钟后，裂隙将变得无敌，并会在太空龙存活期间不断召唤鲤鱼。
+  - 如果裂隙在充能完成前被摧毁，你会遭受[bold]暂时性的严重反馈效果[/bold]。
+  - 如果从你生成起，或从上一次裂隙开始充能起经过了五分钟，[bold]你就会消失。[/bold]
+  - 拥有最多 3 个完全充能裂隙的龙将[bold]永不消失[/bold]，但仍然可以被杀死。
+
+  # 史莱姆与蜘蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobAdultSlimesBlueAngry" Caption=""/>
+    <GuideEntityEmbed Entity="MobGiantSpiderAngry" Caption=""/>
+  </Box>
+
+  史莱姆和蜘蛛没有什么特别的能力，但仍会不时[color=cyan]侵扰空间站[/color]。两者都会追逐并攻击视野内的一切。
+
+  敌对史莱姆和蜘蛛受饥饿与领地攻击性驱使，它们不是空间站宠物。
+  小丑蜘蛛可以保护其认定的小丑。
+
+  - 史莱姆会根据自身颜色[bold]造成额外的细胞或毒素伤害[/bold]。水会伤害它们，就像会伤害拉斯比一样。 <!--Starlight-->
+  - 蜘蛛的咬击带有毒性，还能[bold]制造蛛网[/bold]阻碍移动，但蛛网很容易被利刃破坏。它们也能撬开门、风闸门和气闸门。
+</Document>

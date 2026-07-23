@@ -1,0 +1,137 @@
+<Document>
+  # 气闸门
+  气闸门用于控制空间站不同区域的出入。
+
+  <Box>
+    <GuideEntityEmbed Entity="Airlock" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockGlass" Caption=""/>
+  </Box>
+
+  空手时可使用 [color=yellow][bold][keybind="Use"][/bold][/color] 打开气闸门；双手已满时可使用 [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]，也可以直接撞上气闸门。
+
+  只有持有具备正确门禁权限的 ID 卡时，气闸门才会打开。
+  ID 卡必须拿在手中，或放在 ID 卡槽内。
+  如果你持有多张 ID，尝试开门时气闸门会逐一检查它们。
+  PDA 中的 ID 也遵循相同规则。
+
+  可使用门禁配置器修改开门所需的门禁权限，也可用多功能工具操作气闸门的门体电子元件（需要先拆解气闸门）。
+
+  <Box>
+    <GuideEntityEmbed Entity="AccessConfigurator" Caption=""/>
+    <GuideEntityEmbed Entity="Multitool" Caption=""/>
+    <GuideEntityEmbed Entity="DoorElectronics" Caption=""/>
+  </Box>
+
+  气闸门会阻挡气体流动，因此可在发生[textlink="船体破损" link="Spacing"]或[textlink="火灾" link="Fires"]时用于封锁区域。
+  即使关闭，气闸门所在的地块内仍会储存气体，因此在气体泄漏期间或之后开门时务必小心。
+
+  ## 落栓与紧急通行
+  气闸门可以落栓，防止他人打开或徒手撬开。落栓后，门体顶部会亮起红灯。
+
+  气闸门也可设为紧急通行模式。在此模式下，无论门禁权限如何，任何人都能打开气闸门。启用后，门体顶部会闪烁黄灯。
+
+  ## 远程控制
+  气闸门可由空间站AI或门控遥控器远程控制。
+  <Box>
+    <GuideEntityEmbed Entity="PlayerStationAiEmpty" Caption=""/>
+  </Box>
+  <Box>
+    [color=#999999][italic]空间站AI，可远程控制所有气闸门[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="DoorRemoteEngineering" Caption=""/>
+    <GuideEntityEmbed Entity="DoorRemoteCommand" Caption=""/>
+    <GuideEntityEmbed Entity="DoorRemoteMedical" Caption=""/>
+    <GuideEntityEmbed Entity="DoorRemoteService" Caption=""/>
+    <GuideEntityEmbed Entity="DoorRemoteSecurity" Caption=""/>
+    <GuideEntityEmbed Entity="DoorRemoteResearch" Caption=""/>
+  </Box>
+  <Box>
+    [color=#999999][italic]宝贵的门控遥控器。蕴含着无穷的力量……[italic][/color]
+  </Box>
+
+
+  各部门主管通常会配发对应部门的门控遥控器。
+
+  他们可以使用这些遥控器开门、关门、落栓以及启用紧急通行。
+
+  ## 链接
+  气闸门可通过[textlink="链接" link="Networking"]系统与其他设备连接。
+  这样可以正确设置空间站与太空之间的气闸门组，也可以将多道气闸门联动起来。
+
+  ## 外观样式
+  气闸门有多种样式，以匹配空间站的各个部门。部门样式通常也反映了所需的门禁权限。
+
+  <Box>
+    <GuideEntityEmbed Entity="Airlock" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockCargo" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockCommand" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockEngineering" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockMedical" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockScience" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockSecurity" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AirlockGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockCargoGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockCommandGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockEngineeringGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockMedicalGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockScienceGlass" Caption=""/>
+    <GuideEntityEmbed Entity="AirlockSecurityGlass" Caption=""/>
+  </Box>
+
+  可使用喷漆器为气闸门重新上色。
+  <Box>
+    <GuideEntityEmbed Entity="SprayPainter" Caption=""/>
+  </Box>
+
+  ## 线路
+  气闸门的维护面板下方设有内部线路，可用螺丝刀打开面板。
+  每根导线都控制气闸门的一项功能。
+  脉冲、剪断或修复导线时，会以不同方式影响气闸门。
+
+  导线旁的指示灯会显示其状态：
+  - 常亮表示系统运作正常。
+  - 闪烁表示系统出现故障：相应功能可能完全失效，或未按预期运作。
+  - 熄灭表示系统未通电。
+
+  以下是各导线及其功能：
+
+  [color=#a4885c]门栓线（BOLT）[/color]
+  - [color=yellow]脉冲导线[/color]：使门落栓或解除门栓。
+  - [color=red]剪断导线[/color]：使门落栓。
+  - [color=green]修复导线[/color]：无效果。
+
+  [color=#a4885c]电源线（POWR）[/color]
+  - [color=yellow]脉冲导线[/color]：暂时切断门的电源。
+  - [color=red]剪断导线[/color]：若两根电源线均被剪断，则切断门的电源；若只剪断一根，则会造成短路，使未佩戴绝缘手套的人触电。
+  - [color=green]修复导线[/color]：若两根电源线均被剪断，则恢复门的电源；若只剪断一根，则会停止短路。
+
+  [color=#a4885c]日志线（LOG）[/color]
+  - [color=yellow]脉冲导线[/color]：暂时禁用门禁日志记录。
+  - [color=red]剪断导线[/color]：禁用门禁日志记录。
+  - [color=green]修复导线[/color]：重新启用门禁日志记录。
+
+  [color=#a4885c]门栓指示灯（BLIT）[/color]
+  - [color=yellow]脉冲导线[/color]：暂时关闭系统，或重新开启系统。
+  - [color=red]剪断导线[/color]：使门栓指示灯无法亮起，从而不再显示门是否已经落栓。
+  - [color=green]修复导线[/color]：重新开启系统。
+
+  [color=#a4885c]定时指示灯（TIMR）[/color]
+  - [color=yellow]脉冲导线[/color]：暂时缩短关门计时。
+  - [color=red]剪断导线[/color]：禁用计时器。门会在确认安全后立即关闭。
+  - [color=green]修复导线[/color]：重新启用计时器。
+
+  [color=#a4885c]安全指示灯（SAFE）[/color]
+  - [color=yellow]脉冲导线[/color]：暂时禁用安全系统。
+  - [color=red]剪断导线[/color]：禁用安全系统。即使有障碍物，门也会关闭。
+  - [color=green]修复导线[/color]：重新启用安全系统。
+
+  [color=#a4885c]AI 门禁指示灯（AIA）[/color]
+  - [color=yellow]脉冲导线[/color]：无效果。
+  - [color=red]剪断导线[/color]：禁用 AI 门禁权限。AI 将无法再控制此门。
+  - [color=green]修复导线[/color]：重新启用 AI 门禁权限。
+
+</Document>

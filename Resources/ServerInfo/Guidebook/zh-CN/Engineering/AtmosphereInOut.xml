@@ -1,0 +1,25 @@
+<Document>
+  # 大气输入与输出
+  向现有（或尚不存在的）大气环境注入气体，以及从中抽取气体，是大气技师工作的重要组成部分。
+  <Box>
+    <GuideEntityEmbed Entity="GasVentPump"/>
+    <GuideEntityEmbed Entity="GasPassiveVent"/>
+    <GuideEntityEmbed Entity="GasOutletInjector"/>
+    <GuideEntityEmbed Entity="GasVentScrubber"/>
+    <GuideEntityEmbed Entity="PortableScrubber"/>
+  </Box>
+
+  大气技师可以使用这些设备向任意环境注入气体、抽取气体，或洗涤其中不需要的气体。
+  这样便能维持安全、可呼吸的大气环境。
+
+  其中部分设备需要[textlink="电力" link="Power"]才能工作，并且可以连接至[textlink="空气警报器" link="AirAlarms"]。
+
+  将兼容设备[textlink="连接" link="Networking"]至空气警报器，可以解锁更多配置选项与功能。否则，这些设备会按照各自子指南中定义的默认行为工作。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirAlarm"/>
+    <GuideEntityEmbed Entity="Multitool"/>
+    <GuideEntityEmbed Entity="NetworkConfigurator"/>
+  </Box>
+
+</Document>

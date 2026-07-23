@@ -1,0 +1,51 @@
+<Document>
+  # 异星考古学
+
+  异星考古学是科研部的一个分支，专注于研究外星[bold]遗物[/bold]。
+
+  揭开遗物的秘密可以获得研究点数，还会显现出奇异、可能有用或危险的效果。
+
+  回合开始时，科研部实验室通常有一两件遗物。更多遗物可以通过以下方式获得：
+  - 从[color=orange]货运部[/color]订购
+  - 由[color=orange]打捞专员[/color]发现
+  - 使用[bold]碎片[/bold]组装
+  - 在特定空间站事件中出现
+
+  ## 遗物
+  <Box>
+    <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
+    <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
+  </Box>
+
+  遗物包含分布在不同[bold]层级[/bold]中的[bold]节点[/bold]。
+  - 解锁一个节点，会使上层与之相连的节点变得可解锁。
+  - 每个节点都有[bold]触发条件[/bold]，必须在遗物附近执行相应操作才能解锁节点。
+  - 节点解锁时会触发其[bold]效果[/bold]，并转为[bold][color=plum]激活[/color][/bold]状态。
+  - 每个节点都有[bold]耐久度[/bold]，表示解锁后可以手动激活的次数。
+  - 越高层的节点越难抵达，但会提供更多[bold]研究点数[/bold]。
+  - 解锁所有节点没有额外奖励，但每个节点都会提供研究点数。
+
+  ## 设备
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactAnalyzer" Caption="分析仪"/>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="分析控制台"/>
+    <GuideEntityEmbed Entity="NodeScanner" Caption="节点扫描仪"/>
+  </Box>
+  - [bold]遗物分析仪：[/bold]扫描遗物并将数据发送至控制台的固定设备。
+  - [bold][textlink="分析控制台：" link="AnalysisConsole"][/bold]用于显示节点树的固定设备。必须使用多用工具将其连接至分析仪。
+  - [bold]节点扫描仪：[/bold]小型手持设备，可显示当前正在激活的节点 ID，以及遗物是否已准备好触发。这样一来，即便无法直接查看控制台，科学家也只需掌握最低限度的信息，就能在舱室内靠近遗物操作。
+
+  <Box>
+    <GuideEntityEmbed Entity="CrateArtifactContainer" Caption="遗物容器"/>
+    <GuideEntityEmbed Entity="HandheldArtifactContainer" Caption="手持容器"/>
+  </Box>
+  - [bold]遗物容器：[/bold]安全储存和运输遗物，并防止节点触发。
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="粉碎机"/>
+  </Box>
+  - [bold]遗物粉碎机：[/bold]将遗物粉碎成碎片。四块碎片可以重组为一件新遗物。
+  <Box>
+    <GuideEntityEmbed Entity="ArtifactFragment" Caption="遗物碎片"/>
+  </Box>
+  - [bold]遗物碎片：[/bold]被摧毁遗物的残片。可以在制作菜单中用四块碎片重组一件新遗物。
+</Document>

@@ -1,0 +1,25 @@
+<Document>
+  # 放射性同位素热电发电机（RTG）
+
+  <Box>
+    <GuideEntityEmbed Entity="GeneratorRTG" Caption="RTG" />
+  </Box>
+
+  放射性同位素热电发电机（RTG）是一种利用放射性同位素衰变发电的被动电源。
+
+  它无需维护，供电可靠，十分适合为电信、AI 或船员监控服务器等必须始终在线的关键系统供电。
+
+  RTG 始终产生[color=orange][protodata="GeneratorRTG" comp="PowerSupplier" member="MaxSupply" format="N0"/] W[/color]电力，且必须接入[color=orange]高压电力[/color][textlink="网络" link="VoltageNetworks"]才能工作。
+
+  不过，只有打捞专员在探险中找到 RTG，空间站才能获得它。如果他们带回了 RTG，记得好好感谢他们！
+
+  ## RTG 损坏
+  <Box>
+    <GuideEntityEmbed Entity="GeneratorRTGDamaged" Caption="损坏的 RTG" />
+  </Box>
+  RTG 受到足够多的伤害后，会变成损坏的 RTG。
+  损坏的 RTG 与普通 RTG 工作方式相同，但具有[color=yellow]放射性[/color]。
+
+  这意味着它们更加危险；但往好处想，你可以在旁边放置辐射收集器，把辐射转化为更多电力。
+  由于电力仍然无需消耗燃料，只要能找到安全地点放置 RTG，这样做通常很划算。
+</Document>

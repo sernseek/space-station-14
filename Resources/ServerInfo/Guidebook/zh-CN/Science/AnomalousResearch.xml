@@ -1,0 +1,41 @@
+<Document>
+# 异常研究
+
+异常研究是科研部的下属部门，专门负责收容和操纵各种独特异常。
+
+## 设备
+<Box>
+<GuideEntityEmbed Entity="AnomalyScanner"/>
+<GuideEntityEmbed Entity="MachineAnomalyVessel"/>
+<GuideEntityEmbed Entity="MachineAPE"/>
+</Box>
+
+扫描仪、异常容器和 A.P.E. 均用于收容与观测异常。
+
+<Box>
+<GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
+</Box>
+
+异常生成器可以消耗等离子体，在空间站某处随机生成一个异常。
+
+## 异常
+异常是出现在空间站内的静止物体。无论位于何处，它们都无法移动，你只能设法绕开。
+
+<Box>
+<GuideEntityEmbed Entity="AnomalyPyroclastic"/>
+</Box>
+
+每个异常都有三项主要数值，其中两项可通过异常扫描查看：
+
+- [color=#a4885c]严重度：[/color]表示异常危险程度的数值。
+- [color=#a4885c]稳定性：[/color]显示为衰减、稳定或增长，表示异常效果触发的频率和影响范围。
+- [color=#a4885c]耐久度：[/color]耐久度是一项隐藏数值。对异常使用[color=#a4885c]收容粒子[/color]时会降低；使用过多会使异常消失。
+
+## 脉冲与超临界事件
+异常最危险的效果会在[color=#a4885c]脉冲[/color]和[color=#a4885c]超临界事件[/color]期间出现。
+
+脉冲是较为规律爆发的异常效果，危险程度中等，并会随异常的严重度与稳定性一同增强。
+
+只有异常严重度达到 100% 时才会发生超临界事件。此时，异常会先膨胀，随后消失并引发灾难性事件。必须不惜一切代价避免这种情况！
+
+</Document>

@@ -1,0 +1,34 @@
+<Document>
+# 服务部
+[color=#9fed58]服务部[/color]负责保持空间站整洁、高效、理智，让其他部门更好地完成工作，也让员工心情愉快。空间站上的大部分文书工作最终也会落到他们手上。
+
+## 人员
+[color=#9fed58]服务部[/color]人员包括服务人员、厨师、植物学家、酒保、清洁工、牧师、小丑、哑剧演员、乐手、律师、图书管理员和助理。服务部由人事主管领导。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="厨师"/>
+    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="植物学家"/>
+    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="酒保"/>
+    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="清洁工"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="牧师"/>
+    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="小丑"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="哑剧演员"/>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="乐手"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="律师"/>
+    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="图书管理员"/>
+    <GuideEntityEmbed Entity="ToyFigurineAssistant" Caption="助理"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="人事主管"/>
+  </Box>
+
+## 合作
+[color=#9fed58]服务部[/color]虽然人员最多样，却往往是各岗位之间[color=#a4885c]联系最紧密[/color]的部门。
+大多数[color=#9fed58]服务部[/color]工作都需要员工[color=#a4885c]相互配合[/color]。
+厨师经常需要只有植物学家才能高效种植的食材。酒保可能会索要只有小丑才大量携带的香蕉。
+律师可能会邀请哑剧演员玩你画我猜，以说服法官相信自己的委托人无罪。
+
+大量[color=#a4885c]协作[/color]在[color=#9fed58]服务部[/color]内外都不可或缺。很多时候，其他部门都需要[color=#9fed58]服务部[/color]的帮助，因此要随时做好准备。
+</Document>

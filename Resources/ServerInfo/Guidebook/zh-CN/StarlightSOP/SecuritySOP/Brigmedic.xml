@@ -1,0 +1,47 @@
+<Document>
+# 狱医
+
+<GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="狱医"/>
+
+- 1.\n
+标准[color=#00a933]绿色警戒[/color]装备如下：
+
+<Box>
+	<GuideEntityEmbed Entity="MedkitAdvancedFilled"/>
+	<GuideEntityEmbed Entity="DefibrillatorBrigmedical"/>
+	<GuideEntityEmbed Entity="HandheldBrigmedicCrewMonitor"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="WeaponDisabler"/>
+	<GuideEntityEmbed Entity="Stunbaton"/>
+	<GuideEntityEmbed Entity="WeaponPistolMk58"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="FlashlightSeclite"/>
+	<GuideEntityEmbed Entity="RadioHandheldSecurity"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CombatKnife"/>
+	位于
+	<GuideEntityEmbed Entity="ClothingShoesBootsJack"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="Handcuffs"/>
+	<GuideEntityEmbed Entity="Zipties"/>
+</Box>
+
+- 2.\n
+狱医不得履行安保干员的职责，但违法行为发生在身边时可以介入。
+
+- 3.\n
+狱医有义务依照以下优先顺序，为下列船员资产提供医疗援助：\n\n
+3.1 指挥部成员\n
+3.2 安保部成员\n
+3.3 囚犯及被拘留人员
+
+- 4.\n
+狱医没有义务为普通船员提供援助，但时间与资源允许时可以这样做。
+
+- 5.\n
+除非别无选择，狱医不得让自己身陷险境。
+</Document>

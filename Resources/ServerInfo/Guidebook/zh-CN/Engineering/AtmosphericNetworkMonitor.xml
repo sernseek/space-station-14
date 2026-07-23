@@ -1,0 +1,47 @@
+<Document>
+  # 大气管网监控器
+  大气管网监控器是一台计算机，用于显示空间站各处受监测[textlink="管网" link="PipeNetworks"]的信息。
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerAtmosMonitoring"/>
+  </Box>
+
+  它可用于快速判断空间站[textlink="管网" link="PipeNetworks"]的温度、压力和气体成分，以及这些管网在空间站内的分布情况。
+
+  ## 已列出的管网
+  大气管网监控器会列出空间站上的所有受监测[textlink="管网" link="PipeNetworks"]。
+
+  每个管网都依照监测它的气体管道传感器的名称和颜色进行命名及颜色标记。
+  若要更改管网名称或颜色，可用标签机重命名传感器，或用喷漆器改变其颜色。
+
+  点击某个管网会显示其详细信息，并在空间站地图上高亮该管网。
+
+  这些信息包括整个管网内气体的摩尔数及其气体成分。
+  这对监测分配管网等重要网络极为有用，因为这些网络在低于特定压力时无法正常工作。
+
+  ## 空间站地图
+  大气管网监控器会在空间站地图上显示所有[textlink="管网" link="PipeNetworks"]及管道设备的位置。
+  请注意，即使管网没有连接气体管道传感器，也会显示在地图上。
+
+  这些设备在地图上的颜色取决于它们在空间站内的颜色，有助于辨认不同的[textlink="管网" link="PipeNetworks"]及其所连接的设备。
+
+  地图图例会根据功能对管道设备进行分组：
+  - [bold]管网开口[/bold]是将管网与空间站大气相连的设备，例如[textlink="通风口" link="AirVents"]、[textlink="被动通风口" link="PassiveVent"]和[textlink="空气注入器" link="AirInjector"]。
+  - [bold]空气洗涤器[/bold]就是[textlink="空气洗涤器" link="AirScrubber"]。
+  - [bold]流量调节器[/bold]是控制气体在管网中流动的设备，例如[textlink="气泵" link="Pumps"]、[textlink="气阀" link="Valves"]以及[textlink="气体混合器／过滤器" link="MixingAndFiltering"]。设备上的箭头表示气流方向，通常也决定管网在哪里分离或分叉。
+  - [bold]温度调节器[/bold]是任何能改变管网中气体温度的设备，例如[textlink="热力机械" link="Thermomachines"]、[textlink="散热器" link="Radiators"]，甚至医疗低温舱。
+
+  ## 气体管道传感器
+  大气管网监控器通过气体管道传感器收集[textlink="管网" link="PipeNetworks"]数据。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeSensor"/>
+  </Box>
+
+  默认情况下，空间站所有主要[textlink="管网" link="PipeNetworks"]上都应装有气体管道传感器，例如分配管网和废气管网。
+
+  若想监测新管网，可建造一个气体管道传感器，它会自动显示在大气管网监控器中。
+  请务必将传感器建在你想监测的管网上。
+  一个简单的气泵或阀门就能轻易分隔[textlink="管网" link="PipeNetworks"]，从而导致传感器报告完全不同管网的数据。
+
+</Document>

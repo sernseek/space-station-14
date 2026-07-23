@@ -1,0 +1,50 @@
+<Document>
+  # 电力储存
+  由于存在[textlink="电力爬升" link="Ramping"]机制，需要使用储能设备来平抑用电量的骤升与骤降，并在电力短缺时继续供电。
+
+  每个对应电压等级（[color=orange]HV[/color]、[color=yellow]MV[/color]和[color=green]LV[/color]）的变压器都附有一块小型电池，用于应对轻微波动；但电网发生严重电力缺口时，这些电池便无能为力。
+
+  ## SMES
+
+  超导磁能储存装置（SMES）是一种能够储存大量电能并迅速释放的设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="SMESBasic"/>
+  </Box>
+
+  若要为 SMES 充电，必须通过一个朝向 SMES 的电缆端子输入[color=orange]HV[/color]电力。SMES 会从端子取电，并从设备下方输出电力。
+
+  端子可确保[color=orange]HV 输入[/color]与[color=orange]HV 输出[/color]不会相连。
+
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="CableTerminal"/>
+    </Box>
+
+    <Box>
+      <GuideEntityEmbed Entity="CableHV" Caption="输出"/>
+      <GuideEntityEmbed Entity="SMESBasic" Caption="" Margin="0"/>
+      <GuideEntityEmbed Entity="CableTerminal" Caption="" Margin="0" Rotation="270"/>
+      <GuideEntityEmbed Entity="CableHV" Caption="输入"/>
+    </Box>
+  </Box>
+
+  SMES 可储存[color=orange][protodata="SMESBasic" comp="Battery" member="MaxCharge" format="N0"/] J[/color]能量，最大输出功率为[color=orange][protodata="SMESBasic" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color]。
+
+  电池充满后，SMES 会将从输入电缆接收的电力传递到输出电缆。出现电力短缺时，SMES 会提高输出以补充用电需求。
+
+  ## 高级 SMES
+  高级 SMES 是更先进的 SMES，能够储存更多电力。
+
+  <Box>
+    <GuideEntityEmbed Entity="SMESAdvanced"/>
+  </Box>
+
+  它主要用于空间站的 SMES 阵列，为空间站电网储存大量电力。
+  它能在回合开始时为工程师争取设置电源的时间，也能在发生电力短缺时长时间供电。
+
+  高级 SMES 可储存[color=orange][protodata="SMESAdvanced" comp="Battery" member="MaxCharge" format="N0"/] J[/color]能量，最大输出功率为[color=orange][protodata="SMESAdvanced" comp="PowerNetworkBattery" member="MaxSupply" format="N0"/] W[/color]。
+
+  请记住，它们并非解决电力短缺的万能办法，也无法储存无限能量。
+  如果没有电源为其分担部分负载，空间站的用电会迅速耗尽这些电池。
+</Document>

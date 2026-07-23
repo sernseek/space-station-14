@@ -1,0 +1,105 @@
+<Document>
+  # 特斯拉引擎
+  特斯拉引擎是一种强力发电机，利用受控的球状闪电为空间站产生能源。
+  <Box>
+    <GuideEntityEmbed Entity="TeslaGenerator"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="TeslaEnergyBall"/>
+  </Box>
+
+  它使用特斯拉线圈捕获球状闪电产生的雷击，并将其转化为电力。
+
+  ## 约束场
+  特斯拉引擎需要约束场，以防球状闪电脱离并摧毁空间站。
+
+  建议为球状闪电使用尺寸最小的约束场。
+  较大的约束场会让球状闪电更接近敏感设备，并可能无视已放置的接地棒与特斯拉线圈，直接击中设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Rotation="90" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="TeslaGenerator" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Rotation="90" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption="" Margin="0"/>
+  </Box>
+
+  ## 雷击
+  特斯拉引擎运行时，球状闪电会周期性击中周围物体。
+
+  特斯拉会优先击中某些物体，例如特斯拉线圈与接地棒。
+
+  如果特斯拉找不到可以优先击中的特斯拉线圈或接地棒，它几乎会攻击任何能够通电的空间站物体，例如变电站、APC 与普通机械。
+
+  电池、灯、PDA 及其他手持物品等特定物体不会遭到特斯拉雷击。
+
+  特斯拉也会击中生物与船员，使其遭受电击。靠近前务必戴好绝缘手套。
+
+  ## 特斯拉线圈
+  特斯拉线圈可以捕获雷击，将其转化为空间站所需的电力。
+
+  <Box>
+    <GuideEntityEmbed Entity="TeslaCoil" Caption=""/>
+    <GuideEntityEmbed Entity="TeslaCoil"/>
+    <GuideEntityEmbed Entity="TeslaCoil" Caption=""/>
+  </Box>
+
+  应在球状闪电周围放置特斯拉线圈，以捕获雷击能量，并防止闪电击中远处的敏感设备。
+
+  特斯拉线圈每次遭受雷击都会受损，若不修理最终会毁坏。
+  务必监控特斯拉线圈的状态，并在需要时进行修理。
+
+  雷击特斯拉线圈时，会为其内置电池充电；电池随后会迅速向电网放电。
+  即使没有用电设备接收电力，它也会照常放电，因此最好在附近放置 SMES，储存电力并平稳输出。
+
+  ## 接地棒
+  接地棒有助于保护敏感设备免遭雷击，并防范特斯拉逃逸事故。
+
+  <Box>
+    <Box>
+      <GuideEntityEmbed Entity="TeslaGroundingRod" Caption=""/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="TeslaGroundingRod"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="TeslaGroundingRod" Caption=""/>
+    </Box>
+  </Box>
+
+  接地棒不会因雷击而受损。
+  因此，可以用接地棒组成安全网，在特斯拉线圈受损或毁坏时提供后备保护。
+
+  工程师应使用接地棒保护敏感设备免遭雷击，例如为约束场发生器供能的发射器。
+
+  ## 逃逸的特斯拉
+  球状闪电脱离约束场后，便称为“逃逸的特斯拉”（tesloose）。
+
+  逃逸的特斯拉会在空间站内随机游荡，并被 APC、变电站和机械等能够通电的物体吸引。
+  它也很乐意击中船员与其他生物，使其遭受电击。
+
+  绝缘手套可以防止你受到特斯拉的电击伤害，但无法阻止特斯拉选择你作为雷击目标。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellow"/>
+  </Box>
+
+  可以使用便携式粒子减速器向特斯拉发射反粒子，将其摧毁。不过特斯拉比奇点强大得多，需要大量反粒子才能消灭。
+  建议多人同时使用粒子减速器摧毁逃逸的特斯拉。
+
+  便携式粒子减速器可以由科研部研究并制造，也可以从货运部购买。
+
+  <Box>
+    <GuideEntityEmbed Entity="WeaponParticleDecelerator"/>
+  </Box>
+
+
+</Document>

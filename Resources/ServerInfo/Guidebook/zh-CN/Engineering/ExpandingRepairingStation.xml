@@ -1,0 +1,39 @@
+<Document>
+  # 扩建与修复空间站
+  在 Space Station 14 中，玩家经常需要扩建空间站，或修补陨石及其他破坏留下的缺口。
+
+  ## 格栅
+  格栅是在太空中铺设的裸露金属杆结构，用作在空间站上建造并固定物体的地基。
+
+  <Box>
+    <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
+    <GuideEntityEmbed Entity="PartRodMetal" Caption=""/>
+  </Box>
+
+  对太空中的空白位置使用金属杆并按下[color=yellow][bold][keybind="Use"][/bold][/color]，即可铺设格栅。请记住，你可以在建造菜单中将钢板制成金属杆。
+
+  格栅无法维持气压，所有气体都会穿过格栅泄漏到太空中。
+
+  对格栅使用钢丝钳并按下[color=yellow][bold][keybind="Use"][/bold][/color]，即可将其拆除。
+
+  如果游戏不允许你铺设格栅，是因为另一个独立网格距离你正尝试扩建的网格过近。你可以用钢丝钳拆除造成阻碍的网格。
+
+  ## 船体地块
+  船体地块是空间站的坚固地基，空间站的其他部分都建在其上。
+
+  <Box>
+    <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemDark" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
+  </Box>
+
+  对格栅使用钢板或几乎任意种类的地板砖并按下[color=yellow][bold][keybind="Use"][/bold][/color]，即可将其改造成船体地块。
+  船体地块能够维持气压和气体。
+
+  建议使用地板砖而非钢板替换格栅，因为一张钢板可以制成 4 块地板砖。
+
+  你可以使用 RCD 将船体地块拆成格栅。
+
+
+</Document>

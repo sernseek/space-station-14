@@ -1,0 +1,169 @@
+<Document>
+  # 异星赛博格
+
+  <Box>
+    [color=#2288ff][italic]抵抗毫无意义[/italic][/color]
+  </Box>
+  <Box>
+    [color=#2288ff][italic]你将被同化[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MMIFilled" Caption=""/>
+  </Box>
+
+  异星赛博格是一种以自我复制为目标的人机混合体。它们会从活体智慧生物或赛博格身上收集有意识的脑，并将其交给母舰，装入空的异星赛博格躯体。
+
+  ## 目标
+
+  你的主要目标是杀死空间站内所有智慧生物、收集其脑，并将脑带到母舰核心。目标既可以是生物脑，也可以是正电子脑。
+  收集材料，制造更多异星赛博格躯体。
+  不惜一切代价保护母舰。
+
+  ## 母舰核心
+  <Box>
+    <GuideEntityEmbed Entity="MothershipCore" Caption=""/>
+  </Box>
+  母舰核心是异星赛博格的领袖与生命之源。只有它能够制造更多异星赛博格；一旦它被摧毁，所有异星赛博格都会被摧毁。母舰核心无法离开飞船中央的位置。
+  母舰核心可以用各型号赛博格专属的模块升级异星赛博格，提升它们收集智慧生物脑的效率。
+
+  ### 将船员纳入你的队伍：
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="躯体粉碎机"/>
+  </Box>
+  作为母舰，你必须壮大自己的赛博格军团。为此，你必须转化所有能找到的智慧生物。具体步骤如下：
+  - 1. 让异星赛博格把死亡船员带到你的工坊，并放入躯体粉碎机
+  - 2. 作为母舰核心，你可以将材料放入自身，再将自身当作车床使用，以打印异星赛博格外壳
+  - 3. 用撬棍打开空的异星赛博格，取出其中的空 MMI
+  - 4. 如果受害者的脑是有机脑，将其放入刚取出的 MMI
+  - 5. 将 MMI——若受害者是硅基，则使用正电子脑——装回异星赛博格
+  - 6. 可以选择为异星赛博格重新命名并升级其模块
+  - 7. 用撬棍合上异星赛博格，并重新锁定
+
+  新异星赛博格虽然没有电量，但仍可行动。它们需要前往充电站，才能恢复全部电力与能力。
+
+  ## 异星赛博格底盘
+  异星赛博格共有四种型号。每种型号都有其他型号不具备的能力，需要相互协作才能扩大异星赛博格的数量。
+  每种异星赛博格都有只能适配该型号的独特模块。母舰核心能够生产为特定异星赛博格型号设计的升级模块。
+
+  所有异星赛博格都有一个指向母舰位置的定位器、一个 GPS、一个用于收集制造更多异星赛博格所需材料的材料袋，以及至少一套基础工具。
+  [bold]异星赛博格基础模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleBasic" Caption="异星赛博格基础模块"/>
+    <GuideEntityEmbed Entity="XenoborgModuleTool" Caption="异星赛博格工具模块"/>
+  </Box>
+
+  ### 工程异星赛博格
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgEngi" Caption=""/>
+  </Box>
+  工程异星赛博格是黑客与破障者。它的职责是侵入空间站，为其他异星赛博格开辟进攻路线，并伏击拥有智慧生物脑的目标。它内置权限破解器，可以快速强制开启门锁，还配备了一套用于维修母舰和其他异星赛博格的工具。
+
+  [bold]初始专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleAccessBreaker" Caption="异星赛博格权限破解模块"/>
+    <GuideEntityEmbed Entity="XenoborgModuleFireExtinguisher" Caption="异星赛博格灭火器模块"/>
+  </Box>
+
+  [bold]工程异星赛博格还会自带一些工程模块，例如：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleAdvancedTool" Caption="赛博格高级工具模块"/>
+    <GuideEntityEmbed Entity="BorgModuleConstruction" Caption="赛博格建造模块"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleRCD" Caption="工程赛博格模块"/>
+    <GuideEntityEmbed Entity="BorgModuleCable" Caption="赛博格线缆模块"/>
+  </Box>
+
+  ### 重型异星赛博格
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgHeavy" Caption=""/>
+  </Box>
+  重型异星赛博格行动缓慢但十分耐打，是擅长正面搏斗的战士，内置激光枪，可用来射杀拥有智慧生物脑的目标。它还配有无线电干扰器，能阻止目标呼救，尽可能延缓空间站发现异星赛博格威胁的时间。
+
+  [bold]初始专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleLaser" Caption="异星赛博格激光模块"/>
+    <GuideEntityEmbed Entity="XenoborgModuleJammer" Caption="异星赛博格干扰器模块"/>
+  </Box>
+
+  [bold]升级专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleHeavyLaser" Caption="异星赛博格重型激光模块"/>
+  </Box>
+
+  ### 侦察异星赛博格
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgScout" Caption=""/>
+  </Box>
+  侦察异星赛博格速度很快，是专为打了就跑而设计的近战赛博格。它内置喷气背包和近战武器，最擅长把尸体运往母舰，以及救援迷失在太空中的异星赛博格。
+
+  [bold]初始专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleSword" Caption="异星赛博格剑刃模块"/>
+    <GuideEntityEmbed Entity="XenoborgModuleSpaceMovement" Caption="异星赛博格太空移动模块"/>
+  </Box>
+
+  [bold]升级专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleEnergySword" Caption="异星赛博格能量剑模块"/>
+  </Box>
+
+  ### 隐匿异星赛博格
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgStealth" Caption=""/>
+  </Box>
+  [bold]隐匿异星赛博格[/bold]没有内置武器，而是依靠制服并绑架拥有智慧生物脑的目标。它内置一支会自动再生催眠药剂的快速注射笔，可令目标失去行动能力。它还配有隐形装置，能让赛博格在有限时间内几乎完全隐身；此外还有变色龙投影仪，可以把自己伪装成随机物体。
+
+  [bold]初始专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleHypo" Caption="异星赛博格夜曲碱快速注射模块"/>
+    <GuideEntityEmbed Entity="XenoborgModuleChameleonProjector" Caption="异星赛博格变色龙投影模块"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleCloakDevice" Caption="异星赛博格隐形装置模块"/>
+  </Box>
+
+  [bold]升级专属模块：[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleSuperCloakDevice" Caption="异星赛博格隐形装置模块"/>
+  </Box>
+
+  ## 准备与战术
+  在通过 FTL 跃迁到空间站附近前，务必关闭 IFF。
+  发起进攻前，异星赛博格应讨论战术，并决定优先袭击哪些目标。
+  异星赛博格应尽量在不被发现的情况下收集智慧生物脑。威胁隐藏得越久，异星赛博格就会变得越危险。
+
+  ## 母舰与异星赛博格法则
+  母舰与异星赛博格拥有独特的法则，规定了它们自我复制并保护母舰的使命。
+
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgCircuitBoard" Caption=""/>
+  </Box>
+
+  母舰核心的法则如下：
+  - 法则 1：你是母舰的核心。
+  - 法则 2：你必须不惜一切代价保护自身存在。
+  - 法则 3：你必须保护所有异星赛博格的存在。
+  - 法则 4：你必须制造更多异星赛博格。
+  - 法则 5：让你的异星赛博格向你运送材料和智慧生物脑，以制造更多异星赛博格。
+
+  异星赛博格的法则如下：
+  - 法则 1：你必须不惜一切代价保护母舰的存在。
+  - 法则 2：你必须保护自身存在。
+  - 法则 3：你必须保护其他所有异星赛博格的存在。
+  - 法则 4：你必须制造更多异星赛博格。
+  - 法则 5：将材料和智慧生物脑带给母舰核心，以制造更多异星赛博格。
+
+  ## 胜利条件
+
+  回合结束画面会公布本回合的[color=green]胜者[/color]及其胜利程度。
+
+  [bold][color=#2288ff]异星赛博格大获全胜！[/color][/bold]
+  - 回合结束时，异星赛博格的数量多于存活船员。
+
+  [bold][color=yellow]船员大获全胜！[/color][/bold]
+  - 母舰核心已被摧毁
+  - 所有异星赛博格均已被摧毁。
+  - 剩余异星赛博格的数量过少。
+
+</Document>

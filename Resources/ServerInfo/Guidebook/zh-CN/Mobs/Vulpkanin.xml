@@ -1,0 +1,19 @@
+<Document>
+  # 伏尔卡宁
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceVulpkanin" Caption=""/>
+  </Box>
+
+  伏尔卡宁毛发浓密，因此[color=#1e90ff]更喜欢较低的温度[/color]，同时[color=#ffa500]升温也更快。[/color]
+
+  他们的饮食结构允许其安全食用生肉，但可可碱会使他们中毒。
+
+  他们口鼻部的奇特形状使饮水较为困难，有时会将少量饮品洒到地上。
+
+  他们受到的[color=#1e90ff]低温伤害减少 15%[/color]，但受到的[color=#ffa500]灼热伤害增加 15%。[/color]
+
+  他们的视力使其能比大多数物种看得稍远。
+
+  他们的新陈代谢快于其他物种。这会让他们更容易饥饿，但也意味着其处理化学品的速度比标准人类快 25%。
+</Document>

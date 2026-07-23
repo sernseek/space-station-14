@@ -1,0 +1,22 @@
+<Document>
+  # 大气异常
+  大气异常是指空间站内应维持的正常大气条件出现偏差。
+
+  异常可能由多种因素引起，例如[textlink="火灾" link="Fires"]、[textlink="暴露于太空" link="Spacing"]，或其他会迅速蔓延至整个空间站、使大气不再适合船员生存的事件。
+
+  作为参考，空间站的正常大气压力为 101.3 kPa，温度为 293.15 K（20°C）。
+  空间站标准混合气体还包含 78% 氮气和 22% 氧气。
+
+  ## 灾害控制
+  处理任何大气紧急情况时，必须迅速行动，防止危险环境扩散，并尽可能将其控制在有限范围内。
+
+  打开通往暴露区域的[textlink="防火闸" link="FireAndGasControl"]，往往会让你从只需解决[italic]一个[/italic]问题变成要解决两个。
+
+  务必使用[textlink="全息屏障投影仪" link="AtmosTools"]，阻止危险环境在[textlink="防火闸缓冲区" link="FireAndGasControl"]之间蔓延。
+
+  <Box>
+    <GuideEntityEmbed Entity="HolofanProjector"/>
+    <GuideEntityEmbed Entity="HoloFan"/>
+  </Box>
+
+</Document>

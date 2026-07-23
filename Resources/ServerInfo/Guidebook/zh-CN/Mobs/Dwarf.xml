@@ -1,0 +1,826 @@
+<Document>
+  # 矮人
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceDwarf" Caption=""/>
+  </Box>
+
+  矮人是一种身材粗壮、身体大多无毛的物种，来自位于虚无裂痕附近的阿布马斯星。他们经趋同演化获得了与人类十分相似的外貌，因此经常被误认；但其文化与生理差异足够深刻，再加上他们源自完全独立的演化支系，理应被视为一个独特族群，而非半猫科人、半伏尔卡宁等近人类亚种的一员。
+
+  大多数矮人为男性（约 87%），其余为女性。性别表现不符合传统规范的矮人比人类中的同类群体更少见。男性矮人通常有蓬乱浓密的头发和大胡子，很容易辨认。没有毛发的矮人（包括不留胡须的男性）通常被认为颇为反常。
+
+  成年矮人的平均身高约为 110 cm（3' 7"），不同性别之间没有显著差异；但与人类相比，他们的骨骼更粗壮致密，鼻子和颧骨等软骨特征也更为突出。这种强健体格使他们在伤重倒下前能比人类多承受[color=#40ff40]10% 的伤害[/color]。异种生物学家普遍认为，矮人演化出这种身材是为了适应阿布马斯约为地球标准 1.3 倍的强重力。
+
+  矮人社会内部有许多细微差异和分支，任何两个矮人聚居地都不尽相同；不过，民族志学者早已注意到，其物质文化整体上与地球的北欧、凯尔特和日耳曼文化存在某些相似之处。矮人在铁器时代主要使用战斧，其次是战镐和战锤，对长矛、弓和剑则相对不太重视；留存至今的武器往往刻满结纹与符文。矮人主要族群依照各自偏爱的生态环境命名：地底矮人、深层矮人、台地矮人、海洋矮人、尖塔矮人、山地矮人、丛林矮人和森林矮人。
+
+  矮人早已是航天种族。他们的母星阿布马斯近地表缺少大型稀土矿藏，使深层矮人垄断了这些资源。为了打破垄断，居住在地表的矮人转而开采小行星和微型行星。这些太空聚居地通常被称为“堡垒”，最初只是简陋的采矿前哨。随着更多家庭和工人到来，前哨、住宅和商铺逐渐延伸到矿井与隧道中，最终形成经济多元、人口繁盛的宏伟城市。一座完全建成的堡垒是能够凭自身动力飞行的巨型方舟；不过，大多数小行星矿场在矿产枯竭后便被废弃，永远无法成就这般辉煌。格外壮观或具有重要文化意义的堡垒常会降落到行星上，作为博物馆或宫殿使用。将落地堡垒作为一天之内即可部署的“现成城市”，用来宣示对新殖民世界的主权，也已发展为兴旺产业。
+
+  阿布马斯临近虚无裂痕，这意味着矮人不可避免地会与纳米传讯接触。如今，数座堡垒与 NT 建立了利润丰厚的合作关系，并直接签约向 Starlight 星区偏远地带供应某些需求旺盛的矿物；那些地方甚至超出了公司的后勤网络覆盖范围。
+
+  ## 矮人炼金术
+  对大多数物种而言，酒精是一种有毒却非常有趣的饮料，因其令人欣快与镇静的效果而备受青睐。对矮人来说，这只说对了一部分：他们在[color=#1e90ff]生理上需要酒精[/color]，就像人类需要膳食脂肪来维持健康一样；酒精是关键的宏量营养素。对矮人而言，[color=#1e90ff]酒精饮料还能缓解饥饿[/color]，而[color=#1e90ff]食物缓解饥饿的效果较差[/color]。此外，他们[color=#ff901e]无法耐受纯水，饮用后会呕吐[/color]。
+
+  更重要的是，矮人饮用某些饮料后常会产生奇特反应。下面列出了其中一些特殊作用。
+
+  以下饮料无需进一步调制，直接取用即可获得增益：
+  <Table Columns="3">
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        水
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同吐根酊（引发呕吐）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAleBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        麦芽酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        恢复口渴值；不含乙醇
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkBeerBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        啤酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        恢复饥饿值
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkMeadJug" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        蜂蜜酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同三嗪合剂
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkVodkaBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        伏特加
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同海罗纳林
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkWhiskeyBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        威士忌
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的钝击伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkRumBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        朗姆酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的切割伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAbsintheBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        苦艾酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的穿刺伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkTequilaBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        龙舌兰酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的灼热伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkCognacBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        干邑白兰地
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的寒冷伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkGinBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        金酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的腐蚀伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkVermouthBottleFull" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        苦艾葡萄酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的电击伤害减少 10%
+      </Box>
+    </ColorBox>
+  </Table>
+
+### 简单调制
+  这些饮料只需稍加调制。
+  <Table Columns="3">
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAntifreeze" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        防冻液
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的寒冷伤害减少 20%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkManlyDorfGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        矮人真汉子
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同比卡丁
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkIcedBeerGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        冰啤酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同德玛林和凯洛坦
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkRedMeadGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        红色蜂蜜酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同生理盐水和德克萨林
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkWhiteGilgameshGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        白色吉尔伽美什
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同迪洛韦恩
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkMartiniGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        马天尼
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同碘化钾
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkTequilaSunriseGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        龙舌兰日出
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同氨甲环酸
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkDarkandStormyGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        黑暗风暴
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        治疗电击伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkDeathInTheAfternoon" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        午后之死
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        将危重阈值提高至 129；
+        死亡阈值降低至 130
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkManhattanGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        曼哈顿
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        免疫光滑表面
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkBraveBullGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        勇敢公牛
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        拳击可造成结构伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkIrishCreamGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        爱尔兰奶油
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        徒手攻击速度提高 25%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkBronxGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        布朗克斯
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        徒手造成的伤害提高 50%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAndalusia" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        安达卢西亚
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的穿刺和电击伤害减少 10%；
+		受到的切割和灼热伤害增加 5%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkGrogGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        格罗格酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的切割和灼热伤害减少 10%；
+		受到的钝击和寒冷伤害增加 5%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkDaiquiri" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        代基里
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的钝击和寒冷伤害减少 10%；
+		受到的穿刺和电击伤害增加 5%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkMoonshineGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        私酿酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        治疗腐蚀伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAmasecGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        阿玛塞克
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同阿里沙嗪
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkHoochGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        劣质酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同麻黄碱
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkMoscowMule" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        莫斯科骡子
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的毒素和辐射伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkGargleBlasterGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        泛银河系含漱爆破酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的钝击、切割和穿刺伤害减少 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkErikaSurprise" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        艾丽卡惊喜
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的灼热、寒冷和电击伤害减少 15%
+      </Box>
+    </ColorBox>
+  </Table>
+### 复杂调制
+  这些饮料需要更多调制步骤。
+  <Table Columns="3">
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="XenoBasherGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        异种粉碎者
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        近战武器攻击速度提高 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkIrishCarBomb" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        爱尔兰汽车炸弹
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        近战武器造成的伤害提高 20%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkDriestMartiniGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        极干马天尼
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的切割、穿刺和钝击伤害减少 15%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkSyndicatebomb" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        辛迪加炸弹
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        交互（DoAfter）速度提高 25%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkRadlerGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        拉德勒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        处于危重状态时治疗切割、穿刺和钝击伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAlliesCocktail" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        同盟鸡尾酒
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        处于危重状态时治疗腐蚀、灼热和寒冷伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkIrishCoffeeGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        爱尔兰咖啡
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        移动速度提高 10%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="BudgetInsulsDrinkGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        廉价绝缘
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        免受电击
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkTheSunAlsoRises" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        太阳照常升起
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        低光视觉
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkAlienBrainHemorrhage" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        异星脑出血
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        治疗基因伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="RubberneckGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        长颈客
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同脱氧麻黄碱
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkElectricSharkGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        电鲨
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        无视减速
+      </Box>
+    </ColorBox>
+  </Table>
+### 专家调制
+  这些饮料最好交给经验丰富的酒保和／或牧师调制。
+  <Table Columns="3">
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkPainkillerGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        止痛药
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的失血伤害减少 100%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="IrishBoolGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        爱尔兰布尔
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        快速从眩晕和击倒中恢复；受到的耐力伤害减少 90%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkCrushDepthGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        压溃深度
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        不受压力效应伤害
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkB52Glass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        B52
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        受到的爆炸伤害减少 25%
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkBacchusBlessing" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        巴克科斯的祝福
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        效果等同全能嗪
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        <GuideEntityEmbed Entity="DrinkTheHighlanderGlass" Caption="" />
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        高地人
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        将危重阈值提高至 219 点伤害
+		（死亡阈值仍为 220）
+      </Box>
+    </ColorBox>
+  </Table>
+</Document>

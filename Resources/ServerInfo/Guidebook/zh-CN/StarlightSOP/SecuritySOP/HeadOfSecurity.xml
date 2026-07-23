@@ -1,0 +1,65 @@
+<Document>
+# 安保主管
+
+<GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="安保主管"/>
+
+### §1\n
+标准[color=#00a933]绿色警报[/color]装备如下：
+
+<Box>
+	<GuideEntityEmbed Entity="WeaponSubMachineGunWt550"/>
+	或
+	<GuideEntityEmbed Entity="WeaponEnergySMG"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="Stunbaton"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="HoloprojectorSecurity"/>
+	<GuideEntityEmbed Entity="FlashlightSeclite"/>
+	<GuideEntityEmbed Entity="RadioHandheldSecurity"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CombatKnife"/>
+	置于
+	<GuideEntityEmbed Entity="ClothingShoesBootsJack"/>
+	中
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="GrenadeFlashBang"/>
+	<GuideEntityEmbed Entity="TearGasGrenade"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="Handcuffs"/>
+	<GuideEntityEmbed Entity="Zipties"/>
+</Box>
+
+- 2.\n
+安保主管同时受安保部与指挥部标准操作规程约束。如有重叠，以安保部标准操作规程为准。
+- 3.\n
+安保主管首先是安保部的领导者。\n\n
+3.1\n
+其负责确保整个部门正确遵守标准操作规程与公司法。\n\n
+3.2\n
+其负责协调本部门，尤其是在危机期间。\n\n
+3.3\n
+其负责掌握空间站安全事务，并且必须能够且愿意向船员说明威胁等级升高的原因。\n\n
+3.4\n
+其负责填补本部门的人员空缺，并应按以下优先顺序采取措施：\n\n
+3.4.1\n
+重新分派现有安保成员。\n\n
+3.4.2\n
+招募新的安保成员。\n\n
+3.4.3\n
+亲自履行缺岗下属的职责。
+- 4.\n
+若参与安保干员的常规活动会妨碍安保主管妥善履行 §3 所列职责，则安保主管不得参与这些活动。
+- 5.\n
+安保主管不得患有缄默等会严重妨碍其履行 §3 所列职责的残障或疾病。
+- 6.\n
+除非战术上确有必要，否则安保主管应避免参加作战行动，转而依照 §3 确保本部门的战略协同。
+- 7.\n
+安保主管获准将已判刑的罪犯关押在禁闭区，最长 30 分钟。\n\n
+7.1\n
+只要刑罚尚未对被拘留者执行，安保主管还可推翻其他安保部成员作出的判决。
+</Document>

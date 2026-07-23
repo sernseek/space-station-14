@@ -1,0 +1,77 @@
+<Document>
+# 医师
+是时候救死扶伤了——或者至少努力试试。无论是小小擦伤还是皮肤被煮熟，医师都是负责照料空间站船员各种伤痛的主要人员。
+
+本指南将简要介绍你能使用的治疗方法、伤员检别分类以及其他照护手段。
+
+## 基础知识
+判断某人患了什么问题有两种方法：进行扫描（使用健康分析仪或医疗 PDA），或者按住 shift 点击对方进行检查，再点击心形图标。
+
+健康分析仪往往比检查更强大，因为有些问题（例如中毒或辐射）不会在检查结果中显示。不过，分析仪也有缺点：它会发出声音并消耗电池电量。
+<Box>
+<GuideEntityEmbed Entity="SignExamroom" Caption="检查患者"/>
+<GuideEntityEmbed Entity="MedicalPDA"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="实习医师 PDA"/>
+<GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+</Box>
+
+## 药物与治疗方法
+在继续之前，最好先了解各种伤害类型及其治疗方式。Wiki 上有更详尽的信息，以下列出的是常用方法。
+
+特别注意：大多数药物都有过量阈值，超过后会伤害患者。片剂中的化学物质也需要时间代谢；若希望迅速生效，请使用注射器。
+
+- 外伤：Bicaridine 或瘀伤包
+- 灼烧：Dermaline 或药膏
+- 毒素（中毒）：Dylovene
+- 毒素（辐射）：Hyronalin 或 Arithrazine
+- 缺氧：Dexaline 或 Inaprovaline
+- 失血：Dexaline（检查患者；若脸色苍白，他们仍需要补血或补铁。）
+- 出血：Tranexamic acid 和纱布（也可以造成灼烧伤来烧灼止血。）
+
+许多空间站的储藏区备有医疗包，所有医疗人员的初始腰带中也都有一些装备。
+
+<Box>
+<GuideEntityEmbed Entity="MedkitFilled"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="外伤医疗包"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="辐射医疗包"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="灼烧医疗包"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="毒素医疗包"/>
+</Box>
+
+<Box>
+<GuideEntityEmbed Entity="Brutepack"/>
+<GuideEntityEmbed Entity="Ointment"/>
+<GuideEntityEmbed Entity="EmergencyMedipen"/>
+<GuideEntityEmbed Entity="Bloodpack"/>
+<GuideEntityEmbed Entity="Gauze"/>
+</Box>
+
+## 基础治疗与伤员检别分类
+检查患者并记下重要细节：他们还活着吗？是否出血？受到了哪类伤害？
+
+如果患者还活着，就尽你所能进行治疗。患者在伤害达到 100 时进入危急状态，达到 200 时死亡。选择治疗方式时请牢记这一点。紧急医疗笔和 Epinephrine 常用于维持患者的稳定状态。
+
+如有可能，将患者扣在医疗床上；如果需要时间治疗，则将其固定在停滞床上。但请记住，患者处于停滞状态时，代谢（以及依赖代谢的治疗药物）会变得极其缓慢；要让药物有效，就必须将其移出停滞状态。（不过，血袋、药膏和外伤包仍会正常生效。）
+<Box>
+<GuideEntityEmbed Entity="MedicalBed"/>
+<GuideEntityEmbed Entity="StasisBed"/>
+</Box>
+## 评估尸体
+你不可能救下所有人，死亡有时难以避免。根据尸体的[color=#a4885c]状态[/color]，可以采取几种不同措施。
+
+1. 尸体上还有灵魂吗？检查时若显示“他们的灵魂已经离去。”，便说明没有。若未显示这句话，就仍有一名玩家可以被复活。
+
+2. 尸体腐烂了吗？如果已经腐烂，很遗憾，只能进行克隆。腐烂的尸体无法用除颤器救活。（参见“克隆”）
+
+3. 如果尸体仍有灵魂且尚未腐烂，就有可能将其复活。如果没有足够时间立刻救人，可以考虑把尸体存放在停尸柜托盘中，因为等待太久会导致尸体腐烂。
+
+## 复活
+不计缺氧伤害时，除颤器可以复活总伤害低于 200 的患者。尸体不会代谢化学物质，但外伤包和药膏仍能修补伤势。用它们将伤害降低到足以复活的程度。
+
+<Box>
+<GuideEntityEmbed Entity="Brutepack"/>
+<GuideEntityEmbed Entity="Defibrillator"/>
+<GuideEntityEmbed Entity="Ointment"/>
+</Box>
+
+</Document>

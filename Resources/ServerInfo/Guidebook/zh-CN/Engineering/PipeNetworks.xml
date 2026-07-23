@@ -1,0 +1,41 @@
+<Document>
+  # 管道网络
+  管道网络通常简称为管网，是一系列相互连接、通常共同承担某项任务的[textlink="管道" link="Pipes"]。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeHalf" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeTJunction" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption=""/>
+    <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
+  </Box>
+
+  空间站各处都使用管网来输送、排出或以其他方式转移气体。
+  空间站的配气管网与废气管网就是很好的例子：前者输送可呼吸空气，后者排出废气。
+
+  ## 管网如何工作
+  在 Space Station 14 中，一整套管网会被视为一个体积确定的整体，其输入／输出点位于网络末端。
+  使用[textlink="泵" link="Pumps"]向其中加压送气或抽气会影响整个网络，而不只是与泵相连的那根管道。
+
+  只有能够中断流动的设备或某些特定设备才能分隔管网。
+  例如，除非[textlink="压力泵" link="Pumps"]已通电且有气体可泵送，否则气体无法流过它。
+
+  可以分隔管网的设备包括：
+  - [textlink="压力泵与容积泵" link="Pumps"]
+  - [textlink="气体混合器与过滤器" link="MixingAndFiltering"]
+  - [textlink="所有阀门" link="Valves"]
+  - [textlink="散热器" link="Radiators"]
+
+  下方展示了一个管网被[textlink="泵" link="Pumps"]分隔成两个独立管网的示例：
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="管网 1" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption="网络分隔器" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="管网 2" Rotation="90"/>
+  </Box>
+
+</Document>

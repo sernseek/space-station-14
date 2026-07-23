@@ -1,0 +1,16 @@
+<Document>
+  # 蜥蜴人
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceReptilian" Caption=""/>
+  </Box>
+
+  他们只能食用水果和肉类，但可以吃生肉、喝血而不会受到任何不良影响。
+  与人类相比，他们偏好稍高一些的温度范围。
+  他们能用尾巴拖动物体，从而腾出双手。
+
+  他们徒手使用利爪攻击时造成切割伤害，而非钝击伤害。
+
+  他们受到的[color=#ffa500]寒冷伤害增加 30%。[/color]
+
+</Document>

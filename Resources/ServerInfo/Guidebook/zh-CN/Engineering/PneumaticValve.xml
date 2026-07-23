@@ -1,0 +1,43 @@
+<Document>
+  # 气动阀门
+  气动阀门是一种通过压力输入控制的双向阀门。
+  <Box>
+    <GuideEntityEmbed Entity="PressureControlledValve"/>
+  </Box>
+
+  气动阀门有 3 个接口：输入、输出与控制。
+  “输入”侧是在两个输入／输出接口中压力较高的一侧；该侧可以切换，因此阀门能够双向工作。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输入／输出"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="控制" Rotation="90"/>
+    <GuideEntityEmbed Entity="PressureControlledValve" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输入／输出"/>
+  </Box>
+
+  当输出侧压力比控制侧压力低[color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color]时，阀门会[color=green]开启[/color]。
+
+  当输出侧压力与控制侧压力的差值缩小至[color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color]以内时，阀门会[color=red]关闭[/color]。
+
+  例如，控制压力为 500 kPa 的气动阀门，会在输出压力不高于 500 kPa - [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color]时开启，并在输出压力不低于 500 kPa - [color=orange][protodata="PressureControlledValve" comp="PressureControlledValve" member="Threshold"/] kPa[/color]时关闭。
+
+  阀门的控制压力由所连接的管网决定，因此可以使用[textlink="泵" link="Pumps"]或其他压力控制源实时调节。
+
+  ## 与泵的区别
+
+  气动阀门不同于通过做功输送气体的[textlink="泵" link="Pumps"]。
+  气动阀门是被动设备，依靠输入气体的较高压力输送气体，因此在某些情况下，填充容积的速度会比[textlink="泵" link="Pumps"]更快。
+
+  例如，控制压力为 500 kPa 的气动阀门，填充容积的速度会比设为 500 kPa 的压力[textlink="泵" link="Pumps"]更快。
+  不过，[textlink="泵" link="Pumps"]能够更精确地维持容积内的压力。
+
+  气动阀门有多种用途，例如：
+  - 根据控制输入，自动排出燃烧室中的气体
+  - 根据可自定义的控制压力，快速填充某一容积
+
+</Document>

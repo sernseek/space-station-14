@@ -1,0 +1,64 @@
+<Document>
+# 语音与文字频道
+交流是 Space Station 14 的重要组成部分。按下 [keybind="FocusChatInputWindow"/] 可以直接跳转至文字输入框。
+
+文字输入框旁边的词表示你即将发送消息的[color=#a4885c]文字频道[/color]；更准确地说，它表示你将以何种方式说出输入的内容。
+
+“本地”是以正常音量说话。
+
+“低语”只有附近的人才能听见。通过无线电发送消息时，你会自动对着无线电低语。
+
+“动作”是你做出的姿态。任何未失明的人都能看到。你经常会看到哑剧演员做出许多动作。
+
+在消息开头输入[color=#a4885c][keybind="FocusWhisperChatWindow"/][/color]可以发送低语；在消息开头输入（[color=#a4885c]@[/color]）可以发送动作。
+也可以按下 [keybind="CycleChatChannelForward"/] 依次切换所有这些文字频道。
+
+如果你与他人相距太远，对方可能无法听清你说的全部内容。低语时尤其要注意这一点。
+
+## 无线电
+
+无线电让你可以与全站及你所在的特定[color=#a4885c]部门[/color]通信。
+
+<Box>
+  <GuideEntityEmbed Entity="ClothingHeadsetAssistant"/>
+</Box>
+
+要通过无线电在[color=#a4885c]全站范围[/color]发送消息，请使用[color=#32cd32]通用[/color]频道，在文字开头输入[color=#32cd32]分号（;）[/color]。
+即使附近的人无权收听相应无线电频道，也可能听到你无线电消息的只言片语。小心窃听者。
+
+## 部门无线电
+
+只要佩戴的耳机装有本部门的加密密钥，就可以输入[color=#32cd32]冒号（:）[/color]和部门字母，通过部门无线电频道发送消息。
+
+检查你的耳机，即可查看你能使用的部门频道。
+
+<Box>
+  <GuideEntityEmbed Entity="ClothingHeadsetEngineering"/>
+</Box>
+
+检查未经改装的工程部耳机时，会显示[color=#32cd32]通用[/color]频道与[color=#f37746]工程部[/color]频道的前缀。
+
+还可以使用 [color=#a4885c]:h[/color]。该快捷前缀会自动选择你的部门无线电频道。
+例如，如果你是空间站工程师，[color=#a4885c]:h[/color] 就会自动等同于 [color=#f37746]:e[/color]。
+
+## 加密密钥
+[color=#a4885c]加密密钥[/color]使你能够使用相应的频道。
+
+检查前文的工程部耳机时，会看到[color=#32cd32]通用[/color]频道和[color=#f37746]工程部[/color]频道，因为工程师耳机初始就装有这两个频道的[color=#a4885c]加密密钥[/color]。
+
+<Box>
+  <GuideEntityEmbed Entity="EncryptionKeyCommon"/>
+  <GuideEntityEmbed Entity="EncryptionKeyEngineering"/>
+</Box>
+
+对耳机使用[color=#a4885c]螺丝刀[/color]，即可取出加密密钥。手持新的加密密钥点击耳机，即可将其装入耳机。
+
+所有指挥部成员都有与其部门对应的备用加密密钥；你也可以在更换职业时，向人事主管办公室申请一枚。
+
+## 场外频道
+OOC（场外）频道存在于游戏世界之外，包括 LOOC、本地场外频道；OOC、场外频道；以及死亡聊天。
+
+LOOC 在回合中开放；OOC 通常会关闭到回合结束；而死亡聊天只有在你——没错——死亡后才能看到和使用。
+
+回合进行期间，不得在 Discord 或开放的 OOC 中讨论当前回合。
+</Document>

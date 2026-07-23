@@ -1,0 +1,71 @@
+<Document>
+  # 窃贼
+
+  <Box>
+    [color=#999999][italic]“顺走咯！这个归我，那个也归我！哦，那我就不客气啦！”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingNeckCloakVoid" Caption=""/>
+  </Box>
+
+  窃贼是些手脚不干净、罪行不重却十分狡猾的[color=green]罪犯[/color]。上次被捕后，你被强制植入了[bold]和平主义植入物[/bold]，但这可阻止不了你继续扩充收藏。
+
+  ## 偷窃的艺术
+  与其他敌对角色不同，由于植入物的限制，[bold]避开麻烦对你而言几乎是必要条件[/bold]。
+  只有在[color=#cb0000]安保部[/color]主动找你麻烦时，你才能逃跑；而且你独自行动，没有朋友能把你从险境中救出来。
+
+  即便困难重重，你仍会凭借决心、障眼法、几件工具以及[color=cyan]扒窃技巧[/color]，成功顺走想要的东西。
+
+  你的扒窃技巧带来了一项巨大优势：[bold]能在人们毫无察觉的情况下拿走他们身上的东西。[/bold]稍加练习，你甚至可以一边偷走对方的钱包，一边若无其事地继续交谈。
+
+  建议找一副手套，因为失窃物品一旦被找到，上面的指纹仍可能追查到你。
+
+
+
+  ## 吃饭的家伙
+  你偷来的袖子里还藏着两张王牌：[color=cyan]信标[/color]和[color=cyan]挎包[/color]。
+
+  有些小玩意不方便随身带上紧急撤离穿梭机，而你的[color=cyan]信标[/color]能让它们安全回家。只需在空间站找个隐蔽角落展开信标，再将坐标设为你的藏身处。
+  班次结束时，附近的宝贝会被[bold]传送至你的金库[/bold]，从而完成目标。
+
+  然而，一旦信标被发现，你的身份会立刻暴露，其他人也能轻而易举地取回那些“失踪”的财物。[bold]一定要把它藏好！[/bold]
+
+  <Box>
+    <GuideEntityEmbed Entity="ThiefBeacon"/>
+  </Box>
+
+  你的[color=cyan]挎包[/color]里装着……嗯，你还记得带上的那些东西。[bold]你可以选择两个预先配好的套装[/bold]，帮助自己完成更宏大的盗窃。
+
+  <Box>
+    <GuideEntityEmbed Entity="SatchelThief"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Implanter" Caption="解剖专家"/>
+    <GuideEntityEmbed Entity="C4" Caption="破门专家"/>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="变色龙"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="通讯专家"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="催眠专家"/>
+    <GuideEntityEmbed Entity="Fulton" Caption="走私专家"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="辛迪加"/>
+  </Box>
+
+  ## 收藏中的镇馆之宝
+  你的盗窃癖会带你去往各种地方。今天你可能想偷几个人偶，明天就可能想偷一台工业机器。
+
+  无所谓。用不了多久，它们都会成为你收藏的一部分。
+
+  抵达中央指挥部时，只要物品[bold]带在身上[/bold]，就算成功盗取。如果做不到，也可以把大型物品[bold]留在信标旁[/bold]来完成偷窃。
+
+  某些比较[italic]活泼[/italic]的目标可能不会乖乖配合。班次结束时，务必确保它们活着，并和你或你的信标待在一起。
+
+  你渴望的东西包括但不限于：
+
+  <Box>
+    <GuideEntityEmbed Entity="AssistantIDCard" Caption="ID 卡"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="设施"/>
+    <GuideEntityEmbed Entity="MobCorgiIan" Caption="动物／宠物"/>
+  </Box>
+
+</Document>

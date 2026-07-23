@@ -1,0 +1,33 @@
+<Document>
+
+# 服务部订单
+
+## 人事主管
+<Box>
+	<GuideEntityEmbed Entity="CrateServiceBureaucracy"/>
+</Box>
+
+## 酒保
+<Box>
+	<GuideEntityEmbed Entity="CrateFoodBarSupply"/>
+</Box>
+
+## 植物学家
+<Box>
+	<GuideEntityEmbed Entity="VendingMachineRestockSeeds"/>
+</Box>
+<Box>
+	[italic]此规定不适用于奇异种子箱。[/italic]
+</Box>
+
+## 清洁工
+<Box>
+	<GuideEntityEmbed Entity="JanitorialTrolley"/>
+	<GuideEntityEmbed Entity="CrateServiceJanitorialSupplies"/>
+</Box>
+
+## 小丑与哑剧演员
+<Box>
+	任何订单都必须加盖军需官和人事主管的印章方可批准。
+</Box>
+</Document>

@@ -1,0 +1,109 @@
+<Document>
+  # 气体操控
+  大气部门拥有各种工具和设备，可用于操控空间站各处的气体。
+
+  [bold]警告：解除大多数含气设备的锚固（用扳手松开）会使气体[color=red]泄漏[/color]到大气中。[/bold]
+  [textlink="储气罐" link="GasCanisters"]、[textlink="便携式洗涤器" link="PortableScrubber"]、[textlink="冷凝器" link="GasCondensing"]和[textlink="热力机械" link="Thermomachines"]可以安全解除锚固。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeHalf" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeTJunction" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeFourway" Caption=""/>
+  </Box>
+  <Box>
+    ## 管道
+  </Box>
+  <Box>
+    [color=#999999][italic]将气体从一处输送到另一处[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption=""/>
+    <GuideEntityEmbed Entity="GasVolumePump" Caption=""/>
+  </Box>
+  <Box>
+    ## 泵
+  </Box>
+  <Box>
+    [color=#999999][italic]强制气体从一处流向另一处[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="GasVentPump" Caption=""/>
+    <GuideEntityEmbed Entity="GasPassiveVent" Caption=""/>
+    <GuideEntityEmbed Entity="GasOutletInjector" Caption=""/>
+    <GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
+    <GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
+  </Box>
+  <Box>
+    ## 大气输入与输出
+  </Box>
+  <Box>
+    [color=#999999][italic]向现有（或不存在的）大气中注入气体，或从中抽取气体[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="GasValve" Caption=""/>
+    <GuideEntityEmbed Entity="SignalControlledValve" Caption=""/>
+    <GuideEntityEmbed Entity="PressureControlledValve" Caption=""/>
+    <GuideEntityEmbed Entity="GasPassiveGate" Caption=""/>
+    <GuideEntityEmbed Entity="GasPressureRegulator" Caption=""/>
+  </Box>
+  <Box>
+    ## 阀门
+  </Box>
+  <Box>
+    [color=#999999][italic]控制气体在管道中的流动[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="GasMixer" Caption=""/>
+    <GuideEntityEmbed Entity="GasFilter" Caption=""/>
+  </Box>
+  <Box>
+    ## 混合与过滤
+  </Box>
+  <Box>
+    [color=#999999][italic]操控气体成分[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="AirCanister" Caption=""/>
+    <GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="NitrogenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
+    <GuideEntityEmbed Entity="StorageCanister" Caption=""/>
+    <GuideEntityEmbed Entity="GasPort" Caption=""/>
+  </Box>
+  <Box>
+    ## 储气罐
+  </Box>
+  <Box>
+    [color=#999999][italic]储存和运输气体，便于船员使用[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
+    <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
+  </Box>
+  <Box>
+    ## 热力机械与散热器
+  </Box>
+  <Box>
+    [color=#999999][italic]操控管网或大气中气体的温度[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
+  </Box>
+  <Box>
+    ## 气体冷凝
+  </Box>
+  <Box>
+    [color=#999999][italic]冷凝气体以供进一步使用[italic][/color]
+  </Box>
+</Document>

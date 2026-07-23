@@ -1,0 +1,39 @@
+<Document>
+  # 设备监控与控制
+  大气管网遍布整座空间站，因此必须能从中央位置监控和控制设备。
+
+  大气技师可以使用这些系统监控并控制整座空间站的大气环境。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
+    <GuideEntityEmbed Entity="AirSensor" Caption=""/>
+  </Box>
+  <Box>
+    ## 空气警报器
+  </Box>
+  <Box>
+    [color=#999999][italic]大范围监控与控制大气设备[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
+  </Box>
+  <Box>
+    ## 大气警报计算机
+  </Box>
+  <Box>
+    [color=#999999][italic]监控全站的空气警报器[italic][/color]
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerAtmosMonitoring" Caption=""/>
+    <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
+  </Box>
+  <Box>
+    ## 大气管网监视器
+  </Box>
+  <Box>
+    [color=#999999][italic]监控整个管道网络[italic][/color]
+  </Box>
+
+</Document>

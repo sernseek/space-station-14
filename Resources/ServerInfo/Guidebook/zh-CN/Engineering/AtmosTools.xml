@@ -1,0 +1,52 @@
+<Document>
+  # 大气工具
+  大气技师拥有与工程师相同的核心工具组，但还能使用两种额外工具：全息风墙投影器和气体分析仪。
+
+  <Box>
+    <GuideEntityEmbed Entity="HolofanProjector"/>
+    <GuideEntityEmbed Entity="GasAnalyzer"/>
+  </Box>
+
+  ## 全息风墙投影器
+  全息风墙投影器可以投射一道阻挡空气与气体流动、但仍允许人员通过的硬光屏障。
+
+  <Box>
+    <GuideEntityEmbed Entity="HolofanProjector"/>
+    <GuideEntityEmbed Entity="HoloFan"/>
+  </Box>
+
+  它非常适合在[textlink="防火闸缓冲区" link="FireAndGasControl"]之间移动时防止气体泄漏到其他房间，同时也能提醒普通船员某个房间可能不宜进入。
+  它还能形成临时屏障，让船员在破舱区域与密闭区域之间快速移动，而不会使其他房间的空气泄漏。
+
+  它内置的电量会随每次使用而减少，但可以取出电池，将其放入电池充电器或充电站中充电。
+
+  放置在[textlink="防火闸" link="FireAndGasControl"]旁的全息风墙会解除防火闸锁定，使其可以手动开启。
+
+  ## 气体分析仪
+  气体分析仪可用于分析暴露环境中的气体成分，或任何装有气体的[textlink="大气设备" link="GasManipulation"]。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasAnalyzer"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeBend" Caption=""/>
+    <GuideEntityEmbed Entity="GasPressurePump" Caption=""/>
+    <GuideEntityEmbed Entity="SignalControlledValve" Caption=""/>
+    <GuideEntityEmbed Entity="GasFilter" Caption=""/>
+    <GuideEntityEmbed Entity="StorageCanister" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
+  </Box>
+
+  点击装有气体的[textlink="设备" link="GasManipulation"]，或点击房间内的空气，即可使用气体分析仪。
+
+  使用时，气体分析仪会报告：
+  - 所测设备的容积（不是气体体积！）
+  - 气体总压力，单位为 kPa
+  - 气体温度，以开尔文（K）和摄氏度（C）表示
+  - 各种气体的精确摩尔量，以及占总体积的百分比
+
+  气体分析仪会在界面底部以图示显示混合物中存在的各种[textlink="气体" link="Gasses"]及其相对浓度。
+
+  分析二元与三元[textlink="设备" link="GasManipulation"]（即有两个或三个输入／输出口的设备）时，气体分析仪会分别显示每个输入／输出口的成分。这有助于排查气体[textlink="混合与过滤" link="MixingAndFiltering"]装置的故障。
+
+</Document>

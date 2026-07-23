@@ -1,0 +1,22 @@
+<Document>
+  # 分析控制台
+
+  分析控制台是一种用于与神器交互的设备。它可以检查节点及其触发条件和效果，还能提取点数。
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerAnalysisConsole" Caption="分析控制台"/>
+  </Box>
+
+  控制台会显示神器树状结构中每个节点的详细信息，包括：
+  - [bold]ID：[/bold]供节点扫描仪使用的唯一标识符。
+  - [bold]层级：[/bold]节点所在层的名称，同一层中的节点名称相同。
+  - [bold]状态：[/bold]
+  - 默认处于[italic][color=red]锁定[/color][/italic]状态。
+  - 首次触发后变为[italic][color=plum]激活[/color][/italic]状态。
+  - 到达更深层节点后变为[italic][color=lime]已解锁[/color][/italic]状态（此时无法手动激活）。
+  - [bold]耐久度：[/bold]剩余可手动激活的次数。
+  - [bold]效果：[/bold]节点自动或手动触发时发生的效果。
+  - [bold]触发条件：[/bold]解锁节点所需的操作。
+  - [bold]服务器：[/bold]选择接收提取点数的科研服务器。
+  - [bold]提取点数：[/bold]提取自上次提取以来新解锁节点中的点数。
+</Document>

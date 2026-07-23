@@ -1,0 +1,11 @@
+<Document>
+# 医师
+
+<GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="医师"/>
+
+1. 医师直接向医疗主管汇报。
+
+2. 医师治疗患者时应佩戴无菌手套，并穿着手术服或医师外套，以便与其他船员区分。
+
+3. 在没有患者需要治疗的情况下，医师可以旁观外科医师和药剂师履行正式职责。
+</Document>

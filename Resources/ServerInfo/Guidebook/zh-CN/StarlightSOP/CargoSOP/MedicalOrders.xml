@@ -1,0 +1,42 @@
+<Document>
+# 医疗订单
+
+## 基础材料
+### 仅供打印机和车床使用
+<Box>
+	<GuideEntityEmbed Entity="SheetSteel"/>
+	<GuideEntityEmbed Entity="SheetGlass"/>
+	<GuideEntityEmbed Entity="SheetPlastic"/>
+	<GuideEntityEmbed Entity="MaterialCloth"/>
+</Box>
+
+## 补货箱
+<Box>
+	<GuideEntityEmbed Entity="CrateVendingMachineRestockMedicalFilled"/>
+	<GuideEntityEmbed Entity="CrateVendingMachineRestockChemVendFilled"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CrateChemistryD"/>
+	<GuideEntityEmbed Entity="CrateChemistryP"/>
+	<GuideEntityEmbed Entity="CrateChemistryS"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CrateMedicalSupplies"/>
+</Box>
+
+## 医疗包
+<Box>
+	<GuideEntityEmbed Entity="MedkitFilled"/>
+	<GuideEntityEmbed Entity="MedkitAdvancedFilled"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="MedkitOxygenFilled"/>
+	<GuideEntityEmbed Entity="MedkitBruteFilled"/>
+</Box>
+<Box>
+
+	<GuideEntityEmbed Entity="MedkitRadiationFilled"/>
+	<GuideEntityEmbed Entity="MedkitToxinFilled"/>
+	<GuideEntityEmbed Entity="MedkitBurnFilled"/>
+</Box>
+</Document>

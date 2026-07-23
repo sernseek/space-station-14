@@ -1,0 +1,30 @@
+<Document>
+  # 储气罐
+  <Box>
+    <GuideEntityEmbed Entity="AirCanister"/>
+    <GuideEntityEmbed Entity="OxygenCanister"/>
+    <GuideEntityEmbed Entity="NitrogenCanister"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="CarbonDioxideCanister"/>
+    <GuideEntityEmbed Entity="StorageCanister"/>
+    <GuideEntityEmbed Entity="GasPort"/>
+  </Box>
+
+  储气罐是一种用便携容器储存气体，以便轻松运输的设备。
+  它能储存 [color=orange][protodata="StorageCanister" comp="GasCanister" member="Volume"/] 升[/color]气体。
+
+  你可以把手持气罐接到储气罐上，再通过储气罐的释放阀为其补充气体。
+  释放阀还配有可调式压力调节器，用于控制所接手持气罐的压力。
+
+  如果在没有连接手持气罐时打开释放阀，储气罐会按调节器指定的压力向大气中释放气体。
+
+  [bold]弹出手持气罐前，务必关闭释放阀！[/bold]
+
+  ## 连接端口
+  将储气罐和[textlink="便携式洗涤器" link="PortableScrubber"]放在连接器上并锚固（用扳手固定），即可把设备连接到[textlink="管网" link="PipeNetworks"]。
+  连接后，气体可以自由进出储气罐，以平衡压力、温度和成分。
+
+  可以使用泵向储气罐注入或从中抽取气体，这对于彻底装满或排空储气罐很有用。
+
+</Document>

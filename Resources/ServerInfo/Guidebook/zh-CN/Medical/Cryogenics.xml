@@ -1,0 +1,54 @@
+<Document>
+# 低温治疗
+低温治疗可能有些难懂，但希望你快速看完这张示意图后，就能掌握它的操作方法！下面逐一说明各部分的作用：
+
+- 进气口：空气从配气管网或储气罐经此进入，为舱内人员提供呼吸用气，也为冷冻机提供需要降温的气体。
+- 气泵：限制管网压力，防止舱内人员被过高气压压伤。
+- 冷冻机：冷却空气，进而冷却舱内患者，使 Cryoxadone 生效。
+- 气体过滤器：从循环中清除废气（二氧化碳和一氧化二氮）。
+- 出气口：废气从这里流出，进入储气罐或废气管网。
+<Box>
+<GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
+<GuideEntityEmbed Entity="CryoPod" Caption="低温舱" Rotation="0"/>
+<GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="GasPipeBend" Rotation="180"/>
+<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
+<GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+<GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+<GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="GasPort" Caption="出气口" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+<GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
+<GuideEntityEmbed Entity="GasPort" Caption="进气口" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
+</Box>
+
+并非每套管网都会长成这样，但希望这张图足以让你基本理解它的工作原理。
+
+有一点非常重要：冬装（以及硬壳服）会降低低温治疗的效果，甚至使其完全无效。将患者放入低温舱前，务必脱下防寒服装。
+
+## 使用低温舱
+设备设置完成后，你还需要一种特定药物：Cryoxadone。患者处于低温时，Cryoxadone 可以治疗所有伤害类型。你既可以事先给患者服用（药丸），也可以用烧杯直接装入舱体。请注意，患者只有冷却至适当温度后才会开始恢复，因此可以考虑稍等片刻，再将烧杯放入舱内。
+
+## 补充信息：
+
+气泵的标准压力为 100.325 kpa。Cryoxadone 会在低于 170K 时生效，但通常会将冷冻机设为 100K，以加快降温速度。
+
+<GuideReagentEmbed Reagent="Aloxadone"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Doxarubixadone"/>
+<GuideReagentEmbed Reagent="Dexalin"/>
+<GuideReagentEmbed Reagent="Leporazine"/>
+<GuideReagentEmbed Reagent="Necrosol"/>
+<GuideReagentEmbed Reagent="Opporozidone"/>
+
+</Document>

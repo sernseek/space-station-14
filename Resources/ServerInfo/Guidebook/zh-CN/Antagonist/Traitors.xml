@@ -1,0 +1,145 @@
+<Document>
+  # 叛徒
+
+  <Box>
+    [color=#999999][italic]“威士忌。回声。威士忌。利马。阿尔法。德尔塔。特工，你已被激活。”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="PosterContrabandSyndicateRecruitment" Caption=""/>
+  </Box>
+  叛徒是受雇于[color=#ff0000]辛迪加[/color]的敌对角色。你是一名潜伏特工，可以通过自己的[bold]升链[/bold]取得各种工具和武器。
+  你还会收到用于识别其他特工的[bold]暗语[/bold]；一支协调一致的叛徒小队可以造成[italic]极其惨烈的后果。[/italic]
+
+  除[textlink="部门主管" link="Command"]或[textlink="安保部" link="Security"]成员外，任何人都可能成为叛徒。
+
+  ## 升链与激活
+  [color=cyan]升链[/color]是你作为叛徒最重要的工具。你可以用初始拥有的 20 枚[color=red]遥晶[/color]（TC）兑换有助于完成任务的物品。
+
+  按下[color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color]后，你会看到自己的升链个人代码。[bold]将 PDA 铃声设置为该代码即可打开升链。[/bold]
+  按下[color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color]还可以查看任务目标和暗语。
+
+  如果你被激活时没有 PDA，系统会提供一个[color=cyan]升链植入物[/color]，[bold]但会从你的[color=red]TC[/color]中扣除该植入物的全价。[/bold]
+  你可以从快捷栏访问它。
+  <Box>
+    <GuideEntityEmbed Entity="AssistantPDA" Caption="PDA"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="遥晶"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="升链植入物"/>
+  </Box>
+
+  [bold]务必关闭 PDA 上的升链，以免被其他人看到。[/bold]你可不想让[color=#cb0000]安保[/color]发现并没收它！
+
+  植入式升链通常无法被其他人访问，因此没有任何安全措施。不过，别人可以用空植入器把它从你体内取出。
+
+  <Box>
+    <GuideEntityEmbed Entity="WeaponPistolCobra" Caption="武器"/>
+    <GuideEntityEmbed Entity="MagazineBoxLightRifleSP" State="icon" Caption="弹药"/>
+    <GuideEntityEmbed Entity="C4" Caption="爆炸物"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="穿戴装备"/>
+    <GuideEntityEmbed Entity="Stimpack" Caption="化学品"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="欺骗"/>
+    <GuideEntityEmbed Entity="Emag" Caption="干扰"/>
+    <GuideEntityEmbed Entity="StorageImplanter" Caption="植入物"/>
+    <GuideEntityEmbed Entity="MobMonkeySyndicateAgentNukeops" Caption="盟友"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="无用之物"/>
+  </Box>
+
+  购买的物品应当帮助你完成任务。有些装备可能对你毫无用处，你必须在隐秘行动和正面强攻之间作出选择。
+
+  ## 协作
+  暗语是每名叛徒都会知道的单词或短语。它们提供了一种低调识别同伴或与其建立联系的方法；如果你的任务包括[italic][color=cyan]协助其他叛徒完成任务[/color][/italic]，暗语会很有用。
+
+  找到盟友后，[bold]你可以从升链中取出[color=red]遥晶[/color]交给他们。[/bold]他们可以将遥晶存入自己的升链并自行消费。
+
+  升链中的一些商品售价超过 20 TC；如果想购买，就必须与人合资。
+
+  ## 暗杀
+  你的任务之一可能是[italic][color=cyan]杀死或遗弃一名船员。[/color][/italic]
+
+  你可以将目标[color=cyan]遗弃[/color]：只需[bold]阻止其通过紧急撤离穿梭机或逃生舱抵达中央指挥部[/bold]。
+
+  如果无法遗弃目标，或目标重要到不能留其活口，你就得亲自动手[color=cyan]杀死[/color]对方。务必保证[bold]紧急撤离穿梭机抵达中央指挥部时目标并未存活[/bold]，也不要让目标得到复苏。
+
+  切记，辛迪加只想让你的目标死亡。[color=red]尽量避免大规模杀戮或严重破坏空间站[/color]；你夺走的无辜生命越多，自己就越会成为累赘。
+
+  ## 躲避与自我终结
+  你的任务可能要求你[italic][color=cyan]在不被杀死或俘获的情况下抵达中央指挥部。[/color][/italic]不要让[color=#cb0000]安保[/color]阻止你；完成其他任务并[bold]活着回来。[/bold]
+
+  另一种任务可能要求你[italic][color=cyan]光荣赴死。[/color][/italic][bold]确保自己别再死而复生[/bold]，否则醒来时可能已经戴上手铐。
+
+  DAGD 允许许多通常会被禁止的行为，但你绝对不能释放特斯拉。如果不确定想做的事情是否获准，请使用管理求助询问！
+
+  ## 夺取物品
+  通常情况下，你必须[italic][color=cyan]窃取某位部门主管的物品。[/color][/italic]
+
+  目标物品可能放在对方办公室里，也可能由其随身携带。如果无法扒窃，或许不得不杀死携带物品的人。
+
+  你可能接到的任务包括：
+  - 窃取[color=yellow]舰长[/color]的[bold]ID 卡[/bold]、[bold]古董激光手枪[/bold]、[bold]喷气背包[/bold]或[bold]核弹授权盘[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
+    <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>
+    <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption=""/>
+    <GuideEntityEmbed Entity="NukeDisk" Caption=""/>
+  </Box>
+  - 窃取[color=#5b97bc]医疗主管[/color]的[bold]快速注射器[/bold]或[bold]手持船员监控器[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="Hypospray" Caption=""/>
+    <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption=""/>
+  </Box>
+  - 窃取[color=#c96dbf]研究主管[/color]的[bold]实验型硬装宇航服[/bold]或[bold]手持传送器[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption=""/>
+    <GuideEntityEmbed Entity="HandTeleporter" Caption=""/>
+  <!-- Starlight Start - Energy Shotgun and SMG as objectives -->
+  </Box>
+  - 窃取[color=#cb0000]安保主管[/color]的[bold]Proto-5x[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
+  </Box>
+  - 窃取[color=#cb0000]典狱长[/color]的[bold]能量霰弹枪[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
+  <!-- Starlight End - Energy Shotgun and SMG as objectives -->
+  </Box>
+  - 窃取[color=#cb0000]侦探[/color]的[bold]能量马格南[/bold]。 <!-- Starlight - moved magnum to detective -->
+  <Box>
+    <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
+  </Box>
+  - 窃取[color=#f39f27]工程主管[/color]的[bold]高级磁力靴[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption=""/>
+  </Box>
+  - 窃取[color=#b18644]军需官[/color]的[bold]申请电子板[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption=""/>
+  </Box>
+  - 屠宰[color=#9fed58]人事主管[/color]的狗 Ian，并取得[bold]柯基肉[/bold]。
+  <Box>
+    <GuideEntityEmbed Entity="MobCorgiIan" Caption=""/>
+    <GuideEntityEmbed Entity="FoodMeatCorgi" Caption=""/>
+  </Box>
+
+  ## 角色扮演与故事目标
+  执行敌对角色工作的方式有很多种，但一些目标远比其他目标开放。[bold]故事目标[/bold]旨在提供更自由的发挥空间，鼓励你以自己认为合适的方式完成。这些目标往往也很难或根本无法由游戏机制追踪。
+
+  因此，所有故事目标都会要求你[italic][color=cyan]在不被杀死或俘获的情况下抵达中央指挥部。[/color][/italic]
+
+  所有故事目标都以粗体绿色的 [bold][color=green]“RP”[/bold][/color] 图标标示。
+
+  故事目标可能要求你：
+  - 从[color=#cb0000]安保部[/color]军械库中取回被缴获的违禁品。安保经常会收集大量违禁品并锁进军械库，其中许多源自辛迪加。削弱敌人的物资，并将其取回。
+  - 审讯[color=#1f78ff]纳米传讯代表[/color]和其他部门主管，获取[color=#9819ff]公司机密[/color]。这项任务风险极高，可能需要使用伪装和安保装备拘捕目标。记得关闭他们的坐标发射器，或将他们带离空间站，以免追踪器找到他们。
+  - 向他人发起决斗，既可以生死相搏，也可以点到为止。记住，你仍需逃往中央指挥部，因此不建议杀人——除非你以决斗为幌子接近刺杀目标。双方同意的决斗是最好的借口。
+  - 以及其他许许多多的目标！
+
+
+  [bold]再给你几点提示：[/bold]
+  - 能创造有趣角色扮演的做法永远优先。
+  - 如果不确定某件事是否获准，请使用管理求助询问。如果能以符合 MRP 的方式创造精彩角色扮演，管理员通常会允许处于规则边缘、甚至略微越界的行为！
+  - 你可以对任何传真机使用 [bold]EMAG[/bold]，解锁辛迪加传真。如果任务要求你把情报传给辛迪加，但你无法活着离开，可以通过这种替代方式传递情报。
+  - 其他敌对角色不一定值得信任，就连叛徒同伴也是如此。他们可能接到了杀死[bold]你[/bold]的任务。
+
+
+</Document>

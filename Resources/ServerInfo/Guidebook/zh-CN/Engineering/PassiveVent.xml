@@ -1,0 +1,15 @@
+<Document>
+  # 被动通风口
+  被动通风口是一种极其基础的通风口。
+  它直接连接所接入的管网与其暴露于其中的大气。
+  <Box>
+    <GuideEntityEmbed Entity="GasPassiveVent"/>
+  </Box>
+  气体可以在被动通风口与其连接的大气之间自由流动。
+  被动通风口无需[textlink="电力" link="Power"]即可工作。
+
+  这种通风口常见于空间站的[textlink="储气罐" link="GasMiningAndStorage"]中，并与空间站废气管网相连。
+  它能以简单可靠的方式从气体矿机抽取气体，或将不需要的气体安全排入太空。
+
+  可以用任意焊接工具焊住被动通风口，使其停止工作。
+</Document>

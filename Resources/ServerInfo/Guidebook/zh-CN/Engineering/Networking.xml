@@ -1,0 +1,64 @@
+<Document>
+  # 设备联网
+  空间站上的设备需要相互通信，才能执行各自功能。
+  [textlink="空气警报器" link="AirAlarms"]需要与对应设备通信，[textlink="门" link="Airlocks"]需要互相连接才能组成完整的气闸，还有许多其他例子。
+
+  这些通信由两套系统实现：链接系统与列表系统。
+
+  你可以使用多功能工具或网络配置器操作这两套系统。
+  使用[color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]，或将光标悬停在设备上并使用[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]，即可在不同系统间切换。
+
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="Multitool"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="NetworkConfigurator"/>
+    </Box>
+  </Box>
+
+  部分设备需要相应权限才能与其建立连接。
+  例如，将设备连接到[textlink="空气警报器" link="AirAlarms"]需要大气权限。
+  连接门时，则需要该扇门对应的权限等级。
+
+  ## 链接系统
+  链接系统用于明确连接两台设备，例如将一扇门连接到另一扇门。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirlockExternal"/>
+    <GuideEntityEmbed Entity="AirlockEngineering"/>
+    <GuideEntityEmbed Entity="BlastDoor"/>
+    <GuideEntityEmbed Entity="SignalButton"/>
+  </Box>
+
+  在链接系统中，设备拥有能够发送或接收信号的[bold]端口[/bold]。
+
+  将光标悬停在端口上，会显示说明该端口用途的工具提示。
+  例如，输出端口会说明其在什么条件下发出信号；输入端口则会说明设备收到信号后执行什么操作。
+
+  ## 列表系统
+  列表系统用于将多台设备连接到一台主设备，例如将多台大气设备连接到一个空气警报器。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
+    <GuideEntityEmbed Entity="GasVentPump" Caption=""/>
+    <GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
+    <GuideEntityEmbed Entity="AirSensor" Caption=""/>
+    <GuideEntityEmbed Entity="Firelock" Caption=""/>
+  </Box>
+
+  每台设备都有用于在列表系统中识别它的唯一地址。将设备连接到主设备时，你实际是在把该设备的地址加入主设备的通信设备列表。
+
+  对设备使用[color=yellow][bold][keybind="Use"][/bold][/color]进行交互，即可把设备地址保存到工具中。
+
+  将一组设备保存到工具后，对主设备使用[color=yellow][bold][keybind="Use"][/bold][/color]进行交互，即可打开 UI 并把它们连接到主设备。
+
+  UI 提供多个选项：
+  - 设置：用工具中保存的设备覆盖当前已连接设备列表。
+  - 添加：将工具中保存的设备加入当前已连接设备列表。
+  - 清除：移除空气警报器连接的所有设备。
+  - 复制：把当前已连接设备列表复制到工具。
+  - 显示：在主设备与所有已连接设备之间绘制连线。这有助于直观查看空气警报器覆盖的区域。
+
+  如需清空工具，可以对工具按[color=yellow][bold][keybind="Use"][/bold][/color]，或使用[color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]打开已保存设备列表，然后点击“清除”按钮。
+</Document>

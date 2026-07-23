@@ -1,0 +1,31 @@
+<Document>
+  # 工程部
+  [color=#f39f27]工程部[/color]的工作包括[textlink="建造" link="Construction"]、[textlink="维修" link="ExpandingRepairingStation"]、维护一台碰巧能产生[textlink="电力" link="Power"]的致命机器，以及确保空间站内有[textlink="可呼吸的空气" link="Atmospherics"]。
+
+  ## 人员
+  [color=#f39f27]工程部[/color]的工作人员包括技术助理、空间站工程师和大气技师。
+  工程部由工程主管领导。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineEngineer" Caption="工程师"/>
+    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="大气技师"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="工程主管"/>
+  </Box>
+
+  ## 工具
+  <Box>
+    <GuideEntityEmbed Entity="Wrench"/>
+    <GuideEntityEmbed Entity="Crowbar"/>
+    <GuideEntityEmbed Entity="Screwdriver"/>
+    <GuideEntityEmbed Entity="Wirecutter"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Welder"/>
+    <GuideEntityEmbed Entity="Multitool"/>
+    <GuideEntityEmbed Entity="NetworkConfigurator"/>
+  </Box>
+  你的核心工具组由几种小型工具组成。
+  如果你是工程师，腰间的工具腰带里应该各有一把；如果不是，你通常也能在维护通道、工具储藏区、各种工具箱和自动售货机中找到它们。
+
+  大多数任务都能通过检查对象获得操作说明。例如，如果你正在[textlink="建造" link="Construction"]一面墙，仔细查看它便会告诉你下一步该做什么。
+</Document>

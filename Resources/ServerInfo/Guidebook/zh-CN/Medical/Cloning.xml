@@ -1,0 +1,23 @@
+<Document>
+# 克隆
+若其他手段均告失败，就需要克隆患者。只有在患者不可能复原时，才能把克隆作为最后手段。最常见的情况是尸体已经开始腐烂，或受到了过量伤害。
+
+克隆本身相对简单。（前提是网络已经设好。）只需把尸体拖进扫描仪，操作克隆控制台，然后开始克隆！如果患者已经受到细胞损伤，或尸体腐烂太久，结果可能会……不太美好。
+
+请注意：克隆并非始终可用，最好不要依赖它。
+<Box>
+<GuideEntityEmbed Entity="ComputerCloningConsole" Caption="克隆控制台"/>
+<GuideEntityEmbed Entity="MedicalScanner"/>
+<GuideEntityEmbed Entity="CloningPod"/>
+<GuideEntityEmbed Entity="NetworkConfigurator"/>
+</Box>
+## 生物质
+制造克隆体需要生物质，而生物质的获取方式颇为残酷：回收有机材料。无论是已经没有灵魂的船员、空间站宠物，还是已经被“处理掉”的敌对生物，通常都可以拿来回收。
+
+用光标把尸体拖到生物质回收机上，即可将其粉碎以供重复利用。如果尸体属于船员，按惯例应先脱下其装备并归还部门物品，再进行回收。
+<Box>
+<GuideEntityEmbed Entity="BiomassReclaimer"/>
+<GuideEntityEmbed Entity="MaterialBiomass"/>
+</Box>
+
+</Document>

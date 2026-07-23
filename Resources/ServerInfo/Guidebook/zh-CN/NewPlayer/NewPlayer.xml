@@ -1,0 +1,50 @@
+<Document>
+# 欢迎来到 Space Station 14！
+
+  <Box>
+    <GuideEntityEmbed Entity="SignSecureMedRed" Caption="内容与主题警告"/>
+  </Box>
+[bold]游戏内容包括：[/bold]绑架、劫持、谋杀、巨型蜘蛛、精神控制、像素风血液与血腥画面、像素风裸体画面
+
+## 简介
+你刚刚开始了在纳米传讯空间站上的班次。
+你和其他船员需要齐心协力、努力生存并享受游戏！
+
+[bold]请务必遵守所有服务器规则。[/bold]你可以通过[bold]管理求助菜单[/bold]向[color=#EB2D3A][bold]管理员团队[/bold][/color]提问或举报违规行为。（[italic]按下 [/italic][color=yellow][bold][keybind="OpenAHelp"/][/bold][/color][italic] 即可打开[/italic]）
+
+关于[italic]特定职业[/italic]和[italic]游戏机制[/italic]的更详细指南可在[textlink="这里" link="SS14"/]找到。
+
+你可以随时使用 [color=yellow][bold][keybind="OpenGuidebook"][/bold][/color] 再次打开本指南。
+
+## 基本操作
+以下是正常游玩时需要掌握的操作：
+
+- 使用 [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color] 奔跑。按住 [color=yellow][bold][keybind="Walk"][/bold][/color] 可步行
+
+- 使用 [color=yellow][bold][keybind="ExamineEntity"][/bold][/color] 检查周围环境
+
+- 使用 [color=yellow][bold][keybind="Use"][/bold][/color] 与世界互动
+
+- 将鼠标悬停在实体上并按下 [color=yellow][bold][keybind="UseSecondary"][/bold][/color] 会显示包含更多互动选项的[italic]上下文菜单[/italic]
+
+- 使用 [color=yellow][bold][keybind="SwapHands"][/bold][/color] 切换双手，使用 [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] 激活当前手持物品
+
+- 使用 [color=yellow][bold][keybind="Drop"][/bold][/color] 丢下手持物品，或使用 [color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color] 将其投掷出去
+
+- 使用 [color=yellow][bold][keybind="TryPullObject"][/bold][/color] 拖拽物体，使用 [color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color] 松开拖拽
+
+更完整的列表可在[textlink="操作" link="Controls"]页面找到。
+
+## SS14 是什么？
+Space Station 14 是一款以空间站上的猜疑与混乱为主题的多人游戏，也是经典邪典游戏 Space Station 13 的重制版。
+
+与数十名其他玩家一同登上一座设计精巧、模拟细致的空间站，沉浸于角色扮演之中，并应对沿途出现的种种威胁。
+
+SS14 是一款由[bold]和你一样的人们！[/bold]开发的[italic]开源游戏[/italic]
+它会[color=lime]每日更新[/color]，因此有时可能会[color=#EB2D3A][bold]不太稳定。[/bold][/color]
+
+[italic]如果你想报告错误或参与开发，请加入 Discord 并了解如何开始贡献。[/italic]
+
+
+
+</Document>

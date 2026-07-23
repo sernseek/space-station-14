@@ -1,0 +1,23 @@
+<Document>
+  # 入口压力调节阀
+  入口压力调节阀是一种被动设备。当[textlink="管网" link="PipeNetworks"]压力超过特定阈值时，它会让气体排出。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasPressureRegulator"/>
+  </Box>
+
+  ## 工作方式
+  当管道内压力超过设定阈值时，阀门会自动[color=green]打开[/color]，让气体排入相连的输出管道。
+
+  当压力降至设定阈值以下时，阀门会再次[color=red]关闭[/color]。
+
+  阀门流量上限为[color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] L/s[/color]。
+
+  ## 用途示例
+  此阀门常用于防止气体系统出现超压，例如用于[textlink="TEG" link="TEG"]冷却回路和[textlink="管道" link="Pipes"]。超压会令系统失效（堵塞[textlink="泵" link="Pumps"]）。
+
+  该阀门也可从燃烧室中排出已经加热、可供使用的气体。
+  例如，长时间让燃烧室降至某一压力以下可能并不理想，因为气体可能过度冷却并变得稀薄，最终导致熄火。
+
+  入口压力调节阀可以排出多余气体，同时使燃烧室压力保持在一定阈值以上，从而有助于维持室内燃烧。
+</Document>

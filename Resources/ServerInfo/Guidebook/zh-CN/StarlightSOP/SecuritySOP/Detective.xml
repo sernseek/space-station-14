@@ -1,0 +1,44 @@
+<Document>
+# 侦探
+
+<GuideEntityEmbed Entity="ToyFigurineDetective" Caption="侦探"/>
+
+- 1.\n
+标准[color=#00a933]绿色警戒[/color]装备如下：
+
+
+<Box>
+	<GuideEntityEmbed Entity="ClothingHandsGlovesForensic"/>
+	<GuideEntityEmbed Entity="ForensicScanner"/>
+	<GuideEntityEmbed Entity="ForensicPad"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="Stunbaton"/>
+	<GuideEntityEmbed Entity="WeaponRevolverInspector"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="HoloprojectorSecurity"/>
+	<GuideEntityEmbed Entity="FlashlightSeclite"/>
+	<GuideEntityEmbed Entity="RadioHandheldSecurity"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CombatKnife"/>
+	位于
+	<GuideEntityEmbed Entity="ClothingShoesBootsJack"/>
+</Box>
+
+- 2.\n
+侦探自身的标准作业程序不适用时，须遵循安保干员的职责、权限等级与责任。
+- 3.\n
+侦探负责调查犯罪现场。
+- 4.\n
+必要时，侦探负责审讯囚犯和被拘留人员。\n\n
+4.1\n
+审讯所花费的时间须从当事人的拘禁时间中扣除。
+- 5.\n
+经安保主管批准，侦探可以不遵守安保部标准作业程序第 2 节的制服要求。\n\n
+5.1\n
+仅可出于秘密调查目的这样做。\n\n
+5.2\n
+即便如此，侦探仍须始终随身携带真实 ID。
+</Document>

@@ -1,0 +1,72 @@
+<Document>
+# 人质事件
+中央指挥部雇员合同包含保护全体雇员人身安全的条款。若有雇员遭到劫持，安保部与指挥部必须努力确保其生还并获释。
+
+1. 除非另有明确说明，否则应假定所有人质都植入了死亡开关；人质死亡时，开关会摧毁其身体，导致该克隆体永久死亡。
+
+2. 不应尝试会导致人质死亡、随后再复活并回收尸体的营救方案。
+
+3. 若对方索要赎金，舰长或安保主管可以谈判使用空间站资金、物品或二者组合，换取人质安全获释。交易总价值，即物品与金钱的合计价值，必须不高于本节末尾表格规定的限额。
+
+4. 若安保部拘押有敌对方成员，可以用其交换人质。
+
+5. 任何人质谈判都必须包括一项保证：敌对方将停止行动并撤离该区域。
+
+6. 若安保部认为能安全完成营救，可以尝试救出人质。直接冲入现场与敌人交战属于鲁莽行为，可构成降职理由。
+
+7. 可接受的营救方法包括但不限于：潜入、以非暴力手段使敌人失去行动能力，或利用声东击西，在不交战的情况下解救人质。
+
+## 金钱谈判限额
+<Table Columns="2">
+    <ColorBox>
+        <Box>
+            价值
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box>
+            角色
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            10k
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            任何拥有指定职务的船员
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            15k
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            指挥部成员
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            20k
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            舰长
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            25k
+        </Box>
+    </ColorBox>
+    <ColorBox>
+        <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            裁判官、纳米传讯代表、内部事务代理人及蓝盾干员
+        </Box>
+    </ColorBox>
+</Table>
+</Document>

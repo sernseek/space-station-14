@@ -1,0 +1,21 @@
+<Document>
+  # 便携式洗涤器
+  便携式洗涤器是一种用于净化房间大气的便携设备。
+  <Box>
+    <GuideEntityEmbed Entity="PortableScrubber"/>
+  </Box>
+
+  当常规[textlink="洗涤器" link="AirScrubber"]工作速度太慢，或当地没有[textlink="洗涤器" link="AirScrubber"]时，它对于快速清除房间中的有害气体极其宝贵。
+
+  便携式洗涤器必须获得[textlink="电力" link="Power"]才能工作，电力由附近的[textlink="低压电缆" link="VoltageNetworks"]提供。
+
+  用螺栓将便携式洗涤器固定（用扳手锚固）在地面上后，它会自动开始清除房间内所有不可呼吸气体。
+
+  从地面上解除固定（用扳手解除锚固），或内部空间装满后，洗涤器会停止净化。洗涤器内部容量为 [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] 升[/color]。
+
+  ## 排放废气与储存
+  将洗涤器放在[textlink="连接器" link="GasCanisters"]上并锚固（用扳手固定），即可排空内部空间。
+
+  空间站通常设有专用排放点，可将洗涤器中的废气迅速转移至空间站废气管网。
+
+</Document>

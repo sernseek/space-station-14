@@ -1,0 +1,56 @@
+<Document>
+# 指挥部
+各部门主管共同组成[color=#1b67a5]指挥部[/color]。这支不容小觑的力量掌管着空间站。他们通常拥有特殊装备和独立办公室，也经常有人想要他们的命。
+
+## 人员
+[color=#1b67a5]指挥部[/color]由各部门主管组成，包括[color=#9fed58]人事主管[/color]、[color=#cb0000]安保主管[/color]、[color=#5b97bc]医疗主管[/color]、[color=#f39f27]工程主管[/color]、[color=#c96dbf]研究主管[/color]、[color=#b18644]军需官[/color]，以及最重要的[color=#1b67a5]舰长[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="舰长"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="人事主管"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="安保主管"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="医疗主管"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="工程主管"/>
+    <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="研究主管"/>
+    <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="军需官"/>
+  </Box>
+
+## 掌管部门
+恭喜升职！除了堆积如山的额外文书，你的新[color=#a4885c]职责[/color]还包括管理部门、作出调整并确定工作重点、保障人员与设备安全，以及在亲信替你干完所有活时偷懒。
+
+别忘了，你仍然有自己的工作！那些花哨工具可不能让你放一天假。人员短缺时，你仍需补位，帮助陷入困难的员工，并指导新人。
+
+你或许可以只是坐在那里，任由大家怨恨你，但更明智的做法是积极行动，与他们一同工作。
+记得合理调动员工，让他们去做自己喜欢或擅长的工作。
+
+## 你的储物柜
+
+为了应付这些令人心力交瘁的新任务，每位主管都会得到一些用于领导下属的特殊物品。大多数崭新的工具都能在你的[color=#a4885c]储物柜[/color]里找到。
+  <Box>
+    <GuideEntityEmbed Entity="LockerCaptain"/>
+  </Box>
+
+你的[color=#a4885c]遥控器[/color]操作非常简单，却被严重低估。这个小巧而强大的装置可以远程开关[color=#a4885c]气闸门[/color]、控制[color=#a4885c]门栓[/color]将门锁死，或切换[color=#a4885c]紧急权限[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="DoorRemoteCommand"/>
+  </Box>
+遥控器能左右人员的通行。主管可以把人员挡在危险区域外，也可以让人快速进去取个东西。
+
+与其他部门一样，你还可以使用专属的[color=#1b67a5]指挥部[/color]频道。不过，你的频道格外重要，因为能听见该频道的人手中掌握着[color=#a4885c]整个部门[/color]。
+利用它与其他主管沟通，并代表你的员工表达需求。
+
+[color=#1b67a5]舰长[/color]可以使用[color=#a4885c]主加密密钥[/color]，从而接入空间站上的每个无线电频道。这项能力极其宝贵，因为你可以亲自协调各部门。
+[color=#a4885c]别浪费这项关键优势！[/color]
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHeadsetCommand"/>
+    <GuideEntityEmbed Entity="EncryptionKeyStationMaster"/>
+  </Box>
+
+为了让你更难应付那片（绝对会淹没你的）文书沼泽，你的储物柜里还慷慨配发了一枚[color=#a4885c]印章[/color]。用它签署文件。盖章后，文件便无法编辑，所以请先仔细检查。
+  <Box>
+    <GuideEntityEmbed Entity="RubberStampCaptain"/>
+  </Box>
+</Document>

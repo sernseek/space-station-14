@@ -1,0 +1,75 @@
+<Document>
+  # 热力机器
+  热力机器是用于改变[textlink="管网" link="PipeNetworks"]内或暴露大气中气体温度的设备。
+  <Box>
+    <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
+  </Box>
+  在各种应用中，它们对于维持气体温度至关重要。
+
+  所有热力机器都使用[textlink="电力" link="Power"]来加热或冷却大气。
+  加热或冷却能力与其耗电量直接相关。
+
+  热力机器还有效率系数，用于决定每消耗一单位电力能加热或冷却多少大气。
+
+  为防止超过目标值，热力机器接近目标温度时会降低加热或冷却功率。
+  但即使闲置，它们仍会消耗相同的电力。
+
+  所有热力机器的目标温度容差均为[color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color]，这意味着温度与目标温度相差不超过[color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color]时，它们便会停止加热或冷却。
+
+  ## 空间加热器
+  空间加热器是一种便携式温控设备，可以加热或冷却其所处大气中的气体。
+  无需建造管网或其他系统，它便能简单而有效地维持房间温度。
+
+  <Box>
+    <GuideEntityEmbed Entity="SpaceHeater"/>
+  </Box>
+
+  它们通常可在大气部门找到，对应的机器电路板也可由科研部常见的电路打印机打印。
+
+  空间加热器最低可冷却至[color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color]，最高可加热至[color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color]。
+
+  它还有三档功率设置，用来决定加热或冷却大气的速度。
+
+  植物学家或科研部经常会索取这些设备，以维持植物或部门的温度。
+
+  ## 管网热力机器（冷冻机与加热器）
+  管网热力机器是功率更强的固定式温控设备，可用于加热或冷却[textlink="管网。" link="PipeNetworks"]中的气体。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasThermoMachineHeater"/>
+    <GuideEntityEmbed Entity="GasThermoMachineFreezer"/>
+  </Box>
+
+  它们消耗[color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color]电力，可将管网气体最高加热至[color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或最低冷却至[color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
+
+  你可以拆解热力机器，并用螺丝刀操作其电路板来切换模式。
+  该电路板可由科研部常见的电路打印机打印。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
+    <GuideEntityEmbed Entity="MachineFrame" Caption=""/>
+    <GuideEntityEmbed Entity="ThermomachineFreezerMachineCircuitBoard" Caption=""/>
+    <GuideEntityEmbed Entity="Screwdriver" Caption=""/>
+    <GuideEntityEmbed Entity="ThermomachineHeaterMachineCircuitBoard" Caption=""/>
+    <GuideEntityEmbed Entity="MachineFrame" Caption=""/>
+    <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
+
+  </Box>
+
+  ## 地狱热力机器
+  科研部可以研究功率更强的热力机器，恰如其名地称为地狱火加热器与冷冻机。
+  这些机器远比标准型号强大，但也会消耗更多电力。
+
+  <Box>
+    <GuideEntityEmbed Entity="GasThermoMachineHellfireHeater"/>
+    <GuideEntityEmbed Entity="GasThermoMachineHellfireFreezer"/>
+  </Box>
+
+  这些机器消耗[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color]电力，可将管网气体最高加热至[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或最低冷却至[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
+
+  不过，它们还会将自身[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color]的能量泄漏到周围环境中，分别加热或冷却暴露的大气。
+  若管理不当，这会非常危险。
+
+</Document>

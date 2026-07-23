@@ -1,0 +1,20 @@
+<Document>
+# 植物药材
+
+植物学与化学经常可以相互配合，制出更好的药物（或娱乐用鸡尾酒）。不妨给植物学家送去他们所需的肥料，再请他们回赠一些药用植物。
+
+<Box>
+<GuideEntityEmbed Entity="FoodGalaxythistle"/>
+<GuideEntityEmbed Entity="FoodLingzhi"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+<GuideEntityEmbed Entity="FoodAloe"/>
+<GuideEntityEmbed Entity="Nettle"/>
+</Box>
+
+<GuideReagentGroupEmbed Group="Botanical"/>
+<GuideReagentEmbed Reagent="UnstableMutagen"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Dylovene"/>
+<GuideReagentEmbed Reagent="Phalanximine"/>
+
+</Document>

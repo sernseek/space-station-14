@@ -1,0 +1,36 @@
+<Document>
+
+# 核心药物
+
+这些药物几乎总能以某种方式在医疗部派上用场。
+
+<GuideReagentEmbed Reagent="Bicaridine"/>
+<GuideReagentEmbed Reagent="Kelotane"/>
+<GuideReagentEmbed Reagent="Dermaline"/>
+<GuideReagentEmbed Reagent="Dylovene"/>
+<GuideReagentEmbed Reagent="Inaprovaline"/>
+<GuideReagentEmbed Reagent="Dexalin"/>
+<GuideReagentEmbed Reagent="DexalinPlus"/>
+<GuideReagentEmbed Reagent="Iron"/>
+
+# 专科药物
+
+这些药物往往有特定的用途。
+
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Epinephrine"/>
+<GuideReagentEmbed Reagent="Hyronalin"/>
+<GuideReagentEmbed Reagent="Arithrazine"/>
+<GuideReagentEmbed Reagent="Phalanximine"/>
+<GuideReagentEmbed Reagent="Tricordrazine"/>
+<GuideReagentEmbed Reagent="TranexamicAcid"/>
+<GuideReagentEmbed Reagent="Ambuzol"/>
+<GuideReagentEmbed Reagent="Oculine"/>
+
+# 全部药物
+
+以下列出了所有可用药物，包括前文已经列出的药物。
+
+<GuideReagentGroupEmbed Group="Medicine"/>
+
+</Document>

@@ -1,0 +1,35 @@
+<Document>
+# 工程订单
+
+## 基础材料
+<Box>
+	<GuideEntityEmbed Entity="SheetSteel"/>
+	<GuideEntityEmbed Entity="SheetGlass"/>
+	<GuideEntityEmbed Entity="SheetPlastic"/>
+	<GuideEntityEmbed Entity="SheetPlasteel"/>
+	<GuideEntityEmbed Entity="MaterialCloth"/>
+</Box>
+
+## 线缆
+<Box>
+	<GuideEntityEmbed Entity="CableApcStack"/>
+	<GuideEntityEmbed Entity="CableMVStack"/>
+	<GuideEntityEmbed Entity="CableHVStack"/>
+</Box>
+
+## 基础手动工具
+<Box>
+	<GuideEntityEmbed Entity="Crowbar"/>
+	<GuideEntityEmbed Entity="Wrench"/>
+	<GuideEntityEmbed Entity="Screwdriver"/>
+	<GuideEntityEmbed Entity="Wirecutter"/>
+	<GuideEntityEmbed Entity="Welder"/>
+	<GuideEntityEmbed Entity="Multitool"/>
+</Box>
+
+## 货箱
+<Box>
+	<GuideEntityEmbed Entity="CrateVendingMachineRestockEngineeringFilled"/>
+	<GuideEntityEmbed Entity="CrateEngineeringAMEJar"/>
+</Box>
+</Document>

@@ -1,0 +1,29 @@
+<Document>
+  # 线路面板
+  气闸门、自动售货机和街机等部分空间站设备配有线路面板，用于控制设备的某些功能。
+
+  使用螺丝刀即可打开面板，接触内部线路。
+
+  <Box>
+    <GuideEntityEmbed Entity="Wirecutter"/>
+    <GuideEntityEmbed Entity="Screwdriver"/>
+    <GuideEntityEmbed Entity="Multitool"/>
+  </Box>
+
+  此时可以使用剪线钳和多功能工具操作线路。请注意，操作线路通常需要佩戴绝缘手套，因为带电线路可能会使你触电。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellow"/>
+  </Box>
+
+  可以用剪线钳剪断和修复电线，也可以用多功能工具脉冲电线。
+
+  剪断电线通常会彻底禁用或恢复设备的某项功能。
+  也可能意外触发其他效果，例如使人触电、放下门栓或引发爆炸。
+
+  脉冲电线可能产生多种效果，但通常会暂时禁用或启用某项功能。
+
+  无法对已剪断的电线施加脉冲，必须先修复电线。
+
+
+</Document>

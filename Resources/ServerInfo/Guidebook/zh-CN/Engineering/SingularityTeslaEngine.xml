@@ -1,0 +1,97 @@
+<Document>
+  # 奇点／特斯拉引擎
+
+  奇点引擎／特斯拉引擎能在整个班次中为全站提供[color=#a4885c]无限电力[/color]，是空间站的宝贵资产。
+
+  它也能同样轻易地[color=red]摧毁整个空间站[/color]，因此必须仔细准备并持续监控，防止引擎[bold]逃逸[/bold]。
+
+  # 架设
+  两种引擎采用相同的基本架设步骤，但子系统和要求不同。
+
+  ## 约束场
+  约束场是一种横跨多个地块的光束场，会排斥奇点或特斯拉能量球，防止其逃脱。
+
+  发射器激光和约束场也会造成伤害和／或将你击飞到深空；启用时请[color=#a4885c]避免接触[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="Emitter"/>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator"/>
+    <GuideEntityEmbed Entity="ContainmentField"/>
+  </Box>
+
+  约束场在两台启用的约束场发生器之间生成，而发生器由发射器供能。
+
+  满足以下条件时，约束场发生器可以生成约束场：
+  - 发生器已经开启；
+  - 另一台场发生器位于 8 个地块以内；
+  - 两台场发生器位于同一条正交轴线上。
+
+  也就是说，约束场最长为 7 个地块。
+
+  使用[color=yellow][bold][keybind="Use"][/bold][/color]与约束场发生器交互，即可将其开启。
+  即使发射器光束击中约束场发生器，只要发生器本身没有开启，就不会工作。记得开启场发生器！
+
+  约束场发生器具有内部能量，受到发射器光束照射即可充能。发生器储存足够能量后，就会生成约束场。
+
+  这些能量会随时间自然衰减；能量降至零并经过一段延迟后，约束场就会消失。
+
+  约束场启用期间，无法关闭场发生器或解除其锚固。必须等待约束场衰减消失，才能关闭发生器。
+
+  <Box>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Rotation="90" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Rotation="90" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentField" Caption="" Rotation="90" Margin="0"/>
+    <GuideEntityEmbed Entity="ContainmentFieldGenerator" Caption=""/>
+  </Box>
+
+  ## 发射器
+  发射器是为约束场发生器供能的设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="Emitter"/>
+  </Box>
+
+  发射器连接中压电缆；只要有电且已经开启，就会持续发射激光。
+
+  建议[color=#a4885c]锁定发射器[/color]，操作键为[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]，防止闯入的歹徒仅仅关闭约束场就放走奇点或特斯拉能量球。
+
+  ## 粒子加速器
+  粒子加速器（PA）是一种横跨多个地块的结构，会从发射端发射加速粒子。
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorControlBox" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorFuelChamber" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="CableMV" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorPowerBox" Caption="" Margin="0"/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterStarboard" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterFore" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="ParticleAcceleratorEmitterPort" Caption="" Margin="0"/>
+  </Box>
+
+  部分空间站已有一台尚未完工的 PA。
+  要完成建造，首先确保 PA 电源箱下方铺有中压电缆，锚固所有部件，然后为每个部件接入低压电缆。
+
+  <Box>
+    <GuideEntityEmbed Entity="CableApcStack"/>
+  </Box>
+
+  然后用螺丝刀拧紧面板。
+  使用 PA 控制计算机[color=#a4885c]扫描部件[/color]，检查设备是否可以运行（如果不扫描，PA 就无法工作！）。
+  如果显示不完整，请检查缺少什么。
+
+  <Box>
+    <GuideEntityEmbed Entity="ParticleAcceleratorControlBox"/>
+  </Box>
+
+</Document>

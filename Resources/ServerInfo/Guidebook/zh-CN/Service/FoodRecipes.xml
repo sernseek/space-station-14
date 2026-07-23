@@ -1,0 +1,60 @@
+<Document>
+
+# 微波炉食谱
+
+这是纳米传讯中央指挥部烹饪厨房发布的最新食谱合集，供纳米传讯舰船上的厨师制作餐点。
+
+## 披萨饼
+<GuideMicrowaveGroupEmbed Group="Pizza"/>
+
+## 咸味菜肴
+<GuideMicrowaveGroupEmbed Group="Savory"/>
+
+## 面包
+<GuideMicrowaveGroupEmbed Group="Breads"/>
+
+## 早餐
+<GuideMicrowaveGroupEmbed Group="Breakfast"/>
+
+## 蛾人食品
+<GuideMicrowaveGroupEmbed Group="Moth"/>
+
+## 意面与面条
+<GuideMicrowaveGroupEmbed Group="Pasta"/>
+
+## 糕点与甜品
+<GuideMicrowaveGroupEmbed Group="Dessert"/>
+
+## 汤与炖菜
+<GuideMicrowaveGroupEmbed Group="Soup"/>
+
+## 派与挞
+<GuideMicrowaveGroupEmbed Group="Pie"/>
+
+## 条糕与曲奇
+<GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
+
+## 蛋糕
+<GuideMicrowaveGroupEmbed Group="Cake"/>
+
+## 沙拉
+<GuideMicrowaveGroupEmbed Group="Salad"/>
+
+<!-- Starlight start -->
+## 油炸食品
+<GuideDeepFryerGroupEmbed Group="TP14-Deep-Fry"/>
+
+## 冰淇淋
+<GuideMicrowaveGroupEmbed Group="IceCream"/>
+<!-- Starlight end -->
+
+## 药膳
+<GuideMicrowaveGroupEmbed Group="Medicinal"/>
+
+## 其他
+<GuideMicrowaveGroupEmbed Group="Other"/>
+
+## 秘密食谱
+<GuideMicrowaveGroupEmbed Group="Secret"/>
+
+</Document>

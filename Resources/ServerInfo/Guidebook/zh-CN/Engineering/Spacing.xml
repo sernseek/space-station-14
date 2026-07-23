@@ -1,0 +1,23 @@
+<Document>
+  # 失压
+  失压是空间站内最常见的大气事故。
+
+  导致失压的损坏往往需要很长时间才能[textlink="修复" link="ExpandingRepairingStation"]，但只需重新加压该区域，就能迅速解决失压本身。
+
+  处理失压通常分为两个简单步骤：
+
+  1. 找出失压区域并[textlink="封堵破口" link="ExpandingRepairingStation"]。
+
+  - 如果很难找到破口，而空气仍在泄漏至太空，可以仔细聆听从身边掠过的气流声。
+  - 检查桁架下方是否有难以看见的破洞。
+
+  2. 重新加压该区域。
+
+  - 为避免因失压损失更多空气，[textlink="通风口" link="AirVent"]会进入压力锁定状态，因此你需要解除通风口限制才能重新加压。可以将所连接的[textlink="空气警报器" link="AirAlarms"]设为“填充”，也可以右键单击通风口并选择“解除压力锁定”，暂时进行手动覆写。
+
+  ## 应当避免的事项
+  - 请记住，尽管[textlink="开采气体" link="GasMiningAndStorage"]供应无限，但产出速度不足以同时填充多个房间。在修复根本问题[italic]之前[/italic]就把[textlink="空气警报器" link="AirAlarms"]设为“填充”，往往只会浪费时间与气体。
+
+  - 无人看管时让[textlink="空气警报器" link="AirAlarms"]保持“填充”模式，可能导致房间压力过高；若失去控制，甚至可能伤害船员。
+
+</Document>

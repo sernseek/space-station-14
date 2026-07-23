@@ -1,0 +1,28 @@
+<Document>
+
+  # 专用外伤药剂
+
+  纳米传讯最杰出的科学家合成了三种针对性更强的外伤药剂！每种药剂都能治疗一种特定的伤害子类型。
+
+  <GuideReagentEmbed Reagent="Bruizine"/>
+  <GuideReagentEmbed Reagent="Puncturase"/>
+  <GuideReagentEmbed Reagent="Lacerinol"/>
+
+  # Razorium
+
+  使用上述专用外伤药剂时[color=red]务必小心[/color]。如果其中一种与另一类外伤药剂混合，产生的混合物将生成一种名为 Razorium 的危险化学品！
+  <GuideReagentEmbed Reagent="Razorium"/>
+  为避免这种情况，在给患者使用另一种外伤药物前，务必等待其将前一种药物代谢完毕。请留意患者健康状况的变化速度。
+
+  [bold]以下是一些会生成 Razorium 的混合示例：[/bold]
+
+  Bicaridine 与 Puncturase
+
+  Puncturase 与 Lacerinol
+
+  Bruizine 与 Bicaridine
+
+  Lacerinol 与 Bruizine
+
+  请注意，这 4 种化学品的[bold]任意[/bold]组合都很可能发生混合并生成 Razorium！配制这些化学品时务必谨慎，因为它们含有 Bicaridine。任何残余的 Bicaridine 都很可能参与混合并生成 Razorium！
+</Document>

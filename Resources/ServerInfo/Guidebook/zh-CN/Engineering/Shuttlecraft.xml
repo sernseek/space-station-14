@@ -1,0 +1,136 @@
+<Document>
+  # 穿梭机
+
+  建造穿梭机并不复杂，不过成本很高，也很难在一小时内完成。
+
+  如果你有大量空闲时间，又想挑战一下自己，造船会是不错的活动。
+
+  ## 起步
+  <Box>必需部件：</Box>
+  <Box>
+  <GuideEntityEmbed Entity="Thruster"/>
+  <GuideEntityEmbed Entity="Gyroscope"/>
+  <GuideEntityEmbed Entity="ComputerShuttle"/>
+  <GuideEntityEmbed Entity="SubstationBasic"/>
+  <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="P.A.C.M.A.N." />
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="CableHVStack"/>
+  <GuideEntityEmbed Entity="CableMVStack"/>
+  <GuideEntityEmbed Entity="CableApcStack"/>
+  <GuideEntityEmbed Entity="APCBasic"/>
+  </Box>
+
+  <Box>可选部件：</Box>
+  <Box>
+  <GuideEntityEmbed Entity="AirCanister"/>
+  <GuideEntityEmbed Entity="LightTube" Caption="照明"/>
+  <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
+  <GuideEntityEmbed Entity="SMESBasic"/>
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="MobCorgiIan"/>
+  <GuideEntityEmbed Entity="NuclearBomb"/>
+  </Box>
+
+  ## 地基
+  这一步需要钢板、金属棒和地砖（可选）。
+
+  <Box>
+    <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
+    <GuideEntityEmbed Entity="PartRodMetal" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemDark" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
+  </Box>
+
+  带着钢板和金属棒前往太空，单击空间站边缘以铺设格栅。
+
+  从空间站向外铺设约 3～4 格长的格栅，然后开始用格栅搭建平台。
+
+  继续搭建，直至得到一个至少为 3x3、仅通过一条格栅与空间站相连的平台。
+
+  穿梭机底座建好后，可以用钢丝钳剪断连接新飞船与空间站的格栅。
+
+  该平台会被视为不同于空间站的独立网格，因此没有重力，也不会被空间站锚点固定——它可以自由移动。
+
+  手持金属棒单击格栅平台边缘之外的位置，可以继续扩建平台。
+
+  ## 对接端口
+  穿梭机气闸门可以充当对接端口，让飞船安全停靠空间站。
+
+  对接端口的朝向非常重要，因为它决定穿梭机从哪一面完成对接。
+
+  对接端口底部的小突起表示端口方向。
+
+  <Box>
+    <GuideEntityEmbed Entity="AirlockShuttle"/>
+    <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
+  </Box>
+
+  ## 方向控制
+  平台达到所需形状后，在边缘放置并安装推进器。
+
+  <Box>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="0"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="180"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="270"/>
+  </Box>
+
+  建议安装四台推进器，在平台每一侧各放一台，以确保能够向任何方向移动。
+
+  推进器必须朝外指向太空才能工作；喷口前方若有地块阻挡，则不会点火。
+  即使推进器已经锚固，也可以使用[color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color]或[color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color]将其顺时针或逆时针旋转。
+
+  空手使用[color=yellow][bold][keybind="Use"][/bold][/color]或[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]，可以禁用或启用推进器。
+
+  ## 旋转控制
+  有了方向控制后，还需要安装陀螺仪来控制旋转。
+
+  <Box>
+    <GuideEntityEmbed Entity="Gyroscope"/>
+  </Box>
+  陀螺仪的位置不像推进器那样重要，但应放在便于接近和供电的位置。
+
+  请注意，质量较大的物体可能需要多个陀螺仪才能有效旋转。
+
+  ## 供电
+  各系统安装到位后，需要为其供电。
+
+  对于小型穿梭机，J.R.P.A.C.M.A.N. 型便携式发电机是不错的选择。它直接输出低压电力，因此无需操心变压器。
+  维护通道里通常也能找到该发电机所需的燃料。
+
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N."/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="WeldingFuelTankFull"/>
+    </Box>
+  </Box>
+
+  不过，部分空间站配有性能更好的紧凑型发电设备，例如穿梭机 APU 或固定式发电机。
+  这些设备输出高压电力，必须逐级降为中压与低压。
+  好在配有这类设备的空间站通常也会提供壁挂式变电站电路板。
+
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="GeneratorWallmountAPU"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="GeneratorBasic15kW"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="SubstationWallBasic"/>
+    </Box>
+  </Box>
+
+  ## 驾驶
+  最后，在方便的位置安装穿梭机计算机，并确保所有推进器与陀螺仪均已通电（记得铺设中压与低压电网！）。
+  如果一切正常，恭喜！你现在应该拥有一艘可以工作的穿梭机了！
+
+  至于如何让它适宜居住又美观，就留给读者自行实践。
+</Document>

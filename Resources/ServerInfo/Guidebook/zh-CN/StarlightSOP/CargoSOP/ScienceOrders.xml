@@ -1,0 +1,24 @@
+<Document>
+# 科研部订单
+
+## 基础材料
+### 仅供打印机与车床使用
+<Box>
+	<GuideEntityEmbed Entity="SheetSteel"/>
+	<GuideEntityEmbed Entity="SheetGlass"/>
+	<GuideEntityEmbed Entity="SheetPlastic"/>
+	<GuideEntityEmbed Entity="MaterialCloth"/>
+</Box>
+
+## 补货箱
+<Box>
+	<GuideEntityEmbed Entity="CrateVendingMachineRestockRoboticsFilled"/>
+</Box>
+
+## 其他
+<Box>
+	<GuideEntityEmbed Entity="SheetPlasma"/>
+	<GuideEntityEmbed Entity="ComplexXenoArtifact"/>
+	<GuideEntityEmbed Entity="CrateArtifactContainer"/>
+</Box>
+</Document>

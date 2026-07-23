@@ -1,0 +1,25 @@
+<Document>
+  # 大气系统
+  大气系统是工程部的下属部门，负责维护空间站大气，确保船员呼吸安全。
+
+  大气系统由大气技师负责运行，并受工程主管监督。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="大气技师"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="CE"/>
+  </Box>
+  <Box>
+    [color=#999999][italic][italic][/color]
+  </Box>
+
+  ## 职责
+  一般来说，你需要处理空间站各处的[textlink="大气异常" link="AtmosphericUpsets"]。
+  其严重程度可能从轻微泄漏到全面[textlink="火灾" link="Fires"]或[textlink="失压" link="Spacing"]事故不等。
+
+  其他部门也可能因工作需要向你索取[textlink="罐装气体" link="GasCanisters"]，例如科研部需要[textlink="等离子体" link="Gasses"]，或[textlink="化学实验室" link="Chemist"]需要[textlink="二氧化碳" link="Gasses"]。
+
+  闲暇时，你可以为[textlink="沃克斯" link="Vox"]及其他物种设置不同大气环境的房间，或为满足空间站需求搭建[textlink="特殊气体" link="Gasses"]生产设施，以改善空间站。
+
+  没有大气工作要做时，你可能需要协助普通空间站工程师完成任务，并指导新任空间站工程师和大气技师。
+
+</Document>

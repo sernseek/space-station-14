@@ -1,0 +1,17 @@
+<Document>
+  # 信号阀
+  信号阀是一种可通过[textlink="信号" link="Networking"]控制的阀门。
+  <Box>
+    <GuideEntityEmbed Entity="SignalControlledValve"/>
+  </Box>
+
+  信号阀与手动阀相似。气体可不受限制地双向流动，阀门也可手动操作。
+
+  信号阀有 3 个[textlink="信号" link="Networking"]输入，可分别打开、关闭或切换阀门状态。
+
+  信号阀有许多用途，例如：
+  - 远程控制危险区域或船员无法进入区域内的阀门
+  - 便捷控制难以触及区域内的阀门
+  - 与[textlink="支持信号" link="Networking"]的其他机器及设备联动实现自动化，例如[textlink="空气警报器" link="AirAlarms"]和远程信号器
+
+</Document>

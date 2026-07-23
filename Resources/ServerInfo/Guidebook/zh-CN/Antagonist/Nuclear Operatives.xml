@@ -1,0 +1,120 @@
+<Document>
+  # 核弹特工
+
+  <Box>
+    [color=#999999][italic]“特工待命。你们的目标很简单。[/italic][/color]
+  </Box>
+  <Box>
+    [color=#999999][italic]送达载荷，并在载荷爆炸前撤离。任务开始。”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="PosterContrabandEnlistGorlex" Caption=""/>
+  </Box>
+
+  你刚刚被选中，成为[color=#ff0000]辛迪加[/color]的一名核弹特工。你只有一个目标：用核裂变爆炸装置炸毁纳米传讯最精良的舰船之一。
+
+  ## 特工
+  你的小队由几种不同职位组成：
+  - [bold]特工[/bold]：负责承担一线苦活的标准士兵。
+  - [bold]医疗兵[/bold]：使用试剂制作药物或化学武器。
+  - [bold]指挥官[/bold]：制定计划并领导小队。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieMedic" Caption="医疗兵的太空服"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieCommander" Caption="指挥官的太空服"/>
+  </Box>
+
+  如果你被选为医疗兵或指挥官，却觉得自己尚未准备好，可以让一名队友接手你的职责。
+
+  ## 授权盘
+
+  每名特工出生时都会携带一个[color=cyan]定位仪[/color]。你应当打开它并始终随身携带。它会一直指向[color=cyan]核弹授权盘。[/color]
+  授权盘属于[color=yellow]舰长[/color]，舰长几乎总会把它带在身上。沿着定位仪箭头所指方向寻找授权盘，并[italic]不惜一切代价将它夺到手[/italic]。
+
+  <Box>
+    <GuideEntityEmbed Entity="PinpointerNuclear"/>
+    <GuideEntityEmbed Entity="NukeDisk"/>
+  </Box>
+
+  ## 准备
+  小队中的每名成员都获得了一个[color=cyan]升链[/color]，可以像[textlink="叛徒" link="Traitors"]一样购买任务所需的一切。
+
+  <Box>
+    <GuideEntityEmbed Entity="BaseUplinkRadio40TC" Caption="你的升链"/>
+  </Box>
+
+  你可以买到与叛徒相同种类的装备，但还有更高品质的装备可供选择，也有更多遥晶可以花费。
+  <Box>
+    <GuideEntityEmbed Entity="WeaponLightMachineGunL6" Caption="武器"/>
+    <GuideEntityEmbed Entity="MagazineLightRifleBoxSP" State="icon" Caption="弹药"/>
+    <GuideEntityEmbed Entity="C4" Caption="爆炸物"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitJuggernaut" Caption="穿戴装备"/>
+    <GuideEntityEmbed Entity="Stimpack" Caption="化学品"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="欺骗"/>
+    <GuideEntityEmbed Entity="Emag" Caption="干扰"/>
+    <GuideEntityEmbed Entity="MacroBombImplanter" Caption="植入物"/>
+    <GuideEntityEmbed Entity="BorgChassisSyndicateAssault" Caption="盟友"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="无用之物"/>
+  </Box>
+
+  你还需要选择是否[color=red]宣战[/color]。宣战会让小队[bold]每人额外获得 40 枚遥晶[/bold]。
+  不过，船员会立即得知你们的存在，并有充足时间为你们的到来做好准备。
+
+  只有[bold]指挥官[/bold]能够宣战。尽快做出选择，[italic]这可是限时优惠！[/italic]
+  <Box>
+    <GuideEntityEmbed Entity="NukeOpsDeclarationOfWar"/>
+  </Box>
+
+  ## 前往空间站
+  计划有了，装备齐了。现在，开始执行。
+
+  从军械库拿一个[bold]喷气背包[/bold]，与其他特工一同前往你们的[color=cyan]穿梭机[/color]。
+  除了其他可能需要的设备外，你还能在穿梭机上找到一台[bold]IFF 计算机[/bold]。关闭[italic]显示 IFF[/italic]和[italic]显示舰船[/italic]后，它能让你躲避其他舰船和质量扫描仪的侦测。
+
+  所有人准备就绪后，通过 FTL 前往空间站，再用喷气背包飞过去。如果要带上核弹，别忘记密码、定位仪和核弹本身。
+
+  <Box>
+    <GuideEntityEmbed Entity="JetpackBlack"/>
+    <GuideEntityEmbed Entity="ComputerIFFSyndicate"/>
+  </Box>
+
+  ## 核弹与启动流程
+  穿梭机上有一张写着[color=cyan]核弹授权码[/color]的纸。[bold]检查核弹 ID 是否与穿梭机上的核弹 ID 相符。[/bold]如果不符，你要启动的就是空间站上的核弹。
+
+  - 取得[bold]核弹授权盘[/bold]并将其插入核弹。
+  - 输入[bold]核弹授权码[/bold]，然后在数字键盘上按“[bold]E[/bold]”确认。
+  - [bold]按下[color=#EB2D3A]启动[/color]即可开始自毁程序[/bold]。300 秒后，核弹会爆炸。
+  - [bold]守住核弹[/bold]，即使要付出生命也在所不惜！任务要求中并不包括活着回来。
+  - 他人需要 30 秒才能[bold]解除[/bold]核弹。核弹可以重新启动，但如果你让这种事情发生，任务成功率就会下降。
+  - 若核弹重新启动，计时器会从上次停止的位置继续倒计时。
+
+  <Box>
+    <GuideEntityEmbed Entity="NuclearBomb" Caption="核裂变爆炸装置"/>
+  </Box>
+
+  ## 胜利条件
+
+  回合结束界面会宣布本回合的[color=#00ff00]胜者[/color]及胜利程度。
+
+  [bold][color=red]辛迪加重大胜利！[/color][/bold]
+  - 核弹在空间站上爆炸。
+  - 船员搭乘紧急撤离穿梭机逃离，但核弹仍处于启动状态。
+  - 核弹处于启动状态，并由紧急撤离穿梭机送达中央指挥部。
+
+  [bold][color=red]辛迪加小胜[/color][/bold]
+  - 船员搭乘紧急撤离穿梭机逃离，但所有特工均存活。
+  - 船员逃离，部分特工死亡，但船员丢失授权盘。
+
+  [bold][color=#999999]中立胜利[/color][/bold]
+  - 核弹在空间站外爆炸。
+
+  [bold][color=green]船员小胜[/color][/bold]
+  - 船员携带授权盘搭乘紧急撤离穿梭机逃离，且部分特工死亡。
+
+  [bold][color=green]船员重大胜利！[/color][/bold]
+  - 所有特工死亡。
+  - 船员用核弹炸毁核弹特工前哨站。
+</Document>

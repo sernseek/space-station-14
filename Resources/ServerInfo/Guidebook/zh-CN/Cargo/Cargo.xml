@@ -1,0 +1,90 @@
+<Document>
+  # 货运部
+
+  供应部门，也称为[color=cyan]货运部[/color]，负责为空间站提供燃料、原材料等必要资源，以及彩票、毛绒玩具等娱乐物资。
+
+  他们通过完成悬赏、出售杂物和打捞等多种方式筹集[color=cyan]spesos[/color]（空间站的货币），从空间站外购买各类设备，满足每位船员的需求。满足空间站其他部门的需求正是货运部的职责。
+
+  ## 人员
+
+  货运部由[color=cyan]货运技师[/color]和[color=cyan]打捞专员[/color]组成，由[color=cyan]军需官[/color]领导。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="货运技师"/>
+    <GuideEntityEmbed Entity="ToyFigurineSalvage" Caption="打捞专员"/>
+    <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="军需官"/>
+  </Box>
+
+  ## 赚钱
+
+  每个货运部面临的主要难题都是资金不足。
+
+  货运部通过在[color=cyan]贸易站[/color]出售物品赚钱。空间站上几乎所有东西都有经济价值，可以用[color=cyan]估价工具[/color]查看售价。若将物品作为[textlink="悬赏" link="CargoBounties"]的一部分出售，其价值还会进一步提高。
+
+  <Box>
+    <GuideEntityEmbed Entity="AppraisalTool"/>
+    <GuideEntityEmbed Entity="CargoPallet"/>
+    <GuideEntityEmbed Entity="CrateGenericSteel"/>
+  </Box>
+
+  找到值钱的东西后，将其带到[color=cyan]货舱[/color]。如果能装进[color=cyan]板条箱[/color]，就找一个空箱子，把物品放进去。
+
+  如果[color=cyan]货运穿梭机[/color]不在空间站，你可以先把所有待售物品放到[color=cyan]货运托盘[/color]上。穿梭机停靠空间站后，再把板条箱和其他所有待售物品装上去。
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerPalletConsole"/>
+    <GuideEntityEmbed Entity="CargoPalletSell"/>
+    <GuideEntityEmbed Entity="ComputerCargoOrders"/>
+  </Box>
+
+  装好穿梭机后，将其驾驶到贸易站。把可出售物品搬到绿色的[color=cyan]货运出售托盘[/color]上，然后前往[color=cyan]货运出售电脑[/color]，点击[italic]“出售”[/italic]。
+
+  现在，你可以把这些 spesos 带回空间站，存入[color=cyan]货运请求电脑[/color]。
+
+  你还可以通过完成[textlink="悬赏" link="CargoBounties"]，或出售[textlink="打捞" link="Salvage"]所得的贵重物品，赚取更多资金。
+
+  ## 订购
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerCargoOrders"/>
+  </Box>
+
+  每份订单都始于[color=cyan]货运请求电脑[/color]。首先，货运部必须有足够的 spesos 才能下单。货运部没钱，就先去赚钱。
+
+  是否满足请求完全由货运部自行决定。如果 spesos 紧张，货运部可以拒绝并非急需的请求。
+
+  下单时，点击所需物品的名称，填写收件人和恰当的申请理由，然后在订单上点击“批准”。
+
+  有时会设置公共货运请求电脑；这种情况下，你只需批准其他人自行提交的订单。
+
+  <Box>
+    <GuideEntityEmbed Entity="CargoPalletBuy"/>
+    <GuideEntityEmbed Entity="PaperCargoInvoice"/>
+  </Box>
+
+  接下来，要领取订单，必须把它从[color=cyan]贸易站[/color]运回空间站。
+
+  贸易站的[color=cyan]货运采购托盘[/color]上会有一个装着订单物品的板条箱。将其装上穿梭机并飞回空间站。
+
+  板条箱抵达货运码头后，你可以阅读上面的[color=cyan]货运发票[/color]标签，确认预定收件人。最后，将其送给对方。
+
+  ## 驾驶
+
+  订单会先送到轨道上的[color=cyan]贸易站[/color]，再由[color=cyan]货运穿梭机[color]运往主空间站。穿梭机不会自行飞行，因此必须在穿梭机内驾驶，或进行远程驾驶。
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerShuttleCargo"/>
+  </Box>
+
+  要驾驶穿梭机，首先必须找到[color=cyan]货运穿梭机控制台[/color]。货舱内有一台，货运穿梭机内还有一台。
+
+  与电脑交互后，你应当能看到穿梭机的导航画面。往返贸易站时，请按以下步骤驾驶穿梭机：
+
+  - 首先，切换到[color=yellow]“对接”[/color]画面，将穿梭机与空间站之间的所有气闸门[color=yellow]解除对接[/color]。
+  - 穿梭机断开连接后即可驾驶。[italic]切记，你正在太空中飞行，动量会保持不变[/italic]。
+  - 使用[color=yellow][keybind="ShuttleStrafeUp"][/color]和[color=yellow][keybind="ShuttleStrafeDown"][/color]上下平移，使用[color=yellow][keybind="ShuttleStrafeLeft"][/color]和[color=yellow][keybind="ShuttleStrafeRight"][/color]左右平移，使用[color=yellow][keybind="ShuttleRotateLeft"][/color]和[color=yellow][keybind="ShuttleRotateRight"][/color]左右旋转。按[color=yellow][keybind="ShuttleBrake"][/color]刹车。
+  - 然后，将穿梭机驾驶到[color=cyan]贸易站[/color]。
+  - 抵达后，将气闸门[color=yellow]对接[/color]，操作即告完成。
+
+  [textlink="了解悬赏，以最大化你在空间站上的收益。" link="CargoBounties"]
+</Document>

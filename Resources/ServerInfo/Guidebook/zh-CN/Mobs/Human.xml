@@ -1,0 +1,11 @@
+<Document>
+  # 人类
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceHuman" Caption=""/>
+  </Box>
+
+  视询问对象而定，人类要么平平无奇，要么是衡量其他一切事物的通用标准。
+  他们没有特殊机制或显著特征。
+
+</Document>

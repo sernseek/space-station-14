@@ -1,0 +1,14 @@
+<Document>
+  # 空气注入器
+  空气注入器是一种特殊通风口，会强制将气体注入其所处的环境。
+  <Box>
+    <GuideEntityEmbed Entity="GasOutletInjector"/>
+  </Box>
+  它主要用于向高压房间强制注入气体，例如空间站的[textlink="气体储藏室" link="GasMiningAndStorage"]或燃烧室。
+
+  空气注入器无需[textlink="电力" link="Power"]即可工作。
+
+  空气注入器会持续向其所处的环境注入气体，直至环境压力达到[color=orange][protodata="GasOutletInjector" comp="GasOutletInjector" member="MaxPressure"/] kPa[/color]。
+
+  空气注入器的速度与注入器内的气体量成正比。
+</Document>

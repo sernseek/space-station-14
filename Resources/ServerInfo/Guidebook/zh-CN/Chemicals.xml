@@ -1,0 +1,37 @@
+<Document>
+# 化学品
+
+化学品是强力的工具，摄入后能够产生各种效果。有些化学品可在植物中找到，有些可从货运部购买，还有些可通过其他化学品组合合成。
+
+了解不同种类的化学品及其效果，对于处理伤势与危险至关重要。
+
+## 元素
+<GuideReagentGroupEmbed Group="Elements"/>
+
+## 药物
+<GuideReagentGroupEmbed Group="Medicine"/>
+
+## 麻醉品
+<GuideReagentGroupEmbed Group="Narcotics"/>
+
+## 烟火剂
+<GuideReagentGroupEmbed Group="Pyrotechnic"/>
+
+## 毒素
+<GuideReagentGroupEmbed Group="Toxins"/>
+
+## 食品
+<GuideReagentGroupEmbed Group="Foods"/>
+
+## 植物性物质
+<GuideReagentGroupEmbed Group="Botanical"/>
+
+## 生物性物质
+<GuideReagentGroupEmbed Group="Biological"/>
+
+## 特殊
+<GuideReagentGroupEmbed Group="Special"/>
+
+## 其他
+<GuideReagentGroupEmbed Group="Unknown"/>
+</Document>

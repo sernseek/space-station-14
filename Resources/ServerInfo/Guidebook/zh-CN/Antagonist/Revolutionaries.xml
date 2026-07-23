@@ -1,0 +1,179 @@
+<Document>
+  # 革命者／红潮
+
+  <Box>
+    [color=#999999][italic]“乌拉！”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="BannerSovietHammer" Caption=""/>
+  </Box>
+
+  革命者是由[color=yellow]苏维埃社会主义行星联盟[/color]雇用的转化型敌对角色，任务是控制任意空间站——包括[color=#5346e0]你的空间站[/color]。
+
+  ## 目标
+  你必须转化、铐住或杀死空间站上的所有[textlink="指挥部人员" link="Command"]，顺序不限。
+
+  你的目标[bold]不是摧毁空间站[/bold]，而是[italic]接管它[/italic]，因此请尽量减少破坏。
+
+  如果所有[bold][color=#ed7300]革命领袖[/color][/bold]死亡，[bold]革命就会失败[/bold]，所有[color=red]革命者[/color]都将解除转化。
+
+  ## 革命领袖与转化
+  [bold][color=#ed7300]革命领袖[/color][/bold]在班次开始时选出，初始拥有一个[color=cyan]闪光器[/color]、一副[color=cyan]太阳镜[/color]和一支[color=#ed7300]SKB 升链植入器[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="Flash"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
+    <GuideEntityEmbed Entity="USSPUplinkImplanter"/>
+  </Box>
+
+  拿起任意[bold]闪光器[/bold]，在[color=#ff0000]伤害模式[/color]下用它攻击船员，即可将其转化到你的阵营。
+  但如果目标佩戴太阳镜、焊接面罩／护目镜等[color=cyan]防闪光装备[/color]，或角色拥有失明特质，[bold]你就无法转化目标[/bold]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
+    <GuideEntityEmbed Entity="ClothingHeadHatWelding"/>
+    <GuideEntityEmbed Entity="ClothingEyesWeldingGoggles"/>
+  </Box>
+
+  [bold][color=red]普通革命者无法亲自转化他人，[/color][/bold]但他们完全可以干脏活、执行命令或分发补给；前提是[bold]已被植入[color=#ed7300]革命领袖的 SKB 升链。[/color][/bold]
+
+  ## 心灵护盾™
+
+  另一个障碍是那些烦人的抗洗脑[color=cyan]心灵护盾™植入器[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="MindShieldImplanter"/>
+  </Box>
+
+  它们会：
+  - 防止被植入者转化为[color=red]革命者[/color]
+  - 解除革命者的转化，使其不再忠于革命
+  - 植入[bold][color=#ed7300]革命领袖[/color][/bold]时[bold]会明显损毁[/bold]，从而暴露其身份
+  - 不会防止闪光器造成的迷向
+
+  请假定所有[color=#cb0000]安保人员[/color]、[color=#1b67a5]指挥部人员[/color]、[color=#a86819]打捞专员[/color]、[color=#5b97bc]急救员[/color]和[color=#478bff]内部事务代理人[/color]都已植入[color=cyan]心灵护盾™[/color]；[bold]不过，可以使用医疗部医疗制造机生产的空植入器取出护盾，也可以使用[color=#ed7300]升链[/color]中的[color=#ed7300][bold]SKB 心灵护盾移除器[/bold][/color]。[/bold] <!-- Starlight-edit -->
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption=""/>
+    <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption=""/>  <!-- Starlight-edit -->
+    <GuideEntityEmbed Entity="ToyFigurineSalvage" Caption=""/>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption=""/>
+  </Box>
+
+  <Box>
+    [color=#999999][italic]“赤匪！”[/italic][/color]  <!-- Starlight-edit -->
+  </Box>
+
+  ## Svyaz-UZL 升链（遥债与总转化数）
+
+  [color=#ed7300]革命领袖[/color]还会携带一支[color=#ed7300]SKB 升链植入器[/color]，可植入自己，或植入一名[bold]由自己亲自转化[/bold]的[color=red]革命者[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="USSPUplinkImplanter"/>
+    <GuideEntityEmbed Entity="BaseRevUplinkRadio"/>
+  </Box>
+
+  皮下升链可使用[bold][color=#5c5c5c]遥债[/color][/bold]与[bold][color=#e3a736]总转化数[/color][/bold]，购买具有[bold]全局库存限制[/bold]的革命武器和工具。
+
+  - [bold][color=#5c5c5c]遥债[/color][/bold]与[color=red]遥晶[/color]类似，是通过[bold]转化[/bold]获得的个人货币，每名[color=#ed7300]革命领袖[/color]分别持有。
+  - [bold][color=#e3a736]总转化数[/color][/bold]既显示已转化的船员人数，也是所有[color=#ed7300]革命领袖[/color][bold]共享的分数[/bold]。它主要用于升链的[bold]全局[/bold]部分，可让你放置[color=yellow]补给裂隙[/color]等物品。
+
+  [bold][color=#ed7300]革命领袖[/color][/bold]每转化一人，个人获得[bold][color=#5c5c5c]1 遥债[/color][/bold]，全局获得[bold][color=#e3a736]1 总转化数[/color][/bold]。
+
+  请记住，[bold][color=#e3a736]总转化数[/color][/bold]是[bold]全局进度分数，而非货币[/bold]；达到特定转化数量后，即可免费获得物品。
+
+  升链库存由所有升链使用者共享，并会显示最后购买物品的人。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesSKBGlasses" Caption="可看见心灵护盾™"/>
+    <GuideEntityEmbed Entity="RevolutionaryHeldBanner" Caption="“击晕 3 或 4 个”"/>
+    <GuideEntityEmbed Entity="EncryptionKeySoviet" Caption="“普通牢房请求支援”"/>
+  </Box>
+
+  ## 补给裂隙
+
+  达到[bold]总转化数 20[/bold] 后，你可以放置[color=yellow]补给裂隙[/color]，每 35 秒投放一次苏维埃补给。
+
+  <Box>
+    <GuideEntityEmbed Entity="RevSupplyRift"/>
+    <GuideEntityEmbed Entity="CrateSovietArmaments" Caption="500 个板条箱"/>
+    <GuideEntityEmbed Entity="WeaponSniperMosin" Caption="大规模突击"/>
+  </Box>
+
+  [color=yellow]裂隙[/color]生成时，会在聊天中[bold]秘密告知所有[color=red]革命者[/color]其位置[/bold]。
+
+  充能达到 50% 时，空间站[bold]会收到能量涌入警报[/bold]，从而[bold]暴露你们[/bold]，但长期来看能获得无限补给。
+
+  如果[color=yellow]裂隙[/color]被摧毁，你将无法再放置新的裂隙。只有当前裂隙充能完成后，才能放置另一个。
+
+  建议在回合初期就与[color=red]革命者[/color]商议[color=yellow]裂隙[/color]的放置地点，让他们[bold]加固[/bold]该区域，防止[color=#cb0000]安保部[/color][bold]摧毁[/bold]裂隙。
+
+  ## 提示
+
+  作为[color=#ed7300]革命领袖[/color]，建议：
+  - 在远离公共区域的地方[bold]转化[/bold]人员。你不仅可能被[color=#70a7ff]空间站AI[/color]看到，闪光器和倒地声也很响，任何尚未效忠你的人都能听见。由[color=blue]急救员[/color]在公共区域外实施转化效果最佳。
+
+  <Box>
+    <GuideEntityEmbed Entity="StationAiHolo" Caption="维护通道监听者9000"/>
+    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="正在被正义猎杀的急救员"/>
+  </Box>
+
+  - 开局选择或转化[color=#f5be51]货运／邮件技师[/color]及[color=#a319ff]科学家[/color]非常有利：前者有能力[bold]阻止送来的[color=cyan]心灵护盾™[/color]订单[/bold]，后者则可[bold]用[color=blue]外骨骼装配机[/color]为你制造闪光器[/bold]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="“推进器去哪了？”"/>
+    <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="“暗影异常！”"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="外骨骼装配机"/>
+  </Box>
+
+  - 谨慎选择转化对象。回合初期，[color=green]乐手[/color]或[color=green]酒保[/color]等船员可能戴着[bold]太阳镜[/bold]；而[color=#a86819]打捞专员[/color]则直接拥有[color=cyan]心灵护盾™[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="“嗷。好吧”"/>
+    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="“给我一个加入你们的理由”"/>
+    <GuideEntityEmbed Entity="ToyFigurineSalvage" Caption="“……”"/>
+  </Box>
+
+  - 若准备长期作战，请转化[color=#2189ff]医疗部[/color]人员。漫长的革命必然伤亡惨重。有能力的医生会优先治疗你和盟友，而不是[color=#cb0000]安保部[/color]或[color=#1b67a5]指挥部[/color]；前提是伤员送到[color=#2189ff]医疗区[/color]，而非[color=#cb0000]狱医的医务室[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="“意外过量用药”"/>
+    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="“惊喜 CLF3 泡沫！”"/>
+  </Box>
+
+  - [bold][color=#5c5c5c]遥债[/color][/bold]可以取出并在所有[color=#ed7300]升链[/color]使用者之间共享。因此，若想购买[bold]较昂贵的物品[/bold]，而此前没有花费[bold][color=#5c5c5c]遥债[/color][/bold]，最好在回合后期与其他[color=#ed7300]革命领袖[/color]会合。
+
+  <Box>
+    <GuideEntityEmbed Entity="Telebond" Caption="遥债"/>
+    <GuideEntityEmbed Entity="WeaponLightMachineGunDP28"/>
+    <GuideEntityEmbed Entity="WeaponSubMachineGunPPSH"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSovietMarine"/>
+  </Box>
+
+  作为[color=red]革命者[/color]，建议：
+
+  - 不惜一切代价保护[color=#ed7300]革命领袖[/color]。通过交换 ID 与物品，帮助他们躲避[color=red]法律[/color]追捕并逃脱。
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerCriminalRecords" Caption="犯罪记录"/>
+    <GuideEntityEmbed Entity="CargoIDCard" Caption="可能正遭通缉的 ID"/>
+  </Box>
+
+  - 如果已放置[color=yellow]补给裂隙[/color]，你[bold]会秘密获知其位置[/bold]。请尽力而为，并在可能时提供协助。
+
+  <Box>
+    <GuideEntityEmbed Entity="DefaultStationBeaconBar"/>
+  </Box>
+
+  - 如果事先知道[color=#ed7300]革命领袖[/color]会把[color=yellow]裂隙[/color]放在哪里，可以帮助加固该区域。
+
+  <Box>
+    <GuideEntityEmbed Entity="Table" Caption="中枪后无法跳过"/>
+    <GuideEntityEmbed Entity="WallSolid" Caption="探头射击"/>
+    <GuideEntityEmbed Entity="VendingMachineBooze" Caption="“只是在翻修维护通道酒吧，长官。”"/>
+  </Box>
+
+  - 最后，玩得开心。只要你的行动有助于革命，且不严重破坏空间站即可。
+
+</Document>

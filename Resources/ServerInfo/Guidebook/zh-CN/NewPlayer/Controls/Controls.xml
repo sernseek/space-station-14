@@ -1,0 +1,183 @@
+<Document>
+  # 操作
+
+  <Box>你可以随时在这里更改按键绑定：</Box>
+  <Box Orientation="Vertical"><CommandButton Text="ui-options-tab-controls" Command="options 2"/></Box>
+
+  ## 界面
+  左上角会显示所有[bold]菜单按钮[/bold]及其对应快捷键。
+  请看看它们分别有什么作用，尤其是表情菜单。
+  值得注意的是，如果管理员正尝试联系你，[color=red]管理求助[/color]（[italic]ahelp[/italic]）菜单按钮会变成[color=red][bold]红色[/bold][/color]。
+
+  ### 动作栏
+  菜单按钮下方是[bold]动作栏[/bold]，其中显示角色可以执行的通用[color=cyan]动作[/color]，以及取决于装备的动作按钮。
+  将鼠标悬停在按钮上即可了解其功能。
+
+  动作栏同时也是[bold]快捷栏[/bold]——按下键盘上对应的[color=yellow][bold]数字键[/bold][/color]即可执行相应动作。
+  将一个图标[bold]拖动[/bold]到另一个图标上可以重新排列；把图标拖出动作栏，则可暂时移除。
+
+  ### 状态栏
+  右侧聊天窗口下方是[bold]状态栏[/bold]，用于显示角色当前的各种状态。
+  和动作栏一样，将鼠标悬停在图标上即可查看其含义。
+
+  部分状态图标也可以点击。
+  例如，如果角色[color=orangered]着火[/color]，状态栏会出现火焰图标。
+  对该图标使用[color=yellow][bold][keybind="Use"][/bold][/color]，即可[color=cyan]卧倒翻滚[/color]灭火。
+  如果你需要挣脱束缚，[color=cyan]挣脱手铐[/color]也采用相同操作。
+
+  ### 物品栏
+  屏幕底部是[bold]物品栏[/bold]，从左到右包含所有与装备和储存有关的图标：
+  - [color=cyan]服装栏[/color]（左下角）——按[color=yellow][bold][keybind="OpenInventoryMenu"][/bold][/color]打开——其中设有眼部、头部、颈部、面部、耳部、身体、外衣、手套和鞋子栏位，
+  - [bold]PDA[/bold] 栏位——用于存放可用的 PDA，其中可以装入 ID 和笔，
+  - [bold]腰带[/bold]栏位——用于工具腰带和喷气背包，
+  - [bold]背部[/bold]栏位——通常用于挎包、背包和行李袋，但也能存放中大型武器和全尺寸气罐。
+  - [bold]手部[/bold]栏位——可以将其理解为转移物品用的栏位，
+  - [bold]口袋[/bold]栏位——便于存放需要随手取用的小型物品，
+  - [bold]外衣储物[/bold]栏位——只有穿着太空服、硬装宇航服或护甲时才能使用。
+  该栏位主要用于气罐和喷气背包，但也能放入枪械。
+
+  [italic]注意：非人形物种的栏位可能略有不同。[/italic]
+
+  ## 移动
+  使用[color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]控制角色移动。
+
+  携带的物品和受到的异常状态会影响移动速度；你也可以按住[color=yellow][bold][keybind="Walk"][/bold][/color]进行[color=cyan]步行[/color]。
+  步行会降低速度，并帮助你在经过香蕉皮或积液等湿滑危险物时避免[color=cyan]打滑[/color]摔倒。
+  \n[italic]注意：可以在操作菜单中将步行设为[bolditalic]切换[/bolditalic]模式。[/italic]
+
+  ### 太空移动
+  如果身处[color=#EB2D3A]零重力[/color]环境，只要附近有任何够得着的结构，你仍然可以移动——不过摩擦力会降低。
+
+  如果彻底漂离空间站、进入[color=#EB2D3A]太空[/color]，就需要利用运动定律移动，例如向相反方向[bold]投掷[/bold]物品。
+
+  ## 双手
+  角色的双手由屏幕底部中央的[bold]手部栏位[/bold]表示。
+  - 其中一只手始终是[color=cyan]当前手[/color]。
+  - [color=cyan]切换[/color]双手时按[color=yellow][bold][keybind="SwapHands"][/bold][/color]，以选择哪只手为当前手。
+  - 将物品[color=cyan]拿到[/color]空着的当前手中时，使用[color=yellow][bold][keybind="Use"][/bold][/color]。
+  - 根据具体情境，用[color=yellow][bold][keybind="Use"][/bold][/color]将当前手持物品[color=cyan]放到[/color]别处，或把它[color=cyan]用在[/color]某物或某人身上。
+  - 与游戏世界互动时，请留意当前手，避免意外使用手持物品。
+
+  [bold]不能通过拖放在栏位间转移物品。[/bold]
+
+  ### 放下与投掷
+  按[color=yellow][bold][keybind="Drop"][/bold][/color]可在伸手可及的范围内[color=cyan]放下[/color]（或摆放）手中的物品。
+  \n要朝光标方向[color=cyan]投掷[/color]物品，请按[color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color]。
+
+  ### 拖拽与推动
+  只要有一只空手，你就可以拖拽能够移动的[bold]实体[/bold]——物品、物体，以及玩家等生物。
+  - 按[color=yellow][bold][keybind="TryPullObject"][/bold][/color]开始[color=cyan]拖拽[/color]。
+  - 要将正在拖拽的实体朝光标方向[color=cyan]推动[/color]，请按[color=yellow][bold][keybind="MovePulledObject"][/bold][/color]。
+  - 要[color=cyan]松开[/color]实体，请按[color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color]，或再次拖拽同一实体。
+
+  也可以用[color=yellow][bold][keybind="Drop"][/bold][/color]从当前手中松开正在拖拽的实体。
+
+  ## 互动
+  游戏包含[bold]六[/bold]种依具体情境而定的互动类型，可以通过不同方式使用。
+
+  ### 标准与替代互动
+  点击[color=yellow][bold][keybind="Use"][/bold][/color]会执行[color=cyan]标准互动[/color]。
+  具体效果很大程度上取决于你手持的物品以及点击的目标。
+
+  标准互动包括：点击[bold]桌子[/bold]把手持物品放到桌上；空手[bold]使用[/bold]游戏世界中的物体；以及最常见的用法——用手持物品与生物或其他物品互动。
+
+  某些情况下，手持物品点击机器可以直接[color=cyan]交换物品[/color]。
+  例如，手持烧杯点击内部存有另一个烧杯的机器。气罐和储气罐也可以这样操作。
+
+  某些物品设有[color=cyan]替代互动[/color]——使用[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]可以[bold]锁住[/bold]储物柜、从其他物品中[bold]弹出[/bold]电池等子物品，等等。
+
+  ### 激活互动
+  即使双手都已占用，也能执行[color=cyan]激活互动[/color]，用[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]与容器等物体互动。
+  例如，你可以不把容器拿起来就[bold]打开容器[/bold]，不使用手持物品就[bold]开门[/bold]，以及给枪械[bold]上膛[/bold]。
+
+  特别需要注意的是，对生物按[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]可以打开[color=cyan]脱衣菜单[/color]并查看其物品栏，从而尝试脱下或偷走对方身上的物品。
+
+  ### 手中互动
+  许多物品还支持[color=cyan]手中使用互动[/color]，例如[bold]打开[/bold]瓶子；双手[bold]持握[/bold]双手枪械和大型近战武器（棍棒、长矛、斧头、拖把、霰弹枪等）；给枪械[bold]上膛[/bold]；或在注射与抽取模式之间[bold]切换[/bold]注射器。
+
+  你可以对当前手点击[color=yellow][bold][keybind="Use"][/bold][/color]或[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]来执行手中互动，但仍值得记住快捷键：分别用[color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]和[color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]执行[color=cyan]标准[/color]和[color=cyan]替代[/color]手中互动。
+
+  ### 点击并拖动
+  使用[color=yellow][bold][keybind="Use"][/bold][/color]将一个实体拖到另一个实体上，可以把前者“用在”后者身上。（不要与[italic]拖拽[/italic]混淆。）
+
+  该操作可用于：
+  - 将生物（玩家或 NPC）[color=cyan]放到[/color]或强行塞到椅子、床、低温休眠舱、废物处理单元等设施上或其中。
+
+  - 让自己[color=cyan]爬上[/color]桌子——也可以对桌子点击[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]。
+
+  - 将另一个生物拖到自己的角色上，打开[color=cyan]脱衣菜单[/color]；如前所述，也可以用[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]完成。
+
+  - 将液体容器（清洁推车、水桶、烧杯）中的内容物[color=cyan]倒入[/color]另一个容器、排水口或机器等目标中。不过请先记得把容器放到地上——不能直接从物品栏中倾倒。
+
+  ### 指向
+  按[color=yellow][bold][keybind="Point"][/bold][/color]可[color=cyan]指向[/color]游戏世界中的某个位置，生成一个所有人都能看见的临时箭头。
+
+  ### 总结
+  主要互动方式如下：
+  - [bolditalic]标准互动[/bolditalic]（[color=yellow][bold][keybind="Use"][/bold][/color]），
+  - [italic]替代互动[/italic]（[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]），
+  - [bold]激活互动[/bold]（[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]），
+  - [bolditalic]手中使用[/bolditalic]（[color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]），
+  - [italic]替代手中使用[/italic]（[color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color]），
+  - 点击并拖动。
+
+  不必担心必须把它们全都背下来——这些操作对同类实体通常直观且一致，而且你会发现大多数实体只会用到一两种互动。
+
+  [bold]存放在容器内的物品仍然可以互动。[/bold]
+
+  ## 情境菜单
+  对任何可互动实体点击[color=yellow][bold][keybind="UIRightClick"/][/bold][/color]即可打开[color=cyan]情境菜单[/color]，其中会显示当前可以执行的其他互动。
+  情境菜单可以提供以下互动：
+  - 将当前手持容器中的[bold]全部内容物转移[/bold]到另一个容器，
+  - 使用预设数量[bold]拆分物品堆叠[/bold]，
+  - 为化学品选择更精确的[bold]转移量[/bold]，
+  - 显示物体的[bold]拆解步骤[/bold]。
+
+  如果对一堆物品点击[color=yellow][bold][keybind="UIRightClick"/][/bold][/color]，则会打开[color=cyan]实体菜单[/color]，列出重叠在一起、可正常互动的实体。
+
+  ### 检查
+  如果对任何实体有所疑问，无论它是物体还是生物，都可以[color=cyan]检查[/color]它：按[color=yellow][bold][keybind="ExamineEntity"][/bold][/color]即可。
+  你也可以检查实体菜单中列出的物品。
+
+  除了查看实体说明外，菜单右下角还会显示一些图标：
+  - 问号图标，用于跳转到相应的指南手册章节，
+  - 闪电图标，用于查看物品属性，
+  - 心形图标，用于查看生物的健康状况，
+  - 以及更多图标。
+
+  ## 物品栏与服装
+  对相应栏位使用[color=yellow][bold][keybind="Use"][/bold][/color]，可以装备或卸下所有物品。
+
+  [color=cyan]穿戴[/color]（或装备）服装最简单的方法，是在当前手中[color=cyan]使用[/color]它：按[color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]即可。
+  部分物品不支持这种操作，因此可能需要将其[color=cyan]手动装备[/color]到相应栏位。
+
+  [bold]部分服装拥有内部物品栏，其行为与容器相同。[/bold]
+
+  ### 物品堆叠
+  要将一叠物品[color=cyan]分成两半[/color]，请按[color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color]。
+
+  ### 背部与腰带栏位
+  如果装备了背包或腰带，可以按[color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color]打开其物品栏，或点击图标[bold]右下角[/bold]的小图标。
+  也可以使用[color=yellow][bold][keybind="OpenBackpack"][/bold][/color]和[color=yellow][bold][keybind="OpenBelt"][/bold][/color]快捷键。
+
+  ### 智能装备
+  你可以在当前手和对应栏位之间[color=cyan]快速移动[/color]物品。如果该栏位中装有容器，此操作会[color=cyan]快速存入[/color]物品，或[color=cyan]快速取出[/color]该容器中最近使用的物品（容器内会以金色星形图标标示）。
+
+  - [color=yellow][bold][keybind="SmartEquipBackpack"][/bold][/color]对背部栏位执行智能装备。
+  - [color=yellow][bold][keybind="SmartEquipBelt"][/bold][/color]对腰带栏位执行智能装备。
+  - [color=yellow][bold][keybind="SmartEquipPocket1"][/bold][/color]、[color=yellow][bold][keybind="SmartEquipPocket2"][/bold][/color]和[color=yellow][bold][keybind="SmartEquipSuitStorage"][/bold][/color]分别对左口袋、右口袋和外衣储物栏位执行智能装备。
+
+  ### 整理网格物品栏
+  要[color=cyan]重新排列[/color]物品，请用[color=yellow][bold][keybind="MoveStoredItem"][/bold][/color]拖动它们。
+  拖动过程中，要[color=cyan]旋转[/color]物品，请按[color=yellow][bold][keybind="RotateStoredItem"][/bold][/color]。
+
+  对容器内的物品点击[color=yellow][bold][keybind="SaveItemLocation"][/bold][/color]可[color=cyan]保存[/color]其位置，使该物品每次存入时都回到这一位置。
+  将鼠标[color=yellow][bold]悬停[/bold][/color]在物品上可以查看保存的位置。
+
+  ## 摄像机
+  [color=cyan]缩放[/color]摄像机时使用[color=yellow][bold][keybind="ZoomIn"][/bold][/color]和[color=yellow][bold][keybind="ZoomOut"][/bold][/color]，并使用[color=yellow][bold][keybind="ResetZoom"][/bold][/color]重置缩放。
+  \n[color=cyan]旋转[/color]摄像机时使用[color=yellow][bold][keybind="CameraRotateLeft"][/bold][/color]和[color=yellow][bold][keybind="CameraRotateRight"][/bold][/color]，并使用[color=yellow][bold][keybind="CameraReset"][/bold][/color]重置旋转。
+  \n[italic]注意：地图通常是按照默认摄像机朝向设计的。[/italic]
+
+  有关操作的更多详情，请参阅[color=cyan]Wiki[/color]。
+</Document>

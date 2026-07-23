@@ -1,0 +1,69 @@
+<Document>
+  # 压差
+  压差（Delta Pressure，ΔP）是两个区域之间的压力差。
+  这种压力差会对两区域之间的物体施加作用力，并对沿途的部分物体造成[bold]压力伤害[/bold]。
+
+  窗户、玻璃门和百叶窗等各种玻璃制物体，在两侧 ΔP 足够高时会受到压力伤害。
+  这种伤害可能导致物体碎裂，使气体能在两个区域间自由流动。
+
+  不同物体在碎裂前能够承受的 ΔP 阈值不同。
+  一般而言，玻璃越坚固，阈值就越高。较薄的物体阈值也会更低。
+
+  墙壁、气闸门和防火闸等物体不受 ΔP 影响。
+
+  ## 标准玻璃与物体
+  <Box>
+    <GuideEntityEmbed Entity="Window" Caption=""/>
+    <GuideEntityEmbed Entity="WindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="Windoor" Caption=""/>
+    <GuideEntityEmbed Entity="ShuttersWindow" Caption=""/>
+    <GuideEntityEmbed Entity="InflatableWall" Caption=""/>
+  </Box>
+
+  标准全尺寸玻璃和其他脆弱物体最多能承受 [color=orange][protodata="Window" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  定向窗等四分之一尺寸玻璃最多能承受 [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  ## 强化玻璃与物体
+  <Box>
+    <GuideEntityEmbed Entity="ReinforcedWindow" Caption=""/>
+    <GuideEntityEmbed Entity="WindowReinforcedDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecure" Caption=""/>
+    <GuideEntityEmbed Entity="ShuttleWindow" Caption=""/>
+  </Box>
+
+  强化全尺寸玻璃最多能承受 [color=orange][protodata="ReinforcedWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  强化四分之一尺寸玻璃最多能承受 [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  ## 等离子体／铀玻璃
+  <Box>
+    <GuideEntityEmbed Entity="PlasmaWindow" Caption=""/>
+    <GuideEntityEmbed Entity="PlasmaWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorPlasma" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumWindow" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorUranium" Caption=""/>
+  </Box>
+
+  等离子体玻璃和铀玻璃最多能承受 [color=orange][protodata="PlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  等离子体和铀制四分之一尺寸玻璃最多能承受 [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  ## 强化等离子体／铀玻璃
+
+  <Box>
+    <GuideEntityEmbed Entity="ReinforcedPlasmaWindow" Caption=""/>
+    <GuideEntityEmbed Entity="PlasmaReinforcedWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecurePlasma" Caption=""/>
+    <GuideEntityEmbed Entity="ReinforcedUraniumWindow" Caption=""/>
+    <GuideEntityEmbed Entity="UraniumReinforcedWindowDirectional" Caption=""/>
+    <GuideEntityEmbed Entity="WindoorSecureUranium" Caption=""/>
+
+  </Box>
+
+  强化等离子体玻璃和强化铀玻璃最多能承受 [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+  强化等离子体和强化铀制四分之一尺寸玻璃最多能承受 [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] 的 ΔP，超过后便会开始开裂。
+
+</Document>

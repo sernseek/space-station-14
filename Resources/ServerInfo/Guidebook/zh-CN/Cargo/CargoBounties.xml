@@ -1,0 +1,45 @@
+<Document>
+  # 货运悬赏
+  虽然[textlink="货运部" link="Cargo"]几乎可以靠出售任何东西赚取[color=cyan]spesos[color]，但完成货运悬赏电脑中列出的[color=cyan]悬赏[/color]可以赚得更多。
+
+  ## 接取悬赏
+
+  <Box>
+    <GuideEntityEmbed Entity="ComputerCargoBounty"/>
+    <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
+  </Box>
+
+  要接取悬赏，请与[color=cyan]货运悬赏电脑[/color]互动，打开悬赏界面。货运悬赏电脑会列出当前所有悬赏，并允许你打印标签或跳过悬赏。
+
+  - 打印标签会获得一份[color=cyan]悬赏清单[/color]，上面列出了需要收集的货物。悬赏清单可以无限打印，因此请确认自己没有在重复其他货运技师的工作。
+
+  - 跳过悬赏会用新悬赏替换该悬赏，因为任何时候最多只能有六项有效悬赏。跳过悬赏有 15 分钟冷却时间，并会使该悬赏作废，这可能会惹恼正在为它忙碌的其他货运技师。
+
+  ## 完成悬赏
+
+  <Box>
+    <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
+    <GuideEntityEmbed Entity="CrateGenericSteel"/>
+    <GuideEntityEmbed Entity="AppraisalTool"/>
+  </Box>
+
+  拿到[color=cyan]悬赏清单[/color]后，就该由你收集所需货物了。不过，只要出示悬赏清单并开口请求，大多数部门都会把你需要的东西交给你。
+
+  收集完货物后，返回货舱，将货物放进一个空[color=cyan]货箱[/color]。所有物品都放入货箱后，将其关闭，再把悬赏清单贴到货箱上。
+
+  对货箱使用[color=cyan]估价工具[/color]来确认悬赏是否完成。工具应当显示悬赏已经完成的确认信息。
+
+  ## 出售悬赏货物
+
+  <Box>
+    <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
+    <GuideEntityEmbed Entity="CrateGenericSteel"/>
+    <GuideEntityEmbed Entity="CargoPalletSell"/>
+  </Box>
+
+  确认悬赏已经完成后，按照出售其他物品的相同步骤操作。
+
+  只需将货箱运到[color=cyan]贸易站[/color]，卖掉它，就大功告成了！
+
+  等你回来时，应该会有一项新悬赏取代它。
+</Document>

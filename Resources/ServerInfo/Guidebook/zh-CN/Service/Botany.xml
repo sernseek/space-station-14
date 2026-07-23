@@ -1,0 +1,89 @@
+<Document>
+# 植物学
+作为植物学家，你的工作是种出足够多的食物，免得厨师寻找“其他食材来源”。多种小麦；种腻了，就种大麻。制作大麻冰沙，往饮料里掺荨麻。只要不停种植，你就会干得很棒！
+
+## 开始班次
+首先认清周围需要使用的机器。与厨师协调，看看对方是否需要种植特定作物；没有特别需求，就种小麦、香蕉和其他你想种的东西。你也可以为化学部门（医疗部）、酒保种植作物，或交给货运部出售。
+
+
+# 工具
+有许多工具可以让作物保持健康、茁壮成长。作为植物学家，你大部分时间都会在水培托盘旁度过。
+
+## 水培托盘
+<Box>
+<GuideEntityEmbed Entity="hydroponicsTray"/>
+</Box>
+这是水培托盘，植物依靠其中的水生长。先把托盘装满水，再加入种子。
+水培托盘上的指示灯会根据颜色和位置表示不同情况：
+- [color=red]红灯，左侧[/color]：植物已死，需要重新种植。用铲子移除植物。
+- [color=orange]橙灯闪烁，中间[/color]：环境条件不理想。按住 Shift 点击植物，查看具体影响因素。通常是杂草，也可能是压力不合适或缺少氧气。如果是杂草，使用迷你锄头，或喷 1 次除草剂。但要注意，过量使用除草剂会损害植物健康，甚至杀死植物。
+- [color=#0336ff]蓝灯，右侧[/color]：需要水。用水桶从水箱取水，再装满托盘。
+- [color=green]绿灯，左侧[/color]：可以收获。左键点击进行收获。
+- [color=yellow]黄灯，右侧[/color]：需要养分。将任意水果放入土壤，或向化学部门索取 EZ 营养剂。
+
+水培托盘的生命周期如下：
+- [color=lightgreen]空置[/color]：没有水、种子或养分
+- [color=lightgreen]已浇水[/color]：已经加入水（例如用瓶子或水桶加水）。
+- [color=lightgreen]可以种植[/color]：已经加入水和养分（即肥料）。
+- [color=lightgreen]已种植[/color]：已经加入种子
+- [color=lightgreen]可以收获[/color]：已经等待植物长成
+- [color=lightgreen]已取样[/color]：已经取得样本（种子）
+- [color=lightgreen]已收获[/color]：已经摘取成熟作物。有些植物之后会再次生长，其他植物则会死亡，需要重新种植。
+- [color=lightgreen]不健康[/color]：你取了太多种子，或向植物喷洒了致命化学品。植物状况很差，但仍会继续生长。可以用肥料恢复其健康；也可以及时止损，用植物剪取得种子后重新种植。
+- [color=lightgreen]衰老／枯萎[/color]：植物已经成熟，很快会死亡。短时间内仍可收获并提取种子。取出种子后，将其拔除或砍倒。
+- [color=lightgreen]死亡[/color]：植物已经收获并停止生长，应将其拔除或砍倒。此时无法提取种子。
+
+## 种子提取机
+<Box>
+<GuideEntityEmbed Entity="SeedExtractor"/>
+</Box>
+它可以提取种子。放入作物，得到种子。
+
+
+# 植物遗传学
+与纳米传讯已知的所有其他生命形式一样，植物通过基因将特质传给后代。通过操控植物遗传性状，植物学家可以培育出带有理想突变的品种，提高植物健康度与产量。
+
+## 特质
+通过仔细观察和研究，可以确定植物的表型，即一组可观察的特征与特质。常见特质包括：
+
+- [color=lightgreen]生物发光[/color]：拥有此特质的植物会在黑暗中发光
+- [color=lightgreen]高产[/color]：拥有此特质的植物每次收获会结出更多果实
+- [color=lightgreen]低耗水[/color]：拥有此特质的植物生长所需水分少于正常水平
+- [color=lightgreen]木质化[/color]：拥有此特质的植物需要使用锋利工具收获
+- [color=lightgreen]长寿[/color]：拥有此特质的植物在死亡前可以经历更多轮收获
+- [color=lightgreen]低光照[/color]：拥有此特质的植物生长所需光照少于正常水平
+- [color=lightgreen]抗虫害[/color]：拥有此特质的植物抵抗害虫的能力更强
+- [color=lightgreen]无籽[/color]：拥有此特质的植物不会产生能够发芽的种子
+- [color=lightgreen]抗杂草[/color]：拥有此特质的植物会抑制杂草生长
+
+只要种植并观察植物，就能确定其表型！遗传学之父格里高尔·孟德尔在 1866 年正是以这种方法研究植物。
+
+## 突变
+以[color=cyan]不稳定诱变剂[/color]处理植物，会令其发生随机基因突变；基因的改变可能导致特质变化。收获种子，即可保存拥有理想突变的植物。
+
+使用的不稳定诱变剂越多，产生的突变就越多。由于许多基因对植物生存至关重要，大多数突变都会导致植物死亡。
+
+<Box>
+<GuideEntityEmbed Entity="ChemistryBottleUnstableMutagen"/>
+</Box>
+
+## 异花授粉
+你可以用[color=cyan]无菌拭子[/color]将花粉从一株植物转移到另一株。经过异花授粉的植物有机会转移特质。重复使用拭子时要小心；花粉很黏！
+
+<Box>
+<GuideEntityEmbed Entity="BoxMouthSwab"/>
+<GuideEntityEmbed Entity="DiseaseSwab"/>
+</Box>
+
+## 化学品
+部分化学品会对植物产生特殊效果。
+
+[textlink="点击此处查看所有植物用化学品。" link="Botanical"]
+
+<GuideReagentEmbed Reagent="Dylovene"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Necrosol"/>
+<GuideReagentEmbed Reagent="Phalanximine"/>
+<GuideReagentGroupEmbed Group="Botanical"/>
+
+</Document>

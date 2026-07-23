@@ -1,0 +1,27 @@
+<Document>
+  # 建造
+
+  <Box>
+    <GuideEntityEmbed Entity="Bed" Caption=""/>
+    <GuideEntityEmbed Entity="TableReinforced" Caption=""/>
+    <GuideEntityEmbed Entity="WeaponImprovisedPneumaticCannon" Caption=""/>
+    <GuideEntityEmbed Entity="Chair" Caption=""/>
+  </Box>
+
+
+  建造菜单用于在游戏中建造和制作物品。
+  按下[color=yellow][bold][keybind="OpenCraftingMenu"][/bold][/color]即可打开。
+
+  放置会“吸附”到网格的物体时，可以按住[color=yellow][bold][keybind="EditorLinePlace"][/bold][/color]一次放置一整行，或按住[color=yellow][bold][keybind="EditorGridPlace"][/bold][/color]一次放置整个网格。
+
+  制作需要大量材料的物品时，请记住你不必同时拿着所有材料；只需将材料放在地板上、背包里或附近的桌子上，制作时就会像平常一样自动消耗它们。
+
+  在场景中放置“建筑虚影”时，按下[color=yellow][bold][keybind="EditorRotateObject"][/bold][/color]可将虚影顺时针旋转。
+  如果正在建造可以镜像翻转的部件（例如气体混合器／过滤器），可以按下[color=yellow][bold][keybind="EditorFlipObject"][/bold][/color]翻转虚影。
+
+  对已经建成且尚未固定（未用扳手拧紧）的物体，还可以使用[color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color]和[color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color]将其顺时针或逆时针旋转。
+
+
+
+
+</Document>

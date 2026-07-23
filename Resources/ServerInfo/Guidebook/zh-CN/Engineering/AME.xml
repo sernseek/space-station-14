@@ -1,0 +1,76 @@
+<Document>
+  # 反物质引擎（AME）
+  反物质引擎是空间站的短期辅助发电机，能在有限时间内提供可观电力。
+
+  它主要用于协助工程师启动[textlink="奇点引擎" link="SingularityEngine"]或[textlink="特斯拉引擎" link="TeslaEngine"]等大型引擎，通过向空间站的[textlink="电池" link="PowerStorage"]补充部分电力来延长其供电时间。
+
+  ## 建造
+  <Box>所需部件：</Box>
+  <Box>
+  <GuideEntityEmbed Entity="AmeController"/>
+  <GuideEntityEmbed Entity="AmePartFlatpack"/>
+  <GuideEntityEmbed Entity="AmeJar"/>
+  </Box>
+
+  AME 控制器是反物质引擎通过[textlink="HV 连接" link="VoltageNetworks"]向空间站电网输出电力的部件。
+  因此，建造 AME 时，应先将控制器放在一根[color=orange]HV 电缆[/color]上。
+
+  大多数空间站都有裸露的[color=orange]HV 线路[/color]或专门用于扳手固定 AME 控制器的位置，使其能够接入电网。
+
+  AME 屏蔽层是构成反物质引擎的实体结构。使用多功能工具可将 AME 平板包装转换成屏蔽层。
+
+  建造 AME 时，先铺设一个 3x3 或更大的 AME 平板包装方阵，并尽量增加四周八个方向均被包围的“中心”部件数量。
+  中心部件越多，AME 拥有的核心越多，能够安全输出的电力也就越大。
+
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+
+  铺设完成后，使用多功能工具将每个 AME 平板包装转换成屏蔽层，便会形成完整的 AME 结构。
+
+  <GuideEntityEmbed Entity="AmeController" Caption=""/>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    [color=#999999][italic]单核心布局示例[italic][/color]
+  </Box>
+
+  ## 操作
+  要启动 AME，请将燃料罐装入 AME 控制器，并设置安全注入速率。
+
+  安全注入速率是在最大化电力输出的同时，使 AME 不会过热、能够安全运行的数值。
+
+  此速率始终为核心数量的两倍。
+
+  例如，单核心 AME 的安全注入速率为 2；双核心的安全注入速率为 4，依此类推。
+
+  任何高于这一比例的设置最终都会导致引擎[color=#ff0000]过热[/color]，并在不久后[color=#ff0000]爆炸[/color]。
+
+  AME 控制器会[textlink="显示" link="InspectingPower"]其当前向电网提供的电力，以及在有需求时理论上能够提供的最大电力。
+
+</Document>

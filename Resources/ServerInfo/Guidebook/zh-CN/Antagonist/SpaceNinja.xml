@@ -1,0 +1,84 @@
+<Document>
+  # 太空忍者
+
+  <Box>
+    [color=#999999][italic]“暗夜之蛛，悄然噬人。”[/italic][/color]
+  </Box>
+
+  你是[color=#66FF00]蜘蛛氏族[/color]派来在空间站制造各种混乱的精英佣兵。你的装备能让行动悄无声息，却又招招致命。
+
+  无论你大开杀戒还是避免惹事，你所受的训练都要求你[italic]至少必须尝试完成目标[/italic]。为了荣誉！
+
+  ## 标准装备
+  你一开始便植入了[color=cyan]死亡酸化器[/color]，因此即使被俘或战死，珍贵装备也不会落入敌手。
+
+  你的包里装满了[bold]工具[/bold]和一个[bold]求生箱[/bold]。你还携带了[color=cyan]喷气背包[/color]与[color=cyan]定位器[/color]，后者会指引你前往空间站。
+
+  <Box>
+    <GuideEntityEmbed Entity="JetpackBlack"/>
+    <GuideEntityEmbed Entity="PinpointerStation"/>
+  </Box>
+
+  ## 你的忍者服
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingEyesVisorNinja" Caption="你的面罩"/>
+    <GuideEntityEmbed Entity="ClothingOuterSuitSpaceNinja" Caption="你的忍者服"/>
+    <GuideEntityEmbed Entity="ClothingShoesSpaceNinja" Caption="你的靴子"/>
+  </Box>
+
+  你最重要的物品就是[color=cyan]忍者服[/color]；没有它，所有能力都无法使用。
+  忍者服依靠[bold]内置电池[/bold]供能。电池可以更换，而[italic]高容量电池[/italic]意味着一名[italic]更高效的忍者[/italic]。
+
+  你可以使用[color=cyan]手套[/color][bold]直接为内置电池充电[/bold]。检查忍者服，或查看屏幕上便捷的电池警告，即可了解当前电量。
+
+  你的装束还包括[color=cyan]特制靴子[/color]，无需消耗能量便能让你行动敏捷、站立稳固并吸附地面。[color=cyan]面罩[/color]则为你提供闪光防护。
+
+  ## 忍者手套
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesSpaceNinja" Caption="你的手套"/>
+  </Box>
+
+  [color=#66FF00]这双宝贝就是你安身立命的本钱。[/color]它们由[bold]绝缘纳米机械[/bold]制成，让你能优雅地闯入禁区而不留下指纹。
+
+  你拥有切换手套状态的动作。手套开启后，你可以使用[bold]特殊能力[/bold]；空手、关闭战斗模式并与物体互动即可触发这些能力。
+
+  手套能力包括：
+  - 破解门和气闸门。
+  - 从 APC、变电站或 SMES 等[bold]变压设备[/bold]中汲取电力（电压越高，汲取效率越高）。
+  - 电击生物，使其昏迷并受到少量伤害。
+  - 篡改[bold]空间站设备[/bold]以完成[color=#66FF00]目标[/color]。
+
+  ## 能量武士刀
+
+  <Box>
+    <GuideEntityEmbed Entity="EnergyKatana"/>
+  </Box>
+
+  [bold]你已向刀剑立誓，拒绝使用枪械。[/bold]幸运的是，你有一把相当炫酷的刀。
+
+  你的[color=cyan]能量武士刀[/color]威力十足，并可消耗忍者服电力[bold]随时召回[/bold]。它离你越远，召回所需的能量就越多。
+
+  手持武士刀时，你还可以[color=cyan]传送[/color]至视野内的任意位置，[bold]甚至能穿过窗户[/bold]。传送所需的充能恢复缓慢，因此最好留下一两次充能，以备紧急脱身。
+
+  ## 蜘蛛氏族炸弹
+
+  <Box>
+    <GuideEntityEmbed Entity="SpiderCharge"/>
+  </Box>
+
+  这是放在你口袋里的一枚[color=cyan]改装 C-4 炸药[/color]。它会造成大范围爆炸，但由于引爆它是你的目标之一，因此[bold]必须在目标区域内完成起爆设置[/bold]。
+
+  它无法手动启动，只需将其安放在指定目标附近的墙上即可。请慎重选择位置，一旦安装便无法取下。
+
+  ## 目标
+
+  - 下载 \[9-13\] 个研究节点：对已解锁一定数量科技的研发服务器使用手套。如果可供窃取的科技不够，你可能需要亲自解锁一些科技。
+  - 破解空间站上的 \[15-40\] 道门：使用手套破解指定数量的门。
+  - 引爆蜘蛛氏族炸弹：将炸弹安放在指定地点，然后欣赏爆炸！
+  - 呼叫一项[textlink="威胁" link="MinorAntagonists"]：对通讯控制台使用手套。
+  - 将所有人设为通缉：对犯罪记录控制台使用手套。
+  - 存活：不要死。
+
+</Document>

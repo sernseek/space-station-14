@@ -1,0 +1,32 @@
+<Document>
+# 医疗部
+人们受伤后会来到这个部门，而在这里工作的人员负责治好他们。
+
+## 人员
+[color=#5b97bc]医疗部[/color]的工作人员包括实习医师、医师、急救员和药剂师。医疗部由医疗主管领导。
+
+  <Box>
+    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="医师"/>
+    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="急救员"/>
+    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="药剂师"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="医疗主管"/>
+  </Box>
+
+目前，医疗舱分为两类不同的工作：
+
+## 医疗救治
+  <Box>
+    <GuideEntityEmbed Entity="Brutepack"/>
+    <GuideEntityEmbed Entity="Bloodpack"/>
+    <GuideEntityEmbed Entity="Ointment"/>
+    <GuideEntityEmbed Entity="Gauze"/>
+    <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+  </Box>
+## 化学药剂生产
+  <Box>
+    <GuideEntityEmbed Entity="ChemDispenser"/>
+    <GuideEntityEmbed Entity="LargeBeaker"/>
+    <GuideEntityEmbed Entity="PillCanister"/>
+    <GuideEntityEmbed Entity="ChemMaster"/>
+  </Box>
+</Document>

@@ -1,0 +1,46 @@
+<Document>
+  # 空气洗涤器
+  空气洗涤器对于维持没有生物呼吸废气和大气事故污染的环境至关重要。
+  它的主要工作是清除所接触大气中的有害气体。
+  <Box>
+    <GuideEntityEmbed Entity="GasVentScrubber"/>
+  </Box>
+  空气洗涤器需要通过附近的[textlink="低压电缆" link="VoltageNetworks"]获得[textlink="电力" link="Power"]才能工作。
+
+  空气洗涤器默认会从所接触的大气中清除除氮气和氧气外的所有气体。除非由与其[textlink="连接" link="Networking"]的[textlink="空气警报器" link="AirAlarms"]发出其他指令，否则它会一直如此工作。
+
+  可以用任何焊接工具焊住洗涤器，使其停止工作。
+
+  ## 配置选项
+  与[textlink="空气警报器" link="AirAlarms"][textlink="连接" link="Networking"]后，空气洗涤器会获得更多功能。
+
+  可以在“气体过滤器”下拉菜单中指定要洗涤的气体。请注意，更改[textlink="空气警报器" link="AirAlarms"]模式后，此设置会重置。
+
+  空气洗涤器有两种“方向”选项：洗涤和虹吸。
+  - 洗涤会按照气体过滤器的设置清除气体。
+  - 虹吸会忽略所有气体过滤器，抽走大气中的全部气体。
+
+  这两种模式都受“速率”设置限制，该设置决定洗涤器从所接触大气中抽取气体的速率（单位为升）。
+
+  空气洗涤器还有“广域”设置，可扩大洗涤器的工作范围。通常，洗涤器只会洗涤它所在单个地块的大气。
+  在广域模式下，洗涤器会抽取周围 4 个地块的气体，如下所示：
+
+  <Box>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+    <GuideEntityEmbed Entity="GasVentScrubber" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+  </Box>
+
+  这实际上会大幅提升总速度，因为空气洗涤器会同时洗涤 5 个地块。
+
+  当大气中检测到高浓度的有害气体时，以自动模式与[textlink="空气警报器" link="AirAlarms"][textlink="连接" link="Networking"]的洗涤器会在[textlink="空气警报器" link="AirAlarms"]的“过滤（广域）”模式下自动启用广域模式。
+
+  广域模式非常适合快速清除等离子体燃烧室中的大量氚气。
+
+</Document>

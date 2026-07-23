@@ -1,0 +1,73 @@
+<Document>
+  # 大型炸弹拆除
+  所以，你发现了一枚正在滴滴作响的大型炸弹。这类炸弹需要很久才会引爆，但会在船体上炸出一个大洞。继续往下读，就不会有人被炸飞。
+
+  ## 装备
+  拆弹需要两件必备工具；此外，多功能工具在辨认线缆时非常有用。
+  <Box>
+    <GuideEntityEmbed Entity="Wirecutter"/>
+    <GuideEntityEmbed Entity="Screwdriver"/>
+    <GuideEntityEmbed Entity="Multitool"/>
+  </Box>
+
+  防护方面，[color=yellow]防爆服[/color]或其他防护装备能帮你避免被炸成碎块。
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHeadHelmetBombSuit"/>
+    <GuideEntityEmbed Entity="ClothingOuterSuitBomb"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitRd"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitAtmos"/>
+  </Box>
+
+  ## 大型炸弹
+  以下是拆弹时常见的两种炸弹。训练炸弹只会对船体造成轻微损伤，通常不会杀死你；辛迪加炸弹则会在船体上炸出大洞。如果没有防护装备，你也会被炸成碎块。
+  <Box>
+    <GuideEntityEmbed Entity="SyndicateBomb"/>
+    <GuideEntityEmbed Entity="TrainingBomb"/>
+  </Box>
+
+  ## 启动
+  要启动炸弹，可以[color=yellow]右键点击[/color]炸弹并选择[color=yellow]开始倒计时[/click]，也可以对炸弹[color=yellow]按住 Alt 点击[/color]。随后炸弹会开始发出滴滴声。
+
+  ## 时间
+  炸弹的倒计时有限，最短为 [protodata="SyndicateBomb" comp="TimerTrigger" member="ShortestDelayOption"/] 秒，最长为 [protodata="SyndicateBomb" comp="TimerTrigger" member="LongestDelayOption"/] 秒。除非 PRCD 线已被剪断，否则检查炸弹即可查看计时器。计时归零时，炸弹便会爆炸。
+
+  ## 固定栓
+  默认情况下，炸弹启动后会把自己固定在地面上。你必须找到 BOLT 线并将其剪断，以解除固定栓；之后便可用扳手拆下炸弹，将其扔进太空。
+
+  ## 线缆
+  拆弹必须接触内部线缆。使用[color=yellow]螺丝刀[/color]打开检修面板，里面有多种线缆。标准辛迪加炸弹约有[color=yellow]10 根线[/color]，其中 3 根是假线，[color=red]3 根会导致爆炸[/color]，其余线缆（包括 BOOM 线）见下文。每根线可以进行 3 种操作：
+  - 用多功能工具[color=yellow]脉冲线缆[/color]，这样可以安全辨认大多数线缆。
+  - 用剪线钳[color=red]剪断线缆[/color]，这可能触发各种效果；切勿毫无理由地乱剪！
+  - 用剪线钳[color=green]接合线缆[/color]；如果炸弹并非一次性装置，这可以恢复部分功能。
+
+  接下来介绍各类线缆。
+
+  ## 线缆类型
+  [color=#a4885c]启动线（LIVE）[/color]
+  - [color=yellow]脉冲线缆[/color]：线缆会发出啁啾声，并将爆炸延后 30 秒。
+  - [color=red]剪断线缆[/color]：炸弹已启动时会将其拆除，否则会启动计时器。
+  - [color=green]接合线缆[/color]：无效果。
+
+  [color=#a4885c]推进线（PRCD）[/color]
+  - [color=yellow]脉冲线缆[/color]：倒计时向前推进 15 秒。
+  - [color=red]剪断线缆[/color]：检查炸弹时不再显示计时器。
+  - [color=green]接合线缆[/color]：无效果。
+
+  [color=#a4885c]延时线（DLAY）[/color]
+  - [color=yellow]脉冲线缆[/color]：将爆炸延后 30 秒。
+  - [color=red]剪断线缆[/color]：无效果。
+  - [color=green]接合线缆[/color]：无效果。
+
+  [color=#a4885c]爆炸线（BOOM）[/color]
+  - [color=yellow]脉冲线缆[/color]：[color=red]如果炸弹已经启动，它会爆炸！[/color]
+  - [color=red]剪断线缆[/color]：[color=red]如果炸弹已经启动，它会爆炸！[/color]否则会禁用炸弹。
+  - [color=green]接合线缆[/color]：如果炸弹先前已被禁用，则重新启用它。
+
+  [color=#a4885c]固定栓线（BOLT）[/color]
+  - [color=yellow]脉冲线缆[/color]：使固定栓转动。
+  - [color=red]剪断线缆[/color]：解除固定栓，把它扔进太空！
+  - [color=green]接合线缆[/color]：重新启用固定栓。
+
+  [color=#a4885c]假线[/color]
+  - 假线没有任何作用。你可以随意脉冲、剪断和接合它们，完全不会影响炸弹。
+</Document>

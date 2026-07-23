@@ -1,0 +1,41 @@
+<Document>
+  # 狄奥娜
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceDiona" Caption=""/>
+  </Box>
+
+  他们不能穿鞋，但不会被葛藤减速。
+  他们饥饿和口渴的速度较慢。
+  饮用某些以水为基础的饮料可以恢复饱腹度。 <!-- Starlight, water food for diona.-->
+  他们会在受到 [color=lightgreen]125[/color] 点伤害时进入危急状态。 <!-- Starlight, health changes.-->
+  他们会在受到 [color=red]250[/color] 点伤害时死亡。 <!-- Starlight, health changes.-->
+  他们的“血液”是树液，无法由铁代谢生成。
+  作为植物，除草剂会使他们中毒，而强效丰收剂能治疗他们（但过量使用并非没有风险！）
+
+  他们受到的[color=#1e90ff]钝击伤害减少 30%，切割伤害减少 20%[/color]；
+  但受到的[color=#ffa500]灼热伤害增加 50%，电击伤害增加 20%；而且从*任何*来源受到足够灼热伤害时都很容易
+  着火，火焰层数最多可达 5 层。[/color] <!-- Starlight, fire stack cap for this effect.-->
+
+  ## 树大好乘凉
+  <Box>
+    <GuideEntityEmbed Entity="FloraTree" Caption=""/>
+  </Box>
+  接触过量强效丰收剂会使狄奥娜失控生长，变成一棵无法移动的树（并掉落全部装备）。
+  砍倒这棵树会让狄奥娜“恢复”为可移动状态。
+
+  ## 狄奥娜幼体
+  <Box>
+    <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
+    <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
+    <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
+  </Box>
+  狄奥娜死亡后可以主动摧毁自己的身体，将“内脏”释放为三个幼体，
+  玩家将控制其中的脑幼体。
+  它可以说话，但没有手和物品栏，能做的事情很少。
+
+  5 分钟后，幼体可以重新长成完整的狄奥娜。这会产生一具姓名随机、外貌随机的新身体；
+  除了他们的一面之词外，几乎没有证据能证明他们此前的身份。
+
+
+</Document>

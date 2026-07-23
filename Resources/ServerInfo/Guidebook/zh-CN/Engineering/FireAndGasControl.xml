@@ -1,0 +1,77 @@
+<Document>
+  # 火灾与气体控制
+  遗憾的是，[textlink="火灾" link="Fires"]、[textlink="暴露太空" link="Spacing"]及其他[textlink="大气异常" link="AtmosphericUpsets"]在空间站上经常发生。
+  这些异常会迅速蔓延至全站，使大气环境不再适合船员生存。
+
+  <Box>
+    <GuideEntityEmbed Entity="Firelock"/>
+    <GuideEntityEmbed Entity="FirelockGlass"/>
+    <GuideEntityEmbed Entity="FirelockEdge"/>
+    <GuideEntityEmbed Entity="FireAlarm"/>
+  </Box>
+
+  为应对此类情况，空间站配有多种设备，用于阻止异常扩散。
+
+  ## 防火闸
+  防火闸是一种简单有效的装置，可防止火灾蔓延至全站。
+
+  防火闸会根据自身感测到的状况，或所连接的[textlink="气体警报器" link="AirAlarms"]或火灾警报器发出的指令，封闭空间站的部分区域，阻止危险状况扩散。
+
+  ## 空间站分区
+  防火闸会有意设置在关键位置，将空间站划分为多个区域。走廊或步行街等开放空间也会被分割为更小的区段。这样可以防止危险状况通过彼此相连的房间、走廊及其他开放空间扩散至全站。
+
+  ## 基本工作方式
+  未连接[textlink="气体警报器" link="AirAlarms"]或火灾警报器时，防火闸会根据自身感测到的状况工作。出现以下情况时，防火闸会降下（关闭）：
+  - 防火闸两侧温差达到或超过 [color=orange][protodata="Firelock" comp="Firelock" member="TemperatureThreshold"/] K[/color]。
+  - 防火闸两侧压差达到或超过 [color=orange][protodata="Firelock" comp="Firelock" member="PressureThreshold"/] kPa[/color]。
+
+  如果这些状况持续存在，防火闸会进入锁定模式。处于锁定模式的防火闸会亮起[color=red]红[/color]灯，无法徒手撬开；只有具备工程部权限的人员或使用撬棍才能将其打开。
+
+  如果处于锁定模式的防火闸没有供电，即使拥有工程部权限也无法打开，只有撬棍可以打开。
+
+  如果防火闸两侧状况的差异恢复到可接受范围内，防火闸会解除锁定模式，此时任何人都可以打开。
+  请注意，这只意味着防火闸两侧的状况相同，并不意味着状况安全。
+
+  常见例子是：防火闸两侧都暴露于太空后，防火闸会解除锁定。
+
+  ## 连接气体警报器与火灾警报器
+  防火闸可以连接至[textlink="气体警报器" link="AirAlarms"]和火灾警报器，接收何时降下的指令。
+  防火闸使用[textlink="列表系统" link="Networking"]；可以使用多用途工具或网络配置器连接这些设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="Firelock" Caption=""/>
+    <GuideEntityEmbed Entity="Multitool" Caption=""/>
+    <GuideEntityEmbed Entity="NetworkConfigurator" Caption=""/>
+    <GuideEntityEmbed Entity="FireAlarm" Caption=""/>
+    <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
+  </Box>
+
+  每扇防火闸都有自己的唯一地址。将通风口、洗涤器和传感器连接至气体警报器的过程也非常相似。
+
+  ## 受气体警报器控制时的工作方式
+  防火闸连接至气体警报器后，也会依照所连接[textlink="气体警报器" link="AirAlarms"]的命令降下。
+
+  气体警报器进入[color=red]危险[/color]警报状态时，防火闸会降下。气体警报器恢复至[color=green]正常[/color]警报状态之前，防火闸会保持降下。
+
+  即使气体警报器恢复至[color=green]正常[/color]警报状态，处于锁定模式的防火闸也不会升起。即使压差已经消除，防火闸仍会保持降下，直到气体警报器再次发送正常警报状态。
+
+  ## 受火灾警报器控制时的工作方式
+  连接至火灾警报器后，火灾警报器触发时，防火闸会降下。火灾警报器复位之前，防火闸会保持降下。
+
+  ## 火灾警报器
+  火灾警报器可用于集中控制所有与其连接的防火闸。
+
+  <Box>
+    <GuideEntityEmbed Entity="FireAlarm"/>
+  </Box>
+
+  带有传感器的设备可以[textlink="链接" link="Networking"]至火灾警报器；如果传感器测得的温度达到其定义的[color=red]危险[/color]阈值，就会触发火灾警报器。
+
+  火灾警报器触发后，所有与其连接的防火闸都会被强制设为[color=red]危险[/color]警报状态并降下。
+
+  当传感器测得的温度恢复至[color=green]正常[/color]阈值时，警报会自动解除。
+
+  与火灾警报器交互，可以手动触发警报或将其复位。
+
+  这样可以手动让房间内的防火闸迅速降下，也可以在异常解决后使其升起。
+</Document>

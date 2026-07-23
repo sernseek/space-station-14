@@ -1,0 +1,25 @@
+<Document>
+  # 蛛人
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceArachnid" Caption=""/>
+  </Box>
+
+  蛛人的物品栏中额外拥有两个口袋栏位。他们食用生肉不会受到任何不良影响，但巧克力和洋葱等食物会使其中毒。
+  他们窒息的速度快 50%，而其蓝色血液以铜为基础，无法通过铁来代谢补充。
+
+  他们的徒手攻击造成穿刺伤害，而非钝击伤害。
+
+  ## 养蚕
+
+  <Box>
+    <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingUniformJumpskirtWeb" Caption=""/>
+    <GuideEntityEmbed Entity="WebShield" Caption=""/>
+    <GuideEntityEmbed Entity="WallWeb" Caption=""/>
+  </Box>
+
+  蛛人可以消耗更多饱食度来制造蛛丝。只有蛛人能将成束蛛丝制作成各类物品，从衣物、盾牌到整面墙壁皆可。
+
+
+</Document>

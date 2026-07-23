@@ -1,0 +1,47 @@
+<Document>
+  # 便携式发电机
+
+  “P.A.C.M.A.N.”系列便携式发电机用于为重要房间、区域乃至整个部门提供应急或补充电力。
+  它们易于架设和维护，在停电时可为关键系统与区域供电。
+
+  <Box>
+    <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N." />
+    <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="P.A.C.M.A.N." />
+    <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="S.U.P.E.R.P.A.C.M.A.N." />
+  </Box>
+
+  # 小型机
+
+  <Box>
+    <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N." />
+    <GuideEntityEmbed Entity="WeldingFuelTank" />
+  </Box>
+
+  空间站各处的维护通道中都能找到 J.R.P.A.C.M.A.N.，非常适合船员在出现电力问题时自行架设。
+  它的输出功率最高可达 [color=orange][protodata="PortableGeneratorJrPacman" comp="FuelGenerator" member="MaxTargetPower" format="N0"/] W[/color]，足以为一两个房间供电，在医疗部的医疗舱或化学实验室等地点可能发挥关键作用。
+
+  架设极为简单：把它放在一根[color=green]低压[/color]电缆上方，用扳手固定，加入一些焊接燃料，然后启动。
+
+  J.R.P.A.C.M.A.N. 只能使用焊接燃料。空间站各处的焊接燃料罐中都能找到这种燃料，维护区域尤为常见。
+
+  # 大型机
+
+  <Box>
+    <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="P.A.C.M.A.N." />
+    <GuideEntityEmbed Entity="SheetPlasma" />
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="S.U.P.E.R.P.A.C.M.A.N." />
+    <GuideEntityEmbed Entity="SheetUranium" />
+  </Box>
+
+  P.A.C.M.A.N. 和 S.U.P.E.R.P.A.C.M.A.N. 供工程部在大规模停电时使用，也可以在电力短缺时补充供电。
+  例如启动大型[textlink="引擎" link="SingularityTeslaEngine"]、为部门供电等等。
+
+  S.U.P.E.R.P.A.C.M.A.N. 的输出功率更大（最高 [color=orange][protodata="PortableGeneratorSuperPacman" comp="FuelGenerator" member="MaxTargetPower" format="N0"/] W[/color]），以最大功率运行时续航也更长，但降低输出功率时效率较差。
+
+  它们直接连接[color=yellow]中压[/color]或[color=orange]高压[/color][textlink="电缆" link="VoltageNetworks"]，并能在两者之间切换，使用十分灵活。
+
+  S.U.P.E.R.P.A.C.M.A.N 和 P.A.C.M.A.N 分别需要铀片和等离子体片作为燃料。
+</Document>

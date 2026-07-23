@@ -1,0 +1,54 @@
+<Document>
+# 科研
+[color=#c96dbf]科研部[/color]通常也称研发部，其工作是生成研究点数以解锁新技术，并利用这些技术在车床上生产新物品，从而帮助空间站。
+
+## 人员
+[color=#c96dbf]科研部[/color]的员工由研究助理和科学家组成。[color=#c96dbf]科研部[/color]由研究主管领导。
+
+  <Box>
+   <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="科学家"/>
+   <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="研究主管"/>
+  </Box>
+
+## 技术
+  <Box>
+    <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
+    <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
+  </Box>
+部门中最重要的设备是储存已解锁技术的研发服务器，以及用来解锁[color=#a4885c]技术[/color]的研发计算机。
+
+每项技术都会消耗[color=#a4885c]研究点数[/color]，并在车床上解锁配方。有些技术还有前置条件，必须先解锁前置技术才能研究。
+
+[textlink="点击此处查看技术列表。" link="Technologies"]。
+
+## 学科
+技术分布在 4 个不同的学科中：
+  <Box>
+    <GuideEntityEmbed Entity="Wrench" Caption="工业"/>
+    <GuideEntityEmbed Entity="WeaponTetherGun" Caption="实验"/>
+    <GuideEntityEmbed Entity="ComputerTelevision" Caption="民用服务"/>
+    <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="军械"/>
+  </Box>
+
+<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> 使用离你最近的研发控制台，查看每个学科树中分别锁定了哪些研究。
+
+## 层级
+每棵学科树最多有 3 个技术层级。开始时只有第 1 层开放可用。
+
+要继续推进，你必须研究当前层级中至少 [color=brown]75%[/color] 的技术才能进入下一层。因此，要解锁 T2 研究，就需要研究 T1 中 75% 的技术。
+
+[color=green]第 3 层[/color]就有意思了。如果研究一项 T3 技术，你将[color=brown]无法再研究[/color]其他学科树的 T3 技术。除非你能找到别的解决办法……或许应该问问你的[color=purple]研究主管[/color]。
+
+## 车床
+  <Box>
+    <GuideEntityEmbed Entity="Protolathe"/>
+    <GuideEntityEmbed Entity="CircuitImprinter"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ExosuitFabricator"/>
+    <GuideEntityEmbed Entity="MedicalTechFab"/>
+    <GuideEntityEmbed Entity="SecurityTechFab"/>
+  </Box>
+你可以在车床上选择一台服务器，让车床打印你已解锁的配方。配方需要各种材料（钢、玻璃、塑料、黄金、等离子体），可从货运部或打捞部门获得。
+
+</Document>
