@@ -1,0 +1,13 @@
+<Document>
+  # 原型拉斯比
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoSlimePerson" Caption=""/>
+  </Box>
+
+  尽管身体呈半固态，拉斯比仍能轻松承载原型机级别的赛博改造部件。只不过这些部件偶尔可能会……稍微陷进去一点。
+
+  ## 抗性
+  - 受到的[color=#8147ff]电击伤害增加 25%[/color]、[color=#65807d]切割伤害增加 10%[/color]、[color=#b9bf93]穿刺伤害增加 10%[/color]，且[color=#1e90ff]寒冷伤害增加 30%[/color]。
+  - 受到的[color=#FF3636]钝击伤害减少 30%[/color]，受到的[color=#64ffe6]毒素伤害减少 20%[/color]。
+</Document>

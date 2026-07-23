@@ -1,0 +1,17 @@
+<Document>
+  # 原型影裔
+<!-- Starlight, removed FH lore.-->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoKin" Caption=""/>
+  </Box>
+
+  原型影裔并不常见，但原因并不是植物类物种那种围绕赛博改造的社会偏见。真正的原因在于：要成为原型影裔，就必须放弃返回故乡现实的唯一希望。这场手术会让他们永远留在我们的现实中，直至死去。
+
+  对许多人而言，这是一个极难接受的选择。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 15%[/color]、[color=#8147ff]电击伤害增加 35%[/color]、[color=#800000]失血伤害增加 35%[/color]、[color=#BD5902]辐射伤害增加 30%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 40%[/color]，受到的[color=#C8FF75]基因伤害减少 50%[/color]。
+
+  [color=red]由于你接受了这场手术，你的身体现在无法在黑暗中自然治愈灼烧伤害。[/color]
+</Document>

@@ -1,873 +1,873 @@
-ent-PairedChopsticks = 物品·paired chopsticks
-    .desc = 这是物品·paired chopsticks。
+ent-PairedChopsticks = 连体筷子
+    .desc = 你最好把它们掰开。
 
 
-ent-NukeDisk = 核弹 authentication disk
-    .desc = 一件核弹 authentication disk，可以用来演奏音乐。
+ent-NukeDisk = 核弹授权盘
+    .desc = 一张核弹授权盘，配合密码即可启动核弹。纳米传讯留下的字条上写着：“这是你最重要的东西，把这该死的盘保护好！”
 
-ent-NukeDiskFake = 核弹 authentication disk
-    .desc = 一件核弹 authentication disk，可以用来演奏音乐。
+ent-NukeDiskFake = 核弹授权盘
+    .desc = 一张核弹授权盘，配合密码即可启动核弹。纳米传讯留下的字条上写着：“这是你最重要的东西，把这该死的盘保护好！”
 
 
-ent-DeskBell = 物品·desk bell
-    .desc = 这是物品·desk bell。
+ent-DeskBell = 桌铃
+    .desc = 一切客服工作的基石。你感到一股永无止境的冲动，想把它按响。
 
 
-ent-FireExtinguisher = 物品·fire extinguisher
-    .desc = 这是物品·fire extinguisher。
+ent-FireExtinguisher = 灭火器
+    .desc = 用来扑灭火焰。
 
-ent-BorgFireExtinguisher = 物品·maneuvering jet
-    .desc = 这是物品·maneuvering jet。
+ent-BorgFireExtinguisher = 机动喷射器
+    .desc = 机动喷射器采用灭火器技术制造……好吧，它其实就是一具更大的灭火器。
 
-ent-ExtinguisherSpray = 物品·extinguisher spray
+ent-ExtinguisherSpray = 灭火剂喷雾
 
-ent-FireExtinguisherMini = 物品·pocket fire extinguisher
-    .desc = 这是物品·pocket fire extinguisher。
+ent-FireExtinguisherMini = 便携式灭火器
+    .desc = 一款轻巧紧凑的玻璃纤维框架灭火器。它的储水量比大号同类少。
 
-ent-SelfRechargingFireExtinguisher = 物品·self-recharging fire extinguisher
-    .desc = 这是物品·self-recharging fire extinguisher。
+ent-SelfRechargingFireExtinguisher = 自动补水灭火器
+    .desc = 用来扑灭火焰，还会缓慢自动补充水量。
 
 
-ent-BaseLamp = 物品·lantern
+ent-BaseLamp = 提灯
 
-ent-Lamp = 物品·lamp
-    .desc = 一件名为“物品·lamp”的实用设备。
+ent-Lamp = 台灯
+    .desc = 一种发光装置。
 
-ent-LampBanana = 物品·banana lamp
-    .desc = 一件名为“物品·banana lamp”的实用设备。
+ent-LampBanana = 香蕉灯
+    .desc = 一种形似香蕉的发光装置。
 
-ent-LampGold = 物品·desk lamp
-    .desc = 一件名为“物品·desk lamp”的实用设备。
+ent-LampGold = 桌灯
+    .desc = 一种放在桌上会很好看的发光装置。
 
-ent-LampInterrogator = 物品·interrogator lamp
-    .desc = 这是物品·interrogator lamp。
+ent-LampInterrogator = 审讯灯
+    .desc = 专供唱黑脸的坏警察使用的超亮灯。
 
-ent-Floodlight = 物品·floodlight
-    .desc = 这是物品·floodlight。
+ent-Floodlight = 探照灯
+    .desc = 一根装有强力灯具的立杆。
 
-ent-FloodlightBroken = 物品·broken floodlight
-    .desc = 这是物品·broken floodlight。
+ent-FloodlightBroken = 损坏的探照灯
+    .desc = 一根装有强力灯具的立杆。它坏了。
 
 
-ent-BoxFolderNuclearCodes = 核弹 code folder
+ent-BoxFolderNuclearCodes = 核弹密码文件夹
 
-ent-BoxFolderBaseEmpty = 物品·folder
-    .desc = 这是物品·folder。
+ent-BoxFolderBaseEmpty = 文件夹
+    .desc = 一个装满绝密文件的文件夹。
 
-ent-BoxFolderCentComEmpty = 中央指挥部 folder
-    .desc = 这是中央指挥部 folder。
+ent-BoxFolderCentComEmpty = 中央指挥部文件夹
+    .desc = 中央指挥部那一小堆可怜巴巴的秘密！
 
-ent-BoxFolderClipboardEmpty = 物品·clipboard
-    .desc = 这是物品·clipboard。
+ent-BoxFolderClipboardEmpty = 写字板
+    .desc = 官僚主义前线人员的首选武器。
 
-ent-BoxFolderPlasticClipboardEmpty = 物品·plastic clipboard
-    .desc = 这是物品·plastic clipboard。
+ent-BoxFolderPlasticClipboardEmpty = 塑料写字板
+    .desc = 一块廉价的蓝色塑料写字板，适合那些还没准备好驾驭正统木质写字板之官僚伟力的人。
 
-ent-BoxFolderCentComClipboardEmpty = 中央指挥部 clipboard
-    .desc = 这是中央指挥部 clipboard。
+ent-BoxFolderCentComClipboardEmpty = 中央指挥部写字板
+    .desc = 一块铺有绿色天鹅绒的豪华写字板。中央指挥部官员常把它带在身边，却很少真的使用。
 
-ent-BoxFolderQmClipboard = 物品·requisition digi-board
-    .desc = 这是物品·requisition digi-board。
+ent-BoxFolderQmClipboard = 申购电子板
+    .desc = 一块笨重的电子写字板，装满了货运订单和财务明细。这里有这么多见不得光的文件，你最好把它保管好。
 
 
-ent-Handcuffs = 物品·handcuffs
-    .desc = 这是物品·handcuffs。
+ent-Handcuffs = 手铐
+    .desc = 用来拘捕罪犯和其他混蛋。
 
-ent-Cablecuffs = 物品·makeshift handcuffs
-    .desc = 这是物品·makeshift handcuffs。
+ent-Cablecuffs = 简易手铐
+    .desc = 用多余电缆自制的手铐。
 
-ent-Zipties = 物品·zipties
-    .desc = 这是物品·zipties。
+ent-Zipties = 束线带
+    .desc = 坚韧的一次性塑料束线带，非常适合约束闹事的囚犯。
 
-ent-ZiptiesBroken = 物品·broken zipties
-    .desc = 这是物品·broken zipties。
+ent-ZiptiesBroken = 断裂的束线带
+    .desc = 这些束线带似乎捆错了“电缆”。
 
-ent-CablecuffsBroken = 物品·broken cables
-    .desc = 这是物品·broken cables。
+ent-CablecuffsBroken = 断裂的电缆
+    .desc = 这些电缆断了好几处，看起来没什么用了。
 
-ent-ClothingOuterStraightjacket = 物品·straitjacket
-    .desc = 这是物品·straitjacket。
+ent-ClothingOuterStraightjacket = 约束衣
+    .desc = 用来约束可能伤害自己或他人的人。
 
 
-ent-BlankHandyFlag = blank 手持 flag
-    .desc = 这是blank 手持 flag。
+ent-BlankHandyFlag = 空白手持旗
+    .desc = 一块缠在棍子上的白布。
 
-ent-NTHandyFlag = NanoTrasen 手持 flag # SL
-    .desc = 这是NanoTrasen 手持 flag。
+ent-NTHandyFlag = 纳米传讯手持旗 # SL
+    .desc = 荣耀归于 NT！等等，他们真给一家企业做了手持旗？
 
-ent-SyndieHandyFlag = 辛迪加 手持 flag
-    .desc = 这是辛迪加 手持 flag。
+ent-SyndieHandyFlag = 辛迪加手持旗
+    .desc = 献给真正叛逆的爱国者。NT 必须死！
 
-ent-LGBTQHandyFlag = LGBTQ 手持 flag
-    .desc = 这是LGBTQ 手持 flag。
+ent-LGBTQHandyFlag = LGBTQ 手持旗
+    .desc = 做同性恋，搞大事情的手持旗。
 
-ent-PirateHandyFlag = 海盗 手持 flag
-    .desc = 这是海盗 手持 flag。
+ent-PirateHandyFlag = 海盗手持旗
+    .desc = 把它举在手里，让那些鲤鱼知道你可不是闹着玩的。
 
 
-ent-IceCrust = 物品·ice crust
-    .desc = 这是物品·ice crust。
+ent-IceCrust = 冰壳
+    .desc = 又冷又滑。
 
 
-ent-IDCardStandard = 物品·identification card
-    .desc = 这是物品·identification card。
+ent-IDCardStandard = ID卡
+    .desc = 进入空间站各区域所必需的卡片。
 
-ent-AssistantIDCard = 助理 ID card
+ent-AssistantIDCard = 助理ID卡
 
-ent-CaptainIDCard = 舰长 ID card
+ent-CaptainIDCard = 舰长ID卡
 
-ent-HoPIDCard = 人事主管 ID card
+ent-HoPIDCard = 人事主管ID卡
 
-ent-CEIDCard = 工程主管 ID card
+ent-CEIDCard = 工程主管ID卡
 
-ent-CMOIDCard = 医疗主管 ID card
+ent-CMOIDCard = 医疗主管ID卡
 
-ent-RDIDCard = 研究主管 ID card
+ent-RDIDCard = 研究主管ID卡
 
-ent-HoSIDCard = 安保主管 ID card
+ent-HoSIDCard = 安保主管ID卡
 
-ent-QuartermasterIDCard = 军需官 ID card
+ent-QuartermasterIDCard = 军需官ID卡
 
-ent-TechnicalAssistantIDCard = 技术助理 ID card
+ent-TechnicalAssistantIDCard = 技术助理ID卡
 
-ent-EngineeringIDCard = 工程师 ID card
+ent-EngineeringIDCard = 工程师ID卡
 
-ent-AtmosIDCard = 大气技师 ID card
+ent-AtmosIDCard = 大气技师ID卡
 
-ent-SeniorEngineerIDCard = 资深 工程师 ID card
+ent-SeniorEngineerIDCard = 高级工程师ID卡
 
-ent-MedicalInternIDCard = 实习医师 ID card
+ent-MedicalInternIDCard = 实习医师ID卡
 
-ent-MedicalIDCard = 医疗 ID card
+ent-MedicalIDCard = 医疗部ID卡
 
-ent-ParamedicIDCard = 急救员 ID card
+ent-ParamedicIDCard = 急救员ID卡
 
-ent-ChemistIDCard = 药剂师 ID card
+ent-ChemistIDCard = 药剂师ID卡
 
-ent-PsychologistIDCard = 心理医生 ID card
+ent-PsychologistIDCard = 心理医生ID卡
 
-ent-SeniorPhysicianIDCard = 资深 医师 ID card
+ent-SeniorPhysicianIDCard = 高级医师ID卡
 
-ent-ResearchAssistantIDCard = 研究助理 ID card
+ent-ResearchAssistantIDCard = 研究助理ID卡
 
-ent-ResearchIDCard = 科研 ID card
+ent-ResearchIDCard = 科研部ID卡
 
-ent-SeniorResearcherIDCard = 资深 researcher ID card
+ent-SeniorResearcherIDCard = 高级研究员ID卡
 
-ent-SecurityCadetIDCard = 安保 cadet ID card
+ent-SecurityCadetIDCard = 安保学员ID卡
 
-ent-SecurityIDCard = 安保 ID card
+ent-SecurityIDCard = 安保部ID卡
 
-ent-WardenIDCard = 典狱长 ID card
+ent-WardenIDCard = 典狱长ID卡
 
-ent-DetectiveIDCard = 侦探 ID card
+ent-DetectiveIDCard = 侦探ID卡
 
-ent-BrigmedicIDCard = 狱医 ID card
+ent-BrigmedicIDCard = 狱医ID卡
 
-ent-SeniorOfficerIDCard = 资深 干员 ID card
+ent-SeniorOfficerIDCard = 高级安保干员ID卡
 
-ent-ServiceWorkerIDCard = 服务人员 ID card
+ent-ServiceWorkerIDCard = 服务人员ID卡
 
-ent-ClownIDCard = 小丑 ID card
+ent-ClownIDCard = 小丑ID卡
 
-ent-MimeIDCard = 哑剧演员 ID card
+ent-MimeIDCard = 哑剧演员ID卡
 
-ent-MusicianIDCard = 乐手 ID card
+ent-MusicianIDCard = 乐手ID卡
 
-ent-ChaplainIDCard = 牧师 ID card
+ent-ChaplainIDCard = 牧师ID卡
 
-ent-JanitorIDCard = 清洁工 ID card
+ent-JanitorIDCard = 清洁工ID卡
 
-ent-BartenderIDCard = 酒保 ID card
+ent-BartenderIDCard = 酒保ID卡
 
-ent-PunPunIDCard = 物品·pun pun's ID card # Starlight apostrophe
+ent-PunPunIDCard = 潘潘的ID卡 # Starlight apostrophe
 
-ent-ChefIDCard = 厨师 ID card
+ent-ChefIDCard = 厨师ID卡
 
-ent-BotanistIDCard = 植物学家 ID card
+ent-BotanistIDCard = 植物学家ID卡
 
-ent-LibrarianIDCard = 图书管理员 ID card
+ent-LibrarianIDCard = 图书管理员ID卡
 
-ent-LawyerIDCard = 律师 ID card
+ent-LawyerIDCard = 律师ID卡
 
-ent-ReporterIDCard = 记者 ID card
+ent-ReporterIDCard = 记者ID卡
 
-ent-BoxerIDCard = 拳击手 ID card
+ent-BoxerIDCard = 拳击手ID卡
 
-ent-ZookeeperIDCard = 动物管理员 ID card
+ent-ZookeeperIDCard = 动物管理员ID卡
 
-ent-CargoIDCard = 货运 ID card
+ent-CargoIDCard = 货运部ID卡
 
-ent-SalvageIDCard = 物品·salvage ID card
+ent-SalvageIDCard = 打捞专员ID卡
 
-ent-PrisonerIDCard = 物品·prisoner ID card
-    .desc = 这是物品·prisoner ID card。
+ent-PrisonerIDCard = 囚犯ID卡
+    .desc = 一张为人渣囚犯批量印制的普通ID卡。
 
-ent-CluwneIDCard = 受诅小丑 ID card
+ent-CluwneIDCard = 受诅小丑ID卡
 
-ent-VisitorIDCard = 物品·visitor ID card
+ent-VisitorIDCard = 访客ID卡
 
-ent-AgentIDCard = 助理 ID card #Starlight de-gretidification
+ent-AgentIDCard = 助理ID卡 #Starlight de-gretidification
 
-ent-NukieAgentIDCard = 助理 ID card
+ent-NukieAgentIDCard = 助理ID卡
 
-ent-SyndicateIDCard = 辛迪加 ID card
+ent-SyndicateIDCard = 辛迪加ID卡
 
-ent-SyndiOperativeIDCard = 辛迪加 特工 ID card
+ent-SyndiOperativeIDCard = 辛迪加特工ID卡
 
-ent-SyndiCorpsmanIDCard = 辛迪加 corpsman ID card
+ent-SyndiCorpsmanIDCard = 辛迪加卫生员ID卡
 
-ent-SyndiCommanderIDCard = 辛迪加 指挥官 ID card
+ent-SyndiCommanderIDCard = 辛迪加指挥官ID卡
 
-ent-NinjaIDCard = 忍者 ID card
+ent-NinjaIDCard = 忍者ID卡
 
-ent-PirateIDCard = 海盗 ID card
+ent-PirateIDCard = 海盗ID卡
 
-ent-XenoborgIDCard = 物品·xenoborg ID card
+ent-XenoborgIDCard = 异星赛博格ID卡
 
-ent-WizardIDCard = 巫师 ID card
+ent-WizardIDCard = 巫师ID卡
 
-ent-UniversalIDCard = 通用 ID card
-    .desc = 这是通用 ID card。
+ent-UniversalIDCard = 万能ID卡
+    .desc = 一张能赋予你梦寐以求之一切权限的ID卡。
 
 
-ent-BaseImplanter = 物品·implanter
+ent-BaseImplanter = 植入器
 
-ent-Implanter = 物品·implant extractor
-    .desc = 一件小巧的物品·implant extractor，可供收藏和把玩。
+ent-Implanter = 植入物提取器
+    .desc = 一种双用途注射器，专用于移除特定的皮下植入物。植入物被提取后会储存在其中，并可再次植入。\n警告：选择并不存在的植入物类型等操作失误，会对操作者造成严重的基因损伤。
 
-ent-BaseImplantOnlyImplanterSyndi = 辛迪加 implanter
-    .desc = 这是辛迪加 implanter。
+ent-BaseImplantOnlyImplanterSyndi = 辛迪加植入器
+    .desc = 一种紧凑的一次性注射器，专用于注入皮下植入物。用完后记得拿肥皂好好刷洗，清除残留的 DNA！
 
-ent-SadTromboneImplanter = sad 长号 implanter
+ent-SadTromboneImplanter = 悲伤长号植入器
 
-ent-LightImplanter = 物品·light implanter
+ent-LightImplanter = 发光植入器
 
-ent-BikeHornImplanter = 自行车喇叭 implanter
+ent-BikeHornImplanter = 自行车喇叭植入器
 
-ent-TrackingImplanter = 物品·tracking implanter
+ent-TrackingImplanter = 追踪植入器
 
-ent-StorageImplanter = 物品·storage implanter
+ent-StorageImplanter = 储物植入器
 
-ent-FreedomImplanter = 物品·freedom implanter
+ent-FreedomImplanter = 自由植入器
 
-ent-RadioImplanter = 辛迪加 无线电 implanter
+ent-RadioImplanter = 辛迪加无线电植入器
 
-ent-UplinkImplanter = 物品·uplink implanter
+ent-UplinkImplanter = 升链植入器
 
-ent-EmpImplanter = 物品·EMP implanter
+ent-EmpImplanter = EMP 植入器
 
-ent-ScramImplanter = 物品·scram implanter
+ent-ScramImplanter = 紧急脱离植入器
 
-ent-DnaScramblerImplanter = 物品·DNA scrambler implanter
+ent-DnaScramblerImplanter = DNA 扰乱植入器
 
-ent-ChameleonControllerImplanter = 物品·chameleon controller implanter
+ent-ChameleonControllerImplanter = 变色龙控制植入器
 
-ent-VoiceMaskImplanter = 物品·voice mask implanter
+ent-VoiceMaskImplanter = 变声植入器
 
-ent-MicroBombImplanter = 物品·micro-bomb implanter
+ent-MicroBombImplanter = 微型炸弹植入器
 
-ent-MacroBombImplanter = 物品·macro-bomb implanter
+ent-MacroBombImplanter = 大型炸弹植入器
 
-ent-DeathRattleImplanter = 物品·death rattle implanter
+ent-DeathRattleImplanter = 死亡警报植入器
 
-ent-DeathAcidifierImplanter = 物品·death acidifier implanter
+ent-DeathAcidifierImplanter = 死亡酸化植入器
 
-ent-FakeMindShieldImplanter = 假 mindshield implanter
+ent-FakeMindShieldImplanter = 伪心灵护盾植入器
 
-ent-MindShieldImplanter = 物品·mindshield implanter
+ent-MindShieldImplanter = 心灵护盾植入器
 
-ent-RadioImplanterCentcomm = 中央指挥部 无线电 implanter
+ent-RadioImplanterCentcomm = 中央指挥部无线电植入器
 
-ent-DeathRattleImplanterCentcomm = 中央指挥部 death rattle implanter
+ent-DeathRattleImplanterCentcomm = 中央指挥部死亡警报植入器
 
 
-ent-ModularReceiver = 物品·modular receiver
-    .desc = 这是物品·modular receiver。 #Could use a better description, but I'm not a gun nut so I can't really do that.
+ent-ModularReceiver = 模块化机匣
+    .desc = 制造枪械时使用的关键部件。 #Could use a better description, but I'm not a gun nut so I can't really do that.
 
-ent-RifleStock = 物品·rifle stock
-    .desc = 这是物品·rifle stock。 #Same as above
+ent-RifleStock = 步枪枪托
+    .desc = 坚固的木质枪托，用于制造枪械。 #Same as above
 
 
-ent-MoproachShoes = 物品·moproach shoes
-    .desc = 这是物品·moproach shoes。
+ent-MoproachShoes = 拖把蟑螂鞋
+    .desc = 三双微型拖把鞋，正好适合一只拖把蟑螂。
 
 
-ent-Kudzu = 物品·kudzu
-    .desc = 这是物品·kudzu。
+ent-Kudzu = 葛藤
+    .desc = 一种生长迅速的危险植物。你为什么还停下来盯着它看？！
 
-ent-KudzuFlowerFriendly = 物品·floral carpet
-    .desc = 这是物品·floral carpet。
+ent-KudzuFlowerFriendly = 花毯
+    .desc = 五彩缤纷的花朵向四面八方铺展开来。你拿不准该铲掉还是留着。
 
-ent-FleshKudzu = 物品·tendons
-    .desc = 这是物品·tendons。
+ent-FleshKudzu = 肌腱
+    .desc = 一团迅速生长的血肉肌腱。你为什么还停下来盯着它看？！
 
-ent-ShadowKudzu = 物品·dark haze
+ent-ShadowKudzu = 黑暗雾霭
 
-ent-ShadowKudzuWeak = 物品·haze
+ent-ShadowKudzuWeak = 雾霭
 
 
-ent-LandMineKickUnarmed = 物品·kick mine
+ent-LandMineKickUnarmed = 踢击地雷
 
-ent-LandMineModularUnarmed = 物品·modular mine
-    .desc = 这是物品·modular mine。
+ent-LandMineModularUnarmed = 模块化地雷
+    .desc = 这坏小子里头可能装着各种危险玩意。也可能只是个自行车喇叭。
 
-ent-LandMineExplosiveUnarmed = 爆炸 mine
+ent-LandMineExplosiveUnarmed = 爆炸地雷
 
 
-ent-MicroManipulatorStockPart = 物品·modular machine part
-    .desc = 一件名为“物品·modular machine part”的实用设备。
+ent-MicroManipulatorStockPart = 模块化机器部件
+    .desc = 一种用于制造各种设备的基础机器部件。
 
 
-ent-MonkeyCubeBox = monkey cube 盒
-    .desc = 这是monkey cube 盒。
+ent-MonkeyCubeBox = 猴子方块盒
+    .desc = 干伴牌猴子方块，加水即成！
 
-ent-MonkeyCubeWrapped = 物品·monkey cube
-    .desc = 这是物品·monkey cube。
+ent-MonkeyCubeWrapped = 猴子方块
+    .desc = 拆开包装就能得到一个猴子方块。
 
-ent-KoboldCubeBox = kobold cube 盒
-    .desc = 这是kobold cube 盒。
+ent-KoboldCubeBox = 狗头人方块盒
+    .desc = 压缩成方块的狗头人，加水即成！
 
-ent-VariantCubeBox = variant cube 盒
-    .desc = 这是variant cube 盒。
+ent-VariantCubeBox = 混合方块盒
+    .desc = 同时装有狗头人方块和猴子方块，加水即成！
 
-ent-KoboldCubeWrapped = 物品·kobold cube
-    .desc = 这是物品·kobold cube。
+ent-KoboldCubeWrapped = 狗头人方块
+    .desc = 拆开包装就能得到一个狗头人方块。
 
-ent-SyndicateSpongeBox = monkey cube 盒
-    .desc = 这是monkey cube 盒。
+ent-SyndicateSpongeBox = 猴子方块盒
+    .desc = 干伴牌猴子方块，加水即成！
 
-ent-SyndicateSpongeWrapped = 物品·monkey cube
+ent-SyndicateSpongeWrapped = 猴子方块
 
 
-ent-Paper = 纸张
-    .desc = 这是纸张。
+ent-Paper = 纸
+    .desc = 一张白纸。
 
-ent-PaperScrap = 纸张 scrap
-    .desc = 这是纸张 scrap。
+ent-PaperScrap = 废纸
+    .desc = 一张揉皱的白纸。
 
-ent-PaperOffice = office 纸张
-    .desc = 这是office 纸张。
+ent-PaperOffice = 办公用纸
+    .desc = 一张普通的办公用纸。
 
-ent-PaperArtifactAnalyzer = 物品·artifact analyzer printout
-    .desc = 一件名为“物品·artifact analyzer printout”的实用设备。
+ent-PaperArtifactAnalyzer = 神器分析仪打印件
+    .desc = 一台被时代遗忘的设备所打印的读数。
 
-ent-PaperCaptainsThoughts = 舰长's thoughts
-    .desc = 这是舰长's thoughts。
+ent-PaperCaptainsThoughts = 舰长的心声
+    .desc = 舰长日志中的一页，采用奢华的淡紫色纸张。
 
-ent-PaperCargoInvoice = 货运 invoice
-    .desc = 这是货运 invoice。
+ent-PaperCargoInvoice = 货运发票
+    .desc = 一份标准单位的官僚主义。
 
-ent-PaperNanoTaskItem = 物品·NanoTask item
-    .desc = 这是物品·NanoTask item。
+ent-PaperNanoTaskItem = 纳米任务条目
+    .desc = 一份打印出来的纳米任务条目。可插入 PDA，将它加入你的任务列表。
 
-ent-PaperCargoBountyManifest = 物品·bounty manifest
-    .desc = 这是物品·bounty manifest。
+ent-PaperCargoBountyManifest = 悬赏货单
+    .desc = 一张标明板条箱内装有悬赏物品的纸质标签。卖出贴有此标签的板条箱即可完成悬赏。
 
-ent-PaperSalvageJobLabel = 物品·salvage job shipment label
-    .desc = 这是物品·salvage job shipment label。
+ent-PaperSalvageJobLabel = 打捞任务货运标签
+    .desc = 一张标明板条箱内装有打捞任务货物的纸质标签。卖出贴有此标签的板条箱即可完成任务。
 
-ent-NukeCodePaper = 核弹 authentication codes
+ent-NukeCodePaper = 核弹授权密码
 
-ent-TraitorCodePaper = 辛迪加 codeword
-    .desc = 这是辛迪加 codeword。
+ent-TraitorCodePaper = 辛迪加暗语
+    .desc = 一条泄露的暗语，也许能用来联系辛迪加。
 
-ent-AllTraitorCodesPaper = 辛迪加 codewords registry
-    .desc = 这是辛迪加 codewords registry。
+ent-AllTraitorCodesPaper = 辛迪加暗语名册
+    .desc = 记录了所有现用辛迪加暗语的名册。
 
-ent-Envelope = 物品·envelope
-    .desc = 这是物品·envelope。
+ent-Envelope = 信封
+    .desc = 一个小信封，能让窥探的目光远离你的敏感文件。
 
 
-ent-ParcelWrap = 物品·parcel wrap
-    .desc = 这是物品·parcel wrap。
+ent-ParcelWrap = 包裹纸
+    .desc = 用于包裹物品以便运输的纸。
 
-ent-ParcelWrapAdmeme = 物品·bluespace wrap
-    .desc = 这是物品·bluespace wrap。
+ent-ParcelWrapAdmeme = 蓝空间包裹纸
+    .desc = 用于包裹物品以便运输的纸。这一张里面似乎能容纳多得反常的空间。
 
-ent-BaseWrappedParcel = 物品·wrapped parcel
-    .desc = 这是物品·wrapped parcel。
+ent-BaseWrappedParcel = 包好的包裹
+    .desc = 用纸包起来的某样东西。不知道里面是什么……
 
-ent-ParcelWrapTrash = 物品·parcel wrap
-    .desc = 这是物品·parcel wrap。
+ent-ParcelWrapTrash = 包裹纸
+    .desc = 包裹拆开后留下的、令人失望的残余。
 
 
-ent-Pen = 物品·pen
-    .desc = 这是物品·pen。
+ent-Pen = 钢笔
+    .desc = 一支使用深色墨水的钢笔。
 
-ent-LuxuryPen = 物品·luxury pen
-    .desc = 这是物品·luxury pen。
+ent-LuxuryPen = 豪华钢笔
+    .desc = 一支精美昂贵的钢笔，只有具备处理海量文书的资格，你才配拥有它。
 
-ent-CyberPen = 物品·Cybersun pen
-    .desc = 这是物品·Cybersun pen。
+ent-CyberPen = 赛博桑钢笔
+    .desc = 一支直接来自赛博桑法务部的高科技钢笔，能通过钻石笔尖以不可思议的角度折射硬光来书写。它威力强大，必要时甚至能改写盖有官方印章的文件。
 
-ent-PenCentcom = 中央指挥部 pen
-    .desc = 这是中央指挥部 pen。
+ent-PenCentcom = 中央指挥部钢笔
+    .desc = 为了追赶赛博桑官僚机构的“威力”，NT 仿制了赛博钢笔，并加入了自家企业风格。
 
-ent-PenCap = 舰长's fountain pen
-    .desc = 这是舰长's fountain pen。
+ent-PenCap = 舰长的自来水笔
+    .desc = 一支供空间站舰长使用的豪华自来水笔。
 
-ent-PenHop = 物品·HoP's fountain pen
-    .desc = 这是物品·HoP's fountain pen。
+ent-PenHop = 人事主管的自来水笔
+    .desc = 一支供空间站人事主管使用的豪华自来水笔。
 
-ent-PenWiz = 巫师's magical pen
-    .desc = 这是巫师's magical pen。
+ent-PenWiz = 巫师的魔法笔
+    .desc = 一支豪华的自来水笔，似乎带有一块魔法水晶橡皮。
 
 
-ent-PetCarrier = 物品·pet carrier
-    .desc = 一件名为“物品·pet carrier”的实用设备。
+ent-PetCarrier = 宠物提箱
+    .desc = 能舒适地携带大型动物。隐约散发着马桶水和炸药的气味。
 
 
-ent-RubberStampBase = 物品·generic rubber stamp
-    .desc = 这是物品·generic rubber stamp。
+ent-RubberStampBase = 通用橡皮印章
+    .desc = 一枚用来给重要文件盖章的橡皮印章。
 
-ent-RubberStampBaseAlt = 物品·alternate rubber stamp
+ent-RubberStampBaseAlt = 备用橡皮印章
 
-ent-RubberStampCaptain = 舰长's rubber stamp
+ent-RubberStampCaptain = 舰长橡皮印章
 
-ent-RubberStampCentcom = 中央指挥部 rubber stamp
+ent-RubberStampCentcom = 中央指挥部橡皮印章
 
-ent-RubberStampChaplain = 牧师's rubber stamp
+ent-RubberStampChaplain = 牧师橡皮印章
 
-ent-RubberStampLawyer = 律师's rubber stamp
+ent-RubberStampLawyer = 律师橡皮印章
 
-ent-RubberStampClown = 小丑's rubber stamp
+ent-RubberStampClown = 小丑橡皮印章
 
-ent-RubberStampCE = 工程主管's rubber stamp
+ent-RubberStampCE = 工程主管橡皮印章
 
-ent-RubberStampCMO = 医疗主管's rubber stamp
+ent-RubberStampCMO = 医疗主管橡皮印章
 
-ent-RubberStampHop = 人事主管's rubber stamp
+ent-RubberStampHop = 人事主管橡皮印章
 
-ent-RubberStampHos = 安保主管's rubber stamp
+ent-RubberStampHos = 安保主管橡皮印章
 
-ent-RubberStampMime = 哑剧演员's rubber stamp
+ent-RubberStampMime = 哑剧演员橡皮印章
 
-ent-RubberStampQm = 军需官's rubber stamp
+ent-RubberStampQm = 军需官橡皮印章
 
-ent-RubberStampRd = 研究主管's rubber stamp
+ent-RubberStampRd = 研究主管橡皮印章
 
-ent-RubberStampTrader = 物品·trader's rubber stamp
+ent-RubberStampTrader = 商人橡皮印章
 
-ent-RubberStampSyndicate = 辛迪加 rubber stamp
+ent-RubberStampSyndicate = 辛迪加橡皮印章
 
-ent-RubberStampWarden = 典狱长's rubber stamp
+ent-RubberStampWarden = 典狱长橡皮印章
 
-ent-RubberStampApproved = 物品·APPROVED rubber stamp
+ent-RubberStampApproved = “批准”橡皮印章
 
-ent-RubberStampDenied = 物品·DENIED rubber stamp
+ent-RubberStampDenied = “驳回”橡皮印章
 
-ent-RubberStampDetective = 侦探's rubber stamp
+ent-RubberStampDetective = 侦探橡皮印章
 
-ent-RubberStampPsychologist = 心理医生's rubber stamp
-    .desc = 这是心理医生's rubber stamp。
+ent-RubberStampPsychologist = 心理医生橡皮印章
+    .desc = 一枚用来给重要文件盖章的橡皮印章。开出治疗方案吧！
 
-ent-RubberStampWizard = 巫师's rubber stamp
-    .desc = 这是巫师's rubber stamp。
+ent-RubberStampWizard = 巫师橡皮印章
+    .desc = 一枚混沌的巫师印章，却要用来处理井然有序的文书，真讽刺。
 
 
-ent-SpaceCash = 物品·spesos
-    .desc = 这是物品·spesos。
+ent-SpaceCash = spesos
+    .desc = 人总得有钱。
 
 
-ent-Spaceshroom = 物品·spaceshroom
-    .desc = 这是物品·spaceshroom。
+ent-Spaceshroom = 太空蘑菇
+    .desc = 一簇喜欢生长在阴暗潮湿环境中的野生蘑菇。
 
-ent-FoodSpaceshroom = 物品·spaceshroom
-    .desc = 这是物品·spaceshroom。
+ent-FoodSpaceshroom = 太空蘑菇
+    .desc = 一朵野生蘑菇。没人知道它会产生什么效果……
 
-ent-FoodSpaceshroomCooked = 物品·cooked spaceshroom
-    .desc = 这是物品·cooked spaceshroom。
+ent-FoodSpaceshroomCooked = 熟太空蘑菇
+    .desc = 一朵彻底煮熟的野生蘑菇。高温似乎消除了它的化学效果。
 
 
-ent-BaseSubdermalImplant = 物品·implant
-    .desc = 这是物品·implant。
+ent-BaseSubdermalImplant = 植入物
+    .desc = 一枚注射到皮下的微型芯片。
 
-ent-SadTromboneImplant = sad 长号 implant
-    .desc = 一件sad 长号 implant，可以用来演奏音乐。
+ent-SadTromboneImplant = 悲伤长号植入物
+    .desc = 使用者死亡时，这枚植入物会奏响一段悲伤的曲调。
 
-ent-LightImplant = 物品·light implant
-    .desc = 这是物品·light implant。
+ent-LightImplant = 发光植入物
+    .desc = 激活后，这枚植入物会让光从使用者的皮肤下透出。
 
-ent-BikeHornImplant = 自行车喇叭 implant
-    .desc = 这是自行车喇叭 implant。
+ent-BikeHornImplant = 自行车喇叭植入物
+    .desc = 这枚植入物让使用者随时随地都能按响喇叭。
 
-ent-TrackingImplant = 物品·tracking implant
-    .desc = 一件名为“物品·tracking implant”的实用设备。
+ent-TrackingImplant = 追踪植入物
+    .desc = 这枚植入物内有连接制服传感器网络的追踪装置，以及向安保部无线电频道汇报状态的监测器。
 
-ent-StorageImplant = 物品·storage implant
-    .desc = 这是物品·storage implant。
+ent-StorageImplant = 储物植入物
+    .desc = 这枚植入物利用蓝空间技术，在人体内提供一个隐蔽的储物空间。
 
-ent-FreedomImplant = 物品·freedom implant
-    .desc = 这是物品·freedom implant。
+ent-FreedomImplant = 自由植入物
+    .desc = 这枚植入物能让使用者挣脱手部束缚，最多使用三次，之后便会失效。
 
-ent-RadioImplant = 无线电 implant
-    .desc = 这是无线电 implant。
+ent-RadioImplant = 无线电植入物
+    .desc = 这枚植入物无需耳麦即可接入辛迪加频道。
 
-ent-UplinkImplant = 物品·uplink implant
-    .desc = 这是物品·uplink implant。
+ent-UplinkImplant = 升链植入物
+    .desc = 这枚植入物让使用者能够随时访问隐藏的辛迪加升链。
 
-ent-EmpImplant = 物品·EMP implant
-    .desc = 这是物品·EMP implant。
+ent-EmpImplant = EMP 植入物
+    .desc = 这枚植入物激活后会产生电磁脉冲。
 
-ent-ScramImplant = 物品·scram implant
-    .desc = 这是物品·scram implant。
+ent-ScramImplant = 紧急脱离植入物
+    .desc = 这枚植入物激活后会将使用者随机传送到大范围内的某处。
 
-ent-DnaScramblerImplant = 物品·DNA scrambler implant
-    .desc = 这是物品·DNA scrambler implant。
+ent-DnaScramblerImplant = DNA 扰乱植入物
+    .desc = 这枚植入物能让使用者随机改变一次外貌和姓名。
 
-ent-ChameleonControllerImplant = 物品·chameleon controller implant
-    .desc = 一件名为“物品·chameleon controller implant”的实用设备。
+ent-ChameleonControllerImplant = 变色龙控制植入物
+    .desc = 这枚植入物能让你立即改变身上所有变色龙服装的外观。
 
-ent-VoiceMaskImplant = 物品·voice mask implant
-    .desc = 一件名为“物品·voice mask implant”的实用设备。
+ent-VoiceMaskImplant = 变声植入物
+    .desc = 这枚植入物能让你随意改变声音。
 
-ent-MicroBombImplant = 物品·micro-bomb implant
-    .desc = 这是物品·micro-bomb implant。
+ent-MicroBombImplant = 微型炸弹植入物
+    .desc = 激活时或使用者死亡时，这枚植入物会将使用者炸毁。
 
-ent-MacroBombImplant = 物品·macro-bomb implant
-    .desc = 一件名为“物品·macro-bomb implant”的实用设备。
+ent-MacroBombImplant = 大型炸弹植入物
+    .desc = 使用者死亡后，这枚植入物会按预设程序倒计时，随后制造一次大型爆炸。
 
-ent-DeathAcidifierImplant = 物品·death-acidifier implant
-    .desc = 这是物品·death-acidifier implant。
+ent-DeathAcidifierImplant = 死亡酸化植入物
+    .desc = 使用者死亡时，这枚植入物会将其本人及其装备溶解。
 
-ent-DeathRattleImplant = 物品·death rattle implant
-    .desc = 这是物品·death rattle implant。
+ent-DeathRattleImplant = 死亡警报植入物
+    .desc = 使用者陷入危急状态或死亡时，这枚植入物会通知辛迪加无线电频道。
 
-ent-FakeMindShieldImplant = 假 mindshield implant
-    .desc = 一件名为“假 mindshield implant”的实用设备。
+ent-FakeMindShieldImplant = 伪心灵护盾植入物
+    .desc = 这枚植入物会产生伪造信号，骗过 NT 安保 HUD 用于识别心灵护盾植入者的检测。
 
-ent-MindShieldImplant = 物品·mindshield implant
-    .desc = 一件名为“物品·mindshield implant”的实用设备。 # SL
+ent-MindShieldImplant = 心灵护盾植入物
+    .desc = 这枚植入物能确保使用者忠于纳米传讯，并抵御精神控制装置。 # SL
 
-ent-RadioImplantCentcomm = 中央指挥部 无线电 implant # Starlight
-    .desc = 这是中央指挥部 无线电 implant。
+ent-RadioImplantCentcomm = 中央指挥部无线电植入物 # Starlight
+    .desc = 这枚植入物无需耳麦即可接入中央指挥部频道。仅限中央指挥部雇员使用。
 
-ent-DeathRattleImplantCentcomm = 中央指挥部 death rattle implant
-    .desc = 这是中央指挥部 death rattle implant。
+ent-DeathRattleImplantCentcomm = 中央指挥部死亡警报植入物
+    .desc = 使用者陷入危急状态或死亡时，这枚植入物会通知中央指挥部无线电频道。
 
 
-ent-FloorTileItemSteelCheckerDark = 物品·steel dark checker tile
+ent-FloorTileItemSteelCheckerDark = 深色钢制棋盘格地砖
 
-ent-FloorTileItemSteelCheckerLight = 物品·steel light checker tile
+ent-FloorTileItemSteelCheckerLight = 浅色钢制棋盘格地砖
 
-ent-FloorTileItemDark = 物品·dark tile
+ent-FloorTileItemDark = 深色地砖
 
-ent-FloorTileItemDarkDiagonalMini = 物品·dark steel diagonal mini tile
+ent-FloorTileItemDarkDiagonalMini = 深色钢制迷你斜纹地砖
 
-ent-FloorTileItemDarkDiagonal = 物品·dark steel diagonal tile
+ent-FloorTileItemDarkDiagonal = 深色钢制斜纹地砖
 
-ent-FloorTileItemDarkHerringbone = 物品·dark steel herringbone
+ent-FloorTileItemDarkHerringbone = 深色钢制人字纹地砖
 
-ent-FloorTileItemDarkMini = 物品·dark steel mini tile
+ent-FloorTileItemDarkMini = 深色钢制迷你地砖
 
-ent-FloorTileItemDarkMono = 物品·dark steel mono tile
+ent-FloorTileItemDarkMono = 深色钢制纯色地砖
 
-ent-FloorTileItemDarkPavement = 物品·dark steel pavement
+ent-FloorTileItemDarkPavement = 深色钢制铺面地砖
 
-ent-FloorTileItemDarkPavementVertical = 物品·dark steel vertical pavement
+ent-FloorTileItemDarkPavementVertical = 深色钢制纵向铺面地砖
 
-ent-FloorTileItemDarkOffset = 物品·offset dark steel tile
+ent-FloorTileItemDarkOffset = 深色钢制错位地砖
 
-ent-FloorTileItemSteel = 物品·steel tile
+ent-FloorTileItemSteel = 钢制地砖
 
-ent-FloorTileItemSteelOffset = 物品·offset steel tile
+ent-FloorTileItemSteelOffset = 钢制错位地砖
 
-ent-FloorTileItemSteelDiagonalMini = 物品·steel diagonal mini tile
+ent-FloorTileItemSteelDiagonalMini = 钢制迷你斜纹地砖
 
-ent-FloorTileItemSteelDiagonal = 物品·steel diagonal tile
+ent-FloorTileItemSteelDiagonal = 钢制斜纹地砖
 
-ent-FloorTileItemSteelHerringbone = 物品·steel herringbone
+ent-FloorTileItemSteelHerringbone = 钢制人字纹地砖
 
-ent-FloorTileItemSteelMini = 物品·steel mini tile
+ent-FloorTileItemSteelMini = 钢制迷你地砖
 
-ent-FloorTileItemSteelMono = 物品·steel mono tile
+ent-FloorTileItemSteelMono = 钢制纯色地砖
 
-ent-FloorTileItemSteelPavement = 物品·steel pavement
+ent-FloorTileItemSteelPavement = 钢制铺面地砖
 
-ent-FloorTileItemSteelPavementVertical = 物品·steel vertical pavement
+ent-FloorTileItemSteelPavementVertical = 钢制纵向铺面地砖
 
-ent-FloorTileItemWhite = 物品·white tile
+ent-FloorTileItemWhite = 白色地砖
 
-ent-FloorTileItemWhiteOffset = 物品·offset white steel tile
+ent-FloorTileItemWhiteOffset = 白色钢制错位地砖
 
-ent-FloorTileItemWhiteDiagonalMini = 物品·white steel diagonal mini tile
+ent-FloorTileItemWhiteDiagonalMini = 白色钢制迷你斜纹地砖
 
-ent-FloorTileItemWhiteDiagonal = 物品·white steel diagonal tile
+ent-FloorTileItemWhiteDiagonal = 白色钢制斜纹地砖
 
-ent-FloorTileItemWhiteHerringbone = 物品·white steel herringbone
+ent-FloorTileItemWhiteHerringbone = 白色钢制人字纹地砖
 
-ent-FloorTileItemWhiteMini = 物品·white steel mini tile
+ent-FloorTileItemWhiteMini = 白色钢制迷你地砖
 
-ent-FloorTileItemWhiteMono = 物品·white steel mono tile
+ent-FloorTileItemWhiteMono = 白色钢制纯色地砖
 
-ent-FloorTileItemWhitePavement = 物品·white steel pavement
+ent-FloorTileItemWhitePavement = 白色钢制铺面地砖
 
-ent-FloorTileItemWhitePavementVertical = 物品·white steel vertical pavement
+ent-FloorTileItemWhitePavementVertical = 白色钢制纵向铺面地砖
 
-ent-FloorTileItemMetalDiamond = 物品·steel tile
+ent-FloorTileItemMetalDiamond = 钢制地砖
 
-ent-FloorTileItemWood = 物品·wood floor
+ent-FloorTileItemWood = 木地板
 
-ent-FloorTileItemTechmaint = 物品·techmaint floor
+ent-FloorTileItemTechmaint = 技术维护地板
 
-ent-FloorTileItemTechmaintDark = 物品·dark techmaint floor
+ent-FloorTileItemTechmaintDark = 深色技术维护地板
 
-ent-FloorTileItemMono = 物品·mono tile
+ent-FloorTileItemMono = 纯色地砖
 
-ent-FloorTileItemLino = 物品·linoleum floor
+ent-FloorTileItemLino = 油毡地板
 
-ent-FloorTileItemBrassFilled = 物品·filled brass plate
+ent-FloorTileItemBrassFilled = 填充黄铜板
 
-ent-FloorTileItemBrassReebe = 物品·smooth brass plate
+ent-FloorTileItemBrassReebe = 光滑黄铜板
 
-ent-FloorTileItemDirty = 物品·dirty tile
+ent-FloorTileItemDirty = 肮脏地砖
 
-ent-FloorTileItemElevatorShaft = 物品·elevator shaft tile
+ent-FloorTileItemElevatorShaft = 电梯井地砖
 
-ent-FloorTileItemRockVault = 物品·rock vault tile
+ent-FloorTileItemRockVault = 岩石穹顶地砖
 
-ent-FloorTileItemBlue = 物品·blue tile
+ent-FloorTileItemBlue = 蓝色地砖
 
-ent-FloorTileItemLime = 物品·lime tile
+ent-FloorTileItemLime = 青柠色地砖
 
-ent-FloorTileItemMining = 物品·mining tile
+ent-FloorTileItemMining = 采矿地砖
 
-ent-FloorTileItemMiningDark = 物品·dark mining tile
+ent-FloorTileItemMiningDark = 深色采矿地砖
 
-ent-FloorTileItemMiningLight = 物品·light mining tile
+ent-FloorTileItemMiningLight = 浅色采矿地砖
 
-ent-FloorTileItemFreezer = 物品·freezer tile
+ent-FloorTileItemFreezer = 冷冻库地砖
 
-ent-FloorTileItemShowroom = 物品·showroom tile
+ent-FloorTileItemShowroom = 展厅地砖
 
-ent-FloorTileItemHydro = 物品·hydro tile
+ent-FloorTileItemHydro = 水培地砖
 
-ent-FloorTileItemBar = 物品·bar tile
+ent-FloorTileItemBar = 酒吧地砖
 
-ent-FloorTileItemClown = 小丑 tile
+ent-FloorTileItemClown = 小丑地砖
 
-ent-FloorTileItemMime = 哑剧演员 tile
+ent-FloorTileItemMime = 哑剧地砖
 
-ent-FloorTileItemKitchen = 物品·kitchen tile
+ent-FloorTileItemKitchen = 厨房地砖
 
-ent-FloorTileItemLaundry = 物品·laundry tile
+ent-FloorTileItemLaundry = 洗衣房地砖
 
-ent-FloorTileItemConcrete = 物品·concrete tile
+ent-FloorTileItemConcrete = 混凝土地砖
 
-ent-FloorTileItemConcreteMono = 物品·concrete mono tile
+ent-FloorTileItemConcreteMono = 纯色混凝土地砖
 
-ent-FloorTileItemConcreteSmooth = 物品·concrete smooth
+ent-FloorTileItemConcreteSmooth = 光滑混凝土地砖
 
-ent-FloorTileItemGrayConcrete = 物品·gray concrete tile
+ent-FloorTileItemGrayConcrete = 灰色混凝土地砖
 
-ent-FloorTileItemGrayConcreteMono = 物品·gray concrete mono tile
+ent-FloorTileItemGrayConcreteMono = 灰色纯色混凝土地砖
 
-ent-FloorTileItemGrayConcreteSmooth = 物品·gray concrete smooth
+ent-FloorTileItemGrayConcreteSmooth = 灰色光滑混凝土地砖
 
-ent-FloorTileItemOldConcrete = 物品·old concrete tile
+ent-FloorTileItemOldConcrete = 老旧混凝土地砖
 
-ent-FloorTileItemOldConcreteMono = 物品·old concrete mono tile
+ent-FloorTileItemOldConcreteMono = 老旧纯色混凝土地砖
 
-ent-FloorTileItemOldConcreteSmooth = 物品·old concrete smooth
+ent-FloorTileItemOldConcreteSmooth = 老旧光滑混凝土地砖
 
-ent-FloorTileItemIronsandConcrete = 物品·iron sand concrete tile
+ent-FloorTileItemIronsandConcrete = 铁砂混凝土地砖
 
-ent-FloorTileItemIronsandConcreteMono = 物品·iron sand concrete mono tile
+ent-FloorTileItemIronsandConcreteMono = 铁砂纯色混凝土地砖
 
-ent-FloorTileItemIronsandConcreteSmooth = 物品·iron sand concrete smooth
+ent-FloorTileItemIronsandConcreteSmooth = 铁砂光滑混凝土地砖
 
-ent-FloorTileItemArcadeBlue = 物品·blue arcade floor
+ent-FloorTileItemArcadeBlue = 蓝色街机厅地板
 
-ent-FloorTileItemArcadeBlue2 = 物品·blue arcade floor
+ent-FloorTileItemArcadeBlue2 = 蓝色街机厅地板
 
-ent-FloorTileItemArcadeRed = 红色 arcade floor
+ent-FloorTileItemArcadeRed = 红色街机厅地板
 
-ent-FloorTileItemEighties = 物品·eighties floor
+ent-FloorTileItemEighties = 八十年代风格地板
 
-ent-FloorTileItemCarpetClown = 小丑 carpet floor
+ent-FloorTileItemCarpetClown = 小丑地毯地板
 
-ent-FloorTileItemCarpetOffice = 物品·office carpet floor
+ent-FloorTileItemCarpetOffice = 办公室地毯地板
 
-ent-FloorTileItemBoxing = 物品·boxing ring floor
+ent-FloorTileItemBoxing = 拳击台地板
 
-ent-FloorTileItemGym = 物品·gym floor
+ent-FloorTileItemGym = 健身房地板
 
-ent-FloorTileItemShuttleWhite = 物品·white shuttle floor
+ent-FloorTileItemShuttleWhite = 白色穿梭机地板
 
-ent-FloorTileItemShuttleBlue = 物品·blue shuttle floor
+ent-FloorTileItemShuttleBlue = 蓝色穿梭机地板
 
-ent-FloorTileItemShuttleOrange = 物品·orange shuttle floor
+ent-FloorTileItemShuttleOrange = 橙色穿梭机地板
 
-ent-FloorTileItemShuttlePurple = 物品·purple shuttle floor
+ent-FloorTileItemShuttlePurple = 紫色穿梭机地板
 
-ent-FloorTileItemShuttleRed = 红色 shuttle floor
+ent-FloorTileItemShuttleRed = 红色穿梭机地板
 
-ent-FloorTileItemShuttleGrey = 物品·grey shuttle floor
+ent-FloorTileItemShuttleGrey = 灰色穿梭机地板
 
-ent-FloorTileItemShuttleBlack = 物品·black shuttle floor
+ent-FloorTileItemShuttleBlack = 黑色穿梭机地板
 
-ent-FloorTileItemGold = 黄金 floor
+ent-FloorTileItemGold = 金质地板
 
-ent-FloorTileItemSilver = 物品·silver tile
+ent-FloorTileItemSilver = 银质地砖
 
-ent-FloorTileItemGCircuit = 物品·green circuit floor
+ent-FloorTileItemGCircuit = 绿色电路地板
 
-ent-FloorTileItemBCircuit = 物品·blue circuit floor
+ent-FloorTileItemBCircuit = 蓝色电路地板
 
-ent-FloorTileItemRCircuit = 红色 circuit floor
+ent-FloorTileItemRCircuit = 红色电路地板
 
-ent-FloorTileItemGrass = 物品·grass tile
+ent-FloorTileItemGrass = 草地砖
 
-ent-FloorTileItemGrassJungle = 物品·jungle grass tile
+ent-FloorTileItemGrassJungle = 丛林草地砖
 
-ent-FloorTileItemSnow = 物品·snow tile
+ent-FloorTileItemSnow = 雪地砖
 
-ent-FloorTileItemWoodPattern = 物品·wood pattern floor
+ent-FloorTileItemWoodPattern = 木纹地板
 
-ent-FloorTileItemFlesh = 物品·flesh floor
+ent-FloorTileItemFlesh = 血肉地板
 
-ent-FloorTileItemSteelMaint = 物品·steel maint floor
+ent-FloorTileItemSteelMaint = 钢制维护地板
 
-ent-FloorTileItemGratingMaint = 物品·grating maint floor
+ent-FloorTileItemGratingMaint = 格栅维护地板
 
-ent-FloorTileItemWeb = 物品·web tile
+ent-FloorTileItemWeb = 蛛网地砖
 
-ent-FloorTileItemAstroGrass = 物品·astro-grass
-    .desc = 这是物品·astro-grass。
+ent-FloorTileItemAstroGrass = 仿真草地
+    .desc = 能盖住电线的假草，甚至还配有逼真的纳米修剪效果！
 
-ent-FloorTileItemMowedAstroGrass = 物品·mowed astro-grass
-    .desc = 这是物品·mowed astro-grass。
+ent-FloorTileItemMowedAstroGrass = 修剪过的仿真草地
+    .desc = 能盖住电线的假草，甚至还配有逼真的纳米修剪效果！
 
-ent-FloorTileItemJungleAstroGrass = 物品·jungle astro-grass
-    .desc = 这是物品·jungle astro-grass。
+ent-FloorTileItemJungleAstroGrass = 丛林仿真草地
+    .desc = 能盖住电线的假草，甚至还配有逼真的纳米修剪效果！
 
-ent-FloorTileItemDarkAstroGrass = 物品·dark astro-grass
-    .desc = 这是物品·dark astro-grass。
+ent-FloorTileItemDarkAstroGrass = 深色仿真草地
+    .desc = 能盖住电线的假草，甚至还配有逼真的纳米修剪效果！
 
-ent-FloorTileItemLightAstroGrass = 物品·light astro-grass
-    .desc = 这是物品·light astro-grass。
+ent-FloorTileItemLightAstroGrass = 浅色仿真草地
+    .desc = 能盖住电线的假草，甚至还配有逼真的纳米修剪效果！
 
-ent-FloorTileItemAstroIce = 物品·astro-ice
-    .desc = 这是物品·astro-ice。
+ent-FloorTileItemAstroIce = 仿真冰面
+    .desc = 和真冰一样滑的假冰，却很容易拆除！
 
-ent-FloorTileItemAstroSnow = 物品·astro-snow
-    .desc = 这是物品·astro-snow。
+ent-FloorTileItemAstroSnow = 仿真雪地
+    .desc = 和真雪一样蓬松的假雪，却很容易拆除！
 
-ent-FloorTileItemAstroAsteroidSand = 物品·asteroid astro-sand
-    .desc = 这是物品·asteroid astro-sand。
+ent-FloorTileItemAstroAsteroidSand = 小行星仿真沙地
+    .desc = 假沙子。幸好它不像真沙子那么粗糙。
 
-ent-FloorTileItemAstroAsteroidSandBorderless = 物品·borderless asteroid astro-sand
-    .desc = 这是物品·borderless asteroid astro-sand。
+ent-FloorTileItemAstroAsteroidSandBorderless = 无边框小行星仿真沙地
+    .desc = 假沙子。幸好它不像真沙子那么粗糙。
 
-ent-FloorTileItemAstroIronsand = 物品·astro-ironsand
-    .desc = 这是物品·astro-ironsand。
+ent-FloorTileItemAstroIronsand = 仿真铁砂地
+    .desc = 假红沙，从假火星进口。
 
-ent-FloorTileItemAstroIronsandBorderless = 物品·borderless astro-ironsand
-    .desc = 这是物品·borderless astro-ironsand。
+ent-FloorTileItemAstroIronsandBorderless = 无边框仿真铁砂地
+    .desc = 假红沙，从假火星进口。
 
-ent-FloorTileItemDesertAstroSand = 物品·desert astro-sand
-    .desc = 这是物品·desert astro-sand。
+ent-FloorTileItemDesertAstroSand = 沙漠仿真沙地
+    .desc = 精心设计得十分细腻的假沙。
 
-ent-FloorTileItemWoodLarge = 物品·large wood floor
+ent-FloorTileItemWoodLarge = 大块木地板
 
-ent-FloorTileItemWhiteMarble = 物品·white marble tile
-    .desc = 这是物品·white marble tile。
+ent-FloorTileItemWhiteMarble = 白色大理石地砖
+    .desc = 一块经过雕琢和抛光的上等太空大理石方砖。最好别把它弄丢。
 
-ent-FloorTileItemDarkMarble = 物品·dark marble tile
-    .desc = 这是物品·dark marble tile。
+ent-FloorTileItemDarkMarble = 深色大理石地砖
+    .desc = 一块经过雕琢和抛光的上等太空大理石方砖。最好别把它弄丢。
 
-ent-FloorTileItemPlasmaMarble = 物品·plasmarble tile
-    .desc = 一件名为“物品·plasmarble tile”的实用设备。
+ent-FloorTileItemPlasmaMarble = 等离子大理石地砖
+    .desc = 一块经过雕琢和抛光的上等太空大理石方砖。注入了等离子体，因而格外……不同。
 
-ent-FloorTileItemUraniumMarble = 物品·uranium marble tile
-    .desc = 这是物品·uranium marble tile。
+ent-FloorTileItemUraniumMarble = 铀大理石地砖
+    .desc = 一块经过雕琢和抛光的上等太空大理石方砖。注入了铀，格外有“辐”！双关就是故意的！
 
-ent-FloorTileItemXeno = 异种 floor
+ent-FloorTileItemXeno = 异星地板
 
-ent-FloorTileItemXenoSteel = 异种 steel floor
+ent-FloorTileItemXenoSteel = 异星钢制地板
 
-ent-FloorTileItemXenoSteelCorner = 异种 steel corner floor
+ent-FloorTileItemXenoSteelCorner = 异星钢制墙角地板
 
-ent-FloorTileItemXenoMaint = 异种 techmaint floor
+ent-FloorTileItemXenoMaint = 异星技术维护地板
 
-ent-FloorTileItemXenoborg = 物品·xenoborg floor
+ent-FloorTileItemXenoborg = 异星赛博格地板
 
-ent-FloorTileItemDarkSquiggly = 物品·dark steel squiggly tile
+ent-FloorTileItemDarkSquiggly = 深色钢制波纹地砖
 
 
-ent-Torch = 物品·torch
-    .desc = 这是物品·torch。
+ent-Torch = 火把
+    .desc = 用一些木头制成的火把。
 
 
-ent-TreasureDatadiskEncrypted = 物品·encrypted datadisk
-    .desc = 这是物品·encrypted datadisk。
+ent-TreasureDatadiskEncrypted = 加密数据盘
+    .desc = 一张老旧的数据盘。比你更精通技术的人可以解密它，挖出些劲爆内容。你能做的只有把它卖掉。
 
-ent-TreasureHardDiskDrive = 物品·hard disk drive
-    .desc = 这是物品·hard disk drive。
+ent-TreasureHardDiskDrive = 硬盘驱动器
+    .desc = 一种约在 1980 年为旧地球技术设计的磁盘驱动器。大概会有某个收藏家想把它收入囊中。
 
-ent-TreasureFlopDiskDrive = 物品·floppy disk drive
-    .desc = 这是物品·floppy disk drive。
+ent-TreasureFlopDiskDrive = 软盘驱动器
+    .desc = 一种读取软盘信息的驱动器。可惜如今软盘里只会存放核弹操作程序。
 
-ent-TreasureCDDrive = 物品·CD drive
-    .desc = 这是物品·CD drive。
+ent-TreasureCDDrive = CD 驱动器
+    .desc = 一种从 CD 中读取数据的技术。如今它算不上多有用，除非你打算飞去什么地方。
 
-ent-TreasureCPUSupercharged = 物品·supercharged CPU
-    .desc = 这是物品·supercharged CPU。
+ent-TreasureCPUSupercharged = 超频 CPU
+    .desc = 某种超级先进的异星太空科技。可惜如今所有计算机出厂时都自带 CPU。
 
-ent-TreasureSampleTube = 物品·sample tube
-    .desc = 这是物品·sample tube。
+ent-TreasureSampleTube = 样本管
+    .desc = 一根装着某种黏糊物的玻璃管，看起来很容易碎。
 
-ent-TreasureCoinIron = 物品·coin
-    .desc = 这是物品·coin。
+ent-TreasureCoinIron = 硬币
+    .desc = 一小片扁平的金属。要是还在流通，它早就因通货膨胀而一文不值了；正因为不再流通，它才值得被夹进收藏册。
 
 
-ent-Fork = 物品·fork
-    .desc = 这是物品·fork。
+ent-Fork = 餐叉
+    .desc = 一种餐具，非常适合用来刺东西。
 
-ent-ForkPlastic = 物品·plastic fork
-    .desc = 这是物品·plastic fork。
+ent-ForkPlastic = 塑料餐叉
+    .desc = 一种餐具，非常适合用来刺东西。
 
-ent-Spoon = 物品·spoon
-    .desc = 这是物品·spoon。
+ent-Spoon = 勺子
+    .desc = 根本没有勺子。
 
-ent-SpoonPlastic = 物品·plastic spoon
-    .desc = 这是物品·plastic spoon。
+ent-SpoonPlastic = 塑料勺
+    .desc = 根本没有勺子。
 
-ent-KnifePlastic = 物品·plastic knife
-    .desc = 这是物品·plastic knife。
+ent-KnifePlastic = 塑料餐刀
+    .desc = 那才不叫刀，这才叫刀。
 
-ent-BarSpoon = 物品·bar spoon
-    .desc = 这是物品·bar spoon。
+ent-BarSpoon = 吧勺
+    .desc = 帮你调制饮品、改变人生的私人助手。
 
 
-ent-AmeJar = 物品·AME fuel jar
-    .desc = 这是物品·AME fuel jar。
+ent-AmeJar = 反物质引擎燃料罐
+    .desc = 一个装有反物质的密封罐，供反物质反应堆使用。
 
 
-ent-LightBulb = 物品·incandescent light bulb
-    .desc = 这是物品·incandescent light bulb。
+ent-LightBulb = 白炽灯泡
+    .desc = 一个灯泡。
 
-ent-LedLightBulb = 物品·led light bulb
-    .desc = 这是物品·led light bulb。
+ent-LedLightBulb = LED 灯泡
+    .desc = 一个节能灯泡。
 
-ent-DimLightBulb = 物品·dim light bulb
-    .desc = 这是物品·dim light bulb。
+ent-DimLightBulb = 昏暗灯泡
+    .desc = 一个昏暗的灯泡，用来点缀维护通道的黑暗。
 
-ent-WarmLightBulb = 物品·warm light bulb
-    .desc = 这是物品·warm light bulb。
+ent-WarmLightBulb = 暖光灯泡
+    .desc = 一个散发暖光的灯泡，能营造更加舒适的氛围。
 
-ent-LightBulbOld = 物品·old incandescent light bulb
-    .desc = 这是物品·old incandescent light bulb。
+ent-LightBulbOld = 老旧白炽灯泡
+    .desc = 一个老化的灯泡。
 
-ent-LightBulbBroken = 物品·incandescent light bulb
-    .desc = 这是物品·incandescent light bulb。
+ent-LightBulbBroken = 白炽灯泡
+    .desc = 一个灯泡。
 
-ent-ServiceLightBulb = 服务 light bulb
-    .desc = 这是服务 light bulb。
+ent-ServiceLightBulb = 清洁灯泡
+    .desc = 一个用于清洁工作灯的低亮度绿色灯泡。
 
-ent-LightTube = 物品·fluorescent light tube
-    .desc = 这是物品·fluorescent light tube。
+ent-LightTube = 荧光灯管
+    .desc = 一件照明装置。
 
-ent-LightTubeOld = 物品·old fluorescent light tube
-    .desc = 这是物品·old fluorescent light tube。
+ent-LightTubeOld = 老旧荧光灯管
+    .desc = 一件老化的照明装置。

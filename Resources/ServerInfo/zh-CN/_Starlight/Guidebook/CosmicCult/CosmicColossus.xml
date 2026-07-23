@@ -1,0 +1,49 @@
+<Document>
+  # 熵化巨像
+
+  <Box>
+    [color=#999999][italic]“没有恶意，也没有炽烈欲望。没有怨毒，也没有残酷。什么都没有。”[/italic][/color]
+  </Box>
+  <Box>
+    [color=#999999][italic]“只有终结。”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
+  </Box>
+
+  你是一尊熵化巨像，由恶性甲壳与树枝状侵染构成的高耸怪物。你的目的与[color=#4cabb3]宇宙邪教[/color]相同：终结万物。
+
+  有些巨像是残留物，或许是“未知者”影响所引发冲突的幸存者，又或是某种奇异零空间异常的产物。这些巨像漂流在遥远漆黑的太空中，直到能量耗尽……或撞上文明。
+
+  [textlink="点击此处了解邪教创造的巨像。" link="CosmicCult"]
+
+  ## 影响
+
+  熵化巨像拥有强大的[color=#4cabb3]恶性影响[/color]；能力出众的巨像可以借此摧毁敌人。
+
+  - [color=#4cabb3][bold]熵化撕裂：[/bold][/color]跃迁至目标位置，引发连锁恶性能量爆炸。小心——这也会伤害友方邪教徒！
+  - [color=#4cabb3][bold]巨像闯入：[/bold][/color]运用巨像之力强行打开门。即使牢牢插上门栓，也会被你的泰坦巨力撕开。
+  - [color=#4cabb3][bold]沉眠外壳：[/bold][/color]让身体沉眠一段时间，恢复结构完整度。必须在稳定地面上进行。它会准确恢复相当于你所受伤害一半的生命值。
+
+  偶然遇到空间站的巨像还拥有以下影响：
+  - [color=#4cabb3][bold]巨像闯入：[/bold][/color]运用巨像之力强行打开门。即使牢牢插上门栓，也会被你的泰坦巨力撕开。
+
+  ## 目标
+  <Box>
+    <GuideEntityEmbed Entity="MobTileDamageArea" Caption=""/>
+  </Box>
+
+  偶然遇到空间站的巨像：
+  - [color=#4cabb3][bold]延续[/bold][/color]——共同从船员身上汲取指定数量的熵。汲取的熵越多，便越能强化纪念碑！
+  - [color=#4cabb3][bold]召来[/bold][/color]——在空间站上的指定位置召来一座熵之塑像。
+
+  由宇宙邪教将赛博格转化而成的巨像：
+  - [color=#4cabb3][bold]迎来终结[/bold][/color]——完成最终仪式，召来未知者并摧毁空间站。
+
+  ## 熵之塑像
+  <Box>
+    <GuideEntityEmbed Entity="CosmicEffigy" Caption=""/>
+  </Box>
+  一些巨像能够召来[color=#4cabb3]熵之塑像[/color]。塑像是一种极不稳定且危险的恶性异常，科研部应立即加以处理！
+
+</Document>

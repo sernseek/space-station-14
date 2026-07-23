@@ -1,0 +1,90 @@
+<Document>
+	# 燃气轮机
+	<Box>
+		<GuideEntityEmbed Entity="GasTurbineNormal" Scale="1.5"/>
+	</Box>
+
+	燃气轮机是真正产生电力的设备。
+
+	它接收[textlink="核反应堆" link="NuclearReactor"]送来的高温气体，输出电力，再将温度较低的气体送回反应堆。
+
+	轮机产生的能量取决于 RPM，而 RPM 可通过流量和定子负载调节。
+
+	### 流量
+	流量决定每秒有多少气体通过轮机。
+
+	流量越高，轮机 RPM 越高。
+
+	流量通常应设置为允许气体以最大流量通过反应堆堆芯。最大流量可用以下公式计算：
+    <Box>
+        [italic][protodata="SteelReactorGasChannel" comp="ReactorPart" member="GasVolume"/] * 气体通道数量 + [protodata="NuclearReactorNormal" comp="NuclearReactor" member="ReactorVesselGasVolume"/] L/s[/italic]
+    </Box>
+
+	### 定子负载
+	定子负载决定轮机每旋转一周产生多少电力。
+
+	定子负载越高，轮机 RPM 越低。
+
+	通常需要调整定子负载，确保轮机保持在最佳 RPM。
+
+	### RPM
+	RPM（每分钟转数）表示轮机旋转的速度。
+
+	轮机存在一个最佳 RPM，处于该转速时发电量最高。
+
+	高于或低于最佳转速都会降低性能。
+
+	## 轮机状态指示灯
+	轮机带有一组状态指示灯，用于向操作员警告危险情况或故障。
+
+	### 超速
+	轮机 RPM 过高。
+
+	轮机 RPM 过高时会开始受损。
+
+	长时间超速或超速过于严重，会导致轮机[color=red]自行解体[/color]。
+
+	轮机损伤可以用[color=yellow]焊机[/color]修复，但很可能需要尝试多次才能彻底修好。
+
+	### 超温
+	进入轮机的气体温度过高。
+
+	若进入轮机的气体温度高于[color=orange][protodata="GasTurbineNormal" comp="GasTurbine" member="MaxTemp"/]k[/color]，紧急吹扫阀便会启动，将气体排入房间。
+
+	高温气体可能严重灼伤人员；若气体可燃，甚至会引发火灾。
+
+	### 失速
+	气体温度不足以应对所设定的定子负载。
+
+	失速意味着进入轮机的气体“推力”不足，无法克服定子负载的阻力。
+
+	### 温度过低
+	进入轮机的气体温度过低。
+
+	若气体温度等于或低于[color=orange][protodata="GasTurbineNormal" comp="GasTurbine" member="MinTemp"/]k[/color]，轮机将无法从中提取能量。
+
+	## 轮机部件
+	<Box>
+		<GuideEntityEmbed Entity="NuclearFabricator"/>
+	</Box>
+	<Box>
+		<GuideEntityEmbed Entity="SteelGasTurbineBlade" Caption="轮机叶片"/>
+		<GuideEntityEmbed Entity="SteelGasTurbineStator" Caption="定子"/>
+	</Box>
+
+	轮机部件决定轮机的运行性能。
+
+	轮机部件使用一组[textlink="材料" link="NuclearMaterials"]在核能制造机中制造。
+
+	轮机能够安装两类部件：叶片和定子。
+
+	### 轮机叶片
+	轮机叶片决定轮机的结构完整度与惯性。
+
+	结构完整度越高，失效前能承受的伤害就越多，通常也更加安全。
+
+	惯性越高，改变 RPM 所需的能量就越多，从而让运行更加平稳。
+
+	### 定子
+	定子影响轮机的发电效率与输出。
+</Document>

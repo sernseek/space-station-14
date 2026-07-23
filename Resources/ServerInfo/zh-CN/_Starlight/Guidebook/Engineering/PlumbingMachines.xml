@@ -1,0 +1,136 @@
+<Document>
+  # 管道机器
+  所有管道机器均使用 RPLD 放置。需要[color=#a4885c]电力[/color]的机器必须位于 APC 供电范围内。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingInput" Caption=""/>
+    <GuideEntityEmbed Entity="PlumbingOutput" Caption=""/>
+  </Box>
+  <Box>
+    ## 输入与输出
+  </Box>
+  <Box>
+    [color=#999999][italic]将试剂送入网络或从中取出[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道输入罐[/color]是一个小型储罐，可手动将试剂倒入其中。其他机器会通过网络从中抽取。它可以向所有方向连接。
+
+  [color=#a4885c]管道输出罐[/color]是一个小型储罐，可以用容器从中取出试剂。它会从网络将试剂抽入缓冲区，可以向所有方向连接。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingSink" Caption=""/>
+    <GuideEntityEmbed Entity="PlumbingDrain" Caption=""/>
+  </Box>
+  <Box>
+    ## 水槽与排水口
+  </Box>
+  <Box>
+    [color=#999999][italic]管道系统的经典设备。[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道水槽[/color]基本上是输入与输出的组合。通过入口抽入的试剂可从水龙头灌入容器；倒进排水口的试剂则会通过出口送入网络。
+
+  [color=#a4885c]管道排水口[/color]是一种地漏，会吸收液体并将其送入管道网络。它可以向所有方向连接。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingTank" Caption=""/>
+  </Box>
+  <Box>
+    ## 储罐
+  </Box>
+  <Box>
+    [color=#999999][italic]在网络中缓冲试剂[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道储罐[/color]最多可储存[color=#a4885c]2000u[/color]试剂，带一个入口和三个出口。可用储罐在生产阶段之间缓冲试剂，或储存大量试剂。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingBuffer" Caption=""/>
+  </Box>
+  <Box>
+    ## 缓冲罐
+  </Box>
+  <Box>
+    [color=#999999][italic]哇，好可爱！[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道缓冲罐[/color]是一种可从上方走过的低矮储罐，最多储存[color=#a4885c]200u[/color]试剂。它有一个入口与三个彼此不连通的出口，可向不同网络供料。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingFilter" Caption=""/>
+  </Box>
+  <Box>
+    ## 过滤器
+  </Box>
+  <Box>
+    [color=#999999][italic]按类型分离试剂[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道过滤器[/color]会从网络中分离指定试剂。通过 UI 设置要过滤的试剂。它有一个入口与两个出口：
+  - [bold]过滤出口[/bold]用于所选试剂。
+  - [bold]直通出口[/bold]用于未选试剂。
+
+  过滤器把进入的试剂分到已过滤与未过滤内部容器中，分别可由过滤出口与直通出口抽取。它同时最多可过滤 4 种不同试剂。在 UI 中禁用时，所有输入都视为直通。可以用 RPLD 翻转方向。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingReactor" Caption=""/>
+  </Box>
+  <Box>
+    ## 反应器
+  </Box>
+  <Box>
+    [color=#999999][italic]自动触发化学反应[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道反应器[/color]会按设定数量从入口抽取指定试剂，加热并触发反应。产物会送往出口。它有一个入口与一个出口，可通过 UI 设置目标试剂及数量。需要供电。使用皮搋子可清除卡住的试剂。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingPillPress" Caption=""/>
+  </Box>
+  <Box>
+    ## 制药机
+  </Box>
+  <Box>
+    [color=#999999][italic]自动生产药片与药贴[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道制药机[/color]会抽取试剂，并按可调剂量压制成药片或药贴。它带一个正常从网络抽取的主入口，以及两个可选混合入口；混合入口允许按比例混合——分别设置两侧百分比，即可混合来自两个独立网络的试剂。通过 UI 切换输出药片或药贴。需要供电。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingSynthesizer" Caption=""/>
+  </Box>
+  <Box>
+    ## 合成器
+  </Box>
+  <Box>
+    [color=#999999][italic]利用电力生成试剂[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道合成器[/color]利用内置电池生成基础试剂。在 UI 中选择试剂并开启。机器通电时电池会充电，合成试剂时则消耗电量。不同试剂的耗电量各不相同。
+
+  可用试剂：铁、碳、铜、氢、氧、糖、硅、磷。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingSmartDispenser" Caption=""/>
+  </Box>
+  <Box>
+    ## 智能分配器
+  </Box>
+  <Box>
+    [color=#999999][italic]使用带标签的罐子储存并分配试剂[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道智能分配器[/color]会从网络抽取所有试剂，每种最多储存[color=#a4885c]200u[/color]。它[bold]每次更新抽取 40u[/bold]，是多数管道机器所用标准[bold]20u[/bold]抽取速率的[bold]2x[/bold]。对分配器使用[color=#a4885c]带标签的罐子[/color]，即可装入与标签匹配的试剂。它可以向所有方向连接。需要供电。
+
+  <Box>
+    <GuideEntityEmbed Entity="PlumbingDisposal" Caption=""/>
+  </Box>
+  <Box>
+    ## 废液处理器
+  </Box>
+  <Box>
+    [color=#999999][italic]汽化不需要的试剂[/italic][/color]
+  </Box>
+
+  [color=#a4885c]管道废液处理器[/color]带一个入口，用于将试剂抽入内部缓冲区，再随时间销毁。可用它干净地清除管道网络中不需要的试剂。
+</Document>

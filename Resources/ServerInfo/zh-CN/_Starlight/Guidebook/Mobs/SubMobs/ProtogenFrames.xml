@@ -1,0 +1,62 @@
+<Document>
+  # 原型机框架
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenMediumBasic" Caption="原型机框架"/>
+  </Box>
+
+  原型机的基础是其赛博框架，正是它让原型机真正有别于纯生物形态的同族。
+  目前有 6 种原型机框架获纳米传讯与中央指挥部批准使用，分为轻型、中型与重型。
+
+  ## 轻型框架
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenLightBasic" Caption="基础级"/>
+  </Box>
+
+  基础级轻型框架具有以下规格。
+  - 受到的[color=#65807d]切割伤害减少 5%[/color]、[color=#b9bf93]穿刺伤害减少 5%[/color]，并具有[color=#fcc203]5% 爆炸抗性[/color]。
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenLightSpeed" Caption="赫尔墨斯级"/>
+  </Box>
+
+  赫尔墨斯级轻型框架具有以下规格。
+  - 受到的[color=#65807d]切割伤害增加 15%[/color]，受到的[color=#b9bf93]穿刺伤害增加 15%[/color]。
+  - 获得[color=#03fce7]+5% 奔跑修正[/color]和[color=#03fce7]+5% 行走修正[/color]。
+
+  ## 中型框架
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenMediumBasic" Caption="基础级"/>
+  </Box>
+
+  基础级中型框架具有以下规格。
+  - 受到的[color=#65807d]切割伤害减少 10%[/color]、[color=#FF3636]钝击伤害减少 5%[/color]，受到的[color=#b9bf93]穿刺伤害减少 5%[/color]。
+  - 获得[color=#fc0303]-5% 奔跑修正[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenMediumMagic" Caption="赫卡忒级"/>
+  </Box>
+
+  赫卡忒级中型框架具有以下规格。
+  - 受到的[color=#64ffe6]毒素伤害减少 15%[/color]、[color=#bd5902]辐射伤害减少 15%[/color]，受到的[color=#C8FF75]基因伤害减少 15%[/color]。
+  - 获得少量生物抗性与轻度寒冷隔绝，但更容易升温。
+  - 获得[color=#fc0303]-10% 奔跑修正[/color]。
+  - 散发微弱的[color=#452e59]紫色光芒[/color]。
+
+  ## 重型框架
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenHeavyBasic" Caption="基础级"/>
+  </Box>
+
+  基础级重型框架具有以下规格。
+  - 受到的[color=#65807d]切割伤害减少 25%[/color]、[color=#b9bf93]穿刺伤害减少 10%[/color]、[color=#FF3636]钝击伤害减少 15%[/color]，并具有[color=#fcc203]25% 爆炸抗性[/color]。
+  - 获得[color=#fc0303]-25% 奔跑修正[/color]和[color=#fc0303]-15% 行走修正[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterArmorProtogenHeavySpace" Caption="倪克斯级"/>
+  </Box>
+
+  倪克斯级重型框架具有以下规格。
+  - 受到的[color=#ffa500]灼热伤害减少 10%[/color]、[color=#1e90ff]寒冷伤害减少 15%[/color]，并具有[color=#fcc203]25% 爆炸抗性[/color]。
+  - 获得可靠的隔热能力与中等程度的寒冷隔绝。
+  - 获得[color=#fc0303]-15% 奔跑修正[/color]和[color=#fc0303]-10% 行走修正[/color]。
+  - 只要头部有所遮盖并自备气源，就能不穿太空服在开放太空中移动。
+</Document>

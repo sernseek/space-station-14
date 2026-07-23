@@ -1,0 +1,39 @@
+<Document>
+  # 赛克洛人
+
+  <Box>
+    <GuideEntityEmbed Entity="MobCyclorite" Caption=""/>
+  </Box>
+
+这些来自深渊的智慧居民不善流露情感，面部位置只有一只巨眼。他们强壮但行动缓慢。
+
+  ## 种族特性
+  - 拳击造成[color=red]13[/color]点钝击伤害和[color=red]10[/color]点结构伤害，但挥拳速度只有人类的一半。
+  - 他们的拳击有双倍概率以 50 点耐力伤害缴械目标，但速度依旧只有一半。
+  - 行走速度比人类[color=red]慢 15%[/color]。
+  - 累积[color=lightgreen]150[/color]点伤害时进入濒危状态。
+  - 累积[color=lightgreen]300[/color]点伤害时死亡。
+  - 呼吸氮气。
+  - 与人类相比，受到的[color=#ffa500]钝击伤害减少 15%[/color]，受到的[color=#ffa500]切割伤害减少 30%[/color]。
+  - 倒地后起身所需时间是其他物种的两倍，撑起身体所需的耐力也翻倍。
+  - 由于体型庞大，他们会把外层衣物撑得很开，以至于背上可以携带[color=yellow]两件外套物品[/color]。
+  - 眼睛对红色不太敏感，但拥有更出色的黑暗视觉。
+
+  ## 毒物与药物变化
+  赛克洛人存在代谢问题，注入药物或毒物时会受到影响。
+
+  - 药物以[color=yellow]一半强度[/color]代谢，也就是说会以两倍速度离开血液。
+
+  [color=#999999][italic]每次代谢 [bold]0.5 单位[/bold]的药物会改为每次代谢 [bold]1 单位[/bold]。治疗量不变。[italic][/color]
+  - 毒物以[color=yellow]双倍强度[/color]代谢，使其在血液中的留存时间翻倍。
+
+  [color=#999999][italic]每次代谢 [bold]0.5 单位[/bold]的毒物会改为每次代谢 [bold]0.25 单位[/bold]。毒素伤害或效果不变。[italic][/color]
+
+  ## 移动速度变化抗性
+  赛克洛人体格沉重且力气强大，因此疾病和衣物对其速度[color=yellow]提高或降低[/color]效果会减弱[color=yellow]50%[/color]。伤害造成的减速仍以[color=yellow]100%[/color]效果生效。
+
+  [color=#999999][italic]例如，令普通人减速[bold]30%[/bold]的硬壳服只会令其减速[bold]15%[/bold][/color][/italic]
+
+  [color=#999999][italic]例如，令普通人加速[bold]50%[/bold]的加速靴只会令其加速[bold]25%[/bold][/color][/italic]
+
+</Document>

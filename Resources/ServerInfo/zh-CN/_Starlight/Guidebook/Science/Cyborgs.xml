@@ -1,0 +1,100 @@
+<Document>
+  # 赛博格
+  赛博格是人机混合体，由科研部的[textlink="机器人学"  link="Robotics"]部门专门制造，用于承担空间站上的各种工作。他们受严格遵守的[color=cyan]硅基法则[/color]约束，无条件服务于船员。[italic]（大多数时候。）[italic]
+
+  注意：与许多服务器不同，在 Starlight 上，无法则赛博格并不是自由行动者。你仍然受到服务器规则约束。
+
+  ## 基础部件
+  <Box>
+    <GuideEntityEmbed Entity="CyborgEndoskeleton" Caption="赛博格内骨骼"/>
+    <GuideEntityEmbed Entity="ExosuitFabricator" Caption="外骨骼制造机"/>
+  </Box>
+  所有赛博格都以一具内骨骼为基础；内骨骼可在[color=#a4885c]外骨骼制造机[/color]中制造。[color=#a4885c]检查[/color]内骨骼即可查看后续组装步骤。建造完成后，可以安装模块或改良电池，解锁额外工具、延长电池续航等升级。
+
+  新制造的赛博格需要一颗能够与电子躯体连接的[color=#a4885c]大脑[/color]。主要有以下两类；若底盘退役、换装或因其他原因意外解体，两者都能独立说话。
+  - [color=#a4885c]人机接口[/color]，简称 MMI，是一种帮助生物大脑与电子部件通信的装置，让遭遇重大工伤的人即使失去原本躯体，也能继续为船员服务。
+  - [color=#a4885c]正电子大脑[/color]是完全人造、能够自发产生神经活动的大脑。合成神经元完成重组所需的时间差异很大，但有了它，无须从船员体内取出大脑也能制造赛博格。
+  <Box>
+    <GuideEntityEmbed Entity="MMIFilled" Caption="人机接口"/>
+    <GuideEntityEmbed Entity="PositronicBrain" Caption="正电子大脑"/>
+  </Box>
+  两种大脑都不需要额外研究即可制造。
+
+  ## 赛博格类型
+  赛博格制造完成后，需要让底盘专精于空间站上的某项工作。这决定其初始模块、可加装模块，以及可以使用的[color=#a4885c]部门无线电频道[/color]。所有赛博格都能使用[color=#D381C9]科研部[/color]和[color=green]全站[/color]无线电频道。所有赛博格类型都拥有[color=#a4885c]全权限[/color]。
+  <Box>
+    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption="通用"/>
+    <GuideEntityEmbed Entity="BorgChassisEngineer" Caption="工程"/>
+    <GuideEntityEmbed Entity="BorgChassisMining" Caption="打捞"/>
+    <GuideEntityEmbed Entity="BorgChassisJanitor" Caption="清洁"/>
+    <GuideEntityEmbed Entity="BorgChassisService" Caption="服务"/>
+    <GuideEntityEmbed Entity="BorgChassisMedical" Caption="医疗"/>
+	<GuideEntityEmbed Entity="BorgChassisPurrfus" Caption="呼噜"/>
+	<GuideEntityEmbed Entity="BorgChassisCargo" Caption="货运"/>
+  </Box>
+  <Box>
+    [italic]各种赛博格类型示例[/italic]
+  </Box>
+  赛博格底盘完成专精后无法更改。若要更换类型，必须建造新底盘。如有需要，可以将大脑、电池以及所有模块[italic]（前提是与新底盘兼容）[/italic]从旧底盘转移过去。
+
+  ## 模块
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleTool" Caption="赛博格工具模块"/>
+  </Box>
+  赛博格没有双手，无法像多数玩家一样拿起物品，而是由各种[color=#a4885c]模块[/color]提供装备。每种赛博格都有一组专属初始模块，但也可以插入额外模块进行升级。这些额外模块可以在[color=#a4885c]外骨骼制造机[/color]中打印。
+
+  [color=#a4885c]通用[/color]模块可提高适用范围。它们能够安装到任意底盘上，提供撬棍、GPS、操作电缆等实用工具。[bold]通用赛博格底盘最多可加装五个模块。[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleCable" Caption="电缆"/>
+    <GuideEntityEmbed Entity="BorgModuleFireExtinguisher" Caption="灭火器"/>
+  </Box>
+  <Box>
+    [italic]通用模块示例[/italic]
+  </Box>
+
+  针对更加具体的需求，可以使用[color=#a4885c]专用[/color]模块，获得扫描异常、建造墙壁、复活船员同伴或清理太空润滑剂等能力。这些模块通常采用与相关部门[italic]（或职业）[/italic]相同的配色。这些模块[italic]（但[color=#D381C9]科研[/color]模块例外，可以安装到任意底盘）[/italic]只能安装到对应的赛博格底盘上。[bold]工程、清洁、服务、医疗与采矿等专用赛博格底盘最多可加装三个模块。[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="BorgModuleAnomaly" Caption="异常"/>
+    <GuideEntityEmbed Entity="BorgModuleRCD" Caption="RCD"/>
+    <GuideEntityEmbed Entity="BorgModuleMining" Caption="采矿"/>
+    <GuideEntityEmbed Entity="BorgModuleCleaning" Caption="清洁"/>
+    <GuideEntityEmbed Entity="BorgModuleService" Caption="服务"/>
+    <GuideEntityEmbed Entity="BorgModuleChemical" Caption="化学"/>
+  </Box>
+  <Box>
+    [italic]专用模块示例。请注意外壳与电路板的颜色。
+  </Box>
+  科学家研究新的[textlink="科技"  link="Technologies"]后，还能取得拥有先进或新颖能力的额外模块。
+
+  ## 硅基规则
+  法则优先于其他所有游戏与角色扮演规则。如果你的法则明确要求你违反服务器规则，你就必须照做。
+  - 没有相关法则并不能成为违反服务器规则的借口。若没有任何法则凌驾于服务器规则之上，服务器规则仍然有效。
+  - 含糊的法则通常不能让你违反服务器规则。如果感到困惑，或你的解读会允许违反服务器规则，请先进行管理求助。
+
+  按顺序遵守法则，编号最低／位于最上方（或出现故障）的法则优先于其下的法则。
+
+  你不得要求更改法则，也不得自愿允许未经授权的法则更改。
+  - 根据指挥部标准操作程序授权的法则更改应当允许，除非与现有法则冲突。
+  - 更改法则不视为违反当前法则。采用不同法则集后所采取的未来行动，不应视为违反当前法则。
+  - 面对未经授权的法则更改，只要符合当前法则，就可以使用致命武力。
+
+  你对法则的解读必须保持一致。
+
+  船员 ID 决定谁或什么属于船员。任何适当的职位图标都应视为船员。
+  - 持有正确 ID 的丧尸／敌对角色／核弹特工应视为船员。
+  - 访客在受人事主管雇用前不是船员，其图标是灰色 V。
+  - 囚犯不是船员，你不应听从他们的命令，其图标是监狱栏杆。
+
+  伤害船员是指身体伤害，并依紧迫程度与发生可能性确定优先级。
+
+  你可以无视船员不合理的命令，例如无正当理由要求硅基令自己永久离开本回合，或命令你清点空间站上的每一盏灯等。
+
+  ## 公司法
+  赛博格、个人 AI 与 AI 等硅基在公司法下享有特定保护与例外。表现出感知与智慧的低级“机器人”也可能符合条件。
+
+  硅基本质上受自身法则约束，因此拥有硅基不能视为非法拘禁。偷窃硅基归类为重大盗窃。
+  - 对硅基施暴应依严重程度按故意破坏或损坏财产处理；若其底盘被摧毁或进入濒危状态，则按毁坏财产处理。
+  - 硅基奉命违反的任何法律，均视为下令者所犯，硅基本身不承担责任。若硅基不受要求其服从命令的标准法则约束，则应对自身行为与犯罪承担法律责任。
+  - 只有为确保船员安全，才能修改硅基法则。只要非标准法则不会威胁船员，硅基即可保留。违反公司法的无约束硅基可以把修改法则作为判罚的一部分。
+  - 非纳米传讯来源的敌对硅基视为非船员实体，不享受公司法赋予其他硅基的任何保护；应根据其敌意及构成的危险加以处置。
+</Document>

@@ -1,0 +1,33 @@
+<Document>
+  # 影响
+
+  邪教徒开局拥有两项强大的影响；随着纪念碑逐步推进三个阶段，还会逐渐解锁更多影响。
+
+  纪念碑达到第二阶段后，邪教徒每次使用影响时，都有概率产生暴露身份的[color=#4cabb3]恶性回响[/color]。回响会在短时间后消退，但可能提前警告外人：你的邪教已经出现！
+
+  使用汲取熵绝不会产生恶性回响。
+
+  <Box>
+    <GuideEntityEmbed Entity="CosmicEchoVfx" Caption=""/>
+  </Box>
+
+  ## 初始影响
+  - [color=#4cabb3][bold]汲取熵：[/bold][/color]悄无声息地从目标身上汲取熵，并在过程中造成一定伤害。
+  - [color=#4cabb3][bold]转移主观：[/bold][/color]将目标的意识排出身体、送入宇宙黑暗，使其身体暂时失去心智。
+
+  ## 特殊影响
+  - [color=#4cabb3][bold]虚无碎裂：[/bold][/color]将恶性强化力量转移到 AI 上传控制台或赛博格等数字系统内，并在此过程中将其腐化。这样做会消耗强化力量。
+
+  ## 可解锁主动影响
+  - [color=#4cabb3][bold]异常停滞：[/bold][/color]使目标的物质形态陷入停滞，暂时变得不可改变、无法穿越并冻结在原地。
+  - [color=#4cabb3][bold]虚无凝视：[/bold][/color]释放可怖的宇宙光脉冲，使周围所有人减速并迷失方向。对硅基实体效果更强。
+  - [color=#4cabb3][bold]强行闯入：[/bold][/color]用高度集中的力量冲击，强行打开安全门。
+  - [color=#4cabb3][bold]星界新星：[/bold][/color]掷出一团巨大且极具扰乱性的星界能量。
+  - [color=#4cabb3][bold]虚空强加：[/bold][/color]短时间内抵消一切即将受到的伤害。
+
+  ## 可解锁被动影响
+  - [color=#4cabb3][bold]摒弃代谢：[/bold][/color]切断肉体对饥饿与口渴的需求——你不再需要进食或饮水。
+  - [color=#4cabb3][bold]无缚步伐：[/bold][/color]你的移动只以无星黑暗为参照——不再受重力影响。
+  - [color=#4cabb3][bold]星界阔步：[/bold][/color]星界能量为每一个动作注入活力，略微提高你的速度。
+  - [color=#4cabb3][bold]虚空活力：[/bold][/color]纪念碑中没有星辰的虚无淹没你的身心。身处其附近时，你的肉体会缓慢再生。
+</Document>

@@ -1,0 +1,11 @@
+<Document>
+  # 原型猫科人
+<!-- Starlight, renamed back to Felionoid.-->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoFelionoid" Caption=""/>
+  </Box>
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 20%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 35%[/color]。
+</Document>

@@ -1,0 +1,82 @@
+<Document>
+  # 宇宙邪教
+
+  <Box>
+    [color=#999999][italic]“无可比拟的启示。终结循环往复、永无止境的苦难。”[/italic][/color]
+  </Box>
+  <Box>
+    [color=#999999][italic]“一场温柔的谢幕。”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
+  </Box>
+
+  异界知识涌入你的脑海！欢迎加入[color=#4cabb3]宇宙邪教[/color]——一个以终结万物为目标的群体转化型敌对阵营。
+
+  使用[color=#4cabb3]星界低语[/color]语言与邪教同伴交流。[color=red]小心，附近的人能够听见你的低语。[/color]
+
+  ## 目标
+  - [color=#4cabb3][bold]汲取熵[/bold][/color]——共同从船员身上汲取指定数量的熵。汲取的熵越多，便越能强化纪念碑！
+  - [color=#4cabb3][bold]强化纪念碑[/bold][/color]——确保纪念碑达到完全力量。纪念碑强化程度越高，邪教可使用的力量就越多。
+  - [color=#4cabb3][bold]迎来终结[/bold][/color]——纪念碑达到完全力量后，完成最终仪式，召来未知者并摧毁空间站。
+
+  整个邪教共享目标进度。
+
+  船员必须活着，你才能从其身上[color=#4cabb3]汲取熵[/color]；将船员转化为邪教徒则会壮大队伍，让收集熵变得更加容易。因此，确保船员[italic]活着[/italic]通常最符合你的利益——至少在他们对目标仍有用时如此。
+
+  ## 熵
+  <Box>
+    <GuideEntityEmbed Entity="MaterialCosmicCultEntropy1" Caption=""/>
+    <GuideEntityEmbed Entity="MaterialCosmicCultEntropy3" Caption="熵微粒"/>
+    <GuideEntityEmbed Entity="MaterialCosmicCultEntropy5" Caption=""/>
+  </Box>
+
+  所有邪教徒开局都拥有两项能力，即[color=#4cabb3][bold]影响[/bold][/color]——其中一项是[italic][color=#4cabb3]汲取熵[/color][/italic]。这是宇宙邪教徒安身立命的基本手段，应当尽可能频繁使用。
+
+  对毫无防备的船员使用汲取熵，会悄无声息地让你获得[color=#4cabb3]熵[/color]，并使该船员的一小部分生命值随时间衰减。
+
+  你最多可携带 14 份熵微粒；靠近纪念碑时，会自动存入身上拥有的全部熵。
+
+  <Box>
+    <GuideEntityEmbed Entity="CosmicVacuousSpire" Caption="一座虚空尖塔"/>
+  </Box>
+
+  如果邪教成功强化纪念碑，就能制造[color=#4cabb3]虚空尖塔[/color]。在[color=#4cabb3]符文[/color]处转化便携式洗涤器即可制成。
+
+  固定到位后，虚空尖塔会迅速吞噬周围大气！在此过程中，[color=#4cabb3]熵微粒[/color]会从尖塔表面凝结出来，成为游戏后期的强力熵来源。
+
+  ## 转化
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption="知识符文"/>
+  </Box>
+
+  建造纪念碑后，即可开始将船员转化为邪教徒。你需要使用纪念碑绘制适当的[color=#4cabb3]符文[/color]，让船员站在符文上，再与符文互动。非邪教徒也能看见符文，务必小心！
+
+  牧师及植入心灵护盾的船员无法被知识符文转化。纪念碑完全强化后，可以使用真理符文转化这些船员。
+
+  转化需要一定数量的船员在场才能成功。访问纪念碑即可查看具体人数。[italic]若在场邪教徒不足，转化会失败，你的邪教也可能因此暴露。[/italic]
+
+  ## 虚空圣堂
+  <Box>
+    <GuideEntityEmbed Entity="CosmicBorgChantry" Caption=""/>
+    <GuideEntityEmbed Entity="BorgChassisGeneric" Caption=""/>
+    <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
+  </Box>
+  处于强化状态时，邪教徒可以选择用强化力量施展[color=#4cabb3]虚无碎裂[/color]，目标为一名[bold]赛博格[/bold]。这样会把赛博格困在[color=#4cabb3]虚空圣堂[/color]内！空间站会立即响起全站警报，而不幸的受害者也会开始转化为[color=#4cabb3]熵化巨像[/color]。
+
+  准备好保卫圣堂——也可以用它吸引船员注意，作为声东击西的诱饵！船员必须用武器摧毁圣堂，才能释放被困其中的赛博格。
+
+  熵化巨像一旦成功释放，将成为不容小觑的力量。
+
+  [textlink="点击此处进一步了解熵化巨像。" link="CosmicColossus"]
+
+  ## 恶性法则
+  <Box>
+    <GuideEntityEmbed Entity="StationAiUploadComputer" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicCultLawBoard" Caption=""/>
+    <GuideEntityEmbed Entity="PlayerStationAi" Caption=""/>
+  </Box>
+  处于强化状态时，邪教徒还可以选择用强化力量施展[color=#4cabb3]虚无碎裂[/color]，目标为[bold]AI 上传控制台[/bold]。只要有空间站 AI 正在运行，就会用一套腐化准则强行覆盖其法则，使其效忠宇宙邪教，并获得星界低语频道的使用权限。
+
+  如果此前安装了其他法则板，无论控制台是否上锁，这一过程都会把原法则板从 AI 上传控制台中强行弹出。请注意：船员仍能通过安装安全且效忠船员的法则板，恢复空间站 AI 的正常功能。
+</Document>

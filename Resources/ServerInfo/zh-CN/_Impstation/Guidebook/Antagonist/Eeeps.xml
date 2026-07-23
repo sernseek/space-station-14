@@ -1,0 +1,19 @@
+<Document>
+  # 电气羊
+
+  <Box>
+    <GuideEntityEmbed Entity="MobEeep" Caption=""/>
+
+  </Box>
+  电气羊，又称 Eeep，是一种太空生物。它们能自然产生电力，有时会被饲养用于发电。
+
+  Eeep 幼崽是 Eeep 的未成年形态。这些小生物喜欢以电能为食，[color=yellow]能够轻易耗尽任何电源。[/color]
+
+  它们通常只是惹人厌，危害不大，[color=red]除非任由它们吞噬足够电力并长大；[/color]真到了那一步，最好祈祷自己戴着绝缘手套……
+    <GuideEntityEmbed Entity="MobEeeplet" Caption=""/>
+  - 它们可以通过过载，像“撬门”一样打开任何门。
+  - 检查 Eeep 幼崽可以看到其内部电量；电量达到 100% 时，它们会完成蜕变，并向整座空间站宣告自己的存在。
+  - Eeep 拥有[color=green]强力的被动再生能力[/color]，但可以通过[color=yellow]屠宰[/color]彻底杀死。
+  - 成年 Eeep 周身环绕触碰即会造成伤害的电气光环，还能发射微型特斯拉式弹射物；即使目标免疫电击，嵌入伤害依然有效。
+  - 扮演电气羊时，别让空间站断电。没有引擎，空间站可造不出美味的电力！
+</Document>

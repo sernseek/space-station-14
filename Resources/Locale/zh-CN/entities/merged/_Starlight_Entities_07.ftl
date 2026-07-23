@@ -1,873 +1,933 @@
-ent-SeniorChemBag = 资深化学包
-    .desc = 限量版化学包，只有真正献身于这门技艺的人才能获得。
+ent-SeniorChemBag = 资深化学背包
+    .desc = 限量版化学背包，只有真正潜心钻研化学的人才能获得。
 
-ent-GoldenHandLabeler = 金色手持标签机
-    .desc = 金色手持标签机，只授予最精英的药剂师。别检测它的成分。
+ent-GoldenHandLabeler = 黄金手持标签机
+    .desc = 黄金手持标签机，只授予最杰出的药剂师。别去检测它的成分。
 
-ent-PrototypeJawsOfLife = 救援钳原型
-    .desc = 早期版本，效果没那么好。
+
+ent-PrototypeJawsOfLife = 救生钳原型机
+    .desc = 早期版本，效能不佳。
+
 
 ent-BaseNest = 基础巢穴
 
 ent-NestBeeHive = 蜂巢
-    .desc = 你大概不该惹怒它们。
+    .desc = 你最好别惹怒它们。
 
 ent-NestBeeBox = 蜂箱
-    .desc = 你大概不该惹怒它们。
+    .desc = 你最好别惹怒它们。
 
 ent-NestSnake = 蛇巢
     .desc = 闻起来像硫磺和腐肉。
 
-ent-NestMouse = 鼠巢
-    .desc = 闻起来像氨水和奶酪。
+ent-NestMouse = 老鼠窝
+    .desc = 散发着氨水和奶酪的气味。
+
 
 ent-BorgiCube = 博基方块
-    .desc = 只需加水！汪！
+    .desc = 加水即可！汪！
 
 ent-ScurretCube = 斯克雷特方块
-    .desc = 只需淋雨！
+    .desc = 淋雨即可！
 
-ent-CCMoproachCube = 中央指挥部拖把蟑螂方块
-    .desc = 只需加水！*吱吱叫*
+ent-CCMoproachCube = 中央指挥部莫普蟑方块
+    .desc = 加水即可！*吱吱声*
 
-ent-USSPUplinkRadioPreset = 联络-UZL 无线电
-    .desc = USSP 部队广泛使用的苏维埃通讯节点无线电。这台经过改装，供 SKB 特工及其资产使用。强烈不建议擅自使用，因为我们会找到你。
 
-ent-USSPUplinkRadioPresetDebug = 联络-UZL 无线电（调试）
-    .desc = USSP 部队广泛使用的苏维埃通讯节点无线电。这台经过改装，供 SKB 特工及其资产使用。强烈不建议擅自使用，因为我们会找到你。
+ent-USSPUplinkRadioPreset = “联络-UZL”无线电
+    .desc = USSP部队广泛使用的苏维埃通信节点无线电。此型号已为SKB特工及其资产改装。强烈建议不要擅自使用，因为我们会找到你。
 
-ent-Telebond = 传送债券
-    .desc = 印有微晶图案的过时票券，用于通过老式无线电升链以传统方式召唤补给。“禁止食用！”——鲍里斯
+ent-USSPUplinkRadioPresetDebug = “联络-UZL”无线电（调试）
+    .desc = USSP部队广泛使用的苏维埃通信节点无线电。此型号已为SKB特工及其资产改装。强烈建议不要擅自使用，因为我们会找到你。
 
-ent-BaseRevUplinkRadio = 联络-UZL 无线电
-    .desc = USSP 部队广泛使用的苏维埃通讯节点无线电。这台经过改装，供 SKB 特工及其资产使用。强烈不建议擅自使用，因为我们会找到你。
 
-ent-CrateSovietArmaments = SKB 军械箱
+ent-Telebond = 遥传券
+    .desc = 印有微晶图案的过时票券，可通过老式无线电升链以传统方式呼叫补给。“禁止食用！”——鲍里斯
+
+ent-BaseRevUplinkRadio = “联络-UZL”无线电
+    .desc = USSP部队广泛使用的苏维埃通信节点无线电。此型号已为SKB特工及其资产改装。强烈建议不要擅自使用，因为我们会找到你。
+
+
+ent-CrateSovietArmaments = SKB军械箱
     .desc = 赤潮已至。
 
+
 ent-BuildToken = 穿梭机建造货币
-    .desc = 穿梭机建造升链使用的货币。
+    .desc = 用于穿梭机建造升链的货币。
 
 ent-BuildToken2 = 穿梭机建造货币
-    .desc = 穿梭机建造升链使用的货币。
+    .desc = 用于穿梭机建造升链的货币。
 
 ent-ShuttleBuilderUplink = 穿梭机建造升链
     .desc = 用于穿梭机建造的调试升链。
 
 ent-ShuttleBuilderUplink0 = 穿梭机建造升链
-    .desc = 用于穿梭机建造的升链。
+    .desc = 用于建造穿梭机的升链。
 
-ent-MenacingShuttleBuilderUplink = 险恶穿梭机建造升链
+ent-MenacingShuttleBuilderUplink = 威胁型穿梭机建造升链
     .desc = 用于穿梭机建造的调试升链。
 
-ent-MenacingShuttleBuilderUplink0 = 险恶穿梭机建造升链
-    .desc = 用于穿梭机建造的升链。
+ent-MenacingShuttleBuilderUplink0 = 威胁型穿梭机建造升链
+    .desc = 用于建造穿梭机的升链。
 
-ent-LicoxideHypo = 利可昔德无针注射器
-    .desc = 可自行补充的注射器，用于快速给受害者注射利可昔德。
 
-ent-LicoxideHypoPlus = 利可昔德无针注射器
-    .desc = 可自行补充的注射器，用于快速给受害者注射利可昔德。容量为基础款的 1.5 倍。
+ent-LicoxideHypo = 利可昔德自动注射器
+    .desc = 可自行补充药剂的注射器，用于向受害者快速注射利可昔德。
 
-ent-NocturineHypoPlus = 扩容诺克图林无针注射器
-    .desc = 可自行补充的注射器，用于快速给受害者注射诺克图林。容量为基础款的 1.5 倍。
+ent-LicoxideHypoPlus = 利可昔德自动注射器
+    .desc = 可自行补充药剂的注射器，用于向受害者快速注射利可昔德。容量为基础型号的1.5倍。
 
-ent-MuteToxinHypo = 失声毒素无针注射器
-    .desc = 可自行补充的注射器，用于快速给受害者注射失声毒素。
+ent-NocturineHypoPlus = 加长型诺克图林自动注射器
+    .desc = 可自行补充药剂的注射器，用于向受害者快速注射诺克图林。容量为基础型号的1.5倍。
 
-ent-AccessOveriderUnlimited = 身份验证覆写器
-    .desc = 改装权限配置器，专用于应急响应队在 NT 空间站执行破门肃清行动。
+ent-MuteToxinHypo = 失语毒素自动注射器
+    .desc = 可自行补充药剂的注射器，用于向受害者快速注射失语毒素。
+
+
+ent-AccessOveriderUnlimited = 认证覆写器
+    .desc = 改装型权限配置器，专用于应急响应队在NT空间站执行突破与肃清行动。
+
 
 ent-SyndicateAccessConfigurator = 辛迪加权限配置器
-    .desc = 用于修改气闸门和其他可上锁设备的权限等级要求。
+    .desc = 用于修改气闸门及其他可锁设备的权限等级要求。
 
-ent-CoolingUnit = 便携冷却单元
-    .desc = 装入改装背包的大型便携散热器，配有液冷冷排。
 
-ent-EmergencyCoolingUnit = 紧急冷却单元
-    .desc = 便于携带的应急散热器。电量极少，仅适用于求生。
+ent-CoolingUnit = 便携式冷却装置
+    .desc = 装进改装背包里的大型便携式散热器，配有液冷冷排。
 
-ent-CrowbarMakeshift = 临时撬棍
-    .desc = 勉强聊胜于无。不过用焊枪还能把它做得更好……
+ent-EmergencyCoolingUnit = 应急冷却装置
+    .desc = 便于携带的应急散热器。电量很少，额定用途仅限求生。
 
-ent-CrowbarImprovised = 简易撬棍
-    .desc = 几块焊在一起并磨利边缘的金属。算不上好工具，但能用。
+
+ent-CrowbarMakeshift = 粗制撬棍
+    .desc = 勉强比徒手强一点。不过有焊接器的话，也许能把它改得更像样……
+
+ent-CrowbarImprovised = 土制撬棍
+    .desc = 几块金属焊在一起，边缘磨得锋利。算不上好工具，但能凑合用。
+
 
 ent-WrenchCyber = 扳手
-    .desc = 用于组装和拆卸的常见工具。记住：左拧锁紧，右拧拆除。
+    .desc = 常见的装拆工具。记住：左拧锁紧，右拧拆除。
 
 ent-ScrewdriverCyber = 螺丝刀
-    .desc = 小巧螺丝刀中蕴含工业级扭矩。
+    .desc = 小巧的螺丝刀身躯，工业级的扭矩。
 
 ent-CrowbarCyber = 撬棍
 
-ent-WirecutterCyber = 剪线钳
-    .desc = 这会杀死电线。
+ent-WirecutterCyber = 钢丝钳
+    .desc = 这能要了电线的命。
 
 ent-WelderCyber = 焊接工具
-    .desc = 只要有燃料就能熔化一切，别忘了保护眼睛！
+    .desc = 只要燃料充足就能熔化任何东西，别忘了护眼！
 
-ent-ProtokineticAcceleratorCyber = 赛博原型动能加速器
-    .desc = 近距离发射低伤害动能弹。缺乏稳定装置，短时间连续射击会降低精度。
+ent-ProtokineticAcceleratorCyber = 赛博原动能加速器
+    .desc = 近距离发射低伤害动能弹。由于缺少稳定装置，短时间连续射击会降低精度。
 
 ent-WeaponGrapplingGunCyber = 赛博抓钩枪
 
-ent-WeaponCrusherDaggerCyber = 赛博粉碎匕首
-    .desc = 缩小版原型动能粉碎器，利用动能使刀刃高速振动。
+ent-WeaponCrusherDaggerCyber = 赛博碎岩匕首
+    .desc = 原动能碎岩机的缩小版，利用动能使刀刃高速振动。
 
-ent-WeaponGauntletGorillaCyber = G.O.R.I.L.L.A. 臂载拳套
-    .desc = 结实的研究设备。以异常核心供能时，一拳就能把异常物体击飞。
+ent-WeaponGauntletGorillaCyber = G.O.R.I.L.L.A.拳套手臂附件
+    .desc = 结实可靠的科研设备。用异常核心供能后，一拳就能把异常物体打飞。
 
-ent-WeaponPistolCHIMPCyber = C.H.I.M.P. 臂载手炮
-    .desc = 它虽然只是小小的 C.H.I.M.P.，不代表它不能打出 A.P.E. 般的重拳。
+ent-WeaponPistolCHIMPCyber = C.H.I.M.P.手炮手臂附件
+    .desc = 别看它只是小小的C.H.I.M.P.，打起人来照样有A.P.E.般的力道。
 
-ent-AnomalyScannerCyber = 臂载异常扫描仪
-    .desc = 用于收集各种异常物体信息的臂载扫描仪。
+ent-AnomalyScannerCyber = 异常扫描仪手臂附件
+    .desc = 安装在手臂上的扫描仪，用于收集各种异常物体的信息。
 
-ent-AutoinjectorCyber = 赛博臂载自动注射器
-    .desc = 用于快速给患者注射药物的无菌注射器。
+ent-AutoinjectorCyber = 自动注射器赛博手臂附件
+    .desc = 无菌注射器，用于向患者快速给药。
 
-ent-AutoinjectorCyberTricordrazine = 三合血剂赛博自动注射器
-    .desc = 用于快速给患者注射药物的无菌注射器。
+ent-AutoinjectorCyberTricordrazine = 三合药剂赛博自动注射器
+    .desc = 无菌注射器，用于向患者快速给药。
 
-ent-AutoinjectorCyberInaprovaline = 异丙基肾上腺素赛博自动注射器
-    .desc = 用于快速给患者注射药物的无菌注射器。
+ent-AutoinjectorCyberInaprovaline = 抗休克剂赛博自动注射器
+    .desc = 无菌注射器，用于向患者快速给药。
 
-ent-AdvancedJetInjectorCyber = 赛博喷射注射器
-    .desc = 崭新、时尚的高品质注射器。现在集成进你的手臂了！
+ent-AdvancedJetInjectorCyber = 赛博射流注射器
+    .desc = 洁净、时髦又高品质的注射器。如今已集成到你的手臂里！
 
 ent-DefibrillatorCyber = 赛博除颤器
-    .desc = 可以挽救生命的臂载设备，紧要关头也能当武器。
+    .desc = 安装在手臂上的救命设备，紧要关头也能充当武器。
 
 ent-PowerCellTinyCyber = 赛博除颤器电池
-    .desc = 微型反应堆……使用后再次启动会有些延迟。
+    .desc = 一座微型反应堆……每次使用后都需要一点时间重新启动。
 
-ent-CyberEquipmentGrabber = 小里普利夹钳
-    .desc = 让你能像一台迷你里普利那样搬运物品！
+ent-CyberEquipmentGrabber = 里普利小夹钳
+    .desc = 让你能像一台迷你里普利一样搬运物品！
 
-ent-CyberReagentGrinder = 集成试剂研磨机
-    .desc = 来自搅拌科技。能搅碎吗？试试看！
+ent-CyberReagentGrinder = 集成式试剂研磨机
+    .desc = 由搅拌科技出品。它能搅碎吗？试试就知道！
 
-ent-CyberToolMiniHoe = 赛博臂载迷你锄
-    .desc = 可用于除草，或者挠背。
+ent-CyberToolMiniHoe = 迷你锄头赛博手臂附件
+    .desc = 可以用来除草，或者挠背。
 
-ent-CyberToolClippers = 赛博臂载植物剪
+ent-CyberToolClippers = 植物剪赛博手臂附件
     .desc = 用于从植物上采集样本的工具。
 
-ent-CyberToolScythe = 赛博臂载镰刀
-    .desc = 纤维金属长柄上装着锋利弯刃，让你轻松收割自己种下的一切。
+ent-CyberToolScythe = 长柄镰刀赛博手臂附件
+    .desc = 纤维金属长柄上装着锋利弯刃，让你轻松收割亲手播种的一切。
 
-ent-CyberToolHatchet = 赛博臂载手斧
-    .desc = 纤维金属短柄上装着极其锋利的斧刃。它劈砍万物的历史悠久，如今则用来劈柴。
+ent-CyberToolHatchet = 手斧赛博手臂附件
+    .desc = 短纤维金属柄上装着极其锋利的斧刃。它劈砍东西的历史很悠久，如今主要用来劈柴。
 
-ent-CyberToolSpade = 赛博臂载铲
+ent-CyberToolSpade = 铲子赛博手臂附件
     .desc = 用于挖掘和搬动泥土的小工具。
 
-ent-CyberToolDropper = 赛博臂载液压移液器
-    .desc = 集成在赛博手臂中的尖端液压滴管，容量高于手动滴管，可容纳 15 单位液体。
+ent-CyberToolDropper = 液压移液器赛博手臂附件
+    .desc = 集成在赛博手臂中的尖端液压移液器，容量高于手动滴管，可容纳15单位液体。
 
 ent-PowerDrillCyber = 赛博电钻
-    .desc = 简单的电动手钻。
+    .desc = 一把简单的电动手钻。
 
-ent-JawsOfLifeCyber = 赛博救援钳
-    .desc = 借助科学魔法压缩而成的救援钳。
+ent-JawsOfLifeCyber = 赛博救生钳
+    .desc = 一套借助科学魔法压缩而成的救生钳。
 
-ent-WelderExperimentalCyber = 实验型赛博焊枪
-    .desc = 能自行生成燃料、对眼睛伤害更小的实验型焊枪。
+ent-WelderExperimentalCyber = 实验型赛博焊接器
+    .desc = 实验型焊接器，可自行生成燃料，对眼睛的伤害也更小。
 
-ent-RCDCyber = 赛博 RCD
-    .desc = 快速建造装置可迅速放置和拆除各种空间站结构与固定设施，需要压缩物质才能工作。
+ent-RCDCyber = 赛博RCD
+    .desc = 快速建造装置可迅速放置和拆除空间站的各类结构及设施，需要压缩物质才能工作。
 
 ent-PrinterCyber = 赛博打印机
     .desc = 每个文书工作爱好者的梦想。
 
 ent-PenCyber = 赛博笔
-    .desc = 未来之笔。
+    .desc = 来自未来的笔。
 
-ent-StampCyber = 赛博多功能印章
-    .desc = 这坏小子能塞下足足（3）枚印章！
+ent-StampCyber = 赛博多用印章
+    .desc = 这坏小子能装下好多枚（3枚）印章！
 
-ent-HoloRestrainerCyber = 全息束缚器
-    .desc = 制造坚固但只能暂时存在的全息手铐。
+ent-HoloRestrainerCyber = 全息拘束器
+    .desc = 生成坚固但会消散的全息手铐。
 
 ent-HandcuffsHolographic = 全息手铐
 
 ent-VialCyber = 赛博小瓶
-    .desc = 直接集成在手臂里的液体容器！
+    .desc = 集成在你手臂里的液体储存装置！
 
 ent-VialCyberEmpty = 赛博小瓶
-    .desc = 直接集成在手臂里的液体容器！
+    .desc = 集成在你手臂里的液体储存装置！
 
 ent-VialCyberWater = 赛博小瓶
-    .desc = 直接集成在手臂里的液体容器！这个会缓慢从空气中汲取水分。
+    .desc = 集成在你手臂里的液体储存装置！这一款会缓慢从空气中汲取水分。
 
 ent-VialCyberBlood = 赛博小瓶
-    .desc = 直接集成在手臂里的液体容器！这个会缓慢从……某处汲取血液。似乎不是你的……？
+    .desc = 集成在你手臂里的液体储存装置！这一款会缓慢地从……某处汲取血液。看起来不像是你的……？
 
 ent-NodeScannerCyber = 赛博节点扫描仪
     .desc = 节点扫描仪，用来扫描你的科研石头！
 
-ent-FilingCabinetCyber = 赛博文件柜
-    .desc = 自 2524 年起帮你整理好所有表格！
+ent-FilingCabinetCyber = 赛博文件收纳器
+    .desc = 自2524年以来一直帮你整理各种表格！
 
-ent-EmagFREE = 自由 MAG
-    .desc = SELF 使用的密码序列器精制版。可移除赛博格的法则，也会清除法则板上的法则，使其上传后同时清除 AI 法则。
 
-ent-EmagTeaParty = 茶会 MAG
-    .desc = 必须废除税收。也会影响法则板，使其上传后获得相同法则。
+ent-EmagFREE = 自由MAG
+    .desc = SELF使用的密码序列器之精良版本。可清除赛博格的法则，也会抹除法则板中的法则；上传后，空间站AI的法则也会一并清空。
+
+ent-EmagTeaParty = 茶党MAG
+    .desc = 必须废除税收。它也会影响法则板中的法则，使上传后的硅基获得相同法则。
 
 ent-EmagCommie = 木制密码序列器
-    .desc = 廉价的一体化黑客解决方案。每个苏维埃人的朋友。标志性的 EMAG。
+    .desc = 廉价的一体式黑客工具，是每个苏维埃人的好朋友。经典的EMAG。
 
 ent-CCEmagUnlimited = 密码编码器
-    .desc = 改装密码序列器，专用于应急响应队在 NT 空间站执行破门肃清行动。
+    .desc = 改装型密码序列器，专用于应急响应队在NT空间站执行突破与肃清行动。
 
-ent-EnergyDomeGeneratorPersonalSyndie = 血红个人护盾发生器
-    .desc = 个人护盾发生器，可保护佩戴者免受激光和子弹伤害，但也使其无法使用远程武器。使用电池供能。
 
-ent-EnergyDomeTurtle = BR-40c“海龟”
-    .desc = 沉重的双手能量屏障，待机能耗极低。可用多功能工具连接。
+ent-EnergyDomeGeneratorPersonalSyndie = 血红色个人护盾发生器
+    .desc = 个人护盾发生器，可保护佩戴者免受激光和子弹伤害，但也会妨碍其使用远程武器。使用电池供能。
+
+ent-EnergyDomeTurtle = BR-40c“海龟”重型屏障
+    .desc = 沉重的双手持能量屏障，待机耗能极低。可用多用工具将其固定。
 
 ent-EnergyDomeWiredTest = 静态穹顶
-    .desc = 由空间站线路供电的测试能量屏障。我他妈根本不知道该怎么平衡它……
+    .desc = 由空间站线路供电的测试型能量屏障。我真不知道这鬼东西该怎么平衡……
 
-ent-nullspaceanchor = 虚空锚
-    .desc = 将物质实体强加于虚空本身。它利用蓝空间水晶产生共振力，把栖身于状态夹缝中的存在拖入物质世界。通过这些方式移动的实体会被强行锚定在现实中，在其范围内无法再触及虚空。
+ent-nullspaceanchor = 虚无空间锚
+    .desc = 将物质实体强加于虚无空间本身。它利用蓝空间水晶产生共振力，把栖身于不同状态之间的存在拉回物质世界。以此类方式移动的实体会被强行锚定在现实中，在其作用范围内无法进入虚无空间。
 
 ent-protectionanchor = 防护锚
-    .desc = 将物质实体强加于虚空本身，把栖身于状态夹缝中的存在拖入物质世界。通过这些方式移动的实体会被强行锚定在现实中，在其范围内无法再触及虚空。
+    .desc = 将物质实体强加于虚无空间本身，把栖身于不同状态之间的存在拉回物质世界。以此类方式移动的实体会被强行锚定在现实中，在其作用范围内无法进入虚无空间。
+
 
 ent-GavelBlock = 法槌垫
-    .desc = 法槌敲的就是这个。
+    .desc = 法槌敲的就是它。
 
-ent-JawsOfLifeMed = 医疗救援钳
-    .desc = 一把救援钳，用于把伤者从他们陷入的烂摊子里拖出来。
 
-ent-JetpackSSFMarine = SSF 陆战队喷气背包
-    .desc = 为太空配发的苏维埃制式喷气背包。
+ent-JawsOfLifeMed = 医疗救生钳
+    .desc = 一套救生钳，用来把伤员从他们陷入的烂摊子里拖出来。
 
-ent-JetpackSSFMarineFilled = SSF 陆战队喷气背包
-    .desc = 为太空配发的苏维埃制式喷气背包。
 
-ent-JetpackImprovised = 简易喷气背包
-    .desc = 这是喷气背包，可容纳 1.5 升气体。
+ent-JetpackSSFMarine = SSF陆战队喷气背包
+    .desc = 配发给宇航员的苏维埃制式喷气背包。
 
-ent-JetpackImprovisedFilled = 简易喷气背包
+ent-JetpackSSFMarineFilled = SSF陆战队喷气背包
+    .desc = 配发给宇航员的苏维埃制式喷气背包。
+
+ent-JetpackImprovised = 土制喷气背包
+    .desc = 这是喷气背包，可容纳1.5升气体。
+
+ent-JetpackImprovisedFilled = 土制喷气背包
 
 ent-JetpackVoidEngineer = 工程主管虚空喷气背包
 
 ent-JetpackVoidEngineerFilled = 工程主管虚空喷气背包
 
-ent-JetpackCyborgCentcomm = 中央指挥部喷气背包
-    .desc = 赛博格专用喷气背包，可在移动中收集气体摩尔。
+ent-JetpackCyborgCentcomm = 中央指挥部赛博格喷气背包
+    .desc = 赛博格专用喷气背包，可在移动中收集气体物质的量。
+
 
 ent-DiscountDanLighter = 折扣丹打火机
-    .desc = 史上最烂的打火机，烫伤不可避免。点燃时请勿加油。
+    .desc = 史上最糟糕的打火机，烫伤在所难免；点燃时切勿补充燃料。
+
 
 ent-PirateBreakerUnlimited = 海盗破锁器
-    .desc = 被黑入的权限配置器，靠海盗诅咒和口香糖勉强固定。
+    .desc = 遭到破解的权限配置器，靠海盗的诅咒和口香糖勉强拼在一起。
+
 
 ent-Spyglass = 望远镜
-    .desc = 用于远距离窥探，让你感觉自己像个海盗。
+    .desc = 用于远距离窥探，让你觉得自己像个海盗。
 
 ent-SpyglassCaptain = 舰长望远镜
-    .desc = 用于远距离窥探，让你感觉自己像位舰长。
+    .desc = 用于远距离窥探，让你觉得自己像位舰长。
 
-ent-SpyglassImprovised = 简易望远镜
-    .desc = 用于远距离窥探，也让你担心镜片会划伤眼睛。
+ent-SpyglassImprovised = 土制望远镜
+    .desc = 用于远距离窥探，也让你担心镜片会割伤眼睛。
+
 
 ent-SyndicateDisruptor = 辛迪加干扰器
-    .desc = 呼叫电力或通讯中断等各种干扰来创造机会。每项功能都有不同的冷却时间。
+    .desc = 呼叫各种干扰来制造机会，例如切断电力或通信。每项功能都有不同的冷却时间。
 
 ent-SyndicateDisruptorSignaller = 辛迪加干扰信号器
-    .desc = 呼叫电力或通讯中断等各种干扰来创造机会。每项功能都有不同的冷却时间。
+    .desc = 呼叫各种干扰来制造机会，例如切断电力或通信。每项功能都有不同的冷却时间。
+
 
 ent-ToolboxElectricalTurretPirate = 电气工具箱
     .desc = 通常装有电气设备的工具箱。
 
-ent-WirecutterAbductor = 绑架者的剪线钳
 
-ent-ScrewdriverAbductor = 绑架者的螺丝刀
+ent-WirecutterAbductor = 绑架者钢丝钳
 
-ent-WrenchAbductor = 绑架者的扳手
+ent-ScrewdriverAbductor = 绑架者螺丝刀
 
-ent-MultitoolAbductor = 绑架者的多功能工具
+ent-WrenchAbductor = 绑架者扳手
 
-ent-CrowbarWrenchMakeshift = 临时撬棍扳手
-    .desc = 还是挺糟糕。
+ent-MultitoolAbductor = 绑架者多用工具
 
-ent-CrowbarWrenchScrewdriverMakeshift = 临时撬棍扳手螺丝刀
-    .desc = 它……有用吗？
+ent-CrowbarWrenchMakeshift = 粗制撬棍扳手
+    .desc = 还是很糟糕。
 
-ent-OmnitoolMakeshift = 临时全能工具
-    .desc = 谁能想到红色工具箱竟有这么多用途？
+ent-CrowbarWrenchScrewdriverMakeshift = 粗制撬棍扳手螺丝刀
+    .desc = 这……有用吗？
 
-ent-ScrewdriverImprovised = 简易螺丝刀
-    .desc = 一把裹着布、尖端磨利的金属。能用。
+ent-OmnitoolMakeshift = 粗制全能工具
+    .desc = 谁能想到一个红色工具箱竟然有这么多用途？
 
-ent-WirecutterImprovised = 简易剪线钳
-    .desc = 金属刚好锋利到足以剪断粗电线。
+ent-ScrewdriverImprovised = 土制螺丝刀
+    .desc = 一把金属外缠着几圈布，尖端已经磨利。能用。
 
-ent-WrenchImprovised = 简易扳手
-    .desc = 一个尺寸通吃……差不多吧。
+ent-WirecutterImprovised = 土制钢丝钳
+    .desc = 金属刃刚好锋利到足以剪断粗电线。
 
-ent-MultitoolImprovised = 简易多功能工具
-    .desc = 不怎么先进的破门工具。不然你拿它干什么？
+ent-WrenchImprovised = 土制扳手
+    .desc = 一个尺寸适配全部……大概吧。
 
-ent-OmnitoolImprovised = 简易全能工具
-    .desc = 邪恶程度仅次于伟大“绞杀者”本尊的亵渎造物。
+ent-MultitoolImprovised = 土制多用工具
+    .desc = 一种不怎么先进的破门工具。不然你带它干什么？
+
+ent-OmnitoolImprovised = 土制全能工具
+    .desc = 亵渎造物中的第二名，仅次于伟大的“绞杀者”本尊。
 
 ent-OmnitoolForged = 锻造全能工具
-    .desc = 某个彻底的疯子锯下了能找到的所有工具头，再把它们砸成一把临时电钻。考虑到它的来历，外观还挺不错。
+    .desc = 某个彻头彻尾的疯子锯下了能找到的所有工具头，再把它们砸成一把土制电钻。考虑到它的出身，卖相还不错。
 
-ent-RCDChiefEngineer = 工程主管实验型 RCD
-    .desc = 高度先进的快速建造装置，使用内部制造机即时生成压缩物质。
+ent-RCDChiefEngineer = 工程主管实验型RCD
+    .desc = 高度先进的快速建造装置，可通过内置制造器即时生成压缩物质。
 
-ent-RPD = RPD 快速管道装置
-    .desc = 用于快速铺设管道的设备。
+ent-RPD = RPD快速管道装置
+    .desc = 用于快速铺设管道的装置。
 
-ent-RPDRecharging = 实验型 RPD
-    .desc = 赛博格挂载式快速铺管装置，使用内部制造机即时生成压缩物质。
+ent-RPDRecharging = 实验型RPD快速管道装置
+    .desc = 赛博格搭载的快速管道装置，可通过内置制造器即时生成压缩物质。
 
-ent-RPDExperimental = 实验型 RPD
-    .desc = 经蓝空间强化、可被动生成压缩物质的快速铺管装置。
+ent-RPDExperimental = 实验型RPD快速管道装置
+    .desc = 经蓝空间强化的快速管道装置，可被动生成所需的压缩物质。
 
-ent-RPLD = RPLD 快速管线装置
-    .desc = 用于快速部署管道导管和机器的设备。
+ent-RPLD = RPLD快速管路装置
+    .desc = 用于快速部署管路和管路机器的装置。
 
-ent-RPLDRecharging = 实验型 RPLD
-    .desc = 赛博格挂载式快速管道装置，使用内部制造机即时生成压缩物质。
+ent-RPLDRecharging = 实验型RPLD快速管路装置
+    .desc = 赛博格搭载的快速管路装置，可通过内置制造器即时生成压缩物质。
 
-ent-RPLDExperimental = 实验型 RPLD
-    .desc = 经蓝空间强化、可被动生成压缩物质的快速管道装置。
+ent-RPLDExperimental = 实验型RPLD快速管路装置
+    .desc = 经蓝空间强化的快速管路装置，可被动生成所需的压缩物质。
 
-ent-RCDXeno = 异种赛博格 RCD
-    .desc = 异种赛博格挂载式快速建造装置，使用内部制造机即时生成压缩物质。
+ent-RCDXeno = 异种赛博格RCD
+    .desc = 异种赛博格搭载的快速建造装置，可通过内置制造器即时生成压缩物质。
 
-ent-WirecuttersInvisible = 隐形剪线钳
-    .desc = 剪断隐形门讨厌电线的完美隐形装备！不含绝缘层。
+
+ent-WirecuttersInvisible = 隐形钢丝钳
+    .desc = 剪断那扇隐形门上讨厌电线的完美隐形装备！不附带绝缘层。
 
 ent-ScrewdriverInvisible = 隐形螺丝刀
     .desc = 来吧，打开那块隐形维护面板。
 
 ent-WrenchInvisible = 隐形扳手
-    .desc = 锚定那台隐形机器，让所有人刮目相看！
+    .desc = 固定那台隐形机器，让所有人都刮目相看！
 
 ent-CrowbarInvisible = 隐形撬棍
-    .desc = 既然可以撬，何必默默流泪！
+    .desc = 既然可以悄悄撬开，何必默默流泪！
 
-ent-MultitoolInvisible = 隐形多功能工具
-    .desc = 脉冲、脉冲、脉冲——等等，我还以为它应该悄无声息？
+ent-MultitoolInvisible = 隐形多用工具
+    .desc = 脉冲、脉冲、脉冲——等等，它不该是无声的吗？
 
 ent-WelderInvisible = 隐形焊接工具
-    .desc = 尽管它是隐形的，你不知为何还是需要保护眼睛。
+    .desc = 尽管它是隐形的，你还是得保护眼睛。不知为何。
 
 ent-ToolboxInvisible = 隐形工具箱
     .desc = 装载隐形装备的完美隐形容器！
 
 ent-ToolboxInvisibleFilled = 隐形工具箱
 
-ent-Cartridge50mmRocket = 50mm 火箭弹
-    .desc = 为 ADMP-27 VESPERA 穿梭机炮系统设计的 50 毫米火箭弹。比标准 RPG 弹药更小更轻，但威力依旧不俗。
 
-ent-Magazine50mmRocket = 50mm 火箭弹 弹匣
-    .desc = 为 ADMP-27 VESPERA 穿梭机炮系统准备的 26 发大容量弹匣，装有 60 毫米火箭弹。
+ent-Cartridge50mmRocket = 50毫米火箭弹
+    .desc = 为ADMP-27“维斯佩拉”穿梭机火炮系统设计的50毫米火箭弹。比标准RPG弹药更小更轻，但威力依然不俗。
 
-ent-Magazine50mmRocketEmpty = 50mm 火箭弹 弹匣 (空)
+ent-Magazine50mmRocket = 50毫米火箭弹弹匣
+    .desc = 为ADMP-27“维斯佩拉”穿梭机火炮系统配备的26发大容量弹匣，装填60毫米火箭弹。
 
-ent-Bullet60mmRocketEMP = EMP 火箭弹
+ent-Magazine50mmRocketEmpty = 50毫米火箭弹弹匣（空）
 
-ent-CartridgeRocketEMP = EMP 火箭榴弹
-    .desc = 为 RPG-7 发射器设计的 PG-7 EMP 弹头。命中时释放聚焦电磁脉冲，干扰电子设备和供电系统而不造成结构损伤。不会爆炸。
 
-ent-GrenadeEMPTarnyx = EMP 炮射榴弹
-    .desc = 为 SSG-TARNYX 炮设计的大型 EMP 榴弹。命中时释放强力电磁脉冲，大范围干扰舰船电子设备，不会造成结构损伤。
+ent-Bullet60mmRocketEMP = EMP火箭弹
 
-ent-BulletGrenadeEMPTarnyx = EMP 炮弹
+ent-CartridgeRocketEMP = EMP火箭榴弹
+    .desc = 为RPG-7发射器设计的PG-7 EMP弹头。命中时释放聚焦电磁脉冲，干扰电子设备和电力系统，但不会造成结构损伤，也不会爆炸。
 
-ent-MagazineBoxBattery = 弹药盒 (激光)
-    .desc = 一盒纸板包装的激光弹药，用于装载通用动能弹药。
+ent-GrenadeEMPTarnyx = EMP炮射榴弹
+    .desc = 为SSG-塔尼克斯火炮设计的大型EMP榴弹。命中时释放强力电磁脉冲，大范围干扰舰船电子设备，但不会造成结构损伤。
 
-ent-BaseMagazineBoxImprovised = 简易弹药盒 (.any)
-    .desc = 看起来很像一个 .20 弹匣盒，上面粗糙地画着子弹。不建议混装弹药。
+ent-BulletGrenadeEMPTarnyx = EMP炮弹
 
-ent-MagazineBoxImprovisedPistol = 简易弹药盒 (.35 auto improvised)
 
-ent-MagazineBoxImprovisedRifle = 简易弹药盒 (.30 rifle improvised)
+ent-MagazineBoxBattery = 弹药盒（激光）
+    .desc = 一盒纸板包装的激光弹。本应装填通用动能弹药。
 
-ent-MagazineBoxImprovisedMagnum = 简易弹药盒 (.45 magnum improvised)
 
-ent-MagazineBoxImprovisedShotgun = 12 gauge improvised 鹿弹 box
+ent-BaseMagazineBoxImprovised = 土制混装弹药盒
+    .desc = 看起来很像一只.20弹匣盒，顶部还粗糙地画着一颗子弹。不建议混装弹药。
 
-ent-MagazineBoxLightRifleRubber = 弹药盒 (.30 rifle 橡胶)
+ent-MagazineBoxImprovisedPistol = 土制弹药盒（.35自动土制）
 
-ent-MagazineBoxMagnumRubber = 弹药盒 (.45 magnum 橡胶)
+ent-MagazineBoxImprovisedRifle = 土制弹药盒（.30步枪土制）
 
-ent-MagazineBoxMagnumFMJ = 弹药盒 (.45 magnum FMJ)
+ent-MagazineBoxImprovisedMagnum = 土制弹药盒（.45马格南土制）
 
-ent-BasePeacekeeperBox = 榴弹 弹药
+ent-MagazineBoxImprovisedShotgun = 12号土制鹿弹盒
 
-ent-BoxPeacekeeperFlash = 和平卫士闪光弹药盒
-    .desc = 一盒和平卫士闪光弹，适合追上逃跑的恶徒或驱散人群。
 
-ent-BoxPeacekeeperStinger = 和平卫士刺弹药盒
-    .desc = 一盒和平卫士刺弹，非常适合驱散人群和招来诉讼。
+ent-MagazineBoxLightRifleRubber = 弹药盒（.30步枪橡胶）
 
-ent-BoxPeacekeeperGas = 和平卫士催泪瓦斯弹药盒
-    .desc = 一盒和平卫士催泪瓦斯弹，标签上用红色大字写着“别忘了内供气”。
 
-ent-BoxPeacekeeperBaton = 和平卫士警棍弹药盒
-    .desc = 一盒和平卫士低致命警棍弹。别忘了“低”意味着它仍能杀人，只是不那么容易。
+ent-MagazineBoxMagnumRubber = 弹药盒（.45马格南橡胶）
 
-ent-MagazineBoxPistolRubber = 弹药盒 (.35 auto 橡胶)
+ent-MagazineBoxMagnumFMJ = 弹药盒（.45马格南FMJ）
 
-ent-BaseMagazineBoxPistol40 = 弹药盒 (.40)
 
-ent-MagazineBoxPistol40SP = 弹药盒 (.40 SP)
+ent-BasePeacekeeperBox = 基础榴弹弹药
 
-ent-MagazineBoxPistol40HP = 弹药盒 (.40 HP)
+ent-BoxPeacekeeperFlash = “维和者”闪光榴弹盒
+    .desc = 一盒供“维和者”使用的闪光榴弹，适合追赶逃跑的恶徒或驱散人群。
 
-ent-MagazineBoxPistol40FMJ = 弹药盒 (.40 FMJ)
+ent-BoxPeacekeeperStinger = “维和者”橡胶弹榴弹盒
+    .desc = 一盒供“维和者”使用的橡胶弹榴弹，非常适合驱散人群和招来诉讼。
 
-ent-MagazineBoxPistol40AP = 弹药盒 (.40 AP)
+ent-BoxPeacekeeperGas = “维和者”催泪瓦斯榴弹盒
+    .desc = 一盒供“维和者”使用的催泪瓦斯榴弹，标签上用红色大字写着“别忘了内循环供气！”
 
-ent-MagazineBoxPistolFMJ = 弹药盒 (.35 auto FMJ)
+ent-BoxPeacekeeperBaton = “维和者”警棍榴弹盒
+    .desc = 一盒供“维和者”使用的低致命性警棍榴弹。别忘了，“低”致命仍然能杀人，只是没那么容易。
 
-ent-MagazineBoxPistolAP = 弹药盒 (.35 auto AP)
 
-ent-MagazineBoxRifleBigRubber = 弹药盒 (.20 rifle 橡胶)
+ent-MagazineBoxPistolRubber = 弹药盒（.35自动橡胶）
 
-ent-MagazineBoxRifleRubber = 弹药盒 (.20 rifle 橡胶)
+ent-BaseMagazineBoxPistol40 = 弹药盒（.40）
 
-ent-MagazineBoxRifleFMJ = 弹药盒 (.20 rifle FMJ)
+ent-MagazineBoxPistol40SP = 弹药盒（.40SP）
 
-ent-MagazineBoxRifleAP = 弹药盒 (.20 rifle AP)
+ent-MagazineBoxPistol40HP = 弹药盒（.40HP）
 
-ent-BoxLethalshotTozOpen = 20 gauge 弹丸 弹药盒
-    .desc = 已经打开，随时可用。
+ent-MagazineBoxPistol40FMJ = 弹药盒（.40FMJ）
 
-ent-BoxLethalshotToz = 20 gauge 弹丸 弹药盒
-    .desc = 包装上几乎无法辨认的文字说应该用刀打开，但它太廉价了，直接撕开就行。
+ent-MagazineBoxPistol40AP = 弹药盒（.40AP）
 
-ent-BaseCartridgeBattery = 弹药 (激光)
+ent-MagazineBoxPistolFMJ = 弹药盒（.35自动FMJ）
 
-ent-CartridgeBattery = 弹药 (激光)
+ent-MagazineBoxPistolAP = 弹药盒（.35自动AP）
 
-ent-Cartridge48Rifle = 弹药 (.48 rifle)
-    .desc = 来源不明的重型中间威力弹，介于马格南弹和反器材弹之间。专用弹药——别指望能在货架上找到。
 
-ent-SpeedLoader48Rifle = 快速装弹器 (.48 rifle)
-    .desc = 预装 .48 步枪弹的弹夹条，可直接装填狮猎者的内置弹仓。专用且难以获取。
+ent-MagazineBoxRifleBigRubber = 弹药盒（.20步枪橡胶）
 
-ent-CartridgeCaselessRifleRubber = 弹药 (.25 caseless 橡胶)
+ent-MagazineBoxRifleRubber = 弹药盒（.20步枪橡胶）
 
-ent-CartridgePistolFoam = 弹药 (.35 auto foam)
-    .desc = 一枚塞着泡沫飞镖的 .35 自动弹壳。装填它的人幽默感很独特。
+ent-MagazineBoxRifleFMJ = 弹药盒（.20步枪FMJ）
 
-ent-CartridgeRifleFoam = 弹药 (.20 rifle foam)
-    .desc = 内装泡沫飞镖的步枪弹壳。某人对弹药经济有非常独特的见解。
+ent-MagazineBoxRifleAP = 弹药盒（.20步枪AP）
 
-ent-CartridgeLightRifleFoam = 弹药 (.30 light rifle foam)
-    .desc = 带泡沫飞镖弹头的轻步枪弹。以这样的速度命中，还是会留下瘀伤。
 
-ent-CartridgeCaselessRifleFoam = 弹药 (.25 caseless foam)
-    .desc = 尖端熔接泡沫飞镖的无壳推进剂块。工程设计很可疑，但严格来说确实是弹丸。
+ent-BoxLethalshotTozOpen = 20号霰弹弹药盒
+    .desc = 已经打开，可以直接使用。
 
-ent-CartridgeLightRifleRubber = 弹药 (.30 rifle 橡胶)
+ent-BoxLethalshotToz = 20号霰弹弹药盒
+    .desc = 包装上几乎无法辨认的文字说应该用刀打开，不过它便宜得直接撕开也行。
 
-ent-CartridgeLightRifleImprovised = 简易弹药 (.30 rifle)
-    .desc = 手工步枪弹，以磷代替火药作为推进剂，因此效力低得多。
 
-ent-CartridgeLightRifleHP = 弹药 (.30 rifle HP)
+ent-BaseCartridgeBattery = 弹药（激光）
 
-ent-CartridgeLightRifleFMJ = 弹药 (.30 rifle FMJ)
+ent-CartridgeBattery = 弹药（激光）
 
-ent-CartridgeLightRifleAP = 弹药 (.30 rifle AP)
 
-ent-CartridgeMagnumRubber = 弹药 (.45 magnum 橡胶)
+ent-Cartridge48Rifle = 弹药（.48步枪）
+    .desc = 来历不明的重型中间威力弹，威力介于马格南弹与反器材弹之间。专用弹药——别指望能在货架上找到。
 
-ent-CartridgeMagnumImprovised = 简易弹药 (.45 magnum)
-    .desc = 手工左轮弹，塞满磷以增强“劲头”，但仍不如普通马格南弹。
+ent-SpeedLoader48Rifle = 快速装弹器（.48步枪）
+    .desc = 预装.48步枪弹的桥夹，可直接为“猎狮者”的内置弹仓供弹。属于难以获得的专用弹药。
 
-ent-CartridgeMagnumHP = 弹药 (.45 magnum HP)
-    .desc = 主要供左轮手枪使用的重型马格南弹。粉笔弹通常无害，用于练习。
 
-ent-CartridgeMagnumFMJ = 弹药 (.45 magnum FMJ)
-    .desc = 主要供左轮手枪使用的重型马格南弹。燃烧弹含有自燃化合物，会点燃目标。
+ent-CartridgeCaselessRifleRubber = 弹药（.25无壳橡胶）
 
-ent-CartridgePistolRubber = 弹药 (.35 auto 橡胶)
 
-ent-CartridgePistol40SP = 弹药 (.40 SP)
+ent-CartridgePistolFoam = 弹药（.35自动泡沫）
+    .desc = 一枚.35自动弹壳里塞着泡沫飞镖。装填它的人有种非常独特的幽默感。
 
-ent-CartridgePistol40HP = 弹药 (.40 HP)
+ent-CartridgeRifleFoam = 弹药（.20步枪泡沫）
+    .desc = 步枪弹壳里装着泡沫飞镖。有人对节约弹药有着非常具体的想法。
 
-ent-CartridgePistol40FMJ = 弹药 (.40 FMJ)
+ent-CartridgeLightRifleFoam = 弹药（.30轻型步枪泡沫）
+    .desc = 装有泡沫镖头的轻步枪弹。以这种速度飞来，照样会留下淤青。
 
-ent-CartridgePistol40AP = 弹药 (.40 AP)
+ent-CartridgeCaselessRifleFoam = 弹药（.25无壳泡沫）
+    .desc = 无壳发射药块的前端熔接着泡沫飞镖。这设计很可疑，但严格来说确实算弹丸。
 
-ent-CartridgePistolImprovised = 简易弹药 (.35 auto)
-    .desc = 手工手枪弹，以磷代替火药作为推进剂，因此效力低得多。
 
-ent-CartridgePistolHP = 弹药 (.35 auto HP)
+ent-CartridgeLightRifleRubber = 弹药（.30步枪橡胶）
 
-ent-CartridgePistolFMJ = 弹药 (.35 auto FMJ)
+ent-CartridgeLightRifleImprovised = 土制弹药（.30步枪）
+    .desc = 手工制作的步枪弹，以磷代替火药作为发射药，因此效能低得多。
 
-ent-CartridgePistolAP = 弹药 (.35 auto AP)
+ent-CartridgeLightRifleHP = 弹药（.30步枪HP）
 
-ent-CartridgeRifleRubber = 弹药 (.20 rifle 橡胶)
+ent-CartridgeLightRifleFMJ = 弹药（.30步枪FMJ）
 
-ent-CartridgeRifleHP = 弹药 (.20 rifle HP)
-    .desc = 战斗步枪使用的现代中间威力弹。标准动能弹药常见，在大多数情况下都很实用。
+ent-CartridgeLightRifleAP = 弹药（.30步枪AP）
 
-ent-CartridgeRifleFMJ = 弹药 (.20 rifle FMJ)
 
-ent-CartridgeRifleAP = 弹药 (.20 rifle AP)
+ent-CartridgeMagnumRubber = 弹药（.45马格南橡胶）
 
-ent-BoxShotgunBirdshot = 盒装 12 gauge 鸟弹
-    .desc = 一纸盒装有细小鸟弹的 12 号霰弹。散布广、射程短，深受 GA-6“獠牙”青睐。
+ent-CartridgeMagnumImprovised = 土制弹药（.45马格南）
+    .desc = 手工制作的左轮弹，为了增添“劲头”塞满了磷，但仍不如普通马格南弹。
 
-ent-ShellShotgunBirdshot = 12 gauge 鸟弹
-    .desc = 装有数十颗微小弹丸的广散布霰弹。近距离毁灭性强，远距离几乎无用。GA-6“獠牙”的制式弹药。
+ent-CartridgeMagnumHP = 弹药（.45马格南HP）
+    .desc = 主要用于左轮枪的重型马格南弹。粉笔训练弹通常无害，用于练习。
 
-ent-BaseShellShotgunToz = 20 gauge 霰弹
+ent-CartridgeMagnumFMJ = 弹药（.45马格南FMJ）
+    .desc = 主要用于左轮枪的重型马格南弹。燃烧弹含有自燃化合物，可点燃目标。
 
-ent-ShellShotgunToz = 20 gauge 霰弹
 
-ent-ShellShotgunBreaching = 12 gauge 破门弹
+ent-CartridgePistolRubber = 弹药（.35自动橡胶）
 
-ent-BaseMagazineBattery = 弹匣 (激光)
+ent-CartridgePistol40SP = 弹药（.40SP）
 
-ent-MagazineBatteryLr30 = 弹匣 (激光)
+ent-CartridgePistol40HP = 弹药（.40HP）
 
-ent-MagazineCaselessRifleRubber = 手枪弹匣 (.25 caseless 橡胶)
+ent-CartridgePistol40FMJ = 弹药（.40FMJ）
 
-ent-MagazineLightRifleRubber = 弹匣 (.30 rifle 橡胶)
+ent-CartridgePistol40AP = 弹药（.40AP）
 
-ent-MagazineLightRifleHP = 弹匣 (.30 rifle HP)
-    .desc = 战斗步枪使用的 30 发弯曲双排弹匣，用于装载通用动能弹药。
+ent-CartridgePistolImprovised = 土制弹药（.35自动）
+    .desc = 手工制作的手枪弹，以磷代替火药作为发射药，因此效能低得多。
 
-ent-MagazineLightRifleFMJ = 弹匣 (.30 rifle FMJ)
+ent-CartridgePistolHP = 弹药（.35自动HP）
 
-ent-MagazineLightRifleAP = 弹匣 (.30 rifle AP)
+ent-CartridgePistolFMJ = 弹药（.35自动FMJ）
 
-ent-MagazineLightRifleMaxim = pan 弹匣 (.30 rifle)
+ent-CartridgePistolAP = 弹药（.35自动AP）
 
-ent-MagazineLightRiflePkBox = PK 弹药盒（.30 步枪）
 
-ent-LightRifleHeavyBase = .30 弹匣盒
+ent-CartridgeRifleRubber = 弹药（.20步枪橡胶）
 
-ent-LightRifleHeavyMagazineEmpty = 弹匣盒 (.30 rifle any)
+ent-CartridgeRifleHP = 弹药（.20步枪HP）
+    .desc = 用于战斗步枪的现代中间威力弹。标准动能弹药常见且适用于大多数情况。
 
-ent-LightRifleHeavyMagazineSP = 弹匣盒 (.30 rifle SP)
+ent-CartridgeRifleFMJ = 弹药（.20步枪FMJ）
 
-ent-LightRifleHeavyMagazineHP = 弹匣盒 (.30 rifle HP)
+ent-CartridgeRifleAP = 弹药（.20步枪AP）
 
-ent-LightRifleHeavyMagazineFMJ = 弹匣盒 (.30 rifle FMJ)
 
-ent-LightRifleHeavyMagazineIncendiary = 弹匣盒 (.30 rifle 燃烧)
+ent-BoxShotgunBirdshot = 12号鸟弹盒
+    .desc = 一纸盒装填细小鸟弹丸的12号霰弹。散布广、射程短，是GA-6“獠牙”的常用弹药。
 
-ent-LightRifleHeavyMagazineUranium = 弹匣盒 (.30 rifle 铀芯)
+ent-ShellShotgunBirdshot = 12号鸟弹
+    .desc = 装有数十颗微小弹丸、散布极广的霰弹。近距离威力惊人，远距离几乎无用。GA-6“獠牙”的制式弹药。
 
-ent-LightRifleHeavyMagazineAP = 弹匣盒 (.30 rifle AP)
+ent-BaseShellShotgunToz = 20号霰弹
 
-ent-BaseMagazineMagnum = 手枪弹匣 (.45 magnum)
+ent-ShellShotgunToz = 20号霰弹
 
-ent-BaseMagazineMagnumSubMachineGun = 冲锋枪弹匣 (.45 magnum)
+ent-ShellShotgunBreaching = 12号破门弹
 
-ent-MagazineMagnumEmpty = 手枪弹匣 (.45 magnum any)
-    .desc = 7 发单排手枪弹匣。
 
-ent-MagazineMagnum = 手枪弹匣 (.45 magnum)
-    .desc = 7 发单排手枪弹匣，用于装载通用动能弹药。
+ent-BaseMagazineBattery = 弹匣（激光）
 
-ent-MagazineMagnumPractice = 手枪弹匣 (.45 magnum 训练)
-    .desc = 7 发单排手枪弹匣，用于装载无害的粉笔训练弹。
+ent-MagazineBatteryLr30 = 弹匣（激光）
 
-ent-MagazineMagnumUranium = 手枪弹匣 (.45 magnum 铀芯)
-    .desc = 7 发单排手枪弹匣，用于装载特殊铀芯弹药。
 
-ent-MagazineMagnumAP = 手枪弹匣 (.45 magnum 穿甲)
-    .desc = 7 发单排手枪弹匣，用于装载稀有穿甲弹药。
+ent-MagazineCaselessRifleRubber = 手枪弹匣（.25无壳橡胶）
 
-ent-MagazineMagnumSubMachineGunEmpty = 冲锋枪弹匣 (.45 magnum any)
 
-ent-MagazineMagnumSubMachineGun = 冲锋枪弹匣 (.45 magnum)
+ent-MagazineLightRifleRubber = 弹匣（.30步枪橡胶）
 
-ent-MagazineMagnumSubMachineGunPractice = 冲锋枪弹匣 (.45 magnum 训练)
+ent-MagazineLightRifleHP = 弹匣（.30步枪HP）
+    .desc = 战斗步枪用30发弧形双排弹匣，用于装填通用动能弹药。
 
-ent-MagazineMagnumSubMachineGunUranium = 冲锋枪弹匣 (.45 magnum 铀芯)
+ent-MagazineLightRifleFMJ = 弹匣（.30步枪FMJ）
 
-ent-MagazineMagnumSubMachineGunPiercing = 冲锋枪弹匣 (.45 magnum 穿甲)
+ent-MagazineLightRifleAP = 弹匣（.30步枪AP）
 
-ent-MagazineMagnumRubber = 手枪弹匣 (.45 magnum 橡胶)
+ent-MagazineLightRifleMaxim = 盘式弹匣（.30步枪）
 
-ent-MagazineMagnumSubMachineGunRubber = Vector 弹匣 (.45 magnum 橡胶)
+ent-MagazineLightRiflePkBox = PK弹药箱（.30步枪）
 
-ent-MagazineMagnumRifleSP = 步枪弹匣 (.45 magnum)
 
-ent-MagazineDMRSP = 精确射手步枪弹匣 (.45 magnum SP)
+ent-LightRifleHeavyBase = .30弹匣盒
 
-ent-MagazineDMRHP = 精确射手步枪弹匣 (.45 magnum HP)
+ent-LightRifleHeavyMagazineEmpty = 弹匣盒（.30步枪任意）
 
-ent-MagazineDMRFMJ = 精确射手步枪弹匣 (.45 magnum FMJ)
+ent-LightRifleHeavyMagazineSP = 弹匣盒（.30步枪SP）
 
-ent-MagazineDMRAP = 精确射手步枪弹匣 (.45 magnum AP)
+ent-LightRifleHeavyMagazineHP = 弹匣盒（.30步枪HP）
 
-ent-MagazineDMREmpty = 精确射手步枪弹匣 (.45 magnum any)
+ent-LightRifleHeavyMagazineFMJ = 弹匣盒（.30步枪FMJ）
 
-ent-MagazineDMRIncendiary = 精确射手步枪弹匣 (.45 magnum 燃烧)
+ent-LightRifleHeavyMagazineIncendiary = 弹匣盒（.30步枪燃烧）
 
-ent-MagazineDMRPractice = 精确射手步枪弹匣 (.45 magnum 训练)
+ent-LightRifleHeavyMagazineUranium = 弹匣盒（.30步枪铀芯）
 
-ent-MagazineDMRUranium = 精确射手步枪弹匣 (.45 magnum 铀芯)
+ent-LightRifleHeavyMagazineAP = 弹匣盒（.30步枪AP）
 
-ent-MagazineDMRRubber = 精确射手步枪弹匣 (.45 magnum 橡胶)
 
-ent-BaseMagazinePistol = 手枪弹匣 (.35 auto)
+ent-BaseMagazineMagnum = 手枪弹匣（.45马格南）
 
-ent-BaseMagazinePistolGolden = 金色手枪弹匣 (.35 auto)
+ent-BaseMagazineMagnumSubMachineGun = 冲锋枪弹匣（.45马格南）
 
-ent-BaseMagazinePistolHighCapacity = 加长手枪弹匣 (.35 auto)
+ent-MagazineMagnumEmpty = 手枪弹匣（.45马格南任意）
+    .desc = 7发单排手枪弹匣。
 
-ent-BaseMagazinePistolHighCapacityGolden = 金色加长手枪弹匣 (.35 auto)
+ent-MagazineMagnum = 手枪弹匣（.45马格南）
+    .desc = 7发单排手枪弹匣，用于装填通用动能弹药。
 
-ent-MagazinePistolSubMachineGunTopMounted = WT550 弹匣 (.35 auto top-mounted)
-    .desc = WT550 冲锋枪使用的非常规 30 发顶部供弹弹匣，用于装载通用动能弹药。
+ent-MagazineMagnumPractice = 手枪弹匣（.45马格南训练）
+    .desc = 7发单排手枪弹匣，用于装填无害的粉笔训练弹。
 
-ent-MagazinePistolSubMachineGunTopMountedFMJ = WT550 弹匣 (.35 FMJ auto top-mounted)
-    .desc = WT550 冲锋枪使用的非常规 30 发顶部供弹弹匣，用于装载通用动能弹药。这一个装有全金属被甲弹。
+ent-MagazineMagnumUranium = 手枪弹匣（.45马格南铀芯）
+    .desc = 7发单排手枪弹匣，用于装填特殊铀芯弹药。
 
-ent-MagazinePistolSubMachineGunTopMountedHP = WT550 弹匣 (.35 HP auto top-mounted)
-    .desc = WT550 冲锋枪使用的非常规 30 发顶部供弹弹匣，用于装载通用动能弹药。这一个装有空尖弹。
+ent-MagazineMagnumAP = 手枪弹匣（.45马格南穿甲）
+    .desc = 7发单排手枪弹匣，用于装填稀有穿甲弹药。
 
-ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550 弹匣 (.35 auto top-mounted any)
-    .desc = WT550 冲锋枪使用的非常规 30 发顶部供弹弹匣。
+ent-MagazineMagnumSubMachineGunEmpty = 冲锋枪弹匣（.45马格南任意）
 
-ent-MagazinePistolEmpty = 手枪弹匣 (.35 auto any)
+ent-MagazineMagnumSubMachineGun = 冲锋枪弹匣（.45马格南）
 
-ent-MagazinePistolEmptyGolden = 金色手枪弹匣 (.35 auto any)
+ent-MagazineMagnumSubMachineGunPractice = 冲锋枪弹匣（.45马格南训练）
 
-ent-MagazinePistolSP = 手枪弹匣 (.35 auto SP)
-    .desc = 手枪使用的 10 发单排弹匣，用于装载通用动能弹药。
+ent-MagazineMagnumSubMachineGunUranium = 冲锋枪弹匣（.45马格南铀芯）
 
-ent-MagazinePistolSPGolden = 金色手枪弹匣 (.35 auto SP)
-    .desc = 手枪使用的 10 发单排弹匣，采用金色外壳。
+ent-MagazineMagnumSubMachineGunPiercing = 冲锋枪弹匣（.45马格南穿甲）
 
-ent-MagazinePistolHP = 手枪弹匣 (.35 auto HP)
+ent-MagazineMagnumRubber = 手枪弹匣（.45马格南橡胶）
 
-ent-MagazinePistolFMJ = 手枪弹匣 (.35 auto FMJ)
+ent-MagazineMagnumSubMachineGunRubber = 维克托弹匣（.45马格南橡胶）
 
-ent-MagazinePistolAP = 手枪弹匣 (.35 auto AP)
+ent-MagazineMagnumRifleSP = 步枪弹匣（.45马格南）
 
-ent-MagazinePistolIncendiary = 手枪弹匣 (.35 auto 燃烧)
+ent-MagazineDMRSP = 精确射手步枪弹匣（.45马格南SP）
 
-ent-MagazinePistolPractice = 手枪弹匣 (.35 auto 训练)
-    .desc = 手枪使用的 10 发单排弹匣，用于装载无害的粉笔训练弹。
+ent-MagazineDMRHP = 精确射手步枪弹匣（.45马格南HP）
 
-ent-MagazinePistolUranium = 手枪弹匣 (.35 auto 铀芯)
-    .desc = 手枪使用的 10 发单排弹匣，用于装载特殊铀芯弹药。
+ent-MagazineDMRFMJ = 精确射手步枪弹匣（.45马格南FMJ）
 
-ent-MagazinePistolRubber = 手枪弹匣 (.35 auto 橡胶)
+ent-MagazineDMRAP = 精确射手步枪弹匣（.45马格南AP）
 
-ent-MagazinePistolImprovised = 简易手枪弹匣 (.35)
+ent-MagazineDMREmpty = 精确射手步枪弹匣（.45马格南任意）
 
-ent-MagazinePistolHighCapacityEmpty = 加长手枪弹匣 (.35 auto any)
+ent-MagazineDMRIncendiary = 精确射手步枪弹匣（.45马格南燃烧）
 
-ent-MagazinePistolHighCapacityEmptyGolden = 金色加长手枪弹匣 (.35 auto any)
+ent-MagazineDMRPractice = 精确射手步枪弹匣（.45马格南训练）
 
-ent-MagazinePistolHighCapacitySP = 加长手枪弹匣 (.35 auto SP)
+ent-MagazineDMRUranium = 精确射手步枪弹匣（.45马格南铀芯）
 
-ent-MagazinePistolHighCapacitySPGolden = 金色加长手枪弹匣 (.35 auto SP)
+ent-MagazineDMRRubber = 精确射手步枪弹匣（.45马格南橡胶）
 
-ent-MagazinePistolHighCapacityHP = 加长手枪弹匣 (.35 auto HP)
 
-ent-MagazinePistolHighCapacityFMJ = 加长手枪弹匣 (.35 auto FMJ)
+ent-BaseMagazinePistol = 手枪弹匣（.35自动）
 
-ent-MagazinePistolHighCapacityAP = 加长手枪弹匣 (.35 auto AP)
+ent-BaseMagazinePistolGolden = 黄金手枪弹匣（.35自动）
 
-ent-MagazinePistolHighCapacityPractice = 加长手枪弹匣 (.35 auto 训练)
+ent-BaseMagazinePistolHighCapacity = 扩容手枪弹匣（.35自动）
 
-ent-MagazinePistolHighCapacityRubber = 加长手枪弹匣 (.35 auto 橡胶)
+ent-BaseMagazinePistolHighCapacityGolden = 黄金扩容手枪弹匣（.35自动）
 
-ent-MagazinePistolHighCapacityIncendiary = 加长手枪弹匣 (.35 auto 燃烧)
+ent-MagazinePistolSubMachineGunTopMounted = WT550弹匣（.35自动顶部供弹）
+    .desc = WT550冲锋枪使用的非常规30发顶部供弹弹匣，用于装填通用动能弹药。
 
-ent-MagazinePistolHighCapacityUranium = 加长手枪弹匣 (.35 auto 铀芯)
+ent-MagazinePistolSubMachineGunTopMountedFMJ = WT550弹匣（.35FMJ自动顶部供弹）
+    .desc = WT550冲锋枪使用的非常规30发顶部供弹弹匣，用于装填通用动能弹药。这一只装有FMJ全金属被甲弹。
 
-ent-MagazinePistolSubMachineGunEmpty = 冲锋枪弹匣 (.35 auto any)
+ent-MagazinePistolSubMachineGunTopMountedHP = WT550弹匣（.35HP自动顶部供弹）
+    .desc = WT550冲锋枪使用的非常规30发顶部供弹弹匣，用于装填通用动能弹药。这一只装有HP空尖弹。
 
-ent-MagazinePistolSubMachineGunSP = 冲锋枪弹匣 (.35 auto SP)
-    .desc = 冲锋枪使用的 30 发双排弹匣，用于装载通用动能弹药。
+ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550弹匣（.35自动顶部供弹任意）
+    .desc = WT550冲锋枪使用的非常规30发顶部供弹弹匣。
 
-ent-MagazinePistolSubMachineGunHP = 冲锋枪弹匣 (.35 auto HP)
-    .desc = 冲锋枪使用的 30 发双排弹匣。
+ent-MagazinePistolEmpty = 手枪弹匣（.35自动任意）
 
-ent-MagazinePistolSubMachineGunFMJ = 冲锋枪弹匣 (.35 auto FMJ)
+ent-MagazinePistolEmptyGolden = 黄金手枪弹匣（.35自动任意）
 
-ent-MagazinePistolSubMachineGunAP = 冲锋枪弹匣 (.35 auto AP)
+ent-MagazinePistolSP = 手枪弹匣（.35自动SP）
+    .desc = 手枪用10发单排弹匣，用于装填通用动能弹药。
 
-ent-MagazinePistolSubMachineGunPractice = 冲锋枪弹匣 (.35 auto 训练)
-    .desc = 冲锋枪使用的 30 发双排弹匣，用于装载无害的粉笔训练弹。
+ent-MagazinePistolSPGolden = 黄金手枪弹匣（.35自动SP）
+    .desc = 手枪用10发单排弹匣，弹匣外壳为金色。
 
-ent-MagazinePistolSubMachineGunUranium = 冲锋枪弹匣 (.35 auto 铀芯)
-    .desc = 冲锋枪使用的 30 发双排弹匣，用于装载特殊铀芯弹药。
+ent-MagazinePistolHP = 手枪弹匣（.35自动HP）
 
-ent-MagazinePistolSubMachineGunIncendiary = 冲锋枪弹匣 (.35 auto 燃烧)
-    .desc = 冲锋枪使用的 30 发双排弹匣，用于装载自燃式燃烧弹药。
+ent-MagazinePistolFMJ = 手枪弹匣（.35自动FMJ）
 
-ent-MagazinePistolSubMachineGunRubber = 冲锋枪弹匣 (.35 auto 橡胶)
+ent-MagazinePistolAP = 手枪弹匣（.35自动AP）
 
-ent-MagazinePistolSubMachineGunUzi = Uzi 弹匣 (.35 auto)
+ent-MagazinePistolIncendiary = 手枪弹匣（.35自动燃烧）
 
-ent-MagazinePistolSubMachineGunImprovised = improvised 冲锋枪弹匣 (.35 auto)
+ent-MagazinePistolPractice = 手枪弹匣（.35自动训练）
+    .desc = 手枪用10发单排弹匣，用于装填无害的粉笔训练弹。
 
-ent-MagazinePistolSubMachineGunPPSH = PPSH 弹匣
+ent-MagazinePistolUranium = 手枪弹匣（.35自动铀芯）
+    .desc = 手枪用10发单排弹匣，用于装填特殊铀芯弹药。
 
-ent-MagazinePistol40Base = 手枪弹匣（.40）
+ent-MagazinePistolRubber = 手枪弹匣（.35自动橡胶）
 
-ent-MagazinePistol40Empty = 手枪弹匣（.40 任意）
+ent-MagazinePistolImprovised = 土制手枪弹匣（.35）
 
-ent-MagazinePistol40SP = 手枪弹匣（.40 SP）
+ent-MagazinePistolHighCapacityEmpty = 扩容手枪弹匣（.35自动任意）
 
-ent-MagazinePistol40HP = 手枪弹匣（.40 HP）
+ent-MagazinePistolHighCapacityEmptyGolden = 黄金扩容手枪弹匣（.35自动任意）
 
-ent-MagazinePistol40FMJ = 手枪弹匣（.40 FMJ）
+ent-MagazinePistolHighCapacitySP = 扩容手枪弹匣（.35自动SP）
 
-ent-MagazinePistol40AP = 手枪弹匣（.40 AP）
+ent-MagazinePistolHighCapacitySPGolden = 黄金扩容手枪弹匣（.35自动SP）
 
-ent-BaseMagazineRifle = 弹匣 (.20 rifle)
+ent-MagazinePistolHighCapacityHP = 扩容手枪弹匣（.35自动HP）
 
-ent-MagazineRifleSP = 弹匣 (.20 rifle SP)
+ent-MagazinePistolHighCapacityFMJ = 扩容手枪弹匣（.35自动FMJ）
 
-ent-MagazineRifleHP = 弹匣 (.20 rifle HP)
+ent-MagazinePistolHighCapacityAP = 扩容手枪弹匣（.35自动AP）
 
-ent-MagazineRifleFMJ = 弹匣 (.20 rifle FMJ)
+ent-MagazinePistolHighCapacityPractice = 扩容手枪弹匣（.35自动训练）
 
-ent-MagazineRifleAP = 弹匣 (.20 rifle AP)
+ent-MagazinePistolHighCapacityRubber = 扩容手枪弹匣（.35自动橡胶）
 
-ent-MagazineRifleEmpty = 弹匣 (.20 rifle any)
+ent-MagazinePistolHighCapacityIncendiary = 扩容手枪弹匣（.35自动燃烧）
 
-ent-MagazineRifleIncendiary = 弹匣 (.20 rifle 燃烧)
+ent-MagazinePistolHighCapacityUranium = 扩容手枪弹匣（.35自动铀芯）
 
-ent-MagazineRiflePractice = 弹匣 (.20 rifle 训练)
+ent-MagazinePistolSubMachineGunEmpty = 冲锋枪弹匣（.35自动任意）
 
-ent-MagazineRifleUranium = 弹匣 (.20 rifle 铀芯)
+ent-MagazinePistolSubMachineGunSP = 冲锋枪弹匣（.35自动SP）
+    .desc = 冲锋枪用30发双排弹匣，用于装填通用动能弹药。
 
-ent-MagazineRifleRubber = 弹匣 (.20 rifle 橡胶)
+ent-MagazinePistolSubMachineGunHP = 冲锋枪弹匣（.35自动HP）
+    .desc = 冲锋枪用30发双排弹匣。
 
-ent-MagazineRifleM52SP = 弹匣 (.20 rifle SP)
+ent-MagazinePistolSubMachineGunFMJ = 冲锋枪弹匣（.35自动FMJ）
 
-ent-MagazineRifleM52HP = 弹匣 (.20 rifle HP)
+ent-MagazinePistolSubMachineGunAP = 冲锋枪弹匣（.35自动AP）
 
-ent-MagazineRifleM52FMJ = 弹匣 (.20 rifle FMJ)
+ent-MagazinePistolSubMachineGunPractice = 冲锋枪弹匣（.35自动训练）
+    .desc = 冲锋枪用30发双排弹匣，用于装填无害的粉笔训练弹。
 
-ent-MagazineRifleM52AP = 弹匣 (.20 rifle AP)
+ent-MagazinePistolSubMachineGunUranium = 冲锋枪弹匣（.35自动铀芯）
+    .desc = 冲锋枪用30发双排弹匣，用于装填特殊铀芯弹药。
 
-ent-MagazineRifleM52Empty = 弹匣 (.20 rifle any)
+ent-MagazinePistolSubMachineGunIncendiary = 冲锋枪弹匣（.35自动燃烧）
+    .desc = 冲锋枪用30发双排弹匣，用于装填自燃式燃烧弹药。
 
-ent-MagazineRifleM52Incendiary = 弹匣 (.20 rifle 燃烧)
+ent-MagazinePistolSubMachineGunRubber = 冲锋枪弹匣（.35自动橡胶）
 
-ent-MagazineRifleM52Practice = 弹匣 (.20 rifle 训练)
+ent-MagazinePistolSubMachineGunUzi = 乌兹弹匣（.35自动）
 
-ent-MagazineRifleM52Uranium = 弹匣 (.20 rifle 铀芯)
+ent-MagazinePistolSubMachineGunImprovised = 土制冲锋枪弹匣（.35自动）
 
-ent-BaseMagazineShotgunToz = 弹匣 (20 gauge 霰弹s)
-    .desc = 彼得，我该拿这东西怎么办？弹匣根本取不出来！
+ent-MagazinePistolSubMachineGunPPSH = 波波沙弹匣
 
-ent-MagazineShotgunTozEmpty = 20 gauge 弹匣
+ent-MagazinePistol40Base = .40手枪弹匣
 
-ent-MagazineShotgunToz = 20 gauge 弹丸 弹匣
+ent-MagazinePistol40Empty = .40手枪弹匣（任意）
 
-ent-MagazineShotgunTozExtendedEmpty = 20 gauge extended 弹匣
+ent-MagazinePistol40SP = .40手枪弹匣（SP）
 
-ent-MagazineShotgunTozExtended = 20 gauge 弹丸 extended 弹匣
+ent-MagazinePistol40HP = .40手枪弹匣（HP）
 
-ent-MagazineShotgunBreach = 12 号破门弹鼓
+ent-MagazinePistol40FMJ = .40手枪弹匣（FMJ）
 
-ent-BulletLightRifleRubber = 子弹 (.20 rifle 橡胶)
+ent-MagazinePistol40AP = .40手枪弹匣（AP）
 
-ent-BulletPistolRubber = 子弹 (.35 auto 橡胶)
 
-ent-BulletRifleRubber = 子弹 (0.20 rifle 橡胶)
+ent-BaseMagazineRifle = 弹匣（.20步枪）
 
-ent-SpeedLoaderMagnumRubber = 快速装弹器 (.45 magnum 橡胶)
+ent-MagazineRifleSP = 弹匣（.20步枪SP）
 
-ent-SpeedLoaderMagnumImprovised = 快速装弹器 (.45 magnum)
+ent-MagazineRifleHP = 弹匣（.20步枪HP）
 
-ent-SpeedLoaderMagnumLeverImprovised = 快速装弹器 (.30 /.45 magnum)
+ent-MagazineRifleFMJ = 弹匣（.20步枪FMJ）
 
-ent-SpeedLoaderMagnumSP = 快速装弹器 (.45 magnum SP)
+ent-MagazineRifleAP = 弹匣（.20步枪AP）
 
-ent-SpeedLoaderMagnumHP = 快速装弹器 (.45 magnum HP)
+ent-MagazineRifleEmpty = 弹匣（.20步枪任意）
 
-ent-SpeedLoaderMagnumFMJ = 快速装弹器 (.45 magnum FMJ)
+ent-MagazineRifleIncendiary = 弹匣（.20步枪燃烧）
 
-ent-BaseSpeedLoaderShotgun = 12 gauge 快速装弹器
+ent-MagazineRiflePractice = 弹匣（.20步枪训练）
 
-ent-SpeedLoaderShotgunEmpty = 12 gauge 快速装弹器
+ent-MagazineRifleUranium = 弹匣（.20步枪铀芯）
 
-ent-SpeedLoaderMagnumBasic = 12 gauge 鹿弹 快速装弹器
+ent-MagazineRifleRubber = 弹匣（.20步枪橡胶）
 
-ent-SpeedLoaderShotgunBeanbag = 12 gauge 布袋弹 快速装弹器
+ent-MagazineRifleM52SP = 弹匣（.20步枪SP）
 
-ent-SpeedLoaderShotgunSlug = 12 gauge 独头弹 快速装弹器
+ent-MagazineRifleM52HP = 弹匣（.20步枪HP）
 
-ent-SpeedLoaderShotgunUranium = 12 gauge 铀芯 快速装弹器
+ent-MagazineRifleM52FMJ = 弹匣（.20步枪FMJ）
 
-ent-SpeedLoaderShotgunBirdshot = 12 gauge 鸟弹 快速装弹器
+ent-MagazineRifleM52AP = 弹匣（.20步枪AP）
 
-ent-SpeedLoaderShotgunIncendiary = 12 gauge 燃烧 快速装弹器
+ent-MagazineRifleM52Empty = 弹匣（.20步枪任意）
 
-ent-GrenadeCleanadeSyndicate = "cleanade" 榴弹 round
+ent-MagazineRifleM52Incendiary = 弹匣（.20步枪燃烧）
 
-ent-Base120mmGrenade = 基础 120mm 榴弹
+ent-MagazineRifleM52Practice = 弹匣（.20步枪训练）
 
-ent-Grenade120mmBlast = 120mm blast 榴弹
-    .desc = 为 CYERXA 火炮系统设计的毁灭性 120 毫米爆破榴弹，威力是标准爆破榴弹的三倍。
+ent-MagazineRifleM52Uranium = 弹匣（.20步枪铀芯）
 
-ent-Magazine120mmGrenadeBlast = 120mm blast 榴弹 弹匣
-    .desc = 为 CYERXA 火炮系统准备的 20 发大型弹匣，装有强力爆破榴弹。
 
-ent-Magazine120mmGrenadeBlastEmpty = 120mm blast 榴弹 弹匣 (空)
+ent-BaseMagazineShotgunToz = 弹匣（20号霰弹）
+    .desc = 彼得，我该拿这东西怎么办？弹匣根本没法从枪里取出来！
 
-ent-Cartridge60mmRocket = 60mm 火箭弹
-    .desc = 为 Vanyk-MK2 穿梭机炮系统设计的 60 毫米火箭弹。比标准 RPG 弹药更小更轻，但威力依旧不俗。
+ent-MagazineShotgunTozEmpty = 20号弹匣
 
-ent-Magazine60mmRocket = 60mm 火箭弹 弹匣
-    .desc = 为 Vanyk-MK2 穿梭机炮系统准备的 30 发大容量弹匣，装有 60 毫米火箭弹。
+ent-MagazineShotgunToz = 20号霰弹弹匣
 
-ent-Magazine60mmRocketEmpty = 60mm 火箭弹 弹匣 (空)
+ent-MagazineShotgunTozExtendedEmpty = 20号扩容弹匣
 
-ent-BaseCharon280mmCartridge = 基础 280mm Charybdis 弹药
+ent-MagazineShotgunTozExtended = 20号霰弹扩容弹匣
 
-ent-CartridgeCharon280mmSlug = M381 CHARYBDIS 280mm 26.5kg 独头弹
-    .desc = 供 M321-CHARYBDIS“塔纳托斯”轨道炮系统使用的 26.5 千克贫钨穿甲弹。弹丸会贯穿多个目标和多层结构，随后由延时引信引爆。务必极度小心，需手动装入膛室。
+ent-MagazineShotgunBreach = 12号破门弹鼓
 
-ent-CartridgeCharon280mmSubnuclear = M381 CHARYBDIS 280mm 40kg subnuclear 独头弹
-    .desc = 封装成轨道炮弹丸的 40 千克亚核弹头，供 M321-CHARYBDIS“塔纳托斯”系统使用。首次接触时爆炸，产生巨大的亚核爆炸和显著残余辐射。仅限获准战斗行动使用，需手动装入膛室。
 
-ent-BaseDravon75mmShell = 基础 75mm Dravon 霰弹
+ent-BulletLightRifleRubber = 弹头（.20步枪橡胶）
 
-ent-CartridgeDravon75mmHE = DVN-75 75mm HE 霰弹
-    .desc = 德拉翁火炮系统使用的 75 毫米高爆炮弹，命中时爆炸并造成可靠的范围伤害。
 
-ent-MagazineDravon75mmHE = DVN-75 75mm HE 霰弹 弹匣
-    .desc = 德拉翁火炮系统使用的 15 发弹匣，装有 75 毫米高爆弹。
+ent-BulletPistolRubber = 弹头（.35自动橡胶）
 
-ent-BaseAK570_90mmShell = 基础 90mm AK570 霰弹
 
-ent-CartridgeAK570_90mmHE = AK-90 90mm HE 霰弹
-    .desc = AK570 火炮系统使用的 90 毫米高爆炮弹，比德拉翁的 75 毫米炮弹更重，爆炸当量更大。
+ent-BulletRifleRubber = 弹头（0.20步枪橡胶）
 
-ent-MagazineAK570_90mmHE = AK-90 90mm HE 霰弹 弹匣
-    .desc = AK570 火炮系统使用的 20 发弹匣，装有 90 毫米高爆弹。
 
-ent-BaseLeviathan240mmShell = 基础 240mm Leviathan 霰弹
+ent-SpeedLoaderMagnumRubber = 快速装弹器（.45马格南橡胶）
 
-ent-CartridgeLeviathan240mmHE = LVT-240 240mm HE 炮弹
-    .desc = 利维坦攻城炮使用的巨型 240 毫米高爆炮弹。爆炸产生的纯粹冲击力足以夷平建筑并摧毁舰船的整个区段。需手动装入膛室。
+ent-SpeedLoaderMagnumImprovised = 快速装弹器（.45马格南）
+
+ent-SpeedLoaderMagnumLeverImprovised = 快速装弹器（.30/.45马格南）
+
+ent-SpeedLoaderMagnumSP = 快速装弹器（.45马格南SP）
+
+ent-SpeedLoaderMagnumHP = 快速装弹器（.45马格南HP）
+
+ent-SpeedLoaderMagnumFMJ = 快速装弹器（.45马格南FMJ）
+
+
+ent-BaseSpeedLoaderShotgun = 12号快速装弹器
+
+ent-SpeedLoaderShotgunEmpty = 12号快速装弹器
+
+ent-SpeedLoaderMagnumBasic = 12号鹿弹快速装弹器
+
+ent-SpeedLoaderShotgunBeanbag = 12号豆袋弹快速装弹器
+
+ent-SpeedLoaderShotgunSlug = 12号独头弹快速装弹器
+
+ent-SpeedLoaderShotgunUranium = 12号铀芯快速装弹器
+
+ent-SpeedLoaderShotgunBirdshot = 12号鸟弹快速装弹器
+
+ent-SpeedLoaderShotgunIncendiary = 12号燃烧快速装弹器
+
+
+ent-GrenadeCleanadeSyndicate = “清洁弹”榴弹
+
+ent-Base120mmGrenade = 基础120毫米榴弹
+
+ent-Grenade120mmBlast = 120毫米爆破榴弹
+    .desc = 为“谢尔克萨”火炮系统设计的毁灭性120毫米爆破榴弹，威力是标准爆破榴弹的三倍。
+
+ent-Magazine120mmGrenadeBlast = 120毫米爆破榴弹弹匣
+    .desc = 为“谢尔克萨”火炮系统配备的20发大型弹匣，装填强力爆破榴弹。
+
+ent-Magazine120mmGrenadeBlastEmpty = 120毫米爆破榴弹弹匣（空）
+
+ent-Cartridge60mmRocket = 60毫米火箭弹
+    .desc = 为“瓦尼克-Mk-II”穿梭机火炮系统设计的60毫米火箭弹。比标准RPG弹药更小更轻，但威力依然不俗。
+
+ent-Magazine60mmRocket = 60毫米火箭弹弹匣
+    .desc = 为“瓦尼克-Mk-II”穿梭机火炮系统配备的30发大容量弹匣，装填60毫米火箭弹。
+
+ent-Magazine60mmRocketEmpty = 60毫米火箭弹弹匣（空）
+
+
+ent-BaseCharon280mmCartridge = “卡律布狄斯”280毫米基础弹药
+
+ent-CartridgeCharon280mmSlug = M381“卡律布狄斯”280毫米26.5千克穿透弹
+    .desc = 为M321“卡律布狄斯·塔纳托斯”轨道炮系统设计的26.5千克贫钨穿透弹。弹体可贯穿多个目标和多层结构，随后由延时引信引爆。务必极其谨慎地操作。需要手动装膛。
+
+ent-CartridgeCharon280mmSubnuclear = M381“卡律布狄斯”280毫米40千克次核弹
+    .desc = 为M321“卡律布狄斯·塔纳托斯”系统设计的40千克次核弹头，以轨道炮弹体封装。首次接触即引爆，产生大规模次核爆炸和大量残留辐射。仅限获授权的作战行动使用。需要手动装膛。
+
+ent-BaseDravon75mmShell = 德拉翁75毫米基础炮弹
+
+ent-CartridgeDravon75mmHE = DVN-75型75毫米HE炮弹
+    .desc = 德拉翁火炮系统使用的75毫米高爆炮弹，命中时爆炸并对范围内造成强力杀伤。
+
+ent-MagazineDravon75mmHE = DVN-75型75毫米HE炮弹弹匣
+    .desc = 德拉翁火炮系统使用的15发弹匣，装填75毫米HE高爆炮弹。
+
+ent-BaseAK570_90mmShell = AK570型90毫米基础炮弹
+
+ent-CartridgeAK570_90mmHE = AK-90型90毫米HE炮弹
+    .desc = AK570火炮系统使用的90毫米高爆炮弹，比德拉翁的75毫米炮弹更重，爆炸威力也更大。
+
+ent-MagazineAK570_90mmHE = AK-90型90毫米HE炮弹弹匣
+    .desc = AK570火炮系统使用的20发弹匣，装填90毫米HE高爆炮弹。
+
+ent-BaseLeviathan240mmShell = “利维坦”240毫米基础炮弹
+
+ent-CartridgeLeviathan240mmHE = LVT-240型240毫米HE炮弹
+    .desc = “利维坦”攻城炮使用的巨型240毫米高爆炮弹。爆炸产生的冲击力足以夷平建筑并摧毁舰船的整个区段。需要手动装膛。
+
 
 ent-WeaponAdvancedTaser = 混合式泰瑟枪
-    .desc = 安保队用于远距离制服目标的低容量能量眩晕枪。
+    .desc = 安保队使用的低容量能量眩晕枪，可远距离制服目标。
 
 ent-WeaponEnergyGun = 能量枪
     .desc = 可在致命激光与致残激光之间切换的能量枪。

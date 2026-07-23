@@ -1,873 +1,904 @@
 ent-BaseBorgChassisNotIonStormable = 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 协助空间站日常工作的半人半机器混合体。它们最喜欢别人一遍又一遍地要求自己陈述法则。
 
 ent-BaseXenoborgChassis = 异种赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 以自我复制为目标的半人半机器混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体中，以扩充自己的军队。
 
-ent-BorgChassisGeneric = 通用 赛博格
 
-ent-BorgChassisMining = 打捞 赛博格
+ent-BorgChassisGeneric = 通用赛博格
 
-ent-BorgChassisEngineer = 工程 赛博格
+ent-BorgChassisMining = 打捞赛博格
 
-ent-BorgChassisJanitor = 清洁工 赛博格
+ent-BorgChassisEngineer = 工程赛博格
 
-ent-BorgChassisMedical = 医疗 赛博格
+ent-BorgChassisJanitor = 清洁赛博格
 
-ent-BorgChassisService = 服务 赛博格
+ent-BorgChassisMedical = 医疗赛博格
 
-ent-BorgChassisSyndicateAssault = 辛迪加 突击 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BorgChassisService = 服务赛博格
 
-ent-BorgChassisSyndicateMedical = 辛迪加 医疗 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BorgChassisSyndicateAssault = 辛迪加突击赛博格
+    .desc = 精悍凶猛的杀戮机器，可使用多种致命模块。
 
-ent-BorgChassisSyndicateSaboteur = 辛迪加 破坏者 赛博格
-    .desc = 一种在太空环境中也能生存的生物。 # SL
+ent-BorgChassisSyndicateMedical = 辛迪加医疗赛博格
+    .desc = 战斗医疗赛博格。进攻能力有限，但强大的支援能力足以弥补这一点。
 
-ent-BorgChassisDerelict = 废弃的 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BorgChassisSyndicateSaboteur = 辛迪加破坏者赛博格
+    .desc = 装备隐秘模块的流线型工程赛博格。它的变色龙投影仪能让自己伪装成纳米传讯赛博格。 # SL
 
-ent-EngineeringBorgChassisDerelict = 废弃的 工程 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BorgChassisDerelict = 废弃赛博格
+    .desc = 协助空间站日常工作的半人半机器混合体。这一台已经严重失修。
 
-ent-JanitorBorgChassisDerelict = 废弃的 清洁工 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-EngineeringBorgChassisDerelict = 废弃工程赛博格
+    .desc = 协助工程部工作的半人半机器混合体。这一台的表面似乎嵌满了奇怪的晶体碎块。
 
-ent-MedicalBorgChassisDerelict = 废弃的 医疗 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-JanitorBorgChassisDerelict = 废弃清洁赛博格
+    .desc = 协助服务部工作的半人半机器混合体。它自己比任何需要它清理的东西都更乱。
 
-ent-MiningBorgChassisDerelict = 废弃的 打捞 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MedicalBorgChassisDerelict = 废弃医疗赛博格
+    .desc = 协助医疗部工作的半人半机器混合体。这一台的针头看起来不太卫生。
 
-ent-SyndicateAssaultBorgChassisDerelict = 废弃的 辛迪加 突击 赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MiningBorgChassisDerelict = 废弃打捞赛博格
+    .desc = 协助货运部工作的半人半机器混合体。这一台显然吃过吉布顿矿石爆炸的苦头。
 
-ent-XenoborgEngi = 工程型 异种赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-SyndicateAssaultBorgChassisDerelict = 废弃辛迪加突击赛博格
+    .desc = 精悍凶猛的杀戮机器，可使用多种致命模块。这一台与其说是血红色，不如说是锈橙色。
 
-ent-XenoborgHeavy = 重型 异种赛博格
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-XenoborgScout = 侦察 异种赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-XenoborgEngi = 工程异种赛博格
+    .desc = 以自我复制为目标的半人半机器混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体中，以扩充自己的军队。这一台似乎是工程型号，配有更多支援其他异种赛博格的工具。
 
-ent-XenoborgStealth = 隐形 异种赛博格
-    .desc = 一种在太空环境中也能生存的生物。
+ent-XenoborgHeavy = 重型异种赛博格
+    .desc = 以自我复制为目标的半人半机器混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体中，以扩充自己的军队。这个型号装备重型激光武器，身披厚重装甲。它虽然更加坚韧，速度却也与其笨重程度相称。
 
-ent-MobDebugCounter = 调试 计数器
-    .desc = 一种在太空环境中也能生存的生物。
+ent-XenoborgScout = 侦察异种赛博格
+    .desc = 以自我复制为目标的半人半机器混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体中，以扩充自己的军队。这是侦察型号，灵活的推进器使它能在太空中快速移动。
 
-ent-MobDebugRandomCounter = 调试 随机 计数器
-    .desc = 一种在太空环境中也能生存的生物。
+ent-XenoborgStealth = 隐形异种赛博格
+    .desc = 以自我复制为目标的半人半机器混合体。它们喜欢取出大脑，塞进崭新的异种赛博格机体中，以扩充自己的军队。这是隐形型号，它的装甲在光线下闪烁着你从未在其他材料上见过的光泽。
 
-ent-MobDebugRandomLess = 调试 随机 递减器
-    .desc = 一种在太空环境中也能生存的生物。
+
+ent-MobDebugCounter = 调试计数器
+    .desc = 它会计数。
+
+ent-MobDebugRandomCounter = 调试随机计数器
+    .desc = 它能生成随机数。
+
+ent-MobDebugRandomLess = 调试随机递减器
+    .desc = 它能随机递减数值。
+
 
 ent-MobBat = 蝙蝠
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 有些文化觉得它们十分可怕，另一些则觉得它们嚼起来嘎嘣脆。
 
 ent-MobBee = 蜜蜂
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 有它们固然不错，但仅靠蜂蜜可建立不了文明。
 
-ent-MobAngryBee = 蜜蜂
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobAngryBee = 愤怒蜜蜂
+    .desc = 多可爱的一只蜜蜂。哦不，它看起来很生气，还想抢我的披萨。
 
 ent-MobChicken = 鸡
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 它先于蛋而生，而且真的是恐龙！
 
 ent-MobCockroach = 蟑螂
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 这座空间站里到处都是虫子。
 
-ent-MobGlockroach = 枪蟑螂（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobGlockroach = 枪蟑螂
+    .desc = 这座空间站里到处都是虫——我的天，那只蟑螂有枪！！！
 
-ent-MobMothroach = 蛾蟑螂（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMothroach = 蛾蟑螂
+    .desc = 多次尝试将蛾人与蟑螂的基因混合后得到的可爱副产物。
 
-ent-MobDuckMallard = 绿头 鸭 #Quack
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobDuckMallard = 绿头鸭 #Quack
+    .desc = 一只可爱的绿头鸭，毛茸茸又软乎乎！
 
-ent-MobDuckWhite = 白色 鸭 #Quack
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobDuckWhite = 白鸭 #Quack
+    .desc = 一只可爱的白鸭，毛茸茸又软乎乎！
 
-ent-MobDuckBrown = 棕色 鸭 #Quack
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobDuckBrown = 棕鸭 #Quack
+    .desc = 一只可爱的棕鸭，毛茸茸又软乎乎！
 
 ent-MobButterfly = 蝴蝶
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 尽管人们普遍存在误解，但它其实不是黄油做的。
 
 ent-MobCow = 奶牛
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 哞。
 
 ent-MobCrab = 螃蟹
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 民间传说称，它会用蟹钳把口出恶言的太空人从现实中抹除。为了自身安全，请保持礼貌与宽容。
 
 ent-MobGoat = 山羊
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 她的脊椎由又长又尖的骨节组成，难怪脾气这么差。
 
 ent-MobGoose = 鹅
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 它的胃和思维都是超越人类理解的谜团。
 
 ent-MobKangaroo = 袋鼠
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 一种大型有袋食草动物，后腿强壮，趾甲犹如长爪。
 
-ent-MobBoxingKangaroo = 拳击 袋鼠
+ent-MobBoxingKangaroo = 拳击袋鼠
 
-ent-MobBaseAncestor = 遗传祖先（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBaseAncestor = 基因祖先
+    .desc = 某种……呃……东西的双足基因祖先。没错，空间站里肯定有某种东西是从这玩意儿演化来的。
 
 ent-MobMonkey = 猴子
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 新达尔文主义教会竟然相信所有动物都是从猴子演化而来的。吃起来像猪肉，杀掉它们既有趣又解压。
 
-ent-MobBaseSyndicateMonkey = 猴子
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBaseSyndicateMonkey = 辛迪加猴子
+    .desc = 新达尔文主义教会竟然相信所有动物都是从猴子演化而来的。吃起来像猪肉，杀掉它们既有趣又解压。
 
-ent-MobBaseKobold = 狗头人（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBaseKobold = 狗头人
+    .desc = 狗头人是智慧蜥蜴人的近亲，善于融入自然栖息地，而且像猴子一样讨厌，随时准备扯掉你的头发，再把你捅死。
 
-ent-MobKobold = 狗头人（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobKobold = 狗头人
+    .desc = 狗头人是智慧蜥蜴人的近亲，善于融入自然栖息地，而且像猴子一样讨厌，随时准备扯掉你的头发，再把你捅死。
 
-ent-MobGuidebookMonkey = 指南手册 猴子
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobGuidebookMonkey = 指南手册猴子
+    .desc = 一只希望能帮上忙的猴子，毕生唯一的使命就是让你点击。让猴子给你做教程也算数吗？
 
 ent-MobMouse = 老鼠
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 吱！
 
-ent-MobMouseDead = 老鼠
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMouseDead = 死老鼠
+    .desc = 吱！
 
-ent-MobMouseCancer = 癌变 老鼠
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMouseCancer = 癌变老鼠
+    .desc = 有毒。吱！
 
 ent-MobLizard = 蜥蜴 #Weh
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 一条无害的小龙。
 
 ent-MobSlug = 蛞蝓
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 他们居然管这叫蜥蜴？
 
 ent-MobFrog = 青蛙
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 跳呀跳呀跳。看起来湿漉漉的。
 
 ent-MobParrotBase = 鹦鹉
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 潜入你的地盘，暗中监视你，却不知怎么仍然算得上很酷的宠物。
 
 ent-MobPenguin = 企鹅
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 因为膝盖藏在身体内部，它们的一生都活在持续的痛苦中。
 
-ent-MobGrenadePenguin = 手榴弹 企鹅
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobGrenadePenguin = 手榴弹企鹅
+    .desc = 一只脖子上绑着手榴弹的小企鹅，由辛迪加从冰封的鸟不拉屎星球上捕获。
 
 ent-MobSnake = 蛇
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 嘶嘶嘶！它的咬伤没有毒。
 
-ent-MobGiantSpider = 狼蛛（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobGiantSpider = 狼蛛
+    .desc = 公认是世上最糟糕的东西，没有之一。
 
-ent-MobClownSpider = 小丑 蜘蛛
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobClownSpider = 小丑蜘蛛
+    .desc = 把世上最恐怖的两种东西——蜘蛛和小丑——结合在了一起。
 
-ent-MobGiantSpiderWizard = 巫师 蜘蛛
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobGiantSpiderWizard = 巫师蜘蛛
+    .desc = 这只蜘蛛看起来有点魔力。
 
 ent-MobPossum = 负鼠
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = “啊，负鼠！我的负鼠！”——沃尔特·惠特曼，1865年
 
-ent-MobPossumOld = 负鼠
+ent-MobPossumOld = 老负鼠
 
 ent-MobRaccoon = 浣熊
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 垃圾熊猫！
 
 ent-MobFox = 狐狸
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 它是一只狐狸。
 
 ent-MobCorgiBase = 柯基
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 终于，是太空柯基！
 
-ent-MobCorgiNarsi = 腐化的 柯基
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiNarsi = 腐化柯基
+    .desc = 伊恩！不要！
 
-ent-MobCorgiPuppy = 柯基 幼犬
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiPuppy = 柯基幼犬
+    .desc = 一只小柯基！嗷呜……
 
 ent-MobCat = 猫
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 猫科宠物，非常有趣。
 
-ent-MobCatCalico = 三花 猫
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatCalico = 三花猫
+    .desc = 猫科宠物，非常有趣。
 
-ent-MobCatSyndy = syndicat（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatSyndy = 辛迪猫
+    .desc = 会爆炸的小猫咪。
 
-ent-MobCatSpace = 太空 猫
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatSpace = 太空猫
+    .desc = 做好了最坏打算的猫科宠物。
 
-ent-MobCatCaracal = 狞猫 猫
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatCaracal = 狞猫
+    .desc = 滑稽极了。
 
-ent-MobCatKitten = 幼猫
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatKitten = 小猫
+    .desc = 小巧又毛茸茸。
 
 ent-MobSloth = 树懒
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 动作非常缓慢的动物，适合精力不足的人。
 
 ent-MobFerret = 雪貂
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 只是个傻乎乎的小家伙！
 
 ent-MobHamster = 仓鼠
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 一只可爱、毛茸茸又健壮的仓鼠。
 
 ent-MobPig = 猪
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 哼哼。
 
-ent-MobDionaNymph = diona 若虫（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobDionaNymph = 狄奥娜幼体
+    .desc = 它就像一只猫，只不过……枝条更多。
 
-ent-MobReindeerBuck = 驯鹿 雄鹿
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobReindeerBuck = 雄驯鹿
+    .desc = 你觉得它能拉雪橇吗？
 
-ent-MobReindeerDoe = 驯鹿 雌鹿
+ent-MobReindeerDoe = 雌驯鹿
 
-ent-MobCorgiSmart = 聪明的 柯基
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiSmart = 聪明柯基
+    .desc = 一只聪明得异乎寻常的狗。
 
-ent-MobArgocyteSlurva = slurva（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobArgocyteBarrier = 屏障体（专名）
+ent-MobArgocyteSlurva = 软泥幼体
+    .desc = 可怜巴巴的生物，几乎什么也做不了。
 
-ent-MobArgocyteSkitter = 疾行体（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobArgocyteBarrier = 屏障体
 
-ent-MobArgocyteSwiper = 窃取体（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobArgocyteSkitter = 疾行体
+    .desc = 狡猾的外星小生物……别让它们偷走你的口粮！
 
-ent-MobArgocyteMolder = 塑形体（专名）
+ent-MobArgocyteSwiper = 窃取体
+    .desc = 那一摞钢材跑到哪儿去了？
 
-ent-MobArgocytePouncer = 扑击体（专名）
+ent-MobArgocyteMolder = 塑形体
 
-ent-MobArgocyteGlider = 滑翔体（专名）
+ent-MobArgocytePouncer = 扑击体
 
-ent-MobArgocyteHarvester = 收割体（专名）
+ent-MobArgocyteGlider = 滑翔体
 
-ent-MobArgocyteCrawler = 爬行体（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobArgocyteHarvester = 收割体
 
-ent-MobArgocyteEnforcer = 执行体（专名）
+ent-MobArgocyteCrawler = 爬行体
+    .desc = 成群行动的致命生物，会撕碎毫无防备的旅人。
 
-ent-MobArgocyteFounder = 奠基体（专名）
+ent-MobArgocyteEnforcer = 执法体
 
-ent-MobArgocyteLeviathing = leviathing（专名）
+ent-MobArgocyteFounder = 奠基体
 
-ent-MobGoliath = 歌利亚（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobArgocyteLeviathing = 利维坦体
 
-ent-ActionGoliathTentacle = [color=red]触手 slam[/color]
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-GoliathTentacle = 触手（专名）
+ent-MobGoliath = 歌利亚
+    .desc = 用长触手缠住猎物的巨兽。无论在什么情况下，都不建议威胁它。
 
-ent-BaseEffectGoliathTentacleSpawn = 触手（专名）
+ent-ActionGoliathTentacle = [color=red]触手猛击[/color]
+    .desc = 用触手抓住目标并使其眩晕！
 
-ent-EffectGoliathTentacleSpawn = 触手（专名）
+ent-GoliathTentacle = 触手
 
-ent-MobHivelord = 蜂巢领主（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BaseEffectGoliathTentacleSpawn = 触手
 
-ent-MobHivelordBrood = 蜂巢领主 幼体（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-EffectGoliathTentacleSpawn = 触手
 
-ent-FoodHivelordRemains = 蜂巢领主 残骸（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHivelord = 蜂巢领主
+    .desc = 真正意义上的异星生物，由一团不断蠕动的未知有机物构成。攻击时，它会分裂出碎块，与本体协同进攻。
 
-ent-FoodHivelordRemainsInert = 惰性 蜂巢领主 残骸（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHivelordBrood = 蜂巢领主幼体
+    .desc = 从蜂巢领主本体分裂出的碎片，紧随本体行动。单独一只算不上什么威胁，但是……
 
-ent-MobBasilisk = 蛇怪（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-FoodHivelordRemains = 蜂巢领主残骸
+    .desc = 蜂巢领主仅存的残骸，似乎正是这种东西让它能够毫发无损地分裂自身……若不尽快使用，它的治疗特性很快便会失效。尽量别去想自己吃的是什么。
 
-ent-BaseMobBehonker = behonker（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-FoodHivelordRemainsInert = 失活的蜂巢领主残骸
+    .desc = 蜂巢领主仅存的残骸……现在一切都真的无可挽回了。
 
-ent-MobBehonkerElectrical = behonker（专名）
+ent-MobBasilisk = 蛇怪
+    .desc = 领地意识强烈的野兽，覆盖着能够吸收能量的厚壳。它的凝视会使受害者从体内开始冻结。
 
-ent-MobBehonkerPyro = behonker（专名）
 
-ent-MobBehonkerGrav = behonker（专名）
+ent-BaseMobBehonker = 魔鸣怪
+    .desc = 鸣母的恶魔化身，漂浮在空中。
 
-ent-MobBehonkerIce = behonker（专名）
+ent-MobBehonkerElectrical = 电击魔鸣怪
 
-ent-BaseMobCarp = 太空 鲤鱼
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBehonkerPyro = 火焰魔鸣怪
 
-ent-MobCarpMagic = magicarp（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBehonkerGrav = 重力魔鸣怪
 
-ent-MobCarpHolo = holocarp（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBehonkerIce = 寒冰魔鸣怪
 
-ent-MobCarpRainbow = 彩虹色 鲤鱼
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobCarpDragon = 太空 鲤鱼
+ent-BaseMobCarp = 太空鲤鱼
+    .desc = 这是一条太空鲤鱼。
 
-ent-MobShark = 鲨鱼鲦（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCarpMagic = 魔法鲤鱼
+    .desc = 看起来像某种鱼，也许会魔法。
 
-ent-MobOreCrab = 矿石 螃蟹
+ent-MobCarpHolo = 全息鲤鱼
+    .desc = 由全息能量构成的鲤鱼。对你来说很不幸，它确确实实存在。
 
-ent-ReagentSlime = reagent 黏液（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCarpRainbow = 彩虹鲤鱼
+    .desc = 哇，好闪亮的小鱼！
 
-ent-ReagentSlimeSpawner = reagent 黏液 spawner（专名）
+ent-MobCarpDragon = 龙化太空鲤鱼
 
-ent-BaseMobFlesh = aberrant flesh（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobShark = 鲨形小鱼
+    .desc = 来自无尽太空黑暗深处的危险鲨鱼，最爱饮血。
 
-ent-MobAbomination = abomination（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobHellspawn = hellspawn（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobOreCrab = 矿石蟹
 
-ent-MobHivebot = hivebot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ReagentSlime = 试剂史莱姆
+    .desc = 它由液体构成，而且想把你溶解在自己体内。
 
-ent-MobHivebotRanged = hivebot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ReagentSlimeSpawner = 试剂史莱姆生成器
 
-ent-MobHivebotStrong = strong hivebot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobCivilian = civilian（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-BaseMobFlesh = 异常血肉
+    .desc = 一团在异常能量驱动下蹒跚移动的血肉。
 
-ent-MobSalvager = salvager（专名）
+ent-MobAbomination = 憎恶体
+    .desc = 被遗弃的克隆体，持续承受着痛苦并渴望复仇。
 
-ent-MobSpirate = spirate（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHellspawn = 地狱孽种
+    .desc = 势不可挡的杀戮化身。
 
-ent-MobSyndicateFootsoldier = 辛迪加 footsoldier
 
-ent-MobSyndicateFootsoldierPilot = 辛迪加 shuttle pilot
+ent-MobHivebot = 蜂巢机器人
+    .desc = 烦人的机械害虫。
 
-ent-SalvageHumanCorpse = unidentified corpse（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHivebotRanged = 远程蜂巢机器人
+    .desc = 烦人的机械害虫。这一只带着枪。
 
-ent-MobCluwne = person（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHivebotStrong = 强壮蜂巢机器人
+    .desc = 烦人的机械害虫。这一只看起来比普通型号强壮得多。
 
-ent-MobWatcherIcewing = icewing watcher（专名）
 
-ent-MobWatcherMagmawing = magmawing watcher（专名）
+ent-MobCivilian = 平民
+    .desc = 一堆可悲的秘密。
 
-ent-MobWatcherPride = pride watcher（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSalvager = 打捞员
 
-ent-MobLivingLight = luminous person（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSpirate = 太空海盗
+    .desc = 呀哈！
 
-ent-MobLuminousObject = luminous object（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSyndicateFootsoldier = 辛迪加步兵
 
-ent-MobLuminousEntity = luminous entity（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSyndicateFootsoldierPilot = 辛迪加穿梭机驾驶员
 
-ent-MobMimic = mimic（专名）
-    .desc = 一种在太空环境中也能生存的生物。 # When this gets a proper write this should use the object's actual description >:)
+ent-SalvageHumanCorpse = 身份不明的尸体
+    .desc = 我觉得这人已经死了。
 
-ent-MobLaserRaptor = laser raptor（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCluwne = 人
+    .desc = 一个不幸的变形受害者。
 
-ent-MobTomatoKiller = 番茄 killer
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobCorgiIan = ian（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobWatcherIcewing = 冰翼凝视者
 
-ent-MobCorgiIanOld = 旧式 ian（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobWatcherMagmawing = 熔岩翼凝视者
 
-ent-MobCorgiLisa = lisa（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobWatcherPride = 骄傲凝视者
+    .desc = 这种稀有亚种只在六月出现。
 
-ent-MobCorgiMouse = real 老鼠
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobCorgiIanPup = 幼犬 ian（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobLivingLight = 发光人形
+    .desc = 由纯粹光芒构成的刺眼人形，似乎没有实体。
 
-ent-MobCatRuntime = runtime（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobLuminousObject = 发光物体
+    .desc = 一个发光的小物体，其光芒会灼伤皮肤。
 
-ent-MobCatException = exception（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobLuminousEntity = 发光实体
+    .desc = 刺眼的半透明实体，那只明亮的眼睛看起来危险而灼热。
 
-ent-MobCatFloppa = floppa（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobBandito = bandito（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMimic = 拟态怪
+    .desc = 惊喜。 # When this gets a proper write this should use the object's actual description >:)
 
-ent-MobBingus = bingus（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobMcGriff = mcgriff（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobLaserRaptor = 激光迅猛龙
+    .desc = 来自维京时代。
 
-ent-MobPaperwork = paperwork（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobTomatoKiller = 杀手番茄
+    .desc = 看来今天不是你吃番茄，而是番茄吃你。
 
-ent-MobWalter = walter（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobPossumMorty = morty（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiIan = 伊恩
+    .desc = 最受喜爱的宠物柯基。
 
-ent-MobPossumMortyOld = morty（专名）
+ent-MobCorgiIanOld = 老伊恩
+    .desc = 仍然是最受喜爱的宠物柯基。大家都喜欢他的轮椅。
 
-ent-MobPossumPoppy = poppy（专名） # the Safety Possum
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiLisa = 丽莎
+    .desc = 伊恩最喜欢的柯基。
 
-ent-MobRaccoonMorticia = morticia（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiMouse = 真老鼠
+    .desc = 这百分之百是一只饥饿的真老鼠。
 
-ent-MobAlexander = alexander（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCorgiIanPup = 幼犬伊恩
+    .desc = 最受喜爱的柯基幼犬。嗷呜。
 
-ent-MobFoxRenault = renault（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatRuntime = 运行时
+    .desc = 专业捕鼠者，越狱大师。
 
-ent-MobHamsterHamlet = hamlet（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatException = 异常
+    .desc = 好声好气地问，也许它会把备用的九条命分你一条。
 
-ent-MobSpiderShiva = shiva（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCatFloppa = 弗洛帕
+    .desc = 它就在这儿。
 
-ent-MobKangarooWillow = willow（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBandito = 班迪托
+    .desc = 只是个傻乎乎的小家伙！
 
-ent-MobSlimesPet = smile（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobBingus = 宾格斯
+    .desc = 我亲爱的宾格斯……
 
-ent-MobMonkeyPunpun = pun pun（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMcGriff = 麦格里夫
+    .desc = 这只狗闻得出附近有东西散发着臭味，而那东西就是犯罪！
 
-ent-MobCrabAtmos = tropico（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobPaperwork = 文书
+    .desc = 从十三号空间站调任后，它在图书馆找了份整理书籍的新工作。看起来干这个也一样慢。
 
-ent-MobPollyParrot = polly the 鹦鹉
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobWalter = 沃尔特
+    .desc = 它喜欢化学品和零食。沃尔特。
 
-ent-MobRatKing = rat king（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobPossumMorty = 莫蒂
+    .desc = 空间站常驻的北美负鼠。一个敏感却坚韧的小家伙。
 
-ent-MobRatServant = rat servant（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobPossumMortyOld = 老莫蒂
 
-ent-ActionRatKingRaiseArmy = raise army（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobPossumPoppy = 波比 # the Safety Possum
+    .desc = 一只负鼠，也就是小型食腐有袋动物。它穿戴着合适的个人防护装备。
 
-ent-ActionRatKingDomain = rat king的 domain
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobRaccoonMorticia = 莫蒂西亚
+    .desc = 强大的夜行生物，眼影永远画得恰到好处。
 
-ent-ActionRatKingOrderStay = stay（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobAlexander = 亚历山大
+    .desc = 厨师最得力的同事。
 
-ent-ActionRatKingOrderFollow = follow（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobFoxRenault = 雷诺
+    .desc = 舰长值得信赖的狐狸。
 
-ent-ActionRatKingOrderCheeseEm = cheese 'em（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHamsterHamlet = 哈姆雷特
+    .desc = 一只脾气暴躁、可爱又毛茸茸的仓鼠。
 
-ent-ActionRatKingOrderLoose = loose（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSpiderShiva = 湿婆
+    .desc = 空间站的第一位守卫者。
 
-ent-MobRevenant = revenant（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobKangarooWillow = 薇洛
+    .desc = 拳击袋鼠薇洛。
 
-ent-MobBaseScurret = scurret（专名）
+ent-MobSlimesPet = 微笑
+    .desc = 这件杰作经历了成千上万次实验，却是世上最甜美的生物。微笑史莱姆！
 
-ent-MobScurret = scurret（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMonkeyPunpun = 潘潘
+    .desc = 猴子中的杰出代表，能够无限量饮酒。
 
-ent-MobBaseEmotionalSupportScurret = emotional support scurret（专名）
+ent-MobCrabAtmos = 热带佬
+    .desc = 大气之国高贵而坚定的守卫者。万岁！
 
-ent-MobEmotionalSupportScurret = emotional support scurret（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobPollyParrot = 鹦鹉波莉
+    .desc = 量子饼干理论专家。
 
-ent-MobFireBot = firebot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobHonkBot = honkbot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobRatKing = 鼠王
+    .desc = 它就是鼠鼠。规矩由它定。
 
-ent-MobJonkBot = jonkbot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobRatServant = 老鼠仆从
+    .desc = 它是小鼠鼠。规矩可不由它定。
 
-ent-MobCleanBot = cleanbot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingRaiseArmy = 召集军队
+    .desc = 消耗一些饥饿值，召唤一只友方老鼠协助保护你。
 
-ent-MobMedibot = medibot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingDomain = 鼠王领域
+    .desc = 消耗一些饥饿值，向空气中释放一团氨气。
 
-ent-MobMimeBot = mimebot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingOrderStay = 原地待命
+    .desc = 命令你的军队留在原地。
 
-ent-MobSupplyBot = supplybot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingOrderFollow = 跟随
+    .desc = 命令你的军队跟随你行动。
 
-ent-MobHugBot = hugbot（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingOrderCheeseEm = 围攻目标
+    .desc = 命令你的军队攻击你所指向的人。
 
-ent-MobAdultSlimes = basic 黏液（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionRatKingOrderLoose = 自由行动
+    .desc = 命令你的军队自行行动。
 
-ent-MobAdultSlimesBlue = 蓝色 黏液
 
-ent-MobAdultSlimesBlueAngry = 蓝色 黏液
+ent-MobRevenant = 怨灵
+    .desc = 一只吓人的小幽灵。
 
-ent-MobAdultSlimesGreen = 绿色 黏液
 
-ent-MobAdultSlimesGreenAngry = 绿色 黏液
+ent-MobBaseScurret = 沼狸
 
-ent-MobAdultSlimesYellow = 黄色 黏液
+ent-MobScurret = 沼狸
+    .desc = 俗称“哇哇”，来自哇哇星的湿地。这些小动物构成了阿诺德披萨店“忠诚员工”的主力。
 
-ent-MobAdultSlimesYellowAngry = 黄色 黏液
+ent-MobBaseEmotionalSupportScurret = 情绪支持沼狸
 
-ent-MobSpaceBasic = basic（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobEmotionalSupportScurret = 情绪支持沼狸
+    .desc = 俗称“哇哇”，来自哇哇星的湿地。这些小动物构成了阿诺德披萨店“忠诚员工”的主力。这一只来这里做临时工。
 
-ent-MobBearSpace = 太空 bear
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-MobKangarooSpace = 太空 袋鼠
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobFireBot = 灭火机器人
+    .desc = 小型灭火机器人，看起来相当焦虑。
 
-ent-MobSpiderSpace = 太空 蜘蛛
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobHonkBot = 呵叫机器人
+    .desc = 令人毛骨悚然。
 
-ent-MobCobraSpace = 太空 cobra
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobJonkBot = 怪叫机器人
+    .desc = 令人毛骨悚然。
 
-ent-MobSnail = snail（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobCleanBot = 清洁机器人
+    .desc = 自动化浪潮步步逼近，如今连太空清洁工也受到了威胁。
 
-ent-MobSnailMoth = snoth（专名）
+ent-MobMedibot = 医疗机器人
+    .desc = 无法替代医师，但总比没有强。
 
-ent-MobTick = 太空 tick
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobMimeBot = 哑剧机器人
+    .desc = 为什么不友好地朝哑剧机器人挥挥手呢？
 
-ent-MobXeno = burrower（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobSupplyBot = 补给机器人
+    .desc = 运送货物！
 
-ent-MobXenoPraetorian = praetorian（专名）
+ent-MobHugBot = 拥抱机器人
+    .desc = 嗷呜，谁需要一个拥抱？
 
-ent-MobXenoDrone = drone（专名）
 
-ent-MobXenoQueen = queen（专名）
+ent-MobAdultSlimes = 基础史莱姆
+    .desc = 它看起来太像果冻了。不知道吃起来是什么味道？
 
-ent-MobXenoRavager = ravager（专名）
+ent-MobAdultSlimesBlue = 蓝色史莱姆
 
-ent-MobXenoRunner = runner（专名）
+ent-MobAdultSlimesBlueAngry = 愤怒的蓝色史莱姆
 
-ent-MobXenoRouny = rouny（专名）
+ent-MobAdultSlimesGreen = 绿色史莱姆
 
-ent-MobXenoSpitter = spitter（专名）
+ent-MobAdultSlimesGreenAngry = 愤怒的绿色史莱姆
 
-ent-MobPurpleSnake = 太空 adder
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobAdultSlimesYellow = 黄色史莱姆
 
-ent-MobSmallPurpleSnake = 太空 adder
-    .desc = 一种在太空环境中也能生存的生物。
+ent-MobAdultSlimesYellowAngry = 愤怒的黄色史莱姆
 
-ent-MobXenoLonePraetorianNoGhost = "dale"（专名）
-    .desc = 一种在太空环境中也能生存的生物。
 
-ent-RandomHumanoidVisitorCaptain = visiting 舰长 ghost role
+ent-MobSpaceBasic = 基础太空生物
+    .desc = 它看起来很友好。为什么不给它一个拥抱呢？
 
-ent-RandomHumanoidVisitorCE = visiting ce ghost role（专名）
+ent-MobBearSpace = 太空熊
+    .desc = 它看起来很友好。为什么不给它一个拥抱呢？
 
-ent-RandomHumanoidVisitorCMO = visiting cmo ghost role（专名）
+ent-MobKangarooSpace = 太空袋鼠
+    .desc = 它看起来很友好。为什么不给它一个拥抱呢？
 
-ent-RandomHumanoidVisitorHOP = visiting hop ghost role（专名）
+ent-MobSpiderSpace = 太空蜘蛛
+    .desc = 它亮得惊人，看起来很危险。
 
-ent-RandomHumanoidVisitorHOS = visiting hos ghost role（专名）
+ent-MobCobraSpace = 太空眼镜蛇
+    .desc = 长长的毒牙与发光的颈冠，再加上诱人的眼神，仿佛在央求你靠近。
 
-ent-RandomHumanoidVisitorRD = visiting rd ghost role（专名）
+ent-MobSnail = 蜗牛
+    .desc = 除非法国人，否则都会觉得恶心。
 
-ent-RandomHumanoidVisitorQM = visiting qm ghost role（专名）
+ent-MobSnailMoth = 蛾牛
 
-ent-RandomHumanoidVisitorSecurityCadet = visiting 安保 cadet role
 
-ent-RandomHumanoidVisitorSecurityOfficer = visiting 安保干员 ghost role
+ent-MobTick = 太空蜱虫
+    .desc = 这是一只太空蜱虫，小心它凶狠的叮咬。中央指挥部报告称，货运部的截肢病例中有九成是太空蜱虫叮咬所致。
 
-ent-RandomHumanoidVisitorDetective = visiting 侦探 role
 
-ent-RandomHumanoidVisitorWarden = visiting 典狱长 ghost role
+ent-MobXeno = 掘穴异形
+    .desc = 它们大多在夜间出没。大多如此。
 
-ent-RandomHumanoidVisitorCargoTechnician = visiting 货运 technician ghost role
+ent-MobXenoPraetorian = 禁卫异形
 
-ent-RandomHumanoidVisitorSalvageSpecialist = visiting 打捞专员 ghost role
+ent-MobXenoDrone = 工蜂异形
 
-ent-RandomHumanoidVisitorAtmosTech = visiting 大气技师 ghost role
+ent-MobXenoQueen = 异形女王
 
-ent-RandomHumanoidVisitorTechnicalAssistant = visiting technical assistant ghost role（专名）
+ent-MobXenoRavager = 毁灭者异形
 
-ent-RandomHumanoidVisitorEngineer = visiting 工程 ghost role
+ent-MobXenoRunner = 奔行异形
 
-ent-RandomHumanoidVisitorMedicalIntern = visiting 医疗 intern ghost role
+ent-MobXenoRouny = 罗尼异形
 
-ent-RandomHumanoidVisitorMedicalDoctor = visiting 医师 ghost role
+ent-MobXenoSpitter = 喷吐异形
 
-ent-RandomHumanoidVisitorParamedic = visiting 急救员 ghost role
+ent-MobPurpleSnake = 太空蝰蛇
+    .desc = 来自开普勒-283c的一条凶恶紫蛇。
 
-ent-RandomHumanoidVisitorPsychologist = visiting 心理医生 ghost role
+ent-MobSmallPurpleSnake = 小型太空蝰蛇
+    .desc = 来自开普勒-283c的凶恶紫蛇的小型版本。
 
-ent-RandomHumanoidVisitorChemist = visiting 药剂师 ghost role
+ent-MobXenoLonePraetorianNoGhost = “戴尔”
+    .desc = 空间站初次安保清剿后残留下来的禁卫异形。它的口器中卡着一对染血的身份牌，上面刻着“二等兵戴尔”。
 
-ent-RandomHumanoidVisitorVirologist = visiting virologist ghost role（专名）
 
-ent-RandomHumanoidVisitorGeneticist = visiting geneticist ghost role（专名）
+ent-RandomHumanoidVisitorCaptain = 舰长访客幽灵角色
 
-ent-RandomHumanoidVisitorDentist = visiting dentist ghost role（专名）
+ent-RandomHumanoidVisitorCE = 工程主管访客幽灵角色
 
-ent-RandomHumanoidVisitorResearchAssistant = visiting research assistant ghost role（专名）
+ent-RandomHumanoidVisitorCMO = 医疗主管访客幽灵角色
 
-ent-RandomHumanoidVisitorScientist = visiting 科学家 ghost role
+ent-RandomHumanoidVisitorHOP = 人事主管访客幽灵角色
 
-ent-RandomHumanoidVisitorBartender = visiting 酒保 ghost role
+ent-RandomHumanoidVisitorHOS = 安保主管访客幽灵角色
 
-ent-RandomHumanoidVisitorBotanist = visiting botanist ghost role（专名）
+ent-RandomHumanoidVisitorRD = 研究主管访客幽灵角色
 
-ent-RandomHumanoidVisitorBoxer = visiting boxer ghost role（专名）
+ent-RandomHumanoidVisitorQM = 军需官访客幽灵角色
 
-ent-RandomHumanoidVisitorChaplain = visiting 牧师 ghost role
+ent-RandomHumanoidVisitorSecurityCadet = 安保学员访客角色
 
-ent-RandomHumanoidVisitorChef = visiting 厨师 ghost role
+ent-RandomHumanoidVisitorSecurityOfficer = 安保干员访客幽灵角色
 
-ent-RandomHumanoidVisitorClown = visiting 小丑 ghost role
+ent-RandomHumanoidVisitorDetective = 侦探访客角色
 
-ent-RandomHumanoidVisitorJanitor = visiting 清洁工 ghost role
+ent-RandomHumanoidVisitorWarden = 典狱长访客幽灵角色
 
-ent-RandomHumanoidVisitorLawyer = visiting 律师 ghost role
+ent-RandomHumanoidVisitorCargoTechnician = 货运技师访客幽灵角色
 
-ent-RandomHumanoidVisitorLawyerCentcom = visiting centcom 律师 ghost role
+ent-RandomHumanoidVisitorSalvageSpecialist = 打捞专员访客幽灵角色
 
-ent-RandomHumanoidVisitorLibrarian = visiting 图书管理员 ghost role
+ent-RandomHumanoidVisitorAtmosTech = 大气技师访客幽灵角色
 
-ent-RandomHumanoidVisitorMusician = visiting 乐手 ghost role
+ent-RandomHumanoidVisitorTechnicalAssistant = 技术助理访客幽灵角色
 
-ent-RandomHumanoidVisitorMusicianFancy = visiting 华丽 乐手 ghost role
+ent-RandomHumanoidVisitorEngineer = 空间站工程师访客幽灵角色
 
-ent-RandomHumanoidVisitorMusicianRelaxed = visiting relaxed 乐手 ghost role
+ent-RandomHumanoidVisitorMedicalIntern = 实习医师访客幽灵角色
 
-ent-RandomHumanoidVisitorMime = visiting 哑剧演员 ghost role
+ent-RandomHumanoidVisitorMedicalDoctor = 医师访客幽灵角色
 
-ent-RandomHumanoidVisitorReporter = visiting reporter ghost role（专名）
+ent-RandomHumanoidVisitorParamedic = 急救员访客幽灵角色
 
-ent-RandomHumanoidVisitorServiceWorker = visiting 服务 worker ghost role
+ent-RandomHumanoidVisitorPsychologist = 心理医生访客幽灵角色
 
-ent-RandomHumanoidVisitorZookeeper = visiting zookeeper ghost role（专名）
+ent-RandomHumanoidVisitorChemist = 药剂师访客幽灵角色
 
-ent-RandomHumanoidClownTroupeBanana = 香蕉 小丑 troupe
+ent-RandomHumanoidVisitorVirologist = 病毒学家访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimCaptain = disaster victim 舰长 ghost role
+ent-RandomHumanoidVisitorGeneticist = 遗传学家访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimCE = disaster victim ce ghost role（专名）
+ent-RandomHumanoidVisitorDentist = 牙医访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimCMO = disaster victim cmo ghost role（专名）
+ent-RandomHumanoidVisitorResearchAssistant = 研究助理访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimHOP = disaster victim hop ghost role（专名）
+ent-RandomHumanoidVisitorScientist = 科学家访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimHOS = disaster victim hos ghost role（专名）
+ent-RandomHumanoidVisitorBartender = 酒保访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimRD = disaster victim rd ghost role（专名）
+ent-RandomHumanoidVisitorBotanist = 植物学家访客幽灵角色
 
-ent-RandomHumanoidChallengeVictimQM = disaster victim qm ghost role（专名）
+ent-RandomHumanoidVisitorBoxer = 拳击手访客幽灵角色
 
-ent-RandomHumanoidChallengeCargoTechnician = disaster 货运 technician ghost role
+ent-RandomHumanoidVisitorChaplain = 牧师访客幽灵角色
 
-ent-RandomHumanoidSyndieSoldierTeamLeader = 辛迪加 team leader ghost role
+ent-RandomHumanoidVisitorChef = 厨师访客幽灵角色
 
-ent-RandomHumanoidSyndieSoldier = 辛迪加 soldier ghost role
+ent-RandomHumanoidVisitorClown = 小丑访客幽灵角色
 
-ent-RandomHumanoidSyndieVisitor = syndie disaster victim ghost role（专名）
+ent-RandomHumanoidVisitorJanitor = 清洁工访客幽灵角色
 
-ent-RandomHumanoidPirateScooner = pirate crewman ghost role（专名）
+ent-RandomHumanoidVisitorLawyer = 律师访客幽灵角色
 
-ent-RandomHumanoidPirateCaptainScooner = pirate 舰长 ghost role
+ent-RandomHumanoidVisitorLawyerCentcom = 中央指挥部律师访客幽灵角色
 
-ent-RandomHumanoidVisitorBlackmarketeer = visiting blackmarketeer ghost role（专名）
+ent-RandomHumanoidVisitorLibrarian = 图书管理员访客幽灵角色
 
-ent-RandomHumanoidCossack = cossack ghost role（专名）
+ent-RandomHumanoidVisitorMusician = 乐手访客幽灵角色
 
-ent-CommandVisitorSpawner = command visitor spawner（专名）
+ent-RandomHumanoidVisitorMusicianFancy = 华丽乐手访客幽灵角色
 
-ent-VisitorCaptainSpawner = visiting 舰长 spawner
+ent-RandomHumanoidVisitorMusicianRelaxed = 悠闲乐手访客幽灵角色
 
-ent-VisitorCESpawner = visiting 工程主管 spawner
+ent-RandomHumanoidVisitorMime = 哑剧演员访客幽灵角色
 
-ent-VisitorCMOSpawner = visiting 医疗主管 spawner
+ent-RandomHumanoidVisitorReporter = 记者访客幽灵角色
 
-ent-VisitorHOPSpawner = visiting 人事主管 spawner
+ent-RandomHumanoidVisitorServiceWorker = 服务人员访客幽灵角色
 
-ent-VisitorHOSSpawner = visiting 安保主管 spawner
+ent-RandomHumanoidVisitorZookeeper = 动物管理员访客幽灵角色
 
-ent-VisitorRDSpawner = visiting 研究主管 spawner
+ent-RandomHumanoidClownTroupeBanana = 香蕉小丑剧团
 
-ent-VisitorQMSpawner = visiting 军需官 spawner
+ent-RandomHumanoidChallengeVictimCaptain = 灾难受害者舰长幽灵角色
 
-ent-SecurityVisitorSpawner = 安保 visitor spawner
+ent-RandomHumanoidChallengeVictimCE = 灾难受害者工程主管幽灵角色
 
-ent-VisitorSecurityCadetSpawner = visiting 安保 cadet spawner
+ent-RandomHumanoidChallengeVictimCMO = 灾难受害者医疗主管幽灵角色
 
-ent-VisitorSecurityOfficerSpawner = visiting 安保干员 spawner
+ent-RandomHumanoidChallengeVictimHOP = 灾难受害者人事主管幽灵角色
 
-ent-VisitorDetective = visiting 侦探 spawner
+ent-RandomHumanoidChallengeVictimHOS = 灾难受害者安保主管幽灵角色
 
-ent-VisitorWarden = visiting 典狱长 spawner
+ent-RandomHumanoidChallengeVictimRD = 灾难受害者研究主管幽灵角色
 
-ent-VisitingCargonianSpawner = cargonian visitor spawner（专名）
+ent-RandomHumanoidChallengeVictimQM = 灾难受害者军需官幽灵角色
 
-ent-VisitorCargoTechnicianSpawner = visiting 货运 technician spawner
+ent-RandomHumanoidChallengeCargoTechnician = 灾难货运技师幽灵角色
 
-ent-VisitorSalvageSpecialistSpawner = visiting 打捞专员 spawner
+ent-RandomHumanoidSyndieSoldierTeamLeader = 辛迪加小队队长幽灵角色
 
-ent-EngineeringVisitorSpawner = 工程 visitor spawner
+ent-RandomHumanoidSyndieSoldier = 辛迪加士兵幽灵角色
 
-ent-VisitorAtmosTechSpawner = visiting 大气技师 spawner
+ent-RandomHumanoidSyndieVisitor = 辛迪加灾难受害者幽灵角色
 
-ent-VisitorTechnicalAssistantSpawner = visiting technical assistant spawner（专名）
+ent-RandomHumanoidPirateScooner = 海盗船员幽灵角色
 
-ent-VisitorEngineerSpawner = visiting 工程 spawner
+ent-RandomHumanoidPirateCaptainScooner = 海盗船长幽灵角色
 
-ent-VisitingMedicalSpawner = 医疗 visitor spawner
+ent-RandomHumanoidVisitorBlackmarketeer = 黑市商人访客幽灵角色
 
-ent-VisitorChemistSpawner = visiting 药剂师 spawner
+ent-RandomHumanoidCossack = 哥萨克幽灵角色
 
-ent-VisitorMedicalInternSpawner = visiting 医疗 intern spawner
 
-ent-VisitorMedicalDoctorSpawner = visiting 医师 spawner
+ent-CommandVisitorSpawner = 指挥部访客生成器
 
-ent-VisitorParamedicSpawner = visiting 急救员 spawner
+ent-VisitorCaptainSpawner = 舰长访客生成器
 
-ent-VisitorVirologistSpawner = visiting virologist spawner（专名）
+ent-VisitorCESpawner = 工程主管访客生成器
 
-ent-VisitorGeneticistSpawner = visiting geneticist spawner（专名）
+ent-VisitorCMOSpawner = 医疗主管访客生成器
 
-ent-VisitorPsychologistSpawner = visiting 心理医生 spawner
+ent-VisitorHOPSpawner = 人事主管访客生成器
 
-ent-VisitorDentistSpawner = visiting dentist spawner（专名）
+ent-VisitorHOSSpawner = 安保主管访客生成器
 
-ent-VisitingScientistSpawner = scientific visitor spawner（专名）
+ent-VisitorRDSpawner = 研究主管访客生成器
 
-ent-VisitorScientistSpawner = visiting 科学家 spawner
+ent-VisitorQMSpawner = 军需官访客生成器
 
-ent-VisitorResearchAssistantSpawner = visiting research assistant spawner（专名）
+ent-SecurityVisitorSpawner = 安保部访客生成器
 
-ent-VisitingCivilianSpawner = civilian visitor spawner（专名）
+ent-VisitorSecurityCadetSpawner = 安保学员访客生成器
 
-ent-VisitorBartenderSpawner = visiting 酒保 spawner
+ent-VisitorSecurityOfficerSpawner = 安保干员访客生成器
 
-ent-VisitorBotanistSpawner = visiting botanist spawner（专名）
+ent-VisitorDetective = 侦探访客生成器
 
-ent-VisitorBoxerSpawner = visiting boxer spawner（专名）
+ent-VisitorWarden = 典狱长访客生成器
 
-ent-VisitorChaplainSpawner = visiting 牧师 spawner
+ent-VisitingCargonianSpawner = 货运部访客生成器
 
-ent-VisitorChefSpawner = visiting 厨师 spawner
+ent-VisitorCargoTechnicianSpawner = 货运技师访客生成器
 
-ent-VisitorClownSpawner = visiting 小丑 spawner
+ent-VisitorSalvageSpecialistSpawner = 打捞专员访客生成器
 
-ent-VisitorJanitorSpawner = visiting 清洁工 spawner
+ent-EngineeringVisitorSpawner = 工程部访客生成器
 
-ent-VisitorLawyerSpawner = visiting 律师 spawner
+ent-VisitorAtmosTechSpawner = 大气技师访客生成器
 
-ent-VisitorLawyerCentcomSpawner = visiting centcom 律师 spawner
+ent-VisitorTechnicalAssistantSpawner = 技术助理访客生成器
 
-ent-VisitorLibrarianSpawner = visiting 图书管理员 spawner
+ent-VisitorEngineerSpawner = 空间站工程师访客生成器
 
-ent-VisitorMusicianSpawner = visiting 乐手 spawner
+ent-VisitingMedicalSpawner = 医疗部访客生成器
 
-ent-VisitorMusicianFancySpawner = visiting 华丽 乐手 spawner
+ent-VisitorChemistSpawner = 药剂师访客生成器
 
-ent-VisitorMusicianRelaxedSpawner = visiting relaxed 乐手 spawner
+ent-VisitorMedicalInternSpawner = 实习医师访客生成器
 
-ent-VisitorMimeSpawner = visiting 哑剧演员 spawner
+ent-VisitorMedicalDoctorSpawner = 医师访客生成器
 
-ent-VisitorReporterSpawner = visiting reporter spawner（专名）
+ent-VisitorParamedicSpawner = 急救员访客生成器
 
-ent-VisitorServiceWorkerSpawner = visiting 服务 worker spawner
+ent-VisitorVirologistSpawner = 病毒学家访客生成器
 
-ent-VisitorZookeeperSpawner = visiting zookeeper spawner（专名）
+ent-VisitorGeneticistSpawner = 遗传学家访客生成器
 
-ent-ChallengeVictimSpawner = disaster victim spawner（专名）
+ent-VisitorPsychologistSpawner = 心理医生访客生成器
 
-ent-ChallengeCargoTechnicianSpawner = challenge 货运 technician spawner
+ent-VisitorDentistSpawner = 牙医访客生成器
 
-ent-NTVisitorSpawner = 纳米传讯 visitor spawner
+ent-VisitingScientistSpawner = 科研部访客生成器
 
-ent-NTVisitorSpawner50 = 纳米传讯 visitor spawner
+ent-VisitorScientistSpawner = 科学家访客生成器
 
-ent-NTVisitorSpawner33 = 纳米传讯 visitor spawner
+ent-VisitorResearchAssistantSpawner = 研究助理访客生成器
 
-ent-NTVisitorSpawner25 = 纳米传讯 visitor spawner
+ent-VisitingCivilianSpawner = 平民访客生成器
 
-ent-NTVisitorSpawner20 = 纳米传讯 visitor spawner
+ent-VisitorBartenderSpawner = 酒保访客生成器
 
-ent-NTVisitorSpawner10 = 纳米传讯 visitor spawner
+ent-VisitorBotanistSpawner = 植物学家访客生成器
 
-ent-SyndieSoldierTeamLeaderSpawner = 辛迪加 team leader spawner
+ent-VisitorBoxerSpawner = 拳击手访客生成器
 
-ent-SyndieSoldierSpawner = 辛迪加 soldier spawner
+ent-VisitorChaplainSpawner = 牧师访客生成器
 
-ent-SyndieVisitorSpawner = syndie disaster victim spawner（专名）
+ent-VisitorChefSpawner = 厨师访客生成器
 
-ent-PirateScoonerSpawner = pirate crewman spawner（专名）
+ent-VisitorClownSpawner = 小丑访客生成器
 
-ent-PirateCaptainScoonerSpawner = pirate 舰长 spawner
+ent-VisitorJanitorSpawner = 清洁工访客生成器
 
-ent-VisitorBlackmarketeerSpawner = blackmarketeer spawner（专名）
+ent-VisitorLawyerSpawner = 律师访客生成器
 
-ent-CossackSpawner = cossack spawner（专名）
+ent-VisitorLawyerCentcomSpawner = 中央指挥部律师访客生成器
 
-ent-AdminObserver = admin observer（专名）
+ent-VisitorLibrarianSpawner = 图书管理员访客生成器
 
-ent-ActionAGhostShowSolar = solar control interface（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorMusicianSpawner = 乐手访客生成器
 
-ent-ActionAGhostShowCommunications = communications interface（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorMusicianFancySpawner = 华丽乐手访客生成器
 
-ent-ActionAGhostShowRadar = mass scanner interface（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorMusicianRelaxedSpawner = 悠闲乐手访客生成器
 
-ent-ActionAGhostShowCargo = 货运 ordering interface
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorMimeSpawner = 哑剧演员访客生成器
 
-ent-ActionAGhostShowCrewMonitoring = crew monitoring interface（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorReporterSpawner = 记者访客生成器
 
-ent-ActionAGhostShowStationRecords = station records interface（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-VisitorServiceWorkerSpawner = 服务人员访客生成器
 
-ent-MobLing = urist mcling（专名）
+ent-VisitorZookeeperSpawner = 动物管理员访客生成器
 
-ent-RandomCloneSpawner = 随机 clone
+ent-ChallengeVictimSpawner = 灾难受害者生成器
 
-ent-BaseMobDragon = 太空 dragon
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ChallengeCargoTechnicianSpawner = 灾难货运技师生成器
 
-ent-DragonsBreathGun = dragon的 lung
-    .desc = 一种在太空环境中也能生存的生物。
+ent-NTVisitorSpawner = 纳米传讯访客生成器
 
-ent-ActionSpawnRift = summon 鲤鱼 rift（专名）
-    .desc = 一种在太空环境中也能生存的生物。
+ent-NTVisitorSpawner50 = 纳米传讯访客生成器
+
+ent-NTVisitorSpawner33 = 纳米传讯访客生成器
+
+ent-NTVisitorSpawner25 = 纳米传讯访客生成器
+
+ent-NTVisitorSpawner20 = 纳米传讯访客生成器
+
+ent-NTVisitorSpawner10 = 纳米传讯访客生成器
+
+ent-SyndieSoldierTeamLeaderSpawner = 辛迪加小队队长生成器
+
+ent-SyndieSoldierSpawner = 辛迪加士兵生成器
+
+ent-SyndieVisitorSpawner = 辛迪加灾难受害者生成器
+
+ent-PirateScoonerSpawner = 海盗船员生成器
+
+ent-PirateCaptainScoonerSpawner = 海盗船长生成器
+
+ent-VisitorBlackmarketeerSpawner = 黑市商人生成器
+
+ent-CossackSpawner = 哥萨克生成器
+
+
+ent-AdminObserver = 管理员观察者
+
+ent-ActionAGhostShowSolar = 太阳能控制界面
+    .desc = 查看太阳能控制界面。
+
+ent-ActionAGhostShowCommunications = 通讯界面
+    .desc = 查看通讯界面。
+
+ent-ActionAGhostShowRadar = 质量扫描仪界面
+    .desc = 查看质量扫描仪界面。
+
+ent-ActionAGhostShowCargo = 货物订购界面
+    .desc = 查看货物订购界面。
+
+ent-ActionAGhostShowCrewMonitoring = 船员监控界面
+    .desc = 查看船员监控界面。
+
+ent-ActionAGhostShowStationRecords = 空间站记录界面
+    .desc = 查看空间站记录界面。
+
+
+ent-MobLing = 乌里斯特·麦林
+
+
+ent-RandomCloneSpawner = 随机克隆体
+
+
+ent-BaseMobDragon = 太空龙
+    .desc = 会飞的巨兽，与太空鲤鱼有些遥远的亲缘关系。
+
+ent-DragonsBreathGun = 龙肺
+    .desc = 供龙呼吸使用。
+
+ent-ActionSpawnRift = 召唤鲤鱼裂隙
+    .desc = 召唤一道会周期性生成鲤鱼的裂隙。
 
 ent-ActionDevour = [color=red]吞噬[/color]
-    .desc = 一种在太空环境中也能生存的生物。
+    .desc = 尝试用下颚破坏建筑结构，或吞下一只生物。
 
-ent-ActionDragonsBreath = [color=orange]dragon的 breath[/color]
-    .desc = 一种在太空环境中也能生存的生物。
+ent-ActionDragonsBreath = [color=orange]龙息[/color]
+    .desc = 向任何愚蠢到胆敢攻击你的人喷吐火焰！

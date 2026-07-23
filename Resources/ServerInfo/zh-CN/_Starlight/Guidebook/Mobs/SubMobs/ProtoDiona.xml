@@ -1,0 +1,19 @@
+<Document>
+  # 原型狄奥娜
+<!-- Starlight, renamed back to Diona.-->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoDiona" Caption=""/>
+  </Box>
+
+  原型狄奥娜虽十分罕见，却并非不可能存在。超人类主义甚至存在于植物类种族之中，只不过这种做法通常不受待见。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 65%[/color]，受到的[color=#8147ff]电击伤害增加 30%[/color]。
+  - 受到的[color=#65807d]切割伤害减少 25%[/color]、[color=#FF3636]钝击伤害减少 20%[/color]，且[color=#1e90ff]寒冷伤害减少 35%[/color]。
+
+此外，虽然你受到的[color=#ffa500]灼热伤害[/color]比未经赛博改造的同族更多，但点燃你实际上需要*更多*灼热伤害。而且，尽管你的赛博部件依旧怕热，它们至少会将此效果所能叠加的最大燃烧层数降至 3。
+
+扎根时，你还会比普通狄奥娜[color=#fc0303]慢 5%[/color]。看来金属确实增添了不少重量……
+
+[color=red]警告！[/color]原型狄奥娜分裂成若虫后，[color=red]会变回普通狄奥娜！[/color]请慎重选择：失去赛博部件真的值得吗？
+</Document>

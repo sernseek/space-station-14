@@ -1,0 +1,11 @@
+<Document>
+  # 原型蜥蜴人
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoReptilian" Caption=""/>
+  </Box>
+
+  ## 抗性
+  - 受到的[color=#8147ff]电击伤害增加 25%[/color]、[color=#FF3636]钝击伤害增加 10%[/color]，且[color=#1e90ff]寒冷伤害增加 15%[/color]。
+  - 受到的[color=#ffa500]灼热伤害减少 15%[/color]，受到的[color=#65807d]切割伤害减少 10%[/color]。
+</Document>

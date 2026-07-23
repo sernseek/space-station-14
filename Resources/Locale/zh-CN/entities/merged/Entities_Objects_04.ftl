@@ -1,1061 +1,1061 @@
-ent-HoloparasiteInjector = 物品·holoparasite injector
-    .desc = 一件名为“物品·holoparasite injector”的实用设备。
+ent-HoloparasiteInjector = 全息寄生体注射器
+    .desc = 一件复杂精巧的手持机械艺术品，能让使用者成为全息寄生体守护者的宿主。
 
-ent-HoloClownInjector = 物品·holoclown injector
-    .desc = 一件名为“物品·holoclown injector”的实用设备。
+ent-HoloClownInjector = 全息小丑注射器
+    .desc = 一件复杂精巧的手持机械艺术品，能让使用者成为全息小丑守护者的宿主。
 
-ent-MagicalLamp = 物品·magical lamp
-    .desc = 这是物品·magical lamp。
+ent-MagicalLamp = 魔法神灯
+    .desc = 精灵周边丑闻之后，太空巫师联盟不知怎么就不得不削减成本了。
 
-ent-BoxHoloparasite = holoparasite 盒
-    .desc = 这是holoparasite 盒。
+ent-BoxHoloparasite = 全息寄生体盒
+    .desc = 装有一支全息寄生体注射器的盒子。
 
-ent-BoxHoloclown = holoclown 盒
-    .desc = 这是holoclown 盒。
-
-
-ent-ReinforcementRadio = 辛迪加 reinforcement 无线电
-    .desc = 这是辛迪加 reinforcement 无线电。
-
-ent-ReinforcementRadioSyndicate = 辛迪加 reinforcement 无线电
-    .desc = 这是辛迪加 reinforcement 无线电。
-
-ent-ReinforcementRadioSyndicateAncestor = 辛迪加 genetic ancestor reinforcement 无线电
-    .desc = 这是辛迪加 genetic ancestor reinforcement 无线电。
-
-ent-ReinforcementRadioSyndicateSyndiCat = syndicat reinforcement 无线电
-    .desc = 这是syndicat reinforcement 无线电。
-
-ent-NukeOpsDeclarationOfWar = 物品·war declarator
-    .desc = 这是物品·war declarator。
+ent-BoxHoloclown = 全息小丑盒
+    .desc = 装有一支全息小丑注射器的盒子。
 
 
-ent-NotekeeperCartridge = notekeeper 程序卡
-    .desc = 一件notekeeper 程序卡，可以用来演奏音乐。
+ent-ReinforcementRadio = 辛迪加增援无线电
+    .desc = 立刻呼叫一名水平成疑的辛迪加特工！仅提供基础装备。
 
-ent-NanoTaskCartridge = NanoTask 程序卡
-    .desc = 一件名为“NanoTask 程序卡”的实用设备。
+ent-ReinforcementRadioSyndicate = 辛迪加增援无线电
+    .desc = 立刻呼叫一名辛迪加特工！
 
-ent-NewsReaderCartridge = news 程序卡
-    .desc = 一件名为“news 程序卡”的实用设备。
+ent-ReinforcementRadioSyndicateAncestor = 辛迪加遗传先祖增援无线电
+    .desc = 呼叫一名由你选择、受过特殊训练的先祖前来协助。
 
-ent-CrewManifestCartridge = 船员 manifest 程序卡
-    .desc = 一件名为“船员 manifest 程序卡”的实用设备。
+ent-ReinforcementRadioSyndicateSyndiCat = 辛迪猫增援无线电
+    .desc = 呼叫一只训练有素且体内装有微型炸弹的猫前来协助。
 
-ent-NetProbeCartridge = NetProbe 程序卡
-    .desc = 一件名为“NetProbe 程序卡”的实用设备。
-
-ent-LogProbeCartridge = LogProbe 程序卡
-    .desc = 一件名为“LogProbe 程序卡”的实用设备。
-
-ent-WantedListCartridge = Wanted list 程序卡
-    .desc = 一件名为“Wanted list 程序卡”的实用设备。
-
-ent-MedTekCartridge = MedTek 程序卡
-    .desc = 一件名为“MedTek 程序卡”的实用设备。
-
-ent-AstroNavCartridge = AstroNav 程序卡
-    .desc = 一件名为“AstroNav 程序卡”的实用设备。
+ent-NukeOpsDeclarationOfWar = 宣战装置
+    .desc = 用于向目标发送敌对宣言；对方准备迎战期间，你方穿梭机将延迟出发。如此狂妄的举动会引起辛迪加强大资助者的注意，为小队提供巨额额外遥晶。必须在任务开始时使用，否则资助者会失去兴趣。
 
 
-ent-ChameleonProjectorNoBattery = chameleon 投影仪
-    .desc = 这是chameleon 投影仪。
+ent-NotekeeperCartridge = 记事员程序卡
+    .desc = 用于记录笔记的程序。
 
-ent-ChameleonProjector = chameleon 投影仪
-    .desc = 这是chameleon 投影仪。
+ent-NanoTaskCartridge = 纳米任务程序卡
+    .desc = 用于保存待办任务清单的程序。
 
-ent-ChameleonDisguise = 物品·Urist McKleiner
+ent-NewsReaderCartridge = 新闻阅读程序卡
+    .desc = 用于阅读新闻的程序。
 
-ent-ActionDisguiseNoRot = 物品·Toggle Rotation
-    .desc = 这是物品·Toggle Rotation。
+ent-CrewManifestCartridge = 船员名单程序卡
+    .desc = 用于列出其他船员的程序。
 
-ent-ActionDisguiseAnchor = 物品·Toggle Anchored
-    .desc = 这是物品·Toggle Anchored。
+ent-NetProbeCartridge = 网络探针程序卡
+    .desc = 用于获取网络设备地址和频率的程序。
+
+ent-LogProbeCartridge = 日志探针程序卡
+    .desc = 用于读取设备访问日志的程序。
+
+ent-WantedListCartridge = 通缉名单程序卡
+    .desc = 用于获取通缉人员名单的程序。
+
+ent-MedTekCartridge = 医疗科技程序卡
+    .desc = 提供医疗诊断工具的程序。
+
+ent-AstroNavCartridge = 星航程序卡
+    .desc = 提供GPS坐标的导航程序。
 
 
-ent-DeviceDesynchronizer = 物品·desynchronizer
-    .desc = 一件名为“物品·desynchronizer”的实用设备。
+ent-ChameleonProjectorNoBattery = 变色龙投影仪
+    .desc = 利用全息寄生体技术制造周围任意物体的硬光复制品。伪装被捡起或停用时会消失。
+
+ent-ChameleonProjector = 变色龙投影仪
+    .desc = 利用全息寄生体技术制造周围任意物体的硬光复制品。伪装被捡起或停用时会消失。
+
+ent-ChameleonDisguise = 乌里斯特·麦克莱纳
+
+ent-ActionDisguiseNoRot = 切换旋转
+    .desc = 防止伪装随方向旋转，在某些情况下更便于藏身。
+
+ent-ActionDisguiseAnchor = 切换锚定
+    .desc = 许多物体都应当锚定，否则你的伪装会显得非常可疑。
+
+
+ent-DeviceDesynchronizer = 去同步装置
+    .desc = 一种实验装置，可暂时使使用者与时空失去同步，在启用期间近乎凭空消失。
 
 
 ent-DoorRemoteDefault = 门禁遥控器
-    .desc = 这是门禁遥控器。
+    .desc = 可远程开门和落下门栓的小装置。
 
-ent-DoorRemoteCommand = 指挥部 门禁遥控器
+ent-DoorRemoteCommand = 指挥部门禁遥控器
 
-ent-DoorRemoteCustom = custom 门禁遥控器
-    .desc = 这是custom 门禁遥控器。
+ent-DoorRemoteCustom = 自定义门禁遥控器
+    .desc = 可远程开门和落下门栓的小装置。这个高级型号没有内置权限，而会继承使用者ID卡的权限。
 
-ent-DoorRemoteSecurity = 安保 门禁遥控器
+ent-DoorRemoteSecurity = 安保部门禁遥控器
 
-ent-DoorRemoteArmory = armory 门禁遥控器
+ent-DoorRemoteArmory = 军械库门禁遥控器
 
-ent-DoorRemoteService = 服务 门禁遥控器
+ent-DoorRemoteService = 服务部门禁遥控器
 
-ent-DoorRemoteResearch = 科研 门禁遥控器
+ent-DoorRemoteResearch = 科研部门禁遥控器
 
-ent-DoorRemoteCargo = 货运 门禁遥控器
+ent-DoorRemoteCargo = 货运部门禁遥控器
 
-ent-DoorRemoteMedical = 医疗 门禁遥控器
+ent-DoorRemoteMedical = 医疗部门禁遥控器
 
-ent-DoorRemoteEngineering = 工程 门禁遥控器
+ent-DoorRemoteEngineering = 工程部门禁遥控器
 
-ent-DoorRemoteAll = super 门禁遥控器
+ent-DoorRemoteAll = 超级门禁遥控器
 
-ent-DoorRemoteXenoborg = xenoborg 门禁遥控器
+ent-DoorRemoteXenoborg = 异种赛博格门禁遥控器
 
 
 ent-EncryptionKey = 加密密钥
-    .desc = 这是加密密钥。
+    .desc = 用于耳麦的小型加密芯片。
 
-ent-EncryptionKeyCommon = common 加密密钥
-    .desc = 这是common 加密密钥。
+ent-EncryptionKeyCommon = 公共频道加密密钥
+    .desc = 任何人都能使用的加密密钥。
 
-ent-EncryptionKeyCargo = 货运 加密密钥
-    .desc = 这是货运 加密密钥。
+ent-EncryptionKeyCargo = 货运部加密密钥
+    .desc = 供后勤人员使用的加密密钥。
 
-ent-EncryptionKeyCentCom = 中央指挥部 加密密钥
-    .desc = 这是中央指挥部 加密密钥。
+ent-EncryptionKeyCentCom = 中央指挥部加密密钥
+    .desc = 舰长的上司所使用的加密密钥。
 
-ent-EncryptionKeyStationMaster = 空间站 master 加密密钥
-    .desc = 这是空间站 master 加密密钥。
+ent-EncryptionKeyStationMaster = 空间站总控加密密钥
+    .desc = 空间站高层所使用的加密密钥。
 
-ent-EncryptionKeyCommand = 指挥部 加密密钥
-    .desc = 这是指挥部 加密密钥。
+ent-EncryptionKeyCommand = 指挥部加密密钥
+    .desc = 船员上司所使用的加密密钥。
 
-ent-EncryptionKeyEngineering = 工程 加密密钥
-    .desc = 这是工程 加密密钥。
+ent-EncryptionKeyEngineering = 工程部加密密钥
+    .desc = 工程师使用的加密密钥。
 
-ent-EncryptionKeyMedical = 医疗 加密密钥
-    .desc = 这是医疗 加密密钥。
+ent-EncryptionKeyMedical = 医疗部加密密钥
+    .desc = 拯救生命之人使用的加密密钥。
 
-ent-EncryptionKeyMedicalScience = med-sci 加密密钥
-    .desc = 这是med-sci 加密密钥。
+ent-EncryptionKeyMedicalScience = 医疗科研联合加密密钥
+    .desc = 供尚未决定站哪一边的人使用的加密密钥。
 
-ent-EncryptionKeyScience = 科研 加密密钥
-    .desc = 这是科研 加密密钥。
+ent-EncryptionKeyScience = 科研部加密密钥
+    .desc = 科学家使用的加密密钥。也许它还能防等离子体？
 
-ent-EncryptionKeyRobo = robotech 加密密钥
-    .desc = 这是robotech 加密密钥。
+ent-EncryptionKeyRobo = 机器人技术加密密钥
+    .desc = 机器人技术工程师使用的加密密钥。上面或许还装着一台LAH-6000？
 
-ent-EncryptionKeySecurity = 安保 加密密钥
-    .desc = 这是安保 加密密钥。
+ent-EncryptionKeySecurity = 安保部加密密钥
+    .desc = 安保人员使用的加密密钥。
 
-ent-EncryptionKeyService = 服务 加密密钥
-    .desc = 这是服务 加密密钥。
+ent-EncryptionKeyService = 服务部加密密钥
+    .desc = 服务人员使用的加密密钥；他们负责让空间站人人吃饱、开心又整洁。
 
-ent-EncryptionKeySyndie = 血红 加密密钥
-    .desc = 这是血红 加密密钥。
+ent-EncryptionKeySyndie = 血红加密密钥
+    .desc = 一枚加密密钥，供……等等……这块芯片是谁的？
 
-ent-EncryptionKeyBinary = 二进制翻译 key
-    .desc = 这是二进制翻译 key。
+ent-EncryptionKeyBinary = 二进制翻译密钥
+    .desc = 可翻译硅基生命所用二进制信号的加密密钥。
 
-ent-EncryptionKeyBinarySyndicate = 二进制翻译 key
-    .desc = 这是二进制翻译 key。
+ent-EncryptionKeyBinarySyndicate = 二进制翻译密钥
+    .desc = 辛迪加加密密钥，可翻译硅基生命所用的二进制信号。
 
-ent-EncryptionKeyFreelance = 自由职业者 加密密钥
-    .desc = 这是自由职业者 加密密钥。
-
-
-ent-BaseFlatpack = base 平板包装
-    .desc = 一件名为“base 平板包装”的实用设备。
-
-ent-SolarAssemblyFlatpack = solar assembly 平板包装
-    .desc = 一件名为“solar assembly 平板包装”的实用设备。
-
-ent-AmePartFlatpack = AME 平板包装
-    .desc = 一件名为“AME 平板包装”的实用设备。
-
-ent-SingularityGeneratorFlatpack = singularity 发生器 平板包装
-    .desc = 一件名为“singularity 发生器 平板包装”的实用设备。
-
-ent-RadiationCollectorFlatpack = radiation 收集器 平板包装
-    .desc = 一件名为“radiation 收集器 平板包装”的实用设备。
-
-ent-ContainmentFieldGeneratorFlatpack = containment 力场 发生器 平板包装
-    .desc = 一件名为“containment 力场 发生器 平板包装”的实用设备。
-
-ent-EmitterFlatpack = emitter 平板包装
-    .desc = 一件名为“emitter 平板包装”的实用设备。
-
-ent-TeslaGeneratorFlatpack = tesla 发生器 平板包装
-    .desc = 一件名为“tesla 发生器 平板包装”的实用设备。
-
-ent-TeslaCoilFlatpack = tesla 线圈 平板包装
-    .desc = 一件名为“tesla 线圈 平板包装”的实用设备。
-
-ent-TeslaGroundingRodFlatpack = 接地棒 平板包装
-    .desc = 一件名为“接地棒 平板包装”的实用设备。
-
-ent-GyroscopeFlatpack = gyroscope 平板包装
-    .desc = 一件名为“gyroscope 平板包装”的实用设备。
-
-ent-ThrusterFlatpack = 推进器 平板包装
-    .desc = 一件名为“推进器 平板包装”的实用设备。
-
-ent-SpaceHeaterFlatpack = 太空 加热器 平板包装
-    .desc = 一件名为“太空 加热器 平板包装”的实用设备。
-
-ent-FaxMachineFlatpack = 传真机 平板包装
-    .desc = 一件名为“传真机 平板包装”的实用设备。
-
-ent-CrewMonitoringServerFlatpack = 船员 监控 服务器 平板包装
-    .desc = 一件名为“船员 监控 服务器 平板包装”的实用设备。
-
-ent-CrewMonitoringComputerFlatpack = 船员 监控 计算机 平板包装
-    .desc = 一件名为“船员 监控 计算机 平板包装”的实用设备。
-
-ent-HydroponicsTrayFlatpack = 水培托盘 平板包装
-    .desc = 一件名为“水培托盘 平板包装”的实用设备。
+ent-EncryptionKeyFreelance = 自由职业者加密密钥
+    .desc = 自由职业者使用的加密密钥，他们可能属于某个组织，也可能没有。看起来已经很破旧了。
 
 
-ent-ForensicScanner = forensic 扫描仪
-    .desc = 一件名为“forensic 扫描仪”的实用设备。
+ent-BaseFlatpack = 基础平板包装
+    .desc = 用于建造基础的平板包装。
 
-ent-ForensicReportPaper = forensic 扫描仪 报告
-    .desc = 这是forensic 扫描仪 报告。
+ent-SolarAssemblyFlatpack = 太阳能组件平板包装
+    .desc = 用于建造太阳能组件的平板包装。
 
-ent-PaperAccessLogs = 物品·access logs
-    .desc = 这是物品·access logs。
+ent-AmePartFlatpack = 反物质引擎平板包装
+    .desc = 用于建造反物质引擎的平板包装。
+
+ent-SingularityGeneratorFlatpack = 奇点发生器平板包装
+    .desc = 用于建造奇点发生器的平板包装。
+
+ent-RadiationCollectorFlatpack = 辐射收集器平板包装
+    .desc = 用于建造辐射收集器的平板包装。
+
+ent-ContainmentFieldGeneratorFlatpack = 约束场发生器平板包装
+    .desc = 用于建造约束场发生器的平板包装。
+
+ent-EmitterFlatpack = 发射器平板包装
+    .desc = 用于建造发射器的平板包装。
+
+ent-TeslaGeneratorFlatpack = 特斯拉发生器平板包装
+    .desc = 用于建造特斯拉发生器的平板包装。
+
+ent-TeslaCoilFlatpack = 特斯拉线圈平板包装
+    .desc = 用于建造特斯拉线圈的平板包装。
+
+ent-TeslaGroundingRodFlatpack = 特斯拉接地棒平板包装
+    .desc = 用于建造特斯拉接地棒的平板包装。
+
+ent-GyroscopeFlatpack = 陀螺仪平板包装
+    .desc = 用于建造陀螺仪的平板包装。
+
+ent-ThrusterFlatpack = 推进器平板包装
+    .desc = 用于建造推进器的平板包装。
+
+ent-SpaceHeaterFlatpack = 太空加热器平板包装
+    .desc = 用于建造太空加热器的平板包装。
+
+ent-FaxMachineFlatpack = 传真机平板包装
+    .desc = 用于建造传真机的平板包装。
+
+ent-CrewMonitoringServerFlatpack = 船员监控服务器平板包装
+    .desc = 用于建造船员监控服务器的平板包装。
+
+ent-CrewMonitoringComputerFlatpack = 船员监控控制台平板包装
+    .desc = 用于建造船员监控控制台的平板包装。
+
+ent-HydroponicsTrayFlatpack = 水培托盘平板包装
+    .desc = 用于建造水培托盘的平板包装。
 
 
-ent-GeigerCounter = Geiger 计数器
-    .desc = 一件名为“Geiger 计数器”的实用设备。
+ent-ForensicScanner = 法证扫描仪
+    .desc = 一种手持设备，可以扫描物体上的指纹和纤维。
+
+ent-ForensicReportPaper = 法证扫描报告
+    .desc = 充其量只能算是间接证据。
+
+ent-PaperAccessLogs = 访问日志
+    .desc = 侦探那台可靠的日志探针打印出的记录。
 
 
-ent-Holoprojector = holographic sign 投影仪
-    .desc = 一件holographic sign 投影仪，可以用来演奏音乐。
+ent-GeigerCounter = 盖革计数器
+    .desc = 用于探测并测量辐射脉冲的手持设备。
 
-ent-HoloprojectorBorg = holosign 投影仪
-    .desc = 这是holosign 投影仪。
 
-ent-HoloprojectorClownBorg = holopeel 投影仪
-    .desc = 这是holopeel 投影仪。
+ent-Holoprojector = 全息标牌投影仪
+    .desc = 一台方便好用的全息投影仪，会显示清洁警示牌。
 
-ent-HolofanProjector = holofan 投影仪
-    .desc = 这是holofan 投影仪。
+ent-HoloprojectorBorg = 全息标牌投影仪
+    .desc = 供清洁赛博格使用的改装全息标牌投影仪，能够自动充能。
 
-ent-HolofanProjectorBorg = 物品·integrated holofan
-    .desc = 这是物品·integrated holofan。
+ent-HoloprojectorClownBorg = 全息蕉皮投影仪
+    .desc = 投射湿滑硬光香蕉皮的全息蕉皮投影仪。它还会自动充能，快乐永不停歇！
 
-ent-HoloprojectorField = force 力场 投影仪
-    .desc = 这是force 力场 投影仪。
+ent-HolofanProjector = 全息风机投影仪
+    .desc = 在大气紧急事故中阻止不要命的助手害死所有人。
 
-ent-HoloprojectorSecurity = holobarrier 投影仪
-    .desc = 这是holobarrier 投影仪。
+ent-HolofanProjectorBorg = 内置全息风机
+    .desc = 在大气紧急事故中阻止蠢货进一步伤害船员。它直接装在工程赛博格体内，会随时间充能。
+
+ent-HoloprojectorField = 力场投影仪
+    .desc = 制造一道无法通行的力场，什么都过不去。离得太近可能致癌，也可能不会。
+
+ent-HoloprojectorSecurity = 全息屏障投影仪
+    .desc = 制造一道坚实但脆弱的全息屏障。
 
 
 ent-Mousetrap = 捕鼠夹
-    .desc = 这是捕鼠夹。
+    .desc = 适合捕捉偷偷溜进厨房的啮齿动物。
 
-ent-MousetrapArmed = 捕鼠夹
-    .desc = 这是捕鼠夹。
+ent-MousetrapArmed = 已上弦的捕鼠夹
+    .desc = 适合捕捉偷偷溜进厨房的啮齿动物。
 
 
-ent-ExplosivePayload = 爆炸 载荷
+ent-ExplosivePayload = 爆炸载荷
 
-ent-ChemicalPayload = 化学 载荷
-    .desc = 这是化学 载荷。
+ent-ChemicalPayload = 化学载荷
+    .desc = 一个化学载荷，可容纳两个烧杯。与触发器和外壳组合后，可用于引发化学反应。
 
-ent-FlashPayload = 闪光 载荷
-    .desc = 这是闪光 载荷。
+ent-FlashPayload = 闪光载荷
+    .desc = 一次性闪光载荷。
 
 
-ent-BasePDA = 物品·PDA
-    .desc = 这是物品·PDA。
+ent-BasePDA = 个人数据助理PDA
+    .desc = 个人数据助理。
 
-ent-AssistantPDA = 助理 PDA
-    .desc = 这是助理 PDA。
+ent-AssistantPDA = 助手PDA
+    .desc = 它为什么不是灰色的？
 
-ent-TechnicalAssistantPDA = 技术助理 PDA
-    .desc = 这是技术助理 PDA。
+ent-TechnicalAssistantPDA = 技术助理PDA
+    .desc = 它为什么不是黄色的？
 
-ent-MedicalInternPDA = 实习医师 PDA
-    .desc = 这是实习医师 PDA。
+ent-MedicalInternPDA = 实习医师PDA
+    .desc = 它为什么不是白色的？
 
-ent-SecurityCadetPDA = 安保 cadet PDA
-    .desc = 这是安保 cadet PDA。
+ent-SecurityCadetPDA = 安保学员PDA
+    .desc = 它为什么不是红色的？
 
-ent-ResearchAssistantPDA = 研究助理 PDA
-    .desc = 这是研究助理 PDA。
+ent-ResearchAssistantPDA = 研究助理PDA
+    .desc = 它为什么不是紫色的？
 
-ent-ServiceWorkerPDA = 服务人员 PDA
-    .desc = 这是服务人员 PDA。
+ent-ServiceWorkerPDA = 服务人员PDA
+    .desc = 它为什么不是灰色的？
 
-ent-ChefPDA = 厨师 PDA
-    .desc = 这是厨师 PDA。
+ent-ChefPDA = 厨师PDA
+    .desc = 沾满了油脂和面粉。
 
-ent-BotanistPDA = 植物学家 PDA
-    .desc = 这是植物学家 PDA。
+ent-BotanistPDA = 植物学家PDA
+    .desc = 散发着泥土的气息。
 
-ent-ClownPDA = 小丑 PDA
-    .desc = 这是小丑 PDA。
+ent-ClownPDA = 小丑PDA
+    .desc = 眼见不一定为实。
 
-ent-MimePDA = 哑剧演员 PDA
-    .desc = 这是哑剧演员 PDA。
+ent-MimePDA = 哑剧演员PDA
+    .desc = 出人意料地没有静音。
 
-ent-ChaplainPDA = 牧师 PDA
-    .desc = 这是牧师 PDA。 # Starlight
+ent-ChaplainPDA = 牧师PDA
+    .desc = 这种黑色究竟是朴素还是奢华？这是信仰问题。 # Starlight
 
-ent-QuartermasterPDA = 军需官 PDA
-    .desc = 这是军需官 PDA。
+ent-QuartermasterPDA = 军需官PDA
+    .desc = 给那个订购枪支的家伙用的PDA。
 
-ent-CargoPDA = 货运 PDA
-    .desc = 这是货运 PDA。
+ent-CargoPDA = 货运技师PDA
+    .desc = 给那些订购披萨的家伙用的PDA。
 
-ent-SalvagePDA = 物品·salvage PDA
-    .desc = 这是物品·salvage PDA。
+ent-SalvagePDA = 打捞专员PDA
+    .desc = 闻起来像灰烬。
 
-ent-BartenderPDA = 酒保 PDA
-    .desc = 这是酒保 PDA。
+ent-BartenderPDA = 酒保PDA
+    .desc = 闻起来像啤酒。
 
-ent-LibrarianPDA = 图书管理员 PDA
-    .desc = 这是图书管理员 PDA。
+ent-LibrarianPDA = 图书管理员PDA
+    .desc = 闻起来像书本。
 
-ent-LawyerPDA = 律师 PDA
-    .desc = 这是律师 PDA。
+ent-LawyerPDA = 律师PDA
+    .desc = 供律师拉拢可疑客户。
 
-ent-JanitorPDA = 清洁工 PDA
-    .desc = 这是清洁工 PDA。
+ent-JanitorPDA = 清洁工PDA
+    .desc = 闻起来像漂白剂。
 
-ent-CaptainPDA = 舰长 PDA
-    .desc = 这是舰长 PDA。
+ent-CaptainPDA = 舰长PDA
+    .desc = 出人意料地与你的PDA没什么不同。
 
-ent-HoPPDA = 人事主管 PDA
-    .desc = 这是人事主管 PDA。
+ent-HoPPDA = 人事主管PDA
+    .desc = 看起来被人咬过。
 
-ent-CEPDA = 工程主管 PDA
-    .desc = 这是工程主管 PDA。
+ent-CEPDA = 工程主管PDA
+    .desc = 看起来几乎没用过。
 
-ent-EngineerPDA = 工程师 PDA
-    .desc = 这是工程师 PDA。
+ent-EngineerPDA = 空间站工程师PDA
+    .desc = 结实耐用，磨损明显。
 
-ent-CMOPDA = 医疗主管 PDA
-    .desc = 这是医疗主管 PDA。
+ent-CMOPDA = 医疗主管PDA
+    .desc = 亮得出奇，而且一尘不染。
 
-ent-MedicalPDA = 医疗 PDA
-    .desc = 这是医疗 PDA。
+ent-MedicalPDA = 医师PDA
+    .desc = 光洁又无菌。
 
-ent-ParamedicPDA = 急救员 PDA
-    .desc = 这是急救员 PDA。
+ent-ParamedicPDA = 急救员PDA
+    .desc = 光洁又无菌。
 
-ent-ChemistryPDA = 药剂师 PDA # Starlight
-    .desc = 这是药剂师 PDA。
+ent-ChemistryPDA = 药剂师PDA # Starlight
+    .desc = 这里那里散布着几块褪色斑痕。
 
-ent-RnDPDA = 研究主管 PDA
-    .desc = 这是研究主管 PDA。
+ent-RnDPDA = 研究主管PDA
+    .desc = 看起来出人意料地普通。
 
-ent-SciencePDA = 科研 PDA
-    .desc = 这是科研 PDA。
+ent-SciencePDA = 科学家PDA
+    .desc = 上面沾满了成分不明的黏糊物。
 
-ent-HoSPDA = 安保主管 PDA
-    .desc = 这是安保主管 PDA。
+ent-HoSPDA = 安保主管PDA
+    .desc = 持有这台PDA者即为法律。
 
-ent-WardenPDA = 典狱长 PDA
-    .desc = 这是典狱长 PDA。
+ent-WardenPDA = 典狱长PDA
+    .desc = 操作系统似乎已被越狱。
 
-ent-SecurityPDA = 安保 PDA
-    .desc = 这是安保 PDA。
+ent-SecurityPDA = 安保干员PDA
+    .desc = 用红色来掩盖助手的血迹。
 
-ent-CentcomPDA = 中央指挥部 PDA
-    .desc = 这是中央指挥部 PDA。
+ent-CentcomPDA = 中央指挥部PDA
+    .desc = 浅绿色，象征着会走路的官僚主义。
 
-ent-AdminPDA = 管理员 PDA
-    .desc = 这是管理员 PDA。
+ent-AdminPDA = 管理员PDA
+    .desc = 如果你不是管理员，请把这台PDA交给最近的管理员。
 
-ent-MusicianPDA = 乐手 PDA
-    .desc = 这是乐手 PDA。
+ent-MusicianPDA = 乐手PDA
+    .desc = 它令你灵感涌现。
 
-ent-AtmosPDA = 大气 PDA
-    .desc = 这是大气 PDA。
+ent-AtmosPDA = 大气技师PDA
+    .desc = 仍然散发着等离子体的味道。
 
-ent-ClearPDA = 透明 PDA
-    .desc = 这是透明 PDA。
+ent-ClearPDA = 透明PDA
+    .desc = 纯度高达99.44%的塑料。
 
-ent-SyndiPDA = 辛迪加 PDA
-    .desc = 这是辛迪加 PDA。
+ent-SyndiPDA = 辛迪加PDA
+    .desc = 好，该当个有用的成员——哦酷，我是坏人，该去杀人了！
 
-ent-SyndiOperativePDA = 辛迪加 特工 PDA
-    .desc = 这是辛迪加 特工 PDA。
+ent-SyndiOperativePDA = 辛迪加特工PDA
+    .desc = 纳米传讯必亡！
 
-ent-SyndiCorpsmanPDA = 辛迪加 corpsman PDA
-    .desc = 这是辛迪加 corpsman PDA。
+ent-SyndiCorpsmanPDA = 辛迪加医务兵PDA
+    .desc = 指挥官……我得做饭！
 
-ent-SyndiCommanderPDA = 辛迪加 指挥官 PDA
-    .desc = 这是辛迪加 指挥官 PDA。
+ent-SyndiCommanderPDA = 辛迪加指挥官PDA
+    .desc = 所以我们是什么，某种核弹小队吗？
 
-ent-ERTLeaderPDA = ERT 队长 PDA # Starlight: capitalization
-    .desc = 这是ERT 队长 PDA。
+ent-ERTLeaderPDA = 应急响应队队长PDA # Starlight: capitalization
+    .desc = 红色象征火力。
 
-ent-ERTChaplainPDA = ERT 牧师 PDA # Starlight: capitalization
-    .desc = 这是ERT 牧师 PDA。 # Starlight
+ent-ERTChaplainPDA = 应急响应队牧师PDA # Starlight: capitalization
+    .desc = 红色象征罪人的鲜血。 # Starlight
 
-ent-ERTEngineerPDA = ERT 工程师 PDA # Starlight: capitalization
-    .desc = 这是ERT 工程师 PDA。 # Starlight
+ent-ERTEngineerPDA = 应急响应队工程师PDA # Starlight: capitalization
+    .desc = 红色象征火力，而且磨损明显。 # Starlight
 
-ent-ERTJanitorPDA = ERT 清洁工 PDA # Starlight: capitalization
-    .desc = 这是ERT 清洁工 PDA。 # Starlight
+ent-ERTJanitorPDA = 应急响应队清洁工PDA # Starlight: capitalization
+    .desc = 红色象征火力，而且干净得吱吱作响。 # Starlight
 
-ent-ERTMedicPDA = ERT 医疗员 PDA # Starlight: capitalization
-    .desc = 这是ERT 医疗员 PDA。 # Starlight
+ent-ERTMedicPDA = 应急响应队医护员PDA # Starlight: capitalization
+    .desc = 红色象征火力，而且光洁无菌。 # Starlight
 
-ent-ERTSecurityPDA = ERT 安保 PDA # Starlight: capitalization
-    .desc = 这是ERT 安保 PDA。 # Starlight
+ent-ERTSecurityPDA = 应急响应队安保干员PDA # Starlight: capitalization
+    .desc = 红色象征火力，侧面刻着计数痕。 # Starlight
 
-ent-CBURNPDA = 物品·CBURN PDA
-    .desc = 这是物品·CBURN PDA。
+ent-CBURNPDA = CBURN特遣队PDA
+    .desc = 闻起来像腐肉。
 
-ent-PsychologistPDA = 心理医生 PDA
-    .desc = 这是心理医生 PDA。
+ent-PsychologistPDA = 心理医生PDA
+    .desc = 看起来清洁得一尘不染。
 
-ent-ReporterPDA = 记者 PDA
-    .desc = 这是记者 PDA。
+ent-ReporterPDA = 记者PDA
+    .desc = 闻起来像刚印好的报纸。
 
-ent-ZookeeperPDA = 动物管理员 PDA
-    .desc = 这是动物管理员 PDA。
+ent-ZookeeperPDA = 动物管理员PDA
+    .desc = 采用货真价实的合成皮革制成。好家伙！
 
-ent-BoxerPDA = 拳击手 PDA
-    .desc = 这是拳击手 PDA。
+ent-BoxerPDA = 拳击手PDA
+    .desc = 身形如蝶，铃声如蜂。
 
-ent-DetectivePDA = 侦探 PDA
-    .desc = 这是侦探 PDA。
+ent-DetectivePDA = 侦探PDA
+    .desc = 闻起来像雨……倾泻在屋顶上的雨……
 
-ent-BrigmedicPDA = 狱医 PDA
-    .desc = 这是狱医 PDA。
+ent-BrigmedicPDA = 狱医PDA
+    .desc = 屏幕上显示的是谁的脉搏？希望它别停下……
 
-ent-CluwnePDA = 受诅小丑 PDA
-    .desc = 这是受诅小丑 PDA。
+ent-CluwnePDA = 受诅小丑PDA
+    .desc = 一台受诅的受诅小丑PDA。
 
-ent-SeniorEngineerPDA = 资深 工程师 PDA
-    .desc = 这是资深 工程师 PDA。
+ent-SeniorEngineerPDA = 资深工程师PDA
+    .desc = 似乎被拆开又装回去过许多次。
 
-ent-SeniorResearcherPDA = 资深 researcher PDA
-    .desc = 这是资深 researcher PDA。
+ent-SeniorResearcherPDA = 资深研究员PDA
+    .desc = 看起来经历了多年的化学灼伤与爆炸。
 
-ent-SeniorPhysicianPDA = 资深 医师 PDA
-    .desc = 这是资深 医师 PDA。
+ent-SeniorPhysicianPDA = 资深医师PDA
+    .desc = 隐约散发着铁和化学品的气味。
 
-ent-SeniorOfficerPDA = 资深 干员 PDA
-    .desc = 这是资深 干员 PDA。
+ent-SeniorOfficerPDA = 资深安保干员PDA
+    .desc = 挨过打、受过砸、已经破损，但勉强还能用。
 
-ent-SeniorCourierPDA = 资深 快递员 PDA
-    .desc = 这是资深 快递员 PDA。
+ent-SeniorCourierPDA = 资深信使PDA
+    .desc = 闻起来像邮票和穿梭机燃料。
 
-ent-NinjaPDA = 忍者 PDA
-    .desc = 这是忍者 PDA。
+ent-NinjaPDA = 忍者PDA
+    .desc = 你这鬼鬼祟祟的混蛋！
 
-ent-PiratePDA = 海盗 PDA
-    .desc = 这是海盗 PDA。
+ent-PiratePDA = 海盗PDA
+    .desc = 呀——哈！
 
-ent-ChameleonPDA = 助理 PDA
-    .desc = 这是助理 PDA。
+ent-ChameleonPDA = 助手PDA
+    .desc = 它为什么不是灰色的？
 
-ent-WizardPDA = 巫师 PDA
-    .desc = 这是巫师 PDA。
+ent-WizardPDA = 巫师PDA
+    .desc = 你听见里面传来微弱的低语。
 
 
-ent-PinpointerBase = 定位器
-    .desc = 一件小巧的定位器，可供收藏和把玩。
+ent-PinpointerBase = 定位针
+    .desc = 手持追踪设备。它通常远比现在强大，但这一台被设定为只能锁定特定信号。请保持竖直以维持精度。
 
-ent-PinpointerNuclear = 定位器
+ent-PinpointerNuclear = 定位针
 
-ent-PinpointerSyndicateNuclear = 辛迪加 定位器
-    .desc = 这是辛迪加 定位器。
+ent-PinpointerSyndicateNuclear = 辛迪加定位针
+    .desc = 专为核弹特工任务生产，快去拿到那张核弹授权盘！
 
-ent-PinpointerUniversal = 通用 定位器
-    .desc = 一件名为“通用 定位器”的实用设备。
+ent-PinpointerUniversal = 万能定位针
+    .desc = 手持追踪设备，关闭时可锁定任意实体。请保持竖直以维持精度。
 
-ent-PinpointerStation = 空间站 定位器
-    .desc = 一件名为“空间站 定位器”的实用设备。
+ent-PinpointerStation = 空间站定位针
+    .desc = 手持追踪设备，可指示附近任意空间站的方向。
 
-ent-PinpointerMothership = 核心 定位器
-    .desc = 一件名为“核心 定位器”的实用设备。
+ent-PinpointerMothership = 母舰核心定位针
+    .desc = 手持追踪设备，可指示母舰核心的方向。
 
-ent-PinpointerMothershipPiece = piece of 核心 定位器
-    .desc = 这是piece of 核心 定位器。
+ent-PinpointerMothershipPiece = 核心定位针碎片
+    .desc = 核心定位针的碎片，需要四块才能修复。
 
-ent-PinpointerMothershipRepaired = 修复的 核心 定位器
-    .desc = 一件名为“修复的 核心 定位器”的实用设备。
+ent-PinpointerMothershipRepaired = 修复的核心定位针
+    .desc = 手持追踪设备，可指示母舰核心的方向。这台已经饱经风霜。
 
 
-ent-RadioHandheld = 手持 无线电
-    .desc = 这是手持 无线电。
+ent-RadioHandheld = 手持无线电
+    .desc = 方便好用的手持无线电。
 
-ent-RadioHandheldSecurity = 安保 无线电
-    .desc = 这是安保 无线电。
+ent-RadioHandheldSecurity = 安保无线电
+    .desc = 方便好用的安保无线电。
 
 
-ent-DefaultStationBeacon = 空间站 信标
-    .desc = 一件小巧的空间站 信标，可供收藏和把玩。
+ent-DefaultStationBeacon = 空间站信标
+    .desc = 向空间站地图传输信息的小型设备，可以进行配置。
 
-ent-StationBeaconPart = 空间站 信标 平板包装
-    .desc = 一件名为“空间站 信标 平板包装”的实用设备。
+ent-StationBeaconPart = 空间站信标平板包装
+    .desc = 用于建造空间站信标的平板包装。
 
 
-ent-BaseHandheldStationMap = 空间站 地图
-    .desc = 一件空间站 地图，可以用来演奏音乐。
+ent-BaseHandheldStationMap = 空间站地图
+    .desc = 显示当前空间站的地图读数。
 
-ent-HandheldStationMapNukeops = 目标 空间站 地图
-    .desc = 一件目标 空间站 地图，可以用来演奏音乐。
+ent-HandheldStationMapNukeops = 目标空间站地图
+    .desc = 显示目标空间站的地图读数。
 
 
-ent-DeviceQuantumSpinInverter = 量子 自旋 反转器
-    .desc = 一件名为“量子 自旋 反转器”的实用设备。
+ent-DeviceQuantumSpinInverter = 量子自旋反转器
+    .desc = 一种实验装置，通过反转两个实体粒子的自旋值来交换它们的位置。必须与另一台同类设备连接才能运作。
 
 
 ent-Wristwatch = 腕表
-    .desc = 一件腕表，可以用来演奏音乐。
+    .desc = 一块用来看时间的廉价手表。你玩《空间站14》浪费了多少时间？
 
-ent-WristwatchGold = 黄金 手表
-    .desc = 这是黄金 手表。
+ent-WristwatchGold = 金表
+    .desc = 一块比你的肾还值钱的华丽金表，曾属于臭名昭著的辛迪加黑帮成员武尼巴尔多“二百磅马肉绞碎机”弗雷迪亚尼。
 
 
-ent-MysteryFigureBoxTrash = unfolded 纸板 盒
-    .desc = 一件小巧的unfolded 纸板 盒，可供收藏和把玩。
+ent-MysteryFigureBoxTrash = 展开的纸板盒
+    .desc = 一个小巧、尚未折起的纸板玩具盒。
 
-ent-MysteryFigureBox = 神秘 spacemen minifigure 盒
-    .desc = 一件小巧的神秘 spacemen minifigure 盒，可供收藏和把玩。
+ent-MysteryFigureBox = 神秘太空人手办盒
+    .desc = 装有神秘小手办的盒子。盒侧画着几个被涂黑的“稀有”款，其中一个有着巨大而非人形的轮廓。
 
-ent-MysteryLighterBox = Novelty 打火机 神秘 盒
-    .desc = 这是Novelty 打火机 神秘 盒。 #Starlight-edit
+ent-MysteryLighterBox = 新奇打火机盲盒
+    .desc = 一盒已停产的促销打火机。侧面褪色刮花的标签写着：“可能含有违禁品。” #Starlight-edit
 
 
-ent-BaseFigurine = 模型
-    .desc = 一件小巧的模型，可供收藏和把玩。
+ent-BaseFigurine = 手办
+    .desc = 一个小巧的模型。
 
-ent-ToyFigurineHeadOfPersonnel = 人事主管 模型
-    .desc = 一件小巧的人事主管 模型，可供收藏和把玩。
+ent-ToyFigurineHeadOfPersonnel = 人事主管手办
+    .desc = 一个描绘人事主管的精致小手办。
 
-ent-ToyFigurineAssistant = 助理 模型
-    .desc = 一件小巧的助理 模型，可供收藏和把玩。
+ent-ToyFigurineAssistant = 助手手办
+    .desc = 一个随处可见、平平无奇的助手手办。绝对没有什么古怪。
 
-ent-ToyFigurineClown = 小丑 模型
-    .desc = 一件小巧的小丑 模型，可供收藏和把玩。
+ent-ToyFigurineClown = 小丑手办
+    .desc = 一个小丑手办。一想到别人以前可能对它做过什么，你就不寒而栗。
 
-ent-ToyFigurineHoloClown = holoclown 模型
-    .desc = 一件小巧的holoclown 模型，可供收藏和把玩。
+ent-ToyFigurineHoloClown = 全息小丑手办
+    .desc = 一个全息小丑手办，比普通小丑更烦人，也同样真实。
 
-ent-ToyFigurineMime = 哑剧演员 模型
-    .desc = 一件小巧的哑剧演员 模型，可供收藏和把玩。
+ent-ToyFigurineMime = 哑剧演员手办
+    .desc = 一个描绘哑剧演员的精致小手办。
 
-ent-ToyFigurineMusician = 乐手 模型
-    .desc = 一件小巧的乐手 模型，可供收藏和把玩。
+ent-ToyFigurineMusician = 乐手手办
+    .desc = 一个描绘乐手的精致小手办。
 
-ent-ToyFigurineBoxer = 拳击手 模型
-    .desc = 一件小巧的拳击手 模型，可供收藏和把玩。
+ent-ToyFigurineBoxer = 拳击手手办
+    .desc = 一个描绘拳击手的精致小手办。
 
-ent-ToyFigurineCaptain = 舰长 模型
-    .desc = 一件小巧的舰长 模型，可供收藏和把玩。 # SL
+ent-ToyFigurineCaptain = 舰长手办
+    .desc = 一个描绘舰长的精致小手办。 # SL
 
-ent-ToyFigurineHeadOfSecurity = 安保主管 模型
-    .desc = 一件小巧的安保主管 模型，可供收藏和把玩。
+ent-ToyFigurineHeadOfSecurity = 安保主管手办
+    .desc = 一个描绘安保主管的精致小手办。
 
-ent-ToyFigurineWarden = 典狱长 模型
-    .desc = 一件小巧的典狱长 模型，可供收藏和把玩。
+ent-ToyFigurineWarden = 典狱长手办
+    .desc = 一个描绘典狱长的精致小手办。
 
-ent-ToyFigurineDetective = 侦探 模型
-    .desc = 一件小巧的侦探 模型，可供收藏和把玩。
+ent-ToyFigurineDetective = 侦探手办
+    .desc = 一个描绘侦探的精致小手办。
 
-ent-ToyFigurineSecurity = 安保干员 模型
-    .desc = 一件小巧的安保干员 模型，可供收藏和把玩。
+ent-ToyFigurineSecurity = 安保干员手办
+    .desc = 一个描绘安保干员的精致小手办。
 
-ent-ToyFigurineLawyer = 律师 模型
-    .desc = 一件小巧的律师 模型，可供收藏和把玩。
+ent-ToyFigurineLawyer = 律师手办
+    .desc = 一个描绘律师的精致小手办。
 
-ent-ToyFigurineCargoTech = 货运 technican 模型
-    .desc = 一件小巧的货运 technican 模型，可供收藏和把玩。
+ent-ToyFigurineCargoTech = 货运技师手办
+    .desc = 一个描绘货运技师的精致小手办。
 
-ent-ToyFigurineSalvage = 打捞专员 模型
-    .desc = 一件小巧的打捞专员 模型，可供收藏和把玩。
+ent-ToyFigurineSalvage = 打捞专员手办
+    .desc = 一个描绘打捞专员的精致小手办。
 
-ent-ToyFigurineQuartermaster = 军需官 模型
-    .desc = 一件小巧的军需官 模型，可供收藏和把玩。
+ent-ToyFigurineQuartermaster = 军需官手办
+    .desc = 一个描绘军需官的精致小手办。
 
-ent-ToyFigurineChiefEngineer = 工程主管 模型
-    .desc = 一件小巧的工程主管 模型，可供收藏和把玩。
+ent-ToyFigurineChiefEngineer = 工程主管手办
+    .desc = 一个描绘工程主管的精致小手办。
 
-ent-ToyFigurineEngineer = 空间站工程师 模型
-    .desc = 一件小巧的空间站工程师 模型，可供收藏和把玩。
+ent-ToyFigurineEngineer = 空间站工程师手办
+    .desc = 一个描绘空间站工程师的精致小手办。
 
-ent-ToyFigurineAtmosTech = 大气技师 模型
-    .desc = 一件小巧的大气技师 模型，可供收藏和把玩。
+ent-ToyFigurineAtmosTech = 大气技师手办
+    .desc = 一个描绘大气技师的精致小手办。
 
-ent-ToyFigurineResearchDirector = 研究主管 模型
-    .desc = 一件小巧的研究主管 模型，可供收藏和把玩。
+ent-ToyFigurineResearchDirector = 研究主管手办
+    .desc = 一个描绘研究主管的精致小手办。
 
-ent-ToyFigurineScientist = 科学家 模型
-    .desc = 一件小巧的科学家 模型，可供收藏和把玩。
+ent-ToyFigurineScientist = 科学家手办
+    .desc = 一个描绘科学家的精致小手办。
 
-ent-ToyFigurineChiefMedicalOfficer = 医疗主管 模型
-    .desc = 一件小巧的医疗主管 模型，可供收藏和把玩。
+ent-ToyFigurineChiefMedicalOfficer = 医疗主管手办
+    .desc = 一个描绘医疗主管的精致小手办。
 
-ent-ToyFigurineChemist = 药剂师 模型
-    .desc = 一件小巧的药剂师 模型，可供收藏和把玩。
+ent-ToyFigurineChemist = 药剂师手办
+    .desc = 一个描绘药剂师的精致小手办。
 
-ent-ToyFigurineParamedic = 急救员 模型
-    .desc = 一件小巧的急救员 模型，可供收藏和把玩。
+ent-ToyFigurineParamedic = 急救员手办
+    .desc = 一个描绘急救员的精致小手办。
 
-ent-ToyFigurineMedicalDoctor = 医师 模型
-    .desc = 一件小巧的医师 模型，可供收藏和把玩。
+ent-ToyFigurineMedicalDoctor = 医师手办
+    .desc = 一个描绘医师的精致小手办。
 
-ent-ToyFigurineLibrarian = 图书管理员 模型
-    .desc = 一件小巧的图书管理员 模型，可供收藏和把玩。
+ent-ToyFigurineLibrarian = 图书管理员手办
+    .desc = 一个描绘图书管理员的精致小手办。
 
-ent-ToyFigurineChaplain = 牧师 模型
-    .desc = 一件小巧的牧师 模型，可供收藏和把玩。 # Starlight
+ent-ToyFigurineChaplain = 牧师手办
+    .desc = 一个描绘牧师的精致小手办。 # Starlight
 
-ent-ToyFigurineChef = 厨师 模型
-    .desc = 一件小巧的厨师 模型，可供收藏和把玩。 # Starlight
+ent-ToyFigurineChef = 厨师手办
+    .desc = 一个描绘厨师的精致小手办。 # Starlight
 
-ent-ToyFigurineBartender = 酒保 模型
-    .desc = 一件小巧的酒保 模型，可供收藏和把玩。
+ent-ToyFigurineBartender = 酒保手办
+    .desc = 一个描绘酒保的精致小手办。
 
-ent-ToyFigurineBotanist = 植物学家 模型
-    .desc = 一件小巧的植物学家 模型，可供收藏和把玩。
+ent-ToyFigurineBotanist = 植物学家手办
+    .desc = 一个描绘植物学家的精致小手办。
 
-ent-ToyFigurineJanitor = 清洁工 模型
-    .desc = 一件小巧的清洁工 模型，可供收藏和把玩。
+ent-ToyFigurineJanitor = 清洁工手办
+    .desc = 一个描绘清洁工的精致小手办。
 
-ent-ToyFigurineNukie = 辛迪加 特工 模型
-    .desc = 一件小巧的辛迪加 特工 模型，可供收藏和把玩。
+ent-ToyFigurineNukie = 辛迪加核弹特工手办
+    .desc = 一个描绘辛迪加核弹特工的精致小手办。
 
-ent-ToyFigurineNukieElite = 精英 辛迪加 特工 模型
-    .desc = 一件小巧的精英 辛迪加 特工 模型，可供收藏和把玩。
+ent-ToyFigurineNukieElite = 精英辛迪加核弹特工手办
+    .desc = 一个描绘精英辛迪加核弹特工的精致小手办。
 
-ent-ToyFigurineNukieCommander = 辛迪加 特工 指挥官 模型
-    .desc = 一件小巧的辛迪加 特工 指挥官 模型，可供收藏和把玩。
+ent-ToyFigurineNukieCommander = 辛迪加核弹特工指挥官手办
+    .desc = 一个描绘辛迪加核弹特工指挥官的精致小手办。
 
-ent-ToyFigurineFootsoldier = 辛迪加 footsoldier 模型
-    .desc = 一件小巧的辛迪加 footsoldier 模型，可供收藏和把玩。
+ent-ToyFigurineFootsoldier = 辛迪加步兵手办
+    .desc = 一个描绘辛迪加步兵的精致小手办。
 
-ent-ToyFigurineWizard = 巫师 模型
-    .desc = 一件小巧的巫师 模型，可供收藏和把玩。
+ent-ToyFigurineWizard = 巫师手办
+    .desc = 一个描绘巫师的精致小手办。
 
-ent-ToyFigurineWizardFake = 假 巫师 模型
-    .desc = 一件小巧的假 巫师 模型，可供收藏和把玩。
+ent-ToyFigurineWizardFake = 冒牌巫师手办
+    .desc = 一个穿着劣质冒牌巫师服的人物手办。真是坑人！
 
-ent-ToyFigurineGriffin = griffin 模型
-    .desc = 一件小巧的griffin 模型，可供收藏和把玩。
+ent-ToyFigurineGriffin = “狮鹫”手办
+    .desc = 描绘犯罪大师“狮鹫”的手办。
 
-ent-ToyFigurineOwlman = owlman 模型
-    .desc = 一件小巧的owlman 模型，可供收藏和把玩。
+ent-ToyFigurineOwlman = “猫头鹰侠”手办
+    .desc = 描绘正义卫士“猫头鹰侠”的手办。
 
-ent-ToyFigurineSkeleton = 骷髅 模型
-    .desc = 一件小巧的骷髅 模型，可供收藏和把玩。
+ent-ToyFigurineSkeleton = 骷髅手办
+    .desc = 一个描绘骷髅的精致小手办。
 
-ent-ToyFigurineThief = 小偷 模型
-    .desc = 一件小巧的小偷 模型，可供收藏和把玩。
+ent-ToyFigurineThief = 窃贼手办
+    .desc = 一个描绘窃贼的精致小手办。
 
-ent-ToyNuke = nuke 玩具
-    .desc = 这是nuke 玩具。
+ent-ToyNuke = 核弹玩具
+    .desc = 核裂变炸弹的塑料模型。大概没有附赠铀……
 
-ent-ToyFigurineSpaceDragon = 太空 龙 模型
-    .desc = 一件小巧的太空 龙 模型，可供收藏和把玩。
+ent-ToyFigurineSpaceDragon = 太空龙手办
+    .desc = 一个描绘太空龙的精致小手办。
 
-ent-ToyFigurineQueen = 异种 女王 模型
-    .desc = 一件小巧的异种 女王 模型，可供收藏和把玩。
+ent-ToyFigurineQueen = 异形女王手办
+    .desc = 一个描绘异形女王的精致小手办。
 
-ent-ToyFigurineRatKing = 鼠 国王 模型
-    .desc = 一件小巧的鼠 国王 模型，可供收藏和把玩。
+ent-ToyFigurineRatKing = 鼠王手办
+    .desc = 一个描绘鼠王的精致小手办。
 
-ent-ToyFigurineRatServant = 鼠 仆从 模型
-    .desc = 一件小巧的鼠 仆从 模型，可供收藏和把玩。
+ent-ToyFigurineRatServant = 鼠仆手办
+    .desc = 一个描绘鼠仆的精致小手办。
 
-ent-ToyFigurineMouse = 老鼠 模型
-    .desc = 一件小巧的老鼠 模型，可供收藏和把玩。
+ent-ToyFigurineMouse = 老鼠手办
+    .desc = 一个描绘老鼠的精致小手办。
 
-ent-ToyFigurineSlime = 史莱姆 模型
-    .desc = 一件小巧的史莱姆 模型，可供收藏和把玩。
+ent-ToyFigurineSlime = 史莱姆手办
+    .desc = 一个描绘史莱姆的精致小手办。
 
-ent-ToyFigurineHamlet = hamlet 模型
-    .desc = 一件小巧的hamlet 模型，可供收藏和把玩。
+ent-ToyFigurineHamlet = 哈姆雷特手办
+    .desc = 描绘哈姆雷特的手办，不附赠微波炉。
 
-ent-ToyAi = AI 玩具
-    .desc = 一件小巧的AI 玩具，可供收藏和把玩。
+ent-ToyAi = AI玩具
+    .desc = 按比例缩小的AI核心玩具。
 
 
-ent-ToyRipley = ripley 玩具
-    .desc = 一件小巧的ripley 玩具，可供收藏和把玩。
+ent-ToyRipley = 里普利玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号1/12”。
 
-ent-ToyFireRipley = 物品·fire ripley
-    .desc = 一件小巧的物品·fire ripley，可供收藏和把玩。
+ent-ToyFireRipley = 消防里普利玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号2/12”。
 
-ent-ToyDeathRipley = deathripley 玩具
-    .desc = 一件小巧的deathripley 玩具，可供收藏和把玩。
+ent-ToyDeathRipley = 死亡里普利玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号3/12”。
 
-ent-ToyGygax = gygax 玩具
-    .desc = 一件小巧的gygax 玩具，可供收藏和把玩。
+ent-ToyGygax = 盖吉斯玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号4/12”。
 
-ent-ToyDurand = durand 玩具
-    .desc = 一件小巧的durand 玩具，可供收藏和把玩。
+ent-ToyDurand = 杜兰德玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号5/12”。
 
-ent-ToyHonk = H.O.N.K. 玩具
-    .desc = 一件小巧的H.O.N.K. 玩具，可供收藏和把玩。
+ent-ToyHonk = H.O.N.K.玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号6/12”。
 
-ent-ToyMarauder = marauder 玩具
-    .desc = 一件小巧的marauder 玩具，可供收藏和把玩。
+ent-ToyMarauder = 掠夺者玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号7/12”。
 
-ent-ToySeraph = seraph 玩具
-    .desc = 一件小巧的seraph 玩具，可供收藏和把玩。
+ent-ToySeraph = 炽天使玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号8/12”。
 
-ent-ToyMauler = mauler 玩具
-    .desc = 一件小巧的mauler 玩具，可供收藏和把玩。
+ent-ToyMauler = 重锤玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号9/12”。
 
-ent-ToyOdysseus = odysseus 玩具
-    .desc = 一件小巧的odysseus 玩具，可供收藏和把玩。
+ent-ToyOdysseus = 奥德修斯玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号10/12”。
 
-ent-ToyPhazon = phazon 玩具
-    .desc = 一件小巧的phazon 玩具，可供收藏和把玩。
+ent-ToyPhazon = 相位子玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号11/12”。
 
-ent-ToyReticence = reticence 玩具
-    .desc = 一件小巧的reticence 玩具，可供收藏和把玩。
+ent-ToyReticence = 缄默玩具
+    .desc = 迷你机甲动作玩偶！背面写着“机甲编号12/12”。
 
 
 ent-SynthesizerInstrument = 合成器
 
 ent-AccordionInstrument = 手风琴
 
-ent-KalimbaInstrument = 物品·kalimba
-    .desc = 这是物品·kalimba。
+ent-KalimbaInstrument = 卡林巴琴
+    .desc = 一件可以演奏出独特音色的卡林巴琴。
 
 
 ent-TrumpetInstrument = 小号
-    .desc = 一件小号，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的小号。
 
 ent-TromboneInstrument = 长号
-    .desc = 一件长号，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的长号。
 
 ent-FrenchHornInstrument = 圆号
-    .desc = 一件圆号，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的圆号。
 
 ent-EuphoniumInstrument = 上低音号
-    .desc = 这是上低音号。
+    .desc = 一件可以演奏出独特音色的上低音号。
 
 
 ent-SeashellInstrument = 海螺
-    .desc = 这是海螺。
+    .desc = 一件可以演奏出独特音色的海螺。
 
-ent-BirdToyInstrument = 鸟鸣哨
-    .desc = 这是鸟鸣哨。
+ent-BirdToyInstrument = 鸟形口哨
+    .desc = 一件可以演奏出独特音色的鸟形口哨。
 
-ent-PhoneInstrument = 红色 电话
-    .desc = 这是红色 电话。
+ent-PhoneInstrument = 红色电话
+    .desc = 一件可以演奏出独特音色的红色电话。
 
-ent-PhoneInstrumentSyndicate = 血红 电话
-    .desc = 这是血红 电话。
+ent-PhoneInstrumentSyndicate = 血红电话
+    .desc = 供坏人打给狐朋狗友的电话。
 
-ent-HelicopterInstrument = 玩具 直升机
-    .desc = 这是玩具 直升机。
+ent-HelicopterInstrument = 玩具直升机
+    .desc = 一件可以演奏出独特音色的玩具直升机。
 
 ent-CannedApplauseInstrument = 罐装掌声
-    .desc = 这是罐装掌声。
+    .desc = 一件可以演奏出独特音色的罐装掌声。
 
-ent-GunpetInstrument = 物品·gunpet
-    .desc = 这是物品·gunpet。
+ent-GunpetInstrument = 枪宠
+    .desc = 一件可以演奏出独特音色的枪宠。
 
-ent-BikeHornInstrument = gilded 自行车喇叭
-    .desc = 一件gilded 自行车喇叭，可以用来演奏音乐。
+ent-BikeHornInstrument = 镀金自行车喇叭
+    .desc = 一件可以演奏出独特音色的镀金自行车喇叭。
 
 ent-BananaPhoneInstrument = 香蕉电话
-    .desc = 这是香蕉电话。
+    .desc = 一件可以演奏出独特音色的香蕉电话。
 
 
 ent-GlockenspielInstrument = 钟琴
 
-ent-MusicBoxInstrument = 音乐盒
-    .desc = 一件音乐盒，可以用来演奏音乐。
+ent-MusicBoxInstrument = 八音盒
+    .desc = 一件可以演奏出独特音色的八音盒。
 
 ent-XylophoneInstrument = 木琴
-    .desc = 这是木琴。
+    .desc = 一件可以演奏出独特音色的木琴。
 
 ent-MicrophoneInstrument = 麦克风
-    .desc = 这是麦克风。
+    .desc = 一件可以演奏出独特音色的麦克风。
 
 ent-WoodblockInstrument = 木鱼
-    .desc = 这是木鱼。
+    .desc = 一件可以演奏出独特音色的木鱼。
 
-ent-ReverseCymbalsInstrument = reverse 钹
-    .desc = 这是reverse 钹。
+ent-ReverseCymbalsInstrument = 反向钹
+    .desc = 一件可以演奏出独特音色的反向钹。
 
 
 ent-ElectricGuitarInstrument = 电吉他
-    .desc = 这是电吉他。
+    .desc = 一件可以演奏出独特音色的电吉他。
 
 ent-BassGuitarInstrument = 贝斯吉他
-    .desc = 这是贝斯吉他。
+    .desc = 一件可以演奏出独特音色的贝斯吉他。
 
 ent-RockGuitarInstrument = 摇滚吉他
-    .desc = 这是摇滚吉他。
+    .desc = 一件可以演奏出独特音色的摇滚吉他。
 
 ent-AcousticGuitarInstrument = 原声吉他
-    .desc = 这是原声吉他。
+    .desc = 一件可以演奏出独特音色的原声吉他。
 
-ent-GuitarlessFretsInstrument = 物品·guitarless frets
-    .desc = 这是物品·guitarless frets。
+ent-GuitarlessFretsInstrument = 无琴身品格
+    .desc = 一件可以演奏出独特音色的无琴身品格。
 
 ent-BanjoInstrument = 班卓琴
 
 ent-ViolinInstrument = 小提琴
-    .desc = 一件小提琴，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的小提琴。
 
 ent-ViolaInstrument = 中提琴
-    .desc = 这是中提琴。
+    .desc = 一件可以演奏出独特音色的中提琴。
 
 ent-CelloInstrument = 大提琴
-    .desc = 这是大提琴。
+    .desc = 一件可以演奏出独特音色的大提琴。
 
 
-ent-UprightPianoInstrument = upright 钢琴
-    .desc = 这是upright 钢琴。
+ent-UprightPianoInstrument = 立式钢琴
+    .desc = 一件可以演奏出独特音色的立式钢琴。
 
 ent-VibraphoneInstrument = 颤音琴
-    .desc = 这是颤音琴。
+    .desc = 一件可以演奏出独特音色的颤音琴。
 
 ent-MarimbaInstrument = 马林巴琴
 
 ent-ChurchOrganInstrument = 教堂管风琴
-    .desc = 这是教堂管风琴。
+    .desc = 一件可以演奏出独特音色的教堂管风琴。
 
 ent-TubaInstrument = 大号
-    .desc = 这是大号。
+    .desc = 一件可以演奏出独特音色的大号。
 
 ent-HarpInstrument = 竖琴
-    .desc = 一件竖琴，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的竖琴。
 
 ent-TimpaniInstrument = 定音鼓
-    .desc = 这是定音鼓。
+    .desc = 一件可以演奏出独特音色的定音鼓。
 
 ent-TaikoInstrument = 太鼓
-    .desc = 这是太鼓。
+    .desc = 一件可以演奏出独特音色的太鼓。
 
 ent-ContrabassInstrument = 低音提琴
-    .desc = 这是低音提琴。
+    .desc = 一件可以演奏出独特音色的低音提琴。
 
-ent-MinimoogInstrument = 物品·minimoog
-    .desc = 一件小巧的物品·minimoog，可供收藏和把玩。
+ent-MinimoogInstrument = 迷你穆格合成器
+    .desc = 一件可以演奏出独特音色的迷你穆格合成器。
 
-ent-TomDrumsInstrument = tom 鼓
-    .desc = 这是tom 鼓。
+ent-TomDrumsInstrument = 嗵鼓
+    .desc = 一件可以演奏出独特音色的嗵鼓。
 
 ent-DawInstrument = 数字音频工作站
-    .desc = 一件数字音频工作站，可以用来演奏音乐。
+    .desc = 一件可以演奏出独特音色的数字音频工作站。
 
 
-ent-SaxophoneInstrument = 物品·saxophone
-    .desc = 一件物品·saxophone，可以用来演奏音乐。
+ent-SaxophoneInstrument = 萨克斯管
+    .desc = 一件可以演奏出独特音色的萨克斯管。
 
-ent-HarmonicaInstrument = 物品·harmonica
+ent-HarmonicaInstrument = 口琴
 
-ent-ClarinetInstrument = 物品·clarinet
-    .desc = 这是物品·clarinet。
+ent-ClarinetInstrument = 单簧管
+    .desc = 一件可以演奏出独特音色的单簧管。
 
-ent-FluteInstrument = 物品·flute
-    .desc = 这是物品·flute。
+ent-FluteInstrument = 长笛
+    .desc = 一件可以演奏出独特音色的长笛。
 
-ent-RecorderInstrument = 物品·recorder
-    .desc = 这是物品·recorder。
+ent-RecorderInstrument = 竖笛
+    .desc = 一件可以演奏出独特音色的竖笛。
 
-ent-PanFluteInstrument = 物品·pan flute
-    .desc = 这是物品·pan flute。
+ent-PanFluteInstrument = 排箫
+    .desc = 一件可以演奏出独特音色的排箫。
 
-ent-OcarinaInstrument = 物品·ocarina
-    .desc = 一件物品·ocarina，可以用来演奏音乐。
+ent-OcarinaInstrument = 陶笛
+    .desc = 一件可以演奏出独特音色的陶笛。
 
-ent-BagpipeInstrument = 物品·bagpipe
-    .desc = 这是物品·bagpipe。
+ent-BagpipeInstrument = 风笛
+    .desc = 一件可以演奏出独特音色的风笛。
 
 
-ent-PlushieLizardJobAtmospherictechnician = 大气技师 lizard plushie
-    .desc = 一件小巧的大气技师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobAtmospherictechnician = 大气技师蜥蜴人毛绒玩具
+    .desc = 一个扮成大气技师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobBartender = 酒保 lizard plushie
-    .desc = 一件小巧的酒保 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobBartender = 酒保蜥蜴人毛绒玩具
+    .desc = 一个扮成酒保的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobBotanist = 植物学家 lizard plushie
-    .desc = 一件小巧的植物学家 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobBotanist = 植物学家蜥蜴人毛绒玩具
+    .desc = 一个扮成植物学家的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobBoxer = 拳击手 lizard plushie
-    .desc = 一件小巧的拳击手 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobBoxer = 拳击手蜥蜴人毛绒玩具
+    .desc = 一个扮成拳击手的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobCaptain = 舰长 lizard plushie
-    .desc = 一件小巧的舰长 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobCaptain = 舰长蜥蜴人毛绒玩具
+    .desc = 一个扮成舰长的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobCargotechnician = 货运 technician lizard plushie
-    .desc = 一件小巧的货运 technician lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobCargotechnician = 货运技师蜥蜴人毛绒玩具
+    .desc = 一个扮成货运技师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobChaplain = 物品·lizard-priest plushie # Starlight
-    .desc = 一件小巧的物品·lizard-priest plushie，可供收藏和把玩。 # Starlight
+ent-PlushieLizardJobChaplain = 牧师蜥蜴人毛绒玩具 # Starlight
+    .desc = 一个扮成牧师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。 # Starlight
 
-ent-PlushieLizardJobChef = 厨师 lizard plushie
-    .desc = 一件小巧的厨师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobChef = 厨师蜥蜴人毛绒玩具
+    .desc = 一个扮成厨师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobChemist = 药剂师 lizard plushie
-    .desc = 一件小巧的药剂师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobChemist = 药剂师蜥蜴人毛绒玩具
+    .desc = 一个扮成药剂师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobChiefengineer = 工程主管 lizard plushie
-    .desc = 一件小巧的工程主管 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobChiefengineer = 工程主管蜥蜴人毛绒玩具
+    .desc = 一个扮成工程主管的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobChiefmedicalofficer = 医疗主管 lizard plushie
-    .desc = 一件小巧的医疗主管 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobChiefmedicalofficer = 医疗主管蜥蜴人毛绒玩具
+    .desc = 一个扮成医疗主管的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobClown = 小丑 lizard plushie
-    .desc = 一件小巧的小丑 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobClown = 小丑蜥蜴人毛绒玩具
+    .desc = 一个扮成小丑的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobDetective = 侦探 lizard plushie
-    .desc = 一件小巧的侦探 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobDetective = 侦探蜥蜴人毛绒玩具
+    .desc = 一个扮成侦探的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobHeadofpersonnel = 人事主管 lizard plushie
-    .desc = 一件小巧的人事主管 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobHeadofpersonnel = 人事主管蜥蜴人毛绒玩具
+    .desc = 一个扮成人事主管的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobHeadofsecurity = 安保主管 lizard plushie
-    .desc = 一件小巧的安保主管 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobHeadofsecurity = 安保主管蜥蜴人毛绒玩具
+    .desc = 一个扮成安保主管的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobJanitor = 清洁工 lizard plushie
-    .desc = 一件小巧的清洁工 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobJanitor = 清洁工蜥蜴人毛绒玩具
+    .desc = 一个扮成清洁工的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobLawyer = 律师 lizard plushie
-    .desc = 一件小巧的律师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobLawyer = 律师蜥蜴人毛绒玩具
+    .desc = 一个扮成律师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobLibrarian = 图书管理员 lizard plushie
-    .desc = 一件小巧的图书管理员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobLibrarian = 图书管理员蜥蜴人毛绒玩具
+    .desc = 一个扮成图书管理员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobMedicaldoctor = 医师 lizard plushie
-    .desc = 一件小巧的医师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobMedicaldoctor = 医师蜥蜴人毛绒玩具
+    .desc = 一个扮成医师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobMedicalintern = 实习医师 lizard plushie
-    .desc = 一件小巧的实习医师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobMedicalintern = 实习医师蜥蜴人毛绒玩具
+    .desc = 一个扮成实习医师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobMime = 哑剧演员 lizard plushie
-    .desc = 一件小巧的哑剧演员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobMime = 哑剧演员蜥蜴人毛绒玩具
+    .desc = 一个扮成哑剧演员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobMusician = 乐手 lizard plushie
-    .desc = 一件小巧的乐手 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobMusician = 乐手蜥蜴人毛绒玩具
+    .desc = 一个扮成乐手的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobParamedic = 急救员 lizard plushie
-    .desc = 一件小巧的急救员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobParamedic = 急救员蜥蜴人毛绒玩具
+    .desc = 一个扮成急救员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobPsychologist = 心理医生 lizard plushie
-    .desc = 一件小巧的心理医生 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobPsychologist = 心理医生蜥蜴人毛绒玩具
+    .desc = 一个扮成心理医生的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobQuartermaster = 军需官 lizard plushie
-    .desc = 一件小巧的军需官 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobQuartermaster = 军需官蜥蜴人毛绒玩具
+    .desc = 一个扮成军需官的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobReporter = 记者 lizard plushie
-    .desc = 一件小巧的记者 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobReporter = 记者蜥蜴人毛绒玩具
+    .desc = 一个扮成记者的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobResearchassistant = 研究助理 lizard plushie
-    .desc = 一件小巧的研究助理 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobResearchassistant = 研究助理蜥蜴人毛绒玩具
+    .desc = 一个扮成研究助理的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobResearchdirector = 研究主管 lizard plushie
-    .desc = 一件小巧的研究主管 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobResearchdirector = 研究主管蜥蜴人毛绒玩具
+    .desc = 一个扮成研究主管的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobSalvagespecialist = 打捞专员 lizard plushie
-    .desc = 一件小巧的打捞专员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobSalvagespecialist = 打捞专员蜥蜴人毛绒玩具
+    .desc = 一个扮成打捞专员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobScientist = 科学家 lizard plushie
-    .desc = 一件小巧的科学家 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobScientist = 科学家蜥蜴人毛绒玩具
+    .desc = 一个扮成科学家的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobSecuritycadet = 安保 cadet lizard plushie
-    .desc = 一件小巧的安保 cadet lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobSecuritycadet = 安保学员蜥蜴人毛绒玩具
+    .desc = 一个扮成安保学员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobSecurityofficer = 安保干员 lizard plushie
-    .desc = 一件小巧的安保干员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobSecurityofficer = 安保干员蜥蜴人毛绒玩具
+    .desc = 一个扮成安保干员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobServiceworker = 服务人员 lizard plushie
-    .desc = 一件小巧的服务人员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobServiceworker = 服务人员蜥蜴人毛绒玩具
+    .desc = 一个扮成服务人员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobStationengineer = 空间站工程师 lizard plushie
-    .desc = 一件小巧的空间站工程师 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobStationengineer = 空间站工程师蜥蜴人毛绒玩具
+    .desc = 一个扮成空间站工程师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobTechnicalassistant = 技术助理 lizard plushie
-    .desc = 一件小巧的技术助理 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobTechnicalassistant = 技术助理蜥蜴人毛绒玩具
+    .desc = 一个扮成技术助理的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobWarden = 典狱长 lizard plushie
-    .desc = 一件小巧的典狱长 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobWarden = 典狱长蜥蜴人毛绒玩具
+    .desc = 一个扮成典狱长的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobZookeeper = 动物管理员 lizard plushie
-    .desc = 一件小巧的动物管理员 lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobZookeeper = 动物管理员蜥蜴人毛绒玩具
+    .desc = 一个扮成动物管理员的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobMultiweh = 物品·multiweh lizard plushie
-    .desc = 一件小巧的物品·multiweh lizard plushie，可供收藏和把玩。
+ent-PlushieLizardJobMultiweh = 全职业蜥蜴人毛绒玩具
+    .desc = 一个扮遍所有职业的可爱蜥蜴人毛绒玩具！它多才多艺，远处仿佛传来了人事主管的哭声。
 
 
-ent-PlushieThrongler = 物品·throngler plushie
-    .desc = 一件小巧的物品·throngler plushie，可供收藏和把玩。
+ent-PlushieThrongler = 瑟隆格勒毛绒玩具
+    .desc = 一个毛绒玩具，提醒货运技师他们再也得不到什么。
 
-ent-PlushieGhost = ghost soft 玩具
-    .desc = 这是ghost soft 玩具。
+ent-PlushieGhost = 幽灵毛绒玩具
+    .desc = 你的私人幽灵帮就从这里开始！
 
-ent-PlushieGhostRevenant = revenant soft 玩具
-    .desc = 这是revenant soft 玩具。
+ent-PlushieGhostRevenant = 怨灵毛绒玩具
+    .desc = 柔软得几乎让你想打个盹……
 
-ent-PlushieBee = 物品·bee plushie
-    .desc = 一件小巧的物品·bee plushie，可供收藏和把玩。
+ent-PlushieBee = 蜜蜂毛绒玩具
+    .desc = 一个酷似某位更可爱程序员的可爱玩具。只有怪物才舍得把它磨碎。
 
-ent-PlushieHampter = 物品·hampter plushie
-    .desc = 一件小巧的物品·hampter plushie，可供收藏和把玩。
+ent-PlushieHampter = 仓鼠毛绒玩具
+    .desc = 酷似仓鼠的可爱毛绒玩具，脸被挤得扁扁的。
 
-ent-PlushieRGBee = 物品·RGBee plushie
-    .desc = 一件小巧的物品·RGBee plushie，可供收藏和把玩。
+ent-PlushieRGBee = 炫彩蜜蜂毛绒玩具
+    .desc = 像是服下迷幻药后看到的蜜蜂毛绒玩具。
 
-ent-PlushieNuke = 物品·nukie plushie
-    .desc = 一件小巧的物品·nukie plushie，可供收藏和把玩。
+ent-PlushieNuke = 核弹特工毛绒玩具
+    .desc = 酷似辛迪加核弹特工的毛绒玩具。标签坚称特工纯属虚构。
 
-ent-PlushieRouny = 物品·rouny plushie
-    .desc = 这是物品·rouny plushie。
+ent-PlushieRouny = 朗尼毛绒玩具
+    .desc = 朗尼。
 
-ent-PlushieLamp = 物品·lamp plushie
-    .desc = 这是物品·lamp plushie。
+ent-PlushieLamp = 台灯毛绒玩具
+    .desc = 一个会发光的朋友！
 
-ent-PlushieArachind = 物品·arachnid plushie
-    .desc = 一件小巧的物品·arachnid plushie，可供收藏和把玩。
+ent-PlushieArachind = 蛛人毛绒玩具
+    .desc = 酷似蛛人的可爱毛绒玩具，摸起来丝滑柔顺。
 
-ent-PlushieDiona = 物品·diona plushie
-    .desc = 一件小巧的物品·diona plushie，可供收藏和把玩。
+ent-PlushieDiona = 狄奥娜毛绒玩具
+    .desc = 酷似狄奥娜的可爱毛绒玩具，喜欢水和拥抱。请勿打湿！
 
-ent-PlushieSharkBlue = blue shark soft 玩具
-    .desc = 这是blue shark soft 玩具。
+ent-PlushieSharkBlue = 蓝鲨毛绒玩具
+    .desc = 又大又可靠，想探索海面之下的世界时可以放心让它陪在身边。
 
-ent-PlushieSharkPink = pink shark soft 玩具
-    .desc = 这是pink shark soft 玩具。
+ent-PlushieSharkPink = 粉鲨毛绒玩具
+    .desc = 嘿嘿，鲨鲨 :)
 
-ent-PlushieSharkGrey = grey shark soft 玩具
-    .desc = 这是grey shark soft 玩具。
+ent-PlushieSharkGrey = 灰鲨毛绒玩具
+    .desc = 安静而内敛的鲨鲨，喜欢随灰潮漂流。
 
-ent-PlushieRatvar = 物品·ratvar plushie
-    .desc = 这是物品·ratvar plushie。
+ent-PlushieRatvar = 拉特瓦尔毛绒玩具
+    .desc = 古老神明拉特瓦尔的大型毛绒玩偶。
 
-ent-PlushieNar = 物品·nar'sie plushie
-    .desc = 这是物品·nar'sie plushie。
+ent-PlushieNar = 纳西毛绒玩具
+    .desc = 古老女神纳西的大型毛绒玩偶。
 
-ent-PlushieCarp = 物品·carp plushie
-    .desc = 一件小巧的物品·carp plushie，可供收藏和把玩。
+ent-PlushieCarp = 太空鲤鱼毛绒玩具
+    .desc = 酷似凶猛太空鲤鱼的可爱毛绒玩具。
 
-ent-PlushieMagicarp = 物品·magicarp plushie
-    .desc = 一件小巧的物品·magicarp plushie，可供收藏和把玩。
+ent-PlushieMagicarp = 魔法鲤鱼毛绒玩具
+    .desc = 酷似极为罕见的魔法鲤鱼的可爱毛绒玩具。
 
-ent-PlushieRainbowCarp = 物品·rainbow carp plushie
-    .desc = 一件小巧的物品·rainbow carp plushie，可供收藏和把玩。
+ent-PlushieRainbowCarp = 彩虹鲤鱼毛绒玩具
+    .desc = 酷似传说中彩虹鲤鱼的可爱毛绒玩具。
 
-ent-PlushieHolocarp = 物品·holocarp plushie
-    .desc = 一件小巧的物品·holocarp plushie，可供收藏和把玩。
+ent-PlushieHolocarp = 全息鲤鱼毛绒玩具
+    .desc = 酷似科研部宿敌全息鲤鱼的全息毛绒玩具。
 
-ent-PlushieSlime = 史莱姆 plushie
-    .desc = 一件小巧的史莱姆 plushie，可供收藏和把玩。
+ent-PlushieSlime = 史莱姆毛绒玩具
+    .desc = 酷似史莱姆的可爱毛绒玩具，基本就是个沙包球。
 
-ent-PlushieSnake = 物品·snake plushie
-    .desc = 一件小巧的物品·snake plushie，可供收藏和把玩。
+ent-PlushieSnake = 蛇毛绒玩具
+    .desc = 酷似蛇的可爱毛绒玩具。
 
-ent-ToyMouse = 老鼠 玩具
-    .desc = 一件小巧的老鼠 玩具，可供收藏和把玩。
+ent-ToyMouse = 老鼠玩具
+    .desc = 色彩鲜艳的老鼠玩具！
 
-ent-PlushieVox = 物品·vox plushie
-    .desc = 这是物品·vox plushie。
+ent-PlushieVox = 沃克斯毛绒玩具
+    .desc = 嘶——嘎——！
 
-ent-PlushieAtmosian = 物品·atmosian plushie
-    .desc = 一件小巧的物品·atmosian plushie，可供收藏和把玩。
+ent-PlushieAtmosian = 大气勇士毛绒玩具
+    .desc = 酷似勇敢大气勇士的可爱毛绒玩具。可惜它不会替你修好失压区。
 
-ent-PlushieXeno = 异种 plushie
-    .desc = 一件小巧的异种 plushie，可供收藏和把玩。
+ent-PlushieXeno = 异形毛绒玩具
+    .desc = 酷似可怕异形的可爱毛绒玩具。幸好它只是玩具。
 
-ent-PlushiePenguin = 物品·penguin plushie
-    .desc = 这是物品·penguin plushie。
+ent-PlushiePenguin = 企鹅毛绒玩具
+    .desc = 顺带一提，我用的是阿奇系统！

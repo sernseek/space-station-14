@@ -468,7 +468,7 @@ ent-ClothingNeckCloakIntersex = cyclops斗篷
 ent-ClothingNeckCloakLesbian = 诗人斗篷
     .desc = 一件诗人斗篷，兼具实用性与独特风格。
 
-ent-ClothingNeckCloakGay = multi-levelmarketing斗篷
+ent-ClothingNeckCloakGay = 骄傲斗篷
     .desc = 一件multi-levelmarketing斗篷，兼具实用性与独特风格。
 
 ent-ClothingNeckCloakEnby = 宝藏hunter斗篷

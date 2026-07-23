@@ -1,0 +1,51 @@
+<Document>
+ # 纪念碑
+  <Box>
+    <GuideEntityEmbed Entity="MonumentCosmicCult1" Caption=""/>
+    <GuideEntityEmbed Entity="MonumentCosmicCult2" Caption=""/>
+    <GuideEntityEmbed Entity="MonumentCosmicCult3" Caption=""/>
+  </Box>
+
+  在着手实现目标前，邪教领袖必须先[italic][color=#4cabb3]召来[/color][/italic]纪念碑。刚建成时，纪念碑不可见、不可触碰，任何非邪教徒实际上都无法察觉。获得强化后，空间站上的所有人都能看到并触碰纪念碑。
+
+  因此，最好将纪念碑藏在不受窥探、相对易于防守的位置。
+
+  可以向纪念碑灌注熵以强化它。随着熵不断注入，整个邪教将能使用更多[color=#4cabb3][bold]影响[/bold][/color]与[color=#4cabb3][bold]符文[/bold][/color]；与纪念碑互动即可取得这些能力。
+
+  邪教徒可以与纪念碑互动，购买额外的[color=#4cabb3][bold]影响[/bold][/color]。纪念碑中用于购买的熵是[italic]每人独立计算的[/italic]，因此一名邪教徒购买能力不会消耗其他邪教徒收集的熵。
+
+  [textlink="点击此处进一步了解影响。" link="CosmicCultInfluences"]
+
+  ## 召来未知者
+  <Box>
+    <GuideEntityEmbed Entity="PlushieCosmicCult" Caption=""/>
+  </Box>
+
+  若成功将纪念碑完全强化至第三阶段，它还会渴求最后一个熵门槛——为最终谢幕提供燃料。灌注足够熵后，强化纪念碑会开始发光，表示现在可以用它[color=#4cabb3][bold]召来[/bold][/color]未知者。任何邪教徒都能与纪念碑互动执行此操作。
+
+  纪念碑准备激活后，邪教徒[bold]必须[/bold]激活它，才能重新使用纪念碑的储藏与符文——终结[bold]无法[/bold]延缓。
+
+  召来过程中准备好保卫纪念碑；只要一个捣乱者成功采取一次干扰行动，仪式就会突然且毫无体面地中止。
+
+  ## 符文
+  与纪念碑互动可以[color=#4cabb3]绘制[/color]符文；也可以用类似方式在纪念碑处[color=#4cabb3]抹除[/color]未使用的符文。
+
+  注意：激活符文会消耗所有参与激活的邪教徒的生命值！
+
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphProjection" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphWarding" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="CosmicGlyphBlades" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphCessation" Caption=""/>
+    <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
+  </Box>
+  - [bold]知识符文[/bold]可以把带到符文上的非邪教徒[color=#4cabb3]转化[/color]为宇宙邪教同伴！牧师及植入心灵护盾的人无法被此符文转化。
+  - [bold]投射符文[/bold]可以让使用它的邪教徒暂时脱离肉体，化作自由漂浮且无法被察觉的[color=#4cabb3]星界形态[/color]，从而监视毫无戒心的船员。
+  - [bold]守护符文[/bold]可以将任何太空服——无论硬式还是软式——转化为宇宙邪教专用的[color=#4cabb3]熵化护甲[/color]。
+  - [bold]利刃符文[/bold]可以随机将任何锋利物品转化为宇宙邪教的一件[color=#4cabb3]独特武器[/color]。
+  - [bold]终止符文[/bold]可以将便携式大气洗涤器转化为尚未固定的[color=#4cabb3]虚空尖塔[/color]。
+  - [bold]真理符文[/bold]可以把带到符文上的任何非邪教徒[color=#4cabb3]转化[/color]为宇宙邪教同伴，即使对方是牧师或受到心灵护盾保护。
+</Document>

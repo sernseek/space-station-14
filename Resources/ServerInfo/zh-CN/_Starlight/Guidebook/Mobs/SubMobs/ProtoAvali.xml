@@ -1,0 +1,17 @@
+<Document>
+  # 原型阿瓦利
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoAvali" Caption=""/>
+  </Box>
+
+  阿瓦利很容易适应成为原型机，因为他们本就生活在广泛采用赛博改造的文化中。最典型的例子就是[color=#ffbc48]纽带[/color]——其社会中的每个人都会接受这种增强现实（AR）植入体。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 40%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 50%[/color]。
+
+  得益于先进赛博技术的出现和大规模身体改造，原型阿瓦利已经克服了无法正常消化大多数食物的问题，因此几乎可以享用并代谢任何食物。
+
+  [color=red]不过，以氧气或水为基础的医疗化学品对他们仍有致命危险。[/color]
+</Document>

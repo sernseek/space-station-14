@@ -1,0 +1,15 @@
+<Document>
+  # 原型雷索米
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoResomi" Caption=""/>
+  </Box>
+
+  雷索米社会浪漫主义运动中的一部分人拥抱了全身赛博强化，正如他们的一些阿瓦利先辈曾经做过的那样。不过，即便在这一运动内部，这也被视为一种较为极端而奢华的崇敬方式。运动之外的其他雷索米自然认为这种做法极其虚荣；[color=#ffbc48]纽带[/color]则是唯一的例外。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 25%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 45%[/color]。
+
+  [color=red]以氧气或水为基础的医疗化学品对他们仍有致命危险。[/color]
+</Document>

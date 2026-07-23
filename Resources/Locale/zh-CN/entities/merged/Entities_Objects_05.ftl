@@ -1,954 +1,954 @@
-ent-PlushieHuman = 物品·human plushie
-    .desc = 这是物品·human plushie。
+ent-PlushieHuman = 人类毛绒玩偶
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PlushieMoth = 物品·moth plushie
-    .desc = 这是物品·moth plushie。
+ent-PlushieMoth = 蛾人毛绒玩偶
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PlushieVulp = 物品·vulpkanin plushie
-    .desc = 一件小巧的物品·vulpkanin plushie，可供收藏和把玩。
+ent-PlushieVulp = 伏尔卡宁毛绒玩偶
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ToyIan = ian 玩具
-    .desc = 这是ian 玩具。
+ent-ToyIan = 伊恩玩偶
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ToyAmongPequeno = 物品·among pequeño
-    .desc = 这是物品·among pequeño。
+ent-ToyAmongPequeno = 小小内鬼
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-BackgammonBoard = 物品·backgammon board
-    .desc = 这是物品·backgammon board。
+ent-BackgammonBoard = 西洋双陆棋盘
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CheckerBoard = 物品·checkerboard
-    .desc = 这是物品·checkerboard。
+ent-CheckerBoard = 西洋跳棋盘
+    .desc = 一件用途与其名称相符的物品。
 
-ent-WhiteKing = white 国王
+ent-WhiteKing = 白王
 
-ent-WhiteQueen = white 女王
+ent-WhiteQueen = 白后
 
-ent-WhiteRook = 物品·white rook
+ent-WhiteRook = 白车
 
-ent-WhiteBishop = 物品·white bishop
+ent-WhiteBishop = 白象
 
-ent-WhiteKnight = 物品·white knight
+ent-WhiteKnight = 白马
 
-ent-WhitePawn = 物品·white pawn
+ent-WhitePawn = 白兵
 
-ent-BlackKing = black 国王
+ent-BlackKing = 黑王
 
-ent-BlackQueen = black 女王
+ent-BlackQueen = 黑后
 
-ent-BlackRook = 物品·black rook
+ent-BlackRook = 黑车
 
-ent-BlackBishop = 物品·black bishop
+ent-BlackBishop = 黑象
 
-ent-BlackKnight = 物品·black knight
+ent-BlackKnight = 黑马
 
-ent-BlackPawn = 物品·black pawn
+ent-BlackPawn = 黑兵
 
 
-ent-BaseBattlemap = 物品·battlemap
-    .desc = 这是物品·battlemap。
+ent-BaseBattlemap = 战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-GrassBattlemap = 物品·grass battlemap
-    .desc = 这是物品·grass battlemap。
+ent-GrassBattlemap = 草地战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MoonBattlemap = 物品·moon battlemap
-    .desc = 这是物品·moon battlemap。
+ent-MoonBattlemap = 月面战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SandBattlemap = 物品·sand battlemap
-    .desc = 这是物品·sand battlemap。
+ent-SandBattlemap = 沙地战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SnowBattlemap = 物品·snow battlemap
-    .desc = 这是物品·snow battlemap。 # if this isn't funny enough i can remove it
+ent-SnowBattlemap = 雪地战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShipBattlemap = 物品·ship battlemap
-    .desc = 这是物品·ship battlemap。
+ent-ShipBattlemap = 飞船战棋地图
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ParchisBoard = 物品·parchís board
-    .desc = 这是物品·parchís board。
+ent-ParchisBoard = 帕奇西棋盘
+    .desc = 一件用途与其名称相符的物品。
 
-ent-RedTabletopPiece = 红色 piece
+ent-RedTabletopPiece = 红色棋子
 
-ent-GreenTabletopPiece = 物品·green piece
+ent-GreenTabletopPiece = 绿色棋子
 
-ent-YellowTabletopPiece = 物品·yellow piece
+ent-YellowTabletopPiece = 黄色棋子
 
-ent-BlueTabletopPiece = 物品·blue piece
+ent-BlueTabletopPiece = 蓝色棋子
 
-ent-WhiteTabletopPiece = 物品·white piece
+ent-WhiteTabletopPiece = 白色棋子
 
-ent-BlackTabletopPiece = 物品·black piece
+ent-BlackTabletopPiece = 黑色棋子
 
 
-ent-BalloonSyn = 物品·syndie balloon
-    .desc = 这是物品·syndie balloon。
+ent-BalloonSyn = 辛迪加气球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-BalloonNT = 物品·nanotrasen balloon
-    .desc = 这是物品·nanotrasen balloon。
+ent-BalloonNT = 纳米传讯气球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-BalloonCorgi = 物品·corgi balloon
-    .desc = 这是物品·corgi balloon。
+ent-BalloonCorgi = 柯基气球
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-CrayonInedible = 物品·crayon
-    .desc = 这是物品·crayon。
+ent-CrayonInedible = 蜡笔
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CrayonMime = 哑剧演员 crayon
+ent-CrayonMime = 哑剧蜡笔
 
-ent-CrayonRainbow = 物品·rainbow crayon
+ent-CrayonRainbow = 彩虹蜡笔
 
-ent-CrayonBorg = 物品·electric crayon
-    .desc = 这是物品·electric crayon。
+ent-CrayonBorg = 电动蜡笔
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CrayonWhite = 物品·white crayon
+ent-CrayonWhite = 白色蜡笔
 
-ent-CrayonBlack = 物品·black crayon
+ent-CrayonBlack = 黑色蜡笔
 
-ent-CrayonRed = 红色 crayon
+ent-CrayonRed = 红色蜡笔
 
-ent-CrayonOrange = 物品·orange crayon
+ent-CrayonOrange = 橙色蜡笔
 
-ent-CrayonYellow = 物品·yellow crayon
+ent-CrayonYellow = 黄色蜡笔
 
-ent-CrayonGreen = 物品·green crayon
+ent-CrayonGreen = 绿色蜡笔
 
-ent-CrayonBlue = 物品·blue crayon
+ent-CrayonBlue = 蓝色蜡笔
 
-ent-CrayonPurple = 物品·purple crayon
+ent-CrayonPurple = 紫色蜡笔
 
-ent-CrayonBox = crayon 盒
-    .desc = 这是crayon 盒。
+ent-CrayonBox = 蜡笔盒
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-Dart = 物品·dart
-    .desc = 一件物品·dart，可以用来演奏音乐。
+ent-Dart = 飞镖
+    .desc = 一件用途与其名称相符的物品。
 
-ent-TargetDarts = 物品·dartboard
-    .desc = 一件物品·dartboard，可以用来演奏音乐。
+ent-TargetDarts = 飞镖盘
+    .desc = 一件用途与其名称相符的物品。
 
-ent-HypoDartBox = hypodart 盒
-    .desc = 这是hypodart 盒。
+ent-HypoDartBox = 注射飞镖盒
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-PercentileDie = 物品·percentile die
-    .desc = 这是物品·percentile die。
+ent-PercentileDie = 百分骰
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d20Dice = 物品·d20
-    .desc = 这是物品·d20。
+ent-d20Dice = d20 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d12Dice = 物品·d12
-    .desc = 这是物品·d12。
+ent-d12Dice = d12 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d10Dice = 物品·d10
-    .desc = 这是物品·d10。
+ent-d10Dice = d10 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d8Dice = 物品·d8
-    .desc = 这是物品·d8。
+ent-d8Dice = d8 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d6Dice = 物品·d6
-    .desc = 这是物品·d6。
+ent-d6Dice = d6 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-d4Dice = 物品·d4
-    .desc = 这是物品·d4。
+ent-d4Dice = d4 骰子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-DiceBag = 物品·bag of dice
-    .desc = 这是物品·bag of dice。
+ent-DiceBag = 骰子袋
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MagicDiceBag = 物品·bag of dice
+ent-MagicDiceBag = 骰子袋
 
 
-ent-SingularityToy = singuloth-brand 玩具
-    .desc = 这是singuloth-brand 玩具。
+ent-SingularityToy = 奇点蛾牌玩具
+    .desc = 一件用途与其名称相符的物品。
 
-ent-TeslaToy = 物品·Teddy Tesla
-    .desc = 一件小巧的物品·Teddy Tesla，可供收藏和把玩。
+ent-TeslaToy = 泰迪·特斯拉
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PonderingOrb = 物品·pondering orb
-    .desc = 这是物品·pondering orb。
+ent-PonderingOrb = 沉思之球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PonderingOrbWizard = 物品·pondering orb
-    .desc = 这是物品·pondering orb。
+ent-PonderingOrbWizard = 沉思之球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-Magic9Ball = 物品·magic 9 ball
-    .desc = 这是物品·magic 9 ball。
+ent-Magic9Ball = 魔法九号球
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-PersonalAI = personal ai 设备
-    .desc = 这是personal ai 设备。
+ent-PersonalAI = 个人 AI 设备
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SyndicatePersonalAI = 辛迪加 personal ai 设备
-    .desc = 这是辛迪加 personal ai 设备。
+ent-SyndicatePersonalAI = 辛迪加个人 AI 设备
+    .desc = 一件用途与其名称相符的物品。
 
-ent-GoldenPersonalAI = golden personal ai 设备
-    .desc = 这是golden personal ai 设备。
+ent-GoldenPersonalAI = 黄金个人 AI 设备
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PotatoAI = 物品·potato artificial intelligence
-    .desc = 这是物品·potato artificial intelligence。
+ent-PotatoAI = 土豆人工智能
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ActionPAIOpenShop = 物品·Software Catalog
-    .desc = 这是物品·Software Catalog。
+ent-ActionPAIOpenShop = 软件目录
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ActionPAIMassScanner = Mass 扫描仪
-    .desc = 这是Mass 扫描仪。
+ent-ActionPAIMassScanner = 质量扫描仪
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ActionPAIPlayMidi = 物品·Play MIDI
-    .desc = 这是物品·Play MIDI。
+ent-ActionPAIPlayMidi = 播放 MIDI
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ActionPAIOpenMap = Open 地图
-    .desc = 这是Open 地图。
+ent-ActionPAIOpenMap = 打开地图
+    .desc = 一件用途与其名称相符的物品。
 
 
 ent-BikeHorn = 自行车喇叭
-    .desc = 这是自行车喇叭。
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CluwneHorn = broken 自行车喇叭
-    .desc = 这是broken 自行车喇叭。
+ent-CluwneHorn = 损坏的自行车喇叭
+    .desc = 一件用途与其名称相符的物品。
 
-ent-GoldenBikeHorn = 物品·golden honker
-    .desc = 这是物品·golden honker。
+ent-GoldenBikeHorn = 黄金呵叫喇叭
+    .desc = 一件用途与其名称相符的物品。
 
-ent-BananiumHorn = 物品·bananium horn
-    .desc = 这是物品·bananium horn。
+ent-BananiumHorn = 香蕉矿喇叭
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PushHorn = 物品·push horn
-    .desc = 这是物品·push horn。
+ent-PushHorn = 按压喇叭
+    .desc = 一件用途与其名称相符的物品。
 
-ent-BaseWhistle = 物品·whistle
-    .desc = 这是物品·whistle。
+ent-BaseWhistle = 哨子
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CommanderWhistle = 物品·trench whistle
-    .desc = 这是物品·trench whistle。
+ent-CommanderWhistle = 战壕哨
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ToyRubberDuck = 物品·rubber ducky
-    .desc = 这是物品·rubber ducky。
+ent-ToyRubberDuck = 橡皮鸭
+    .desc = 一件用途与其名称相符的物品。
 
-ent-RubberChicken = 物品·rubber chicken
-    .desc = 这是物品·rubber chicken。
+ent-RubberChicken = 橡胶鸡
+    .desc = 一件用途与其名称相符的物品。
 
-ent-NewtonCradle = 物品·newton's cradle
-    .desc = 一件名为“物品·newton's cradle”的实用设备。
+ent-NewtonCradle = 牛顿摆
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ClownRecorder = 小丑 recorder
-    .desc = 这是小丑 recorder。
+ent-ClownRecorder = 小丑录音机
+    .desc = 一件用途与其名称相符的物品。
 
-ent-WhoopieCushion = 物品·whoopie cushion
-    .desc = 一件名为“物品·whoopie cushion”的实用设备。
+ent-WhoopieCushion = 放屁坐垫
+    .desc = 一件用途与其名称相符的物品。
 
-ent-Skub = 物品·skub
-    .desc = 这是物品·skub。
+ent-Skub = 斯卡布
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-Basketball = 物品·basketball
-    .desc = 这是物品·basketball。
+ent-Basketball = 篮球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-Football = 物品·football
-    .desc = 这是物品·football。
+ent-Football = 橄榄球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-TennisBall = 物品·tennis ball
-    .desc = 这是物品·tennis ball。
+ent-TennisBall = 网球
+    .desc = 一件用途与其名称相符的物品。
 
-ent-BeachBall = 物品·beach ball
-    .desc = 这是物品·beach ball。 # SL
+ent-BeachBall = 沙滩球
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-SnapPop = 物品·snap pop
-    .desc = 这是物品·snap pop。
+ent-SnapPop = 摔炮
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SnapPopBox = snap pop 盒
-    .desc = 这是snap pop 盒。
+ent-SnapPopBox = 摔炮盒
+    .desc = 一件用途与其名称相符的物品。
 
-ent-PlasticBanana = 物品·banana
-    .desc = 这是物品·banana。
+ent-PlasticBanana = 香蕉
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CrazyGlue = 物品·crazy glue
-    .desc = 这是物品·crazy glue。
+ent-CrazyGlue = 疯狂胶水
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CrazyLube = 物品·crazy lube
-    .desc = 这是物品·crazy lube。
+ent-CrazyLube = 疯狂润滑剂
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MrChips = 物品·mr chips
-    .desc = 这是物品·mr chips。
+ent-MrChips = 奇普斯先生
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MrDips = 物品·mr dips
+ent-MrDips = 迪普斯先生
 
-ent-Error = 物品·error
-    .desc = 这是物品·error。 # Starlight - add loss
+ent-Error = 错误
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SpectralLocatorUnpowered = 物品·spectral locator
-    .desc = 这是物品·spectral locator。
+ent-SpectralLocatorUnpowered = 幽灵定位器
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-FoamCrossbow = 物品·foam crossbow
-    .desc = 这是物品·foam crossbow。
+ent-FoamCrossbow = 泡沫弩
+    .desc = 一件用途与其名称相符的物品。
 
-ent-WeaponRifleFoam = 物品·Foam Force Astro Ace
-    .desc = 这是物品·Foam Force Astro Ace。
+ent-WeaponRifleFoam = 泡沫军团太空王牌
+    .desc = 一件用途与其名称相符的物品。
 
-ent-RevolverCapGun = 物品·cap gun
-    .desc = 这是物品·cap gun。
+ent-RevolverCapGun = 火帽枪
+    .desc = 一件用途与其名称相符的物品。
 
-ent-WeaponStickyHand = 物品·sticky hand
-    .desc = 这是物品·sticky hand。
+ent-WeaponStickyHand = 黏黏手
+    .desc = 一件用途与其名称相符的物品。
 
-ent-FoamBlade = 物品·foamblade
-    .desc = 这是物品·foamblade。
+ent-FoamBlade = 泡沫剑
+    .desc = 一件用途与其名称相符的物品。
 
-ent-FoamCutlass = 物品·foam cutlass
-    .desc = 一件物品·foam cutlass，可以用来演奏音乐。
+ent-FoamCutlass = 泡沫弯刀
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ToySword = 玩具 sword
-    .desc = 一件玩具 sword，可以用来演奏音乐。
+ent-ToySword = 玩具剑
+    .desc = 一件用途与其名称相符的物品。
 
-ent-CardSword = 纸板 sword
-    .desc = 这是纸板 sword。
+ent-CardSword = 纸板剑
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ToyHammer = 物品·rubber hammer
-    .desc = 这是物品·rubber hammer。
+ent-ToyHammer = 橡胶锤
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-WizardsGrimoire = 巫师's grimoire
-    .desc = 这是巫师's grimoire。
+ent-WizardsGrimoire = 巫师魔典
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SpawnSpellbook = 物品·spawn spellbook
+ent-SpawnSpellbook = 召唤法术书
 
-ent-ForceWallSpellbook = 物品·force wall spellbook
+ent-ForceWallSpellbook = 力场墙法术书
 
-ent-BlinkBook = 物品·blink spellbook
+ent-BlinkBook = 闪现法术书
 
-ent-SmiteBook = 物品·smite spellbook
+ent-SmiteBook = 天谴法术书
 
-ent-KnockSpellbook = 物品·knock spellbook
+ent-KnockSpellbook = 敲门法术书
 
-ent-FireballSpellbook = 物品·fireball spellbook
+ent-FireballSpellbook = 火球术法术书
 
-ent-ScrollRunes = 物品·scroll of runes
+ent-ScrollRunes = 符文卷轴
 
 
-ent-ImmovableRod = 物品·immovable rod
-    .desc = 这是物品·immovable rod。
+ent-ImmovableRod = 不可阻挡之杆
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodMop = 物品·immovable mop
-    .desc = 这是物品·immovable mop。
+ent-ImmovableRodMop = 不可阻挡之拖把
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodShark = 物品·immovable shark
-    .desc = 这是物品·immovable shark。
+ent-ImmovableRodShark = 不可阻挡之鲨
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodClown = immovable 小丑
-    .desc = 这是immovable 小丑。
+ent-ImmovableRodClown = 不可阻挡之小丑
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodBanana = 物品·immovable banana
-    .desc = 这是物品·immovable banana。
+ent-ImmovableRodBanana = 不可阻挡之香蕉
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodHammer = 物品·immovable hammer
-    .desc = 这是物品·immovable hammer。
+ent-ImmovableRodHammer = 不可阻挡之锤
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodThrongler = 物品·immovable throngler
-    .desc = 这是物品·immovable throngler。
+ent-ImmovableRodThrongler = 不可阻挡之绞杀器
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodGibstick = 物品·immovable gibstick
-    .desc = 这是物品·immovable gibstick。
+ent-ImmovableRodGibstick = 不可阻挡之碎尸棍
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ImmovableRodWeh = 物品·immovable weh
-    .desc = 这是物品·immovable weh。
+ent-ImmovableRodWeh = 不可阻挡之威
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-SheetGlassBase = 物品·glass
-    .desc = 这是物品·glass。
+ent-SheetGlassBase = 玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetRGlass = 物品·reinforced glass
-    .desc = 这是物品·reinforced glass。
+ent-SheetRGlass = 钢化玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetRGlass1 = 物品·reinforced glass
+ent-SheetRGlass1 = 钢化玻璃
 
-ent-SheetPGlass = 物品·plasma glass
-    .desc = 这是物品·plasma glass。
+ent-SheetPGlass = 等离子玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetPGlass1 = 物品·plasma glass
+ent-SheetPGlass1 = 等离子玻璃
 
-ent-SheetRPGlass = 物品·reinforced plasma glass
-    .desc = 这是物品·reinforced plasma glass。
+ent-SheetRPGlass = 钢化等离子玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetRPGlass1 = 物品·reinforced plasma glass
+ent-SheetRPGlass1 = 钢化等离子玻璃
 
-ent-SheetUGlass = 物品·uranium glass
-    .desc = 这是物品·uranium glass。
+ent-SheetUGlass = 铀玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetUGlass1 = 物品·uranium glass
+ent-SheetUGlass1 = 铀玻璃
 
-ent-SheetRUGlass = 物品·reinforced uranium glass
-    .desc = 这是物品·reinforced uranium glass。
+ent-SheetRUGlass = 钢化铀玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetRUGlass1 = 物品·reinforced uranium glass
+ent-SheetRUGlass1 = 钢化铀玻璃
 
-ent-SheetClockworkGlass = 物品·clockwork glass
-    .desc = 这是物品·clockwork glass。
+ent-SheetClockworkGlass = 发条玻璃
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetClockworkGlass1 = 物品·clockwork glass
+ent-SheetClockworkGlass1 = 发条玻璃
 
 
-ent-SheetSteel = 物品·steel
+ent-SheetSteel = 钢材
 
-ent-SheetSteel10 = 物品·steel
+ent-SheetSteel10 = 钢材
 
-ent-SheetSteel1 = 物品·steel
+ent-SheetSteel1 = 钢材
 
-ent-SheetBrass = 物品·brass
-    .desc = 这是物品·brass。
+ent-SheetBrass = 黄铜
+    .desc = 一件用途与其名称相符的物品。
 
-ent-SheetBrass10 = 物品·brass
+ent-SheetBrass10 = 黄铜
 
-ent-SheetBrass1 = 物品·brass
+ent-SheetBrass1 = 黄铜
 
-ent-SheetPlasteel = 物品·plasteel
+ent-SheetPlasteel = 塑钢
 
-ent-SheetPlasteel10 = 物品·plasteel
+ent-SheetPlasteel10 = 塑钢
 
-ent-SheetPlasteel1 = 物品·plasteel
+ent-SheetPlasteel1 = 塑钢
 
 
-ent-SheetPaper = 纸张
+ent-SheetPaper = 纸
 
-ent-SheetPaper1 = 纸张
+ent-SheetPaper1 = 纸
 
-ent-SheetPlasma = 物品·plasma
+ent-SheetPlasma = 等离子体
 
-ent-SheetPlasma1 = 物品·plasma
+ent-SheetPlasma1 = 等离子体
 
-ent-SheetPlastic = 物品·plastic
+ent-SheetPlastic = 塑料
 
-ent-SheetPlastic10 = 物品·plastic
+ent-SheetPlastic10 = 塑料
 
-ent-SheetPlastic1 = 物品·plastic
+ent-SheetPlastic1 = 塑料
 
-ent-SheetUranium = 物品·uranium
+ent-SheetUranium = 铀
 
-ent-SheetUranium1 = 物品·uranium
+ent-SheetUranium1 = 铀
 
-ent-MaterialSheetMeat = 物品·meat sheet
+ent-MaterialSheetMeat = 肉片
 
 
-ent-ShardCrystalBase = 物品·crystal shard
-    .desc = 这是物品·crystal shard。
+ent-ShardCrystalBase = 水晶碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardCrystalCyan = 物品·cyan crystal shard
-    .desc = 这是物品·cyan crystal shard。
+ent-ShardCrystalCyan = 青色水晶碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardCrystalBlue = 物品·blue crystal shard
+ent-ShardCrystalBlue = 蓝色水晶碎片
 
-ent-ShardCrystalYellow = 物品·yellow crystal shard
+ent-ShardCrystalYellow = 黄色水晶碎片
 
-ent-ShardCrystalOrange = 物品·orange crystal shard
+ent-ShardCrystalOrange = 橙色水晶碎片
 
-ent-ShardCrystalBlack = 物品·black crystal shard
+ent-ShardCrystalBlack = 黑色水晶碎片
 
-ent-ShardCrystalPink = 物品·pink crystal shard
+ent-ShardCrystalPink = 粉色水晶碎片
 
-ent-ShardCrystalGreen = 物品·green crystal shard
+ent-ShardCrystalGreen = 绿色水晶碎片
 
-ent-ShardCrystalRed = 红色 crystal shard
+ent-ShardCrystalRed = 红色水晶碎片
 
-ent-ShardCrystalRandom = 物品·random crystal shard
+ent-ShardCrystalRandom = 随机水晶碎片
 
 
-ent-IngotGold = 黄金 bar
+ent-IngotGold = 金锭
 
-ent-IngotGold1 = 黄金 bar
+ent-IngotGold1 = 金锭
 
-ent-IngotSilver = 物品·silver bar
+ent-IngotSilver = 银锭
 
-ent-IngotSilver1 = 物品·silver bar
+ent-IngotSilver1 = 银锭
 
 
 ent-MaterialCardboard = 纸板
 
-ent-MaterialCloth = 物品·cloth
+ent-MaterialCloth = 布料
 
-ent-MaterialDurathread = 物品·durathread
+ent-MaterialDurathread = 耐久丝
 
-ent-MaterialWoodPlank = 物品·wood
+ent-MaterialWoodPlank = 木材
 
-ent-MaterialBiomass = 物品·biomass
+ent-MaterialBiomass = 生物质
 
-ent-MaterialHideBear = 物品·bear hide
+ent-MaterialHideBear = 熊皮
 
-ent-MaterialHideCorgi = 物品·corgi hide
-    .desc = 这是物品·corgi hide。
+ent-MaterialHideCorgi = 柯基皮
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MaterialDiamond = 物品·refined diamond
+ent-MaterialDiamond = 精炼钻石
 
-ent-MaterialCotton = 物品·cotton
+ent-MaterialCotton = 棉花
 
-ent-MaterialPyrotton = 物品·pyrotton
+ent-MaterialPyrotton = 火绒棉
 
-ent-MaterialBananium = 物品·bananium
+ent-MaterialBananium = 香蕉矿
 
-ent-MaterialWebSilk = 物品·silk
-    .desc = 这是物品·silk。
+ent-MaterialWebSilk = 蛛丝
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MaterialToothSpaceCarp = 太空 carp tooth
-    .desc = 这是太空 carp tooth。
+ent-MaterialToothSpaceCarp = 太空鲤鱼牙
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MaterialToothSharkminnow = 物品·sharkminnow tooth
-    .desc = 这是物品·sharkminnow tooth。
+ent-MaterialToothSharkminnow = 鲨鱼米诺鱼牙
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MaterialBones = 物品·bones
+ent-MaterialBones = 骨头
 
-ent-MaterialGunpowder = 物品·gunpowder
-    .desc = 这是物品·gunpowder。
+ent-MaterialGunpowder = 火药
+    .desc = 一件用途与其名称相符的物品。
 
-ent-MaterialGoliathHide = 物品·goliath hide plates
-    .desc = 这是物品·goliath hide plates。
-
-
-ent-GoldOre = 黄金 ore
-
-ent-DiamondOre = 物品·diamond ore
-
-ent-SteelOre = 物品·iron ore
-
-ent-PlasmaOre = 物品·plasma ore
-
-ent-SilverOre = 物品·silver ore
-
-ent-SpaceQuartz = 太空 quartz
-
-ent-UraniumOre = 物品·uranium ore
-
-ent-BananiumOre = 物品·bananium ore
-
-ent-Coal = 物品·coal
-
-ent-SaltOre = 物品·salt
+ent-MaterialGoliathHide = 歌利亚甲皮
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-PartRodMetal = 物品·metal rod
+ent-GoldOre = 金矿石
 
-ent-PartRodMetal10 = 物品·metal rod
+ent-DiamondOre = 钻石矿石
 
-ent-PartRodMetal1 = 物品·metal rod
+ent-SteelOre = 铁矿石
+
+ent-PlasmaOre = 等离子矿石
+
+ent-SilverOre = 银矿石
+
+ent-SpaceQuartz = 太空石英
+
+ent-UraniumOre = 铀矿石
+
+ent-BananiumOre = 香蕉矿石
+
+ent-Coal = 煤
+
+ent-SaltOre = 盐
 
 
-ent-BaseScrap = 物品·scrap
-    .desc = 这是物品·scrap。
+ent-PartRodMetal = 金属棒
 
-ent-BaseScrapLarge = 物品·scrap
-    .desc = 这是物品·scrap。
+ent-PartRodMetal10 = 金属棒
 
-ent-ScrapSteel = 物品·blasted steel pile
-    .desc = 这是物品·blasted steel pile。
+ent-PartRodMetal1 = 金属棒
 
-ent-ScrapGlass = 物品·scrap circuitry
-    .desc = 这是物品·scrap circuitry。
 
-ent-ScrapAirlock1 = 物品·airlock door
-    .desc = 这是物品·airlock door。
+ent-BaseScrap = 废料
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapAirlock2 = 物品·airlock light
-    .desc = 这是物品·airlock light。
+ent-BaseScrapLarge = 废料
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapBucket = 物品·busted bucket
-    .desc = 这是物品·busted bucket。
+ent-ScrapSteel = 熔毁钢堆
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapCamera = 物品·broken camera
-    .desc = 这是物品·broken camera。
+ent-ScrapGlass = 废弃电路
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapCanister1 = 物品·canister handle
-    .desc = 这是物品·canister handle。
+ent-ScrapAirlock1 = 气闸门板
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapCanister2 = 物品·canister valve
-    .desc = 这是物品·canister valve。
+ent-ScrapAirlock2 = 气闸指示灯
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapCloset = 物品·closet door
-    .desc = 这是物品·closet door。
+ent-ScrapBucket = 破桶
+    .desc = 一件用途与其名称相符的物品。
+
+ent-ScrapCamera = 损坏的摄像头
+    .desc = 一件用途与其名称相符的物品。
+
+ent-ScrapCanister1 = 储气罐把手
+    .desc = 一件用途与其名称相符的物品。
+
+ent-ScrapCanister2 = 储气罐阀门
+    .desc = 一件用途与其名称相符的物品。
+
+ent-ScrapCloset = 壁橱门
+    .desc = 一件用途与其名称相符的物品。
 
 ent-ScrapFaxMachine = 传真机
-    .desc = 这是传真机。
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapFireExtinguisher = 物品·split fire extinguisher
-    .desc = 这是物品·split fire extinguisher。
+ent-ScrapFireExtinguisher = 裂开的灭火器
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapFirelock1 = 物品·firelock door
-    .desc = 这是物品·firelock door。
+ent-ScrapFirelock1 = 防火闸门板
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapFirelock2 = 物品·firelock door
-    .desc = 这是物品·firelock door。
+ent-ScrapFirelock2 = 防火闸门板
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapFirelock3 = 物品·firelock frame
+ent-ScrapFirelock3 = 防火闸框架
 
-ent-ScrapIntercom = 物品·intercom scrap
-    .desc = 这是物品·intercom scrap。
+ent-ScrapIntercom = 对讲机废料
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapJetpack = 物品·busted jetpack
-    .desc = 这是物品·busted jetpack。
+ent-ScrapJetpack = 损坏的喷气背包
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapMedkit = 物品·snapped medkit
-    .desc = 这是物品·snapped medkit。
+ent-ScrapMedkit = 断裂的医疗箱
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapMopBucket = 物品·half a mop bucket
-    .desc = 这是物品·half a mop bucket。
+ent-ScrapMopBucket = 半个拖把桶
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapPAI = personal ai 设备
-    .desc = 这是personal ai 设备。
+ent-ScrapPAI = 个人 AI 设备
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapPAIGold = gilded personal ai 设备
-    .desc = 这是gilded personal ai 设备。
+ent-ScrapPAIGold = 镀金个人 AI 设备
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapTube = 物品·shattered sample tube
-    .desc = 这是物品·shattered sample tube。
+ent-ScrapTube = 破碎样本管
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorPlasmaLeaking = leaking P.A.C.M.A.N. 发生器
-    .desc = 这是leaking P.A.C.M.A.N. 发生器。
+ent-ScrapGeneratorPlasmaLeaking = 泄漏的 P.A.C.M.A.N. 发电机
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorPlasma = old P.A.C.M.A.N. 发生器
-    .desc = 这是old P.A.C.M.A.N. 发生器。
+ent-ScrapGeneratorPlasma = 老旧 P.A.C.M.A.N. 发电机
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorUraniumLeaking = leaking S.U.P.E.R.P.A.C.M.A.N. 发生器
-    .desc = 这是leaking S.U.P.E.R.P.A.C.M.A.N. 发生器。
+ent-ScrapGeneratorUraniumLeaking = 泄漏的 S.U.P.E.R.P.A.C.M.A.N. 发电机
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorUranium = destroyed S.U.P.E.R.P.A.C.M.A.N. 发生器
-    .desc = 这是destroyed S.U.P.E.R.P.A.C.M.A.N. 发生器。
+ent-ScrapGeneratorUranium = 损毁的 S.U.P.E.R.P.A.C.M.A.N. 发电机
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorFrame = 发生器 frame
-    .desc = 这是发生器 frame。
+ent-ScrapGeneratorFrame = 发电机框架
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ScrapGeneratorFuelTank = 物品·fuel tank
-    .desc = 这是物品·fuel tank。
+ent-ScrapGeneratorFuelTank = 燃料罐
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-ShardGlass = 物品·glass shard
-    .desc = 这是物品·glass shard。
+ent-ShardGlass = 玻璃碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardGlassReinforced = 物品·reinforced glass shard
-    .desc = 这是物品·reinforced glass shard。
+ent-ShardGlassReinforced = 钢化玻璃碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardGlassPlasma = 物品·plasma glass shard
-    .desc = 这是物品·plasma glass shard。
+ent-ShardGlassPlasma = 等离子玻璃碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardGlassUranium = 物品·uranium glass shard
-    .desc = 这是物品·uranium glass shard。
+ent-ShardGlassUranium = 铀玻璃碎片
+    .desc = 一件用途与其名称相符的物品。
 
-ent-ShardGlassClockwork = 物品·clockwork glass shard
-    .desc = 这是物品·clockwork glass shard。
+ent-ShardGlassClockwork = 发条玻璃碎片
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-PaperAcquisitionSlip = 物品·acquisition slip
-    .desc = 这是物品·acquisition slip。
+ent-PaperAcquisitionSlip = 采购单
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-ArabianLamp = 物品·lamp
-    .desc = 这是物品·lamp。
+ent-ArabianLamp = 神灯
+    .desc = 一件用途与其名称相符的物品。
 
 
-ent-BedsheetBase = 物品·BedsheetBase
-    .desc = 这是物品·BedsheetBase。
+ent-BedsheetBase = 床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetBlack = 物品·black bedsheet
+ent-BedsheetBlack = 黑色床单
 
-ent-BedsheetBlue = 物品·blue bedsheet
+ent-BedsheetBlue = 蓝色床单
 
-ent-BedsheetBrown = 物品·brown bedsheet
+ent-BedsheetBrown = 棕色床单
 
-ent-BedsheetCaptain = 舰长's bedsheet
-    .desc = 这是舰长's bedsheet。 # SL
+ent-BedsheetCaptain = 舰长床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetCE = 物品·CE's bedsheet
-    .desc = 这是物品·CE's bedsheet。
+ent-BedsheetCE = 工程主管床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetCentcom = 中央指挥部 bedsheet
-    .desc = 这是中央指挥部 bedsheet。
+ent-BedsheetCentcom = 中央指挥部床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetClown = 小丑's bedsheet
-    .desc = 这是小丑's bedsheet。
+ent-BedsheetClown = 小丑床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetCMO = 物品·CMO's bedsheet
-    .desc = 这是物品·CMO's bedsheet。
+ent-BedsheetCMO = 医疗主管床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetCosmos = 物品·cosmos bedsheet
-    .desc = 这是物品·cosmos bedsheet。
+ent-BedsheetCosmos = 宇宙床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetCult = 物品·cult bedsheet
-    .desc = 这是物品·cult bedsheet。
+ent-BedsheetCult = 邪教床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetGreen = 物品·green bedsheet
+ent-BedsheetGreen = 绿色床单
 
-ent-BedsheetGrey = 物品·grey bedsheet
+ent-BedsheetGrey = 灰色床单
 
-ent-BedsheetHOP = 物品·HOP's bedsheet
-    .desc = 这是物品·HOP's bedsheet。
+ent-BedsheetHOP = 人事主管床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetHOS = 物品·HOS's bedsheet
-    .desc = 这是物品·HOS's bedsheet。
+ent-BedsheetHOS = 安保主管床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetIan = 物品·Ian's bedsheet
+ent-BedsheetIan = 伊恩床单
 
-ent-BedsheetMedical = 医疗 bedsheet
-    .desc = 这是医疗 bedsheet。
+ent-BedsheetMedical = 医疗床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetMime = 哑剧演员's bedsheet
-    .desc = 这是哑剧演员's bedsheet。
+ent-BedsheetMime = 哑剧床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetNT = 物品·NT bedsheet
-    .desc = 这是物品·NT bedsheet。 # SL
+ent-BedsheetNT = NT 床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetOrange = 物品·orange bedsheet
+ent-BedsheetOrange = 橙色床单
 
-ent-BedsheetPurple = 物品·purple bedsheet
+ent-BedsheetPurple = 紫色床单
 
-ent-BedsheetQM = 物品·QM's bedsheet
+ent-BedsheetQM = 军需官床单
 
-ent-BedsheetRainbow = 物品·rainbow bedsheet
+ent-BedsheetRainbow = 彩虹床单
 
-ent-BedsheetRD = 物品·RD's bedsheet
-    .desc = 这是物品·RD's bedsheet。
+ent-BedsheetRD = 研究主管床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetBrigmedic = 狱医's bedsheet
-    .desc = 这是狱医's bedsheet。
+ent-BedsheetBrigmedic = 狱医床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetRed = 红色 bedsheet
+ent-BedsheetRed = 红色床单
 
-ent-BedsheetSyndie = 辛迪加 bedsheet
-    .desc = 这是辛迪加 bedsheet。
+ent-BedsheetSyndie = 辛迪加床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetUSA = 物品·usa bedsheet
-    .desc = 这是物品·usa bedsheet。 #SL EDIT, description for lore
+ent-BedsheetUSA = 美国领地床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetWhite = 物品·white bedsheet
+ent-BedsheetWhite = 白色床单
 
-ent-BedsheetWiz = 巫师's bedsheet
-    .desc = 这是巫师's bedsheet。
+ent-BedsheetWiz = 巫师床单
+    .desc = 一条带有对应主题纹样和特色装饰的柔软床单。
 
-ent-BedsheetYellow = 物品·yellow bedsheet
+ent-BedsheetYellow = 黄色床单
 
 
-ent-BookBase = 物品·book
-    .desc = 这是物品·book。
+ent-BookBase = 书
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSpaceEncyclopedia = 太空 encyclopedia
-    .desc = 这是太空 encyclopedia。
+ent-BookSpaceEncyclopedia = 太空百科全书
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookTheBookOfControl = 物品·the book of control
-    .desc = 这是物品·the book of control。
+ent-BookTheBookOfControl = 掌控之书
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookBartendersManual = 酒保's manual
-    .desc = 这是酒保's manual。
+ent-BookBartendersManual = 酒保手册
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookHowToCookForFortySpaceman = 物品·How To Cook For Forty Spacemen
-    .desc = 这是物品·How To Cook For Forty Spacemen。
+ent-BookHowToCookForFortySpaceman = 如何为四十名太空人烹饪
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookLeafLoversSecret = 物品·leaf lover's secret
-    .desc = 这是物品·leaf lover's secret。
+ent-BookLeafLoversSecret = 爱叶者的秘密
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookEngineersHandbook = 工程师's handbook
-    .desc = 这是工程师's handbook。 # SL
+ent-BookEngineersHandbook = 工程师手册
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookScientistsGuidebook = 科学家's guidebook
-    .desc = 这是科学家's guidebook。 # SL
+ent-BookScientistsGuidebook = 科学家指南
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSecurity = 安保 101
-    .desc = 这是安保 101。 # SL
+ent-BookSecurity = 安保入门
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookHowToKeepStationClean = how to keep 空间站 clean
-    .desc = 这是how to keep 空间站 clean。
+ent-BookHowToKeepStationClean = 如何保持空间站清洁
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookHowToRockAndStone = 物品·how to rock and stone
-    .desc = 这是物品·how to rock and stone。
+ent-BookHowToRockAndStone = 如何开岩凿石
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookMedicalReferenceBook = 医疗 reference book
-    .desc = 这是医疗 reference book。
+ent-BookMedicalReferenceBook = 医学参考书
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookHowToSurvive = 物品·how to survive
-    .desc = 这是物品·how to survive。
+ent-BookHowToSurvive = 如何生存
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookChemicalCompendium = 物品·chempendium
-    .desc = 这是物品·chempendium。
+ent-BookChemicalCompendium = 化学大全
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAILawCompendium = 物品·My, Robot
-    .desc = 这是物品·My, Robot。
+ent-BookAILawCompendium = 我，机器人
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSpaceLaw = 物品·Corporate Law
-    .desc = 这是物品·Corporate Law。 # SL
+ent-BookSpaceLaw = 公司法
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAtmosDistro = Newton's Guide to 大气: The Distro
-    .desc = 一件Newton's Guide to 大气: The Distro，可以用来演奏音乐。
+ent-BookAtmosDistro = 牛顿大气指南：配送管网
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAtmosWaste = Newton's Guide to 大气: Waste
-    .desc = 一件Newton's Guide to 大气: Waste，可以用来演奏音乐。
+ent-BookAtmosWaste = 牛顿大气指南：废气管网
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAtmosAirAlarms = Newton's Guide to 大气: Air Alarms
-    .desc = 一件Newton's Guide to 大气: Air Alarms，可以用来演奏音乐。
+ent-BookAtmosAirAlarms = 牛顿大气指南：空气警报器
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAtmosVentsMore = Newton's Guide to 大气: Vents and More
-    .desc = 一件Newton's Guide to 大气: Vents and More，可以用来演奏音乐。
+ent-BookAtmosVentsMore = 牛顿大气指南：通风口及其他
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
 
-ent-BookNarsieLegend = 物品·the legend of nar'sie
-    .desc = 这是物品·the legend of nar'sie。
+ent-BookNarsieLegend = 纳尔西传奇
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookTruth = 物品·exploring different philosophical perspectives on truth and the complexity of lying
-    .desc = 一件物品·exploring different philosophical perspectives on truth and the complexity of lying，可以用来演奏音乐。
+ent-BookTruth = 真相的哲学视角与谎言的复杂性
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookWorld = 物品·shaping the state of the world - interplay of forces and choices
-    .desc = 这是物品·shaping the state of the world - interplay of forces and choices。
+ent-BookWorld = 塑造世界：力量与选择的交织
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanAntarctica = 物品·adventures of robert & ian - exploring antarctica
-    .desc = 这是物品·adventures of robert & ian - exploring antarctica。
+ent-BookIanAntarctica = 罗伯特与伊恩历险记：探索南极
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSlothClownSSS = the sloth and the 小丑 - 空间站 shenanigans
-    .desc = 这是the sloth and the 小丑 - 空间站 shenanigans。
+ent-BookSlothClownSSS = 树懒与小丑：空间站闹剧
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSlothClownPranks = the sloth and the 小丑 - pranks on zorgs
-    .desc = 这是the sloth and the 小丑 - pranks on zorgs。
+ent-BookSlothClownPranks = 树懒与小丑：捉弄佐格人
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSlothClownMMD = the sloth and the 小丑 - maze maze danger
-    .desc = 这是the sloth and the 小丑 - maze maze danger。
+ent-BookSlothClownMMD = 树懒与小丑：迷宫险境
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookStruck = 物品·the humbling and transformative experience of being struck by lightning
-    .desc = 这是物品·the humbling and transformative experience of being struck by lightning。
+ent-BookStruck = 雷击带来的谦卑与蜕变
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookSun = 物品·reaching for the sun - a plant's quest for life
-    .desc = 这是物品·reaching for the sun - a plant's quest for life。
+ent-BookSun = 奔向太阳：植物的生命追寻
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookPossum = 物品·fallen ambitions - the tragic tale of morty the possum
-    .desc = 这是物品·fallen ambitions - the tragic tale of morty the possum。
+ent-BookPossum = 坠落的雄心：负鼠莫蒂的悲剧
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookCafe = 物品·the cafe possum
-    .desc = 一件物品·the cafe possum，可以用来演奏音乐。
+ent-BookCafe = 咖啡馆里的负鼠
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookFeather = 物品·a feather of magic - the wandering bird's journey to belonging
-    .desc = 这是物品·a feather of magic - the wandering bird's journey to belonging。
+ent-BookFeather = 魔法羽毛：流浪鸟的归属之旅
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanLostWolfPup = 物品·the adventures of ian and renault - finding the lost wolf pup
-    .desc = 一件物品·the adventures of ian and renault - finding the lost wolf pup，可以用来演奏音乐。
+ent-BookIanLostWolfPup = 伊恩与雷诺历险记：寻找迷路狼崽
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanRanch = 物品·the adventures of ian and renault - ranch expedition
-    .desc = 这是物品·the adventures of ian and renault - ranch expedition。
+ent-BookIanRanch = 伊恩与雷诺历险记：牧场远征
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanOcean = 物品·the adventures of ian and renault - an ocean adventure
-    .desc = 一件物品·the adventures of ian and renault - an ocean adventure，可以用来演奏音乐。
+ent-BookIanOcean = 伊恩与雷诺历险记：海洋冒险
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanMountain = 物品·the adventures of ian and renault - a mountain expedition
-    .desc = 这是物品·the adventures of ian and renault - a mountain expedition。
+ent-BookIanMountain = 伊恩与雷诺历险记：山地远征
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanCity = 物品·the adventures of ian and renault - exploring the city
-    .desc = 一件物品·the adventures of ian and renault - exploring the city，可以用来演奏音乐。
+ent-BookIanCity = 伊恩与雷诺历险记：探索城市
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookIanArctic = 物品·the adventures of ian and renault - an arctic journey of courage and friendship
-    .desc = 这是物品·the adventures of ian and renault - an arctic journey of courage and friendship。
-2nd Edition.
+ent-BookIanArctic = 伊恩与雷诺历险记：勇气与友谊的北极之旅
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
+第二版。
 
-ent-BookIanDesert = 物品·the adventures of ian and renault - exploring the mysterious desert
-    .desc = 一件物品·the adventures of ian and renault - exploring the mysterious desert，可以用来演奏音乐。
+ent-BookIanDesert = 伊恩与雷诺历险记：探索神秘沙漠
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookNames = 物品·the power of names - a philosophical exploration
-    .desc = 一件物品·the power of names - a philosophical exploration，可以用来演奏音乐。
+ent-BookNames = 名字的力量：哲学探索
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookEarth = 物品·earthly longing
-    .desc = 这是物品·earthly longing。
+ent-BookEarth = 思乡地球
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookAurora = 物品·journey beyond - the starship aurora mission
-    .desc = 这是物品·journey beyond - the starship aurora mission。
+ent-BookAurora = 超越之旅：极光号星舰任务
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookTemple = 物品·the nature of the divine - embracing the many gods
-    .desc = 一件物品·the nature of the divine - embracing the many gods，可以用来演奏音乐。
+ent-BookTemple = 神性的本质：拥抱众神
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookWatched = 物品·watched
-    .desc = 这是物品·watched。
+ent-BookWatched = 监视
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookMedicalOfficer = horizon's battle - a 医疗 干员's tale of trust and survival
-    .desc = 一件horizon's battle - a 医疗 干员's tale of trust and survival，可以用来演奏音乐。
+ent-BookMedicalOfficer = 地平线之战：医疗官的信任与求生故事
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookMorgue = 物品·the ghostly residents of the abandoned morgue
-    .desc = 这是物品·the ghostly residents of the abandoned morgue。
+ent-BookMorgue = 废弃停尸房的幽灵住客
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookRufus = 物品·rufus and the mischievous fairy
-    .desc = 一件物品·rufus and the mischievous fairy，可以用来演奏音乐。
+ent-BookRufus = 鲁弗斯与淘气仙子
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookMap = the 地图 of adventure
-    .desc = 这是the 地图 of adventure。
+ent-BookMap = 冒险地图
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookJourney = 物品·a journey of music, mountains, and self-discovery
-    .desc = 一件物品·a journey of music, mountains, and self-discovery，可以用来演奏音乐。
+ent-BookJourney = 音乐、群山与自我发现之旅
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookInspiration = 物品·finding inspiration - a writer's journey through the woods
-    .desc = 一件物品·finding inspiration - a writer's journey through the woods，可以用来演奏音乐。
+ent-BookInspiration = 寻找灵感：作家的林中之旅
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
-ent-BookJanitorTale = the tales of a tired 清洁工
-    .desc = 这是the tales of a tired 清洁工。
+ent-BookJanitorTale = 疲惫清洁工的故事
+    .desc = 一本围绕书名所述主题展开的书，封面和内页带有与内容相呼应的精心设计。
 
 
-ent-ProximitySensor = 物品·proximity sensor
-    .desc = 这是物品·proximity sensor。
+ent-ProximitySensor = 接近传感器
+    .desc = 能感知附近的物体。
 
 
-ent-BrbSign = 物品·brb sign
-    .desc = 这是物品·brb sign。
+ent-BrbSign = 暂离标牌
+    .desc = 让其他人知道你暂时离开了。
 
 
-ent-BriefcaseBrown = 物品·brown briefcase
+ent-BriefcaseBrown = 棕色公文包
 
-ent-BriefcaseWeapon = 物品·secure weapon case
-    .desc = 这是物品·secure weapon case。
+ent-BriefcaseWeapon = 安全武器箱
+    .desc = 适合心怀大志的雇佣兵，也适合想做超大煎蛋的人。
 
 
-ent-SyndicateBusinessCard = 辛迪加 business card
-    .desc = 这是辛迪加 business card。
+ent-SyndicateBusinessCard = 辛迪加名片
+    .desc = 印有辛迪加标志的黑色卡片，背面写着一些字。
 
 
-ent-Candle = 物品·candle
-    .desc = 这是物品·candle。
+ent-Candle = 蜡烛
+    .desc = 一根穿过油脂的细灯芯。
 
-ent-CandleRed = 红色 candle
+ent-CandleRed = 红色蜡烛
 
-ent-CandleBlue = 物品·blue candle
+ent-CandleBlue = 蓝色蜡烛
 
-ent-CandleBlack = 物品·black candle
+ent-CandleBlack = 黑色蜡烛
 
-ent-CandleGreen = 物品·green candle
+ent-CandleGreen = 绿色蜡烛
 
-ent-CandlePurple = 物品·purple candle
+ent-CandlePurple = 紫色蜡烛
 
-ent-CandleSmall = 物品·small candle
+ent-CandleSmall = 小号蜡烛
 
-ent-CandleRedSmall = small 红色 candle
+ent-CandleRedSmall = 小号红色蜡烛
 
-ent-CandleBlueSmall = 物品·small blue candle
+ent-CandleBlueSmall = 小号蓝色蜡烛
 
-ent-CandleBlackSmall = 物品·small black candle
+ent-CandleBlackSmall = 小号黑色蜡烛
 
-ent-CandleGreenSmall = 物品·small green candle
+ent-CandleGreenSmall = 小号绿色蜡烛
 
-ent-CandlePurpleSmall = 物品·small purple candle
+ent-CandlePurpleSmall = 小号紫色蜡烛
 
-ent-CandleInfinite = 物品·magic candle
-    .desc = 这是物品·magic candle。
+ent-CandleInfinite = 魔法蜡烛
+    .desc = 不知是魔法还是高科技，它永不熄灭，但火焰十分冰冷。
 
-ent-CandleRedInfinite = magic 红色 candle
+ent-CandleRedInfinite = 魔法红色蜡烛
 
-ent-CandleBlueInfinite = 物品·magic blue candle
+ent-CandleBlueInfinite = 魔法蓝色蜡烛
 
-ent-CandleBlackInfinite = 物品·magic black candle
+ent-CandleBlackInfinite = 魔法黑色蜡烛
 
-ent-CandleGreenInfinite = 物品·magic green candle
+ent-CandleGreenInfinite = 魔法绿色蜡烛
 
-ent-CandlePurpleInfinite = 物品·magic purple candle
+ent-CandlePurpleInfinite = 魔法紫色蜡烛
 
-ent-CandleRedSmallInfinite = small magic 红色 candle
+ent-CandleRedSmallInfinite = 小号魔法红色蜡烛
 
-ent-CandleBlueSmallInfinite = 物品·small magic blue candle
+ent-CandleBlueSmallInfinite = 小号魔法蓝色蜡烛
 
-ent-CandleBlackSmallInfinite = 物品·small magic black candle
+ent-CandleBlackSmallInfinite = 小号魔法黑色蜡烛
 
-ent-CandleGreenSmallInfinite = 物品·small magic green candle
+ent-CandleGreenSmallInfinite = 小号魔法绿色蜡烛
 
-ent-CandlePurpleSmallInfinite = 物品·small magic purple candle
+ent-CandlePurpleSmallInfinite = 小号魔法紫色蜡烛
 
 
-ent-CandyBowl = 物品·candy bowl
-    .desc = 这是物品·candy bowl。
+ent-CandyBowl = 糖果碗
+    .desc = 能往口袋里塞多少就拿多少！
 
 
-ent-CandyBucket = 物品·candy bucket
-    .desc = 这是物品·candy bucket。
+ent-CandyBucket = 糖果桶
+    .desc = 用来盛放节日糖果的喜庆小桶。
 
 
-ent-ChopSticks = 物品·chopsticks
-    .desc = 这是物品·chopsticks。
+ent-ChopSticks = 筷子
+    .desc = 一种非常传统的餐具。

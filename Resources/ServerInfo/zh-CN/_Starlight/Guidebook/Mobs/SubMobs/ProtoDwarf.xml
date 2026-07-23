@@ -1,0 +1,13 @@
+<Document>
+  # 原型矮人
+<!-- Starlight, renamed back to Dwarf.-->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoDwarf" Caption=""/>
+  </Box>
+
+  尽管会带来不少麻烦，原型矮人往往骄傲得连“剃掉胡子以便更好地佩戴新面罩”这种事想都不会想。因此，他们是唯一能把胡子露在面罩外面的种族。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 15%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#64ffe6]毒素伤害减少 25%[/color]，受到的[color=#1e90ff]寒冷伤害减少 35%[/color]。
+</Document>

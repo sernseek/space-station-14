@@ -1,0 +1,51 @@
+<Document>
+  # 管道系统
+  管道系统是一套试剂输送管路，可用于搭建流体供应系统和自动化学工厂。流体管道把机器连接成网络，无须人工干预即可在机器之间输送试剂。
+
+  <Box>
+    <GuideEntityEmbed Entity="RPLD" Caption="RPLD"/>
+  </Box>
+
+  ## 入门
+  管道系统使用[color=#a4885c]RPLD[/color]（快速管道装置）建造，其工作方式类似 RCD，但专用于管道系统。它可以放置流体管道和所有管道机器（但不能放置所有带管道连接器的机器）。从环形菜单中选择要建造的项目。
+
+  所有管道机器和管道都[color=#a4885c]可以旋转[/color]。放置前或放置后使用旋转按键，正确调整入口与出口方向。机器连接器必须对准相邻管道。多数管道机器固定后仍可旋转。
+
+  ## 流体管道
+  流体管道是在机器之间输送试剂的管路。它与大气管道类似：用 RPLD 放置后，会自动连接相邻管道与机器，形成[color=#a4885c]流体管道网络[/color]。管道会隐藏在地板下。
+
+  流体管道支持[color=#a4885c]三个管道层[/color]：主层、次层与第三层。使用 RPLD 模式切换（或自由模式引导点）选择管道所处层级。
+
+  管道共有五种形态：
+
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookPlumbingDuctStraight" Caption="直管"/>
+    <GuideEntityEmbed Entity="GuidebookPlumbingDuctBend" Caption="弯管"/>
+    <GuideEntityEmbed Entity="GuidebookPlumbingDuctTJunction" Caption="T 形接头"/>
+    <GuideEntityEmbed Entity="GuidebookPlumbingDuctFourway" Caption="四通接头"/>
+    <GuideEntityEmbed Entity="GuidebookPlumbingDuctManifold" Caption="歧管"/>
+  </Box>
+
+  [color=#a4885c]歧管[/color]会桥接与各侧相连的管道，可以跨越全部三个层级连接不同管道。
+
+  ## 连接器颜色
+  每台机器的连接器都以颜色区分：
+  - [color=#ff5959]红色[/color]连接器是[bold]入口[/bold]：机器通过入口从网络抽取试剂。
+  - [color=#5999ff]蓝色[/color]连接器是[bold]出口[/bold]：其他机器可以通过出口从该机器抽取试剂。
+  - [color=#59e659]绿色[/color]连接器是[bold]混合入口[/bold]：用于按比例混合的专用入口（制药机）。
+
+  已连接的连接器呈平滑接头，未连接的连接器则呈锯齿状。
+
+  ## 皮搋子
+  大多数带内部缓冲区的机器都[color=#a4885c]可以疏通[/color]。对其使用皮搋子，可将内容物冲到地板上，适合清除卡住的试剂。
+
+  ## 试剂流动
+  有关试剂在网络中的移动方式、抽取机制和分配方式，请参阅[textlink="试剂流动" link="PlumbingFlow"]。
+
+  ## 机器
+  各类机器的详细信息请参阅[textlink="管道机器" link="PlumbingMachines"]。
+
+  某些非管道机器也支持管道连接，包括[color=#a4885c]ChemMaster[/color]、[color=#a4885c]化学品分配器[/color]和[color=#a4885c]工业试剂研磨机[/color]。
+
+
+</Document>

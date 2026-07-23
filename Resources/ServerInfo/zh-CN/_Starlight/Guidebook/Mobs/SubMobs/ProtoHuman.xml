@@ -1,0 +1,21 @@
+<Document>
+  # 原型人类
+<!-- Starlight, renamed back to Human.-->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoHuman" Caption=""/>
+  </Box>
+
+  有趣的是，“原型机”一词源自人类创造的一种虚构物种，其外貌与如今被直接称为“原型机”的无明确物种者相同。
+
+  因此也可以说，人类间接发明了整个原型机物种；不过，直到其他种族开始接受同样的改造后，这个称呼才真正出现。
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoVulp" Caption=""/>
+    <GuideEntityEmbed Entity="AppearanceProtogen" Caption=""/>
+  </Box>
+ 事实上，正是原型伏尔卡宁的出现真正普及了“原型机”这个名字，因为他们与那个虚构种族极其相似。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 10%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 30%[/color]。
+</Document>

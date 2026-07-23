@@ -1,0 +1,121 @@
+<Document>
+  # 恐怖蜘蛛
+
+  <Box>
+    [color=#999999][italic]“蜘蛛！噢，不！我有蜘蛛恐惧症！”[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorPrince" Caption=""/>
+  </Box>
+
+  恐怖蜘蛛是占领型敌对角色，会杀死视野中的所有类人生物。
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorPrincess" Caption=""/>
+  </Box>
+
+  ## 初始蜘蛛（恐怖公主）
+  你是[color=#fc6cff]等级 3[/color]的恐怖公主蜘蛛。
+
+  ### 能力
+
+  你可以打开通电的门、织网，并破坏焊死的通风口。
+
+  ### 扩大族群
+
+  你拥有[color=#ace9ff]产卵[/color]动作，可以生成含有[color=#fc6cff]等级 1[/color]蜘蛛的卵。
+  卵会在 90 秒后孵化成幼蛛；再过 90 秒，幼蛛会成长为你先前选择的[color=#fc6cff]等级 1[/color]蜘蛛类型。
+
+  # 等级 1 蜘蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorRed" Caption=""/>
+  </Box>
+
+  ## 红色恐怖蜘蛛
+
+  这是战斗型蜘蛛。它拥有[color=#ace9ff]坚韧[/color]蛛网、更高生命值和更高伤害。
+
+  它也能打开[color=#ace9ff]通电的门[/color]。
+
+  织出 36 张网后，可以进化为[color=#fc6cff]等级 2[/color]的紫色恐怖蜘蛛。
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorGreen" Caption=""/>
+  </Box>
+
+  ## 绿色恐怖蜘蛛
+
+  这是辅助型蜘蛛。它可以把卵[color=#ace9ff]产入[/color]类人生物体内；经过一段时间，卵会在其体内孵化成幼蛛。
+
+  它还拥有[color=#4d7954]黏液[/color]蛛网，可将类人生物的速度降至原本的 30%（普通蛛网为 50%）。
+
+  向类人生物体内注入 4 枚卵后，可以进化为[color=#fc6cff]等级 2[/color]的白色恐怖蜘蛛。
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorGray" Caption=""/>
+  </Box>
+
+  ## 灰色恐怖蜘蛛
+
+  这是潜行型蜘蛛。它拥有[color=#ace9ff]隐形[/color]能力，只要位于任意蛛网上即可隐形。
+
+  它还拥有更难被发现的[color=#665a4f]潜行[/color]蛛网。
+
+  织出 36 张网后，可以进化为[color=#fc6cff]等级 2[/color]的黑色恐怖蜘蛛。
+
+  # 等级 2 蜘蛛
+
+  ## 紫色恐怖蜘蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorPurple" Caption=""/>
+  </Box>
+
+  这是高级战斗型蜘蛛。与红色恐怖蜘蛛不同，它拥有[color=#a3f2fe]EMP 尖啸[/color]能力，可以抽空用电设备的能量。
+
+  织出 36 张网后，可以进化为[color=#fc6cff]等级 3[/color]的恐怖王子。
+
+  ## 白色恐怖蜘蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorWhite" Caption=""/>
+  </Box>
+
+  这是高级辅助型蜘蛛。与绿色恐怖蜘蛛不同，它拥有远程酸液喷吐攻击。
+
+  向类人生物体内注入 6 枚卵后，可以进化为[color=#fc6cff]等级 3[/color]的恐怖公主。
+
+  ## 黑色恐怖蜘蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorBlack" Caption=""/>
+  </Box>
+
+  这是高级潜行型蜘蛛。与灰色恐怖蜘蛛不同，它拥有跳跃能力；跳跃时还会撞倒类人生物。
+
+  它还拥有[color=#4d643e]毒性[/color]蛛网，会向站在其中的类人生物注入毒素。
+
+  织出 36 张网后，可以进化为[color=#fc6cff]等级 3[/color]的恐怖母蛛。
+
+  # 等级 3 蜘蛛
+
+  ## 恐怖王子
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorPrince" Caption=""/>
+  </Box>
+
+  这是更为高级的战斗型蜘蛛。它继承紫色恐怖蜘蛛的所有特性，但生命值更高、伤害也更高。
+
+  ## 恐怖母蛛
+
+  <Box>
+    <GuideEntityEmbed Entity="MobTerrorMother" Caption=""/>
+  </Box>
+
+  这是更为高级的辅助型蜘蛛。它继承黑色恐怖蜘蛛的所有特性，还能生成可治疗蜘蛛同伴的蜂王浆。
+
+  它也拥有[color=#4d643e]毒性[/color]蛛网，会向站在其中的类人生物注入毒素。
+
+</Document>

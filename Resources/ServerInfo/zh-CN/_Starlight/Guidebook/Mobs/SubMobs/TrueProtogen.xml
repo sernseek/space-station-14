@@ -1,0 +1,16 @@
+<Document>
+  # 真正的原型机
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtogen" Caption=""/>
+  </Box>
+
+  你问，什么是“真正的原型机”？当四肢和器官被替换到什么程度时，你才不再认为自己还是最初的那个自己？
+  无论你原本究竟属于什么物种，你早已舍弃了那副身躯，并将现在的自己视为自己的继承者。
+
+  去追寻希望与未来吧。找到属于你自己的答案。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 20%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 50%[/color]。
+</Document>

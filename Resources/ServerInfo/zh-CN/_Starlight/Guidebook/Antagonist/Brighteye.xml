@@ -1,0 +1,93 @@
+<Document>
+  # 明眼者
+
+  <Box>
+    [color=#999999][italic]玛尔……[italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="PortalShadekinHub" Caption=""/>
+  </Box>
+
+  明眼者是来自异界的实体，也是闯入物质世界的不速之客。
+  他们既常常只是观察者，也同样常常打断常态、介入其中。
+  他们来自“黑暗界”；意外撞见一座空间站也好，主动寻找新奇景象也罢，人们会以无数缘由、无数方式遇到他们。
+  由于天性使然，他们往往难以预测，心血来潮与冲动也千差万别。
+  他们能够影响太空中的阴影，这让其行踪难以确定，也很少以有形实体出现。
+
+  [color=red]明眼者并非天生倾向于杀人或残害他人。
+  他们往往更专注于自己的奇思与冲动，绝非必须保持敌对。[color]
+
+  ## 零空间
+  <Box>
+    <GuideEntityEmbed Entity="DarkRandom" Caption=""/>
+  </Box>
+  一种类似人们熟知的 X 轴与 Y 轴的维度轴。
+  零空间处于物质界与异界之间，是某些实体能够在其中或经由其中穿行的帷幕／通道。
+  对大多数人而言，这只是一种纯理论现象。
+
+  ## 黑暗界
+  <Box>
+    <GuideEntityEmbed Entity="Phoronic" Caption=""/>
+  </Box>
+  被称为“影裔”的物种的故乡与起源之地。
+  人们对这个领域知之甚少；大多数来自那里的人将其描述为“超然的虚无”。不过可以确定，它以某种方式对所有影裔都具有极其重大的精神与文化意义。
+  那或许是一个无边无际的维度，其中只有空洞黑暗；在那里，光甚至在概念层面都失去了意义。
+  尽管如此，所有影裔都曾在那里生活，或终有一日会发现自己身处其中；他们还经常谈到一种只在该领域举行、名为“仪式”的事件。
+  归根结底，得到证实或能够确定的知识少之又少；几乎所有说法都来自那些曾将那里称作故乡的人。
+
+  ## 黑暗传送门
+  <Box>
+    <GuideEntityEmbed Entity="PortalShadekin" Caption=""/>
+  </Box>
+  一道通往“黑暗界”的跨维度裂隙。
+  这种异常是明眼者经常创造并使用的通道，用于从物质世界直接瞬间转移到黑暗界。不过，只要传送门仍在运作或保持开启，其他实体也可能利用裂隙。
+  这些传送门在本质上通常与创造者直接相连，是其影响力的延伸。
+  黑暗传送门与黑暗界相连，还会产生一种或令人担忧、或令人惊叹的副作用：黑暗界的部分影响会经通道渗漏出来。若经过足够长时间，流动的深渊将吞没原本环绕它的物质世界。
+
+  ## 核心
+  <Box>
+    <GuideEntityEmbed Entity="OrganShadekinCore" Caption=""/>
+  </Box>
+  <Box>
+    [color=#999999][italic]影裔的核心；一个神秘而强大的器官，似乎是其能量来源。[italic][/color]
+  </Box>
+  “核心”是影裔生理结构中的器官，每一枚似乎都有自己独特的频率或构成。
+  因此，一名影裔的核心不能简单移植到另一名影裔体内，否则会引发器官的生理排斥。
+  所有为 NT 工作的影裔都属于“灼毁者”或“黑眼者”，也就是说，其核心以某种方式遭到无法修复的损伤；常见原因包括人为干预、物理损伤或通常所说的“仪式”。
+  完好、未被灼毁的核心是与黑暗相通并令其流动的导管。它会随周围光照强弱而增强或衰减，利用光的缺失影响阴影。
+  来自“明眼者”影裔的正常核心因跨维度性质与稀有程度而极其珍贵，无论科学价值还是经济价值都高得惊人。
+
+  ## 蓝空间水晶
+  <Box>
+    <GuideEntityEmbed Entity="BluespaceCrystal" Caption="蓝空间水晶"/>
+    <GuideEntityEmbed Entity="ArtificialBluespaceCrystal" Caption="人造蓝空间水晶"/>
+  </Box>
+  蓝空间水晶是一种会与零空间实体及影裔核心发生剧烈反应的元素／物质。
+  蓝空间水晶能够令核心失稳，使其暂时处于不稳定状态，扰乱核心的自然流动及其与零空间的连接。
+  但需注意，这些水晶同样会影响“灼毁”或“黑眼”影裔，给他们造成强烈不适。
+
+  ### 零空间抽离器
+  <Box>
+    <GuideEntityEmbed Entity="ClothingNullSpaceDrainer" Caption=""/>
+    [color=#999999][italic]一种同时占据物质空间与零空间的叠加装置。\n将外部异质能量转化为数据。\n该装置能够限制并阻止实体进入或离开零空间。[italic][/color]
+  </Box>
+
+  ### 零空间护目镜
+  <Box>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesNullSpace" Caption=""/>
+    [color=#999999][italic]一副不同寻常的护目镜，研发于以影裔为对象进行不人道实验的时期。\n它能让佩戴者窥视零空间。[italic][/color]
+  </Box>
+
+  ### 零空间锚
+  <Box>
+    <GuideEntityEmbed Entity="nullspaceanchor" Caption=""/>
+    [color=#999999][italic]将物质存在强加于零空间本身。\n利用蓝空间水晶产生共振力，把栖居于两种状态之间的存在拖入物质世界。\n通过这些方式旅行的实体会被强行锚定、扎根于世界；只要身处装置范围内，就无法再进入零空间。[italic][/color]
+  </Box>
+
+  ### 黑暗突破器
+  <Box>
+    <GuideEntityEmbed Entity="MachineDarkBreacher" Caption=""/>
+    [color=#999999][italic]通往黑暗界的传送门……[italic][/color]
+  </Box>
+
+</Document>

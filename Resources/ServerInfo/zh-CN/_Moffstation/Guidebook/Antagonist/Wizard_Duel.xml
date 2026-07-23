@@ -1,0 +1,35 @@
+<Document>
+  # 巫师决斗
+
+  <Box>
+    [color=#457573][italic]我向你发起决斗！[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHeadHatRedwizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatWizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatYellowwizard" Caption=""/><!-- Starlight, Yellow Wizard -->
+    <GuideEntityEmbed Entity="ClothingHeadHatGreenwizard" Caption=""/><!-- Starlight, Green Wizard -->
+    <GuideEntityEmbed Entity="ClothingHeadHatPurplewizard" Caption=""/><!-- Starlight, violet -> Purple, and moved to after Green Wizard. -->
+    <GuideEntityEmbed Entity="ClothingHeadHatOrangewizard" Caption=""/><!-- Starlight, Orange Wizard -->
+  </Box>
+  经历无数岁月的冲突与争斗后，太空巫师联盟的各个学派学会了以最符合其变幻莫测天性的方式解决分歧：古老的巫师决斗仪式！
+  每个派系都会派出一名成员代表自己的学派。这些巫师互相较量，以证明自己对法术与魔法的掌控无人能及，并借此决定太空巫师联盟在后续事件中的未来。
+
+  因此，决斗巫师属于[color=red][bold]单人敌对角色[/color][/bold]。他们并非通过直接敌对行动给空间站制造麻烦，而是在与其他决斗巫师交战时造成附带破坏。<!-- Starlight, changed to Solo Antagonists -->
+
+  ## 决斗仪式
+  <Box>
+    <GuideEntityEmbed Entity="WizardTeleportScroll" Caption=""/>
+  </Box>
+
+  每场巫师决斗都是独一无二的混乱体验，往往会给不幸夹在双方之间的生灵带来难以估量的破坏。
+  鉴于此，古代巫师制定了若干传统；任何获准进行的决斗都必须遵守：
+  - 不得在太空巫师联盟领地内决斗。
+  - 所有决斗者必须在施放第一个法术前确定交战条款。
+  - 交战条款确定后，任何决斗者都不得违背。
+
+  交战条款通常会规定哪些法术、魔杖和装备可以或禁止使用，如何判定胜负，以及是否允许与战场上的居民合作。
+
+  最重要的是：发挥创意！单纯互相攻击、毫无意义地杀死低等居民都毫无想象力，而且太空巫师联盟希望你们至少有一人能够活着回来。<!-- Starlight, suggestion that they don't just start RDMing. -->
+
+</Document>

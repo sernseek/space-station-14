@@ -1,0 +1,23 @@
+<Document>
+  # 原型机
+<!-- Heavily modified from Far Horizons' version. No Synth, Damage values changes, etc. -->
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtogen" Caption=""/>
+  </Box>
+
+  [color=#ffa500]警告！该物种会带来重大的玩法变化，不建议新玩家选择！[/color]
+
+  严格来说，原型机并非物种，而是对经过大规模赛博强化、以至于已无法再被视为原物种之人的统称。
+
+  尽管“赛博格”一词早已存在，但它指的是拥有有机大脑的机器，因此需要另作区分。
+
+  ## 种族特性
+
+  - 依亚种而定，受到的[color=#ffa500]灼热伤害更多[/color]、[color=#8147ff]电击伤害更多[/color]、[color=#FF3636]钝击伤害更多[/color]，受到的[color=#1e90ff]寒冷伤害更少[/color]。
+  - 依赛博框架而定，具有不同的[color=#B9BF93]抗性[/color]。（可从外观标签页进入物种专属配装）
+  - 治疗手段对你的效果[color=red]降低 50%[/color]，但化学治疗和机械修复均能对你生效。
+  - 可以用铀玻璃与强化铀玻璃治疗[color=#64ffe6]毒素伤害[/color]和[color=#C8FF75]基因伤害[/color]。
+  - EMP 对你的赛博部件十分[color=red]危险[/color]！千万别被击中，否则你会在相当长一段时间内无法移动。
+  - 亚种选择——你可以选择成为没有原始物种的人工原型机，也可以选择原型（某物种）。后者会继承原物种特质，并将经调整的抗性相结合，形成全新的组合。
+  - 可以在特征选项中修改原型机框架和灯光。
+</Document>

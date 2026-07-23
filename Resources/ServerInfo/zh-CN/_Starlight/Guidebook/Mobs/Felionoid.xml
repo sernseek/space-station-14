@@ -1,0 +1,36 @@
+<Document>
+  # 猫科人
+
+  <Box>
+    <GuideEntityEmbed Entity="MobFelionoid" Caption=""/>
+  </Box>
+
+  一种体型较小、步伐轻盈的猫科物种。
+
+  ## 年龄与姓名
+  猫科人的寿命与人类相近，不过年老时会出现更多并发症。
+  他们的名字是复合词，每个名字都以所属殖民地或家族名开头，例如[color=yellow]丝绸[/color][color=orange]毛皮[/color]。
+  即使在日常交谈中，将复合姓名拆开也被视为不合礼节，甚至可能十分无礼。
+  许多猫科人会用昵称替代复合姓名，或采用人类文化中更常见的名字。
+
+  ## 种族特性
+  徒手爪击造成[color=red]3[/color]点切割伤害，攻击频率是人类的[color=yellow]2[/color]倍。
+  因此，他们更容易[color=yellow]推搡[/color]和[color=red]缴械[/color]他人。
+
+  此外，猫科人的跑动速度比人类[color=lightgreen]快 25%[/color]——前提是[color=yellow]不穿鞋[/color]；穿鞋时则快[color=lightgreen]5%[/color]。
+
+  猫科人也更容易受到伤害：
+  - 累积[color=red]85[/color]点伤害时进入濒危状态。
+  - 累积[color=red]170[/color]点伤害时死亡。
+
+  ## 武器后坐力
+  猫科人会被大口径武器推着移动。大口径武器每开一枪，都会令其受到[color=yellow]耐力伤害[/color]。
+
+  一般而言，会产生后坐力的武器包括[color=yellow]步枪、狙击步枪、霰弹枪、轻机枪、重机枪和榴弹发射器。[/color]
+
+  使用火箭发射器时尤其要小心：由于它是无后坐力武器，你实际上会被[color=red]火箭向前拉动[/color]一小段距离。
+  - 最安全、完全不会产生后坐力的武器是[color=green]手枪和冲锋枪[/color]。
+  - 防滑装备能够缓解一部分武器后坐力，但不能完全消除！
+  - 还要记住，你拥有的任何耐力抗性都能降低这些武器造成的耐力伤害。
+
+</Document>

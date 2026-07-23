@@ -1,0 +1,165 @@
+<Document>
+	# 核反应堆
+	<Box>
+		<GuideEntityEmbed Entity="NuclearReactorNormal" Scale="1.5"/>
+	</Box>
+
+	核反应堆是发电机用于产生电力的主要热源。
+
+	它表现为由反应堆棒接口组成的网格，工程师可以将制造的不同棒体插入其中。
+
+	燃料棒内的裂变反应产生热量，再由气体通道将热量传递给冷却气体。
+
+	## 反应堆棒
+	<Box>
+		<GuideEntityEmbed Entity="NuclearFabricator"/>
+	</Box>
+	<Box>
+		<GuideEntityEmbed Entity="CerenkiteReactorFuelRod" Caption="燃料棒"/>
+		<GuideEntityEmbed Entity="BohrumReactorControlRod" Caption="控制棒"/>
+		<GuideEntityEmbed Entity="SteelReactorGasChannel" Caption="气体通道"/>
+		<GuideEntityEmbed Entity="SteelReactorHeatExchanger" Caption="换热器"/>
+	</Box>
+
+	反应堆棒是插入反应堆网格、使其发挥作用的部件。
+
+	它们会在反应堆内传递热量并与中子相互作用。
+
+	若反应堆棒的[color=#a4885c]温度[/color]达到[color=orange][protodata="CerenkiteReactorFuelRod" comp="ReactorPart" member="MeltingPoint"/]k[/color]，它就会开始熔化。
+
+	熔化后，其活跃程度与向反应堆传热的能力都会大幅提高，可能造成全面堆芯熔毁。
+
+	接触高温反应堆棒可能造成严重灼伤。
+
+	温度高于[color=orange][protodata="CerenkiteReactorFuelRod" comp="ReactorPart" member="GuidebookHotTemp"/]C[/color]时，必须戴手套才能拿取；达到[color=orange][protodata="CerenkiteReactorFuelRod" comp="ReactorPart" member="GuidebookBurnTemp"/]C[/color]时，即使手套也无法保护你。
+
+	可以用多种[textlink="材料" link="NuclearMaterials"]制造四类反应堆棒，并将其插入反应堆网格：燃料棒、控制棒、气体通道和换热器。
+
+	### 燃料棒
+	燃料棒是反应堆内中子与热量的来源。
+
+	它们可通过自发衰变或与现有中子相互作用来释放中子并产生热量。
+
+	其效能与不稳定性由两项数据决定：
+	- [color=#a4885c]中子放射性[/color]：产生高能中子和大量热量，并衰变为放射性。
+	- [color=#a4885c]放射性[/color]：产生中子与热量，并衰变为乏燃料。
+
+	燃料棒还会记录其中含有的[color=#a4885c]乏燃料[/color]数量。该数值不影响燃料棒性能，但可以指示何时需要更换。
+
+	<Box>
+		<GuideEntityEmbed Entity="NuclearCentrifuge"/>
+		<GuideEntityEmbed Entity="IngotPlutonium"/>
+	</Box>
+
+	燃料棒含有足够多的[color=#a4885c]乏燃料[/color]后，可用核离心机重新处理并制成钚；钚可以用于制造钚燃料棒。
+
+	### 控制棒
+	控制棒用于控制反应堆内的中子流。
+
+	它们具有能够调节的独特性质，调整会改变其生效程度。
+
+	控制棒可以限制穿过自身并进入燃料棒的中子数量，从而控制反应堆的功率输出。
+
+	### 气体通道
+	气体通道把自身热量传递给流经其中的冷却气体。
+
+	每条气体通道都会将流量提高[color=orange][protodata="SteelReactorGasChannel" comp="ReactorPart" member="GasVolume"/] L/s[/color]，使反应堆能同时处理更多气体。
+
+	### 换热器
+	换热器引导热量在反应堆内扩散。
+
+	它们极其擅长传热，且不会与中子相互作用，因此非常适合在不干扰裂变过程的情况下，把燃料棒的热量传入气体通道。
+
+	## 控制反应堆
+	通过反应堆 UI 控制和调整反应堆；UI 还会提供反应堆状态信息。
+
+	反应堆 UI 分为三个主要面板：目标控制、网格视图和状态面板。
+
+	### 目标控制
+	目标控制面板用于将反应堆棒插入网格或从中取出。
+
+	用箭头按钮调整目标位置，正中央会显示准确坐标。
+
+	使用位置按钮下方的插入／取出按钮，即可插入或取出反应堆棒。
+
+	若目标位置存在反应堆棒，面板会显示该棒体的信息，包括：
+	- 名称
+	- 温度（T）
+	- 中子放射性（N）
+	- 放射性（R）
+	- 乏燃料（S）
+
+	面板底部会显示反应堆物品栏中部件的名称；该部件已经准备好插入网格，或从反应堆中取出。
+
+	### 网格视图
+	网格视图以图像方式显示反应堆网格的状态。
+
+	使用切换视图按钮可以在不同视图之间切换：
+	- 温度视图：显示各部件的温度
+	- 中子视图：显示各个位置的中子数量
+	- 燃料视图：显示各部件的燃料水平
+
+	### 状态面板
+	状态面板提供整个反应堆的信息，并用于控制控制棒。
+
+	[color=#a4885c]温度计[/color]显示反应堆当前温度，范围为[color=orange]0k[/color]至[color=orange][protodata="NuclearReactorNormal" comp="NuclearReactor" member="ReactorMeltdownTemp"/]k[/color]。
+
+	反应堆一旦达到[color=orange][protodata="NuclearReactorNormal" comp="NuclearReactor" member="ReactorMeltdownTemp"/]k[/color]，便会发生[color=red]堆芯熔毁[/color]。
+
+	[color=#a4885c]辐射计[/color]显示反应堆当前释放的辐射，范围为[color=orange]0[/color]至[color=orange][protodata="NuclearReactorNormal" comp="NuclearReactor" member="MaximumRadiation"/][/color] rad。
+
+	[color=#a4885c]热功率计[/color]显示反应堆产生的热功率估算值，范围为[color=orange]0[/color]至[color=orange][protodata="NuclearReactorNormal" comp="NuclearReactor" member="MaximumThermalPower" format="N0"/][/color]热瓦（Wt）。
+
+	热功率能够较好地估算[textlink="燃气轮机" link="GasTurbine"]可以从气体中提取多少功率。
+
+	反应堆运行时，热功率往往会上下浮动，很少保持稳定。
+
+	[color=#a4885c]控制棒计量表[/color]显示反应堆内控制棒的实际插入程度与设定插入程度，并提供用于调整插入程度的按钮。
+
+	插入 100% 表示控制棒以最大效力运作；插入 0% 表示控制棒实际上已经停用。
+
+	## 冷却反应堆
+	反应堆使用气体冷却，但某些气体达到足够数量后会对反应堆产生影响：
+
+	<Box>
+		<GuideEntityEmbed Entity="PlasmaCanister" Caption=""/>
+	</Box>
+	[color=#ff3300][bold]等离子体[/bold][/color]具有反应促进作用，会产生更多中子并衰变为[color=#13ff4b][bold]氚气[/bold][/color]。
+
+	若反应堆内存在足够多的等离子体，可能发生失控反应并[color=red]堆芯熔毁[/color]。
+
+	<Box>
+		<GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
+	</Box>
+	[color=#4e4e4e][bold]二氧化碳[/bold][/color]具有减速作用，会消除与其接触的中子。
+
+	它可用于调节等离子体反应或降低反应堆速度。
+
+	<Box>
+		<GuideEntityEmbed Entity="TritiumCanister" Caption=""/>
+	</Box>
+	[color=#13ff4b][bold]氚气[/bold][/color]会在反应堆内嬗变，随机衰变为多种气体：
+	- [color=#2887e8][bold]氧气[/bold][/color]
+	- [color=#FF0000][bold]氮气[/bold][/color]
+	- [color=#56941e][bold]氨气[/bold][/color]
+	- [color=#8f00ff][bold]一氧化二氮[/bold][/color]
+	- [color=#3a758c][bold]弗里宗[/bold][/color]
+
+	在存在[color=#2887e8][bold]氧气[/bold][/color]且达到反应堆温度时，[color=#13ff4b][bold]氚气[/bold][/color]会开始燃烧，[color=red]产生大量热量[/color]。
+
+	## 反应堆辐射
+	<Box>
+		<GuideEntityEmbed Entity="SignRadiation" Caption=""/>
+	</Box>
+	反应堆有时会泄漏部分辐射，对未受保护的船员构成危险。
+
+	反应堆的辐射水平取决于逃出反应堆网格的中子数量。
+
+	<Box>
+		<GuideEntityEmbed Entity="ClosetRadiationSuit"/>
+		<GuideEntityEmbed Entity="ClothingOuterSuitRad"/>
+		<GuideEntityEmbed Entity="GeigerCounter"/>
+	</Box>
+
+	在反应堆附近工作时，强烈建议使用适当的防护与屏蔽措施。
+</Document>

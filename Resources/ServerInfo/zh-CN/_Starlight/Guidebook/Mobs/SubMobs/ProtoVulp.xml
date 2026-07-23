@@ -1,0 +1,18 @@
+<Document>
+  # 原型伏尔卡宁
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoVulp" Caption=""/>
+  </Box>
+
+  原型伏尔卡宁对当今所有原型机的命名方式影响深远，而这甚至并非他们有意为之。人类与伏尔卡宁建立联系后，超人类主义思想自然而然地在两个物种间流动，最终催生了第一个跨物种超人类主义团体。随着更多物种被发现，该团体很快又吸纳了其他成员。
+    <Box>
+    <GuideEntityEmbed Entity="AppearanceProtoVulp" Caption=""/>
+    <GuideEntityEmbed Entity="AppearanceProtogen" Caption=""/>
+  </Box>
+  人们很快发现他们的外貌与人类虚构物种“原型机”十分相似，此后这个名字没过多久便流行起来。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 25%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 55%[/color]。
+</Document>

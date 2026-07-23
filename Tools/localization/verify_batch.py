@@ -31,6 +31,7 @@ IDENTICAL_OK_RE = re.compile(
 
 # en-US 同路径不存在但属正常的文件（引擎词条覆盖等）
 ALLOW_ORPHAN = {"_engine_lib.ftl"}
+ALLOW_ORPHAN_DIRS = ("_engine/", "entities/")  # 引擎覆盖与实体名覆盖：en-US 无对应文件
 
 # 有意保留原文的条目（外语彩蛋、占位示例、纯符号/emoji 等）
 ALLOW_IDENTICAL = {
@@ -81,7 +82,7 @@ def main() -> int:
             continue
         en_path = EN / rel
         if not en_path.exists():
-            if str(rel) in ALLOW_ORPHAN:
+            if str(rel) in ALLOW_ORPHAN or str(rel).startswith(ALLOW_ORPHAN_DIRS):
                 continue
             # 实体名文件（全部为 ent-*）在 en-US 没有对应文件：上游把实体名放在 YAML 里，属正常
             zh_e = parse_file(zh_path)

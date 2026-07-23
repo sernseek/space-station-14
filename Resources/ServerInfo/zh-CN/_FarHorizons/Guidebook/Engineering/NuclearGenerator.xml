@@ -1,0 +1,20 @@
+<Document>
+	# 核能发电机
+    <Box>
+	  <GuideEntityEmbed Entity="NuclearReactorNormal" Caption="" Scale="1.5"/>
+	  <GuideEntityEmbed Entity="GasTurbineNormal" Caption="" Scale="1.5"/>
+    </Box>
+
+	核能发电机通过[textlink="核反应堆" link="NuclearReactor"]内的裂变反应加热气体，再由气体推动[textlink="燃气轮机" link="GasTurbine"]旋转来发电。
+
+    ## 启动核能发电机
+	工程师必须依照以下步骤启动核能发电机：
+	- 向冷却剂回路中填充气体。
+	- 根据核反应堆的配置设置燃气轮机的流量。
+	- 将燃料棒插入核反应堆网格中的空位，通常放在控制棒旁，并由换热器和气体通道环绕。
+	- 抽出控制棒，开始为核反应堆升温。
+	- 核反应堆升温期间，工程师需要不断调整燃气轮机的定子负载，以保持最佳 RPM。
+	- 燃气轮机产生的电力足以供应空间站后，应插入控制棒，直到核反应堆温度能够保持稳定。
+
+	燃料棒的放射性会随时间减弱，因此需要进一步抽出控制棒，或更换燃料棒。
+</Document>

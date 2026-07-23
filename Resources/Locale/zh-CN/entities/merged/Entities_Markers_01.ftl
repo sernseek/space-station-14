@@ -107,7 +107,7 @@ ent-SpawnMobCatFloppa = Floppa 生成器
 
 ent-SpawnMobCatRuntime = Runtime 生成器
 
-ent-SpawnMobCorgi = Corgi 生成器
+ent-SpawnMobCorgi = 柯基生成器
 
 ent-SpawnMobCorgiMouse = 开发者老鼠 生成器
 

@@ -1,294 +1,337 @@
-ent-CasinoIDCardDealer = 戈摩拉荷官ID卡
+ent-CasinoIDCardDealer = 蛾摩拉荷官 ID 卡
 
-ent-CasinoIDCardOwner = 戈摩拉老板ID卡
+ent-CasinoIDCardOwner = 蛾摩拉老板 ID 卡
 
-ent-CasinoIDCardManager = 戈摩拉经理ID卡
+ent-CasinoIDCardManager = 蛾摩拉经理 ID 卡
 
-ent-CasinoIDCardSecurity = 戈摩拉保安ID卡
+ent-CasinoIDCardSecurity = 蛾摩拉安保 ID 卡
+
 
 ent-MechHouse = 庄家
-    .desc = 游戏从一开始就被做了手脚。庄家永远是赢家。
+    .desc = 这场游戏从一开始就被人动了手脚。庄家永远是赢家。
 
-ent-MechAlways = 永远胜利
-    .desc = 我们不能指望上帝包办一切。庄家永远是赢家。
+ent-MechAlways = 常胜
+    .desc = 我们不能指望上帝把所有活都干了。庄家永远是赢家。
 
 ent-SpawnMechHouseFilled = 庄家机甲生成器
 
-ent-SpawnMechAlwaysFilled = 永远胜利机甲生成器
+ent-SpawnMechAlwaysFilled = 常胜机甲生成器
 
-ent-CasinoPDASecurity = 戈摩拉保安PDA
-    .desc = 我不喜欢杀人，但只要理由正当，那也不过是一件差事，和其他差事没什么不同。庄家永远是赢家。
 
-ent-CasinoPDAOwner = 戈摩拉老板PDA
+ent-CasinoPDASecurity = 蛾摩拉安保 PDA
+    .desc = 我并不享受杀戮，但若是为了正义，那也不过是件分内之事，与其他工作无异。庄家永远是赢家。
+
+ent-CasinoPDAOwner = 蛾摩拉老板 PDA
     .desc = 庄家永远是赢家。
 
-ent-CasinoPDAManager = 戈摩拉经理PDA
+ent-CasinoPDAManager = 蛾摩拉经理 PDA
     .desc = 庄家永远是赢家。
 
-ent-CasinoPDADealer = 戈摩拉荷官PDA
-    .desc = 成功取决于深谋远虑、冷静计算各种概率，并将每个游离变量都考虑在内。庄家永远是赢家。
+ent-CasinoPDADealer = 蛾摩拉荷官 PDA
+    .desc = 成功取决于深谋远虑、冷静地计算概率，以及将每一个意外变量都纳入考量。庄家永远是赢家。
+
 
 ent-ClothingBeltNTNCRig = NTNC 战术挂具
-    .desc = 纳米传讯海军陆战队员穿戴的军用战术挂具。
+    .desc = 纳米传讯海军陆战队员佩戴的军用战术挂具。
 
 ent-ClothingBeltNTNC = NTNC 腰带
-    .desc = 纳米传讯海军陆战队员穿戴的军用腰带。
+    .desc = 纳米传讯海军陆战队员佩戴的军用腰带。
+
 
 ent-ClothingHeadsetAltNTNC = NTNC 耳麦
 
+
 ent-ClothingEyesGlassesNTNC = 纳米传讯海军陆战队眼镜
-    .desc = 纳米传讯海军陆战队员的制式眼镜。
+    .desc = 纳米传讯海军陆战队的制式眼镜。
 
-ent-ClothingHeadHelmetHardsuitNTNCConsortium = 纳米传讯海军陆战队硬装头盔
-    .desc = 纳米传讯海军陆战队员穿戴的防护硬装头盔。
 
-ent-ClothingHeadHelmetHardsuitNTNCConsortiumMedic = 纳米传讯海军陆战队医疗兵硬装头盔
-    .desc = 纳米传讯海军陆战队医疗人员穿戴的防护硬装头盔。
+ent-ClothingHeadHelmetHardsuitNTNCConsortium = 纳米传讯海军陆战队硬装宇航服头盔
+    .desc = 纳米传讯海军陆战队员佩戴的防护型硬装宇航服头盔。
 
-ent-ClothingHeadHatNTNC = 纳米传讯海军陆战队军帽。
+ent-ClothingHeadHelmetHardsuitNTNCConsortiumMedic = 纳米传讯海军陆战队医护硬装宇航服头盔
+    .desc = 纳米传讯海军陆战队医护人员佩戴的防护型硬装宇航服头盔。
 
-ent-ClothingHeadHatNTNCGrey = 纳米传讯海军陆战队灰色军帽。
 
-ent-ClothingHeadHatNTNCEnsign = 纳米传讯海军少尉军帽。
+ent-ClothingHeadHatNTNC = 纳米传讯海军陆战队帽
 
-ent-ClothingHeadHatTophatArmored = 高顶礼帽
-    .desc = 一顶时髦的黑色高顶礼帽，内衬凯夫拉纤维
+ent-ClothingHeadHatNTNCGrey = 纳米传讯海军陆战队灰帽
 
-ent-ClothingHeadHatTophatBigArmored = 大号高顶礼帽
-    .desc = 这顶帽子显然属于某位非常、非常重要的人物。内衬凯夫拉纤维。
+ent-ClothingHeadHatNTNCEnsign = 纳米传讯海军少尉帽
 
-ent-ClothingHeadHatTophatBigWhiteArmored = 大号高顶礼帽
-    .desc = 这顶帽子显然属于某位非常、非常重要的人物。内衬凯夫拉纤维。
+ent-ClothingHeadHatTophatArmored = 装甲高顶礼帽
+    .desc = 一顶时髦的黑色高顶礼帽，内衬凯夫拉纤维。
+
+ent-ClothingHeadHatTophatBigArmored = 装甲大高顶礼帽
+    .desc = 这顶帽子显然属于某位非常非常重要的人物。它内衬凯夫拉纤维。
+
+ent-ClothingHeadHatTophatBigWhiteArmored = 装甲白色大高顶礼帽
+    .desc = 这顶帽子显然属于某位非常非常重要的人物。它内衬凯夫拉纤维。
+
 
 ent-ClothingHeadHelmetCasino = 赌场警卫头盔
-    .desc = 标准安保装备。保护头部免受撞击。
+    .desc = 标准安保装备，能保护头部免受冲击。
+
 
 ent-ClothingNeckMantleDecoratedMarineSergeant = 纳米传讯海军陆战队中士肩甲
-    .desc = 纳米传讯海军陆战队员用它标示军衔。这一款表明穿戴者至少是一名中士。
+    .desc = 纳米传讯海军陆战队用它标示军衔。这件表示佩戴者至少是一名中士。
 
 ent-ClothingNeckMantleDecoratedMarineMajor = 纳米传讯海军陆战队少校肩甲
-    .desc = 纳米传讯海军陆战队员用它标示军衔。这一款表明穿戴者至少是一名少校。
+    .desc = 纳米传讯海军陆战队用它标示军衔。这件表示佩戴者至少是一名少校。
 
-ent-ClothingOuterVestWebNTNCEnsign = 纳米传讯海军陆战队少尉甲壳护甲。
-    .desc = 为海军精英中的精英设计的装甲甲壳，既保护穿戴者，又不失风度。
+
+ent-ClothingOuterVestWebNTNCEnsign = 纳米传讯海军陆战队少尉甲壳背心
+    .desc = 为海军精英中的精英设计的装甲甲壳，既能保护佩戴者，又不失风度。
 
 ent-ClothingOuterVestNTNC = 纳米传讯海军陆战队背心
-    .desc = 比标准一型安保背心好得多。别把它弄丢了，你绝对拿不到替换品。
+    .desc = 比标准的一型安保背心强多了。别弄丢，你绝对拿不到替换品。
 
 ent-ClothingOuterArmorCasino = 重型装甲背心
-    .desc = 加固的二型装甲背心，能有效防御大多数伤害。
+    .desc = 加固过的二型装甲背心，能有效抵御大多数类型的伤害。
 
-ent-ClothingOuterHardsuitNTNCConsortium = 纳米传讯海军陆战队硬装
-    .desc = 纳米传讯海军陆战队员穿戴的防护硬装。
 
-ent-ClothingOuterHardsuitNTNCConsortiumMedic = 纳米传讯海军陆战队医疗兵硬装
-    .desc = 纳米传讯海军陆战队医疗人员穿戴的防护硬装。
+ent-ClothingOuterHardsuitNTNCConsortium = 纳米传讯海军陆战队硬装宇航服
+    .desc = 纳米传讯海军陆战队员穿着的防护型硬装宇航服。
+
+ent-ClothingOuterHardsuitNTNCConsortiumMedic = 纳米传讯海军陆战队医护硬装宇航服
+    .desc = 纳米传讯海军陆战队医护人员穿着的防护型硬装宇航服。
+
 
 ent-ClothingUniformJumpskirtNTNCOfficer = 纳米传讯海军军官连衣裙
-    .desc = 纳米传讯海军陆战队制式连衣裙。这一件供军官穿着。
+    .desc = 纳米传讯海军陆战队的制式连衣裙，这件供军官穿着。
 
 ent-ClothingUniformJumpskirtNTNCEnsign = 纳米传讯海军少尉连衣裙
-    .desc = 纳米传讯海军陆战队制式连衣裙。这一件供少尉穿着。
+    .desc = 纳米传讯海军陆战队的制式连衣裙，这件供少尉穿着。
+
 
 ent-ClothingUniformNTNCFatigues = 纳米传讯海军陆战队作训服
-    .desc = 纳米传讯海军陆战队制式作训服。非常透气。
+    .desc = 纳米传讯海军陆战队的制式作训服，非常透气。
 
 ent-ClothingUniformJumpsuitNTNCOfficer = 纳米传讯海军军官连体衣
-    .desc = 纳米传讯海军陆战队制式连体衣。这一件供军官穿着。
+    .desc = 纳米传讯海军陆战队的制式连体衣，这件供军官穿着。
 
 ent-ClothingUniformJumpsuitNTNCEnsign = 纳米传讯海军少尉连体衣
-    .desc = 纳米传讯海军陆战队制式连体衣。这一件供少尉穿着。
+    .desc = 纳米传讯海军陆战队的制式连体衣，这件供少尉穿着。
 
-ent-ClothingBackpackMedTak = MedTak 干员背包
-    .desc = MedTak 干员使用的宽敞多袋背包。
 
-ent-ClothingBackpackSatchelMedTak = MedTak 挎包
+ent-ClothingBackpackMedTak = 梅德塔克干员背包
+    .desc = 梅德塔克干员使用的宽敞多口袋背包。
+
+
+ent-ClothingBackpackSatchelMedTak = 梅德塔克挎包
     .desc = 一个宽敞的挎包。
 
-ent-ClothingHeadsetAltMedTak = MedTak 干员耳麦
-    .desc = MedTak 干员使用的耳麦。
 
-ent-ClothingEyesVisorMedTak = MedTak 面罩
-    .desc = 供 MedTak 干员使用的面罩，内置抬头显示器和主动闪光调节功能。
+ent-ClothingHeadsetAltMedTak = 梅德塔克干员耳麦
+    .desc = 梅德塔克干员使用的耳麦。
 
-ent-ClothingHeadHelmetHardsuitMedTak = MedTak 干员头盔
-    .desc = MedTak 干员穿戴的装甲头盔。
 
-ent-ClothingHeadHatBeretMedTak = MedTak 贝雷帽
-    .desc = 一顶带有 MedTak 标志的贝雷帽。
+ent-ClothingEyesVisorMedTak = 梅德塔克目镜
+    .desc = 梅德塔克干员使用的目镜，内置 HUD 和主动闪光调节功能。
 
-ent-ClothingNeckMantleMedTakLead = MedTak 队长披肩
-    .desc = 表明穿戴者是 MedTak 小队队长的披肩。
 
-ent-ClothingNeckMantleMedTakLeadFormal = MedTak 正式披肩
-    .desc = 授予功勋 MedTak 小队队长的正式披肩和斗篷。
+ent-ClothingHeadHelmetHardsuitMedTak = 梅德塔克干员头盔
+    .desc = 梅德塔克干员佩戴的装甲头盔。
 
-ent-ClothingOuterHardsuitMedTak = MedTak 干员硬装
-    .desc = MedTak 干员穿戴的装甲硬装。
 
-ent-ClothingOuterHardsuitMedTakMedic = MedTak 医疗兵硬装
-    .desc = MedTak 医疗兵穿戴的装甲硬装，内置除颤系统。
+ent-ClothingHeadHatBeretMedTak = 梅德塔克贝雷帽
+    .desc = 一顶带有梅德塔克徽标的贝雷帽。
 
-ent-ClothingOuterHardsuitMedTakPilot = MedTak 驾驶员硬装
 
-ent-ClothingOuterHardsuitMedTakHeavy = MedTak 重型硬装
-    .desc = MedTak 重装安保穿戴的重甲硬装。
+ent-ClothingNeckMantleMedTakLead = 梅德塔克队长肩饰
+    .desc = 表明佩戴者是梅德塔克小队队长的肩饰。
 
-ent-ClothingUniformMedTakJumpskirt = MedTak 连衣裙
-    .desc = MedTak 制式制服。
+ent-ClothingNeckMantleMedTakLeadFormal = 梅德塔克正式肩饰
+    .desc = 授予功勋卓著的梅德塔克队长的正式肩饰与披风。
 
-ent-ClothingUniformMedTakJumpskirtFormal = MedTak 正式连衣裙
-    .desc = MedTak 正式制服。
 
-ent-ClothingUniformMedTakJumpsuit = MedTak 连体衣
-    .desc = MedTak 制式制服。
+ent-ClothingOuterHardsuitMedTak = 梅德塔克干员硬装宇航服
+    .desc = 梅德塔克干员穿着的装甲硬装宇航服。
 
-ent-ClothingUniformMedTakJumpsuitFormal = MedTak 正式连体衣
-    .desc = MedTak 正式制服。
+ent-ClothingOuterHardsuitMedTakMedic = 梅德塔克医护硬装宇航服
+    .desc = 梅德塔克医护员穿着的装甲硬装宇航服，内置除颤系统。
 
-ent-BorgChassisMedTak = MedTak 硅基
-    .desc = 为支援 MedTak 单位设计的多用途重型硅基机体。
+ent-ClothingOuterHardsuitMedTakPilot = 梅德塔克驾驶员硬装宇航服
 
-ent-MedTakImplanterMindShield = MedTak 心灵护盾植入器
+ent-ClothingOuterHardsuitMedTakHeavy = 梅德塔克重型硬装宇航服
+    .desc = 梅德塔克重装安保穿着的重甲硬装宇航服。
 
-ent-MedTakImplanterTrackingBronze = MedTak 青铜追踪器
 
-ent-MedTakImplanterTrackingSilver = MedTak 白银追踪器
+ent-ClothingUniformMedTakJumpskirt = 梅德塔克连衣裙
+    .desc = 梅德塔克制式制服。
 
-ent-MedTakImplanterTrackingGold = MedTak 黄金追踪器
+ent-ClothingUniformMedTakJumpskirtFormal = 梅德塔克正式连衣裙
+    .desc = 梅德塔克正式制服。
 
-ent-MedTakImplanterTrackingTeam = MedTak 追踪器
 
-ent-TrackingImplantMedTak = MedTak 信标
-    .desc = 使用者陷入危急状态或死亡时，此植入物会通知最近的 MedTak 单位。
+ent-ClothingUniformMedTakJumpsuit = 梅德塔克连体衣
+    .desc = 梅德塔克制式制服。
 
-ent-TrackingImplantMedTakBronze = MedTak 青铜信标
+ent-ClothingUniformMedTakJumpsuitFormal = 梅德塔克正式连体衣
+    .desc = 梅德塔克正式制服。
 
-ent-TrackingImplantMedTakSilver = MedTak 白银信标
 
-ent-TrackingImplantMedTakGold = MedTak 黄金信标
+ent-BorgChassisMedTak = 梅德塔克硅基机体
+    .desc = 为支援梅德塔克单位而设计的多用途重型硅基机体。
 
-ent-TrackingImplantMedTakTeam = MedTak 小队信标
 
-ent-MedTakMindShieldImplant = MedTak 心灵护盾植入物
-    .desc = 此植入物能保护干员免受心灵控制设备影响。
+ent-MedTakImplanterMindShield = 梅德塔克心灵护盾植入器
 
-ent-BodyBagMedTak = 安全尸袋
+ent-MedTakImplanterTrackingBronze = 梅德塔克青铜追踪植入器
 
-ent-BorgModuleMedTakMedical = MedTak 医疗赛博格模块
-    .desc = 用于医疗支援的 MedTak 赛博格模块。
+ent-MedTakImplanterTrackingSilver = 梅德塔克白银追踪植入器
 
-ent-BorgModuleMedTakRifle = MedTak 步枪赛博格模块
-    .desc = 配备截短型 CODE-9 和破门锤的 MedTak 赛博格模块。
+ent-MedTakImplanterTrackingGold = 梅德塔克黄金追踪植入器
 
-ent-PaperMedTak = MedTak 纸张
-    .desc = 一张抬头印有 MedTak 标志的纸。看起来很昂贵。对你而言。
+ent-MedTakImplanterTrackingTeam = 梅德塔克小队追踪植入器
 
-ent-PrintedDocumentMedTakContract = MedTak 保障合同
 
-ent-PrintedDocumentMedTakCorrespondence = MedTak 往来函件
+ent-TrackingImplantMedTak = 梅德塔克信标植入物
+    .desc = 使用者陷入危急状态或死亡时，这枚植入物会通知最近的梅德塔克单位。
 
-ent-PrintedDocumentMedTakInvoice = MedTak 发票
+ent-TrackingImplantMedTakBronze = 梅德塔克青铜信标植入物
 
-ent-PrintedDocumentMedTakReport = MedTak 行动后报告
+ent-TrackingImplantMedTakSilver = 梅德塔克白银信标植入物
 
-ent-HandheldMedTakMonitor = MedTak 手持监控器
-    .desc = Interdyne M7 监控器可通过安全频率追踪任何植入物的生命体征和坐标，确保迅速找到你的客户。
+ent-TrackingImplantMedTakGold = 梅德塔克黄金信标植入物
 
-ent-MedTakHoverBed = MedTak 悬浮担架
-    .desc = MedTak 干员用于运送患者的斥力悬浮担架系统。
+ent-TrackingImplantMedTakTeam = 梅德塔克小队信标植入物
 
-ent-MedTakHypo = MedTak 喷射注射器
-    .desc = 用于快速注射化学品的优质注射器，兼容大多数标准硬装注射口。
+ent-MedTakMindShieldImplant = 梅德塔克心灵护盾植入物
+    .desc = 这枚植入物能保护干员免受精神控制装置影响。
 
-ent-MedTakIDCardTeamLead = MedTak 队长ID卡
 
-ent-MedTakIDCardDispatcher = MedTak 调度员ID卡
+ent-BodyBagMedTak = 安全运尸袋
 
-ent-MedTakIDCardMedic = MedTak 医疗兵ID卡
 
-ent-MedTakIDCardPilot = MedTak 驾驶员ID卡
+ent-BorgModuleMedTakMedical = 梅德塔克医疗赛博格模块
+    .desc = 用于医疗支援的梅德塔克赛博格模块。
 
-ent-MedTakIDCardSecurity = MedTak 安保ID卡
+ent-BorgModuleMedTakRifle = 梅德塔克步枪赛博格模块
+    .desc = 配备短管 CODE-9 步枪和破门锤的梅德塔克赛博格模块。
 
-ent-BottleCaseMedTak = 化学品箱
-    .desc = 一个带有衬垫瓶槽的加固箱。
 
-ent-MedkitCombatMedTak = MedTak 战斗医疗包
+ent-PaperMedTak = 梅德塔克信纸
+    .desc = 一张页眉印有梅德塔克徽标的纸。看起来很贵，至少对你来说是这样。
+
+ent-PrintedDocumentMedTakContract = 梅德塔克保障合同
+
+ent-PrintedDocumentMedTakCorrespondence = 梅德塔克往来函件
+
+ent-PrintedDocumentMedTakInvoice = 梅德塔克发票
+
+ent-PrintedDocumentMedTakReport = 梅德塔克行动后报告
+
+
+ent-HandheldMedTakMonitor = 梅德塔克手持监测仪
+    .desc = 因特戴恩 M7 监测仪能通过安全频率追踪任何植入物携带者的生命体征与坐标，以便快速找到你的客户。
+
+
+ent-MedTakHoverBed = 梅德塔克悬浮担架
+    .desc = 梅德塔克干员用于运送病患的斥力悬浮担架系统。
+
+
+ent-MedTakHypo = 梅德塔克喷射注射器
+    .desc = 用于快速注入化学药剂的高品质注射器，兼容大多数标准硬装宇航服注射端口。
+
+
+ent-MedTakIDCardTeamLead = 梅德塔克队长 ID 卡
+
+ent-MedTakIDCardDispatcher = 梅德塔克调度员 ID 卡
+
+ent-MedTakIDCardMedic = 梅德塔克医护员 ID 卡
+
+ent-MedTakIDCardPilot = 梅德塔克驾驶员 ID 卡
+
+ent-MedTakIDCardSecurity = 梅德塔克安保 ID 卡
+
+
+ent-BottleCaseMedTak = 化学药瓶箱
+    .desc = 一个带有软垫药瓶槽的加固箱。
+
+ent-MedkitCombatMedTak = 梅德塔克战斗医疗包
     .desc = 干员的个人医疗包。
 
 ent-PenPackMedTak = 自动注射器包
-    .desc = 一个装满自动注射器的小袋。
+    .desc = 一个装满自动注射器的小包。
 
 ent-SurgicalKitMedTak = 高级手术工具包
     .desc = 一套紧凑的手术工具。
 
-ent-MedTakPDAMedic = MedTak 医疗兵PDA
-    .desc = 那是血，还是红油漆？
 
-ent-MedTakPDAPilot = MedTak 驾驶员PDA
+ent-MedTakPDAMedic = 梅德塔克医护员 PDA
+    .desc = 这是血，还是红油漆？
+
+ent-MedTakPDAPilot = 梅德塔克驾驶员 PDA
     .desc = 是红油漆。
 
-ent-MedTakPDASecurity = MedTak 安保PDA
+ent-MedTakPDASecurity = 梅德塔克安保 PDA
     .desc = 是血。
 
-ent-MedTakPDATeamLead = MedTak 队长PDA
+ent-MedTakPDATeamLead = 梅德塔克队长 PDA
     .desc = 是血。
 
-ent-MedTakPDADispatcher = MedTak 调度员PDA
+ent-MedTakPDADispatcher = 梅德塔克调度员 PDA
     .desc = 是红油漆。
 
-ent-RubberStampMedTak = MedTak 橡皮章
 
-ent-StasisBedMedTak = MedTak 医疗床
-    .desc = 为 MedTak AV-40 穿梭机打造的休眠／医疗两用床。\n施用化学品前请确保已关闭休眠功能。
+ent-RubberStampMedTak = 梅德塔克橡皮章
+
+
+ent-StasisBedMedTak = 梅德塔克停滞医疗床
+    .desc = 为梅德塔克 AV-40 穿梭机打造的停滞与医疗两用床。\n注入化学药剂前，请确保已关闭停滞功能。
+
 
 ent-PlumbingSmartDispenserMedTakFilled = 智能分配器
-    .desc = 预装多种医疗试剂的智能分配器。
+    .desc = 一台预装多种医疗试剂的智能分配器。
 
-ent-PlumbingSmartDispenserMedTakWallmountFilled = 壁挂式分配器
-    .desc = 装有多种医疗试剂的壁挂式智能分配器。
+ent-PlumbingSmartDispenserMedTakWallmountFilled = 壁挂式智能分配器
+    .desc = 一台装有多种医疗试剂的壁挂式智能分配器。
 
-ent-MedTakTechFab = MedTak 科技制造机
-    .desc = 为 MedTak 前哨站打印装备。
+
+ent-MedTakTechFab = 梅德塔克科技制造机
+    .desc = 为梅德塔克前哨站制造装备。
 
 ent-PrinterDocMedTak = 文件打印机
-    .desc = 官僚主义的完美结晶。它存储着相关 MedTak 文件的数据库，只要有纸就能打印。
+    .desc = 官僚主义的完美结晶。它存有梅德塔克相关文件的数据库，只要有纸，就能把文件打印出来。
+
 
 ent-HammerMedTakOneHanded = CODE-12“破门者”
-    .desc = 一把充能震荡破门锤，专门用来在任何阻隔你和客户的东西上砸出一个大洞。
+    .desc = 一把充能震击破门锤，专为在任何挡住你和客户的东西上砸出一个大洞而设计。
+
 
 ent-WeaponMedTakLightMachineGun = CODE-6“仲裁”
-    .desc = 为 MedTak 安保开发的超轻型突击轻机枪。\n使用 .30 弹箱。
+    .desc = 为梅德塔克安保开发的超轻型突击轻机枪。\n使用 .30 盒式弹匣。
 
 ent-WeaponMedTakRifle = CODE-9“服从”
-    .desc = 为 MedTak 干员设计的无托重型步枪。\n使用重型 .20 步枪弹匣。
+    .desc = 为梅德塔克干员设计的无托重型步枪。\n使用重型 .20 步枪弹匣。
 
-ent-WeaponMedTakRifleROW = CODE-9 ROW
-    .desc = 为赛博格设计的截短型 CODE-9，由缓慢充能的内置弹药制造机供弹
+ent-WeaponMedTakRifleROW = CODE-9 ROW 型
+    .desc = 为赛博格设计的短管 CODE-9 步枪，由缓慢充能的内置弹药制造器供弹。
 
 ent-WeaponMedTakPistol = CODE-4“分诊”
-    .desc = 配发给 MedTak 干员的重型随身武器。\n使用 .40 手枪弹匣。
+    .desc = 配发给梅德塔克干员的重型佩枪。\n使用 .40 手枪弹匣。
 
-ent-WeaponMedTakSubMachineGun = CODE-10“干预”
-    .desc = 配有一体式消音器的紧凑型冲锋枪。采用先进的后坐系统，但射速略有降低。
+ent-WeaponMedTakSubMachineGun = CODE-10“介入”
+    .desc = 一把配有一体式消音器的紧凑型冲锋枪。它采用先进的后坐系统，但射速略有降低。
 
 ent-WeaponMedTakShotgun = CODE-11“妥协”
-    .desc = 一把线条流畅的弹鼓供弹霰弹枪，使用副扳机半自动上膛。
+    .desc = 一把外形流畅的弹鼓供弹霰弹枪，通过副扳机半自动上膛。
 
-ent-DrinkRumizineBottleFull = 吉特叔叔的炮弹勇气
-    .desc = 一只伤痕累累的琥珀色酒瓶，贴着骷髅与船锚标签。褪色的字样写着：“吉特叔叔的炮弹勇气朗姆嗪——战前喝，别战后喝。”闻起来像朗姆酒、火药，还有可疑的医疗操作。
+
+ent-DrinkRumizineBottleFull = 吉特叔叔的炮弹勇气酒
+    .desc = 一个破旧的琥珀色酒瓶，标签上画着骷髅与船锚。褪色的文字写着：“吉特叔叔的炮弹勇气朗姆嗪——战前喝，战后别喝。”闻起来像朗姆酒、火药，以及某种可疑的医疗操作。
+
 
 ent-WeaponMinigunRacingThruster = 飞鸟推进器
-    .desc = 呜——呜呜呜呜！
+    .desc = 呜——轰轰轰！
 
-ent-SkatesRacing = 高速竞速滑轮鞋
-    .desc = 内置碰撞防护的 SuperGlide™ 竞速滑轮鞋！
+ent-SkatesRacing = 高速竞速轮滑鞋
+    .desc = 内置碰撞防护的“超级滑行™”竞速轮滑鞋！
 
-ent-SkatesRacingCool = 更酷的高速竞速滑轮鞋
-    .desc = 内置碰撞防护的 SuperGlide™ 竞速滑轮鞋！
+ent-SkatesRacingCool = 超酷高速竞速轮滑鞋
+    .desc = 内置碰撞防护的“超级滑行™”竞速轮滑鞋！
 
-ent-CartridgeMinigunThruster = 推进器弹筒
+ent-CartridgeMinigunThruster = 推进器弹药筒
 
 ent-SuitRacingRandom = 高速竞速服
     .desc = 这看起来只是普通衣服……
@@ -298,66 +341,73 @@ ent-SuitRacingRandomSpawner = 随机高速竞速服生成器
 ent-SuitRacingArmless = 无袖高速竞速服
     .desc = 这看起来只是普通衣服……
 
-ent-SuitRacingStandard = 高速竞速服
+ent-SuitRacingStandard = 标准高速竞速服
     .desc = 这看起来只是普通衣服……
 
-ent-SuitRacingBra = 露脐高速竞速服
+ent-SuitRacingBra = 露腰高速竞速服
     .desc = 这看起来只是普通衣服……
 
-ent-SuitRacingShorts = 袒胸高速竞速服
+ent-SuitRacingShorts = 赤膊高速竞速服
     .desc = 这看起来只是普通衣服……
 
-ent-SuitRacingShirt = 高速竞速衫
+ent-SuitRacingShirt = 高速竞速衬衫
     .desc = 这看起来只是普通衣服……
+
 
 ent-MobNyrMouseOps = 鼠鼠特工
-    .desc = 就是那只他妈的老鼠，它他妈的是冲奶酪来的
+    .desc = 就是那只该死的老鼠，它是冲着那块该死的奶酪来的！
 
-ent-ClothingHandsGlovesCombatmous = 鼠鼠摘不掉的战斗手套
-    .desc = 鼠鼠为鼠鼠制作！
+ent-ClothingHandsGlovesCombatmous = 无法脱下的鼠鼠战斗手套
+    .desc = 鼠鼠为鼠鼠制造！
 
-ent-ClothingBackpackDuffelSyndicateAmmoMouse = 鼠鼠特工包！
+ent-ClothingBackpackDuffelSyndicateAmmoMouse = 鼠鼠特工弹药包
 
-ent-ClothingOuterHardsuitSyndieMouseOps = 鼠鼠红红硬装
-    .desc = 鼠鼠为鼠鼠制作！
+ent-ClothingOuterHardsuitSyndieMouseOps = 鼠鼠红色硬装宇航服
+    .desc = 鼠鼠为鼠鼠制造！
 
-ent-Clueless = 一无所知
-    .desc = :clueless:
 
-ent-MobXenomoproach = 异形机械蟑螂
-    .desc = 这只小机械蟑螂似乎有一部分是邪恶机器人！太可怕了！
+ent-Clueless = 一脸茫然
+    .desc = ：一脸茫然：
+
+
+ent-MobXenomoproach = 异形机蛾蠊
+    .desc = 这只小蛾蠊似乎有一部分是邪恶机器人！太吓人了！
 
 ent-ClothingBackpackXenomoproach = 背包
-    .desc = 把它背在背上，再往里面装东西。
+    .desc = 你把它背在背上，再往里面装东西。
+
 
 ent-TophatThatFuckingKillsYou = 摘下就会杀死你的帽子
-    .desc = 名字已经说得一清二楚。货真价实的他妈邪门帽子。除非你恨自己，否则别戴。
+    .desc = 顾名思义。这真就是一顶邪门透顶的该死帽子。除非你恨自己，否则别戴。
 
-ent-TophatThatFuckingGibsYou = 摘下就会把你炸碎的帽子
+ent-TophatThatFuckingGibsYou = 摘下就会把你炸成碎块的帽子
 
 ent-TophatThatFuckingAshesYou = 摘下就会把你化成灰的帽子
 
-ent-MobSkubmoth = 斯库布蛾
-    .desc = 嗯，斯库布。
 
-ent-SkubPack = 斯库布包
-    .desc = 这……他妈是什么……
+ent-MobSkubmoth = 斯卡布蛾
+    .desc = 咦，斯卡布。
 
-ent-SkubSpreadShot = 斯库布广域弹幕
+ent-SkubPack = 斯卡布包
+    .desc = 这……什么鬼……
 
-ent-SkubPDA = 斯库布PDA
-    .desc = 非常斯库布。
+ent-SkubSpreadShot = 斯卡布广域弹幕
 
-ent-WehGrenade = 呱呜手榴弹
-    .desc = 塞满了呱呜泡沫的手榴弹。
+ent-SkubPDA = 斯卡布 PDA
+    .desc = 非常斯卡布。
 
-ent-WehGrenadePlus = 呱呜手榴弹+
-    .desc = 塞满了呱呜泡沫的手榴弹。现在加入蓝空间科技！
 
-ent-WehGrenadeUltraDeluxe = 呱呜手榴弹++
-    .desc = 塞满了呱呜泡沫的手榴弹。听说你喜欢蓝空间，所以我们在你的蓝空间里塞了蓝空间，这样你就能一边蓝空间一边蓝空间。呱呜。
+ent-WehGrenade = 呜诶手雷
+    .desc = 一枚塞满呜诶泡沫的手雷。
 
-ent-RandomHumanoidSpawnerBlackstarOperative = 黑星恐惧行者
+ent-WehGrenadePlus = 呜诶手雷+
+    .desc = 一枚塞满呜诶泡沫的手雷。现已加入蓝空间技术！
+
+ent-WehGrenadeUltraDeluxe = 呜诶手雷++
+    .desc = 一枚塞满呜诶泡沫的手雷。听说你喜欢蓝空间，所以我们在你的蓝空间里放了蓝空间，让你在蓝空间时也能蓝空间。呜诶。
+
+
+ent-RandomHumanoidSpawnerBlackstarOperative = 黑星恐行者
 
 ent-RandomHumanoidSpawnerBlackstarLegionnaire = 黑星军团士兵
 
@@ -365,66 +415,70 @@ ent-RandomHumanoidSpawnerBlackstarBlackguard = 黑星黑卫
 
 ent-RandomHumanoidSpawnerBlackstarInitiate = 黑星新晋者
 
-ent-BlackstarIDCard = 黑星ID卡
 
-ent-BlackstarLegionCommanderIDCard = 军团指挥官ID卡
+ent-BlackstarIDCard = 黑星 ID 卡
 
-ent-BlackstarHighLegateIDCard = 高级军团长ID卡
+ent-BlackstarLegionCommanderIDCard = 军团指挥官 ID 卡
 
-ent-BlackstarLegateIDCard = 军团长ID卡
+ent-BlackstarHighLegateIDCard = 高阶军团使 ID 卡
 
-ent-BlackstarDreadwalkerIDCard = 恐惧行者ID卡
+ent-BlackstarLegateIDCard = 军团使 ID 卡
 
-ent-BlackstarLegionnaireIDCard = 军团士兵ID卡
+ent-BlackstarDreadwalkerIDCard = 恐行者 ID 卡
 
-ent-BlackstarBlackguardIDCard = 黑卫ID卡
+ent-BlackstarLegionnaireIDCard = 军团士兵 ID 卡
 
-ent-BlackstarInitiateIDCard = 新晋者ID卡
+ent-BlackstarBlackguardIDCard = 黑卫 ID 卡
 
-ent-BlackstarLegionCommanderPDA = 军团指挥官PDA
-    .desc = 每一道命令背后，都有整支军团的分量。
+ent-BlackstarInitiateIDCard = 新晋者 ID 卡
 
-ent-BlackstarHighLegatePDA = 高级军团长PDA
-    .desc = 权威总有代价。
 
-ent-BlackstarLegatePDA = 军团长PDA
+ent-BlackstarLegionCommanderPDA = 军团指挥官 PDA
+    .desc = 每一道命令背后，都有整个军团的分量。
+
+ent-BlackstarHighLegatePDA = 高阶军团使 PDA
+    .desc = 权威自有其代价。
+
+ent-BlackstarLegatePDA = 军团使 PDA
     .desc = 管好你的士兵。
 
-ent-BlackstarDreadwalkerPDA = 恐惧行者PDA
-    .desc = 精准决定了一次行动究竟是任务，还是屠杀。
+ent-BlackstarDreadwalkerPDA = 恐行者 PDA
+    .desc = 精准，是任务与屠杀之间的分界。
 
-ent-BlackstarLegionnairePDA = 军团士兵PDA
+ent-BlackstarLegionnairePDA = 军团士兵 PDA
     .desc = 适应。克服。生存。
 
-ent-BlackstarBlackguardPDA = 黑卫PDA
-    .desc = 在最终手段之前的最后一道防线。
+ent-BlackstarBlackguardPDA = 黑卫 PDA
+    .desc = 采取最终手段之前的最后一道防线。
 
-ent-BlackstarInitiatePDA = 新晋者PDA
-    .desc = 你已经赢得了一席之地。现在守住它。
+ent-BlackstarInitiatePDA = 新晋者 PDA
+    .desc = 你已经赢得了自己的位置。现在守住它。
 
-ent-ClothingEyesGlassesBlackstar = 黑星战术面罩
-    .desc = 配发给黑星恐惧行者干员的抗闪光战术面罩。可完全免疫闪光，并提供安保 HUD。
+
+ent-ClothingEyesGlassesBlackstar = 黑星战术目镜
+    .desc = 配发给黑星恐行者干员的防闪战术目镜，可完全免疫闪光并提供安保 HUD。
 
 ent-ClothingOuterHardsuitBlackstar = 黑星“军阀”战斗服
-    .desc = 配发给黑星佣兵集团精锐恐惧行者干员的重装战斗服。足以承受边疆抛来的一切。
+    .desc = 配发给黑星雇佣兵集团精锐恐行者干员的重甲战斗服，足以抵御边疆可能带来的一切威胁。
 
-ent-ClothingHeadHelmetBlackstar = 黑星佣兵头盔
-    .desc = 配发给黑星佣兵集团恐惧行者干员的加固战斗头盔，防护性能优于标准佣兵装备。
+ent-ClothingHeadHelmetBlackstar = 黑星雇佣兵头盔
+    .desc = 配发给黑星雇佣兵集团恐行者干员的加固战斗头盔，防护能力优于标准雇佣兵装备。
 
 ent-ClothingHeadHatBlackstarLegionCommander = 军团指挥官军帽
-    .desc = 军团指挥官的军帽。同一时间只会存在一顶。
+    .desc = 军团指挥官的帽子，同时只会有一顶存在。
 
 ent-ClothingUniformJumpsuitBlackstarLegionCommander = 军团指挥官制服
     .desc = 黑星军团军团指挥官的制服。
 
-ent-ClothingHeadHatBeretBlackstarHighLegate = 高级军团长贝雷帽
-    .desc = 黑星军团高级军团长军官佩戴的贝雷帽。 # PLACEHOLDER
+ent-ClothingHeadHatBeretBlackstarHighLegate = 高阶军团使贝雷帽
+    .desc = 黑星军团高阶军团使军官佩戴的贝雷帽。
 
-ent-ClothingHeadHatBeretBlackstarLegate = 军团长贝雷帽
-    .desc = 黑星军团军团长军官佩戴的贝雷帽。 # PLACEHOLDER
+ent-ClothingHeadHatBeretBlackstarLegate = 军团使贝雷帽
+    .desc = 黑星军团军团使军官佩戴的贝雷帽。
 
-ent-ClothingHeadHelmetBlackstarLegate = 军团长头盔
-    .desc = 配发给黑星军团军团长军官的头盔。
+ent-ClothingHeadHelmetBlackstarLegate = 军团使头盔
+    .desc = 配发给黑星军团军团使军官的头盔。
+
 
 ent-WeaponRiflePrometheus = 普罗米修斯战斗步枪
-    .desc = 配发给黑星恐惧行者干员的重度改装莱克特战斗步枪。枪机内装入了三发点射机构，使其在任何距离都足以致命。使用 .20 步枪弹匣。
+    .desc = 配发给黑星恐行者干员的深度改装莱克特战斗步枪。枪机内加装了三连发机构，使它在任何距离上都足以致命。使用 .20 步枪弹匣。
