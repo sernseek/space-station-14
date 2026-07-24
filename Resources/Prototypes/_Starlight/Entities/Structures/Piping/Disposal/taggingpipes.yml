@@ -243,6 +243,7 @@
 
 - type: entity
   id: DisposalTaggerR&D
+  localizationId: ent-DisposalTaggerRnD
   parent: DisposalTagger
   suffix: R&D
   components:

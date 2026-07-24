@@ -1225,7 +1225,7 @@ ent-MailingUnitClinic = 邮件投递单元
 ent-MailingUnitScience = 邮件投递单元
     .desc = 气动邮件投递单元。
 
-ent-MailingUnitR&D = 邮件投递单元
+ent-MailingUnitRnD = 邮件投递单元
     .desc = 气动邮件投递单元。
 
 ent-MailingUnitRD = 邮件投递单元
@@ -1435,7 +1435,7 @@ ent-DisposalRouterFlippedClinic = 废弃物路由器
 ent-DisposalRouterFlippedScience = 废弃物路由器
     .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
 
-ent-DisposalRouterFlippedR&D = 废弃物路由器
+ent-DisposalRouterFlippedRnD = 废弃物路由器
     .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
 
 ent-DisposalRouterFlippedRD = 废弃物路由器
@@ -1648,7 +1648,7 @@ ent-DisposalRouterClinic = 废弃物路由器
 ent-DisposalRouterScience = 废弃物路由器
     .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
 
-ent-DisposalRouterR&D = 废弃物路由器
+ent-DisposalRouterRnD = 废弃物路由器
     .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
 
 ent-DisposalRouterRD = 废弃物路由器
@@ -1861,7 +1861,7 @@ ent-DisposalTaggerClinic = 废弃物管道标记器
 ent-DisposalTaggerScience = 废弃物管道标记器
     .desc = 为实体添加标签以便路由的管道。
 
-ent-DisposalTaggerR&D = 废弃物管道标记器
+ent-DisposalTaggerRnD = 废弃物管道标记器
     .desc = 为实体添加标签以便路由的管道。
 
 ent-DisposalTaggerRD = 废弃物管道标记器
@@ -10417,15 +10417,3 @@ ent-ClosetWallWardrobeAtmosphericsFilled = 大气壁橱
 
 ent-WardrobeEngineeringFilled = 工程衣柜
     .desc = 柜中是工程或社会工程用的制服。
-
-ent-MailingUnitR&D = 邮件投递单元
-    .desc = 气动邮件投递单元。
-
-ent-DisposalRouterFlippedR&D = 废弃物路由器
-    .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
-
-ent-DisposalRouterR&D = 废弃物路由器
-    .desc = 可按标签筛选物品的废弃物管道。从出口进入的物品不会被筛选，而会送往入口。 # Starlight-edit
-
-ent-DisposalTaggerR&D = 废弃物管道标记器
-    .desc = 为实体添加标签以便路由的管道。

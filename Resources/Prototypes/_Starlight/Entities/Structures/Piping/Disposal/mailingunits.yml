@@ -216,6 +216,7 @@
 
 - type: entity
   id: MailingUnitR&D
+  localizationId: ent-MailingUnitRnD
   parent: MailingUnit
   suffix: R&D
   components:

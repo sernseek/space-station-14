@@ -243,6 +243,7 @@
 
 - type: entity
   id: DisposalRouterFlippedR&D
+  localizationId: ent-DisposalRouterFlippedRnD
   parent: DisposalRouterFlipped
   suffix: Flipped, R&D
   components:

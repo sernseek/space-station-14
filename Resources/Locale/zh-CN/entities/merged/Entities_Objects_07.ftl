@@ -174,7 +174,6 @@ ent-BibleNanoTrasen = 法典nantrasimus
 
 ent-BibleHonk = 喇叭妈妈的欢乐
     .desc = 哦，伟大而光荣的母亲，欢乐的女主人，面具和欢乐的女主人，她在我们小丑中是有福的。
-Ratvar
 
 ent-BibleRatvar = 平板电脑
     .desc = 发条教派的圣物，受到发条正义拉特瓦尔的祝福。

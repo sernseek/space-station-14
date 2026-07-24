@@ -27,6 +27,7 @@ ENTITY_RE = re.compile(r"^- type:\s*entity\s*$")
 TYPE_RE = re.compile(r"^- type:")
 FIELD_RE = re.compile(r"^  (id|name|description|suffix|abstract):\s*(.*)$")
 BLOCK_RE = re.compile(r"^[|>][+-]?\s*$")
+FLUENT_ENTITY_ID_RE = re.compile(r"^ent-[A-Za-z0-9_-]+$")
 
 
 def unquote(v: str) -> str:
@@ -101,6 +102,10 @@ def main() -> int:
     total = n_name = n_desc = 0
     for yml in sorted(PROTO.rglob("*.yml")):
         for e in parse_file(yml):
+            # Fluent message IDs cannot contain characters such as '&'.
+            # Prototypes with such IDs need an explicit localizationId mapping.
+            if not FLUENT_ENTITY_ID_RE.fullmatch(f"ent-{e['id']}"):
+                continue
             if not e.get("name") or e["id"] in existing:
                 continue
             total += 1

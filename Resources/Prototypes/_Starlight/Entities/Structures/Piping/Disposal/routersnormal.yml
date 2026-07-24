@@ -243,6 +243,7 @@
 
 - type: entity
   id: DisposalRouterR&D
+  localizationId: ent-DisposalRouterRnD
   parent: DisposalRouter
   suffix: R&D
   components:

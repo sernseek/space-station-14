@@ -5,9 +5,9 @@ death-acidifier-implant-activate-gear = 你的装备开始溶解！
 gear-acidifier-action-popup = 这会摧毁你的所有装备！
 mind-control-user-freed = 你不再受植入物控制。你不记得受控期间发生的任何事情，也不记得植入它的人。
 mind-control-user-briefing =
-    [color = darkred]{$master-name}[/color]在你体内植入了心智控制装置。
+    你已被 [color = darkred]{$master-name}[/color] 植入心智控制装置。
     听从其指示。尽量别让自己受伤或丧命，也不要暴露你的植入物……
-    除非[color = darkred]{$master-name}[/color]命令你这样做。
+    除非 [color = darkred]{$master-name}[/color] 命令你这样做。
 mind-control-prevented = 心灵护盾阻止了植入！
 mind-control-prevents-mindshield = 另一个植入物挡住了它。
 mind-control-invalid = 目标必须活着。
