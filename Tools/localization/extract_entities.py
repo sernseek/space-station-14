@@ -34,6 +34,9 @@ def unquote(v: str) -> str:
     if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
         inner = v[1:-1]
         return inner.replace('\\"', '"') if v[0] == '"' else inner.replace("''", "'")
+    # Strip YAML trailing "# comment" from unquoted scalars (e.g. `id: Foo # note`).
+    if " #" in v:
+        v = v[: v.index(" #")].strip()
     return v
 
 
@@ -63,7 +66,12 @@ def parse_file(path: Path) -> list[dict]:
                 text = (" " if fold else "\n").join(b for b in block).strip()
                 cur[key] = text
             else:
-                cur[key] = unquote(raw)
+                val = unquote(raw)
+                # `id: *Anchor` is a YAML alias re-declaring an existing id — drop the '*'
+                # so it collapses onto the real entity instead of a bogus "*Anchor" id.
+                if key == "id":
+                    val = val.lstrip("&*").strip()
+                cur[key] = val
         i += 1
     return [e for e in ents if e.get("id")]
 
