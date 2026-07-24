@@ -460,9 +460,14 @@ public sealed partial class ScreenSystem : VisualizerSystem<ScreenVisualsCompone
         if (CharStatePairs.TryGetValue(character.Value, out var value))
             return value;
 
-        // Or else it checks if its a normal letter or digit
-        if (char.IsLetterOrDigit(character.Value))
-            return character.Value.ToString().ToLower();
+        // Or else it checks if its a normal ASCII letter or digit.
+        // Note: text.rsi only contains ASCII glyphs. char.IsLetterOrDigit is true
+        // for CJK and other Unicode letters too, which would produce state names
+        // (e.g. "计") absent from the RSI and spam per-frame sprite errors once the
+        // game is localized. Restrict to ASCII so such characters fall back to blank.
+        var c = character.Value;
+        if (c is (>= 'a' and <= 'z') or (>= 'A' and <= 'Z') or (>= '0' and <= '9'))
+            return c.ToString().ToLower();
 
         return null;
     }
