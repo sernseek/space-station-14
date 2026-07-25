@@ -1,5 +1,6 @@
 using System.Linq;
 using Content.Client._Starlight.UserInterface; // Starlight
+using Content.Shared.Localization; // zh-CN
 using Content.Client.Resources;
 using Content.Client.Viewport;
 using Content.Shared.DeviceNetwork;
@@ -147,7 +148,7 @@ public sealed partial class SurveillanceCameraMonitorWindow : PopOutWindow // St
     private void PopulateCameraList(Dictionary<string, string> cameras)
     {
         var entries = cameras.Select(i => new ItemList.Item(SubnetList) {
-            Text = $"{i.Value}: {i.Key}",
+            Text = $"{MapStringLocalizer.Localize(i.Value)}: {i.Key}", // zh-CN
             Metadata = i.Key
         }).ToList();
         entries.Sort((a, b) => string.Compare(a.Text, b.Text, StringComparison.Ordinal));

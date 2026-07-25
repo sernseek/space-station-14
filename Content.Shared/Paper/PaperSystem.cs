@@ -4,6 +4,7 @@ using Content.Shared.UserInterface;
 using Content.Shared.Database;
 using Content.Shared.Examine;
 using Content.Shared.Interaction;
+using Content.Shared.Localization; // zh-CN
 using Content.Shared.Random.Helpers;
 using Content.Shared.Popups;
 using Content.Shared.Tag;
@@ -69,7 +70,7 @@ public sealed partial class PaperSystem : EntitySystem
     {
         if (!string.IsNullOrEmpty(entity.Comp.Content))
         {
-            SetContent(entity, Loc.GetString(entity.Comp.Content));
+            SetContent(entity, MapStringLocalizer.LocalizeParagraph(entity.Comp.Content)); // zh-CN
         }
     }
 

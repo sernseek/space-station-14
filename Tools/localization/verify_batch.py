@@ -31,7 +31,14 @@ IDENTICAL_OK_RE = re.compile(
 
 # en-US 同路径不存在但属正常的文件（引擎词条覆盖等）
 ALLOW_ORPHAN = {"_engine_lib.ftl"}
-ALLOW_ORPHAN_DIRS = ("_engine/", "entities/")  # 引擎覆盖与实体名覆盖：en-US 无对应文件
+
+# Fluent 消息／术语定义行。
+FLUENT_DEF_RE = re.compile(r"^-?[a-zA-Z][A-Za-z0-9_-]*\s*=")
+# 未缩进但合法的续行：占位符与选择器分支（`}`、`{$x ->`、`[one]`、`*[other]`）。
+# 上游 en-US 自己就有这种写法，放行。
+FLUENT_CONT_OK = ("{", "}", "[", "*")
+# 引擎覆盖、实体名覆盖、以及 zh-CN 独有的地图字符串查表：en-US 均无对应文件
+ALLOW_ORPHAN_DIRS = ("_engine/", "entities/", "_zhCN/")
 
 # 有意保留原文的条目（外语彩蛋、占位示例、纯符号/emoji 等）
 ALLOW_IDENTICAL = {
@@ -53,6 +60,21 @@ FORBIDDEN = [
     (re.compile(r"指导手册|指导书"), "guidebook 应译“指南手册”"),
     (re.compile(r"蓝色空间|蓝宇宙"), "bluespace 应译“蓝空间”"),
 ]
+
+
+def check_fluent_structure(path: Path) -> list[str]:
+    """
+    多行值的续行必须缩进。否则 Fluent 把它当成新消息，整个文件加载失败并报
+    `Expected one of "a-zA-Z"` —— 汉化里最容易踩的一个坑，因为中文译文常带换行。
+    """
+    problems = []
+    for n, line in enumerate(path.read_text(encoding="utf-8-sig").splitlines(), 1):
+        stripped = line.strip()
+        if (not stripped or line[0].isspace() or stripped.startswith("#")
+                or FLUENT_DEF_RE.match(line) or stripped[0] in FLUENT_CONT_OK):
+            continue
+        problems.append(f"{path.name}:{n}: 多行值的续行没有缩进 -> {stripped[:40]}")
+    return problems
 
 
 def parse_file(path: Path) -> dict[str, str]:
@@ -80,6 +102,9 @@ def main() -> int:
     problems = 0
     for zh_path in sorted(ZH.rglob("*.ftl")):
         rel = zh_path.relative_to(ZH)
+        for msg in check_fluent_structure(zh_path):
+            print(f"[语法] {msg}")
+            problems += 1
         if args.dirs and (rel.parts[0] if len(rel.parts) > 1 else "(root)") not in args.dirs:
             continue
         en_path = EN / rel
