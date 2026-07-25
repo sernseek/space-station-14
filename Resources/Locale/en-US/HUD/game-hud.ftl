@@ -7,3 +7,6 @@ game-hud-open-crafting-menu-button-tooltip = Open crafting menu.
 game-hud-open-actions-menu-button-tooltip = Open actions menu.
 game-hud-open-admin-menu-button-tooltip = Open admin menu.
 game-hud-open-sandbox-menu-button-tooltip = Open sandbox menu.
+
+# Starlight: language menu button (its tooltip was hardcoded English in XAML).
+game-hud-open-language-menu-button-tooltip = Open the language menu.
