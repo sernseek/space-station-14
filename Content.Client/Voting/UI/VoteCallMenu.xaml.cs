@@ -256,7 +256,11 @@ namespace Content.Client.Voting.UI
                     int j = 0;
                     foreach (var (key, value) in voteDropdown)
                     {
-                        optionButton.AddItem(Loc.GetString(value), j);
+                        // zh-CN: dropdown values arrive ready to display — VotekickReasons are
+                        // localized where they are declared, and the player dropdown holds names.
+                        // Localizing again looked harmless in en-US (Fluent echoes an unknown id)
+                        // but logs "Unknown messageId" for every reason and every player name.
+                        optionButton.AddItem(value, j);
                         j++;
                     }
                     VoteOptionsButtonContainer.AddChild(optionButton);

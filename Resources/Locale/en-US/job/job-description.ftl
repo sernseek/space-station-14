@@ -48,3 +48,8 @@ job-description-serviceworker = Learn the basics of bartending, cooking, and gro
 job-description-station-ai = Follow your laws, serve the crew.
 job-description-visitor = Enjoy your visit to the station.
 job-description-warden = Patrol the Security department, ensure that no one is stealing from the armory, and make sure that all prisoners are processed and let out when their time is up.
+
+# Jobs whose prototypes point at a description key that was never defined.
+job-description-prisoner = You are serving time. Do your labour, keep your head down, and try not to make the Warden's day any worse.
+job-description-cburn = Contain the outbreak. Sweep the station, neutralise the infected, and leave nothing behind that could spread further.
+job-description-deathsquad = Central Command has written this station off. Remove everything aboard and confirm the sterilisation.

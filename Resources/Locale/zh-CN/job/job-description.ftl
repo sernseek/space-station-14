@@ -48,3 +48,8 @@ job-description-serviceworker = 学习调酒、烹饪和种植的基础知识。
 job-description-station-ai = 遵守你的法则，服务船员。
 job-description-visitor = 享受你的空间站之旅。
 job-description-warden = 巡查安保部，防止有人盗窃军械库，并确保所有囚犯完成收押流程且在刑满后获释。
+
+# 原型指向了某个描述 key，但上游从未定义。
+job-description-prisoner = 你正在服刑。老实干活，低调做人，尽量别让典狱长的一天更糟。
+job-description-cburn = 遏制疫情爆发。清扫全站，消灭感染者，不留下任何可能继续扩散的东西。
+job-description-deathsquad = 中央指挥部已经放弃这座空间站。清除舰上一切，并确认灭菌完成。
