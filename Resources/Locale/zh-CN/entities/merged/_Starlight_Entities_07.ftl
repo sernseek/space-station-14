@@ -411,6 +411,7 @@ ent-Magazine50mmRocketEmpty = 50毫米火箭弹弹匣（空）
 
 
 ent-Bullet60mmRocketEMP = EMP火箭弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-CartridgeRocketEMP = EMP火箭榴弹
     .desc = 为RPG-7发射器设计的PG-7 EMP弹头。命中时释放聚焦电磁脉冲，干扰电子设备和电力系统，但不会造成结构损伤，也不会爆炸。
@@ -419,6 +420,7 @@ ent-GrenadeEMPTarnyx = EMP炮射榴弹
     .desc = 为SSG-塔尼克斯火炮设计的大型EMP榴弹。命中时释放强力电磁脉冲，大范围干扰舰船电子设备，但不会造成结构损伤。
 
 ent-BulletGrenadeEMPTarnyx = EMP炮弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-MagazineBoxBattery = 弹药盒（激光）

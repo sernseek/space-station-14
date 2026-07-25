@@ -248,6 +248,7 @@ ent-ActionOpenSKBUplinkImplant = 打开 Svyaz-UZL
     .desc = 打开植入你皮下的 SKB 升链
 
 ent-ProjectileWebball = 蛛网球
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-ActionAcidVent = 酸蚀通风口
     .desc = 溶开焊死的通风口。

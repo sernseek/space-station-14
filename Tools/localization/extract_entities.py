@@ -42,7 +42,9 @@ def unquote(v: str) -> str:
 
 
 def parse_file(path: Path) -> list[dict]:
-    lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+    # utf-8-sig: 412 个 prototype yml 带 UTF-8 BOM，用 utf-8 读会让首行变成
+    # "﻿- type: entity"，ENTITY_RE 匹配不上，导致每个此类文件的首个实体被静默丢弃。
+    lines = path.read_text(encoding="utf-8-sig", errors="replace").splitlines()
     ents: list[dict] = []
     cur: dict | None = None
     i = 0
@@ -80,7 +82,7 @@ def parse_file(path: Path) -> list[dict]:
 def collect_existing_zh() -> set[str]:
     have: set[str] = set()
     for f in ZH.rglob("*.ftl"):
-        for l in f.read_text(encoding="utf-8").splitlines():
+        for l in f.read_text(encoding="utf-8-sig").splitlines():
             if m := re.match(r"^ent-([A-Za-z0-9_]+)\s*=", l):
                 have.add(m.group(1))
     return have

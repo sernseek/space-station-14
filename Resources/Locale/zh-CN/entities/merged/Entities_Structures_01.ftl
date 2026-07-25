@@ -111,14 +111,19 @@ ent-ChemDispenserEmpty = 化学品分配器
 
 
 ent-AirlockMaint = 维护通道入口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatch = 气密舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockXenoborg = 异形赛博格气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenance = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchSyndicate = 气密舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 
 ent-PinionAirlockAssembly = 气闸门组件
@@ -130,6 +135,7 @@ ent-AirlockAssembly = 气闸门组件
 
 
 ent-AirlockGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 
 ent-AirlockShuttleAssembly = 外部气闸门组件
@@ -147,23 +153,31 @@ ent-FirelockEdge = 防火闸
 
 
 ent-MetalDoor = 金属门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-PlasmaDoor = 等离子门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-GoldDoor = 金门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-SilverDoor = 银门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-BananiumDoor = 香蕉矿门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-WoodDoor = 木门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-PaperDoor = 纸门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-WebDoor = 蛛网门
     .desc = 一扇通往蜘蛛之地的门……也可能只是通往一间失压房间。
 
 ent-CardDoor = 纸板门
+    .desc = 一种用于建造或分隔区域的结构。
 
 ent-IronstoneDoor = 铁石门
     .desc = 一扇由刻满符文的石头制成的神秘大门。

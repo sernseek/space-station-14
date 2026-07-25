@@ -95,7 +95,7 @@ ent-VendingMachineCAD = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 
-ent-AutoLoaderUnit = 物品
+ent-AutoLoaderUnit = 自动装填单元
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -159,24 +159,24 @@ ent-BluespaceHarvester = 蓝空间 收集器
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-SMESBlue = 物品
+ent-SMESBlue = 超先进 SMES
     .desc = 仔细检查可以了解它的用途与特性。
 
 
 ent-Reflector = 反射器
 
 
-ent-ComputerGunneryConsole = 武器
+ent-ComputerGunneryConsole = 炮术控制台
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-GunneryServer = 武器
+ent-GunneryServer = 火控辅助主机
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
 ent-ShuttleGunCyerxa120mm = CYERXA 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ShuttleGunApollo = 武器
+ent-ShuttleGunApollo = 阿波罗重型激光炮
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-ShuttleGunVanyk = MK2 武器
@@ -194,30 +194,30 @@ ent-WeaponTurretVespera = ADMP-27 VESPERA 武器
 ent-ShuttleGunAutocannon = L85 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ShuttleGunDravon = 武器
+ent-ShuttleGunDravon = 德拉冯 75mm 火炮
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-ShuttleGunAK570 = AK570 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ShuttleGunLeviathan = 武器
+ent-ShuttleGunLeviathan = 利维坦 240mm 攻城炮
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ShuttleGunScylla = 武器
+ent-ShuttleGunScylla = 斯库拉激光轨道炮
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-ShuttleGunDynamre = AMX-9 DYNAMRE 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-PortalShadekinHub = 物品
+ent-PortalShadekinHub = 暗界枢纽
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-ShadekinTrap = 暗影陷阱
 
-ent-ShadekinDarkNet = 物品
+ent-ShadekinDarkNet = 暗网
 
-ent-PortalDarkBreacher = 物品
+ent-PortalDarkBreacher = 暗界破门传送门
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-CosmicMalignRift = 异常
@@ -237,7 +237,7 @@ ent-WebEntityBeacon = 蛛网柱
 ent-WebCocoon = 蛛网茧
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-AmmoniaEggGenerator = 物品
+ent-AmmoniaEggGenerator = 氨蛋
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -248,7 +248,7 @@ ent-AbductorExperimentator = 实验装置
 ent-SupermatterCrystal = 超物质
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-Cascad1 = 物品
+ent-Cascad1 = 卡斯卡德
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -373,7 +373,7 @@ ent-CrateCentralCommandSecureStrong = 中央指挥部 板条箱
     .desc = 用于安全存放相关物品的容器。
 
 
-ent-TableAbductor = 家具
+ent-TableAbductor = 外星桌
     .desc = 一件可供空间站使用的家具。
 
 
@@ -848,10 +848,10 @@ ent-SurveillanceCameraReinforcedGeneral = 强化摄像头
     .desc = 一个监控摄像头。算是在盯着你吧。
 
 
-ent-WallmountMassScannerBroken = 结构
+ent-WallmountMassScannerBroken = 质量扫描仪
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallmountMassScanner = 结构
+ent-WallmountMassScanner = 质量扫描仪
     .desc = 一种用于建造或分隔区域的结构。
 
 
@@ -884,7 +884,7 @@ ent-WallRockDark = 暗色岩石
 ent-WallTrash = 垃圾
     .desc = 把空气留在里面，把助理挡在外面。
 
-ent-WallMeatroid = 结构
+ent-WallMeatroid = 肉块机器人
     .desc = 黏糊糊的。
 
 
@@ -937,62 +937,62 @@ ent-RailingRoundYellow = 栏杆
 ent-BaseRailingBoxing = 结构
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-RailingBoxing = 结构
+ent-RailingBoxing = 擂台围绳
     .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
-ent-RailingCornerBoxing = 结构
+ent-RailingCornerBoxing = 擂台围绳
     .desc = 基础栏杆，专门防止像你这样的笨蛋摔下去。
 
 
-ent-WallAbductorDiagonal = 结构
+ent-WallAbductorDiagonal = 穿梭机墙
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallAbductor = 结构
+ent-WallAbductor = 穿梭机墙
     .desc = 把空气留在里面，把助理挡在外面。
 
-ent-WallConcrete = 结构
+ent-WallConcrete = 混凝土墙
     .desc = 把空气留在里面，把助理挡在外面。
 
-ent-WallXenoborgRCD = 结构
+ent-WallXenoborgRCD = 轻型异形赛博格墙
     .desc = 把空气留在里面，把助理挡在外面。
 
-ent-WallDarkWood = 结构
+ent-WallDarkWood = 深色木墙
     .desc = 传统的防助理设施。
 
-ent-WallReinforcedPlastitanium = 结构
+ent-WallReinforcedPlastitanium = 强化塑钛墙
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallReinforcedPlastitaniumDiagonal = 结构
+ent-WallReinforcedPlastitaniumDiagonal = 强化塑钛墙
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallReinforcedShuttleDiagonal = 结构
+ent-WallReinforcedShuttleDiagonal = 强化穿梭机墙
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallReinforcedShuttle = 结构
+ent-WallReinforcedShuttle = 强化穿梭机墙
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-WallFan = 结构
+ent-WallFan = 壁挂风扇
 
 
-ent-BarWindow = 结构
+ent-BarWindow = 吧台窗
     .desc = 别把下面的玻璃弄花了。
 
-ent-BarWindowDiagonal = 结构
+ent-BarWindowDiagonal = 吧台窗
     .desc = 别把下面的玻璃弄花了。
 
-ent-BarAltWindowDiagonal = 结构
+ent-BarAltWindowDiagonal = 吧台窗（备选）
     .desc = 别把下面的玻璃弄花了。
 
 
-ent-ShuttleWindowDirectional = 结构
+ent-ShuttleWindowDirectional = 定向穿梭机窗
     .desc = 一种用于建造或分隔区域的结构。
 
 
-ent-RetroShuttleWindow = 结构
+ent-RetroShuttleWindow = 复古穿梭机窗
     .desc = 别把那里的玻璃抹花了。
 
 
-ent-XenoborgWindowRCD = 结构
+ent-XenoborgWindowRCD = 轻型异形赛博格窗
     .desc = 别把下面的玻璃弄花了。
 
 
@@ -1030,33 +1030,33 @@ ent-SpiderWebAirtight = 气密 蜘蛛网
 ent-SpiderWebStrong = 坚固 蜘蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SpiderWebStrongThick = 物品
+ent-SpiderWebStrongThick = 厚蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SpiderWebSlime = 物品
+ent-SpiderWebSlime = 史莱姆蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SpiderWebPoison = 物品
+ent-SpiderWebPoison = 毒蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SpiderWebStealth = 物品
+ent-SpiderWebStealth = 隐形蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SpiderWebSpiderlings = 物品
-    .desc = 仔细检查可以了解它的用途与特性。
-
-
-ent-AbyssOne = 物品
+ent-SpiderWebSpiderlings = 幼蛛蛛网
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-FloorAzureWaterEntity = 物品
+ent-AbyssOne = 深渊
+    .desc = 仔细检查可以了解它的用途与特性。
+
+
+ent-FloorAzureWaterEntity = 蔚蓝之水
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-FloorWaterDestructibleEntity = 水
     .desc = 真正的解渴佳品。
 
-ent-FloorAzureWaterDestructibleEntity = 物品
+ent-FloorAzureWaterDestructibleEntity = 蔚蓝之水
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -1068,11 +1068,11 @@ ent-TrashDebrisSmall = 垃圾 残骸 小型
 
 ent-TrashDebrisMedium = 垃圾 残骸 中型
 
-ent-TrashDebrisLarge = 物品
+ent-TrashDebrisLarge = 大块垃圾碎屑
 
 ent-MeatDebrisSmall = 肉块 残骸 小型
 
 ent-MeatDebrisMedium = 肉块 残骸 中型
 
-ent-MeatDebrisLarge = 物品
+ent-MeatDebrisLarge = 大块肉屑
 

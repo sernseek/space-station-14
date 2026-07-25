@@ -859,6 +859,7 @@ ent-SaxophoneInstrument = 萨克斯管
     .desc = 一件可以演奏出独特音色的萨克斯管。
 
 ent-HarmonicaInstrument = 口琴
+    .desc = 那是一件乐器。
 
 ent-ClarinetInstrument = 单簧管
     .desc = 一件可以演奏出独特音色的单簧管。

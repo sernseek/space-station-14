@@ -2186,109 +2186,157 @@ ent-FaxMachineWizard = 长程传真机
     .desc = 蓝空间技术在官僚主义上的应用。
 
 ent-AirlockNtrepGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintNtrepLocked = 维护通道入口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCommandGlassLockedSyndicate = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSecurityGlassLockedSyndicate = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedicalGlassLockedSyndicate = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockEngineeringGlassLockedSyndicate = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRoboticsGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSurgeryGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockParamedicGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSalvageMiningGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMiningCargoGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroSalvageGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroMiningGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroSalvageMiningGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMailGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockLegalGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCourtroomGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockAttorneyGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockXenoborgGlassLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchPirateLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchSyndicatePirateLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSyndicateGlassPirateLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBrigmedGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBrigmedParaGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchSolgovLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenanceSolgovLocked = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCommunistGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchCommunistLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenanceCommunistLocked = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-HighSecCommunistLocked = 高安防门
     .desc = 把坏人挡在外面，把好人留在里面。
 
 ent-AirlockWizardGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchWizardLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenanceWizardLocked = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-HighSecWizardLocked = 高安防门
     .desc = 把坏人挡在外面，把好人留在里面。
 
 ent-AirlockBlackstarGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchBlackstarLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenanceBlackstarLocked = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-HighSecBlackstarLocked = 高安防门
     .desc = 把坏人挡在外面，把好人留在里面。
 
 ent-AirlockVisitorGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRoboticsGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSurgeryGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockParamedicGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSalvageMiningGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMiningCargoGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroSalvageGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroMiningGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockRetroSalvageMiningGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMailGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockEVAGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBrigmedGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBrigmedParaGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockAssemblyRobotics = 气闸门组件
     .desc = 它会打开，会关闭，没准还会把你压扁。
@@ -3859,8 +3907,10 @@ ent-DrinkMedTakCoffee = MedTak 马克杯
     .desc = 一只印有 MedTak 徽记的喜庆红色马克杯。
 
 ent-AirlockMedTakBasicGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedTakGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-ShelfMedTakSecure = MedTak补给架
     .desc = 用于存放医疗用品的坚固紧凑型货架。
@@ -5814,86 +5864,127 @@ ent-TableFancyWhite = 华丽桌
     .desc = 昂贵又阔气。
 
 ent-AirlockServiceGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockInternalAffairsGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockTheatreGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockServiceTheatreGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBarGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBarKitchenGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockKitchenGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockJanitorGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHydroGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChapelGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChapelStandardGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockEngineeringGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockAtmosphericsGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCargoGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSalvageGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMiningGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChemistryGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedicalMorgueGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedicalGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockVirologyGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockScienceGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedicalScienceGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCentralCommandGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCommandGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCaptainGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChiefMedicalOfficerGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChiefEngineerGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHeadOfSecurityGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockResearchDirectorGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHeadOfPersonnelGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockQuartermasterGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSecurityGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockDetectiveGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockBrigGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSecurityInternalAffairsGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockArmoryGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSyndicateGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSyndicateNukeopGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintLocked = 维护通道入口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintGlassLocked = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockXenoborgLocked = 异形赛博格气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-HighSecCentralCommandLocked = 高安防门
     .desc = 把坏人挡在外面，把好人留在里面。
@@ -5908,42 +5999,61 @@ ent-HighSecArmoryLocked = 高安防门
     .desc = 把坏人挡在外面，把好人留在里面。
 
 ent-AirlockHatchSyndicateLocked = 结构
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHatchMaintenanceLocked = 维护舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockEngineeringGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockAtmosphericsGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCargoGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSalvageGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockHydroponicsGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedicalGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockChemistryGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockVirologyGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockScienceGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCommandGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSecurityGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockSyndicateGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMiningGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockCentralCommandGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockStandardGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockGlassXeno = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockAssemblyAtmospherics = 气闸门组件
     .desc = 它会打开，会关闭，没准还会把你压扁。
@@ -6060,6 +6170,7 @@ ent-AirlockAssemblyHighSec = 气闸门组件
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-PinionAirlockGlass = 玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-Firelock = 防火闸
     .desc = 请使用撬棍。

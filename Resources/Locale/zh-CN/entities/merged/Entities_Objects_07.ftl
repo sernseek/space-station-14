@@ -919,54 +919,73 @@ ent-BorgModuleFireExtinguisher = 推进器机器人模块
     .desc = NT 指派了一个团队为机器人单位设计喷气背包，但他们耗尽了资金，只制作了一个更大的灭火器。它配备了集成 GPS 和质量扫描仪！
 
 ent-BorgModuleTool = 工具机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleInflatable = 充气机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAppraisal = 鉴定机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleMining = 挖矿机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedMining = 高级采矿机器人模块
     .desc = 先进的货运舱包含先进的采矿设备。研究表明，它可以将机器人的生产力提高 150%。
 
 ent-BorgModuleTraversal = 遍历机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedTool = 高级工具机器人模块
     .desc = 包含尖端工具的高级工程模块。
 
 ent-BorgModuleConstruction = 建筑机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleRCD = 工程机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleCustodial = 保管机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleCleaning = 清洁机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedCleaning = 高级清洁机器人模块
     .desc = 高级清洁模块，包含，嗯……高级清洁设备。你在期待什么？
 
 ent-BorgModuleTopicals = 急救机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleRescue = 救援机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleChemical = 化学机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedTopical = 高级急救机器人模块
     .desc = 先进的医疗模块，包含令人垂涎的注射器的机器人改造。现在，您的机器人可以更快地向船员伤害者注射水合氯醛！
 
 ent-BorgModuleArtifact = 神器机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAnomaly = 异常机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleService = 服务机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleMusique = 音乐机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleGardening = 园艺机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleHarvesting = 收割机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleClowning = 小丑机器人模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedClowning = 高级小丑机器人模块
     .desc = 高级服务模块，仅适用于最愚蠢的机器人！配有一个内置烤箱，可以随着时间的推移自动烘烤馅饼、一台全息投影仪和一个推喇叭。

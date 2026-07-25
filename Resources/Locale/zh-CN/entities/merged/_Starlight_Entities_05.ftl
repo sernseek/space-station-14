@@ -19,7 +19,7 @@ ent-TwinPointerLeft = 左侧双生指针
 ent-TwinPointerRight = 右侧双生指针
     .desc = 一对双生指针的右半边。非常适合一无所剩的你。
 
-ent-NT4PlayerInstrument = 物品
+ent-NT4PlayerInstrument = NT4 播放器
     .desc = 纳米传讯便携音乐播放器的第四代产品。总有一天，人人口袋里都会装着一个。
 
 ent-SuperSynthesizerInstrument = 超级合成器
@@ -28,13 +28,13 @@ ent-SuperSynthesizerInstrument = 超级合成器
 ent-SuperSynthesizerInstrumentAdmeme = 超级合成器
     .desc = 自 2020 年起，用《东方》的电子合成乐曲轰炸贫民区。
 
-ent-ActionPAIPDA = 物品
+ent-ActionPAIPDA = 打开 PDA
     .desc = 当你装在 PDA 内时打开其界面。
 
 ent-ActionPAIConsole = 访问控制台
     .desc = 当你插入控制台时打开其界面。
 
-ent-WizardPersonalAI = 物品
+ent-WizardPersonalAI = 巫师个人 AI 设备
     .desc = 你的魔法伙伴，和它待在一起乐趣无穷！
 
 ent-BasePinata = 基础皮纳塔彩罐
@@ -253,6 +253,7 @@ ent-FakeAnomalyIce = 假异常
     .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
 ent-BulletChonoLokeFakeBlast = 假爆炸
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-ChonoLokeFakeBlastShell = 假爆炸榴弹
     .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
@@ -263,7 +264,7 @@ ent-ChonoLokeFakeFragShell = 假破片榴弹
 ent-ChonoLokeCreamPieShell = 柯诺香蕉奶油派罐
     .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
-ent-ChonoLokeBundleBag = 物品
+ent-ChonoLokeBundleBag = 当克公司 Chono Loke 套装
     .desc = 一件做得煞有介事的恶作剧商品，实际效果只有声光和笑料。
 
 ent-BottleShip = 瓶中船

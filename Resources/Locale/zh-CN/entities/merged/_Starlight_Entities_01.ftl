@@ -241,21 +241,28 @@ ent-ClothingHeadsetVisitor = 访客耳机
 
 
 ent-ClothingHeadsetAltCentCom = 中央指挥部头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltAdminCentCom = 行政中央指挥部头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltNanoTrasen = 纳米传讯头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltRepresentative = 纳米传讯代表头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltNCTrainer = 纳米传讯职业培训员头戴式耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 ent-ClothingHeadsetAltAbductor = 绑架者头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetHoP = 指挥部头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltBSO = 蓝盾头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltSyndicateCommander = 血红色头戴式指挥官耳机
     .desc = 一副用于保持通讯联络的耳机。
@@ -264,8 +271,10 @@ ent-ClothingHeadsetAltSyndicateAgent = 血红色头戴式特工耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 ent-ClothingHeadsetAltCentComDS = 中央指挥部特工头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltNTSF = NTSF头戴式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltGlobal = 全局耳机
     .desc = 一副用于保持通讯联络的耳机。

@@ -1,7 +1,7 @@
-ent-WeaponMiniEnergyGun = 武器
+ent-WeaponMiniEnergyGun = 微型能量枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponDominator = 武器
+ent-WeaponDominator = 支配者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponMultiphaseGun = 01 武器
@@ -14,10 +14,10 @@ ent-WeaponIonRifle = 离子步枪
 
 ent-WeaponIonCarbine = 离子卡宾枪
 
-ent-WeaponLaserImmolator = 武器
+ent-WeaponLaserImmolator = 焚化者激光枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponDecloner = 武器
+ent-WeaponDecloner = 反克隆枪
 
 ent-WeaponPulseM1911 = 武器“m1911”
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -28,7 +28,7 @@ ent-WeaponPulsePistol = 脉冲手枪
 ent-WeaponPDW9 = PDW-9 泰瑟手枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponAlien = 武器
+ent-WeaponAlien = 外星手枪
 
 ent-WeaponEnergySniper = 武器“LWAP”
 
@@ -41,9 +41,9 @@ ent-WeaponPulseRifle = 脉冲步枪
 ent-WeaponANNIHILATOR = 武器“ANNIHILATOR”
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponToecloner = 武器
+ent-WeaponToecloner = 脚趾克隆机
 
-ent-WeaponEnergySMG = 武器
+ent-WeaponEnergySMG = 原型 5X 能量枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPulseCannonNTNC = 脉冲炮
@@ -52,7 +52,7 @@ ent-WeaponPulseCannonNTNC = 脉冲炮
 ent-CentcommCyborgLaser = 赛博格 脉冲卡宾枪
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-WeaponLaserCannonXenoborgCold = 武器
+ent-WeaponLaserCannonXenoborgCold = 异形赛博格苦霜炮
     .desc = 一件重型高功率激光武器。
 
 ent-WeaponEnergyMagnumGunGreenshield = MT-7G 武器
@@ -66,13 +66,13 @@ ent-WeaponLightMachineGunDP28 = DP-28 轻机枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponLauncherHydraSyndicate = 武器
+ent-WeaponLauncherHydraSyndicate = 改装九头蛇
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponLauncherChonoLoke = 武器
+ent-WeaponLauncherChonoLoke = Chono Loke
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponLauncherPeacekeeper = 武器
+ent-WeaponLauncherPeacekeeper = 维和者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
@@ -85,7 +85,7 @@ ent-FiringPinPistol = 手枪 击针
 ent-FiringPinMakeshift = 简易击针
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-FiringPinSmartLMG = 物品
+ent-FiringPinSmartLMG = 智能枪机组件
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-FiringPinLaser = 激光晶体
@@ -94,11 +94,11 @@ ent-FiringPinLaser = 激光晶体
 ent-FiringPinAdvancedLaser = 原型激光晶体
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-FiringPinExpedition = 物品
+ent-FiringPinExpedition = 远征击发销
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-WeaponPistolMakarov = 武器
+ent-WeaponPistolMakarov = 马卡洛夫
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolN1984Nonlethal = 武器“N1984”
@@ -113,25 +113,25 @@ ent-WeaponPistolGoldenMk58 = 58 武器
 ent-WeaponPistolGoldenMk58HighCapacity = 58 武器
     .desc = Mk58 昂贵而稀有的黄金版本，只配发给精英。不过功能上其实毫无区别。使用 .35 口径手枪弹匣供弹。
 
-ent-WeaponPistolEnforcer = 武器
+ent-WeaponPistolEnforcer = 执法者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponPistolDP = 武器
+ent-WeaponPistolDP = 正当程序
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponPistolBlueguard = 武器
+ent-WeaponPistolBlueguard = SP-8T
     .desc = 一把威力十足、专为保卫禁闭室而生的手枪——正合纳米传讯的心意。
 
-ent-WeaponPistolSP8AR = 武器
+ent-WeaponPistolSP8AR = SP-8AR
     .desc = 一把威力十足、专为保卫禁闭室而生的手枪——正合纳米传讯的心意。
 
-ent-WeaponPistolStechkin = 武器
+ent-WeaponPistolStechkin = 斯捷奇金手枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolAPS = APS 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponPistolDeagle = 武器
+ent-WeaponPistolDeagle = 丛林鹰
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponPistolM1911 = 武器“m1911”
@@ -150,24 +150,30 @@ ent-WeaponPistolTSFModel17 = TSF- 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-CorgiArrow = 物品
+ent-CorgiArrow = 柯基箭
     .desc = 仔细检查可以了解它的用途与特性。
 
 
 ent-BulletDravon75mmHE = DVN-75 HE 弹药
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletAK570_90mmHE = AK-90 HE 弹药
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletLeviathan240mmHE = LVT-240 HE 弹药
+    .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-BulletGrenade120mmBlast = 弹药
+ent-BulletGrenade120mmBlast = 120mm 爆破榴弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletCharon280mmSlug = M381 CHARYBDIS 弹药
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-BulletCharon280mmSubnuclear = M381 CHARYBDIS 弹药
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
-ent-RedLaserBeam = 弹药
+ent-RedLaserBeam = 激光束
 
 ent-DestroyBeam = 毁灭 光束
 
@@ -187,30 +193,33 @@ ent-AdvancedTaserBolt = 泰瑟电击弹
 
 ent-EmpPulse = EMP 物品
 
-ent-DecloneBolt = 弹药
+ent-DecloneBolt = 反克隆弹
 
-ent-SniperBolt = 弹药
+ent-SniperBolt = 狙击弹
 
-ent-ProjectilePolyboltJohnToe = 弹药
+ent-ProjectilePolyboltJohnToe = 约翰·托聚合弹
     .desc = 用于对应武器的弹药或能量投射物。
 
 ent-PointDefenseBeam = 点防御 光束
 
 ent-BulletAcidHitscan = 酸液喷吐物
 
-ent-BulletLaserMagnumSL = 弹药
+ent-BulletLaserMagnumSL = 马格南激光弹
 
-ent-BulletLaserWindowPiercingMagnumSL = 弹药
+ent-BulletLaserWindowPiercingMagnumSL = 马格南穿窗弹
 
-ent-ApolloHeavyLaser = 物品
+ent-ApolloHeavyLaser = 阿波罗等离子弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-FreezeRay = 冷冻射线
 
 ent-DestructionBeam = 毁灭 光束
 
-ent-ScyllaWideLaser = 物品
+ent-ScyllaWideLaser = 斯库拉激光弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-DynamreDualLaser = 物品
+ent-DynamreDualLaser = 迪纳姆等离子团
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 
 ent-BaseBulletStarlight = 弹药
@@ -222,9 +231,10 @@ ent-BulletAdvTaser = 泰瑟电击弹
 ent-RadOrb = 辐射 球体
     .desc = 如果你能看清它，你多半已经死了！
 
-ent-BulletGrenadeCleanadeSyndicate = 弹药
+ent-BulletGrenadeCleanadeSyndicate = 邪恶清洁弹榴弹
+    .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-CosmicLambdaParticle = 弹药
+ent-CosmicLambdaParticle = 零空间稳定粒子
     .desc = 如果你看得见这个，那你多半已经死了！
 
 
@@ -237,14 +247,14 @@ ent-WeaponRevolverImprovised = 土制左轮手枪
 ent-WeaponRevolverForged = 锻造左轮手枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponRevolverDispatcher = 武器
+ent-WeaponRevolverDispatcher = 调度者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponRevolverZOZ = TOZ-82 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponRifleLecterRubber = 武器
+ent-WeaponRifleLecterRubber = 莱克特
     .desc = "纳米传讯与索尔政府广泛采用的热门导气式战斗步枪。可半自动或全自动射击，凭借精准度、制止力与可靠性，足以胜任各种环境。\n使用 .20 口径步枪弹匣供弹。" # SL
 
 ent-WeaponLr30 = 30 武器
@@ -259,16 +269,16 @@ ent-WeaponRifleARG = 武器“ARG”
 ent-WeaponRifleM52 = 52 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponRifleLeikha = 武器
+ent-WeaponRifleLeikha = 蕾卡
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponRifleL10 = 武器“L10 DMR”
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponRiflePitbull = 武器
+ent-WeaponRiflePitbull = 斗牛犬
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponRiflePeacemaker = 武器
+ent-WeaponRiflePeacemaker = 和平缔造者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponRifleM18 = M18- 武器
@@ -280,11 +290,11 @@ ent-WeaponRifleLionhunter = SPC- 武器
 ent-WeaponRifleAkAdmeme = AKMS 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponRifleLawbringer = 武器
+ent-WeaponRifleLawbringer = 执法官
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponSubMachineGunDrozdRubber = 武器
+ent-WeaponSubMachineGunDrozdRubber = 德罗兹德
     .desc = 纳米传讯轻武器部门制造的现代冲锋枪。点射模式射速惊人，适合封锁防守角度或在较远距离迎击敌人。使用 .35 口径冲锋枪弹匣供弹。 # SL
 
 ent-WeaponSubMachineGunSP91RC = 武器“SP-91-RC”
@@ -312,16 +322,16 @@ ent-WeaponSubMachineGunWt550g = 武器“WT550g”
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponShotgunRiot = 武器
+ent-WeaponShotgunRiot = 防暴霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponShotgunRiotSawn = 武器
+ent-WeaponShotgunRiotSawn = 截短防暴霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponShotgunCombat = 武器
+ent-WeaponShotgunCombat = 战斗霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponShotgunCycler = 武器
+ent-WeaponShotgunCycler = 循环式霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponShotgunGA12 = GA 12 武器
@@ -333,7 +343,7 @@ ent-WeaponRevolverGA6Fang = GA-6 武器
 ent-WeaponShotgunMinotaur = AS-12 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponShotgunForged = 武器
+ent-WeaponShotgunForged = 锻造双管霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponShotgunMakeshift = 简易霰弹枪
@@ -356,81 +366,81 @@ ent-WeaponSniperForged = 锻造连发步枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponTurretPointDefense = 武器
+ent-WeaponTurretPointDefense = 近防炮组
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-WeaponTurretMilitaryPointDefense = 武器
+ent-WeaponTurretMilitaryPointDefense = 军用近防炮组
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponTurretPirateDisposable = 武器
+ent-WeaponTurretPirateDisposable = 一次性实弹炮塔
     .desc = 一座使用实弹机枪的自动炮塔。
 
 
-ent-RadcasterCyber = 物品
+ent-RadcasterCyber = 赛博辐射投射器
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-FreezeRayCyber = 物品
+ent-FreezeRayCyber = 赛博冷冻射线枪
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-ArmBladePlus = 武器
+ent-ArmBladePlus = 真臂刃
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-WeaponMeleeBoxcutter = 武器
+ent-WeaponMeleeBoxcutter = 美工刀
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-CaneNT = 物品
+ent-CaneNT = 华丽手杖
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-CyberEnergyChainsword = 物品
+ent-CyberEnergyChainsword = 能量链锯剑
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-CyberMantisBlade = 武器
+ent-CyberMantisBlade = 螳螂刃
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-MeleeWeaponCyberEmpFist = 武器
+ent-MeleeWeaponCyberEmpFist = 宙斯之拳
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-MeleeWeaponCyberStunFist = 武器
+ent-MeleeWeaponCyberStunFist = 电击之拳
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-MeleeWeaponCyberHerakles = 武器
-    .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
-
-
-ent-MarriageAxe = 物品
-    .desc = 仔细检查可以了解它的用途与特性。
-
-ent-EnergySwordBanana = 武器
+ent-MeleeWeaponCyberHerakles = 赫拉克勒斯之拳
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-EmeraldLizitar = 物品
+ent-MarriageAxe = 婚约之斧
+    .desc = 仔细检查可以了解它的用途与特性。
+
+ent-EnergySwordBanana = 香蕉能量剑
+    .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
+
+
+ent-EmeraldLizitar = 翡翠蜥吉他
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-HomerunBat = 物品
+ent-HomerunBat = 全垒打球棒
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-Finka = 物品
+ent-Finka = 芬卡
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-FinkaAdmeme = 物品
+ent-FinkaAdmeme = 强制跟随芬卡
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-XenoShiv = 物品
+ent-XenoShiv = 自制利刃
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-XenoKnife = 战斗刀
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-PickaxeDiamond = 物品
+ent-PickaxeDiamond = 钻石镐
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -438,7 +448,7 @@ ent-WeaponAdmemeX09Headsman = 09 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-RescueKnife = 物品
+ent-RescueKnife = 救援刀
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -459,16 +469,16 @@ ent-SwordImprovised = 土制剑
 ent-SwordForged = 锻造剑
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-SwordFlaming = 武器
+ent-SwordFlaming = 破晓者
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ClaymoreForged = 物品
+ent-ClaymoreForged = 破潮者
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-ManaBlade = 武器
+ent-ManaBlade = 幽灵之刃
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ChainsawSword = 武器
+ent-ChainsawSword = 神圣链锯剑
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
@@ -483,17 +493,17 @@ ent-CentcommVibroblade = SCSPT-111 振动刃
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-Wonderprod = 物品
+ent-Wonderprod = 奇迹电棒
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-LubeGrenade = 武器
+ent-LubeGrenade = 润滑剂手雷
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-GlueGrenade = 武器
+ent-GlueGrenade = 胶水手雷
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
-ent-ToxicGasGrenade = 武器
+ent-ToxicGasGrenade = 酸性气体手雷
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
@@ -503,28 +513,28 @@ ent-WeaponPDW9TaserBorg = PDW-9 内置泰瑟
 ent-BorgStunbatonRechargeable = 内置电击警棍
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-BorgHolocuffs = 物品
+ent-BorgHolocuffs = 全息手铐
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-BorgFlashRechargeable = 物品
+ent-BorgFlashRechargeable = 内置闪光弹
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-BorgHoloprojectorSecurity = 物品
+ent-BorgHoloprojectorSecurity = 内置全息屏障投影仪
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-DoubleStunbaton = 物品
+ent-DoubleStunbaton = 双头电击警棍
     .desc = 用于使人失去行动能力的电击棍。主动拿它伤人会被视为缺乏风度。
 
-ent-PurpleStunbaton = 物品
+ent-PurpleStunbaton = 紫色电击警棍
     .desc = 用来击晕人的电击棍。拿它主动伤人可不太体面。
 
 
-ent-StatusEffectCyberneticDisruption = 状态效果
+ent-StatusEffectCyberneticDisruption = 赛博组件失效
 
 
-ent-MobThresholdsTheHighlander = 状态效果
+ent-MobThresholdsTheHighlander = 免濒死
 
-ent-MobThresholdsDeathInTheAfternoon = 状态效果
+ent-MobThresholdsDeathInTheAfternoon = 濒死抗性
 
 ent-BonusArmorDwarfGeneric = 状态效果
 
@@ -552,7 +562,7 @@ ent-BonusArmorB52 = 25 状态效果
 
 ent-BonusArmorDriestMartini = 15 状态效果
 
-ent-BonusArmorPainkiller = 状态效果
+ent-BonusArmorPainkiller = 失血免疫
 
 ent-BonusArmorErikaSurprise = 15 状态效果
 
@@ -568,7 +578,7 @@ ent-BonusScalarDwarfGeneric = 状态效果
 
 ent-BonusScalarIrishCream = 25 状态效果
 
-ent-BonusDamageBraveBull = 状态效果
+ent-BonusDamageBraveBull = 徒手攻击附加结构伤害
 
 ent-BonusScalarBronx = 50 状态效果
 
@@ -581,22 +591,22 @@ ent-BonusScalarSyndicateBomb = 25 状态效果
 
 ent-StatusEffectTemporaryBlindness = 暂时失明
 
-ent-StatusEffectMuted = 状态效果
+ent-StatusEffectMuted = 失声
 
-ent-StatusEffectTheDark = 状态效果
+ent-StatusEffectTheDark = 黑暗
 
-ent-StatusEffectHeldBreath = 状态效果
+ent-StatusEffectHeldBreath = 屏住呼吸
 
 
-ent-WeatherRadStorm = 状态效果
+ent-WeatherRadStorm = 辐射风暴
 
-ent-WeatherSolarFlare = 状态效果
+ent-WeatherSolarFlare = 太阳耀斑
 
-ent-WeatherAuroraCaelus = 状态效果
+ent-WeatherAuroraCaelus = 天极极光
 
-ent-WeatherSpaceWhale = 状态效果
+ent-WeatherSpaceWhale = 太空鲸
 
-ent-WeatherCosmic = 状态效果
+ent-WeatherCosmic = 宇宙
 
 
 ent-BannerBaseAlt = 基础 旗帜
@@ -621,7 +631,7 @@ ent-BannerSGKB = SKB 标识装饰
     .desc = 一件带有醒目标识或图案的装饰品。
 
 
-ent-PrisonBars = 物品
+ent-PrisonBars = 监狱铁栏
 
 
 ent-StatueStoneCUP = 标识装饰
@@ -630,16 +640,18 @@ ent-StatueStoneCUP = 标识装饰
 ent-StatueOneYearAnniversary = 标识装饰
     .desc = 一件带有醒目标识或图案的装饰品。
 
-ent-Phoronic = 物品
+ent-Phoronic = 磷光级联
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-AirlockXenoborgGlass = 结构
+ent-AirlockXenoborgGlass = 异形赛博格玻璃气闸门
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockHatchPirate = 结构
+ent-AirlockHatchPirate = 气密舱口
+    .desc = 它会打开，会关闭，没准还会把你压扁。
 
 
-ent-ShadekinDoor = 结构
+ent-ShadekinDoor = 影裔门
     .desc = 一种用于建造或分隔区域的结构。
 
 
@@ -656,7 +668,7 @@ ent-TurnstileCentCommDebrief = 中央指挥部 闸机
     .desc = 一扇只允许单向通行并防止尾随的机械门。
 
 
-ent-AbductorOperatingTable = 家具
+ent-AbductorOperatingTable = 绑架者手术台
     .desc = 手术专用医疗台。不过这台看起来只是个没用的道具。
 
 
@@ -667,13 +679,13 @@ ent-FurnitureAquarium = 水族箱
 ent-PewBase = 家具
     .desc = 你坐在这上面。自愿也好，被迫也罢。
 
-ent-PewEndLeft = 家具
+ent-PewEndLeft = 木质长椅
     .desc = 你坐在这上面。自愿也好，被迫也罢。
 
-ent-PewEndRight = 家具
+ent-PewEndRight = 木质长椅
     .desc = 你坐在这上面。自愿也好，被迫也罢。
 
-ent-PewMiddle = 家具
+ent-PewMiddle = 木质长椅
     .desc = 你坐在这上面。自愿也好，被迫也罢。
 
 ent-BenchWhiteComfy = 舒适 长椅
@@ -692,38 +704,38 @@ ent-BenchComfyMiddle = 舒适 长椅
     .desc = 一件可供空间站使用的家具。
 
 
-ent-ChairRegal = 家具
+ent-ChairRegal = 华贵座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ChairThrone = 家具
+ent-ChairThrone = 华贵王座
     .desc = 一件可供空间站使用的家具。
 
-ent-ChairOfficeSleek = 家具
+ent-ChairOfficeSleek = 简约办公椅
     .desc = 你可以坐在上面。自愿也好，被迫也罢。
 
-ent-ComfyChair = 家具
+ent-ComfyChair = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ComfyChairWhite = 家具
+ent-ComfyChairWhite = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ComfyChairBlue = 家具
+ent-ComfyChairBlue = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ComfyChairRed = 家具
+ent-ComfyChairRed = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ComfyChairGreen = 家具
+ent-ComfyChairGreen = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ComfyChairBrown = 家具
+ent-ComfyChairBrown = 舒适座椅
     .desc = 一件可供空间站使用的家具。
 
-ent-ChairCarp = 家具
+ent-ChairCarp = 鲤鱼椅
     .desc = 一件可供空间站使用的家具。
 
 
-ent-FurnitureCoatRack = 家具
+ent-FurnitureCoatRack = 衣帽架
     .desc = 用于安全存放相关物品的容器。
 
 ent-FurnitureWoodRack = 木制 架
@@ -737,14 +749,14 @@ ent-FancyWardrobe = 衣柜
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-FurnitureGrandfatherClock = 家具
+ent-FurnitureGrandfatherClock = 落地大摆钟
     .desc = 一件可供空间站使用的家具。
 
 
 ent-GrateBase = 格栅
     .desc = 一种用于建造或分隔区域的结构。
 
-ent-LatticeFalse = 物品
+ent-LatticeFalse = 脆弱格架
     .desc = 一种用于建造或分隔区域的结构。
 
 
@@ -756,13 +768,13 @@ ent-PropSnowman = 雪人
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-DinerEndLeft = 物品
+ent-DinerEndLeft = 餐厅卡座
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-DinerEndRight = 物品
+ent-DinerEndRight = 餐厅卡座
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-DinerMiddle = 物品
+ent-DinerMiddle = 餐厅卡座
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-SofaFancyEndLeft = 华丽 沙发
@@ -847,11 +859,11 @@ ent-SofaMiddleBrown = 沙发
     .desc = 一件可供空间站使用的家具。
 
 
-ent-StandingMicrophone = 物品
+ent-StandingMicrophone = 立式麦克风
     .desc = 仔细检查可以了解它的用途与特性。
 
 
-ent-ATM = 物品
+ent-ATM = 自动柜员机
     .desc = 仔细检查可以了解它的用途与特性。
 
 
@@ -873,7 +885,7 @@ ent-AbductorHumanObservationConsoleEye = ???
 ent-EnemyConsoleEye = ???
     .desc = 一台用于执行其标示功能的设备。
 
-ent-CompuerShuttleSalvage = 物品
+ent-CompuerShuttleSalvage = 远程打捞穿梭机控制台
     .desc = 仔细检查可以了解它的用途与特性。
 
 ent-MassDriverComputer = 质量投射器 电脑
@@ -974,10 +986,10 @@ ent-ComputerPersonalDesktop = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 
-ent-Masterchair = 物品
+ent-Masterchair = 观测主控椅
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-MasterchairOverlay = 物品
+ent-MasterchairOverlay = 观测主控椅
 
 ent-CentcommConsoleEye = ???
     .desc = 一台用于执行其标示功能的设备。
@@ -991,14 +1003,14 @@ ent-SlopDispenser = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 
-ent-ShuttleWeaponsConsole = 武器
+ent-ShuttleWeaponsConsole = 穿梭机武器控制台
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 
-ent-SyndBath = 物品
+ent-SyndBath = 网络行者盥洗室
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-SyndBathOverlay = 物品
+ent-SyndBathOverlay = 网络行者盥洗室
 
 ent-SyndicateConsoleEye = ???
     .desc = 一台用于执行其标示功能的设备。
@@ -1018,7 +1030,7 @@ ent-MachineDarkBreacher = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 
-ent-TiderLathe = 物品
+ent-TiderLathe = 简易铁砧
     .desc = 仔细检查可以了解它的用途与特性。
 
 

@@ -283,23 +283,31 @@ ent-ClothingBeltStorageWaistbag = 皮革腰包
     .desc = 这是一件皮革腰包，具有与其用途相符的设计。
 
 ent-ClothingHeadsetAltCargo = 军需官包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltCommand = 指挥部包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltEngineering = 工程主管包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltMedical = 医疗主管包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltSecurity = 安保主管包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltScience = 研究主管包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltSyndicate = 血红包耳式耳机
     .desc = 这是一件血红包耳式耳机，具有与其用途相符的设计。
 
 ent-ClothingHeadsetAltFreelancer = 自由职业者包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingHeadsetAltWizard = 巫师包耳式耳机
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingEyesGlassesGar = 钻头眼镜
     .desc = 这是一件钻头眼镜，具有与其用途相符的设计。

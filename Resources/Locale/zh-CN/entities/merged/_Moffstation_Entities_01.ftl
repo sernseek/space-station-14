@@ -1,32 +1,47 @@
 ent-ClothingHeadHatHairFlowerWhite = 纯白发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerBlue = 指挥蓝发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerLightBlue = 医疗浅蓝发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerLime = 服务青柠发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerYellow = 工程黄发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerRed = 安保红发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerPink = 科研粉发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerBrown = 货运棕发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerOrange = 化学橙发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerGreen = 病毒学绿发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerTeal = 大气青发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerPurple = 打捞紫发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerGrey = 访客灰发饰花 # Starlight rename to visitor since we don't have passengers
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerBlack = 虚空黑发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-ClothingHeadHatHairFlowerGold = 海盗金发饰花
+    .desc = 一朵可以插在发丝间的美丽花朵。
 
 ent-SpawnPointGhostWizardDuelistBase = 幽灵角色出生点
 

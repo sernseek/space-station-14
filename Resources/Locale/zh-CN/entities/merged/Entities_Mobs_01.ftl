@@ -250,6 +250,7 @@ ent-MobArgocyteSlurva = 软泥幼体
     .desc = 可怜巴巴的生物，几乎什么也做不了。
 
 ent-MobArgocyteBarrier = 屏障体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteSkitter = 疾行体
     .desc = 狡猾的外星小生物……别让它们偷走你的口粮！
@@ -258,21 +259,28 @@ ent-MobArgocyteSwiper = 窃取体
     .desc = 那一摞钢材跑到哪儿去了？
 
 ent-MobArgocyteMolder = 塑形体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocytePouncer = 扑击体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteGlider = 滑翔体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteHarvester = 收割体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteCrawler = 爬行体
     .desc = 成群行动的致命生物，会撕碎毫无防备的旅人。
 
 ent-MobArgocyteEnforcer = 执法体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteFounder = 奠基体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 ent-MobArgocyteLeviathing = 利维坦体
+    .desc = 一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
 
 
 ent-MobGoliath = 歌利亚
@@ -386,8 +394,10 @@ ent-MobCluwne = 人
 
 
 ent-MobWatcherIcewing = 冰翼凝视者
+    .desc = 它仿佛正一眼看穿你。
 
 ent-MobWatcherMagmawing = 熔岩翼凝视者
+    .desc = 它仿佛正一眼看穿你。
 
 ent-MobWatcherPride = 骄傲凝视者
     .desc = 这种稀有亚种只在六月出现。

@@ -12,6 +12,7 @@ ent-Flash = 闪光器
     .desc = 带扳机的超亮闪光灯泡，能使受害者眩晕并短暂失明。烧坏后毫无用处。
 
 ent-SciFlash = 闪光器
+    .desc = 带扳机的超亮闪光灯泡，可使受害者陷入眩晕并短暂失明。烧坏后就没用了。
 
 ent-PortableFlasher = 便携式闪光器
     .desc = 带接近触发器的超亮闪光灯泡，可用于将某片区域变成安保专用区。
@@ -293,6 +294,7 @@ ent-ThrowingStar = 手里剑
     .desc = 一种沿用至今的古老武器，因为很容易嵌进受害者的身体部位而长盛不衰。
 
 ent-ThrowingStarNinja = 忍者手里剑
+    .desc = 一种沿用至今的古老武器，因为它特别容易卡进受害者的身体部位。
 
 ent-BaseWeaponRevolver = 基础左轮手枪
     .desc = 掏枪、瞄准、砰砰响。
@@ -322,6 +324,9 @@ ent-WeaponRifleLecter = 莱克特
     .desc = "纳米传讯与太阳系政府广泛使用的热门导气式战斗步枪。支持半自动或全自动射击，凭借出色的精度、制止力和可靠性，可胜任各种环境。\n使用.20步枪弹匣供弹。" # SL
 
 ent-WeaponRifleLecterXL8 = XL8
+    .desc = 实验型莱克特 8
+        一把贵得离谱的军用级突击步枪，集成瞄具。
+        使用 .20 步枪弹。
     .desc =
         实验型莱克特 8
         一款贵得离谱、配有集成式瞄具的军用级突击步枪。
@@ -385,6 +390,7 @@ ent-WeaponShotgunImprovised = 简易霰弹枪
     .desc = 一把粗制滥造的手工霰弹枪，使用12号霰弹。弹膛内只能装一发。 # Starlight: .50 -> 12 gauge
 
 ent-WeaponShotgunImprovisedLoaded = 简易霰弹枪
+    .desc = 一把粗制滥造的手工霰弹枪，使用12号霰弹。弹膛内只能装一发。 # Starlight: .50 -> 12 gauge
 
 ent-WeaponShotgunHushpup = 静默犬
     .desc = 执法者霰弹枪的一种冷门改装型，装有实验性消音器。非常适合恪守严格道德准则的人。使用12号霰弹。 # Starlight
@@ -405,6 +411,7 @@ ent-WeaponPistolFlintlock = 燧发手枪
     .desc = 海盗的好伙伴。呀哈！使用.45马格南弹。
 
 ent-WeaponTurretSyndicateDisposable = 一次性弹道炮塔
+    .desc = 一座使用实弹机枪的自动炮塔。
 
 ent-WeaponTurretXeno = 异形炮塔
     .desc = 发射9毫米酸液弹。
@@ -453,6 +460,7 @@ ent-GunSafeHeavyWeapons = 精确射手步枪保险柜
     .desc = 内含一组 L10 精确射手步枪。
 
 ent-MindRoleWizardDuelistPurple = 紫袍巫师决斗者角色
+    .desc = 心智角色实体。
 
 ent-SpawnPointGhostWizardDuelistPurple = 紫袍巫师决斗者出生点
 
@@ -485,6 +493,7 @@ ent-VendingMachineBoozeSyndicate = 淤青贩卖机
     .desc = 一台翻新的酒水贩卖机，用于提振特工士气。一侧印着血红色外骨骼装甲的图案，另一侧的油漆似乎被烧成了灰。
 
 ent-CrayonInfinite = 无限蜡笔
+    .desc = 一支色彩鲜艳的蜡笔。看起来很好吃。嗯……
 
 ent-PaperCNCSheet = 角色卡
     .desc = 一张供你创建《鲤鱼与地穴》角色的表格。
@@ -493,11 +502,13 @@ ent-BaseWeaponCrusher = 破碎锤
     .desc = 原型动能加速器的早期设计。
 
 ent-PelletGrapeshot = 葡萄弹弹丸
+    .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-DefibrillatorCompact = 紧凑型除颤器
     .desc = 现在还有迷你款！
 
 ent-BorgModuleDiagnosis = 诊断赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-PlushieLizardJobAssistant = 助手蜥蜴毛绒玩偶
     .desc = 一个酷似身穿助手制服的蜥蜴人的可爱毛绒玩具。它的眼睛凝视着你，比其他玩偶的眼睛更像两颗小珠子。

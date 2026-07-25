@@ -1,0 +1,325 @@
+> 人工补译词条：翻译记忆库覆盖不到的英文原文。
+> 格式：<KIND>\t<英文原文>\t<中文译文>；KIND 为 NAME 或 DESC；\n 表示换行。
+> 由 fill_entity_gaps.py 作为记忆库的补充加载，命中后自动扩散到所有同原文实体。
+NAME	??$%%#? pinpointer	??$%%#? 定位针
+NAME	AI Timed Spawner	AI 定时生成点
+NAME	Blade Server Rack	刀片服务器机架
+NAME	Dreaming cake	迷梦蛋糕
+NAME	Expose Vocal Cords	暴露声带
+NAME	Flatpacker 1001	扁平打包机 1001
+NAME	Gamorrah Golden Baton	戈莫拉黄金权杖
+NAME	Gamorrah Pulse Pistol	戈莫拉脉冲手枪
+NAME	Moth Soup	飞蛾汤
+NAME	PA end cap board	粒子加速器端盖主板
+NAME	Saw Through Limb	锯断肢体
+NAME	SmartFridge	智能冰柜
+NAME	Urist McCyclorite	乌里斯特·麦独眼石
+NAME	Urist McMeow	乌里斯特·麦喵
+NAME	Volcanic explosion	火山喷发
+NAME	Webball	蛛网球
+NAME	What They Don't Want You To Know	他们不想让你知道的事
+NAME	abductor	绑架者
+NAME	airlock	气闸门
+NAME	airtight hatch	气密舱口
+NAME	alien pad	外星传送台
+NAME	appraisal tool	估价仪
+NAME	atmos plaque spawner	大气部铭牌生成点
+NAME	autolathe machine board	自动车床机控板
+NAME	bar window	吧台窗
+NAME	bar window alternative	吧台窗（备选）
+NAME	barber scissors	理发剪
+NAME	black scrubs	黑色手术服
+NAME	blade server rack circuit board	刀片服务器机架机控板
+NAME	blast door	防爆门
+NAME	captain's boat cloak	舰长斗篷
+NAME	chain link fence	铁丝网围栏
+NAME	chasm	深渊
+NAME	cheek storage	颊囊
+NAME	cloning pod	克隆舱
+NAME	composition X-4	X-4 炸药
+NAME	concrete wall	混凝土墙
+NAME	cryo pod	低温休眠舱
+NAME	curtains	帘幕
+NAME	cyborg endoskeleton	赛博格内骨骼
+NAME	dark wood wall	深色木墙
+NAME	directional shuttle window	定向穿梭机窗
+NAME	dwarf heart	矮人心脏
+NAME	emergency flare	应急信号棒
+NAME	external airlock	外部气闸门
+NAME	firelock electronics	防火闸电子元件
+NAME	flashlight	手电筒
+NAME	gas analyzer	气体分析仪
+NAME	gohei	御币
+NAME	gravity generator	重力发生器
+NAME	hand teleporter	手持传送器
+NAME	high pressure machine frame	高压机器框架
+NAME	hover entity	悬停实体
+NAME	lagomorph eyes	兔形人眼球
+NAME	law circuit tote	法则电路提箱
+NAME	light xenoborg wall	轻型异形赛博格墙
+NAME	light xenoborg window	轻型异形赛博格窗
+NAME	lipid extractor	脂肪抽取机
+NAME	magistrate's mantle	法官披风
+NAME	mailing unit electronics	邮寄单元电子元件
+NAME	map text	地图文本
+NAME	mass scanner	质量扫描仪
+NAME	meat spike	挂肉钩
+NAME	meatroid	肉块机器人
+NAME	medical scanner	医疗扫描仪
+NAME	meth	冰毒
+NAME	mirror	镜子
+NAME	moffers	蛾绒拖鞋
+NAME	musical lung	乐音之肺
+NAME	node scanner	节点扫描仪
+NAME	notice board	公告板
+NAME	nuclear fabricator machine board	核子制造机机控板
+NAME	nutribrick pizza	营养砖披萨
+NAME	ore box	矿石箱
+NAME	piano	钢琴
+NAME	pointing arrow	指示箭头
+NAME	random anomaly spawner	随机异常生成点
+NAME	random board spawner	随机主板生成点
+NAME	recycler	回收机
+NAME	reinforced plastitanium wall	强化塑钛墙
+NAME	reinforced shuttle wall	强化穿梭机墙
+NAME	reptilian stomach	蜥蜴人胃
+NAME	retro shuttle window	复古穿梭机窗
+NAME	ring rope	擂台围绳
+NAME	roboticist PDA	机器人专家 PDA
+NAME	seed extractor	种子提取机
+NAME	shadekin door	影裔门
+NAME	shotgun cabinet	霰弹枪柜
+NAME	shuttle wall	穿梭机墙
+NAME	station anchor	空间站锚定器
+NAME	teleport scroll	传送卷轴
+NAME	thermo-electric generator	热电发电机
+NAME	twinpointer kit	双向定位针套装
+NAME	void blink	虚空闪现
+NAME	vulpkanin heart	伏尔卡宁心脏
+NAME	wall fan	壁挂风扇
+NAME	watcher	监视者
+NAME	weh-pet	weh 宠物
+NAME	weirdly shaped item	形状古怪的物品
+NAME	wizard	巫师
+NAME	world chunk	世界区块
+NAME	xenoborg glass airlock	异形赛博格玻璃气闸门
+DESC	"A NanoTrasen signature item--only the finest bluespace tech. Instructions: Use once to create a portal which teleports at random. Use again to link it to a portal at your current location. Use again to clear all portals."	“纳米传讯的招牌产品——最顶级的蓝空间技术。使用说明：第一次使用会创建一个随机传送的传送门，再次使用可将其与你当前位置的传送门相连，第三次使用则清除所有传送门。”
+DESC	A Cloning Pod. 50% reliable.	一台克隆舱。可靠度 50%。
+DESC	A beancounter's best friend, with a quantum connection to the galactic market and the ability to appraise even the toughest items. It will also tell you if a crate contains a completed bounty.	账房先生的挚友，与银河市场保持量子连接，再棘手的物品也能估价。它还会告诉你板条箱里是否装着已完成的悬赏货物。
+DESC	A beret, an artists favorite headwear.	一顶贝雷帽，艺术家的最爱。
+DESC	A black-market delicacy shunned for its cruel nature	一道黑市美食，因手段残忍而为人所不齿
+DESC	A blade server frame under construction. Needs more parts.	一具在建的刀片服务器框架。还需要更多零件。
+DESC	A box containing a pair of twinpointers for mutually assured direction.	盒子里装着一对双向定位针，让彼此的方位相互确保。
+DESC	A bulky medical scanner.	一台笨重的医疗扫描仪。
+DESC	A dangerous alien found on the wrong side of planets, known for their propensity for munching on ruins.	一种危险的外星生物，出没于行星的背阴面，以啃食遗迹著称。
+DESC	A disgustingly hyperactive pump designed to keep things animate.	一台恶心地过度亢奋的泵，用来维持事物的活性。
+DESC	A fancy velvet mantle with fur trim, fitting for a judge.	一件缀有毛边的华丽天鹅绒披风，很适合法官。
+DESC	A flare that produces a very bright light for a short while. Point the flame away from yourself.	一根能在短时间内发出强光的信号棒。请让火焰背对自己。
+DESC	A frame that cyborgs are built on. Significantly less spooky than expected.	赛博格赖以构建的骨架。比想象中要不吓人得多。
+DESC	A hand-held environmental scanner which reports current gas levels.	一台手持环境扫描仪，可读取当前的气体浓度。
+DESC	A handheld tracking device that leads to the direction of the %()@#^!!???	一台手持追踪装置，指向 %()@#^!!??? 的方位
+DESC	A high efficiency generator that uses energy transfer between hot and cold gases to produce electricity.	一台高效发电机，利用冷热气体之间的能量传递发电。
+DESC	A large crushing machine used to recycle small items inefficiently. There are lights on the side.	一台大型压碎机，用来低效地回收小物件。侧面有几盏指示灯。
+DESC	A large storage container for holding unprocessed ores.	一个大型储物容器，用来存放未加工的矿石。
+DESC	A lizard had too much time on their hands when they made this.	某只蜥蜴人闲得发慌时做出来的东西。
+DESC	A machine board for a particle accelerator end cap.	粒子加速器端盖的机控板。
+DESC	A machine frame made to withstand the amount of pressure used in the station's disposal system.	一具机器框架，能承受空间站废物处理系统所用的压力。
+DESC	A machine printed circuit board for a blade server rack.	刀片服务器机架的机器印刷电路板。
+DESC	A machine printed circuit board for a nuclear fabricator.	核子制造机的机器印刷电路板。
+DESC	A machine printed circuit board for an autolathe.	自动车床的机器印刷电路板。
+DESC	A machine under construction. Needs more parts.	一台在建的机器。还需要更多零件。
+DESC	A metal piece of fencing cordoning off something likely very important.	一段金属围栏，拦着某样多半很重要的东西。
+DESC	A piece of tech that gives cyborgs new abilities.	一件能赋予赛博格新能力的技术模块。
+DESC	A rapidly growing cluster of slippery tendons. WHY THE HONKING HONK ARE YOU STOPPING TO LOOK AT IT?!	一团迅速增生的滑腻筋腱。你他喵的干嘛停下来盯着它看？！
+DESC	A refrigerated storage unit for keeping items cold and fresh.	一台冷藏储物柜，用来保持物品低温新鲜。
+DESC	A regal blue durathread boat cloak with a red felt lining and gold trim. Somehow, it's even more expensive than it looks.	一件威严的蓝色耐用纤维斗篷，红毡内衬配金色滚边。不知怎的，它比看上去还要贵。
+DESC	A sleek steel frame designed to hold a few blade servers. Compact functionality with a stylish aesthetic.	一具线条利落的钢制机架，可容纳数台刀片服务器。功能紧凑，造型时尚。
+DESC	A special machine intended to create a safe environment for the use of chemicals that react in cold environments.	一台特制机器，为使用低温环境下才反应的化学品提供安全环境。
+DESC	A spike for collecting meat from animals.	一根用来从动物身上取肉的挂钩。
+DESC	A strange artifact from time unknown. Looks like a good time. Fits in hand perfectly.	一件来自未知年代的奇异神器。看着挺好玩。握在手里正合适。
+DESC	A wooden stick with white streamers at the end. Originally used by shrine maidens to purify things. Now used by the station's weeaboos.	一根末端垂着白色纸垂的木杖。原本是巫女用来净化事物的法器，如今归空间站的二次元所有。
+DESC	An art piece showing the demise of a forest	一件描绘森林消亡的艺术品
+DESC	An electronics board used in mailing units.	用于邮寄单元的电子元件板。
+DESC	An electronics board used to detect differences in pressure, temperature and gas concentrations between the two sides of the door.	一块电子元件板，用于检测门两侧的气压、温度与气体浓度差异。
+DESC	An industrial machine used for expediting machine construction across the station.	一台工业机器，用来加快全站的机器建造。
+DESC	Contains less than 1% mercury.	汞含量低于 1%。
+DESC	Couldn't have seen that one coming.	这可真是猝不及防。
+DESC	Covered in dirt and oil. The screen is covered in something sticky.	沾满了污垢和机油。屏幕上还糊着某种黏糊糊的东西。
+DESC	Extracts seeds from produce.	从农产品中提取种子。
+DESC	Faint traces of a humanoid figure linger here	此处残留着一道人形身影的淡淡痕迹
+DESC	Fires a webball towards the clicked location.	朝点击位置发射一枚蛛网球。
+DESC	Hides what others shouldn't see.	遮住不该被别人看见的东西。
+DESC	Huh? Just a box...	嗯？只是个盒子……
+DESC	If you want to see the fate of democracies, look out the windows. It has a odd twist at the end that allows easy disarming of Visitors. Its archaic design requires no external power source.	想看看民主的下场，就往窗外瞧瞧。它末端有个古怪的弯钩，便于轻松缴械来访者。这种古旧的设计无需外接电源。
+DESC	Is able to reshape the hairstyle of any crew cut to your liking.	能把任何船员的发型修剪成你喜欢的样子。
+DESC	Is there a job for a witcher?	这儿有猎魔人的活儿吗？
+DESC	It lights the way to freedom.	它照亮通往自由的路。
+DESC	It opens, it closes, it might crush you, and there might be only space behind it.	它会打开，会关闭，没准还会把你压扁，而且门后可能只有太空。
+DESC	It's like it's staring right through you.	它仿佛正一眼看穿你。
+DESC	It's rude to stare.\nIt's also a bit odd you're looking at the abstract representation of the grid of reality.	盯着看可不礼貌。\n而且你居然在看现实网格的抽象表示，这本身也挺怪的。
+DESC	It's what keeps you to the floor.	正是它让你踩得住地板。
+DESC	Just a whole glass of meth.	满满一杯冰毒。
+DESC	Kept ya waiting, huh?	让你久等了吧？
+DESC	Melts you into a puddle of yuck!	把你融成一滩恶心玩意儿！
+DESC	Mirror mirror on the wall , who's the most robust of them all?	魔镜魔镜告诉我，谁是这里最能打的？
+DESC	Necessary for connecting two space craft together.	连接两艘航天器所必需。
+DESC	No moths were harmed in the making of these slippers.	制作这双拖鞋的过程中没有飞蛾受到伤害。
+DESC	Play Needles Piano Now.	现在就弹《Needles》钢琴曲。
+DESC	Prevents stations from moving.	防止空间站移动。
+DESC	Safely and efficiently extracts excess fat from a subject.	安全高效地抽出目标体内多余的脂肪。
+DESC	Success depends on forethought, dispassionate calculation of probabilities, accounting for every stray variable. Thats why this gun is the Gamorrah Weapon.	成功取决于深谋远虑、对概率的冷静计算，以及对每一个游离变量的考量。这正是这把枪之所以是戈莫拉之兵的原因。
+DESC	That is a firelock frame.	那是一具防火闸框架。
+DESC	The Experimental Lecter 8\nAn unreasonably expensive military grade assault rifle with integrated optic.\nUses .20 rifle ammo.	实验型莱克特 8\n一把贵得离谱的军用级突击步枪，集成瞄具。\n使用 .20 步枪弹。
+DESC	The archeologist's friend, able to identify the node of an artifact with only a single scan.	考古学家的好帮手，一次扫描即可识别神器的节点。
+DESC	The book looks new and adventurous, with a picture of Ian and Renault standing in front of an icy landscape with snowflakes falling all around them. The title, "The Adventures of Ian and Renault," is written in bold letters at the top, with a subtitle that reads, "An Arctic Journey of Courage and Friendship."\n2nd Edition.	这本书崭新而充满冒险气息，封面上伊恩和雷诺站在一片冰雪景致前，雪花在四周纷纷飘落。顶部用粗体写着书名《伊恩与雷诺历险记》，副标题则是「一段关于勇气与友谊的北极之旅」。\n第二版。
+DESC	The cheeks of an animal, capable of storing small objects.	某种动物的颊部，能储存小件物品。
+DESC	The holy light guides the way.	圣光指引前路。
+DESC	The poor Resomi can no longer chase their dreams	可怜的雷索米再也无法追逐他们的梦想了
+DESC	The spiritual and magical lung of a former opera singer. Though, to be honest, the vocal chords make the performance.	一位前歌剧演员那充满灵性与魔力的肺。不过说实话，真正撑起演出的是声带。
+DESC	There is a small label that reads "For Emergency use only" along with details for safe use of the shotgun. As if.	上面贴着一张小标签，写着「仅限紧急情况使用」，还附有霰弹枪的安全使用须知。信了才怪。
+DESC	Topped with chunky, dense nuggets of nutribrick.	顶上铺着大块紧实的营养砖粒。
+DESC	Used to put even bigger holes in areas you really hate.	用来在你最痛恨的地方炸出更大的窟窿。
+DESC	What is it...?	这是什么……？
+DESC	You can't even see the bottom.	你根本看不到底。
+> 以下为「通用类目词误译」修正批次：这些实体自己有独立英文名，
+> 但译文被写成了父原型的类目词（物品/武器/结构/家具/弹药/状态效果）。
+NAME	120mm blast grenade	120mm 爆破榴弹
+NAME	Apollo Heavy Laser Cannon	阿波罗重型激光炮
+NAME	DONK CO. Chono Loke bundle	当克公司 Chono Loke 套装
+NAME	Dravon 75mm Artillery Cannon	德拉冯 75mm 火炮
+NAME	Drozd	德罗兹德
+NAME	ForceableFollow finka	强制跟随芬卡
+NAME	Herakles fist	赫拉克勒斯之拳
+NAME	Lawbringer	执法官
+NAME	Lecter	莱克特
+NAME	Leikha	蕾卡
+NAME	Leviathan 240mm Siege Cannon	利维坦 240mm 攻城炮
+NAME	Nullspace stabilizer particles	零空间稳定粒子
+NAME	Open PDA	打开 PDA
+NAME	Peacemaker	和平缔造者
+NAME	Pitbull	斗牛犬
+NAME	Scylla Laser Railgun	斯库拉激光轨道炮
+NAME	Spectral Blade	幽灵之刃
+NAME	Wood Pew	木质长椅
+NAME	abductor operating table	绑架者手术台
+NAME	abyss	深渊
+NAME	acidic gas grenade	酸性气体手雷
+NAME	added Structural damage to unarmed attacks	徒手攻击附加结构伤害
+NAME	alien pistol	外星手枪
+NAME	alien table	外星桌
+NAME	ammonia egg	氨蛋
+NAME	apollo plasma bolt	阿波罗等离子弹
+NAME	atm	自动柜员机
+NAME	aurora caelus	天极极光
+NAME	autoloader unit	自动装填单元
+NAME	azure water	蔚蓝之水
+NAME	banana energy sword	香蕉能量剑
+NAME	boxcutter	美工刀
+NAME	carp chair	鲤鱼椅
+NAME	cascad	卡斯卡德
+NAME	chono loke	Chono Loke
+NAME	coat rack	衣帽架
+NAME	combat shotgun	战斗霰弹枪
+NAME	comfy chair	舒适座椅
+NAME	corgi arrow	柯基箭
+NAME	cosmic	宇宙
+NAME	cybernetic freeze ray	赛博冷冻射线枪
+NAME	cybernetic radcaster	赛博辐射投射器
+NAME	cybernetics disrupted	赛博组件失效
+NAME	cycler shotgun	循环式霰弹枪
+NAME	dark breaker portal	暗界破门传送门
+NAME	dark hub	暗界枢纽
+NAME	dark net	暗网
+NAME	dawnbreaker	破晓者
+NAME	declone bolt	反克隆弹
+NAME	decloner	反克隆枪
+NAME	diamond pickaxe	钻石镐
+NAME	diner booth	餐厅卡座
+NAME	dispatcher	调度者
+NAME	disposable ballistic turret	一次性实弹炮塔
+NAME	dominator	支配者
+NAME	double stun baton	双头电击警棍
+NAME	due process	正当程序
+NAME	dynamre plasma blob	迪纳姆等离子团
+NAME	emerald lizitar	翡翠蜥吉他
+NAME	energy chainsword	能量链锯剑
+NAME	enforcer	执法者
+NAME	evil cleanade grenade round	邪恶清洁弹榴弹
+NAME	expedition firing pin	远征击发销
+NAME	fancy cane	华丽手杖
+NAME	finka	芬卡
+NAME	fire assist mainframe	火控辅助主机
+NAME	flimsy lattice	脆弱格架
+NAME	forged double-barrel shotgun	锻造双管霰弹枪
+NAME	glue grenade	胶水手雷
+NAME	grandfather clock	落地大摆钟
+NAME	gunnery console	炮术控制台
+NAME	holding breath	屏住呼吸
+NAME	holocuffs	全息手铐
+NAME	homerun bat	全垒打球棒
+NAME	hyper advanced SMES	超先进 SMES
+NAME	immolator laser gun	焚化者激光枪
+NAME	immunity to Bloodloss	失血免疫
+NAME	integrated flash	内置闪光弹
+NAME	integrated holobarrier projector	内置全息屏障投影仪
+NAME	john toe polybolt	约翰·托聚合弹
+NAME	jungle hawk	丛林鹰
+NAME	laser beam	激光束
+NAME	lube grenade	润滑剂手雷
+NAME	magnum laser bolt	马格南激光弹
+NAME	magnum window-piercing bolt	马格南穿窗弹
+NAME	makarov	马卡洛夫
+NAME	makeshift anvil	简易铁砧
+NAME	mantis blade	螳螂刃
+NAME	marriage axe	婚约之斧
+NAME	meat debris large	大块肉屑
+NAME	military point defense battery	军用近防炮组
+NAME	miniature energy gun	微型能量枪
+NAME	modified hydra	改装九头蛇
+NAME	mute	失声
+NAME	netrunner bathroom	网络行者盥洗室
+NAME	nt4 player	NT4 播放器
+NAME	observation masterchair	观测主控椅
+NAME	peacekeeper	维和者
+NAME	phoronic cascade	磷光级联
+NAME	point defense battery	近防炮组
+NAME	poison spider web	毒蛛网
+NAME	prison bars	监狱铁栏
+NAME	proto-5x energy gun	原型 5X 能量枪
+NAME	purple stun baton	紫色电击警棍
+NAME	radstorm	辐射风暴
+NAME	regal chair	华贵座椅
+NAME	regal throne	华贵王座
+NAME	remote salvage shuttle console	远程打捞穿梭机控制台
+NAME	rescue knife	救援刀
+NAME	resilience to death	濒死抗性
+NAME	riot shotgun	防暴霰弹枪
+NAME	sacred chainsaw sword	神圣链锯剑
+NAME	sawn-off riot shotgun	截短防暴霰弹枪
+NAME	scylla laser bolt	斯库拉激光弹
+NAME	shiv	自制利刃
+NAME	shuttle weapons control console	穿梭机武器控制台
+NAME	sleek office chair	简约办公椅
+NAME	slime spider web	史莱姆蛛网
+NAME	smartgun bolt assembly	智能枪机组件
+NAME	sniper bolt	狙击弹
+NAME	solar flare	太阳耀斑
+NAME	sp-8ar	SP-8AR
+NAME	sp-8t	SP-8T
+NAME	space whale	太空鲸
+NAME	spiderlings spider web	幼蛛蛛网
+NAME	standing microphone	立式麦克风
+NAME	stealth spider web	隐形蛛网
+NAME	stechkin pistol	斯捷奇金手枪
+NAME	stun fist	电击之拳
+NAME	the dark	黑暗
+NAME	thick spider web	厚蛛网
+NAME	tidebreaker	破潮者
+NAME	toecloner	脚趾克隆机
+NAME	trash debris large	大块垃圾碎屑
+NAME	true arm blade	真臂刃
+NAME	uncrittable	免濒死
+NAME	wizard personal ai device	巫师个人 AI 设备
+NAME	wonderprod	奇迹电棒
+NAME	xenoborg bitterfrost cannon	异形赛博格苦霜炮
+NAME	zeus fist	宙斯之拳

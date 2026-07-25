@@ -702,14 +702,19 @@ ent-BorgModuleTSFCombat = TSMC 战斗赛博格模块
     .desc = 允许赛博格使用战斗装备的 TSMC 模块。
 
 ent-BorgModulePaperwork = 文书赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleBartending = 调酒赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleBooks = 图书管理赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleBotany = 植物学赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleCooking = 烹饪赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleSyndicateAdvancedTool = 辛迪加高级工具赛博格模块
     .desc = 高级工具模块的辛迪加版本，含伪装的辛迪加救援钳。
@@ -733,22 +738,28 @@ ent-BorgModuleSyndicatePaperwork = 辛迪加文书模块
     .desc = 可用于伪造文件。
 
 ent-BorgModuleSurgical = 手术赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-XenoborgModuleRCD = 工程异种赛博格模块
     .desc = 带有可充能异种赛博格 RCD 的模块。
 
 ent-BorgModuleHold = 搬运赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleMail = 邮务赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleAdvancedLoading = 高级装载赛博格模块
     .desc = 货运赛博格的高级模块，配有专用液压夹。
 
 ent-BorgModuleAdvancedPlumbing = 高级管道赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleMakeshiftKnife = 临时刀具赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleTeaPartyMAG = TeaPartyMAG 赛博格模块
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleMiningDefense = 采矿防御赛博格模块
     .desc = 使赛博格具备一定的防御能力。法则一还完好无损吗？

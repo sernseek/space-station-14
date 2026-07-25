@@ -43,6 +43,7 @@ ent-ClothingBeltNTNC = NTNC 腰带
 
 
 ent-ClothingHeadsetAltNTNC = NTNC 耳麦
+    .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 
 ent-ClothingEyesGlassesNTNC = 纳米传讯海军陆战队眼镜

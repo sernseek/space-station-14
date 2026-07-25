@@ -74,6 +74,7 @@ ent-RandomHumanoidSpawnerNukeOp = 核弹特工
 ent-RandomHumanoidSpawnerCluwne = 受诅小丑
 
 ent-EtherealJaunt = 灵界漫步
+    .desc = 此处残留着一道人形身影的淡淡痕迹
 
 ent-DesynchronizedPocket = 失同步时空袋
     .desc = 时空中的一处囊袋，让使用者始终处于数分之一秒后的未来。

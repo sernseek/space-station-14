@@ -239,6 +239,7 @@ ent-MagazineGrenadeCleanade = 清洁弹榴弹弹药筒
 ent-MagazineGrenadeCleanadeSyndicate = “清洁弹”榴弹弹药筒
 
 ent-InfernalJaunt = 遁行
+    .desc = 此处残留着一道人形身影的淡淡痕迹
 
 ent-MobRodentia = 尤里斯特·麦鼠
 
