@@ -835,3 +835,22 @@ head of security's	安保主管
 chief engineer's	工程主管
 chief medical officer's	医疗主管
 research director's	研究主管
+> 控制台设备名词元（电力/大气监控台、穿梭机地图）。
+apc	APC
+substation	变电站
+smes	SMES
+air alarm	空气警报器
+fire alarm	火警警报器
+alarm	警报器
+air	空气
+fire	火警
+grid	网格
+wallmount	壁挂
+hyper capacity	超大容量
+high capacity	大容量
+super capacity	特大容量
+advanced	先进
+basic	基础
+sensor	传感器
+monitor	监视器
+scrubber	洗涤器

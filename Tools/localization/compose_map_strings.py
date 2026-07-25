@@ -52,8 +52,16 @@ def existing_keys() -> set[str]:
             if (m := re.match(r"^map-string-([a-z0-9-]+)\s*=", line))}
 
 
+# 地图作者写设备名有两种语序："Bar APC" 和 "APC (Bar)"。中文只有前一种读得通，
+# 所以先把括号里的限定语提到前面，再走词元拼接。
+PAREN_RE = re.compile(r"^(.*?)\s*\(([^()]+)\)\s*$")
+
+
 def compose(raw: str, tokens: dict[str, str]) -> str | None:
     """拼接译名；一个已知词元都没命中就返回 None（整条留英文比拼半截强）。"""
+    if m := PAREN_RE.match(raw.strip()):
+        raw = f"{m.group(2)} {m.group(1)}"
+
     words = TOKEN_RE.findall(raw)
     max_phrase = max((len(k.split()) for k in tokens if " " in k), default=1)
 
@@ -99,12 +107,15 @@ def main() -> int:
 
     tokens = load_tokens()
     have = existing_keys()
-    warps, cams = collect()
+    warps, cams, devices = collect()
 
     stems: Counter = Counter()
     for name, count in cams.items():
         stems[stem(name)] += count
     for name, count in warps.items():
+        stems[name] += count
+    # 控制台里的设备名（"Bar APC"、"air alarm (Cargo Bay)"）和区域名共用同一套词元
+    for name, count in devices.items():
         stems[name] += count
 
     composed: list[tuple[str, str, str, int]] = []   # slug, 原文, 译文, 实例数

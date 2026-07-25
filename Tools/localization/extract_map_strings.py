@@ -26,6 +26,10 @@ MAPS = REPO / "Resources/Maps"
 
 FIELD_OF = {"WarpPoint": "location", "SurveillanceCamera": "id"}
 
+# MetaData 上被地图作者改写过名字、且会出现在某个控制台列表里的原型。
+# 电力监控台列 APC/变电站/SMES，大气监控台列空气与火警警报器，穿梭机地图列网格。
+DEVICE_PROTO_HINTS = ("APC", "Substation", "SMES", "AirAlarm", "FireAlarm")
+
 
 def slug(raw: str) -> str:
     out: list[str] = []
@@ -50,16 +54,31 @@ def stem(raw: str) -> str:
     return t[:i].rstrip() if 0 < i < len(t) else raw
 
 
-def collect() -> tuple[Counter, Counter]:
+def collect() -> tuple[Counter, Counter, Counter]:
+    """(传送点, 摄像头, 控制台会列出的设备/网格名)"""
     warps: Counter = Counter()
     cams: Counter = Counter()
+    devices: Counter = Counter()
     for path in MAPS.rglob("*.yml"):
         ctx = None
+        proto = None
         for line in path.read_text(encoding="utf-8-sig", errors="replace").splitlines():
             s = line.strip()
+            if s.startswith("- proto:"):
+                # 网格实体写成裸 `- proto:`，没有值
+                proto = s[8:].strip() or "(grid)"
+                continue
             if s.startswith("- type: "):
                 ctx = s[8:].strip()
                 continue
+
+            if ctx == "MetaData" and s.startswith("name:"):
+                val = s[5:].strip().strip("\"'")
+                if val and proto and (proto == "(grid)"
+                                      or any(h in proto for h in DEVICE_PROTO_HINTS)):
+                    devices[val] += 1
+                continue
+
             field = FIELD_OF.get(ctx or "")
             if not field or not s.startswith(field + ":"):
                 continue
@@ -67,7 +86,7 @@ def collect() -> tuple[Counter, Counter]:
             if not val:
                 continue
             (warps if ctx == "WarpPoint" else cams)[val] += 1
-    return warps, cams
+    return warps, cams, devices
 
 
 def main() -> int:
@@ -76,12 +95,13 @@ def main() -> int:
     ap.add_argument("--min-count", type=int, default=1)
     args = ap.parse_args()
 
-    warps, cams = collect()
+    warps, cams, devices = collect()
     cam_stems: Counter = Counter()
     for k, v in cams.items():
         cam_stems[stem(k)] += v
 
     print(f"WarpPoint.location   实例 {sum(warps.values())}  去重 {len(warps)}")
+    print(f"控制台设备/网格名     实例 {sum(devices.values())}  去重 {len(devices)}")
     print(f"Camera.id            实例 {sum(cams.values())}  去重 {len(cams)}  去编号后 {len(cam_stems)}")
     for n in (100, 200, 400, 800):
         acc = sum(v for _, v in cam_stems.most_common(n))
@@ -90,6 +110,10 @@ def main() -> int:
     if args.list:
         print("\n# WARP")
         for k, v in warps.most_common():
+            if v >= args.min_count:
+                print(f"{v}\t{slug(k)}\t{k}")
+        print("\n# DEVICE")
+        for k, v in devices.most_common():
             if v >= args.min_count:
                 print(f"{v}\t{slug(k)}\t{k}")
         print("\n# CAMERA")

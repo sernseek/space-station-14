@@ -1,3 +1,4 @@
+using Content.Shared.Localization; // zh-CN
 using System.Linq;
 using System.Numerics;
 using Content.Client.Shuttles.Systems;
@@ -267,7 +268,7 @@ public sealed partial class MapScreen : BoxContainer
             {
                 continue;
             }
-            var mapName = mapMetadata.EntityName;
+            var mapName = MapStringLocalizer.Localize(mapMetadata.EntityName); // zh-CN
 
             if (string.IsNullOrEmpty(mapName))
             {
@@ -449,7 +450,7 @@ public sealed partial class MapScreen : BoxContainer
 
         var gridButton = new Button()
         {
-            Text = mapObj.Name,
+            Text = MapStringLocalizer.Localize(mapObj.Name), // zh-CN
             HorizontalExpand = true,
         };
 

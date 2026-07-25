@@ -1,3 +1,4 @@
+using Content.Shared.Localization; // zh-CN
 using Content.Client.Resources; // zh-CN
 using Content.Client.Stylesheets;
 using Content.Shared.Atmos;
@@ -79,7 +80,7 @@ public sealed partial class AtmosAlarmEntryContainer : BoxContainer
         AlarmStateLabel.FontColorOverride = GetAlarmStateColor(entry.AlarmState);
 
         // Update alarm name
-        AlarmNameLabel.Text = Loc.GetString("atmos-alerts-window-alarm-label", ("name", entry.EntityName), ("address", entry.Address));
+        AlarmNameLabel.Text = Loc.GetString("atmos-alerts-window-alarm-label", ("name", MapStringLocalizer.Localize(entry.EntityName)), ("address", entry.Address));
 
         // Focus updates
         FocusContainer.Visible = isFocus;

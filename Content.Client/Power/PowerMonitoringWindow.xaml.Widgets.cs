@@ -1,3 +1,4 @@
+using Content.Shared.Localization; // zh-CN
 using Content.Client.Stylesheets;
 using Content.Shared.Power;
 using Robust.Client.Graphics;
@@ -95,7 +96,10 @@ public sealed partial class PowerMonitoringWindow
             button.TextureRect.Texture = _spriteSystem.Frame0(new SpriteSpecifier.Rsi(new ResPath(entry.MetaData.Value.SpritePath), entry.MetaData.Value.SpriteState));
 
         // Update name
-        var name = Loc.GetString(entry.MetaData.Value.EntityName);
+        // zh-CN: this is a resolved entity name, not a loc id — Loc.GetString only echoed it
+        // back and logged a warning. Maps rename APCs and substations per area ("Bar APC"),
+        // so route it through the map-string table instead.
+        var name = MapStringLocalizer.Localize(entry.MetaData.Value.EntityName);
         button.NameLocalized.Text = name;
 
         // Update tool tip
