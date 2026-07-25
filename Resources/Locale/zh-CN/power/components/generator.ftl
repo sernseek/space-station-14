@@ -38,3 +38,5 @@ power-switchable-voltage = { $voltage ->
 power-switchable-switch-voltage = 切换至 {$voltage}
 
 fuel-generator-verb-disable-on = 请先关闭发电机！
+portable-generator-ui-power-switch = 状态：
+portable-generator-ui-switch = 输出：
