@@ -90,7 +90,7 @@ public sealed partial class GasTankWindow
 
         LayoutContainer.SetAnchorPreset(topContainerWrap, LayoutContainer.LayoutPreset.Wide);
 
-        var font = _cache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
+        var font = _cache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 13); // zh-CN
 
         _topLabel = new Label
         {

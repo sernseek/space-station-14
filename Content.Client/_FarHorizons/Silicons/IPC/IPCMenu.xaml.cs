@@ -1,4 +1,5 @@
 using System.Linq;
+using Content.Client.Resources;
 using Content.Client.Stylesheets;
 using Content.Client.UserInterface.Controls;
 using Content.Shared._FarHorizons.Silicons.IPC;
@@ -32,7 +33,7 @@ public sealed partial class IPCMenu : FancyWindow
     [Dependency] private IEntityManager _entitymanager = default!;
     [Dependency] private IResourceCache _cache = default!;
 
-    public VectorFont ConsoleFont;
+    public Font ConsoleFont;
     private readonly NameModifierSystem _nameModifier;
     private readonly PowerCellSystem _powerCell;
     private readonly SharedBatterySystem _batterySystem;
@@ -61,7 +62,7 @@ public sealed partial class IPCMenu : FancyWindow
         RobustXamlLoader.Load(this);
         IoCManager.InjectDependencies(this);
 
-        ConsoleFont = new(_cache.GetResource<FontResource>("/Fonts/_FarHorizons/VT323/vt323-latin-400-normal.ttf"), 14);
+        ConsoleFont = _cache.GetFont(new[] { "/Fonts/_FarHorizons/VT323/vt323-latin-400-normal.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 14); // zh-CN
         StatusLabel.FontOverride = ConsoleFont;
 
         _nameModifier = _entitymanager.System<NameModifierSystem>();

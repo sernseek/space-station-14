@@ -12,7 +12,7 @@ public sealed class TextSheetlet : Sheetlet<PalettedStylesheet>
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)
     {
         // TODO: once fonts are reworked, change this!
-        var mono = ResCache.GetFont("/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", 12);
+        var mono = ResCache.GetFont(new[] { "/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 12); // zh-CN
 
         return
         [

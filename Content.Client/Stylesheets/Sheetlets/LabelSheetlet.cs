@@ -12,9 +12,9 @@ public sealed class LabelSheetlet : Sheetlet<PalettedStylesheet>
 {
     public override StyleRule[] GetRules(PalettedStylesheet sheet, object config)
     {
-        var robotoMonoBold11 = ResCache.GetFont("/Fonts/RobotoMono/RobotoMono-Bold.ttf", size: 11);
-        var robotoMonoBold12 = ResCache.GetFont("/Fonts/RobotoMono/RobotoMono-Bold.ttf", size: 12);
-        var robotoMonoBold14 = ResCache.GetFont("/Fonts/RobotoMono/RobotoMono-Bold.ttf", size: 14);
+        var robotoMonoBold11 = ResCache.GetFont(new[] { "/Fonts/RobotoMono/RobotoMono-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, size: 11); // zh-CN
+        var robotoMonoBold12 = ResCache.GetFont(new[] { "/Fonts/RobotoMono/RobotoMono-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, size: 12); // zh-CN
+        var robotoMonoBold14 = ResCache.GetFont(new[] { "/Fonts/RobotoMono/RobotoMono-Bold.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf" }, size: 14); // zh-CN
 
         return
         [

@@ -1,4 +1,5 @@
 ﻿using System.Numerics;
+using Content.Client.Resources;
 using Content.Client.Stylesheets;
 using Content.Client.UserInterface.Controls;
 using Robust.Client.Graphics;
@@ -180,8 +181,10 @@ public sealed class SLLabel : Label
     }
     public SLLabel WithFont(string path, int size)
     {
-        var font = new VectorFont(IoCManager.Resolve<IResourceCache>().GetResource<FontResource>(path), size);
-        FontOverride = font;
+        // zh-CN: stack the CJK face behind the requested one; it only kicks in per-glyph
+        // when the primary font has no glyph, so Latin rendering is unchanged.
+        FontOverride = IoCManager.Resolve<IResourceCache>()
+                                 .GetFont(new[] { path, "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, size);
         return this;
     }
 }

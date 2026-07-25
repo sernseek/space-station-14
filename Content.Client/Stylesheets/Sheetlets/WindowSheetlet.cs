@@ -124,7 +124,7 @@ public sealed class WindowSheetlet<T> : Sheetlet<T>
             // Title
             E<Label>()
                 .Class("FancyWindowTitle") // TODO: hardcoding class name
-                .Font(ResCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13)) // TODO: hardcoding font
+                .Font(ResCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 13)) // TODO: hardcoding font // zh-CN
                 .FontColor(sheet.HighlightPalette.Text),
 
             // Help Button

@@ -145,8 +145,8 @@ namespace Content.Client.Wires.UI
 
             LayoutContainer.SetAnchorPreset(topContainerWrap, LayoutContainer.LayoutPreset.Wide);
 
-            var font = _resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
-            var fontSmall = _resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 10);
+            var font = _resourceCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 13); // zh-CN
+            var fontSmall = _resourceCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 10); // zh-CN
 
             Button helpButton;
             var topRow = new BoxContainer
@@ -564,7 +564,7 @@ namespace Content.Client.Wires.UI
                     };
                 }
 
-                var font = resourceCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 12);
+                var font = resourceCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 12); // zh-CN
 
                 var hBox = new BoxContainer
                 {

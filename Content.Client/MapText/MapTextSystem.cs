@@ -71,11 +71,22 @@ public sealed partial class MapTextSystem : SharedMapTextSystem
             component.Color = Color.Red;
 
             if(_prototypeManager.TryIndex<FontPrototype>(SharedMapTextComponent.DefaultFont, out var @default))
-                component.CachedFont = new VectorFont(_resourceCache.GetResource<FontResource>(@default.Path), 14);
+                component.CachedFont = StackCjk(@default.Path, 14);
             return;
         }
 
-        var fontResource = _resourceCache.GetResource<FontResource>(fontPrototype.Path);
-        component.CachedFont = new VectorFont(fontResource, component.FontSize);
+        component.CachedFont = StackCjk(fontPrototype.Path, component.FontSize);
+    }
+
+    /// <summary>
+    /// zh-CN: map signage resolves its face straight off <see cref="FontPrototype"/>, which has no
+    /// CJK glyphs. Stack the CJK face behind it — <see cref="StackedFont"/> falls back per glyph, so
+    /// Latin signage renders exactly as before.
+    /// </summary>
+    private Font StackCjk(ResPath path, int size)
+    {
+        return new StackedFont(
+            new VectorFont(_resourceCache.GetResource<FontResource>(path), size),
+            new VectorFont(_resourceCache.GetResource<FontResource>("/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf"), size));
     }
 }

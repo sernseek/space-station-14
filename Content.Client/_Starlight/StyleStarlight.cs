@@ -150,7 +150,7 @@ public sealed class StyleStarlight : StyleBase
         var notoSansBold16 = resCache.NotoStack(variation: "Bold", size: 14);
         var notoSansBold18 = resCache.NotoStack(variation: "Bold", size: 16);
         var notoSansBold20 = resCache.NotoStack(variation: "Bold", size: 18);
-        var notoSansMono = resCache.GetFont("/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", size: 10);
+        var notoSansMono = resCache.GetFont(new[] { "/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, size: 10); // zh-CN
         var windowHeaderTex = resCache.GetTexture("/Textures/_Starlight/Interface/Nano/window_header.png");
         var windowHeader = new StyleBoxTexture
         {
@@ -495,7 +495,7 @@ public sealed class StyleStarlight : StyleBase
         var sliderFillBlue = new StyleBoxTexture(sliderFillBox) { Modulate = Color.Blue };
         var sliderFillWhite = new StyleBoxTexture(sliderFillBox) { Modulate = Color.White };
 
-        var boxFont13 = resCache.GetFont("/Fonts/Boxfont-round/Boxfont Round.ttf", 13);
+        var boxFont13 = resCache.GetFont(new[] { "/Fonts/Boxfont-round/Boxfont Round.ttf", "/Fonts/NotoSansSC/NotoSansCJKsc-Regular.otf" }, 13); // zh-CN
 
         var insetBack = new StyleBoxTexture
         {
