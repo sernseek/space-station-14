@@ -1,0 +1,20 @@
+[head=1][color=#009100]────────────────────[/color][/head]
+[color=#cc0000]█▀▀ █▀▀ █▀▀▄[/color] [head=3]   [color=#cc0000]中央安全部 [/color][/head]
+[color=#cc0000]█░░ ▀▀█ █░░█[/color][bolditalic]     [color=#cc0000]根除纳米传讯之敌[/color][/bolditalic]
+[color=#cc0000]▀▀▀ ▀▀▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]官方 CSD 处文件[/italic][/color]
+[head=1][color=#009100]────────────────────[/color][/head]
+[head=1][color=#cc0000]机密安全文件[/color][/head]
+[head=1][color=#009100]────────────────────[/color][/head]
+[mono]
+[bold]主题：[/bold]巫师联邦
+[bold]关联：[/bold]不明
+[bold]目标：[/bold]不明
+
+巫师联邦是一个不同寻常、且具有巨大危害潜力的团体。他们声称掌握「魔法」，利用某种未知技术制造出我们尚未完全理解的效果。这套把戏流传甚广，信众众多——但它就是把戏，是障眼法。
+
+调查人员得出结论：巫师联邦本身甚至并不作为一个正式实体存在，而只是这些信众与江湖骗子的松散集合。
+
+无论这些效果是如何产生的，它们都可能极其危险。与自认为是「巫师」的人打交道时，建议保持谨慎。
+[/mono]
+
+[head=1][color=#009100]────────────────────[/color][/head]

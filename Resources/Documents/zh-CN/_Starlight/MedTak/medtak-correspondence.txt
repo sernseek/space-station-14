@@ -1,0 +1,13 @@
+[mono]
+MedTak 官方函件
+ ┌──────────┐
+ 发件人：  [signature]
+ 优先级：  [/mono][check][mono]常规
+           [/mono][check][mono]紧急
+           [/mono][check][mono]特急
+ └──────────┘
+ [form]
+ ┌──────────┐
+ 签署：    [signature]
+ └──────────┘
+[/mono]
