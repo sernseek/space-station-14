@@ -93,7 +93,7 @@ namespace Content.Client.ContextMenu.UI
                 return GetEntityDescriptionAdmin(entity);
             }
 
-            return Identity.Name(entity, _entityManager, _playerManager.LocalEntity!);
+            return Content.Shared.Localization.MapStringLocalizer.Localize(Identity.Name(entity, _entityManager, _playerManager.LocalEntity!)); // zh-CN: localize map-authored device names
         }
 
         /// <summary>
