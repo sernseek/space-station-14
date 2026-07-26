@@ -239,7 +239,7 @@ namespace Content.Client.Examine
 
             if (knowTarget)
             {
-                name = Identity.Name(target, EntityManager, player); // Starlight: Do not blanket escape.; name edits
+                name = Content.Shared.Localization.MapStringLocalizer.Localize(Identity.Name(target, EntityManager, player)); // Starlight: Do not blanket escape.; name edits // zh-CN: localize map-authored device names
                 var labelMessage = FormattedMessage.FromMarkupPermissive($"[bold]{name}[/bold]") // starlight-edit: name edits
                         .SanitizeWhitelist(FormattedMessageSanitizer.ItemLabelTags); // Starlight: Instead, sanitize to permitted tags.
                 // Starlight begin
