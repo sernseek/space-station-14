@@ -1,10 +1,13 @@
 store-category-plushies = 毛绒玩具
+store-category-plushie-toys = 玩具
 store-category-plushie-species = 物种
+store-category-plushie-crew = 船员
 
 store-category-medical-chemistry = 化学
 store-category-medical-medical = 医疗
 store-category-medical-surgery = 外科手术
-store-category-enginery-main = 工程
+store-category-engineering-main = 工程
+store-category-engineering-atmos = 大气
 store-category-service-clown = 小丑
 store-category-service-mime = 哑剧演员
 store-category-security-main = 安保

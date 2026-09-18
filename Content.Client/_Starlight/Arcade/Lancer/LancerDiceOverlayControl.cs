@@ -46,9 +46,9 @@ public sealed partial class LancerDiceOverlayControl : Control
     private Control? _phasePanel;
     private Control? _columnRoot;
     private bool _preferBoard;
-    private VectorFont? _titleFont;
-    private VectorFont? _resultFont;
-    private VectorFont? _d20FaceFont;
+    private Font? _titleFont;
+    private Font? _resultFont;
+    private Font? _d20FaceFont;
 
     private enum RollPhase
     {
@@ -106,10 +106,12 @@ public sealed partial class LancerDiceOverlayControl : Control
         VerticalExpand = true;
         AlwaysRender = true;
 
+        // zh-CN: the labels drawn here are localized, so stack a CJK face under the Latin font.
         var fontRes = _resourceCache.GetResource<FontResource>("/Fonts/NotoSans/NotoSans-Bold.ttf");
-        _titleFont = new VectorFont(fontRes, 14);
-        _resultFont = new VectorFont(fontRes, 16);
-        _d20FaceFont = new VectorFont(fontRes, 36);
+        var cjkRes = _resourceCache.GetResource<FontResource>("/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf");
+        _titleFont = new StackedFont(new VectorFont(fontRes, 14), new VectorFont(cjkRes, 14));
+        _resultFont = new StackedFont(new VectorFont(fontRes, 16), new VectorFont(cjkRes, 16));
+        _d20FaceFont = new StackedFont(new VectorFont(fontRes, 36), new VectorFont(cjkRes, 36));
     }
 
     public void BindBoard(LancerBoardControl boardControl)

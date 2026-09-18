@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightRefinery
-  mapName: 'Refinery Starport'
+  mapName: 精炼星港
   mapPath: /Maps/_Starlight/Stations/Refinery.yml
   minPlayers: 100
   maxPlayers: 350

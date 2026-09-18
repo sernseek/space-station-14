@@ -48,7 +48,12 @@ public sealed class ZonePlacementOverlay : Robust.Client.Graphics.Overlay
         _transform = transform;
         _eye = eye;
         _proto = proto;
-        _font = cache.GetFont("/Fonts/NotoSans/NotoSans-Bold.ttf", 11);
+        // zh-CN: zone names are localized, so stack a CJK face under the label font.
+        _font = cache.GetFont(new[]
+        {
+            "/Fonts/NotoSans/NotoSans-Bold.ttf",
+            "/Fonts/NotoSansSC/NotoSansCJKsc-Bold.otf",
+        }, 11);
 
         ZIndex = 1000;
     }

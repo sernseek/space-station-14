@@ -31,7 +31,6 @@ store-category-nukie-delivery = 特价商品
 store-category-languages = 语言
 
 # Starlight 的商店分类，name: 原本直接写英文单词，Loc.GetString 查不到就原样显示。
-store-category-sl-crew = 船员
 store-category-sl-brigmedic = 狱医
 store-category-sl-fashion-skirt = 华贵裙装
 store-category-sl-fashion-suit = 优雅西装

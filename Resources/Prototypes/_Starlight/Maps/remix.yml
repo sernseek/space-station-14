@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightRemix
-  mapName: 'Remix'
+  mapName: 混音站
   mapPath: /Maps/_Starlight/Stations/Remix.yml
   minPlayers: 0
   maxPlayers: 35

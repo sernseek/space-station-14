@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightNovoLobster
-  mapName: 'Novo Lobster'
+  mapName: 新龙虾站
   mapPath: /Maps/_Starlight/Stations/NovoLobster.yml
   minPlayers: 40
   maxPlayers: 350

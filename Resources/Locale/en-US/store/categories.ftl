@@ -34,7 +34,6 @@ store-category-languages = Languages
 
 # Starlight store categories whose name: field held a bare English word, which
 # Loc.GetString echoed back verbatim instead of translating.
-store-category-sl-crew = Crew
 store-category-sl-brigmedic = Medical
 store-category-sl-fashion-skirt = Luxury dresses
 store-category-sl-fashion-suit = Elegant suits
