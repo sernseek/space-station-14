@@ -33,6 +33,10 @@ using Content.Shared._Starlight.Overlay.Components;
 using Content.Shared._Starlight.Changeling;
 using Content.Server._Starlight.Objectives.Components;
 using Content.Shared.Flash;
+using Content.Shared.Store;
+using Content.Server.Ensnaring;
+using Content.Shared.Ensnaring.Components;
+using Content.Shared.Tag;
 // Starlight edit end
 
 namespace Content.Server._Starlight.Changeling;
@@ -43,9 +47,12 @@ public sealed partial class ChangelingSystem : EntitySystem
     [Dependency] private ChangelingIdentitySystem _changelingIdentitySystem = default!;
     [Dependency] private LanguageSystem _language = default!;
     [Dependency] private SharedFlashSystem _flashSystem = default!;
+    [Dependency] private TagSystem _tag = default!;
+    [Dependency] private EnsnareableSystem _ensnareable = default!;
 
     private static readonly ProtoId<ReagentPrototype> FerrochromicAcidPrototype = "FerrochromicAcid";
     private static readonly ProtoId<ReagentPrototype> PolytrinicAcidPrototype = "PolytrinicAcid";
+    private static readonly ProtoId<TagPrototype> BolaTag = "Bola";
 
     public void SubscribeAbilities()
     {
@@ -81,7 +88,7 @@ public sealed partial class ChangelingSystem : EntitySystem
         SubscribeLocalEvent<ChangelingComponent, ActionLastResortEvent>(OnLastResort);
         SubscribeLocalEvent<ChangelingComponent, ActionLesserFormEvent>(OnLesserForm);
         SubscribeLocalEvent<ChangelingComponent, ActionSpacesuitEvent>(OnSpacesuit);
-        SubscribeLocalEvent<ChangelingComponent, ActionProtogenDisguiseEvent>(OnProtogenDisguise); // Starlight
+        SubscribeLocalEvent<ChangelingComponent, ActionNeocyteDisguiseEvent>(OnNeocyteDisguise); // Starlight
         SubscribeLocalEvent<ChangelingComponent, ActionHivemindAccessEvent>(OnHivemindAccess);
         SubscribeLocalEvent<ChangelingComponent, FakeMindShieldToggleEvent>(OnFakeMindShieldToggle);
 
@@ -190,7 +197,7 @@ public sealed partial class ChangelingSystem : EntitySystem
 
         if (TryComp<StoreComponent>(uid, out var store))
         {
-            _store.TryAddCurrency(new Dictionary<string, FixedPoint2> { { "EvolutionPoint", bonusEvolutionPoints } }, uid, store);
+            _store.TryAddCurrency(new Dictionary<ProtoId<CurrencyPrototype>, FixedPoint2> { { "EvolutionPoint", bonusEvolutionPoints } }, uid, store);
             _store.UpdateUserInterface(uid, uid, store);
         }
 
@@ -375,7 +382,7 @@ public sealed partial class ChangelingSystem : EntitySystem
             return;
 
         var target = args.Target;
-        var fakeArmblade = EntityManager.SpawnEntity(FakeArmbladePrototype, Transform(target).Coordinates);
+        var fakeArmblade = Spawn(FakeArmbladePrototype, Transform(target).Coordinates);
         if (!_hands.TryPickupAnyHand(target, fakeArmblade))
         {
             QueueDel(fakeArmblade);
@@ -458,6 +465,20 @@ public sealed partial class ChangelingSystem : EntitySystem
             }
 
             QueueDel(cuff);
+        }
+
+        // Remove bolas
+        if (TryComp<EnsnareableComponent>(uid, out var ensnareable))
+        {
+            foreach (var ensnaring in ensnareable.Container.ContainedEntities)
+            {
+                if (!TryComp<EnsnaringComponent>(ensnaring, out var ensnaringComponent) || !_tag.HasTag(ensnaring, BolaTag))
+                    continue;
+
+                _ensnareable.ForceFree(ensnaring, ensnaringComponent);
+                QueueDel(ensnaring);
+                break;
+            }
         }
 
         var soln = new Solution();
@@ -602,11 +623,11 @@ public sealed partial class ChangelingSystem : EntitySystem
         PlayMeatySound(uid, comp);
     }
     #region Starlight
-    public void OnProtogenDisguise(EntityUid uid, ChangelingComponent comp, ref ActionProtogenDisguiseEvent args)
+    public void OnNeocyteDisguise(EntityUid uid, ChangelingComponent comp, ref ActionNeocyteDisguiseEvent args)
     {
-        if (!TryToggleItem(uid, ProtogenDisguisePrototype, comp, "outerClothing2"))
+        if (!TryToggleItem(uid, NeocyteDisguisePrototype, comp, "outerClothing2"))
         {
-            _popup.PopupEntity(Loc.GetString("changeling-equip-protogen-fail"), uid, uid);
+            _popup.PopupEntity(Loc.GetString("changeling-equip-neocyte-fail"), uid, uid);
             comp.Chemicals += Comp<ChangelingActionComponent>(args.Action).ChemicalCost;
             return;
         }

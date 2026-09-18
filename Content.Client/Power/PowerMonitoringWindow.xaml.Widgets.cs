@@ -96,14 +96,17 @@ public sealed partial class PowerMonitoringWindow
             button.TextureRect.Texture = _spriteSystem.Frame0(new SpriteSpecifier.Rsi(new ResPath(entry.MetaData.Value.SpritePath), entry.MetaData.Value.SpriteState));
 
         // Update name
-        // zh-CN: this is a resolved entity name, not a loc id — Loc.GetString only echoed it
-        // back and logged a warning. Maps rename APCs and substations per area ("Bar APC"),
-        // so route it through the map-string table instead.
-        var name = MapStringLocalizer.Localize(entry.MetaData.Value.EntityName);
+        // no Loc.GetString, as the name already gets localized in PowerMonitoringConsoleSystem
+        // zh-CN: maps rename APCs and substations per area ("Bar APC"); those raw strings are not
+        // loc ids, so route them through the map-string table. Names the server already localized
+        // (device arrays) are flagged and must be left alone.
+        var name = entry.MetaData.Value.EntityNameIsLocalized
+            ? entry.MetaData.Value.EntityName
+            : MapStringLocalizer.Localize(entry.MetaData.Value.EntityName);
         button.NameLocalized.Text = name;
 
         // Update tool tip
-        button.ToolTip = Loc.GetString(name);
+        button.ToolTip = name;
 
         // Update power value
         // Don't use SI prefixes, just give the number in W, so that it is readily apparent which consumer is using a lot of power.

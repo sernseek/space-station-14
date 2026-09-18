@@ -211,6 +211,7 @@
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
+  - type: ShowAccess # Starlight
   - type: Tag
     tags:
     - HamsterWearable
@@ -256,6 +257,7 @@
   - type: GroupExamine
   - type: IdentityBlocker
     coverage: EYES
+  - type: ThermalSight
 
 - type: entity
   parent: ClothingEyesBase

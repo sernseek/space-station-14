@@ -1,4 +1,3 @@
-using System.Buffers;
 using System.Numerics;
 using Content.Client.Resources;
 using Content.Client.Shuttles.Systems;
