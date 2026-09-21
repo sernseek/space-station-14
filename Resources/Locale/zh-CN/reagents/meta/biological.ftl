@@ -30,3 +30,7 @@ reagent-desc-vomit = 你能在里面看到某人上一餐留下的碎块。
 
 reagent-name-grey-matter = 灰质
 reagent-desc-grey-matter = 思想之汁，就是会从耳朵里漏出来的东西。
+
+reagent-name-sulfur-blood = 酸性血液
+
+reagent-desc-sulfur-blood = 感觉几乎像酸一样。

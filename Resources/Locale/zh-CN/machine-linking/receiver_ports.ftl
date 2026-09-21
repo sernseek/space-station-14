@@ -89,3 +89,7 @@ signal-port-description-logic-enable = 仅在信号为 HIGH 时将输入信号�
 
 signal-port-name-logic-random-input = 输入信号
 signal-port-description-logic-random-input = 接收任意信号以触发随机输出。
+
+signal-port-name-timer = 计时器
+
+signal-port-description-timer = 启动设备的计时器倒计时。

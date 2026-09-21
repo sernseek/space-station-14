@@ -200,3 +200,21 @@ stack-plasma-marble-floor = 等离子大理石地板
 stack-uranium-marble-floor = 铀大理石地板
 stack-astro-ironsand-floor = 太空铁砂地板
 stack-astro-ironsand-floor-borderless = 无边框太空铁砂地板
+
+stack-dark-steel-horizontal-slats-tile-bordered = 黑钢包边横条地砖
+
+stack-dark-steel-vertical-slats-tile-bordered = 黑钢包边竖条地砖
+
+stack-dark-steel-slats-tile-continuous = 黑钢连续条地砖
+
+stack-steel-horizontal-slats-tile-bordered = 钢材包边横条地砖
+
+stack-steel-vertical-slats-tile-bordered = 钢材包边竖条地砖
+
+stack-steel-slats-tile-continuous = 钢材连续条地砖
+
+stack-white-steel-horizontal-slats-tile-bordered = 白钢包边横条地砖
+
+stack-white-steel-vertical-slats-tile-bordered = 白钢包边竖条地砖
+
+stack-white-steel-slats-tile-continuous = 白钢连续条地砖

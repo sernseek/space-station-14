@@ -41,3 +41,5 @@ research-technology-bluespace-manipulation = 蓝空间操纵
 research-technology-darkbreacher = 暗物质破障器
 
 research-technology-basic-xenobiology = 基础异种生物学
+
+research-technology-olfactory-nose = 嗅觉植入体

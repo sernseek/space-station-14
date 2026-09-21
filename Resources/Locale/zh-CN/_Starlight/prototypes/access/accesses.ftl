@@ -52,3 +52,11 @@ id-card-access-level-pirate = 海盗
 id-card-access-level-blackstar = 黑星
 id-card-access-level-medtak = MedTak
 id-card-access-level-visitor = 访客
+
+id-card-access-level-shuttle = 穿梭机
+
+id-card-access-level-clown = 小丑
+
+id-card-access-level-mime = 哑剧演员
+
+id-card-access-level-itg = 星际贸易公会

@@ -35,3 +35,7 @@ comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) }正挂在这�
 comp-kitchen-spike-meat-name = { $name }（{ $victim }）
 
 comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE(THE($target)) }看起来相当精瘦。[/color]
+
+comp-kitchen-spike-need-tool-quality = 屠宰{ THE($target) }需要{ $quality }工具。
+
+comp-kitchen-spike-deconstruct-occupied = 接下来，[color=red]把尸体取下来[/color]。

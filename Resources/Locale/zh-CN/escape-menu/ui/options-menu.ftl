@@ -49,7 +49,7 @@ ui-options-misc-label = 杂项
 ui-options-interface-label = 界面
 
 
-ui-options-auto-fill-highlights = 使用角色信息自动填充高亮词
+ui-options-auto-fill-highlights = 根据你的角色姓名与职位自动设置高亮列表
 ui-options-highlights-color = 高亮颜色：
 ui-options-highlights-color-example = 这是一段高亮文字。
 ui-options-show-held-item = 在光标旁显示手持物品
@@ -408,3 +408,7 @@ ui-options-admin-enable-overlay-starting-job = 显示初始职位
 ui-options-admin-overlay-merge-distance = 堆叠合并距离
 ui-options-admin-overlay-ghost-fade-distance = 幽灵叠加层随鼠标淡出范围
 ui-options-admin-overlay-ghost-hide-distance = 幽灵叠加层随鼠标隐藏范围
+
+ui-options-hold-to-attack-melee = 按住以攻击（近战）
+
+ui-options-hold-to-attack-ranged = 按住以攻击（远程）

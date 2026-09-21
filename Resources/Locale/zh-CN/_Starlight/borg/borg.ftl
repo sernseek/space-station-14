@@ -39,3 +39,25 @@ borg-module-incompatibility-xenoborg-engiweapon = 与其他工程异形赛博格
 borg-module-incompatibility-xenoborg-heavyweapon = 与其他重型异形赛博格武器模块不兼容。
 borg-module-incompatibility-xenoborg-scoutweapon = 与其他侦察异形赛博格武器模块不兼容。
 borg-module-incompatibility-xenoborg-stealthhypo = 与其他隐匿异形赛博格皮下注射模块不兼容。
+
+borg-lockdown-engaged-popup = {CAPITALIZE($name)}在锁定启动时僵住了！
+
+borg-lockdown-released-popup = 锁定解除，{CAPITALIZE($name)}嗡鸣着恢复了运转！
+
+borg-ui-lockdown = 启动锁定
+
+borg-ui-lockdown-release = 解除锁定
+
+borg-ui-reset-chassis = 还原机壳类型
+
+borg-reset-modules-installed = 先移除赛博格身上的所有可选模块……
+
+borg-reset-chassis-start-popup = 你的机壳正在被还原！
+
+borg-reset-chassis-popup = {CAPITALIZE($name)}还原成了空白机壳！
+
+borg-type-unselected-transponder = 赛博格
+
+borg-type-unselected-name = 未选择
+
+borg-type-unselected-desc = 尚未选择类型的空白机壳。

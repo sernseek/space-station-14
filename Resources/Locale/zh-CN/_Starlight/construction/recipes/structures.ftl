@@ -22,3 +22,15 @@ construction-recipe-railing-round-yellow = 黄色栏杆（圆形）
 
 construction-recipe-railing-boxing = 拳击台围绳
 construction-recipe-railing-corner-boxing = 拳击台转角围绳
+
+construction-recipe-cell-bars-straight = 牢房栏杆（直线）
+
+construction-recipe-cell-bars-corner = 牢房栏杆（转角）
+
+construction-recipe-cell-bars-end = 牢房栏杆（末端）
+
+construction-recipe-cell-bars-gate = 牢房栏杆（闸门）
+
+construction-recipe-cell-bars-broken = 牢房栏杆（破损）
+
+construction-recipe-floor-light = 地面灯

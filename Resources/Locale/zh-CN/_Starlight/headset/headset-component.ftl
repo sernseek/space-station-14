@@ -11,3 +11,7 @@ chat-radio-global = 全局
 chat-radio-aspace = Aspace
 chat-radio-medtak = MedTak
 chat-radio-medtak-borg = MedTak 硅基
+
+headset-loud-mode-examine-active = 耳机的扩音模式扬声器[color=green]已激活[/color]。
+
+headset-loud-mode-examine-inactive = 耳机的扩音模式扬声器[color=red]已停用[/color]。

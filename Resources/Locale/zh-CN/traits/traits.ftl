@@ -28,7 +28,7 @@ trait-unrevivable-name = 无法复苏
 trait-unrevivable-desc = 你无法被除颤器复苏。
 
 trait-pirate-accent-name = 海盗口音
-trait-pirate-accent-desc = 你说起话来总像个海盗，停不下来！
+trait-pirate-accent-desc = 你管不住自己，张口就是一口海盗腔！
 
 trait-accentless-name = 无口音
 trait-accentless-desc = 你没有你的物种通常会有的口音。
@@ -39,8 +39,8 @@ trait-frontal-lisp-desc = 你说话时有点大舌头。
 trait-socialanxiety-name = 口吃
 trait-socialanxiety-desc = 你说话时会结巴。
 
-trait-southern-name = 南方腔
-trait-southern-desc = 你说话的腔调与众不同。
+trait-southern-name = 南方拖腔
+trait-southern-desc = 你说话的方式与众不同。
 
 trait-snoring-name = 打鼾
 trait-snoring-desc = 你睡觉时会打鼾。
@@ -49,13 +49,13 @@ trait-liar-name = 病态说谎者
 trait-liar-desc = 你几乎无法逼自己说出真话。有时你还是会撒谎。
 
 trait-cowboy-name = 牛仔口音
-trait-cowboy-desc = 你说话带着一股鲜明的牛仔口音！
+trait-cowboy-desc = 你说话带着一股鲜明的牛仔腔！
 
 trait-german-name = 德国口音
 trait-german-desc = 你似乎来自太空德国。
 
 trait-italian-name = 意大利口音
-trait-italian-desc = Mamma mia！你似乎在太空意大利生活过！
+trait-italian-desc = 妈妈咪呀！你看起来像是在太空意大利生活过！
 
 trait-french-name = 法国口音
 trait-french-desc = 你的口音里有种说不清道不明的«je ne sais quoi»。

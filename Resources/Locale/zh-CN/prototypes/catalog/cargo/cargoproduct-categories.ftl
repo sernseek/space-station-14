@@ -14,3 +14,5 @@ cargoproduct-category-name-science = 科研
 cargoproduct-category-name-security = 安保
 cargoproduct-category-name-service = 服务
 cargoproduct-category-name-shuttle = 穿梭机
+
+cargoproduct-category-name-instruments = 乐器

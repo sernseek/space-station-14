@@ -15,3 +15,19 @@ names-devil-dataset-14 = 巴尔斯
 names-devil-dataset-15 = 泽尔恩
 names-devil-dataset-16 = 斯帕卡埃乌斯
 names-devil-dataset-17 = 阿波尔尔伊奥恩
+
+names-devil-dataset-18 = 阿巴拉姆
+
+names-devil-dataset-19 = 赫罗德
+
+names-devil-dataset-20 = 奥涅斯
+
+names-devil-dataset-21 = 马哈迪尔
+
+names-devil-dataset-22 = 乌尔加鲁格
+
+names-devil-dataset-23 = 阿孔
+
+names-devil-dataset-24 = 祖兹戈尔
+
+names-devil-dataset-25 = 杰扎哈

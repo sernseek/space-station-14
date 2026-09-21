@@ -15,3 +15,19 @@ names-devil-title-dataset-14 = 黑暗统治者
 names-devil-title-dataset-15 = 平庸者
 names-devil-title-dataset-16 = 凡俗者
 names-devil-title-dataset-17 = 怪异者
+
+names-devil-title-dataset-18 = 噬魂者
+
+names-devil-title-dataset-19 = 第四环之主
+
+names-devil-title-dataset-20 = 暗翼
+
+names-devil-title-dataset-21 = 见证者
+
+names-devil-title-dataset-22 = 控诉者
+
+names-devil-title-dataset-23 = 堕落者
+
+names-devil-title-dataset-24 = 贪婪者的狱卒
+
+names-devil-title-dataset-25 = 诱惑者

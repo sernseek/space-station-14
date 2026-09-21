@@ -109,3 +109,5 @@ barsign-prototype-description-empbarsign = 有什么事情非常不对劲。
 
 ## SignOff
 barsign-prototype-description-sign-off = 这个招牌似乎没有通电。
+
+barsign-prototype-name-empbarsign = 故障闪屏酒吧招牌

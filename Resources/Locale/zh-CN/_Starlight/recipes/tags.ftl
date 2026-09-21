@@ -12,3 +12,7 @@ construction-graph-tag-mech-reactor = 机甲反应堆
 
 construction-graph-tag-mime-mask = 哑剧面具
 construction-graph-tag-cheap-sunglasses = 廉价墨镜
+
+construction-graph-tag-remote-signaller = 一个基础遥控信号器
+
+construction-graph-tag-remote-signaller-adv = 一个高级遥控信号器

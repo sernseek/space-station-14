@@ -6,3 +6,13 @@ job-supervisors-station-ai = 空间站 AI
 job-supervisors-warden = 典狱长
 job-supervisors-none = 无人
 job-supervisors-solgov = 跨太阳系联邦
+
+job-supervisors-assistantmanager = 助理经理，以及绝对的所有人
+
+job-supervisors-command = 指挥部
+
+job-supervisors-prisoner = 狱警、副监狱长与监狱长
+
+job-supervisors-itg = 打捞领队
+
+job-supervisors-guild = 星际贸易公会

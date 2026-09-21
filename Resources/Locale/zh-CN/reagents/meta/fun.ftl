@@ -42,3 +42,7 @@ reagent-desc-canidessence = 一种致癌酶，已知会分解大多数动物声�
 
 # Starlight
 reagent-name-concentratedcorgijuice = 让你永远变成柯基的果汁
+
+reagent-name-brass = 黄铜
+
+reagent-desc-brass = 闻起来像发条装置。

@@ -13,7 +13,17 @@ job-description-greenshield = 你的首要职责是保护指定的中央指挥�
 job-description-ntrep = 你是中央指挥部派来的审计员，负责确保所有人员高效工作，并以公司的最大利益为先。
 job-description-performer = 学习小丑表演、哑剧和音乐的基础。为船员演出，成为出色的艺人。
 job-description-roboticist = 负责维修和制造机械体、赛博格及其他机械造物的科学家。
-job-description-salvagelead = 领导打捞团队并保障他们的安全。记住，你是军需官在站外的耳目。
+job-description-salvagelead = 带领你的打捞小队并保证他们的安全。记住，你就是 ITG 的眼睛和耳朵。
 job-description-surgeon = 救治伤员、废掉敌人，并替换肢体和器官！
 job-description-zookeeper = 为所有船员展示可爱动物和太空鲤鱼，带来欢乐。
 job-description-nct = 你的职责是不分部门地尽力协助更多船员。你不得就任何指挥部标准作业程序问题向指挥人员提供建议，也不得提供法律意见。
+
+job-description-assistantmanager = 管理你的助理同事们，给他们派些小任务或非正式差事，并培养他们成长，好让他们为空间站的利益出力。
+
+job-description-k9 = 在空间站巡逻、追踪气味，并咬住嫌疑人不放，直到安保人员赶来上铐。
+
+job-description-stirstir = 一只声名狼藉、不可信任的猴子。货真价实的牢房常客。
+
+job-description-salvagemedic = 在站外保住你打捞小队的命。确保他们每个人都完完整整地回来。
+
+job-description-salvagespecSL = 保护 ITG 的资产，探索奇异世界，获取稀有货物卖给空间站。

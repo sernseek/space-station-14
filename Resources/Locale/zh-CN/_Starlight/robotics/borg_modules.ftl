@@ -10,3 +10,5 @@ borg-slot-rcd-ammo-empty = RCD 压缩物质
 borg-slot-l6-empty = L6 轻机枪
 borg-slot-light-box-empty = 弹匣箱（轻步枪）
 borg-slot-light-ammo-box-empty = 弹药箱（轻步枪）
+
+borg-slot-games-gambling-empty = 游戏与赌博

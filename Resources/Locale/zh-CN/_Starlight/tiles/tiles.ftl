@@ -66,3 +66,19 @@ tiles-floor-dev-salvage = [开发] 打捞地板
 tiles-floor-dev-science = [开发] 科研部地板
 tiles-floor-dev-security = [开发] 安保部地板
 tiles-floor-dev-service = [开发] 服务部地板
+
+tiles-carpet-art-floor = 艺术地毯
+
+tiles-mowed-dark-astro-grass = 修剪过的深色太空草
+
+tiles-mowed-light-astro-grass = 修剪过的浅色太空草
+
+tiles-mowed-jungle-astro-grass = 修剪过的丛林太空草
+
+tiles-grass-classic-planet-floor = 经典草地行星
+
+tiles-planet-grass-classic-floor-mowed = 修剪过的经典太空草
+
+tiles-planet-grass-classic-floor = 经典太空草
+
+tiles-astro-grass-classic = 经典太空草

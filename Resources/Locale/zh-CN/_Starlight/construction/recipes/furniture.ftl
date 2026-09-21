@@ -65,3 +65,39 @@ construction-recipe-sofa-fancy-mid = 华丽沙发（中）
 construction-recipe-booth-left = 餐厅卡座（左）
 construction-recipe-booth-mid = 餐厅卡座（中）
 construction-recipe-booth-right = 餐厅卡座（右）
+
+construction-recipe-evac-seat = 撤离座椅
+
+construction-recipe-bridge-seat = 舰桥座椅
+
+construction-recipe-round-steel = 圆形钢桌
+
+construction-recipe-round-wood = 圆形木桌
+
+construction-recipe-round-carpet = 圆形地毯桌
+
+construction-recipe-round-plastic = 圆形塑料桌
+
+construction-recipe-round-glass = 圆形玻璃桌
+
+construction-recipe-round-plasma = 圆形等离子体桌
+
+construction-recipe-window-blinds = 百叶窗
+
+construction-recipe-counter-retro-steel = 复古钢制柜台
+
+construction-recipe-counter-retro-wood = 复古木制柜台
+
+construction-recipe-counter-retro-kitchen = 复古厨房柜台
+
+construction-recipe-counter-retro-steel-wood = 复古钢木柜台
+
+construction-recipe-counter-retro-white-orange = 复古白橙柜台
+
+construction-recipe-counter-retro-white-teal = 复古白青柜台
+
+construction-recipe-counter-retro-diner = 复古餐厅柜台
+
+construction-recipe-froggy-chair = 青蛙椅
+
+construction-recipe-lovey-chair = 爱心椅

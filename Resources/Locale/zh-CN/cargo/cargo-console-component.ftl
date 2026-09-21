@@ -18,7 +18,7 @@ cargo-console-menu-requests-label = 申请
 cargo-console-menu-orders-label = 订单
 cargo-console-menu-order-reason-description = 原因：{$reason}
 cargo-console-menu-populate-categories-all-text = 全部
-cargo-console-menu-populate-orders-cargo-order-row-product-name-text = {$productName}（x{$orderAmount}），申请人：{$orderRequester}，付款账户：[color={$accountColor}]{$account}[/color]
+cargo-console-menu-populate-orders-cargo-order-row-product-name-text = 申请人：{$orderRequester}，来自 [color={$accountColor}]{$account}[/color]
 cargo-console-menu-cargo-order-row-approve-button = 批准
 cargo-console-menu-cargo-order-row-cancel-button = 取消
 cargo-console-menu-tab-title-orders = 订单
@@ -94,3 +94,19 @@ cargo-acquisition-slip-body = [head=3]资产详情[/head]
     {"[head=3]购买详情[/head]"}
     {"[bold]订购人：[/bold]"} {$orderer}
     {"[bold]原因：[/bold]"} {$reason}
+
+cargo-console-menu-flavor-left = 比平时订更多的披萨盒吧！
+
+cargo-console-menu-flavor-right = v2.1
+
+cargo-console-menu-order-row-title = {$productName}（x{$orderAmount}，共 {$orderPrice}$）
+
+cargo-console-menu-order-row-product-description = 理由：{$orderReason}
+
+cargo-console-menu-order-row-button-approve = 批准
+
+cargo-console-menu-order-row-button-cancel = 取消
+
+cargo-console-menu-order-row-alerts-reason-absent = 未注明理由
+
+cargo-console-menu-order-row-alerts-requester-unknown = 未知

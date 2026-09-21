@@ -29,7 +29,7 @@ flavor-complex-rocky-road-ice-cream = 像巧克力配有嚼劲的棉花糖和酥
 flavor-complex-matcha-ice-cream = 像带有绿茶回味的质朴冰淇淋
 flavor-complex-pistachio-ice-cream = 像略带泥土气息的坚果冰淇淋
 flavor-complex-peanut-butter-ice-cream = 像香甜坚果冰淇淋中带着一丝咸味
-flavor-complex-cherry-ice-cream = 像浓郁樱桃配酥脆巧克力豆
+flavor-complex-cherry-ice-cream = 像浓郁的樱桃冰淇淋
 flavor-complex-apple-cinnamon-ice-cream = 像加了苹果片与肉桂的香草冰淇淋
 flavor-complex-gold-apple-cin-ice-cream = 像苹果肉桂，还带来一阵清爽
 flavor-complex-holy-melon-ice-cream = 像灵魂得到净化，又像清爽的甜瓜雪葩
@@ -46,3 +46,37 @@ flavor-complex-fluffy-boy-ice-cream = 像香草、青柠与温柔的善意
 flavor-complex-leader-ice-cream = 像香草、蓝莓与酥脆的宝剑饼干
 flavor-complex-tesla-ice-cream = 像香草，还让你的毛发根根竖起
 flavor-base-cinnamon = 肉桂味
+
+flavor-complex-banana-ice-cream = 像香蕉和冰淇淋
+
+flavor-complex-clown-ice-cream = 像恶作剧、樱桃和香蕉
+
+flavor-complex-coconut-ice-cream = 像椰子和顺滑的冰淇淋
+
+flavor-complex-ian-ice-cream = 像橙子、香草，还有一丝小小的愧疚
+
+flavor-complex-nt-ice-cream = 像蓝莓、棉花糖和企业的自豪感
+
+flavor-complex-nt-marine-ice-cream = 像蓝莓、青柠，以及一股英勇战斗的冲动
+
+flavor-complex-pineapple-ice-cream = 像清甜的菠萝冰淇淋
+
+flavor-complex-rising-sun-ice-cream = 像橙子、柠檬和覆盆子冰淇淋的日落
+
+flavor-complex-rocky-ore-ice-cream = 像加了酥脆饼干的樱桃冰淇淋
+
+flavor-complex-stun-baton-ice-cream = 像橙子冰淇淋和一股给电棍充电的冲动
+
+flavor-complex-syndie-land-ice-cream = 像樱桃青柠冰淇淋和付费广告
+
+flavor-complex-tiramisu-ice-cream = 像巧克力、浓缩咖啡和肉桂
+
+flavor-complex-uranium-ice-cream = 像令人作呕的绿色糖衣苹果
+
+flavor-complex-vox-ice-cream = 像清冽的薄荷和一丝焊接液的余味
+
+flavor-complex-chocolate-milk = 像巧克力牛奶
+
+flavor-complex-strawberry-milk = 像草莓牛奶
+
+flavor-complex-banana-milk = 像香蕉牛奶

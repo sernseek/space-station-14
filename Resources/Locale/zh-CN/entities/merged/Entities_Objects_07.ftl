@@ -660,73 +660,95 @@ ent-AloeCream = 芦荟霜
 ent-HealingToolbox = 治愈工具箱
     .desc = 充满活力的强大工具箱。它可以治愈你的伤口，让你充满杀机。
 
-ent-PillDexalin = 丸
+ent-PillDexalin = { -pill-name }
+    .suffix = { reagent-name-dexalin } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterDexalin = 药丸罐
+ent-PillCanisterDexalin = { -pill-canister-name }
+    .suffix = { reagent-name-dexalin } 20u, 7
     .desc = 最多可装 10 颗药丸。
 
-ent-PillDylovene = 丸
+ent-PillDylovene = { -pill-name }
+    .suffix = { reagent-name-dylovene } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterDylovene = 药丸罐
+ent-PillCanisterDylovene = { -pill-canister-name }
+    .suffix = { reagent-name-dylovene } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillHyronalin = 丸
+ent-PillHyronalin = { -pill-name }
+    .suffix = { reagent-name-hyronalin } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterHyronalin = 药丸罐
+ent-PillCanisterHyronalin = { -pill-canister-name }
+    .suffix = { reagent-name-hyronalin } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillPotassiumIodide = 丸
+ent-PillPotassiumIodide = { -pill-name }
+    .suffix = { reagent-name-potassium-iodide } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterPotassiumIodide = 药丸罐
+ent-PillCanisterPotassiumIodide = { -pill-canister-name }
+    .suffix = { reagent-name-potassium-iodide } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillIron = 丸
+ent-PillIron = { -pill-name }
+    .suffix = { reagent-name-iron } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCopper = 丸
+ent-PillCopper = { -pill-name }
+    .suffix = { reagent-name-copper } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterIron = 药丸罐
+ent-PillCanisterIron = { -pill-canister-name }
+    .suffix = { reagent-name-iron } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillCanisterCopper = 药丸罐
+ent-PillCanisterCopper = { -pill-canister-name }
+    .suffix = { reagent-name-copper } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillKelotane = 丸
+ent-PillKelotane = { -pill-name }
+    .suffix = { reagent-name-kelotane } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterKelotane = 药丸罐
+ent-PillCanisterKelotane = { -pill-canister-name }
+    .suffix = { reagent-name-kelotane } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillDermaline = 丸
+ent-PillDermaline = { -pill-name }
+    .suffix = { reagent-name-dermaline } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterDermaline = 药丸罐
+ent-PillCanisterDermaline = { -pill-canister-name }
+    .suffix = { reagent-name-dermaline } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
 ent-PillSpaceDrugs = 太空海市蜃楼
     .desc = 这可不是栓剂。
 
-ent-PillTricordrazine = 丸
+ent-PillTricordrazine = { -pill-name }
+    .suffix = { reagent-name-tricordrazine } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterTricordrazine = 药丸罐
+ent-PillCanisterTricordrazine = { -pill-canister-name }
+    .suffix = { reagent-name-tricordrazine } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillBicaridine = 丸
+ent-PillBicaridine = { -pill-name }
+    .suffix = { reagent-name-bicaridine } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterBicaridine = 药丸罐
+ent-PillCanisterBicaridine = { -pill-canister-name }
+    .suffix = { reagent-name-bicaridine } 20u, 5
     .desc = 最多可装 10 颗药丸。
 
-ent-PillCharcoal = 丸
+ent-PillCharcoal = { -pill-name }
+    .suffix = { reagent-name-charcoal } 20u
     .desc = 这可不是栓剂。
 
-ent-PillCanisterCharcoal = 药丸罐
+ent-PillCanisterCharcoal = { -pill-canister-name }
+    .suffix = { reagent-name-charcoal } 20u, 3
     .desc = 最多可装 10 颗药丸。
 
 ent-PillRomerol = 罗默罗丸

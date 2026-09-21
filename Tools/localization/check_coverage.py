@@ -26,7 +26,8 @@ OUT_DIR = Path(__file__).resolve().parent
 # 顶层消息或术语定义行：`some-id =` / `-some-term =`；属性行（.desc 等）归属其上方的消息。
 MSG_RE = re.compile(r"^(-?[A-Za-z][A-Za-z0-9_-]*)\s*=")
 ATTR_RE = re.compile(r"^\s+\.([A-Za-z][A-Za-z0-9_-]*)\s*=")
-VAR_RE = re.compile(r"\{\s*\$([A-Za-z][A-Za-z0-9_-]*)")
+# 变量可以直接出现（{ $x }），也可以在函数参数里（{ MAKEPLURAL($x) }）
+VAR_RE = re.compile(r"\$([A-Za-z][A-Za-z0-9_-]*)")
 
 
 def parse_locale(root: Path) -> dict[str, tuple[str, str]]:
@@ -42,7 +43,8 @@ def parse_locale(root: Path) -> dict[str, tuple[str, str]]:
             elif m := ATTR_RE.match(line):
                 if current_id:
                     messages[f"{current_id}.{m.group(1)}"] = (rel, line)
-            elif current_id and (line.startswith("    ") or line.startswith("\t")):
+            elif current_id and line.strip() and not line.lstrip().startswith("#"):
+                # 续行：缩进深浅不一，选择器收尾的 `}` 还常写在第 0 列，都要收进来
                 # 多行消息的续行，附加到当前条目以便提取占位符
                 rel0, body = messages[current_id]
                 messages[current_id] = (rel0, body + " " + line.strip())

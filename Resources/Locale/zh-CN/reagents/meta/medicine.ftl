@@ -160,3 +160,7 @@ reagent-desc-haloperidol = 清除大多数刺激性和致幻药物，减弱药�
 
 reagent-name-warfarin = 华法林
 reagent-desc-warfarin = 常用抗凝药，使血液难以形成血凝块。过量可能造成内出血。
+
+reagent-name-heparin = 肝素
+
+reagent-desc-heparin = 常用作抗凝血药物。会使血液难以凝结成块。过量使用可能导致内出血。

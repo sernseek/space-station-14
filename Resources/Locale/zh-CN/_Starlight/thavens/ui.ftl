@@ -12,3 +12,7 @@ thaven-mood-admin-ui-delete = 删除
 
 admin-trick-add-random-mood-description = 为此实体添加一项随机命运情绪。
 admin-trick-give-moods-description = 赋予此实体命运情绪。
+
+admin-trick-floodpipes = 填充管道颜色
+
+admin-trick-floodpipes-description = 将管道颜色填充到所有相连的管道。

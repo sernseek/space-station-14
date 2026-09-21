@@ -58,3 +58,5 @@ store-category-rev-uplink-implants = 植入物
 store-category-rev-uplink-shuttle = 火炮
 store-category-rev-uplink-deception = 欺诈
 store-category-rev-uplink-pointless = 荣耀
+
+store-caregory-spellbook-war = 战争

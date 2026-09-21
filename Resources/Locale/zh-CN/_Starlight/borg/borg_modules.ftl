@@ -17,3 +17,9 @@ borg-slot-knives-empty = 刀具
 borg-slot-pkaupgrade-empty = PKA 升级件
 borg-slot-goliath-empty = 歌利亚甲壳
 borg-slot-rollerbeds-empty = 尸袋与折叠床
+
+borg-slot-idstamps-empty = PDA、ID卡与印章
+
+borg-slot-ore-ticket-empty = 矿石与矿票
+
+borg-slot-music-media-empty = 黑胶唱片与CD

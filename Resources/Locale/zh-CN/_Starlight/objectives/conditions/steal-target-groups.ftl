@@ -55,3 +55,9 @@ steal-target-groups-corporate-documents = 机密公司秘密文件
 steal-target-groups-criminal-documents = 机密犯罪报告文件
 steal-target-groups-secure-documents = 机密安全文件
 steal-target-groups-secure-documents-brighteye = 明眸机密安全文件
+
+steal-target-groups-departmental-tech-fab-circuitboard = 货运、工程、医疗或科研技术制造机电路板
+
+steal-target-groups-secure-tech-fab-circuitboard = 指挥部或安保技术制造机电路板
+
+steal-target-groups-wizard-medallions = 太空巫师联盟徽章

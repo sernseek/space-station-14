@@ -33,3 +33,5 @@ ui-vote-votekick-success = 针对 { $target } 的投票驱逐通过。驱逐原�
 ui-vote-votekick-failure = 针对 { $target } 的投票驱逐失败。驱逐原因：{ $reason }
 ui-vote-votekick-not-enough-eligible = 在线的合格投票者不足以发起投票驱逐：{ $voters }/{ $requirement }
 ui-vote-votekick-server-cancelled = 针对 { $target } 的投票驱逐已被服务器取消。
+
+ui-vote-map-invalid = { $winner } 在地图投票后失效了！它将不会被选中！

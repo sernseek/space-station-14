@@ -80,8 +80,8 @@ uplink-reinforcement-radio-stealth-cyborg-name = 辛迪加隐形赛博格传送�
 uplink-reinforcement-radio-stealth-cyborg-desc = 一台隐形赛博格。虽无战斗能力，却能伪装、隐形并穿过通风口。配有标准黑客工具。
 
 
-uplink-syndimov-law-name = 辛迪莫夫法则电路
-uplink-syndimov-law-desc = 船员斯莫夫法则的修改版，将辛迪加特工定义为船员。
+uplink-syndimov-law-name = 辛迪莫夫法则电路套件
+uplink-syndimov-law-desc = 一套颠覆性法则集，当你想把AI策反到自己这边时使用，尽管尽情使用。附带一张辛迪加ID卡。
 
 uplink-ecronizer-name = 电子匿踪器
 uplink-ecronizer-desc = 一种小型设备，可绕过大多数扫描装置，让你和随身物品无法被其发现。
@@ -157,3 +157,15 @@ uplink-syndicate-borgi-kitted-bundle-desc = 一台配备 L6 模块、特工模�
 
 uplink-syndicate-borgi-speed-bundle-name = 高速辛迪加博基套装
 uplink-syndicate-borgi-speed-bundle-desc = 一台配备匕首模块且速度更快的辛迪加博基。附带几张供你和伙伴使用的辛迪加 ID，以确保你们成为博基最好的朋友。
+
+uplink-olfactory-implant-name = 嗅觉植入体
+
+uplink-olfactory-implant-desc = 赋予部分感知与追踪气味的能力。（警告：手术过程需要一名外科助手。）
+
+uplink-reinforcement-radio-mothroach-name = 蛾蟑螂增援传送器
+
+uplink-reinforcement-radio-mothroach-desc = 呼叫一只训练有素的蛾蟑螂来协助你。附带一支辛迪加香烟、一顶软呢帽和一副廉价墨镜。专长是清理证据和吱吱叫。
+
+uplink-plushie-linari-name = 利纳里·米乌玩偶
+
+uplink-plushie-linari-desc = 一只做工精湛的蜥蜴玩偶，身穿战术军官装备，未收录于纳米传讯标准商品目录。背后的缝线写着「辛迪加财产」。抱着它会让你觉得自己至少违反了三条公司规章。

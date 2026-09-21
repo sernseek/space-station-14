@@ -7,3 +7,5 @@ ui-escape-guidebook = 指南手册
 ui-escape-wiki = 维基
 ui-escape-disconnect = 断开连接
 ui-escape-quit = 退出游戏
+
+ui-escape-feedback = 反馈

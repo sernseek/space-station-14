@@ -18,3 +18,21 @@ health-analyzer-report-summary-total-damage = [bold]总伤害：[/bold]{$damage}
 health-analyzer-report-injury-group = [bold]{$group}：[/bold]{$amount}
 health-analyzer-report-injury-type = {$type}：{$amount}
 health-analyzer-report-no-injuries = 未检测到伤势。
+
+health-analyzer-report-section-chemicals = 化学物质
+
+health-analyzer-report-chemical-line = {$name}：{$quantity}
+
+health-analyzer-report-no-chemicals = 未检测到化学物质。
+
+health-analyzer-report-quantity-both = [color=#AAAAAA]（胃内 {$stomach}u）[/color] 血液 {$blood}u
+
+health-analyzer-report-quantity-stomach = [color=#AAAAAA]（胃内 {$stomach}u）[/color]
+
+health-analyzer-report-quantity-blood = 血液 {$blood}u
+
+health-analyzer-window-quantity-both = [color=#AAAAAA]（胃内 {$stomach}u）[/color] 血液 {$blood}u
+
+health-analyzer-window-quantity-stomach = [color=#AAAAAA]（胃内 {$stomach}u）[/color]
+
+health-analyzer-window-quantity-blood = 血液 {$blood}u

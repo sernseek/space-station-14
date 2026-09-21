@@ -16,7 +16,7 @@ criminal-records-status-detained = 拘留
 criminal-records-status-suspected = 嫌疑
 criminal-records-status-discharged = 已释放
 criminal-records-status-paroled = 假释
-criminal-records-status-hostile = 敌对
+criminal-records-status-hostile = 见即击杀
 criminal-records-status-eliminated = 已消灭
 
 criminal-records-console-wanted-reason = 通缉原因
@@ -50,8 +50,8 @@ criminal-records-console-detained = {$officer} 已拘留 {$name}（{$job}）。
 criminal-records-console-released = {$officer} 已释放 {$name}（{$job}）。
 criminal-records-console-paroled = {$officer} 已准予 {$name}（{$job}）假释。
 criminal-records-console-not-parole = {$officer} 取消了 {$name}（{$job}）的假释状态。
-criminal-records-console-hostile = {$officer} 因以下原因将 {$name}（{$job}）标记为敌对：{$reason}。
-criminal-records-console-not-hostile = {$officer} 已取消 {$name}（{$job}）的敌对标记。
+criminal-records-console-hostile = {$name}（{$job}）已被{$officer}标记为见即击杀，原因：{$reason}。
+criminal-records-console-not-hostile = {$name}（{$job}）的见即击杀标记已被{$officer}取消。
 criminal-records-console-eliminated = {$officer} 已将 {$name}（{$job}）标记为已消灭。
 criminal-records-console-not-eliminated = {$officer} 已取消 {$name}（{$job}）的已消灭标记。
 criminal-records-console-unknown-officer = <未知>
@@ -64,3 +64,9 @@ criminal-records-prints-filter = 指纹
 criminal-records-dna-filter = DNA
 criminal-records-job-filter = 职位
 criminal-records-species-filter = 物种
+
+criminal-records-status-arrestonsight = 见即逮捕
+
+criminal-records-console-aos = {$name}（{$job}）已被{$officer}标记为见即逮捕，原因：{$reason}。
+
+criminal-records-console-not-aos = {$name}（{$job}）的见即逮捕标记已被{$officer}取消。

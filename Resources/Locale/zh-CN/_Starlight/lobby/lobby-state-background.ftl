@@ -78,3 +78,11 @@ lobby-state-background-nogalcom-artist = deltaVelocity
 
 lobby-state-background-aiderthief-title = 维护通道奇遇
 lobby-state-background-aiderthief-artist = silkielol
+
+lobby-state-background-aeuroracaelus-title = 极光天穹事件即将结束
+
+lobby-state-background-aeuroracaelus-artist = xxhotgirl69
+
+lobby-state-background-ipcandmoff-title = “犯困时间”
+
+lobby-state-background-ipcandmoff-artist = "Doner"

@@ -8,3 +8,5 @@ species-name-resomi = 雷索米
 species-name-shadekin = 影裔
 species-name-thaven = 塔文
 species-name-rodentia = 啮齿人
+
+species-name-doll = 人偶

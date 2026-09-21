@@ -71,3 +71,5 @@ steal-target-groups-animal-morty = 莫蒂
 steal-target-groups-animal-renault = 雷诺
 steal-target-groups-animal-shiva = 希瓦
 steal-target-groups-animal-tropico = 特罗皮科
+
+steal-target-groups-huds = HUD

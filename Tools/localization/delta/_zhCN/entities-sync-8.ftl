@@ -2,499 +2,499 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值
-ent-SolutionFoodDonkpocketWarm = solution
+ent-SolutionFoodDonkpocketWarm = 溶液
 
 # TODO[新增] 值
-ent-SolutionGinormous = solution
+ent-SolutionGinormous = 溶液
 
 # TODO[新增] 值
-ent-SolutionHuge = solution
+ent-SolutionHuge = 溶液
 
 # TODO[新增] 值
-ent-SolutionLarge = solution
+ent-SolutionLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionLatheLube = solution
+ent-SolutionLatheLube = 溶液
 
 # TODO[新增] 值
-ent-SolutionMobXenomoproachAbsorbed = solution
+ent-SolutionMobXenomoproachAbsorbed = 溶液
 
 # TODO[新增] 值
-ent-SolutionMobXenomoproachFood = solution
+ent-SolutionMobXenomoproachFood = 溶液
 
 # TODO[新增] 值
-ent-SolutionMopLarge = solution
+ent-SolutionMopLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionMopMoproach = solution
+ent-SolutionMopMoproach = 溶液
 
 # TODO[新增] 值
-ent-SolutionMopNormal = solution
+ent-SolutionMopNormal = 溶液
 
 # TODO[新增] 值
-ent-SolutionMopSmall = solution
+ent-SolutionMopSmall = 溶液
 
 # TODO[新增] 值
-ent-SolutionNormal = solution
+ent-SolutionNormal = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodCellulose = solution
+ent-SolutionOrganFoodCellulose = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodGreyMatter = solution
+ent-SolutionOrganFoodGreyMatter = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodGreyMatterLarge = solution
+ent-SolutionOrganFoodGreyMatterLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodMeat = solution
+ent-SolutionOrganFoodMeat = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodMeatDoll = solution
+ent-SolutionOrganFoodMeatDoll = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganFoodSlime = solution
+ent-SolutionOrganFoodSlime = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganLung = solution
+ent-SolutionOrganLung = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganNutriment = solution
+ent-SolutionOrganNutriment = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganNutrimentDoll = solution
+ent-SolutionOrganNutrimentDoll = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganSap = solution
+ent-SolutionOrganSap = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganSlime = solution
+ent-SolutionOrganSlime = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach100 = solution
+ent-SolutionOrganStomach100 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach30 = solution
+ent-SolutionOrganStomach30 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach40 = solution
+ent-SolutionOrganStomach40 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach50 = solution
+ent-SolutionOrganStomach50 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach75 = solution
+ent-SolutionOrganStomach75 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganStomach80 = solution
+ent-SolutionOrganStomach80 = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganVoxBrainFood = solution
+ent-SolutionOrganVoxBrainFood = 溶液
 
 # TODO[新增] 值
-ent-SolutionOrganVoxBrainOrgan = solution
+ent-SolutionOrganVoxBrainOrgan = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingBufferTank = solution
+ent-SolutionPlumbingBufferTank = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingDisposalDrainBuffer = solution
+ent-SolutionPlumbingDisposalDrainBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingDrainDrainBuffer = solution
+ent-SolutionPlumbingDrainDrainBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingFilterBuffer = solution
+ent-SolutionPlumbingFilterBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingFilterBufferFiltered = solution
+ent-SolutionPlumbingFilterBufferFiltered = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingInlineFilterBuffer = solution
+ent-SolutionPlumbingInlineFilterBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingInputInput = solution
+ent-SolutionPlumbingInputInput = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingOutputOutput = solution
+ent-SolutionPlumbingOutputOutput = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingPillPressBuffer = solution
+ent-SolutionPlumbingPillPressBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingPillPressStagingEast = solution
+ent-SolutionPlumbingPillPressStagingEast = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingPillPressStagingWest = solution
+ent-SolutionPlumbingPillPressStagingWest = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingReactorBuffer = solution
+ent-SolutionPlumbingReactorBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingReactorOutput = solution
+ent-SolutionPlumbingReactorOutput = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSinkDrain = solution
+ent-SolutionPlumbingSinkDrain = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSinkOutput = solution
+ent-SolutionPlumbingSinkOutput = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSmartDispenserFridge = solution
+ent-SolutionPlumbingSmartDispenserFridge = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSmartDispenserMedTakFilledFridge = solution
+ent-SolutionPlumbingSmartDispenserMedTakFilledFridge = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSmartDispenserMedTakWallmountFilledFridge = solution
+ent-SolutionPlumbingSmartDispenserMedTakWallmountFilledFridge = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingSynthesizerBuffer = solution
+ent-SolutionPlumbingSynthesizerBuffer = 溶液
 
 # TODO[新增] 值
-ent-SolutionPlumbingTankTank = solution
+ent-SolutionPlumbingTankTank = 溶液
 
 # TODO[新增] 值
-ent-SolutionRiggable = solution
+ent-SolutionRiggable = 溶液
 
 # TODO[新增] 值
-ent-SolutionRiggableLarge = solution
+ent-SolutionRiggableLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionSmall = solution
+ent-SolutionSmall = 溶液
 
 # TODO[新增] 值
-ent-SolutionStain = solution
+ent-SolutionStain = 溶液
 
 # TODO[新增] 值
-ent-SolutionTiny = solution
+ent-SolutionTiny = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolGinormous = solution
+ent-SolutionToolGinormous = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolLarge = solution
+ent-SolutionToolLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolNormal = solution
+ent-SolutionToolNormal = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolSmall = solution
+ent-SolutionToolSmall = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolTiny = solution
+ent-SolutionToolTiny = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolVeryTiny = solution
+ent-SolutionToolVeryTiny = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolWelder = solution
+ent-SolutionToolWelder = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolWelderExperimental = solution
+ent-SolutionToolWelderExperimental = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolWelderIndsutrial = solution
+ent-SolutionToolWelderIndsutrial = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolWelderMini = solution
+ent-SolutionToolWelderMini = 溶液
 
 # TODO[新增] 值
-ent-SolutionToolWelderMiniEmergency = solution
+ent-SolutionToolWelderMiniEmergency = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdder = solution
+ent-SolutionUdder = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdderBanana = solution
+ent-SolutionUdderBanana = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdderChocolate = solution
+ent-SolutionUdderChocolate = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdderGoat = solution
+ent-SolutionUdderGoat = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdderPilk = solution
+ent-SolutionUdderPilk = 溶液
 
 # TODO[新增] 值
-ent-SolutionUdderStrawberry = solution
+ent-SolutionUdderStrawberry = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomCobraSpace = solution
+ent-SolutionVenomCobraSpace = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomDale = solution
+ent-SolutionVenomDale = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomPurpleSnake = solution
+ent-SolutionVenomPurpleSnake = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomSpider = solution
+ent-SolutionVenomSpider = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomSpiderSpace = solution
+ent-SolutionVenomSpiderSpace = 溶液
 
 # TODO[新增] 值
-ent-SolutionVenomTick = solution
+ent-SolutionVenomTick = 溶液
 
 # TODO[新增] 值
-ent-SolutionVeryLarge = solution
+ent-SolutionVeryLarge = 溶液
 
 # TODO[新增] 值
-ent-SolutionVeryTiny = solution
+ent-SolutionVeryTiny = 溶液
 
 # TODO[新增] 值
-ent-SolutionWool = solution
+ent-SolutionWool = 溶液
 
 # TODO[新增] 值 .desc
-ent-SparlightMobUristMcCorgi = Extradimensional Corgi
-    .desc = Now THIS is a rare sight to see!
+ent-SparlightMobUristMcCorgi = 超维度柯基
+    .desc = 这可真是难得一见的景象！
 
 # TODO[新增] 值
-ent-SpawnMobPenguinFlippers = Rt Hon. Flippers Spawner
+ent-SpawnMobPenguinFlippers = 脚蹼阁下生成器
 
 # TODO[新增] 值
-ent-SpawnPointAssistantManager = assistant manager
+ent-SpawnPointAssistantManager = 助理经理生成点
 
 # TODO[新增] 值
-ent-SpawnPointK9 = security K9
+ent-SpawnPointK9 = 安保警犬生成点
 
 # TODO[新增] 值
-ent-SpawnPointRadioHost = SpawnPointRadioHost
+ent-SpawnPointRadioHost = 电台主持人生成点
 
 # TODO[新增] 值
-ent-SpawnPointSalvageMedic = salvage medic
+ent-SpawnPointSalvageMedic = 打捞医务员生成点
 
 # TODO[新增] 值 .desc
-ent-StargazerShell1 = shard
-    .desc = A strange shell shard. The remains of the stargazer.
+ent-StargazerShell1 = 碎片
+    .desc = 一块奇怪的壳碎片，是观星者的遗骸。
 
 # TODO[新增] 值 .desc
-ent-StargazerShell2 = shard
-    .desc = A strange shell shard. The remains of the stargazer.
+ent-StargazerShell2 = 碎片
+    .desc = 一块奇怪的壳碎片，是观星者的遗骸。
 
 # TODO[新增] 值 .desc
-ent-StargazerShell3 = shard
-    .desc = A strange shell shard. The remains of the stargazer.
+ent-StargazerShell3 = 碎片
+    .desc = 一块奇怪的壳碎片，是观星者的遗骸。
 
 # TODO[新增] 值 .desc
-ent-StationRadioCircuitboard = station radio machine board
-    .desc = A machine printed circuit board for a station radio receiver.
+ent-StationRadioCircuitboard = 空间站电台机器主板
+    .desc = 空间站电台接收器的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-StationRadioReceiver = station radio
-    .desc = Listen to the top hits of your stations local radio.
+ent-StationRadioReceiver = 空间站电台
+    .desc = 收听你所在空间站本地电台的热门金曲。
 
 # TODO[新增] 值 .desc
-ent-StationRadioRig = station radio rig
-    .desc = A collection of everything you need to play music over the station.
+ent-StationRadioRig = 空间站电台设备组
+    .desc = 在空间站里播放音乐所需的一切设备，全在这里了。
 
 # TODO[新增] 值 .desc
-ent-StationRadioRigCircuitboard = station radio rig machine board
-    .desc = A machine printed circuit board for a station radio rig.
+ent-StationRadioRigCircuitboard = 空间站电台设备组机器主板
+    .desc = 空间站电台设备组的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-StationRadioServer = station radio server
-    .desc = A rack of servers, controls whether your voice is being broadcasted or not
+ent-StationRadioServer = 空间站电台服务器
+    .desc = 一组服务器机架，控制着你的声音是否会被广播出去。
 
 # TODO[新增] 值 .desc
-ent-StationRadioServerCircuitboard = station radio server machine board
-    .desc = A machine printed circuit board for a station radio server.
+ent-StationRadioServerCircuitboard = 空间站电台服务器机器主板
+    .desc = 空间站电台服务器的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-StatueAngel = statue of an angel
-    .desc = An ancient marble statue. The subject is depicted with flowing robes and wide spread wings.
+ent-StatueAngel = 天使雕像
+    .desc = 一尊古老的大理石雕像。像中人身着飘逸长袍，双翼展开。
 
 # TODO[新增] 值 .desc
-ent-SummonIceSculpture = ice sculpture
-    .desc = An animated ice construct, filled with malevolent magic.
+ent-SummonIceSculpture = 冰雕
+    .desc = 一座活化的冰造构体，充满了恶毒的魔法。
 
 # TODO[新增] 值
-ent-SurgeryExtractNoseImplant = Extract Nose Implant
+ent-SurgeryExtractNoseImplant = 取出鼻部植入物
 
 # TODO[新增] 值
-ent-SurgeryImplantNoseImplant = Implant Nose Implant
+ent-SurgeryImplantNoseImplant = 植入鼻部植入物
 
 # TODO[新增] 值 .desc
-ent-SurgeryReattachShellDoll = Reattach Shell
-    .desc = Surgical reattachment of a dolls shell.
+ent-SurgeryReattachShellDoll = 重新接合外壳
+    .desc = 通过手术将玩偶的外壳重新接上。
 
 # TODO[新增] 值 .desc
-ent-SurgeryRemoveShellDoll = Remove Shell
-    .desc = Surgical removal of a dolls shell.
+ent-SurgeryRemoveShellDoll = 移除外壳
+    .desc = 通过手术移除玩偶的外壳。
 
 # TODO[新增] 值
-ent-SurgeryStepClampOlfactoryNerve = Clamp Olfactory Nerve
+ent-SurgeryStepClampOlfactoryNerve = 钳闭嗅觉神经
 
 # TODO[新增] 值
-ent-SurgeryStepClampTendrils = Remove the tendrils
+ent-SurgeryStepClampTendrils = 移除触须
 
 # TODO[新增] 值
-ent-SurgeryStepConnectOlfactoryNerve = Connect Olfactory Nerve
+ent-SurgeryStepConnectOlfactoryNerve = 连接嗅觉神经
 
 # TODO[新增] 值
-ent-SurgeryStepInsertNoseImplant = Insert Nose Implant
+ent-SurgeryStepInsertNoseImplant = 插入鼻部植入物
 
 # TODO[新增] 值
-ent-SurgeryStepMendShellDoll = Mend shell
+ent-SurgeryStepMendShellDoll = 修补外壳
 
 # TODO[新增] 值
-ent-SurgeryStepOpenShell = Break open the shell
+ent-SurgeryStepOpenShell = 撬开外壳
 
 # TODO[新增] 值
-ent-SurgeryStepPositionShell = Position Shell
+ent-SurgeryStepPositionShell = 定位外壳
 
 # TODO[新增] 值
-ent-SurgeryStepRemoveNoseImplant = Remove Nose Implant
+ent-SurgeryStepRemoveNoseImplant = 取出鼻部植入物
 
 # TODO[新增] 值
-ent-SurgeryStepRemoveShell = Remove Shell
+ent-SurgeryStepRemoveShell = 移除外壳
 
 # TODO[新增] 值 .desc
-ent-SyndicateBluespaceBeaker = redspace beaker
-    .desc = An illegal reagent container that violates the laws of physics.
+ent-SyndicateBluespaceBeaker = 红空间烧杯
+    .desc = 一种非法的试剂容器，公然违反物理定律。
 
 # TODO[新增] 值 .desc
-ent-SyndicateMilkCrate = syndicate milk crate
-    .desc = A blood-red plastic milk crate for filing away sleeved vinyls. Nanotrasen would rather you didn't listen to these.
+ent-SyndicateMilkCrate = 辛迪加牛奶箱
+    .desc = 一只血红色的塑料牛奶箱，用来收纳套封唱片。纳米传讯可不希望你听这些东西。
 
 # TODO[新增] 值 .desc
-ent-SyndicateTechFab = Syndicate techfab
-    .desc = Prints equipment for use by the Syndicate.
+ent-SyndicateTechFab = 辛迪加科技制造机
+    .desc = 打印供辛迪加使用的装备。
 
 # TODO[新增] 值 .desc
-ent-SyndicateTechFabCircuitboard = Syndicate techfab machine board
-    .desc = A machine printed circuit board for a Syndicate techfab.
+ent-SyndicateTechFabCircuitboard = 辛迪加科技制造机机器主板
+    .desc = 用于制造“辛迪加科技制造机”的印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-SyndicateTechFabFlatpack = Syndicate techfab flatpack
-    .desc = A flatpack used for constructing a Syndicate techfab.
+ent-SyndicateTechFabFlatpack = 辛迪加科技制造机平板包装
+    .desc = 用于建造辛迪加科技制造机的平板包装。
 
 # TODO[新增] 值 .desc
-ent-SyndimovCircuitKit = syndimov circuit kit
-    .desc = A kit containing an electronics board with the Syndimov lawset and a Syndicate ID.
+ent-SyndimovCircuitKit = 辛迪莫夫电路套件
+    .desc = 一套套件，内含载有辛迪莫夫法则组的电路板和一张辛迪加ID卡。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroDiner = retro diner counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroDiner = 复古餐厅柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroKitchen = retro kitchen counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroKitchen = 复古厨房柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroSteel = retro steel counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroSteel = 复古钢柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroSteelWood = retro steel and wood counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroSteelWood = 复古钢木柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroWhiteOrange = retro white and orange counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroWhiteOrange = 复古白橙柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroWhiteTeal = retro white and teal counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroWhiteTeal = 复古白青柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TableCounterRetroWood = retro wood counter
-    .desc = Looks like a good place to put a drink down.
+ent-TableCounterRetroWood = 复古木质柜台
+    .desc = 看起来是个放饮料的好地方。
 
 # TODO[新增] 值 .desc
-ent-TapeDeck = tape deck
-    .desc = An old school tape deck, ready to play the newest podcast made by the crew.
+ent-TapeDeck = 磁带卡座
+    .desc = 一台老派磁带卡座，随时准备播放船员们制作的最新播客。
 
 # TODO[新增] 值 .desc
-ent-TapeDeckCircuitboard = tape deck machine board
-    .desc = A machine printed circuit board for a tape deck.
+ent-TapeDeckCircuitboard = 磁带卡座机器主板
+    .desc = 磁带卡座的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-TicketBlue = blue ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketBlue = 蓝色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketBrown = brown ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketBrown = 棕色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketCyan = cyan ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketCyan = 青色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketGold = gold ticket
-    .desc = A golden ticket with printed number and Casino logo.
+ent-TicketGold = 黄金票券
+    .desc = 一张印有号码和赌场标志的金色票券。
 
 # TODO[新增] 值 .desc
-ent-TicketGreen = green ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketGreen = 绿色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketOrange = orange ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketOrange = 橙色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketPurple = purple ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketPurple = 紫色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketRed = red ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketRed = 红色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-TicketYellow = yellow ticket
-    .desc = A piece of paper with printed number and NT logo.
+ent-TicketYellow = 黄色票券
+    .desc = 一张印有号码和NT标志的纸。
 
 # TODO[新增] 值 .desc
-ent-ToiletPaper = toilet paper
-    .desc = One-ply, for maximum inefficiency. Company has to save pennies where they can, you guess.
+ent-ToiletPaper = 卫生纸
+    .desc = 单层纸，把低效做到了极致。看来公司是能省一分是一分。
 
 # TODO[新增] 值 .desc
-ent-ToiletPaperOffset = toilet paper
-    .desc = One-ply, for maximum inefficiency. Company has to save pennies where they can, you guess.
+ent-ToiletPaperOffset = 卫生纸
+    .desc = 单层纸，把低效做到了极致。看来公司是能省一分是一分。
 
 # TODO[新增] 值 .desc
-ent-ToolboxOfHolding = strange toolbox
-    .desc = A strangely heavy toolbox. The inside appears incredibly spacious.
+ent-ToolboxOfHolding = 奇异工具箱
+    .desc = 一个重得出奇的工具箱。内部看起来宽敞得不可思议。
 
 # TODO[新增] 值
-ent-TorsoDoll = doll torso
+ent-TorsoDoll = 玩偶躯干
 
 # TODO[新增] 值
-ent-TorsoNeoVulpkanin = neo-vulpkanin torso
+ent-TorsoNeoVulpkanin = 新伏尔卡宁躯干
 
 # TODO[新增] 值
-ent-TorsoNeocyte = neocyte torso
+ent-TorsoNeocyte = 新细胞躯干
 
 # TODO[新增] 值 .desc
-ent-ToyFigurineRoboticist = roboticist figure
-    .desc = A figurine depicting a Roboticist probably planning to build a robot.
+ent-ToyFigurineRoboticist = 机器人专家手办
+    .desc = 一个描绘机器人专家的手办，大概正在筹划造一台机器人。
 
 # TODO[新增] 值 .desc
-ent-TransmutationGlass = strange glass
-    .desc = At a glance this glass appears normal, except for an abnormal amount of condensation on the bottom, even when empty.
+ent-TransmutationGlass = 奇异玻璃杯
+    .desc = 乍一看这只玻璃杯平平无奇，只是杯底总凝着异常多的水珠——哪怕是空杯的时候。
 
 # TODO[新增] 值 .desc
-ent-TurnstileAssembly = turnstile assembly
-    .desc = An unfinished turnstile assembly.
+ent-TurnstileAssembly = 转闸组件
+    .desc = 一组尚未完工的转闸组件。
 
 # TODO[新增] 值 .desc
-ent-UristMcStone = Firstborn
-    .desc = Recovered rubble has been radiometrically dated to be older than current estimates of the age of the universe. The seams and cracks lining its body are not due to natural erosion but instead show repeated patterns as if it were a language carved into the stone.
+ent-UristMcStone = 初生者
+    .desc = 回收的石块经放射性测年，比目前对宇宙年龄的估计还要古老。它身上纵横的接缝与裂纹并非自然侵蚀所致，而是呈现出重复的规律，仿佛是一种镌刻进石头的语言。
 
 # TODO[新增] 值
-ent-UtilityLineRupture = Utility Line Rupture
+ent-UtilityLineRupture = 公用管线破裂
 
 # TODO[新增] 值 .desc
-ent-VendingMachineGumballs = gumball dispenser
-    .desc = Full of tasty gumballs.
+ent-VendingMachineGumballs = 口香糖球贩卖机
+    .desc = 装满了美味的口香糖球。
 
 # TODO[新增] 值 .desc
-ent-VendingMachineGumballsCircuitboard = gumball dispenser circuitboard
-    .desc = A machine printed circuit board for a gumball dispenser
+ent-VendingMachineGumballsCircuitboard = 口香糖球贩卖机机器主板
+    .desc = 口香糖球贩卖机的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-VendingMachineGumballsEmpty = gumball dispenser
-    .desc = Full of tasty gumballs.
+ent-VendingMachineGumballsEmpty = 口香糖球贩卖机
+    .desc = 装满了美味的口香糖球。

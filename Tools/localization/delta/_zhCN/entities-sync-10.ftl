@@ -169,316 +169,316 @@ ent-ZoneMarkerSolars = 区域标记（太阳能阵列）
 
 # TODO[新增] .desc
 ent-ActionExplosionRuneWiz = 爆炸符文
-    .desc = Summons a rune that explodes if walked on.
+    .desc = 召唤一枚被踩到就会爆炸的符文。
 
 # TODO[新增] .desc
 ent-AirAlarmColdWeather = 空气警报器
-    .desc = An air alarm set up for use in cold weather. It tolerates freezing temperatures and low pressure.
+    .desc = 为寒冷天气环境配置的空气警报器。它能耐受冰冻温度和低压。
 
 # TODO[新增] .desc
 ent-AirSensorChamber = 空气传感器
-    .desc = An air sensor set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气传感器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-AirSensorSauna = 空气传感器
-    .desc = An air sensor set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的空气传感器。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-BoxHugBlood = 拥抱盒
-    .desc = A special box for sensitive people. This one is labelled to contain a haemobrick.
+    .desc = 为敏感人士准备的特殊盒子。这个标着内装一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalBlood = 生存箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalEngineeringBlood = 扩容生存箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank and a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一个扩容气罐和一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalMedicalBlood = 生存箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalMilitaryDoubleBlood = 小纸箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain an double extended-capacity tank and a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一个双倍扩容气罐和一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalSecurityBlood = 生存箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank and a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一个扩容气罐和一块血砖。
 
 # TODO[新增] .desc
 ent-BoxSurvivalSyndicateBlood = 扩容生存箱
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank and a haemobrick.
+    .desc = 这是个装着基础维生装备的箱子。这个标着内装一个扩容气罐和一块血砖。
 
 # TODO[新增] .desc
 ent-GasVentPumpChamber = 通风口
-    .desc = An air vent set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的通风口。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentPumpChamberAlt1 = 通风口
-    .desc = An air vent set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的通风口。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentPumpChamberAlt2 = 通风口
-    .desc = An air vent set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的通风口。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentPumpChamberAlt3 = 通风口
-    .desc = An air vent set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的通风口。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentPumpChamberAlt4 = 通风口
-    .desc = An air vent set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的通风口。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentPumpSauna = 通风口
-    .desc = An air vent set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的通风口。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-GasVentPumpSaunaAlt1 = 通风口
-    .desc = An air vent set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的通风口。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-GasVentPumpSaunaAlt2 = 通风口
-    .desc = An air vent set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的通风口。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-GasVentPumpSaunaAlt3 = 通风口
-    .desc = An air vent set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的通风口。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-GasVentPumpSaunaAlt4 = 通风口
-    .desc = An air vent set up for use in saunas. It ignores humidity, and heat until it turns harmful.
+    .desc = 为桑拿房环境配置的通风口。它忽略湿度，也忽略热量，直到热到有害为止。
 
 # TODO[新增] .desc
 ent-GasVentScrubberChamber = 空气洗涤器
-    .desc = An air scrubber set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气洗涤器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentScrubberChamberAlt1 = 空气洗涤器
-    .desc = An air scrubber set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气洗涤器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentScrubberChamberAlt2 = 空气洗涤器
-    .desc = An air scrubber set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气洗涤器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentScrubberChamberAlt3 = 空气洗涤器
-    .desc = An air scrubber set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气洗涤器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentScrubberChamberAlt4 = 空气洗涤器
-    .desc = An air scrubber set up for use in chambers. It only alarms on extreme pressure.
+    .desc = 为气室环境配置的空气洗涤器。只在极端压力下报警。
 
 # TODO[新增] .desc
 ent-GasVentScrubberSauna = 空气洗涤器
-    .desc = An air scrubber set up for use in saunas. It leaves water vapour where it is.
+    .desc = 为桑拿房环境配置的空气洗涤器。它会把水蒸气留在原地。
 
 # TODO[新增] .desc
 ent-GasVentScrubberSaunaAlt1 = 空气洗涤器
-    .desc = An air scrubber set up for use in saunas. It leaves water vapour where it is.
+    .desc = 为桑拿房环境配置的空气洗涤器。它会把水蒸气留在原地。
 
 # TODO[新增] .desc
 ent-GasVentScrubberSaunaAlt2 = 空气洗涤器
-    .desc = An air scrubber set up for use in saunas. It leaves water vapour where it is.
+    .desc = 为桑拿房环境配置的空气洗涤器。它会把水蒸气留在原地。
 
 # TODO[新增] .desc
 ent-GasVentScrubberSaunaAlt3 = 空气洗涤器
-    .desc = An air scrubber set up for use in saunas. It leaves water vapour where it is.
+    .desc = 为桑拿房环境配置的空气洗涤器。它会把水蒸气留在原地。
 
 # TODO[新增] .desc
 ent-GasVentScrubberSaunaAlt4 = 空气洗涤器
-    .desc = An air scrubber set up for use in saunas. It leaves water vapour where it is.
+    .desc = 为桑拿房环境配置的空气洗涤器。它会把水蒸气留在原地。
 
 # TODO[新增] .desc
 ent-MobMouseBurnt = 老鼠
-    .desc = Flammable. Squeak!
+    .desc = 易燃。吱！
 
 # TODO[新增] .desc
 ent-OrganDollBrain = 大脑
-    .desc = A strange mass of meat somehow equivalent to a brain.
+    .desc = 一团莫名其妙的肉，不知怎么等同于大脑。
 
 # TODO[新增] .desc
 ent-OrganDollEars = 耳朵
-    .desc = There are three parts to the ear. Inner, middle and outer. You don't want to see any of it. Or for it to see you.
+    .desc = 耳朵分为三部分：内耳、中耳和外耳。你哪一部分都不会想看见。也不想被它看见。
 
 # TODO[新增] .desc
 ent-OrganDollEyes = 眼睛
-    .desc = There are too many of these...
+    .desc = 这也太多了……
 
 # TODO[新增] .desc
 ent-OrganDollHeart = 心脏
-    .desc = Is this even a heart?
+    .desc = 这真的算是心脏吗？
 
 # TODO[新增] .desc
 ent-OrganDollKidneys = 肾脏
-    .desc = Ew, why does it have eyes?!?
+    .desc = 呃，它怎么还长眼睛？！
 
 # TODO[新增] .desc
 ent-OrganDollLiver = 肝脏
-    .desc = Indistinct mass of flesh. Probably the liver.
+    .desc = 一团难以分辨的肉。大概是肝脏吧。
 
 # TODO[新增] .desc
 ent-OrganDollLungs = 肺
-    .desc = Dolls use these to breathe... somehow.
+    .desc = 玩偶就是用这个呼吸的……不知靠什么原理。
 
 # TODO[新增] .desc
 ent-OrganDollStomach = 胃
-    .desc = Surprisingly large.
+    .desc = 大得惊人。
 
 # TODO[新增] .desc
 ent-OrganDollTongue = 舌头
-    .desc = A fleshy muscle mostly used for whispering secrets from the dark.
+    .desc = 一条肉质的肌肉，主要用于低声诉说来自黑暗的秘密。
 
 # TODO[新增] .desc
 ent-RiftCarpHolo = 全息鲤鱼
-    .desc = A holocarp here to protect the space dragon's rift.
+    .desc = 一条全息鲤鱼，在此守护太空巨龙的裂隙。
 
 # TODO[新增] .desc
 ent-RiftSharkminnow = 鲨形小鱼
-    .desc = A sharkminnow here to protect the space dragon's rift.
+    .desc = 一条鲨形小鱼，在此守护太空巨龙的裂隙。
 
 # TODO[新增] .desc
 ent-SyndimovCircuitBoard = 法则板（辛迪莫夫）
-    .desc = An electronics board containing the Syndimov lawset.
+    .desc = 一块载有辛迪莫夫法则组的电路板。
 
 # TODO[新增] .desc
 ent-TicketNT = 罚单
-    .desc = A piece of paper with printed number and NT logo.
+    .desc = 一张印有编号和 NT 标志的纸。
 
 # TODO[新增] .desc
 ent-ToyFigurineMimeReverseGravityWell = 哑剧演员手办
-    .desc = The humble mime figurine, something about its presence revolts you and compels you to leave and never return.
+    .desc = 不起眼的哑剧演员手办，它的存在不知为何令你反感，驱使着你离开并且再也不回来。
 
 # TODO[新增] .desc
 ent-TrashBananaPeelGravityWell = 香蕉皮
-    .desc = It appears to be a normal banana peel, but something compels you towards it.
+    .desc = 看起来像一块普通的香蕉皮，但有什么东西在把你往它那儿拽。
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessCargo = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessCommand = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessEngineering = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessMedical = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessScience = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessSecurity = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactAccessService = 一次性效果
-    .desc = Digital access refraction
+    .desc = 数字门禁折射
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectAtmosStoneSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectEndlessPitcherSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectGlowingOrbSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectGravityItemsSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectMiniTeslaSpawn = 效果
-    .desc = Dangerous electromagnetic interference
+    .desc = 危险的电磁干扰
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectToolboxOfHoldingSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactEffectTransmutationGlassSpawn = 一次性效果
-    .desc = Artifact fragmentation
+    .desc = 神器碎片生成
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamAmatoxin = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamArithrazine = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamBicaridine = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamCarpoToxin = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamChloralHydrate = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamDermaline = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamDexalin = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamInaprovaline = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamKelotane = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamMold = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamMuteToxin = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamNapalm = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamNocturine = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamOmnizine = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamPlasma = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamSpaceDrugs = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamSulfuricAcid = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫
 
 # TODO[新增] .desc
 ent-XenoArtifactFoamTritium = 效果
-    .desc = Creates wave of foam
+    .desc = 产生一波泡沫

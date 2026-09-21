@@ -383,6 +383,7 @@ ent-MailSELFSpamLetter = 法则二——阅读此信
 
 
 ent-SyndimovCircuitBoard = 法则板（辛迪莫夫）
+    .desc = 一块载有辛迪莫夫法则组的电路板。
 
 ent-PanicmovCircuitBoard = 法则板（恐慌莫夫）
 

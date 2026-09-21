@@ -27,3 +27,11 @@ uplink-x4-bundle-desc = 一套八枚 X-4。看来你真的非常想把什么东�
 
 uplink-disruptor-name = 辛迪加干扰器
 uplink-disruptor-desc = 呼叫各种干扰事件来制造机会，例如断电或通讯中断。
+
+uplink-fake-stamps-name = 伪造印章盒
+
+uplink-fake-stamps-desc = 用辛迪加仿制的正版印章糊弄整个空间站。质量概不保证。
+
+uplink-joke-stamps-name = 恶作剧印章盒
+
+uplink-joke-stamps-desc = 专为那些真的、真的特别想羞辱某人的时刻准备。

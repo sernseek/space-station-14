@@ -84,3 +84,89 @@ names-shadowborgi-dataset-3 = 脚踝杀手
 names-shadowborgi-dataset-4 = 凶猛
 names-shadowborgi-dataset-5 = K-9 攻击赛博格
 names-shadowborgi-dataset-6 = 子弹汪汪者
+
+names-borgi-dataset-32 = 斑点
+
+names-borgi-dataset-33 = K-9
+
+names-borgi-dataset-34 = 疾风
+
+names-borgi-dataset-35 = 纳米狗
+
+names-borgi-dataset-36 = F.I.D.O.
+
+names-borgi-dataset-37 = 智能狗
+
+names-borgi-dataset-38 = 浏览器
+
+names-borgi-dataset-39 = Dogg-E
+
+names-borgi-dataset-40 = 狗粮字节
+
+names-borgi-dataset-41 = 旅居者号
+
+names-borgi-dataset-42 = 勇气号
+
+names-borgi-dataset-43 = 机遇号
+
+names-borgi-dataset-44 = 好奇号
+
+names-borgi-dataset-45 = 毅力号
+
+names-borgi-dataset-46 = 皮皮
+
+names-borgi-dataset-47 = 冲冲
+
+names-borgi-dataset-48 = 舵机
+
+names-borgi-dataset-49 = 加密狗
+
+names-borgi-dataset-50 = 拓麻狗狗
+
+names-corgi-dataset-32 = 大狗狗
+
+names-corgi-dataset-33 = 罗茜
+
+names-corgi-dataset-34 = 蒙斯特
+
+names-corgi-dataset-35 = 鞋子
+
+names-corgi-dataset-36 = 香蕉
+
+names-corgi-dataset-37 = 萨拉米
+
+names-corgi-dataset-38 = 宾果
+
+names-corgi-dataset-39 = 生姜
+
+names-corgi-dataset-40 = 葡萄
+
+names-corgi-dataset-41 = 脆饼
+
+names-corgi-dataset-42 = 曲奇
+
+names-corgi-dataset-43 = 法棍
+
+names-corgi-dataset-44 = 呆呆
+
+names-corgi-dataset-45 = 肥皂
+
+names-corgi-dataset-46 = 甜甜圈
+
+names-corgi-dataset-47 = 辣香肠
+
+names-corgi-dataset-48 = 大勺
+
+names-corgi-dataset-49 = 桑迪
+
+names-corgi-dataset-50 = 弯弯
+
+names-syndiborgi-dataset-16 = 高音
+
+names-syndiborgi-dataset-17 = 嘘嘘狗
+
+names-syndiborgi-dataset-18 = NK9 辛迪加柯基
+
+names-syndiborgi-dataset-19 = 混凝土
+
+names-syndiborgi-dataset-20 = 核弹授权犬

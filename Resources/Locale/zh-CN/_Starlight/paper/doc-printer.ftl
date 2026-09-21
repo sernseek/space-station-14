@@ -793,3 +793,9 @@ doc-text-printer-arrest-report =
 
     ─────────────────────────────────────────
    ⠀                      [italic]印章及／或签名处[/italic]
+
+doc-text-printer-psychological-report =
+                            [head=3]NT-CC 联合体服务处[/head]
+
+doc-text-printer-borgification-consent-form =
+                            [head=3]NT-CC 联合体服务处[/head]

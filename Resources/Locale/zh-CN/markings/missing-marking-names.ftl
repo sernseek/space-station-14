@@ -4,7 +4,7 @@
 marking-HeadSeptum = 鼻中隔环
 marking-FopsTailWag = 狐尾（摇动）
 marking-PuppyTailWag = 犬尾（摇动）
-marking-MothAntennaeBushyAlt = 浓密触角（备选）
+marking-MothAntennaeBushyAlt = 触角（蓬松款）
 marking-FoxTailAnimated = 狐尾（动态）
 marking-WolfTailAnimated = 狼尾（动态）
 marking-KoniCheeks = 科尼脸颊

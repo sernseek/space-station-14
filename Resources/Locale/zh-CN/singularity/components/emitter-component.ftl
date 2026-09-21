@@ -13,3 +13,11 @@ comp-emitter-not-anchored = {$target} 尚未锚定到地面！
 
 emitter-component-current-type = 当前选择的类型为：[color=yellow]{$type}[/color]。
 emitter-component-type-set = 类型已设为：{$type}
+
+emitter-destroyed-broadcast = 一台通电的发射器（{$location}）已被摧毁。
+
+emitter-deconstructed-broadcast = 一台通电的{$location}已被拆解。
+
+emitter-unlocked-broadcast = 一台通电的{$location}已被解锁。
+
+emitter-unpowered-broadcast = 一台通电的{$location}已断电。

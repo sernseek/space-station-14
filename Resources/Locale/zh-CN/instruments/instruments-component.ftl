@@ -16,8 +16,8 @@ instruments-component-band-menu = 选择乐队领队
 instrument-component-band-refresh = 刷新
 instruments-component-channels-menu = MIDI 频道选择
 instrument-component-channel-name = MIDI 频道 {$number}
-instruments-component-channels-all-button = 全选
-instruments-component-channels-clear-button = 清除
+instruments-component-channels-all-button = 全开
+instruments-component-channels-clear-button = 全关
 instruments-component-channels-track-names-toggle = 显示音轨名称
 instruments-component-channels-single = {$channel} {$name}
 instruments-component-channels-multi = {$channel} {$name}（{$other}）
@@ -154,3 +154,74 @@ instruments-component-menu-midi-channel-telephone-ring = 电话铃声
 instruments-component-menu-midi-channel-helicopter = 直升机声
 instruments-component-menu-midi-channel-applause = 掌声
 instruments-component-menu-midi-channel-gunshot = 枪声
+
+instruments-component-menu-play-tab-title = 播放
+
+instruments-component-menu-config-tab-title = 配置
+
+instruments-component-menu-midi-source-button = MIDI 来源
+
+instruments-component-menu-unknown-midi-source-button = 未知
+
+instruments-component-menu-input-midi-source-button = 输入
+
+instruments-component-menu-band-midi-source-button = 乐队
+
+instruments-component-menu-file-midi-source-button = 文件
+
+instruments-component-menu-play-stop-button = 播放
+
+instruments-component-menu-shuffle-button = 随机播放
+
+instruments-component-menu-channels-label = 声道 [italic]（播放时更新）[/italic]
+
+instruments-component-menu-files-track-playtime-seconds-minutes = {$currentMinutes}:{$currentSeconds}/{$totalMinutes}:{$totalSeconds}
+
+instruments-component-menu-files-track-playtime-seconds-minutes-hours = {$currentHours}:{$currentMinutes}:{$currentSeconds}/{$totalHours}:{$totalMinutes}:{$totalSeconds}
+
+instruments-component-menu-files-file-remove-disabled-info = 停止播放并选择一个条目即可将其移除。
+
+instruments-component-menu-files-add-button = 添加
+
+instruments-component-menu-files-remove-button = 移除
+
+instruments-component-menu-files-rename-button = 重命名
+
+instruments-component-menu-files-rename-dialog-title = 重命名文件
+
+instruments-component-menu-files-rename-dialog-prompt = 新名称
+
+instruments-component-menu-files-filter = 筛选……
+
+instruments-component-menu-files-error = 操作因意外错误而失败。
+
+instruments-component-menu-input-notice-label = 将 MIDI 设备连接到你的电脑，
+                                                然后弹奏一些音乐吧。
+
+instruments-component-band-title-label = 乐队
+
+instruments-component-band-refresh = 刷新
+
+instruments-component-channels-all-channels-label = 全部声道
+
+instruments-component-channels-percussion-channel-name = [打击乐]
+
+instruments-component-channels-name-display-selector-label = 名称显示
+
+instruments-component-channels-name-display-selector-track-button = 音轨
+
+instruments-component-channels-name-display-selector-program-button = 音色程序
+
+instruments-component-channels-name-display-selector-instrument-button = 乐器
+
+instruments-component-midi-file-collection-label = MIDI 曲库
+
+instruments-component-midi-file-collection-size-label = 已加载 {$count} 个 MIDI 文件
+
+instruments-component-midi-file-collection-open-dir-button = 打开文件夹
+
+instruments-component-midi-file-collection-reload-button = 重新加载曲库
+
+instruments-component-midi-file-collection-delete-all-button = 清空曲库
+
+instruments-component-menu-midi-min-volume-slider-label = MIDI 输入最小音量

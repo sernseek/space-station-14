@@ -172,8 +172,84 @@ guide-entry-tools-combination-locks = 密码锁
 
 
 # 角色扮演
-guide-entry-roleplay-intro = 角色扮演指南
+guide-entry-roleplay-intro = 如何进行角色扮演
 guide-entry-roleplay-01 = 基础知识
 guide-entry-roleplay-02 = 协作叙事
 guide-entry-roleplay-03 = 失败即乐趣
 guide-entry-roleplay-04 = 结合机制进行表演
+
+guide-entry-sl-secure-terminal = 保密终端
+
+guide-entry-sl-secure-terminal-ert = 应急响应队
+
+guide-entry-sl-secure-terminal-alerts = 警戒等级
+
+guide-entry-sl-secure-terminal-armories = 军械库与逃生舱
+
+guide-entry-sl-secure-terminal-misc = 杂项
+
+guide-entry-sl-secure-terminal-guide = 保密终端
+
+guide-entry-sl-security-sop-criminal-status = 犯罪状态
+
+guide-entry-sl-security-ammo-types = 弹药类型
+
+guide-entry-stirstir = 搅拌搅拌
+
+guide-entry-sl-engineering-supermatter = 超物质晶体
+
+guide-entry-sl-engineering-supermatter-stability = 稳定性
+
+guide-entry-sl-engineering-supermatter-structural-recovery = 结构恢复
+
+guide-entry-sl-engineering-supermatter-delamination = 分层
+
+guide-entry-sl-engineering-supermatter-advanced-handling = 超物质进阶操作
+
+guide-entry-sl-salvage-sop-intro = 打捞
+
+guide-entry-sl-salvage-sop-salvagers = 打捞队员
+
+guide-entry-sl-assistant-sop-staff-intro = 助理
+
+guide-entry-sl-assistant-sop-assistantmanager = 助理经理
+
+guide-entry-sl-assistant = 助理
+
+guide-entry-sl-dough-recipes = 面团
+
+guide-entry-corporate-law = 企业法
+
+guide-entry-treatment-of-prisoners = 囚犯待遇
+
+guide-entry-search-and-seizure = 搜查与扣押
+
+guide-entry-permits = 许可证
+
+guide-entry-implantation = 植入
+
+guide-entry-sentencing = 量刑
+
+guide-entry-parole = 假释
+
+guide-entry-legal-representation = 法律代理
+
+guide-entry-penal-code = 刑法典
+
+guide-entry-civil-code = 民法典
+
+guide-entry-crime-list = 罪名列表
+
+guide-entry-jurisdiction = 管辖权
+
+guide-entry-petty-disputes = 轻微纠纷
+
+guide-entry-plea-bargains = 认罪协商
+
+guide-entry-gasses2 = 关键气体
+
+guide-entry-gasses3 = 功能性气体
+
+guide-entry-gasses4 = 进阶气体
+
+guide-entry-gasses5 = 稀有气体

@@ -138,3 +138,25 @@ loadout-group-NanotrasenCareerTrainer-eyewear = 纳米传讯职业培训师眼�
 
 # Security
 loadout-group-warden-neck = 典狱长颈部
+
+loadout-group-roboticist-neck = 机器人专家颈部
+
+loadout-group-assistantmanager-head = 助理经理头部
+
+loadout-group-assistantmanager-jumpsuit = 助理经理连体衣
+
+loadout-group-assistantmanager-backpack = 助理经理背包
+
+loadout-group-assistantmanager-gloves = 助理经理手套
+
+loadout-group-assistantmanager-outerclothing = 助理经理外套
+
+loadout-group-assistantmanager-shoes = 助理经理鞋子
+
+loadout-group-k9-variant = K9马甲
+
+loadout-group-k9-outerclothing = K9护甲
+
+loadout-group-k9-eyes = K9护目镜
+
+loadout-group-detective-lethal = 侦探致命配枪

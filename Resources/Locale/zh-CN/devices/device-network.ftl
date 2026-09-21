@@ -54,3 +54,5 @@ device-net-id-wireless = 无线
 device-net-id-apc = APC
 device-net-id-atmos-devices = 大气设备
 device-net-id-reserved = 保留
+
+device-address-unknown = ????-????

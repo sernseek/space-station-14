@@ -2,580 +2,580 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值
-ent-FreezeRuneWiz = freeze rune
+ent-FreezeRuneWiz = 冰冻符文
 
 # TODO[新增] 值 .desc
-ent-FretlessBassGuitarInstrument = fretless bass guitar
-    .desc = You feel really cool holding this. Shame only fretted bass players think that.
+ent-FretlessBassGuitarInstrument = 无品电贝斯
+    .desc = 拿着它你感觉自己酷毙了。可惜只有有品贝斯手才会这么想。
 
 # TODO[新增] 值 .desc
-ent-GasMinerAntiNoblium = anti-noblium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerAntiNoblium = 反诺布气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerBZ = BZ gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerBZ = BZ 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerHalon = halon gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerHalon = 哈龙气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerHealium = healium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerHealium = 疗素气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerHelium = helium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerHelium = 氦气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerHydrogen = hydrogen gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerHydrogen = 氢气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerHyperNoblium = hyper-noblium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerHyperNoblium = 超诺布气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerNitrium = nitrium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerNitrium = 硝铌气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerPluoxium = pluoxium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerPluoxium = 普罗克辛气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerProtoNitrate = proto-nitrate gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerProtoNitrate = 原硝酸盐气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerUlnitranium = ulnitranium gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerUlnitranium = 乌尼特拉气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerZXA = ZXA gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerZXA = ZXA 气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMinerZauker = zauker gas miner
-    .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+ent-GasMinerZauker = 佐克尔气体矿机
+    .desc = 从下方（上方？）气态巨行星开采的气体，经由这个巨型通风口涌出。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixer = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixer = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerAlt1 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerAlt1 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerAlt2 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerAlt2 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerAlt3 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerAlt3 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerAlt4 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerAlt4 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerFlipped = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerFlipped = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerFlippedAlt1 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerFlippedAlt1 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerFlippedAlt2 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerFlippedAlt2 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerFlippedAlt3 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerFlippedAlt3 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasMolarMixerFlippedAlt4 = molar gas mixer
-    .desc = Very useful for mixing gases.
+ent-GasMolarMixerFlippedAlt4 = 摩尔气体混合器
+    .desc = 非常适合混合气体。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloor = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloor = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorAlt1 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorAlt1 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorAlt2 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorAlt2 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorAlt3 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorAlt3 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorAlt4 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorAlt4 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1000 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1000 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1000Alt1 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1000Alt1 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1000Alt2 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1000Alt2 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1000Alt3 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1000Alt3 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1000Alt4 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1000Alt4 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1500 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1500 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1500Alt1 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1500Alt1 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1500Alt2 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1500Alt2 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1500Alt3 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1500Alt3 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir1500Alt4 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir1500Alt4 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir500 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir500 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir500Alt1 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir500Alt1 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir500Alt2 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir500Alt2 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir500Alt3 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir500Alt3 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankSubfloorFilledAir500Alt4 = subfloor gas tank
-    .desc = A 750L gas tank built into the subfloor. Perfect when space is at a premium.
+ent-GasPipeTankSubfloorFilledAir500Alt4 = 地板下气体储罐
+    .desc = 一只内置于地板下的 750L 气体储罐。空间紧张时的完美选择。
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTall = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTall = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallAlt1 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallAlt1 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallAlt2 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallAlt2 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallAlt3 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallAlt3 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallAlt4 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallAlt4 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir1000 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir1000 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir1000Alt1 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir1000Alt1 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir1000Alt2 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir1000Alt2 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir1000Alt3 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir1000Alt3 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir1000Alt4 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir1000Alt4 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir2500 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir2500 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir2500Alt1 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir2500Alt1 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir2500Alt2 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir2500Alt2 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir2500Alt3 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir2500Alt3 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir2500Alt4 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir2500Alt4 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir4000 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir4000 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir4000Alt1 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir4000Alt1 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir4000Alt2 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir4000Alt2 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir4000Alt3 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir4000Alt3 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir4000Alt4 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir4000Alt4 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir7500 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir7500 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir7500Alt1 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir7500Alt1 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir7500Alt2 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir7500Alt2 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir7500Alt3 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir7500Alt3 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GasPipeTankTallFilledAir7500Alt4 = tall gas tank
-    .desc = A tank that stores 2000L of gas. It's very big. Bigger than you. The warning label reads, "If you can read this, you are standing too close!".
+ent-GasPipeTankTallFilledAir7500Alt4 = 高型气体储罐
+    .desc = 一只可储存 2000L 气体的储罐。它非常大，比你大。警告标签上写着："如果你能读到这行字，说明你站得太近了！"
 
 # TODO[新增] 值 .desc
-ent-GassyStoneAmmonia = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneAmmonia = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneBZ = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneBZ = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneCarbonDioxide = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneCarbonDioxide = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneFrezon = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneFrezon = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneHalon = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneHalon = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneHealium = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneHealium = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneNitrousOxide = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneNitrousOxide = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStonePlasma = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStonePlasma = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStonePluoxium = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStonePluoxium = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneTritium = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneTritium = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneUlnitranium = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneUlnitranium = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneWaterVapor = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneWaterVapor = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值 .desc
-ent-GassyStoneZXA = strange stone
-    .desc = A small stone that is exceptionally dry to the touch. Despite having no pores, it seems to be emitting a small amount of gas.
+ent-GassyStoneZXA = 怪异石头
+    .desc = 一块摸起来异常干燥的小石头。明明没有孔隙，它却似乎在释放少量气体。
 
 # TODO[新增] 值
-ent-GlovesBoxingRiggedRandomSpawner = random rigged boxing glove spawner
+ent-GlovesBoxingRiggedRandomSpawner = 随机被动手脚的拳击手套生成器
 
 # TODO[新增] 值 .desc
-ent-GlowingOrb = glowing orb
-    .desc = A bright orb of light. It seems fragile.
+ent-GlowingOrb = 发光球体
+    .desc = 一颗明亮的光球。看起来很脆弱。
 
 # TODO[新增] 值
-ent-GooseRune_drawing = goose rune
+ent-GooseRune_drawing = 鹅符文
 
 # TODO[新增] 值 .desc
-ent-GreenWizardDuelistMedallion = Disciples of Evergrow medallion
-    .desc = Proof that the green wizards are the wisest of all.
+ent-GreenWizardDuelistMedallion = 常青门徒勋章
+    .desc = 证明绿巫师才是众巫师中最睿智的。
 
 # TODO[新增] 值 .desc
-ent-HalonGasGrenade = halon gas grenade
-    .desc = A special solid state chemical grenade used for quickly releasing halon gas to extinguish fires.
+ent-HalonGasGrenade = 哈龙气体手雷
+    .desc = 一种特制的固态化学手雷，用于快速释放哈龙气体灭火。
 
 # TODO[新增] 值 .desc
-ent-HandDryer = hand dryer
-    .desc = A hand dryer, for when youre too good for paper towels.
+ent-HandDryer = 干手器
+    .desc = 一台干手器，为不屑用纸巾擦手的你准备。
 
 # TODO[新增] 值 .desc
-ent-HandSanitiser = hand sanitiser dispenser
-    .desc = Don't get any in your eyes.
+ent-HandSanitiser = 洗手液分配器
+    .desc = 别弄进眼睛里。
 
 # TODO[新增] 值 .desc
-ent-HandheldEngineeringMonitor = handheld engineering monitor
-    .desc = A hand-held diagnostic slate. It switches between mapping the station's power network and paging through atmospheric alarms.
+ent-HandheldEngineeringMonitor = 手持工程监测仪
+    .desc = 一块手持诊断平板，可在空间站电网测绘与大气警报列表之间切换。
 
 # TODO[新增] 值 .desc
-ent-HandheldEngineeringMonitorEmpty = handheld engineering monitor
-    .desc = A hand-held diagnostic slate. It switches between mapping the station's power network and paging through atmospheric alarms.
+ent-HandheldEngineeringMonitorEmpty = 手持工程监测仪
+    .desc = 一块手持诊断平板，可在空间站电网测绘与大气警报列表之间切换。
 
 # TODO[新增] 值
-ent-HeadDoll = doll head
+ent-HeadDoll = 玩偶头
 
 # TODO[新增] 值
-ent-HeadNeoVulpkanin = neo-vulpkanin head
+ent-HeadNeoVulpkanin = 新伏尔卡宁头
 
 # TODO[新增] 值
-ent-HeadNeocyte = neocyte head
+ent-HeadNeocyte = 尼赛特头
 
 # TODO[新增] 值 .desc
-ent-HolosignFalseShutter = shutter?
-    .desc = A shutter, you think?
+ent-HolosignFalseShutter = 卷帘门？
+    .desc = 一扇卷帘门，大概吧？
 
 # TODO[新增] 值 .desc
-ent-ITGTrackerImplanter = ITG tracker implanter
-    .desc = A disposable syringe exclusively designed for the injection of subdermal implants.
+ent-ITGTrackerImplanter = ITG 追踪植入器
+    .desc = 一支专为注射皮下植入物设计的一次性注射器。
 
 # TODO[新增] 值 .desc
-ent-ITGTrackingImplant = itg tracking implant
-    .desc = This implant has a tracking device attached to the suit sensor network, as well as a condition monitor for the expedition channel.
+ent-ITGTrackingImplant = ITG 追踪植入物
+    .desc = 该植入物附有接入宇航服传感网络的追踪装置，以及远征频道的状态监测器。
 
 # TODO[新增] 值 .desc
-ent-IcePillars = ice pillar
-    .desc = A sturdy and see-through pillar of ice.
+ent-IcePillars = 冰柱
+    .desc = 一根坚固而透明的冰柱。
 
 # TODO[新增] 值
-ent-Icefragbomb = ice bomb
+ent-Icefragbomb = 冰冻手雷
 
 # TODO[新增] 值
-ent-IgniteRuneWiz = ignition rune
+ent-IgniteRuneWiz = 点燃符文
 
 # TODO[新增] 值 .desc
-ent-ImmortalRoach = hardened roach
-    .desc = With an extremely robust carapace this foul creature is considered neigh invulnerable. Spacing is recommended.
+ent-ImmortalRoach = 硬壳蟑螂
+    .desc = 这只恶心的生物长着极其坚固的甲壳，被认为近乎无懈可击。建议把它丢出舱外。
 
 # TODO[新增] 值
-ent-JanimovCircuitBoard = law board (Janimov)
+ent-JanimovCircuitBoard = 法则电路板（杰尼莫夫）
 
 # TODO[新增] 值 .desc
-ent-K9Sprint = [color=lightblue]Sprint[/color]
-    .desc = A short burst of speed.
+ent-K9Sprint = [color=lightblue]冲刺[/color]
+    .desc = 一次短暂的速度爆发。
 
 # TODO[新增] 值 .desc
-ent-LancerArcade = Lancer Solo Strike
-    .desc = An arcade cabinet running Lancer Solo Strike.
+ent-LancerArcade = 《枪骑兵：孤军突击》街机
+    .desc = 一台运行《枪骑兵：孤军突击》的街机。
 
 # TODO[新增] 值 .desc
-ent-LancerArcadeComputerCircuitboard = Lancer Solo Strike arcade board
-    .desc = A computer printed circuit board for a Lancer Solo Strike arcade cabinet.
+ent-LancerArcadeComputerCircuitboard = 《枪骑兵：孤军突击》街机主板
+    .desc = 用于《枪骑兵：孤军突击》街机的计算机印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-Latch = [color=orange]Latch[/color]
-    .desc = Pin a target in place. Bite harder to extend the hold; taking hits shortens it.
+ent-Latch = [color=orange]钳制[/color]
+    .desc = 把目标钉在原地。咬得更紧可延长钳制时间；受到攻击会缩短它。
 
 # TODO[新增] 值 .desc
-ent-LatchBiteHarder = [color=orange]Bite Harder[/color]
-    .desc = Deal damage and extend the latch, up to its hard cap.
+ent-LatchBiteHarder = [color=orange]咬得更紧[/color]
+    .desc = 造成伤害并延长钳制时间，最高不超过硬性上限。
 
 # TODO[新增] 值 .desc
-ent-LatchRelease = [color=orange]Release[/color]
-    .desc = Let go of the latch immediately.
+ent-LatchRelease = [color=orange]松开[/color]
+    .desc = 立即放开钳制。
 
 # TODO[新增] 值
-ent-LeftArmDoll = left doll arm
+ent-LeftArmDoll = 玩偶左臂
 
 # TODO[新增] 值
-ent-LeftArmNeoVulpkanin = left neo-vulpkanin arm
+ent-LeftArmNeoVulpkanin = 新伏尔卡宁左臂
 
 # TODO[新增] 值
-ent-LeftArmNeocyte = left neocyte arm
+ent-LeftArmNeocyte = 尼赛特左臂
 
 # TODO[新增] 值
-ent-LeftFootDoll = left doll foot
+ent-LeftFootDoll = 玩偶左脚
 
 # TODO[新增] 值
-ent-LeftFootNeoVox = left neo-vox foot
+ent-LeftFootNeoVox = 新沃克斯左脚
 
 # TODO[新增] 值
-ent-LeftFootNeocyte = left neocyte foot
+ent-LeftFootNeocyte = 尼赛特左脚
 
 # TODO[新增] 值
-ent-LeftHandDoll = left doll hand
+ent-LeftHandDoll = 玩偶左手
 
 # TODO[新增] 值
-ent-LeftHandNeoVox = left neo-vox hand
+ent-LeftHandNeoVox = 新沃克斯左手
 
 # TODO[新增] 值
-ent-LeftHandNeoVulpkanin = left neo-vulpkanin hand
+ent-LeftHandNeoVulpkanin = 新伏尔卡宁左手
 
 # TODO[新增] 值
-ent-LeftHandNeocyte = left neocyte hand
+ent-LeftHandNeocyte = 尼赛特左手
 
 # TODO[新增] 值
-ent-LeftLegDoll = left doll leg
+ent-LeftLegDoll = 玩偶左腿
 
 # TODO[新增] 值
-ent-LeftLegNeocyte = left neocyte leg
+ent-LeftLegNeocyte = 尼赛特左腿
 
 # TODO[新增] 值 .desc
-ent-Legg = legg
-    .desc = With a hardened shell and a scowl on their face, a legg is not one to be messed with.
+ent-Legg = 莱格
+    .desc = 长着坚硬的甲壳、一脸凶相的莱格，可不是好惹的。
 
 # TODO[新增] 值 .desc
-ent-LightTubeWarm = warm light tube
-    .desc = A warm light tube conducive to slowly bleeding out in the snow. Definitely contains sodium.
+ent-LightTubeWarm = 暖光灯管
+    .desc = 一根暖光灯管，很适合让你在雪地里慢慢流血而死。绝对含钠。
 
 # TODO[新增] 值 .desc
-ent-LoadoutDummyK9Black = black
-    .desc = A black-coated security K9.
+ent-LoadoutDummyK9Black = 黑色
+    .desc = 一只黑色毛皮的安保 K9。
 
 # TODO[新增] 值 .desc
-ent-LoadoutDummyK9Brown = brown
-    .desc = A brown-coated security K9.
+ent-LoadoutDummyK9Brown = 棕色
+    .desc = 一只棕色毛皮的安保 K9。
 
 # TODO[新增] 值 .desc
-ent-LoadoutDummyK9Grey = grey
-    .desc = A grey-coated security K9.
+ent-LoadoutDummyK9Grey = 灰色
+    .desc = 一只灰色毛皮的安保 K9。
 
 # TODO[新增] 值 .desc
-ent-LoadoutDummyK9Tan = tan
-    .desc = A tan-coated security K9.
+ent-LoadoutDummyK9Tan = 黄褐色
+    .desc = 一只黄褐色毛皮的安保 K9。
 
 # TODO[新增] 值 .desc
-ent-LockerCasino = casino vault locker
-    .desc = A black and gold locker for the house's chips. Casino staff only.
+ent-LockerCasino = 赌场金库储物柜
+    .desc = 存放庄家筹码的黑金配色储物柜。仅限赌场员工使用。
 
 # TODO[新增] 值 .desc
-ent-LockerCasinoFilled = casino vault locker
-    .desc = A black and gold locker for the house's chips. Casino staff only.
+ent-LockerCasinoFilled = 赌场金库储物柜
+    .desc = 存放庄家筹码的黑金配色储物柜。仅限赌场员工使用。
 
 # TODO[新增] 值 .desc
-ent-LockerSalvageMedic = salvage medic's locker
-    .desc = A standard-issue NanoTrasen storage unit.
+ent-LockerSalvageMedic = 打捞医师储物柜
+    .desc = 纳米传讯制式储物单元。
 
 # TODO[新增] 值 .desc
-ent-LockerSalvageMedicFilled = salvage medic's locker
-    .desc = A standard-issue NanoTrasen storage unit.
+ent-LockerSalvageMedicFilled = 打捞医师储物柜
+    .desc = 纳米传讯制式储物单元。
 
 # TODO[新增] 值 .desc
-ent-LockerSalvageMedicFilledHardsuit = salvage medic's locker
-    .desc = A standard-issue NanoTrasen storage unit.
+ent-LockerSalvageMedicFilledHardsuit = 打捞医师储物柜
+    .desc = 纳米传讯制式储物单元。
 
 # TODO[新增] 值 .desc
-ent-MagazineCognitoWood = CognitoWood #1
-    .desc = A comic book about CognitoWood, the mind-bending diona superhero. The headline reads: 'Perseverance, Lethargy, and Branches, Super-Nymphs United!'
+ent-MagazineCognitoWood = 《科尼伍德》第 1 期
+    .desc = 一本关于扭曲心智的狄奥娜超级英雄科尼伍德的漫画书。头条写着："毅力、慵懒与树枝——超级若虫大联合！"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy = True History
-    .desc = "A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'Where NanoTrasen Really Went'"
+ent-MagazineConspiracy = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："纳米传讯真正去了哪儿"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy2 = True History
-    .desc = "A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'Helios Logistics behind water shortages'"
+ent-MagazineConspiracy2 = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："赫利俄斯物流是水资源短缺的幕后黑手"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy3 = True History
-    .desc = A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'Rising barricade usage orchestrated by Big Wood'
+ent-MagazineConspiracy3 = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："路障使用量的激增由木材大亨暗中操纵"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy4 = True History
-    .desc = A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'RATMEN ARE REAL AND IN YOUR STATION'
+ent-MagazineConspiracy4 = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："鼠人真实存在，而且就在你的空间站里"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy5 = True History
-    .desc = A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'The plan to forge people into a large sphere & why you should be worried'
+ent-MagazineConspiracy5 = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："把人类锻造成一颗大球的计划，以及你为何应该担心"
 
 # TODO[新增] 值 .desc
-ent-MagazineConspiracy6 = True History
-    .desc = "A zine containing various crazed ramblings & conspiracy theories. The headline reads: 'Space Diner chefs caught secretly lacing food with floor tile dirt'"
+ent-MagazineConspiracy6 = 《真实历史》
+    .desc = 一本收录各种疯言疯语与阴谋论的小杂志。头条写着："太空餐厅厨师被抓到偷偷往食物里掺地板砖灰土"
 
 # TODO[新增] 值 .desc
-ent-MagazineCookingAndBotany = Chell's Cooking & Botany
-    .desc = A magazine containing various cooking recipes & botanical tips for aspiring chefs onboard space stations. The headline reads: 'Best Recipes of 2065'
+ent-MagazineCookingAndBotany = 《切尔的烹饪与植物学》
+    .desc = 一本为有志在空间站当厨师的人准备的杂志，收录各种烹饪食谱与植物学技巧。头条写着："2065 年最佳食谱"
 
 # TODO[新增] 值 .desc
-ent-MagazineCrossword = crossword magazine
-    .desc = A magazine containing various crossword puzzles. Popular amongst detectives.
+ent-MagazineCrossword = 填字游戏杂志
+    .desc = 一本收录各种填字游戏的杂志。在侦探中很受欢迎。
 
 # TODO[新增] 值 .desc
-ent-MagazineEarthNews = "Oxygenated Wonders, Sol News Highlights
-    .desc = "A magazine containing a positive spin on Sol news. The headline reads: 'New species discovered, atmosphere-based mobility innovations, and more!'"
+ent-MagazineEarthNews = 《含氧奇观：太阳系新闻精选》
+    .desc = 一本正面报道太阳系新闻的杂志。头条写着："新物种被发现、基于大气的机动性创新，以及更多！"
 
 # TODO[新增] 值 .desc
-ent-MagazineEngineerNews = ShuttleTech #2
-    .desc = "A magazine containing the latest news on engineering & tech advancements. The headline reads: 'NanoTrasen-competitor leaks information from rumored megathruster schematics'"
+ent-MagazineEngineerNews = 《穿梭机科技》第 2 期
+    .desc = 一本收录工程与技术最新进展的杂志。头条写着："纳米传讯的竞争对手泄露了传闻中的巨型推进器图纸"
 
 # TODO[新增] 值 .desc
-ent-MagazineEngineerNews2 = ShuttleTech #5
-    .desc = A magazine containing the latest news on engineering & tech advancements. The headline reads: 'Experimental cryogenic power source research begins'
+ent-MagazineEngineerNews2 = 《穿梭机科技》第 5 期
+    .desc = 一本收录工程与技术最新进展的杂志。头条写着："实验性低温能源研究启动"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion = Fashion Fanatics #4
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Outfits for scientific research'
+ent-MagazineFashion = 《时尚狂》第 4 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："科研穿搭"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion2 = Fashion Fanatics #14
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Androgynous performer outfits for budding enbies'
+ent-MagazineFashion2 = 《时尚狂》第 14 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："为初出茅庐的非二元者准备的雌雄同体表演服装"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion3 = Fashion Fanatics #15
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Aquatic-themed outfit ideas'
+ent-MagazineFashion3 = 《时尚狂》第 15 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："水生主题穿搭创意"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion4 = Fashion Fanatics #17
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Rough-and-tumble outfits for space bikers'
+ent-MagazineFashion4 = 《时尚狂》第 17 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："太空飞车党的粗犷穿搭"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion5 = Fashion Fanatics #20
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Swirly-glass outfits for swirly glasses girls'
+ent-MagazineFashion5 = 《时尚狂》第 20 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："为晕眩眼镜女孩准备的漩涡纹穿搭"
 
 # TODO[新增] 值 .desc
-ent-MagazineFashion6 = Fashion Fanatics #22
-    .desc = A magazine containing various fashion ideas & news. The headline reads: 'Color-coordinated outfit ideas for teams and groups'
+ent-MagazineFashion6 = 《时尚狂》第 22 期
+    .desc = 一本收录各种时尚灵感与资讯的杂志。头条写着："适合团队与小队的配色统一穿搭创意"

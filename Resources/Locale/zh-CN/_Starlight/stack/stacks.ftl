@@ -141,3 +141,7 @@ stack-abyssium-bar = {$amount ->
     [1] 深渊锭
     *[other] 深渊锭
 }
+
+stack-carpet-art-tile = 艺术地毯块
+
+stack-casino-chip = 赌场筹码

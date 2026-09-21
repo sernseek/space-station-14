@@ -93,3 +93,13 @@ names-cyclorite-dataset-92 = 耳语
 names-cyclorite-dataset-93 = 菲阿恩特阿斯姆阿
 names-cyclorite-dataset-94 = 克奥斯姆奥斯
 names-cyclorite-dataset-95 = 黑暗之星辰
+
+names-cyclorite-dataset-96 = 磁星
+
+names-cyclorite-dataset-97 = 远拱点
+
+names-cyclorite-dataset-98 = 星群
+
+names-cyclorite-dataset-99 = 纪元
+
+names-cyclorite-dataset-100 = 远日点

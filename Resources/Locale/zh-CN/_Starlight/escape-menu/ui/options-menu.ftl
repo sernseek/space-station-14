@@ -61,3 +61,39 @@ ui-options-admin-ghost-script-label = aghost 脚本
 ui-options-admin-ghost-script-tooltip =
     成为管理员幽灵时（无论通过命令还是从大厅观察）自动执行的脚本名称。
     路径相对于启动器数据目录，Windows 下通常在 AppData 内，Linux 下在 .local/share 内。
+
+ui-escape-connect-steam = 绑定 Steam
+
+server-info-connect-steam-button = 绑定 Steam
+
+ui-starlight = Starlight
+
+ui-options-auto-punctuate = 自动为角色内消息添加标点
+
+ui-options-general-ghost-themes = 幽灵主题
+
+ui-options-general-ghost-themes-force-tester = 在幽灵主题菜单中强制显示测试者标签页
+
+ui-options-hud-theme-mpurp = M-Purp
+
+ui-options-sprite-quality = 天气质量：
+
+ui-options-sprite-quality-low = 低
+
+ui-options-sprite-quality-medium = 中
+
+ui-options-sprite-quality-high = 高
+
+ui-options-sprite-quality-tooltip =
+    选择提供备选版本的贴图与特效所使用的画质。
+
+ui-options-interaction-particles = 交互粒子：
+
+ui-options-interaction-particles-all = 全部
+
+ui-options-interaction-particles-without-inhand = 除手持外
+
+ui-options-interaction-particles-none = 无
+
+ui-options-interaction-particles-tooltip =
+    手持与物品栏粒子仅对你的角色执行的动作显示。

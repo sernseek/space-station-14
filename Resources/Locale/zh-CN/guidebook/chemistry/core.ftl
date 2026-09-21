@@ -31,3 +31,9 @@ guidebook-reagent-recipes-mix-info = {$minTemp ->
             *[false] 在高于 {NATURALFIXED($minTemp, 2)}K 时{CAPITALIZE($verb)}
         }
 }
+
+guidebook-reagent-effects-metabolism-stage-rate = [bold]{$stage}[/bold] [color=gray]（每秒 {$rate} 单位）[/color]
+
+guidebook-reagent-effects-metabolite-item = {$reagent}，速率为 { NATURALPERCENT($rate, 2) }
+
+guidebook-reagent-effects-metabolites = 代谢为 { $items }。

@@ -45,3 +45,7 @@ chat-emote-msg-snort = 喷着鼻息
 chat-emote-msg-stomp = 跺了跺脚
 chat-emote-msg-hum = 哼唱起来
 chat-emote-msg-glub = 咕噜作响
+
+emote-menu-bound = 已将 {$emote} 绑定到快捷动作
+
+emote-menu-already-bound = 已将 {$emote} 从快捷动作解绑

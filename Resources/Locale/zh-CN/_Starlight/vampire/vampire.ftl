@@ -192,3 +192,5 @@ Vamp-converted-text =
     你已受到奴役！
     忠实服从你的主人，你可以使用“+p”接入蜂巢思维
 Vamp-converted-confirm = 明白
+
+roles-antag-vampire-name = 吸血鬼

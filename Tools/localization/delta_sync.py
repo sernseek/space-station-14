@@ -61,7 +61,9 @@ def parse(text: str) -> tuple[list[str], dict[str, Message]]:
     msgs: dict[str, Message] = {}
     cur: Message | None = None
     cur_part: str | None = None
-    for i, line in enumerate(lines):
+    i = 0
+    while i < len(lines):
+        line = lines[i]
         if m := MSG_RE.match(line):
             cur = Message(m.group(1), i)
             cur_part = ""
@@ -72,6 +74,21 @@ def parse(text: str) -> tuple[list[str], dict[str, Message]]:
             cur_part = m.group(1)
             cur.add_part(cur_part, line)
             cur.end = i + 1
+        elif cur is not None and cur_part is not None and not line.strip():
+            # Fluent 允许多行值中间夹空行：只要空行之后的下一行仍是缩进的续行，
+            # 消息就没结束（书本、打印文档常见）。按"空行即结束"解析会只拿到第一段。
+            j = i + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            if (j < len(lines) and lines[j][:1] in (" ", "\t")
+                    and not lines[j].lstrip().startswith("#")):
+                for k in range(i, j):
+                    cur.append_line(cur_part, lines[k])
+                cur.end = j
+                i = j
+                continue
+            cur = None
+            cur_part = None
         elif (cur is not None and cur_part is not None and line.strip()
               and not line.lstrip().startswith("#")):
             # 续行。注意选择器的收尾 `}` 在仓库里常写在第 0 列，必须一并收进来，
@@ -81,6 +98,7 @@ def parse(text: str) -> tuple[list[str], dict[str, Message]]:
         else:
             cur = None
             cur_part = None
+        i += 1
     return lines, msgs
 
 

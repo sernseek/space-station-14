@@ -21,3 +21,11 @@ reagent-desc-mortucussus = 不建议食用。可用于合成安布唑。
 
 reagent-name-putrid-blood = 腐败血液
 reagent-desc-putrid-blood = 不建议食用。闻起来似乎含有微量莫图库苏斯。
+
+reagent-name-pseudoceramic-platelets = 拟陶瓷血小板
+
+reagent-desc-pseudoceramic-platelets = 粗糙、松脆，又黏糊糊的……
+
+reagent-name-doll-blood = 异常血液
+
+reagent-desc-doll-blood = 就像一碗浓稠的肉汤……

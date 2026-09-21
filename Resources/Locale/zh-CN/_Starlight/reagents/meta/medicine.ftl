@@ -21,3 +21,7 @@ reagent-desc-acrileni = 可治疗轻微穿刺伤的温和天然药物。
 
 reagent-name-iceialin = 冰艾林
 reagent-desc-iceialin = 触感冰凉，可将尸体温度恢复正常。
+
+reagent-name-respirazone = 呼吸酮
+
+reagent-desc-respirazone = 用于治疗严重的呼吸窘迫和失血。与传统供氧药物不同，它兼容种类繁多的物种。

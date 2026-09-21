@@ -215,3 +215,5 @@ loadout-group-paramedic-shoes = 急救员鞋子
 loadout-group-reporter-jumpsuit = 记者连体衣
 
 loadout-group-psychologist-jumpsuit = 心理医生连体衣
+
+loadout-group-reporter-outerclothing = 记者马甲

@@ -22,7 +22,7 @@ ghost-role-information-derelict-borgi-name = 废弃博基
 ghost-role-information-derelict-borgi-desc = 你是一只迷失在太空中的普通博基。遭受离子风暴侵袭多年后，你发现自己来到了一座空间站附近。
 
 ghost-role-information-horrific-tie-name = 恐怖领带
-ghost-role-information-horrific-tie-description = 你是《极乐迪斯科》里的恐怖领带。
+ghost-role-information-horrific-tie-description = 你是一条恐怖的领带，迎合佩戴者享乐而散漫的欲望，做他们领口上那个自私自利的恶魔！
 ghost-role-information-horrific-tie-rules = [bold][color=cyan]管理员警告：如果你不了解《极乐迪斯科》，也不知道如何扮演其中的领带，请勿选择此角色。[/color][/bold]
 
 ghost-role-information-space-courier-trunk-name = 太空快递员行李箱 pAI
@@ -130,4 +130,22 @@ ghost-role-information-kiki-name = 琪琪
 ghost-role-information-kiki-description = 狗头人社会的光荣成员，负责植物学工作，并尽其所能帮助植物学家。
 
 ghost-role-information-stirstir-name = 搅搅
-ghost-role-information-stirstir-description = 一只声名狼藉、不值得信任的猴子。名副其实的牢房常客。
+ghost-role-information-stirstir-description = 一只声名狼藉、不可信任的猴子。名副其实的牢房常客。更多信息请查看指南手册。
+
+ghost-role-information-syndicate-mothroach-reinforcement-name = 辛迪加蛾蟑螂
+
+ghost-role-information-syndicate-mothroach-reinforcement-description = 有人需要增援。你，一只训练有素的蛾蟑螂，将助他们一臂之力。
+
+ghost-role-information-icesculpture-name = 冰雕
+
+ghost-role-information-icesculpture-description = 一座被魔法赋予知性的冰雕，服从你的主人！
+
+ghost-role-information-icesculpture-rules = 确保你的召唤者存活，不惜一切代价保护他们。你为此而生。
+
+ghost-role-information-sentient-sharkminnow-name = 知性鲨小鱼
+
+ghost-role-information-sentient-sharkminnow-description = 守卫巨龙的裂隙并服从太空巨龙。保护裂隙免受任何企图摧毁它的人侵害！
+
+ghost-role-information-sentient-holocarp-name = 知性全息鲤鱼
+
+ghost-role-information-sentient-holocarp-description = 协助太空巨龙并服从它的命令。帮助巨龙用鲤鱼淹没空间站，碾碎它的敌人！

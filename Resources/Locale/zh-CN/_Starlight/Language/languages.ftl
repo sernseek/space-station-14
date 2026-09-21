@@ -55,10 +55,10 @@ language-Sylvan-name = 森语
 language-Sylvan-description = 植物说这种语言。
 
 language-Chittin-name = 触鸣语
-language-Chittin-description = 摩擦触角发出的声音其实是一种复杂的交流方式。
-chat-speech-verb-chittin-1 = 摩擦着触角
-chat-speech-verb-chittin-2 = 用触角窸窣作响
-chat-speech-verb-chittin-3 = 晃动着触角
+language-Chittin-description = 通过摩擦螯肢发出的声响其实是一种复杂的交流方式。
+chat-speech-verb-chittin-1 = 摩擦着TA的螯肢
+chat-speech-verb-chittin-2 = 沙沙地动着TA的螯肢
+chat-speech-verb-chittin-3 = 抖动着TA的螯肢
 chat-chittin-whisper-wrap = [italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] [BubbleContent]轻轻窸窣道：“[font="{$fontType}" size={$fontSize}][color={$color}]{$message}[/color][/font]”[/italic][/BubbleContent]
 
 language-VoxPidgin-name = 沃克斯皮钦语
@@ -144,3 +144,11 @@ language-Xenomind-description = 异形与恐怖生物的种种心灵。
 
 language-Squeakish-name = 吱吱语
 language-Squeakish-description = 啮齿族的语言，由一连串啾鸣和吱叫组成。
+
+language-CatFeral-name = 猫语（野性）
+
+language-CatFeral-description = 一种不太讲究的猫科方言，只有猫才能听懂。
+
+language-DogFeral-name = 犬语（野性）
+
+language-DogFeral-description = 一种不太讲究的犬科方言，只有狗才能听懂。

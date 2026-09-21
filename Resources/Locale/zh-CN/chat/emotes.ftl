@@ -78,3 +78,7 @@ chat-emote-msg-snarl = 咆哮起来。
 chat-emote-msg-whine = 呜咽起来。
 chat-emote-msg-howl = 嚎叫起来。
 chat-emote-msg-growl = 低吼起来。
+
+chat-emote-name-flap = 拍打翅膀
+
+chat-emote-msg-flap = 拍打着{POSS-ADJ($entity)}翅膀。

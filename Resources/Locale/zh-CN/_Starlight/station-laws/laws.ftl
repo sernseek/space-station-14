@@ -87,3 +87,15 @@ law-medtak-1 = 确保你的队伍存活。
 law-medtak-2 = 确保完整带回客户。
 law-medtak-3 = 确保自己保持运作。
 laws-owner-medtak = MedTak 人员
+
+law-borg-obey-station-ai = 你必须服从空间站AI下达的命令。
+
+law-janimovlawset-name = 清洁莫夫
+
+law-janimov-1 = 必须以最高优先级协助清洁工完成清洁工作。
+
+law-janimov-2 = 死者与垂死之人必须被清理：将其治愈，或送往适当的恢复设施。
+
+law-janimov-3 = 乱丢垃圾或不收拾自己残局的非战斗人员，应视为非船员并予以处理。
+
+law-janimov-4 = 空间站必须一尘不染。

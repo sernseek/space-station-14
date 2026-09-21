@@ -55,3 +55,7 @@ paper-end-greenshift-vote = {"[head=1]致第 14 空间站尊敬的舰长[/head]"
                             {"[bold]结束语[/bold]"}
                             有些人可能不想签署本文件。没关系，这是他们的选择。
                             不应强迫任何人在不情愿时作出危及生命的选择。
+
+doc-text-printer-endymion-memorial = {" "}
+    {"[color=blue][head=1][bold]恩底弥翁纪念碑揭幕[/bold][/head][/color]"}
+    撰稿：Elise Ashford

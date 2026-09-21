@@ -42,8 +42,8 @@ uplink-c20r-desc = 久经考验的老伙计：经典 C-20r 冲锋枪。
 uplink-bulldog-name = 斗牛犬
 uplink-bulldog-desc = 精悍凶猛：内含广受欢迎的斗牛犬霰弹枪。
 
-uplink-estoc-name = Estoc 精确射手步枪
-uplink-estoc-desc = 一把配有中距离瞄具、适合远距离作战的精确射手步枪。
+uplink-estoc-name = 埃斯托克DMR
+uplink-estoc-desc = 一把精确射手步枪，配备中程瞄具，适合更远距离的作战。
 
 uplink-grenade-launcher-name = 中国湖
 uplink-grenade-launcher-desc = 一把老式中国湖榴弹发射器，附带 5 发杀伤榴弹。
@@ -249,8 +249,8 @@ uplink-micro-bomb-implanter-desc = 让你在死亡或手动激活时爆炸，并
 uplink-radio-implanter-name = 无线电植入器
 uplink-radio-implanter-desc = 植入一台辛迪加无线电，无需耳机即可秘密通信。
 
-uplink-voice-mask-implanter-name = 变声植入器
-uplink-voice-mask-implanter-desc = 改造你的声带，使你能模仿任何想象得到的声音。
+uplink-voice-mask-implanter-name = 身份面具植入器
+uplink-voice-mask-implanter-desc = 改造你的声带与面部结构，让你能模仿任何你想象得到的人。
 
 # Bundles
 uplink-observation-kit-name = 监视套装
@@ -308,7 +308,7 @@ uplink-starter-kit-desc = 内含价值 40 遥晶的基础特工装备。适合�
 uplink-toolbox-name = 工具箱
 uplink-toolbox-desc = 为精通机械的叛徒准备的一整套工具，另含一双绝缘战斗手套和一副辛迪加防毒面具。
 
-uplink-syndicate-jaws-of-life-name = 破拆工具
+uplink-syndicate-jaws-of-life-name = 死亡之颚
 uplink-syndicate-jaws-of-life-desc = 集撬动与切割于一体的工具。适合闯入空间站或各部门，甚至能打开上了门栓的门！
 
 uplink-duffel-surgery-name = 外科手术行李袋
@@ -346,7 +346,7 @@ uplink-chimp-upgrade-kit-name = C.H.I.M.P. 手炮升级芯片
 uplink-chimp-upgrade-kit-desc = 将芯片插入标准 C.H.I.M.P. 手炮，使其能够发射欧米伽粒子。欧米伽粒子会造成严重烧伤，并使异常现象进入超临界状态。
 
 uplink-proximity-mine-name = 近炸地雷
-uplink-proximity-mine-desc = 一枚伪装成“小心地滑”标牌的地雷。
+uplink-proximity-mine-desc = 一颗伪装成小心地滑警示牌的投掷式地雷。接触几乎任何东西都会引爆，保险永远关闭。
 
 uplink-disposable-turret-name = 一次性弹道炮塔
 uplink-disposable-turret-desc = 外观和功能都与普通电气工具箱相同。击打工具箱后，它会变成弹道炮塔，理论上会向除辛迪加成员外的所有人开火。可用螺丝刀将其变回工具箱，并用扳手修理。
@@ -362,7 +362,7 @@ uplink-chameleon-name = 变色龙套装
 uplink-chameleon-desc = 一个装满变色龙科技物品的背包，让你能伪装成空间站里几乎任何人，甚至还有更多功能！免费附赠一张特工 ID 卡！
 
 uplink-chameleon-bundle-name = 变色龙套装箱
-uplink-chameleon-bundle-desc = 一个板条箱，内含装满变色龙科技物品的背包，让你能伪装成空间站里几乎任何东西，甚至还有更多功能！
+uplink-chameleon-bundle-desc = 一箱装满变色龙科技物品的背包，让你几乎能伪装成空间站上的任何东西，甚至更多！
 
 uplink-clothing-no-slips-shoes-name = 防滑鞋
 uplink-clothing-no-slips-shoes-desc = 一双能保护你免于滑倒的变色龙鞋。

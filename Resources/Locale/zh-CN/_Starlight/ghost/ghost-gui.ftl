@@ -24,3 +24,19 @@ ghost-role-information-cburn-corpsman-description = 一名训练有素的中央�
 ghost-important-role = [bold]现正招募玩家扮演 {$rolename}[/bold]
 ghost-gui-aghost-toggle-ghost-visibility-popup-on = 对非管理员隐身。
 ghost-gui-aghost-toggle-ghost-visibility-popup-off = 对非管理员可见。
+
+ghost-role-information-cc-serviceworker-name = 中央指挥部服务人员
+
+ghost-role-information-cc-serviceworker-description = 在中央指挥部前哨站上干杂活。
+
+ghost-role-information-cc-chef-name = 中央指挥部厨师
+
+ghost-role-information-cc-chef-description = 在中央指挥部前哨站上为疲惫的空间站船员们端上饭菜。
+
+ghost-role-information-cc-bartender-name = 中央指挥部酒保
+
+ghost-role-information-cc-bartender-description = 在中央指挥部前哨站上为疲惫的空间站船员们调上酒水。
+
+ghost-role-information-cc-janitor-name = 中央指挥部清洁工
+
+ghost-role-information-cc-janitor-description = 让中央指挥部前哨站的地板保持一尘不染。

@@ -322,3 +322,11 @@ rr-brighteye-darkstation = 黑暗空间站
 rr-brighteye-darkstation-desc = 让黑暗吞噬空间站，以及其中所有行光者。
 rr-brighteye-steal-secureknowledge = 非礼勿听
 rr-brighteye-steal-secureknowledge-desc = 这是威胁……我们必须从行光者手中夺走这份信息。
+
+card-selection-no-cards = 当前没有可选的新卡牌。
+
+card-selection-restricted = 你上一手牌在选择前就过期了。本回合不会再向你提供卡牌。
+
+card-selection-timer = 请在 {$seconds} 秒内作出选择，否则本回合剩余时间将被锁定。
+
+character-info-cards-button = 查看卡牌

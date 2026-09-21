@@ -44,3 +44,7 @@ trait-language-lagomorphian-name = 兔形语
 trait-language-lagomorphian-desc = 一种为适应兔形人不同发声结构而发展出的林纳尔克斯融合语言。
 trait-language-squeakish-name = 吱吱语
 trait-language-squeakish-desc = 你会说啮齿人的吱吱语，这种语言由一连串啾声和吱声组成。
+
+trait-language-xenosocialized-name = 异族社会化
+
+trait-language-xenosocialized-desc = 你在成长过程中没有被教过你所属物种通常使用的语言。

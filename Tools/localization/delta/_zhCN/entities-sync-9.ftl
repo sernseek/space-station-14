@@ -2,601 +2,515 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值 .desc
-ent-VendingMachineRestockGumball = gumball dispenser restock box
-    .desc = A box full of loose gumballs of various colors. Load it into a gumball dispenser for a refill.
+ent-VendingMachineRestockGumball = 泡泡糖售货机补货箱
+    .desc = 装满各色散装泡泡糖的盒子。装进泡泡糖售货机即可补货。
 
 # TODO[新增] 值 .desc
-ent-VinylAcidRaindream = vinyl: Acid Raindream
-    .desc = A somewhat slow sounding rock tune. By: ROZKOL
+ent-VinylAcidRaindream = 黑胶唱片：酸雨梦境
+    .desc = 听起来偏慢的摇滚曲。作曲：ROZKOL
 
 # TODO[新增] 值 .desc
-ent-VinylAdventureFive = vinyl: Adventure 5
-    .desc = "A fast pace adventurous tune. By: Goonstation"
-
+ent-VinylAdventureFive = 黑胶唱片：冒险5
+    .desc = 节奏飞快的冒险风曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAdventureFour = vinyl: Adventure 4
-    .desc = "A fast pace adventurous tune. By: Goonstation"
-
+ent-VinylAdventureFour = 黑胶唱片：冒险4
+    .desc = 节奏飞快的冒险风曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAdventureThree = vinyl: Adventure 3
-    .desc = "A fast pace adventurous tune. By: Goonstation"
-
+ent-VinylAdventureThree = 黑胶唱片：冒险3
+    .desc = 节奏飞快的冒险风曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAfterParty = vinyl: After Party
-    .desc = "A slow pace electronic tune. By: Goonstation"
-
+ent-VinylAfterParty = 黑胶唱片：余兴派对
+    .desc = 慢节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAirportLounge = vinyl: Airport Lounge
-    .desc = "A long, relaxing song reminiscent of elevator music. By: Kevin MacLeod"
-
+ent-VinylAirportLounge = 黑胶唱片：机场休息室
+    .desc = 悠长的放松曲，让人想起电梯音乐。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylAlsoSprachZarathustra = vinyl: Also Sprach Zarathustra
-    .desc = "A classical piece that slowly builds to an climactic crescendo. By: PM Music"
-
+ent-VinylAlsoSprachZarathustra = 黑胶唱片：查拉图斯特拉如是说
+    .desc = 一首古典乐曲，缓缓推进直至高潮迭起。作曲：PM Music
 # TODO[新增] 值 .desc
-ent-VinylAnonymous = vinyl: Anonymous
-    .desc = "A fast pace hypnotic electronic tune. By: Goonstation"
-
+ent-VinylAnonymous = 黑胶唱片：匿名者
+    .desc = 快节奏催眠电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAtlas = vinyl: Atlas
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylAtlas = 黑胶唱片：阿特拉斯
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylAtmosphere = vinyl: Atmosphere
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylAtmosphere = 黑胶唱片：大气
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylBanjoOne = vinyl: Banjo 1
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylBanjoOne = 黑胶唱片：班卓琴1
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylBeaches = vinyl: Beaches
-    .desc = "A slow pace electronic tune. By: aquariofury, Not Tom"
-
+ent-VinylBeaches = 黑胶唱片：海滩
+    .desc = 慢节奏电子曲。作曲：aquariofury、Not Tom
 # TODO[新增] 值 .desc
-ent-VinylBiodome = vinyl: Biodome
-    .desc = "A slow pace eerie tune. By: aquariofury, Not Tom"
-
+ent-VinylBiodome = 黑胶唱片：生态穹顶
+    .desc = 慢节奏诡异曲调。作曲：aquariofury、Not Tom
 # TODO[新增] 值 .desc
-ent-VinylBlackWingInterface = vinyl: Black Wing Interface
-    .desc = "A slow pace electronic tune. By: Goonstation"
-
+ent-VinylBlackWingInterface = 黑胶唱片：黑翼接口
+    .desc = 慢节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylBoogiePart = vinyl: Boogie Part
-    .desc = "A funky jazz song that makes you want to boogie. By: Kevin MacLeod"
-
+ent-VinylBoogiePart = 黑胶唱片：布吉乐章
+    .desc = 让人忍不住起舞的放克爵士曲。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylBroken = broken vinyl disc
-    .desc = A vinyl disk that has been broken into pieces. It is completely unplayable.
+ent-VinylBroken = 破损黑胶唱片
+    .desc = 碎成好几片的唱片，完全无法播放。
 
 # TODO[新增] 值 .desc
-ent-VinylBumblebee = vinyl: Bumblebee
-    .desc = "A incredibly fast pace violin solo. By: Goonstation"
-
+ent-VinylBumblebee = 黑胶唱片：大黄蜂
+    .desc = 快到难以置信的小提琴独奏。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylBurnTheWorldWaltz = vinyl: Burn The World Waltz
-    .desc = "Heavy metal and brimstone. By: Kevin MacLeod"
-
+ent-VinylBurnTheWorldWaltz = 黑胶唱片：焚世华尔兹
+    .desc = 重金属与硫磺。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylButtris = vinyl: Buttris
-    .desc = "An iconic videogame song remixed by the clown. By: Goonstation"
-
+ent-VinylButtris = 黑胶唱片：屁屁方块
+    .desc = 一首标志性电子游戏歌曲的小丑混音版。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylCelloSuite = vinyl: Cello Suite
-    .desc = "A classical cello solo. By: PM Music"
-
+ent-VinylCelloSuite = 黑胶唱片：大提琴组曲
+    .desc = 古典大提琴独奏。作曲：PM Music
 # TODO[新增] 值 .desc
-ent-VinylChillFour = vinyl: Chill 4
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylChillFour = 黑胶唱片：放松4
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylChillOne = vinyl: Chill 1
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylChillOne = 黑胶唱片：放松1
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylChillThree = vinyl: Chill 3
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylChillThree = 黑胶唱片：放松3
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylChillTwo = vinyl: Chill 2
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylChillTwo = 黑胶唱片：放松2
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylChristmasSong = vinyl: Christmas Song
-    .desc = "A festive tune about giving your heart away to someone special. By: Goonstation"
-
+ent-VinylChristmasSong = 黑胶唱片：圣诞之歌
+    .desc = 关于把心托付给特别之人的节日曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylCirclesOfBlackAndRed = vinyl: Circles of Black and Red
-    .desc = An electronic beat with some rock mixed in and a lead synth. By: Kevin Hartnell
+ent-VinylCirclesOfBlackAndRed = 黑胶唱片：黑与红之环
+    .desc = 混入摇滚元素、以合成器为主音的电子节拍。作曲：Kevin Hartnell
 
 # TODO[新增] 值 .desc
-ent-VinylCloudSkyManGuy = vinyl: Cloud Sky Man Guy
-    .desc = "A upbeat electronic tune. By: Goonstation"
-
+ent-VinylCloudSkyManGuy = 黑胶唱片：云天男孩
+    .desc = 欢快的电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylConcreteFlavoured = vinyl: Concrete Flavoured
-    .desc = "A mysterious ambient track. By: randomcuts"
-
+ent-VinylConcreteFlavoured = 黑胶唱片：混凝土风味
+    .desc = 一首神秘的氛围音乐。作曲：randomcuts
 # TODO[新增] 值 .desc
-ent-VinylCoreOfPoo = vinyl: Core Of Poo
-    .desc = "Some will say this song doesn't contain music. Others... their masterpiece. By: Goonstation"
-
+ent-VinylCoreOfPoo = 黑胶唱片：便便核心
+    .desc = 有人会说这首歌里根本没有音乐。另一些人……会说这是他们的杰作。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylCorncob = vinyl: Corncob
-    .desc = "A fast pace country tune. By: Kevin MacLeod"
-
+ent-VinylCorncob = 黑胶唱片：玉米棒
+    .desc = 快节奏乡村曲调。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylCrazyBot = vinyl: Crazy Bot
-    .desc = A somewhat slow paced instrumental hip-hop DJ mix. By: Andrew R Codeman
+ent-VinylCrazyBot = 黑胶唱片：疯狂机器人
+    .desc = 偏慢的器乐嘻哈DJ混音。作曲：Andrew R Codeman
 
 # TODO[新增] 值 .desc
-ent-VinylD2 = vinyl: D2
-    .desc = A slow but futuristic sounding electronic tune. By: Amarent
+ent-VinylD2 = 黑胶唱片：D2
+    .desc = 缓慢却充满未来感的电子曲。作曲：Amarent
 
 # TODO[新增] 值 .desc
-ent-VinylDamperII = vinyl: Damper II
-    .desc = "A remix of a very familiar, dramatically fast paced electronic tune. By: Beptol Corporation Acoustics"
-
+ent-VinylDamperII = 黑胶唱片：阻尼器II
+    .desc = 一首耳熟能详的戏剧性快节奏电子曲的混音版。作曲：Beptol Corporation Acoustics
 # TODO[新增] 值 .desc
-ent-VinylDanceOnASpaceVolcano = vinyl: Dance On A Space Volcano
-    .desc = "A funky fast pace electronic dance tune. By: Goonstation"
-
+ent-VinylDanceOnASpaceVolcano = 黑胶唱片：太空火山之舞
+    .desc = 放克风快节奏电子舞曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylDeadlyRoulette = vinyl: Deadly Roulette
-    .desc = "A slow pace basey tune. By: Kevin MacLeod"
-
+ent-VinylDeadlyRoulette = 黑胶唱片：致命轮盘
+    .desc = 慢节奏低音曲调。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylDepressedWawaTriesToProtest = vinyl: Depressed Wawa tries to protest
-    .desc = A slow then fast paced electronic dance tune, with lead vocals of a famous Wawa singer group that you've never heard of. By: theprofessorix
+ent-VinylDepressedWawaTriesToProtest = 黑胶唱片：沮丧的Wawa试图抗议
+    .desc = 先慢后快的电子舞曲，主唱来自你闻所未闻的著名Wawa歌手组合。作曲：theprofessorix
 
 # TODO[新增] 值 .desc
-ent-VinylDiscoPoo = vinyl: Disco Poo
-    .desc = "Some will say this song doesn't contain music. Others... their masterpiece. By: Goonstation"
-
+ent-VinylDiscoPoo = 黑胶唱片：迪斯科便便
+    .desc = 有人会说这首歌里根本没有音乐。另一些人……会说这是他们的杰作。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylDistantStar = vinyl: Distant Star
-    .desc = "A fast pace electronic tune. By: Goonstation"
-
+ent-VinylDistantStar = 黑胶唱片：遥远星辰
+    .desc = 快节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylDriverUpdate = vinyl: Driver Update
-    .desc = "A synth heavy ambient track. By: randomcuts"
-
+ent-VinylDriverUpdate = 黑胶唱片：驱动更新
+    .desc = 合成器浓重的氛围音乐。作曲：randomcuts
 # TODO[新增] 值 .desc
-ent-VinylEggshell = vinyl: Eggshell
-    .desc = "Eggs. Eggs. Eggs. Eggs. Eggs. By: Goonstation"
-
+ent-VinylEggshell = 黑胶唱片：蛋壳
+    .desc = 鸡蛋。鸡蛋。鸡蛋。鸡蛋。鸡蛋。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylEphedrineOverdose = vinyl: Ephedrine Overdose
-    .desc = "A fast pace electronic tune. By: mrjajkes"
-
+ent-VinylEphedrineOverdose = 黑胶唱片：麻黄碱过量
+    .desc = 快节奏电子曲。作曲：mrjajkes
 # TODO[新增] 值 .desc
-ent-VinylEveryoneIsSoAlive = vinyl: Everyone Is So Alive
-    .desc = "A slow pace electronic tune. By: Goonstation"
-
+ent-VinylEveryoneIsSoAlive = 黑胶唱片：众生皆鲜活
+    .desc = 慢节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylFartElise = vinyl: Fart Elise
-    .desc = "A classical piece remixed by the clown. By: Goonstation"
-
+ent-VinylFartElise = 黑胶唱片：放屁爱丽丝
+    .desc = 一首古典乐曲的小丑混音版。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylFeralAngelWaltz = vinyl: Feral Angel Waltz
-    .desc = "A slow pace rock waltz. By: Kevin MacLeod"
-
+ent-VinylFeralAngelWaltz = 黑胶唱片：野天使华尔兹
+    .desc = 慢节奏摇滚华尔兹。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylFloaty = vinyl: Floaty
-    .desc = "A slow pace hypnotic tune. By: aquariofury, Not Tom"
-
+ent-VinylFloaty = 黑胶唱片：漂浮
+    .desc = 慢节奏催眠曲调。作曲：aquariofury、Not Tom
 # TODO[新增] 值 .desc
-ent-VinylFunkadelic = vinyl: Funkadelic
-    .desc = "A slow pace funky electronic tune. By: Goonstation"
-
+ent-VinylFunkadelic = 黑胶唱片：放克狂潮
+    .desc = 慢节奏放克电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylGetThatAntag = vinyl: Get That Antag!
-    .desc = "A fast pace electronic tune. By: mrjajkes"
-
+ent-VinylGetThatAntag = 黑胶唱片：抓住那个敌对角色！
+    .desc = 快节奏电子曲。作曲：mrjajkes
 # TODO[新增] 值 .desc
-ent-VinylGiga = vinyl: Giga
-    .desc = "An exciting rock/metal song. By: Goonstation"
-
+ent-VinylGiga = 黑胶唱片：千兆
+    .desc = 激昂的摇滚/金属歌曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylGraveyard = vinyl: Graveyard
-    .desc = "A slow pace eerie tune. By: aquariofury, Not Tom"
-
+ent-VinylGraveyard = 黑胶唱片：墓园
+    .desc = 慢节奏诡异曲调。作曲：aquariofury、Not Tom
 # TODO[新增] 值 .desc
-ent-VinylGreytideSong = vinyl: Greytide Song
-    .desc = "A hip tune by DJ Tider. By: mrjajkes"
-
+ent-VinylGreytideSong = 黑胶唱片：灰潮之歌
+    .desc = DJ Tider的时髦歌曲。作曲：mrjajkes
 # TODO[新增] 值 .desc
-ent-VinylGroovy = vinyl: Groovy
-    .desc = "A fast pace electronic tune. By: Goonstation"
-
+ent-VinylGroovy = 黑胶唱片：摇摆
+    .desc = 快节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylHighTechnologicBeat = vinyl: High Technologic Beat
-    .desc = "A fast pace electronic dance beat. By: Goonstation"
-
+ent-VinylHighTechnologicBeat = 黑胶唱片：高科技节拍
+    .desc = 快节奏电子舞曲节拍。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylHonkmas = vinyl: Honkmas
-    .desc = "A festive tune made by the clown. With love. By: Goonstation"
-
+ent-VinylHonkmas = 黑胶唱片：呵叫节
+    .desc = 小丑倾注爱意制作的节日曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylItFeelsGoodToBeAliveToo = vinyl: It Feels Good To Be Alive Too
-    .desc = "A fast pace electronic tune. By: Goonstation"
-
+ent-VinylItFeelsGoodToBeAliveToo = 黑胶唱片：活着的感觉真好
+    .desc = 快节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylJingleBells = vinyl: Jingle Bells
-    .desc = "The classic festive tune. By: Kevin MacLeod"
-
+ent-VinylJingleBells = 黑胶唱片：铃儿响叮当
+    .desc = 经典的节日曲调。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylJourney = vinyl: Journey
-    .desc = "A upbeat electronic tune. By: OpenTTD"
-
+ent-VinylJourney = 黑胶唱片：旅途
+    .desc = 欢快的电子曲。作曲：OpenTTD
 # TODO[新增] 值 .desc
-ent-VinylKeyLime = vinyl: Key Lime
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylKeyLime = 黑胶唱片：青柠
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylLateNightRadio = vinyl: Late Night Radio
-    .desc = "A slow pace jazzy tune. By: Kevin MacLeod"
-
+ent-VinylLateNightRadio = 黑胶唱片：深夜电台
+    .desc = 慢节奏爵士曲调。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylLayEggIsTrue = vinyl: Lay Egg Is True
-    .desc = "A face pace electronic tune. By: WyrdDoe"
-
+ent-VinylLayEggIsTrue = 黑胶唱片：下蛋即真理
+    .desc = 快节奏电子曲。作曲：WyrdDoe
 # TODO[新增] 值 .desc
-ent-VinylLunch = vinyl: Lunch
-    .desc = "A fast pace groovy electronic tune. By: Goonstation"
-
+ent-VinylLunch = 黑胶唱片：午餐
+    .desc = 快节奏放克风电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylMaxi = vinyl: Maxi
-    .desc = "An exciting rock/metal song. By: Goonstation"
-
+ent-VinylMaxi = 黑胶唱片：马克西
+    .desc = 激昂的摇滚/金属歌曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylMesmerizingGalaxyLoop = vinyl: Mesmerizing Galaxy Loop
-    .desc = "A hypnotic eletronic tune. By: Kevin MacLeod"
-
+ent-VinylMesmerizingGalaxyLoop = 黑胶唱片：迷幻银河循环
+    .desc = 催眠电子曲。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylMonkeyRiot = vinyl: Monkey Riot
-    .desc = "A fast pace high-energy electronic tune. By: WyrdDoe"
-
+ent-VinylMonkeyRiot = 黑胶唱片：猴子暴动
+    .desc = 快节奏高能电子曲。作曲：WyrdDoe
 # TODO[新增] 值 .desc
-ent-VinylNightInVenice = vinyl: Night In Venice
-    .desc = "A slow pace jazzy tune with a romantic vibe. By: Kevin MacLeod"
-
+ent-VinylNightInVenice = 黑胶唱片：威尼斯之夜
+    .desc = 慢节奏爵士曲，带着浪漫气息。作曲：Kevin MacLeod
 # TODO[新增] 值 .desc
-ent-VinylNukiesTrap = vinyl: Nukies Trap Remix
-    .desc = "A fast pace electronic tune. By: mrjajkes"
-
+ent-VinylNukiesTrap = 黑胶唱片：核弹特工陷阱混音
+    .desc = 快节奏电子曲。作曲：mrjajkes
 # TODO[新增] 值 .desc
-ent-VinylOhNoEvilStar = vinyl: Oh No Evil Star
-    .desc = "A slow pace calming tune. By: Goonstation"
-
+ent-VinylOhNoEvilStar = 黑胶唱片：哦不，邪恶之星
+    .desc = 慢节奏的宁静曲调。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylPeakAsshole = forgotten vinyl
-    .desc = "A song that we have all heard. Just not this bad... By: LuciferMkshelter"
-
+ent-VinylPeakAsshole = 被遗忘的唱片
+    .desc = 一首我们都听过的歌。只是没听过这么糟的……作曲：LuciferMkshelter
 # TODO[新增] 值 .desc
-ent-VinylPlanets = vinyl: Planets
-    .desc = "A slow pace electronic tune. By: Goonstation"
-
+ent-VinylPlanets = 黑胶唱片：行星
+    .desc = 慢节奏电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylPlayerCircuitboard = vinyl player machine board
-    .desc = A machine printed circuit board for a vinyl player.
+ent-VinylPlayerCircuitboard = 黑胶唱片机电路板
+    .desc = 唱片机的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-VinylPoo = vinyl: Poo
-    .desc = "Take a chance on... poo? By: Goonstation"
-
+ent-VinylPoo = 黑胶唱片：便便
+    .desc = 要不要赌一把……便便？作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylRepose = vinyl: Repose
-    .desc = "A slow pace funky tune. By: aquariofury, Not Tom"
-
+ent-VinylRepose = 黑胶唱片：休憩
+    .desc = 慢节奏放克曲调。作曲：aquariofury、Not Tom
 # TODO[新增] 值 .desc
-ent-VinylResonantInfinite = vinyl: Resonant Infinite
-    .desc = "An ambient track with a peaceful resolution. By: randomcuts"
-
+ent-VinylResonantInfinite = 黑胶唱片：共鸣无限
+    .desc = 一首氛围音乐，收束于宁静的终章。作曲：randomcuts
 # TODO[新增] 值 .desc
-ent-VinylRideOfTheValkyries = vinyl: Ride Of The Valkyries
-    .desc = "A classical piece best paired with the charging of cavalry. By: PM Music"
-
+ent-VinylRideOfTheValkyries = 黑胶唱片：女武神的骑行
+    .desc = 最适合配上骑兵冲锋的古典乐曲。作曲：PM Music
 # TODO[新增] 值 .desc
-ent-VinylRiverdancer = vinyl: Riverdancer
-    .desc = "A slow pace funky electronic tune. By: Goonstation"
-
+ent-VinylRiverdancer = 黑胶唱片：大河舞者
+    .desc = 慢节奏放克电子曲。作曲：Goonstation
 # TODO[新增] 值 .desc
-ent-VinylRomeoAndJuliet = vinyl: Romeo And Juliet
-    .desc = "A classical romantic piece. By: PM Music"
-
+ent-VinylRomeoAndJuliet = 黑胶唱片：罗密欧与朱丽叶
+    .desc = 古典浪漫乐曲。作曲：PM Music
 # TODO[新增] 值 .desc
-ent-VinylRunningOut = vinyl: Running Out
-    .desc = "A dramatic fast pace electronic tune. By: mrjajkes"
-
+ent-VinylRunningOut = 黑胶唱片：耗尽
+    .desc = 戏剧性快节奏电子曲。作曲：mrjajkes
 # TODO[新增] 值 .desc
-ent-VinylRussianDance = vinyl: Russian Dance
-    .desc = "A classical piece with a fast pace and a lively rhythm. By: PM Music"
-
+ent-VinylRussianDance = 黑胶唱片：俄罗斯舞曲
+    .desc = 节奏飞快、律动活泼的古典乐曲。作曲：PM Music
 # TODO[新增] 值 .desc
-ent-VinylSilverAndCold = vinyl: Silver and Cold
-    .desc = A digital electronic sounding tune with some rock mixed in. By: Kevin Hartnell
+ent-VinylSilverAndCold = 黑胶唱片：银与寒
+    .desc = 混入摇滚元素的数码风电子曲。作曲：Kevin Hartnell
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveAI = vinyl sleeve: AI
-    .desc = A sleeve designed to hold and store vinyl discs.
+ent-VinylSleeveAI = 唱片封套：AI
+    .desc = 用于收纳和存放唱片的封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveBlockycraft = vinyl sleeve: Blockycraft
-    .desc = The videogame soundtrack for the game with the same name.
+ent-VinylSleeveBlockycraft = 唱片封套：方块工艺
+    .desc = 同名电子游戏的原声带。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveChristmas = vinyl sleeve: Christmas
-    .desc = A jolly vinyl sleeve for the holiday season.
+ent-VinylSleeveChristmas = 唱片封套：圣诞
+    .desc = 节日季专用的欢乐唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveClown = vinyl sleeve: Clown
-    .desc = A vinyl sleeve with the face of the clown.
+ent-VinylSleeveClown = 唱片封套：小丑
+    .desc = 印着小丑面孔的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveCoffee = vinyl sleeve: Coffee
-    .desc = Big time! A vinyl sleeve for those who love coffee.
+ent-VinylSleeveCoffee = 唱片封套：咖啡
+    .desc = 大好时光！献给咖啡爱好者的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveDJClown = vinyl sleeve: DJ Clown
-    .desc = A vinyl sleeve containing music from the famous DJ Clown.
+ent-VinylSleeveDJClown = 唱片封套：DJ小丑
+    .desc = 收录著名DJ小丑音乐的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveDJTider = vinyl sleeve: DJ Tider
-    .desc = A vinyl sleeve containing music from the famous DJ Tider.
+ent-VinylSleeveDJTider = 唱片封套：DJ Tider
+    .desc = 收录著名DJ Tider音乐的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveDevil = vinyl sleeve: Devil
-    .desc = A vinyl sleeve with an inverted pentacle. Is that... real blood?
+ent-VinylSleeveDevil = 唱片封套：恶魔
+    .desc = 印有倒五芒星的唱片封套。那是……真血吗？
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveEye = vinyl sleeve: Eye
-    .desc = A vinyl sleeve with a design of a large eye.
+ent-VinylSleeveEye = 唱片封套：眼睛
+    .desc = 印有大眼睛图案的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveFart = vinyl sleeve: Fart
-    .desc = Some will say this vinyl sleeve doesn't contain music. Others... their masterpiece.
+ent-VinylSleeveFart = 唱片封套：放屁
+    .desc = 有人会说这张唱片封套里根本没有音乐。另一些人……会说这是他们的杰作。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveFisherman = vinyl sleeve: Fisherman
-    .desc = A vinyl sleeve with songs to fish to.
+ent-VinylSleeveFisherman = 唱片封套：渔夫
+    .desc = 收录适合钓鱼时听的歌曲的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveFlash = vinyl sleeve: Flash
-    .desc = A vinyl sleeve with a design of a flash.
+ent-VinylSleeveFlash = 唱片封套：闪电
+    .desc = 印有闪电图案的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveHeisenbee = vinyl sleeve: Heisenbee
-    .desc = A vinyl sleeve with the goonstation mascot Heisenbee on it.
+ent-VinylSleeveHeisenbee = 唱片封套：Heisenbee
+    .desc = 印有Goonstation吉祥物Heisenbee的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveHockey = vinyl sleeve: Hockey
-    .desc = A vinyl sleeve with a hockey player.
+ent-VinylSleeveHockey = 唱片封套：冰球
+    .desc = 印有冰球运动员的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveJanitor = vinyl sleeve: Janitor
-    .desc = A vinyl sleeve containing songs to clean to.
+ent-VinylSleeveJanitor = 唱片封套：清洁工
+    .desc = 收录适合打扫时听的歌曲的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveJapan = vinyl sleeve: Japan
-    .desc = A vinyl sleeve designed after an ancient style of animation from a long lost culture.
+ent-VinylSleeveJapan = 唱片封套：日本
+    .desc = 仿照某个失落文化的古老动画风格设计的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveMGS = vinyl sleeve: MGS
-    .desc = Snake? Snaaaaaaaaaaake!.
+ent-VinylSleeveMGS = 唱片封套：MGS
+    .desc = Snake？Snaaaaaaaaaaake！
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveNewNanoYork = vinyl sleeve: New Nano York
-    .desc = A vinyl sleeve with the design of a city scape.
+ent-VinylSleeveNewNanoYork = 唱片封套：新纳米约克
+    .desc = 印有城市天际线图案的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveNonBinary = vinyl sleeve: Non Binary
-    .desc = A vinyl sleeve with the colors of the Non-Binary flag. Express your identity.
+ent-VinylSleeveNonBinary = 唱片封套：非二元
+    .desc = 印有非二元性别旗帜配色的唱片封套。表达你的身份。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveNukeDisk = vinyl sleeve: Nuke Disk
+ent-VinylSleeveNukeDisk = 唱片封套：核弹盘
     .desc = GET DAT disc!!!
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePDA = vinyl sleeve: PDA
-    .desc = A vinyl sleeve designed to look like a PDA.
+ent-VinylSleevePDA = 唱片封套：PDA
+    .desc = 设计得像一台PDA的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePeace = vinyl sleeve: Peace
-    .desc = A vinyl sleeve designed to hold and store vinyl discs.
+ent-VinylSleevePeace = 唱片封套：和平
+    .desc = 用于收纳和存放唱片的封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePickle = vinyl sleeve: Pickle
-    .desc = A vinyl sleeve designed to hold and store vinyl discs.
+ent-VinylSleevePickle = 唱片封套：腌黄瓜
+    .desc = 用于收纳和存放唱片的封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePizza = vinyl sleeve: Pizza
-    .desc = A vinyl sleeve with an Italian design.
+ent-VinylSleevePizza = 唱片封套：披萨
+    .desc = 意大利风设计的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePlainBeige = vinyl sleeve: Plain Beige
-    .desc = A beige vinyl sleeve used for storing vinyl discs.
+ent-VinylSleevePlainBeige = 唱片封套：米色
+    .desc = 用于存放唱片的米色唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePlainBlack = vinyl sleeve: Plain Black
-    .desc = A black vinyl sleeve used for storing vinyl discs.
+ent-VinylSleevePlainBlack = 唱片封套：黑色
+    .desc = 用于存放唱片的黑色唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePlainWhite = vinyl sleeve: Plain White
-    .desc = A white vinyl sleeve used for storing vinyl discs.
+ent-VinylSleevePlainWhite = 唱片封套：白色
+    .desc = 用于存放唱片的白色唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleevePride = vinyl sleeve: Pride
-    .desc = A vinyl sleeve with the colors of the Pride flag. Show your support.
+ent-VinylSleevePride = 唱片封套：骄傲
+    .desc = 印有骄傲旗帜配色的唱片封套。表达你的支持。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveQuestional = vinyl sleeve: Questional
-    .desc = A vinyl sleeve with an unremarkable design.
+ent-VinylSleeveQuestional = 唱片封套：疑问
+    .desc = 图案平平无奇的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveRat = vinyl sleeve: Rat
-    .desc = A vinyl sleeve with Chef Remi, the famous rat chef.
+ent-VinylSleeveRat = 唱片封套：老鼠
+    .desc = 印有著名老鼠厨师雷米主厨的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveReactor = vinyl sleeve: Reactor
-    .desc = A vinyl sleeve with a design featuring the insides of a nuclear reactor.
+ent-VinylSleeveReactor = 唱片封套：反应堆
+    .desc = 图案为核反应堆内部结构的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveRedSun = vinyl sleeve: Red Sun
-    .desc = Who would have known Red Sun produced music?
+ent-VinylSleeveRedSun = 唱片封套：赤阳
+    .desc = 谁能想到Red Sun还出音乐？
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveShulker = vinyl sleeve: Shulker
-    .desc = A vinyl sleeve with a design of a useful storage container from a famous game.
+ent-VinylSleeveShulker = 唱片封套：潜影盒
+    .desc = 印有某著名游戏中实用储物容器的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveSkull = vinyl sleeve: Skull
-    .desc = A vinyl sleeve with an intimidating skull design.
+ent-VinylSleeveSkull = 唱片封套：骷髅
+    .desc = 印有骇人骷髅图案的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveStation13 = vinyl sleeve: Station 13
-    .desc = A vinyl sleeve with the Station 13 logo.
+ent-VinylSleeveStation13 = 唱片封套：Station 13
+    .desc = 印有Station 13标志的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveStation14 = vinyl sleeve: Station 14
-    .desc = A vinyl sleeve with the Station 14 logo.
+ent-VinylSleeveStation14 = 唱片封套：Station 14
+    .desc = 印有Station 14标志的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveSunnySideOfLavaland = vinyl sleeve: Sunny Side of Lavaland
-    .desc = A vinyl sleeve from the hit album, Sunny Side of Lavaland.
+ent-VinylSleeveSunnySideOfLavaland = 唱片封套：拉瓦兰的阳光面
+    .desc = 出自热门专辑《Sunny Side of Lavaland》的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveTH = vinyl sleeve: TH_
-    .desc = A vinyl sleeve used for storing vinyl discs.
+ent-VinylSleeveTH = 唱片封套：TH_
+    .desc = 用于存放唱片的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveTrans = vinyl sleeve: Trans
-    .desc = A vinyl sleeve with the colors of the Trans flag. Stand proud.
+ent-VinylSleeveTrans = 唱片封套：跨性别
+    .desc = 印有跨性别旗帜配色的唱片封套。骄傲做自己。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveVampire = vinyl sleeve: Vampire
-    .desc = A vinyl sleeve with the design of a vampire sitting upon a throne of skulls.
+ent-VinylSleeveVampire = 唱片封套：吸血鬼
+    .desc = 印有吸血鬼端坐骷髅王座图案的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveWeird = vinyl sleeve: Weird
-    .desc = A vinyl sleeve with a strange and unusual design.
+ent-VinylSleeveWeird = 唱片封套：怪异
+    .desc = 图案奇特古怪的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSleeveWelcomeToSS13 = vinyl sleeve: Welcome to SS13
-    .desc = A vinyl sleeve from the hit album, Welcome to Station 13.
+ent-VinylSleeveWelcomeToSS13 = 唱片封套：欢迎来到SS13
+    .desc = 出自热门专辑《Welcome to Station 13》的唱片封套。
 
 # TODO[新增] 值 .desc
-ent-VinylSmarties = vinyl: Smarties
-    .desc = An electronic tune with a distorted guitar and synth lead. By: Birds for Scale
+ent-VinylSmarties = 黑胶唱片：聪明豆
+    .desc = 失真吉他搭配合成器主音的电子曲。作曲：Birds for Scale
 
 # TODO[新增] 值 .desc
-ent-VinylSpaceGardener = vinyl: Space Gardener
-    .desc = "A slow pace electronic tune. By: tamakari"
+ent-VinylSpaceGardener = 黑胶唱片：太空园丁
+    .desc = 慢节奏电子曲。作曲：tamakari
+# TODO[新增] 值 .desc
+ent-VinylSpaceJazz = 黑胶唱片：太空爵士
+    .desc = 让人想起电梯音乐的慢节奏爵士曲。作曲：Kevin MacLeod
+# TODO[新增] 值 .desc
+ent-VinylSponsoredBySyndicate = 黑胶唱片：辛迪加赞助
+    .desc = 快节奏摇滚曲。作曲：mrjajkes
+# TODO[新增] 值 .desc
+ent-VinylTheFlowerDuet = 黑胶唱片：花之二重唱
+    .desc = 古典歌剧二重唱。作曲：PM Music
+# TODO[新增] 值 .desc
+ent-VinylTraitorousIntent = 黑胶唱片：叛变之心
+    .desc = 诡异的慢节奏电子曲。作曲：mrjajkes
+# TODO[新增] 值 .desc
+ent-VinylUguu = 黑胶唱片：Uguu
+    .desc = 有人会说这首歌里根本没有音乐。另一些人……会说这是他们的杰作。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylUntitled7 = 黑胶唱片：无题#7
+    .desc = 慢节奏自赏派风格曲调，合成器主音浓重。作曲：Tommaso Croce
 
 # TODO[新增] 值 .desc
-ent-VinylSpaceJazz = vinyl: Space Jazz
-    .desc = "A slow pace jazzy tune reminiscent of elevator music. By: Kevin MacLeod"
+ent-VinylUpbeatOne = 黑胶唱片：欢快1
+    .desc = 放克风的欢快曲调。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylUpbeatTwo = 黑胶唱片：欢快2
+    .desc = 放克风的欢快曲调。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylVadeRetro = 黑胶唱片：速速退散
+    .desc = 快节奏的重复性电子曲目。作曲：randomcuts
+# TODO[新增] 值 .desc
+ent-VinylVibingOverVenus = 黑胶唱片：金星之上沉醉
+    .desc = 慢节奏爵士曲。作曲：Kevin MacLeod
+# TODO[新增] 值 .desc
+ent-VinylViolet = 黑胶唱片：紫罗兰
+    .desc = 快节奏电子曲。作曲：mrjajkes
+# TODO[新增] 值 .desc
+ent-VinylWarriorsHonk = 黑胶唱片：勇士呵叫
+    .desc = 快节奏电子曲。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylWaystations = 黑胶唱片：驿站
+    .desc = 慢节奏电子曲。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylWeAreNumberTwo = 黑胶唱片：我们是第二名
+    .desc = 某著名电视剧中耳熟能详的歌曲的小丑混音版。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VinylWinterVivaldi = 黑胶唱片：维瓦尔第《冬》
+    .desc = 维瓦尔第表现冬日季节的经典乐曲。作曲：PM Music
+# TODO[新增] 值 .desc
+ent-VinylXtra = 黑胶唱片：超劲
+    .desc = 激昂的摇滚/金属歌曲。作曲：Goonstation
+# TODO[新增] 值 .desc
+ent-VocalCyberTongue = 赛博发声义舌
+    .desc = 活动范围完整的人造舌头，可以发出所有语音。
 
 # TODO[新增] 值 .desc
-ent-VinylSponsoredBySyndicate = vinyl: Sponsored By Syndicate
-    .desc = "A fast pace rock tune. By: mrjajkes"
+ent-WallBrass = 黄铜墙
+    .desc = 把空气挡在里面，把助理挡在外面。
 
 # TODO[新增] 值 .desc
-ent-VinylTheFlowerDuet = vinyl: The Flower Duet
-    .desc = "A classical opera duet. By: PM Music"
+ent-WallBrassDiagonal = 黄铜墙
+    .desc = 把空气挡在里面，把助理挡在外面。
 
 # TODO[新增] 值 .desc
-ent-VinylTraitorousIntent = vinyl: Traitorous Intent
-    .desc = "A eerie low pace electronic tune. By: mrjajkes"
+ent-WallReinforcedBrass = 加固黄铜墙
+    .desc = 把空气挡在里面，把助理挡在外面。
 
 # TODO[新增] 值 .desc
-ent-VinylUguu = vinyl: Uguu
-    .desc = "Some will say this song doesn't contain music. Others... their masterpiece. By: Goonstation"
+ent-WallReinforcedBrassDiagonal = 加固黄铜墙
+    .desc = 把空气挡在里面，把助理挡在外面。
 
 # TODO[新增] 值 .desc
-ent-VinylUntitled7 = vinyl: Untitled #7
-    .desc = A slow paced shoegaze esque tune. Heavy synth lead. By: Tommaso Croce
+ent-WallStainFireEffect = 火焰
+    .desc = 哎呀……
 
 # TODO[新增] 值 .desc
-ent-VinylUpbeatOne = vinyl: Upbeat 1
-    .desc = "A groovy upbeat tune. By: Goonstation"
+ent-WallmountPodConsole = 逃生舱控制台
+    .desc = 控制逃生舱的终端。不过控制系统已被锁定，防止你提前发射逃生舱。
 
 # TODO[新增] 值 .desc
-ent-VinylUpbeatTwo = vinyl: Upbeat 2
-    .desc = "A groovy upbeat tune. By: Goonstation"
+ent-WashingMachine = 洗衣机
+    .desc = 纳米传讯Model-C工业级洗衣机，再脏的制服也能洗净。运转期间请勿将手、硬物及体型较小的船员伸入滚筒。
 
 # TODO[新增] 值 .desc
-ent-VinylVadeRetro = vinyl: Vade Retro
-    .desc = "A fast paced repetitive electronic track. By: randomcuts"
+ent-WashingMachineCircuitboard = 洗衣机电路板
+    .desc = 纳米传讯Model-C工业级洗衣机的机器印刷电路板。
 
 # TODO[新增] 值 .desc
-ent-VinylVibingOverVenus = vinyl: Vibing Over Venus
-    .desc = "A slow pace jazzy tune. By: Kevin MacLeod"
+ent-WashingMachineFlatpack = 洗衣机平板包装
+    .desc = 一台工业级洗衣机，经机械压缩进了小小的平板包装里。
 
 # TODO[新增] 值 .desc
-ent-VinylViolet = vinyl: Violet
-    .desc = "A fast pace electronic tune. By: mrjajkes"
-
-# TODO[新增] 值 .desc
-ent-VinylWarriorsHonk = vinyl: Warriors Honk
-    .desc = "A fast pace electronic tune. By: Goonstation"
-
-# TODO[新增] 值 .desc
-ent-VinylWaystations = vinyl: Waystations
-    .desc = "A slow pace electronic tune. By: Goonstation"
-
-# TODO[新增] 值 .desc
-ent-VinylWeAreNumberTwo = vinyl: We Are Number Two
-    .desc = "A recognisable song from a famous TV show, remixed by the clown. By: Goonstation"
-
-# TODO[新增] 值 .desc
-ent-VinylWinterVivaldi = vinyl: Vivaldi's Winter
-    .desc = "A classical tune from Vivaldi, representing the winter season. By: PM Music"
-
-# TODO[新增] 值 .desc
-ent-VinylXtra = vinyl: Xtra
-    .desc = "An exciting rock/metal song. By: Goonstation"
-
-# TODO[新增] 值 .desc
-ent-VocalCyberTongue = vocal cyber tongue
-    .desc = An artificial tongue with full range of movement. Allows using all vocal sounds.
-
-# TODO[新增] 值 .desc
-ent-WallBrass = brass wall
-    .desc = Keeps the air in and the assistants out.
-
-# TODO[新增] 值 .desc
-ent-WallBrassDiagonal = brass wall
-    .desc = Keeps the air in and the assistants out.
-
-# TODO[新增] 值 .desc
-ent-WallReinforcedBrass = reinforced brass wall
-    .desc = Keeps the air in and the assistants out.
-
-# TODO[新增] 值 .desc
-ent-WallReinforcedBrassDiagonal = reinforced brass wall
-    .desc = Keeps the air in and the assistants out.
-
-# TODO[新增] 值 .desc
-ent-WallStainFireEffect = fire
-    .desc = Oops...
-
-# TODO[新增] 值 .desc
-ent-WallmountPodConsole = escape pod console
-    .desc = A terminal that controls the escape pod. The controls have been locked down to prevent you from launching the pod early, though.
-
-# TODO[新增] 值 .desc
-ent-WashingMachine = washing machine
-    .desc = A NanoTrasen Model-C industrial-grade washing machine, designed to clean even the grimiest of uniforms. Keep hands, hard objects and small crewmembers away from drum during cycle.
-
-# TODO[新增] 值 .desc
-ent-WashingMachineCircuitboard = washing machine board
-    .desc = A machine printed circuit board for a NanoTrasen Model-C industrial-grade washing machine.
-
-# TODO[新增] 值 .desc
-ent-WashingMachineFlatpack = washing machine flatpack
-    .desc = An industrial-grade washing machine, mechanically compressed into a small flatpack.
-
-# TODO[新增] 值 .desc
-ent-WeaponEnergyMagnumSeven = MT-7 Magnum
-    .desc = This is an expensive, modern recreation of the Mateba revolver, with several unique fire modes. And a slow self recharging battery. However, it has a slower recharge then most battery related weapons.
+ent-WeaponEnergyMagnumSeven = MT-7马格南
+    .desc = 这是Mateba左轮手枪的昂贵现代复刻版，具有数种独特射击模式和一块缓慢自充的电池。不过它的充能速度比大多数电池武器要慢。

@@ -192,3 +192,7 @@ spray-painter-style-canisters-plasma = 等离子体
 spray-painter-style-canisters-storage = 储存
 spray-painter-style-canisters-tritium = 氚
 spray-painter-style-canisters-water-vapor = 水蒸气
+
+spray-painter-interact-no-color-pick = 找不到可以拾取的颜色！
+
+spray-painter-interact-color-picked = 已从「{$id}」拾取颜色。

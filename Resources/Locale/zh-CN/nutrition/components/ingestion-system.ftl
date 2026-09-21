@@ -25,11 +25,11 @@ ingestion-verb-drink = 喝
 
 # Edible Component
 
-edible-nom = 嚼嚼。{$flavors}
+edible-nom = 嚼嚼。{$flavors}{ -edible-satiated(satiated: $satiated, verb: "eat") }
 edible-nom-other = 嚼嚼。
-edible-slurp = 吸溜。{$flavors}
+edible-slurp = 吸溜。{$flavors}{ -edible-satiated(satiated: $satiated, verb: "drink") }
 edible-slurp-other = 吸溜。
-edible-swallow = 你吞下了 { THE($food) }
+edible-swallow = 你吞下了 { THE($food) }。{ -edible-satiated(satiated: $satiated, verb: "swallow") }
 edible-gulp = 咕嘟。{$flavors}
 edible-gulp-other = 咕嘟。
 
@@ -52,5 +52,10 @@ edible-verb-pill = 吞服
 ## Force feeding
 
 edible-force-feed = {CAPITALIZE(THE($user))}正试图强迫你{$verb}某样东西！
-edible-force-feed-success = {CAPITALIZE(THE($user))}强迫你{$verb}了某样东西！{$flavors}
+edible-force-feed-success = {CAPITALIZE(THE($user))}强迫你{$verb}了某样东西！{$flavors}{ -edible-satiated(satiated: $satiated, verb: $verb) }
 edible-force-feed-success-user = 你成功喂食了 {THE($target)}
+
+-edible-satiated = { $satiated ->
+    [true] {" "}你感觉自己已经吃不下任何东西了。
+  *[false] {""}
+}

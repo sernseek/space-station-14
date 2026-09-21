@@ -2,20 +2,20 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值 .desc
-ent-APCAdvanced = 先进 APC
-    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
+ent-APCAdvanced = 高级 APC
+    .desc = 该区域电力系统的高级控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedConstructed = 先进 APC
-    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
+ent-APCAdvancedConstructed = 高级 APC
+    .desc = 该区域电力系统的高级控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedElectronics = 先进 APC 电子元件
-    .desc = 用于组装先进 APC 的电路。
+ent-APCAdvancedElectronics = 高级 APC 电子元件
+    .desc = 用于组装高级 APC 的电路。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedFrame = 先进 APC 框架
-    .desc = 该区域电力系统的先进控制终端，缺少电子元件。
+ent-APCAdvancedFrame = 高级 APC 框架
+    .desc = 该区域电力系统的高级控制终端，缺少电子元件。
 
 # TODO[新增] 值 .desc
 ent-ActionAIReconnectShunt = 重连分流
@@ -146,8 +146,8 @@ ent-BarSignEmped = 故障的酒吧招牌
     .desc = 你觉得用力拍两下兴许能修好它。
 
 # TODO[新增] 值 .desc
-ent-BaseAPCAdvanced = 先进 APC
-    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
+ent-BaseAPCAdvanced = 高级 APC
+    .desc = 该区域电力系统的高级控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
 ent-BaseEnergyBallTemporary = 临时特斯拉

@@ -18,3 +18,9 @@ food-sequence-cotton-burger-content-plushie-cow = 牛
 food-sequence-cotton-burger-content-plushie-frog = 青蛙
 food-sequence-cotton-burger-content-plushie-sus = 可疑
 food-sequence-cotton-burger-content-plushie-shadekin = 呜喵
+
+food-sequence-cotton-burger-content-plushie-borg = 守法
+
+food-sequence-cotton-burger-content-plushie-cow-squishims = 奶牛
+
+food-sequence-cotton-burger-content-plushie-frog-squishims = 蛙蛙

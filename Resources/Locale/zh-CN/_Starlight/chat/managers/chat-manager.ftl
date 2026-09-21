@@ -37,3 +37,9 @@ chat-speech-verb-rodentia-1 = 吱吱叫着说
 chat-speech-verb-rodentia-2 = 尖声说道
 chat-speech-verb-rodentia-3 = 咯咯说道
 chat-speech-verb-rodentia-4 = 尖叫着说
+
+chat-speech-verb-suffix-pause = ……
+
+chat-speech-verb-name-pause = 停顿
+
+chat-speech-verb-pause = 停顿

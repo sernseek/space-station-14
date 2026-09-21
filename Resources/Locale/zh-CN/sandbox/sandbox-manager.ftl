@@ -19,3 +19,5 @@ sandbox-window-toggle-suicide-button = 自杀
 sandbox-window-show-spawns-button = 显示生成点
 sandbox-window-show-bb-button = 显示边界框
 sandbox-window-show-npc-button = 显示 NPC
+
+sandbox-window-toggle-thermal-vision = 切换热成像视觉

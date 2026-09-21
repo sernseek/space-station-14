@@ -14,3 +14,23 @@ station-beacon-breakroom-service = 服务部休息室
 station-beacon-lawyer = 律师
 station-beacon-janitor-cleaning-closet = 清洁用品间
 station-beacon-washrooms = 洗手间
+
+station-beacon-mail-room = 收发室
+
+station-beacon-mining = 采矿区
+
+station-beacon-paramedic = 急救室
+
+station-beacon-clown = 小丑房
+
+station-beacon-mime = 哑剧演员房
+
+station-beacon-musician = 乐手房
+
+station-beacon-laundromat = 洗衣房
+
+station-beacon-radio-host = 广播演播室
+
+station-beacon-brigmedic = 狱医室
+
+station-beacon-ats = 自动贸易站

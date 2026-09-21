@@ -56,3 +56,10 @@ evolutionmenu-sting-drain-desc =
     处于次级形态效果下时也可使用。
     警告：必须吸收至少 2 名有机体才能使用此能力。
     消耗 35 点化学物质。
+
+evolutionmenu-utility-neocyte-name = 新胞伪装
+
+evolutionmenu-utility-neocyte-desc =
+    将你的皮肤硬化成金属般的外观，使其足以冒充新胞机体。仅当你当前
+    伪装成新胞时可用。
+    消耗 0 点化学物质。

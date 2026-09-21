@@ -40,7 +40,7 @@ guide-entry-fires = 火灾
 guide-entry-spacing = 太空暴露
 guide-entry-deltapressure = 压差
 guide-entry-atmostools = 大气工具
-guide-entry-gasses = 气体
+guide-entry-gasses = 常规气体
 guide-entry-botany = 植物学
 guide-entry-shuttle-craft = 穿梭机制造
 guide-entry-networking = 网络
@@ -94,7 +94,7 @@ guide-entry-criminal-records = 犯罪记录
 guide-entry-command = 指挥部
 guide-entry-service = 服务部
 
-guide-entry-newplayer = 新手？从这里开始！
+guide-entry-newplayer = 如何游玩 SS14
 guide-entry-charactercreation = 创建角色
 guide-entry-species = 物种
 guide-entry-yourfirstcharacter = 你的第一个角色

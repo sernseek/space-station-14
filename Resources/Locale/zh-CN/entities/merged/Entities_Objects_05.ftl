@@ -590,10 +590,13 @@ ent-SaltOre = 盐
 
 
 ent-PartRodMetal = 金属棒
+    .desc = 一种原材料。
 
 ent-PartRodMetal10 = 金属棒
+    .desc = 一种原材料。
 
 ent-PartRodMetal1 = 金属棒
+    .desc = 一种原材料。
 
 
 ent-BaseScrap = 废料

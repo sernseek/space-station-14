@@ -26,3 +26,10 @@ fax-machine-ui-paper-not-inserted = 无纸
 fax-machine-chat-notify = 收到传真机“{$fax}”发来的新传真
 
 fax-machine-printed-paper-name = 打印纸
+
+fax-machine-sender-info =
+    ─────────────────────────────────────
+    传真已发送
+    发件人：{$sender_name} [地址：{$sender_addr}]
+    收件人：{$recipient_name} [地址：{$recipient_addr}]
+    时间：{$time}

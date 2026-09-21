@@ -32,7 +32,7 @@ hud-chatbox-channel-Visual = 行为
 hud-chatbox-channel-Damage = 伤害
 hud-chatbox-channel-Unspecified = 未指定
 
-hud-chatbox-highlights = 高亮词：
+hud-chatbox-highlights = 聊天高亮词
 hud-chatbox-highlights-button = 提交
 hud-chatbox-highlights-tooltip = 每行填写一个词；
                                  用引号 " 包裹的词只有在

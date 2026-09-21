@@ -214,3 +214,9 @@ construction-graph-tag-cheapinsulfabric = 廉价绝缘织物
 construction-graph-tag-plasteelfilament = 塑钢纤维
 
 construction-graph-tag-insulthread = 绝缘线
+
+crafting-menu-name-false-projector = 假闸门投影器
+
+crafting-menu-text-false-projector = 看起来几乎跟真的一样。在你做该做的事时，可以挡住那些心不在焉或疏于观察的人的视线。
+
+construction-graph-tag-holoprojector = 任意全息投影器

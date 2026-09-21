@@ -21,3 +21,23 @@ alerts-wrapped-name = [color=lightblue]遭到缠裹[/color]
 alerts-wrapped-desc = 你被[color=red]缠住了[/color]！点击警告尝试挣脱。
 alerts-zoomies-name = [color=lightblue]撒欢！！[/color]
 alerts-zoomies-desc = 你的移动速度提高，但[color=red]口渴消耗也随之增加[/color]。
+
+alerts-gps-name = [color=green]星航质量扫描仪[/color]
+
+alerts-gps-desc = 你的PDA里装有星航卡带，可以查看内置的质量扫描仪！[color=orange]点击此处[/color]切换菜单。
+
+alerts-latched-name = [color=orange]被钳制[/color]
+
+alerts-latched-desc = 你被钳制住了。在钳制结束前双方都无法移动。
+
+alerts-k9-latched-name = [color=orange]咬住目标[/color]
+
+alerts-k9-latched-desc = 你咬住了一个目标。加大咬合力以延长钳制，或松口放开。
+
+alerts-k9-sprint-name = [color=lightblue]疾跑[/color]
+
+alerts-k9-sprint-desc = 你的移动速度提升了。
+
+alerts-nanochat-name = [color=red]新消息！[/color]
+
+alerts-nanochat-desc = 你收到了一条新消息！

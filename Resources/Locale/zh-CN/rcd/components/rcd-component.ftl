@@ -8,12 +8,12 @@ rcd-component-examine-build-details = 当前设为建造{$name}。
 ### Interaction Messages
 
 # Mode change
-rcd-component-change-mode = RCD 现已设为“{$mode}”模式。
-rcd-component-change-build-mode = RCD 现已设为建造{$name}。
+rcd-component-change-mode = {$device} 现已设为“{$mode}”模式。
+rcd-component-change-build-mode = {$device} 现已设为建造{$name}。
 
 # Ammo count
-rcd-component-no-ammo-message = RCD 的充能用尽了！
-rcd-component-insufficient-ammo-message = RCD 剩余充能不足！
+rcd-component-no-ammo-message = {$device} 的充能用尽了！
+rcd-component-insufficient-ammo-message = {$device} 剩余充能不足！
 
 # Deconstruction
 rcd-component-tile-indestructible-message = 无法拆除这个地块！
@@ -45,3 +45,5 @@ rcd-component-lighting = 照明
 rcd-component-deconstruct = 拆除
 rcd-component-floor-steel = 钢地块
 rcd-component-plating = 船体板
+
+rcd-component-cannot-build-identical-entity = 那里已经有相同的东西了！
