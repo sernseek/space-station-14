@@ -9,14 +9,14 @@ job-board-ui-window-title = 任务板
 job-board-ui-label-rank = [bold]等级：[/bold]
 job-board-ui-label-items = 目标：[color=red]{$item}[/color]
 
-job-board-label-text = [head=2]打捞任务货物[/head]
-    {"[italic]仅限用于官方离站打捞货运。[/italic]"}
+job-board-label-text = [head=2]打捞任务货运[/head]
+    {"[italic]仅用于官方站外打捞货运。[/italic]"}
 
     {"[bold]目标：[/bold]"} {$target}
     {"[bold]报酬：[/bold]"} ${$reward}
+    {"[bold]票券：[/bold]"} {$tickets}
 
-
-    {"[italic]货物须接受 Donk 公司检查[/italic]"}
+    {"[italic]货运须接受星际贸易公会的检查[/italic]"}
 
 salv-job-board-name-BountyTeethSpaceCarp = 太空鲤鱼
 salv-job-board-name-BountySalvageScrap = 深空残骸
