@@ -1,11 +1,11 @@
 # TODO[新增] 值
-round-end-system-shuttle-auto-called-call-vote = Call the crew shift change shuttle?
+round-end-system-shuttle-auto-called-call-vote = 要召集船员班次交接穿梭机吗？
 
 # TODO[新增] 值
-round-end-system-shuttle-auto-vote-yes = Yes
+round-end-system-shuttle-auto-vote-yes = 是
 
 # TODO[新增] 值
-round-end-system-shuttle-auto-vote-no = No
+round-end-system-shuttle-auto-vote-no = 否
 
 # TODO[新增] 值
-round-end-system-shuttle-auto-vote-result-no = The shuttle has not been called. The next shift change vote is in {$minutes} minutes.
+round-end-system-shuttle-auto-vote-result-no = 穿梭机未被召集。下次班次交接投票将在 {$minutes} 分钟后进行。

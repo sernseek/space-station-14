@@ -1,2 +1,2 @@
 # TODO[新增] 值
-wizard-war = Attention crew, Central Command has identified a powerful magical signature in your vicinity. This surge is flagged as a potential hostile incursion. Security should prepare adequately.
+wizard-war = 全体船员请注意，中央指挥部在你们附近侦测到一股强大的魔法信号。此次波动被标记为潜在的敌对入侵。安保部门应做好充分准备。

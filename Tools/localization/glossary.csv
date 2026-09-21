@@ -153,3 +153,4 @@ panic bunker,避难所模式,连接消息与管理界面统一
 Adminbus,管理员搞事,
 silicon laws,硅基法则,
 HUD,HUD,缩写保留；装备名如 security HUD → 安保HUD眼罩
+advanced (物品名前缀),高级,如 advanced APC → 高级 APC；不用「先进」

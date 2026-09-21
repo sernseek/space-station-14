@@ -1,5 +1,5 @@
 # TODO[新增] 值
-stain-verb-wring = Wring out clothes
+stain-verb-wring = 拧干衣物
 
 # TODO[新增] 值
-stain-verb-wring-success = You wring out the cloth, spilling liquid all over the floor.
+stain-verb-wring-success = 你拧干衣物，液体洒了一地。

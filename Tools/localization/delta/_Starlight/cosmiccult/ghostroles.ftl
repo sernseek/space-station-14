@@ -1,48 +1,48 @@
 # TODO[新增] 值
-ghost-role-information-cosmic-minion-name = Cosmic Minion
+ghost-role-information-cosmic-minion-name = 寰宇仆从
 
 # TODO[新增] 值
-ghost-role-information-cosmic-minion-description = Cosmic Cult Minion
-    You are a manifestation of the Cosmic Cult.
+ghost-role-information-cosmic-minion-description = 寰宇邪教的仆从。
+    你是寰宇邪教的具象化身。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-custodian-name = Malign Custodian
+ghost-role-information-cosmic-custodian-name = 恶兆守卫
 
 # TODO[新增] 值
-ghost-role-information-cosmic-custodian-description = A vessel of the Astral Murmur. With malign mass and unnatural strength, stand at the forefront of the Cosmic Cult and crush all who oppose its inevitable convergence.
+ghost-role-information-cosmic-custodian-description = 星界低语的容器。以恶兆之躯与蛮异之力，屹立于寰宇邪教的最前线，碾碎一切阻挡那必然聚合的人。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-custodian-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] aligned with the Cosmic Cult. You are the shield and fist of the Astral Murmur; lead the advance, protect your cosmic allies, and break through all who stand against the coming convergence.
+ghost-role-information-cosmic-custodian-rules = 你是一名与寰宇邪教结盟的[color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]。你是星界低语的盾与拳；带领推进，保护你的寰宇盟友，击溃一切阻挡即将到来之聚合的人。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-oracle-name = Malign Oracle
+ghost-role-information-cosmic-oracle-name = 恶兆神谕
 
 # TODO[新增] 值
-ghost-role-information-cosmic-oracle-description = A vessel of the Astral Murmur. Offer guidance and revelation to the Cosmic Cult, aiding them as they usher in the inevitable end.
+ghost-role-information-cosmic-oracle-description = 星界低语的容器。为寰宇邪教提供指引与启示，协助他们迎来必然的终局。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-oracle-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] aligned with the Cosmic Cult. Communicate through the Astral Murmur and follow the wishes of your cosmic allies.
+ghost-role-information-cosmic-oracle-rules = 你是一名与寰宇邪教结盟的[color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]。通过星界低语沟通，遵循你寰宇盟友的意愿。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-lodestar-name = Malign Lodestar
+ghost-role-information-cosmic-lodestar-name = 恶兆导星
 
 # TODO[新增] 值
-ghost-role-information-cosmic-lodestar-description = A vessel of the Astral Murmur. From beyond the front lines, unleash shards of the void upon those who resist the Cosmic Cult and illuminate the path toward the final convergence.
+ghost-role-information-cosmic-lodestar-description = 星界低语的容器。从前线之外，向抵抗寰宇邪教的人倾泻虚空碎片，为通往最终聚合的道路照亮方向。
 
 # TODO[新增] 值
-ghost-role-information-cosmic-lodestar-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] aligned with the Cosmic Cult. You are an instrument of the Astral Murmur; remain behind your cosmic allies, strike from afar, and tear apart those who oppose the inevitable end.
+ghost-role-information-cosmic-lodestar-rules = 你是一名与寰宇邪教结盟的[color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]。你是星界低语的利器；留在你寰宇盟友的身后，从远处打击，撕裂一切抗拒必然终局的人。
 
 # TODO[新增] 值
-ghost-role-colossus-revive = The colossus tears itself from death, roaring once more.
+ghost-role-colossus-revive = 巨像挣脱了死亡，再度咆哮。
 
 # TODO[新增] 值
-ghost-role-colossus-effigy-lost = Your connection to the effigy has been severed. You begin gathering strength for another.
+ghost-role-colossus-effigy-lost = 你与雕像的连接已被切断。你开始积蓄力量，准备召唤下一个。
 
 # TODO[新增] 值
-ghost-role-colossus-effigy-ready = Your strength has returned. You may once again beckon an effigy.
+ghost-role-colossus-effigy-ready = 你的力量已经恢复。你可以再次召唤雕像。
 
 # TODO[新增] 值
-ghost-role-information-nymph-name = Diona Nymph
+ghost-role-information-nymph-name = 狄奥娜若虫
 
 # TODO[新增] 值
-ghost-role-information-nymph-description = A feral diona nymph that has found its way into the station.
+ghost-role-information-nymph-description = 一只野生的狄奥娜若虫，不知怎么溜进了空间站。

@@ -1,5 +1,5 @@
 # TODO[新增] 值
-preset-not-enough-ready-players-sl = Can't start {$presetName}. Requires {$minimumPlayers} players but we have {$readyPlayersCount} effective players.
+preset-not-enough-ready-players-sl = 无法开始 {$presetName}。需要 {$minimumPlayers} 名玩家，但目前只有 {$readyPlayersCount} 名有效玩家。
 
 # TODO[新增] 值
-game-ticker-player-no-valid-roundstart-character = None of your enabled characters met all the requirements for your assigned job and antagonist selections, so you will remain in the lobby.
+game-ticker-player-no-valid-roundstart-character = 你启用的角色均不满足所分配职位与敌对角色选择的全部要求，因此你将留在大厅。

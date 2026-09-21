@@ -1,22 +1,22 @@
 # TODO[新增] 值
-content-warning-title = Welcome to Starlight
+content-warning-title = 欢迎来到 Starlight
 
 # TODO[新增] 值
-content-warning-label-introduction = Introduction
+content-warning-label-introduction = 简介
 
 # TODO[新增] 值
-content-warning-label-information = Important Information
+content-warning-label-information = 重要信息
 
 # TODO[新增] 值
-content-warning-accept = Accept
+content-warning-accept = 接受
 
 # TODO[新增] 值
-content-warning-reject = Reject
+content-warning-reject = 拒绝
 
 # TODO[新增] 值
 content-warning-introduction =
-    Welcome to the Starlight Sector, a corporate sector on the fringes of the Trans-Solar Federation, established near the Null Scar many years ago by NanoTrasen for scientific research. Though NanoTrasen still owns these stations and maintains some degree of oversight, they were pulled away on more urgent business 50 years ago, turning to a third-party contractor to man their stations in their absence: Central Command.
+    欢迎来到 Starlight 星区——一个位于泛太阳联邦边陲的企业星区。多年以前，纳米传讯为了科学研究，在虚无之痕附近建立了它。尽管纳米传讯仍拥有这些空间站并保持一定程度的监管，但 50 年前他们因更紧急的事务抽身离开，转而委托一家第三方承包商在他们缺席期间运营这些空间站：中央指挥部。
 
 # TODO[新增] 值
 content-warning-information =
-    Includes pixelated blood, gore, and graphic violence, plus dark themes such as kidnapping, mind control, and murder.
+    包含像素风格的血腥、残肢与直白暴力内容，以及绑架、精神控制、谋杀等黑暗主题。

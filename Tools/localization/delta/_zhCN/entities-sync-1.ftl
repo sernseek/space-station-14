@@ -2,597 +2,597 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值 .desc
-ent-APCAdvanced = advanced APC
-    .desc = An advanced control terminal for the area's electrical systems, capable of handling a much higher network load.
+ent-APCAdvanced = 先进 APC
+    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedConstructed = advanced APC
-    .desc = An advanced control terminal for the area's electrical systems, capable of handling a much higher network load.
+ent-APCAdvancedConstructed = 先进 APC
+    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedElectronics = advanced APC electronics
-    .desc = Circuit used to construct an advanced APC.
+ent-APCAdvancedElectronics = 先进 APC 电子元件
+    .desc = 用于组装先进 APC 的电路。
 
 # TODO[新增] 值 .desc
-ent-APCAdvancedFrame = advanced APC frame
-    .desc = An advanced control terminal for the area's electrical systems, lacking the electronics.
+ent-APCAdvancedFrame = 先进 APC 框架
+    .desc = 该区域电力系统的先进控制终端，缺少电子元件。
 
 # TODO[新增] 值 .desc
-ent-ActionAIReconnectShunt = Reconnect Shunt
-    .desc = Reconnect to the last chassis or interface you shunted into.
+ent-ActionAIReconnectShunt = 重连分流
+    .desc = 重新连接你上次分流进入的机体或接口。
 
 # TODO[新增] 值 .desc
-ent-ActionArcticGlare = Arctic Glare
-    .desc = Glare at your enemies with the fury of the artic, freezing anyone close (short range spell, 2 min cooldown).
+ent-ActionArcticGlare = 极地凝视
+    .desc = 以极地的狂怒凝视你的敌人，冻结所有近身之人（短程法术，冷却 2 分钟）。
 
 # TODO[新增] 值 .desc
-ent-ActionClownsBreath = [color=pink]Cluster Banana![/color]
-    .desc = Throw out a banana that splits into multiple explosive peels!
+ent-ActionClownsBreath = [color=pink]集束香蕉！[/color]
+    .desc = 扔出一根香蕉，它会分裂成一堆会爆炸的香蕉皮！
 
 # TODO[新增] 值 .desc
-ent-ActionEruption = Eruption
-    .desc = Summon a rune that after 2 seconds will start sending fiery shrapnels in a wide area (40 seconds cooldown).
+ent-ActionEruption = 喷发
+    .desc = 召唤一枚符文，2 秒后开始向大范围喷射火焰破片（冷却 40 秒）。
 
 # TODO[新增] 值 .desc
-ent-ActionFireArrow = Fire arrow
-    .desc = Fires a solid flame in the form of an arrow. (Cooldown of 10 seconds)
+ent-ActionFireArrow = 火焰箭
+    .desc = 射出一支凝固成箭形的火焰。（冷却 10 秒）
 
 # TODO[新增] 值 .desc
-ent-ActionFireOrb = Fire Orb
-    .desc = Fires a slow moving Orb of fire that will ignite everyone in a big radius in a glorious inferno. (Cooldown of 4 minutes)
+ent-ActionFireOrb = 火焰宝珠
+    .desc = 发射一颗缓慢移动的火球，在一场辉煌的炼狱中点燃大范围内的所有人。（冷却 4 分钟）
 
 # TODO[新增] 值 .desc
-ent-ActionFirebolt = Firebolt
-    .desc = Fires a fast but weaker bolt of fire toward the aimed location. (Cooldown of 5 seconds)
+ent-ActionFirebolt = 火焰弹
+    .desc = 向瞄准位置发射一枚快速但威力较弱的火焰弹。（冷却 5 秒）
 
 # TODO[新增] 值 .desc
-ent-ActionFreezeRune = Freeze Rune
-    .desc = Summons a rune that will freeze in place anyone who walks on it.
+ent-ActionFreezeRune = 冰冻符文
+    .desc = 召唤一枚符文，将任何踩上去的人冻结在原地。
 
 # TODO[新增] 值 .desc
-ent-ActionGenerateShellPiece = snap shell
-    .desc = Break off an expendable piece of your shell, either to use it as a crude knife or to donate it to a fellow doll.
+ent-ActionGenerateShellPiece = 掰壳
+    .desc = 从你的壳上掰下一块可弃碎片，既可以当简陋小刀用，也可以赠给同伴玩偶。
 
 # TODO[新增] 值 .desc
-ent-ActionIceOrb = Heart of Winter
-    .desc = Unleash a slow moving orb of ice, the orb throws icy shards every seconds and a half. Also destroys anything non living on impact. (3 min cooldown)
+ent-ActionIceOrb = 寒冬之心
+    .desc = 释放一颗缓慢移动的冰球，每 1.5 秒散射一次冰晶碎片，命中时还会摧毁一切非生物。（冷却 3 分钟）
 
 # TODO[新增] 值 .desc
-ent-ActionIcePillars = Ice Pillars
-    .desc = Creates a row of ice pillars in front of you (20 seconds cooldown).
+ent-ActionIcePillars = 冰柱
+    .desc = 在你面前创造一排冰柱（冷却 20 秒）。
 
 # TODO[新增] 值 .desc
-ent-ActionIceShard = Ice Shard
-    .desc = Throw a sharp shard of ice that will slice and freeze the first person it touches. (30 seconds cooldown)
+ent-ActionIceShard = 冰晶碎片
+    .desc = 掷出锋利的冰片，割裂并冻结第一个触碰者。（冷却 30 秒）
 
 # TODO[新增] 值 .desc
-ent-ActionIgniteRuneWiz = incendiary rune
-    .desc = Summons a rune that ignites anyone stepping on it.
+ent-ActionIgniteRuneWiz = 燃烧符文
+    .desc = 召唤一枚符文，点燃任何踩上去的人。
 
 # TODO[新增] 值 .desc
-ent-ActionRevenantChill = Chill of the grave
-    .desc = Costs 50 Essence.
+ent-ActionRevenantChill = 墓穴之寒
+    .desc = 消耗 50 点精华。
 
 # TODO[新增] 值 .desc
-ent-ActionRuneSummonIce = Summon ice sculpture
-    .desc = Summons an ice familiar after two seconds.
+ent-ActionRuneSummonIce = 召唤冰雕
+    .desc = 2 秒后召唤一个冰制使魔。
 
 # TODO[新增] 值 .desc
-ent-ActionSneeze = Sneeze
-    .desc = Clear your nose of whatever scent you were tracking.
+ent-ActionSneeze = 打喷嚏
+    .desc = 清一清鼻子，忘掉你正在追踪的气味。
 
 # TODO[新增] 值 .desc
-ent-ActionSniffObject = Smell Target
-    .desc = Smell a target to identify the scents left on it.
+ent-ActionSniffObject = 嗅探目标
+    .desc = 嗅闻目标，辨别其上残留的气味。
 
 # TODO[新增] 值 .desc
-ent-ActionToggleNeocyteDisguise = Toggle Neocyte Disguise
-    .desc = Form a fake neocyte cybernetic frame. Costs 0 chemicals.
+ent-ActionToggleNeocyteDisguise = 切换新胞伪装
+    .desc = 生成一副伪装的新胞赛博改造框架。消耗 0 点化学物质。
 
 # TODO[新增] 值 .desc
-ent-ActionToggleSniff = Toggle Smelling
-    .desc = Start or stop actively smelling, letting you see lingering scent trails in the world.
+ent-ActionToggleSniff = 切换嗅探
+    .desc = 开始或停止主动嗅探，让你能看到世界中残留的气味轨迹。
 
 # TODO[新增] 值 .desc
-ent-AirAlarmChamber = chamber air alarm
-    .desc = An air alarm set up for use in chambers. It doesn't report to the station's alert console.
+ent-AirAlarmChamber = 舱室空气警报器
+    .desc = 为舱室使用配置的空气警报器。不会向空间站的警报控制台报告。
 
 # TODO[新增] 值 .desc
-ent-AirAlarmChamberUnlocked = unlocked chamber air alarm
-    .desc = An air alarm set up for use in chambers. Anyone can adjust it, and it doesn't report to the station's alert console.
+ent-AirAlarmChamberUnlocked = 未锁定的舱室空气警报器
+    .desc = 为舱室使用配置的空气警报器。任何人都能调节，且不会向空间站的警报控制台报告。
 
 # TODO[新增] 值 .desc
-ent-AirAlarmSauna = sauna air alarm
-    .desc = An air alarm set up for use in saunas. It doesn't report to the station's alert console.
+ent-AirAlarmSauna = 桑拿房空气警报器
+    .desc = 为桑拿房使用配置的空气警报器。不会向空间站的警报控制台报告。
 
 # TODO[新增] 值 .desc
-ent-AirAlarmUnlocked = unlocked air alarm
-    .desc = An air alarm with its access reader deactivated. Anyone can adjust it.
+ent-AirAlarmUnlocked = 未锁定的空气警报器
+    .desc = 权限读取器已停用的空气警报器。任何人都能调节。
 
 # TODO[新增] 值 .desc
-ent-AmethystLizitar = amethyst lizitar
-    .desc = Now you really have no clue what this thing is made from.
+ent-AmethystLizitar = 紫晶蜥吉他
+    .desc = 现在你是真搞不清这东西是什么做的了。
 
 # TODO[新增] 值 .desc
-ent-AntiAnomalyZone = anti anomaly zone
-    .desc = Anomalies will not be able to appear within a 10 block radius of this point.
+ent-AntiAnomalyZone = 反异常区域
+    .desc = 异常将不会出现在此点 10 格半径内。
 
 # TODO[新增] 值 .desc
-ent-AntiAnomalyZone20 = anti anomaly zone
-    .desc = Anomalies will not be able to appear within a 20 block radius of this point.
+ent-AntiAnomalyZone20 = 反异常区域
+    .desc = 异常将不会出现在此点 20 格半径内。
 
 # TODO[新增] 值 .desc
-ent-AntiAnomalyZone30 = anti anomaly zone
-    .desc = Anomalies will not be able to appear within a 30 block radius of this point.
+ent-AntiAnomalyZone30 = 反异常区域
+    .desc = 异常将不会出现在此点 30 格半径内。
 
 # TODO[新增] 值 .desc
-ent-AntiAnomalyZone40 = anti anomaly zone
-    .desc = Anomalies will not be able to appear within a 40 block radius of this point.
+ent-AntiAnomalyZone40 = 反异常区域
+    .desc = 异常将不会出现在此点 40 格半径内。
 
 # TODO[新增] 值 .desc
-ent-AntiAnomalyZone50 = anti anomaly zone
-    .desc = Anomalies will not be able to appear within a 50 block radius of this point.
+ent-AntiAnomalyZone50 = 反异常区域
+    .desc = 异常将不会出现在此点 50 格半径内。
 
 # TODO[新增] 值 .desc
-ent-AssistantManagerIDCard = assistant manager ID card
-    .desc = A card necessary to access various areas aboard the station.
+ent-AssistantManagerIDCard = 助理经理ID卡
+    .desc = 进入空间站各区域所必需的卡。
 
 # TODO[新增] 值 .desc
-ent-AssistantManagerPDA = assistant manager PDA
-    .desc = The least poor among the poor.
+ent-AssistantManagerPDA = 助理经理PDA
+    .desc = 穷人堆里最不穷的那个。
 
 # TODO[新增] 值 .desc
-ent-BarSignEmped = glitchy bar sign
-    .desc = You imagine a good smack might fix it.
+ent-BarSignEmped = 故障的酒吧招牌
+    .desc = 你觉得用力拍两下兴许能修好它。
 
 # TODO[新增] 值 .desc
-ent-BaseAPCAdvanced = advanced APC
-    .desc = An advanced control terminal for the area's electrical systems, capable of handling a much higher network load.
+ent-BaseAPCAdvanced = 先进 APC
+    .desc = 该区域电力系统的先进控制终端，能承受高得多的网络负载。
 
 # TODO[新增] 值 .desc
-ent-BaseEnergyBallTemporary = temporary tesla
-    .desc = The cub of a destructive energy cage. Not as dangerous, but still not worth touching with bare hands.
+ent-BaseEnergyBallTemporary = 临时特斯拉
+    .desc = 毁灭性能量牢笼的幼崽。没那么危险，但仍不值得徒手去碰。
 
 # TODO[新增] 值 .desc
-ent-BaseShippingContainer = shipping container
-    .desc = Reinforced steel frames meant to survive being thrown around by lazy Cargo Technicians who forged their crane licenses.
+ent-BaseShippingContainer = 货运集装箱
+    .desc = 加固钢架，经得住那些伪造吊车执照的懒惰货运技师随手乱扔。
 
 # TODO[新增] 值 .desc
-ent-BigDrumsInstrument = drum kit
-    .desc = Ba dum tss!
+ent-BigDrumsInstrument = 架子鼓
+    .desc = 吧—噔—呲！
 
 # TODO[新增] 值 .desc
-ent-BlueWizardDuelistMedallion = Broken Moon medallion
-    .desc = Proof that the blue wizards are the masters of sorcery.
+ent-BlueWizardDuelistMedallion = 碎月奖章
+    .desc = 证明蓝袍巫师才是魔法大师。
 
 # TODO[新增] 值 .desc
-ent-BluespaceFireExtinguisher = bluespace fire extinguisher
-    .desc = It extinguishes fires, and slowly refills with water.
+ent-BluespaceFireExtinguisher = 蓝空间灭火器
+    .desc = 用来扑灭火焰，还会缓慢自动补水。
 
 # TODO[新增] 值 .desc
-ent-BluespaceStorageImplant = bluespace storage implant
-    .desc = This implant grants hidden storage within a person's body using bluespace technology.
+ent-BluespaceStorageImplant = 蓝空间储物植入体
+    .desc = 这枚植入体利用蓝空间技术在人体内提供隐藏储物空间。
 
 # TODO[新增] 值 .desc
-ent-BluespaceStorageImplanter = bluespace storage implanter
-    .desc = A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap to remove residual DNA after use!
+ent-BluespaceStorageImplanter = 蓝空间储物植入器
+    .desc = 专为注射皮下植入体设计的紧凑一次性注射器。用后记得用肥皂擦洗，去除残留 DNA！
 
 # TODO[新增] 值 .desc
-ent-BookApocolypse = Apocolypse
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookApocolypse = 《末世录》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookBedsidePhotograph = Bedside Photograph
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookBedsidePhotograph = 《床头照片》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookCapnsScruples = A Cap'n's Scruples
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookCapnsScruples = 《船长的顾虑》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookCavesOfUrania = The Caves of Urania-9775
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookCavesOfUrania = 《乌拉尼亚-9775 洞穴》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookChuckles = Chuckles
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookChuckles = 《咯咯笑》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookConfession = A Confession
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookConfession = 《一份忏悔》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookCorridorNine = Something Off with Corridor Nine
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookCorridorNine = 《九号走廊不对劲》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookDeathAlways = Death Always
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookDeathAlways = 《死亡常伴》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookHopPlay = A HOP Play
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookHopPlay = 《人事主管话剧》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookLastCow = The Last Cow
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookLastCow = 《最后一头牛》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookLifeOfAClown = A Day in the Life of a Clown
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookLifeOfAClown = 《小丑的一天》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookMarty = M.A.R.T.Y./Log#849211
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookMarty = 《M.A.R.T.Y./日志#849211》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookNTsMartyr = NT's Martyr
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookNTsMartyr = 《NT 的殉道者》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookSecureTerminalManual = Secure Terminal Manual
-    .desc = A guide to using the Secure Terminal system. Required reading for all command staff.
+ent-BookSecureTerminalManual = 《安全终端手册》
+    .desc = 安全终端系统使用指南。全体指挥部人员的必读材料。
 
 # TODO[新增] 值 .desc
-ent-BookThoughtsEnd = When Thoughts End
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookThoughtsEnd = 《当思绪终结》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookThroughTheGlass = Through the Glass
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookThroughTheGlass = 《穿越玻璃》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookUnnamedGod = Theological Studies — The unnamed God
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookUnnamedGod = 《神学研究——无名之神》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BookWizardDice = Wizard Dice
-    .desc = An award winning entry from a writing contest. Recommended for slow shifts, long shuttle rides, and avoiding actual work. This is a work of fiction. Probably.
+ent-BookWizardDice = 《巫师骰子》
+    .desc = 写作大赛获奖作品。适合摸鱼的班次、漫长的穿梭机旅途，以及逃避正经工作时阅读。本书纯属虚构。大概吧。
 
 # TODO[新增] 值 .desc
-ent-BorgModuleGaming = gaming cyborg module
-    .desc = A universal cyborg module for handling cash and game supplies.
+ent-BorgModuleGaming = 游戏赛博格模块
+    .desc = 用于处理现金与游戏用品的通用赛博格模块。
 
 # TODO[新增] 值 .desc
-ent-BorgModulePaperworkPrinting = paperwork printing module
-    .desc = A complete bureaucracy suite. Prints standard station forms, files them away, and faxes them out.
+ent-BorgModulePaperworkPrinting = 文书打印模块
+    .desc = 一整套官僚主义套件：打印空间站标准表格、归档、传真，一应俱全。
 
 # TODO[新增] 值 .desc
-ent-BoxFolderAssistantManagerClipboard = task master digi-board
-    .desc = Allows an assistant manager to assign titles and change the job icons of their yellow gloved underlings. Doesn't change access.
+ent-BoxFolderAssistantManagerClipboard = 工头数码板
+    .desc = 让助理经理给自己的黄手套下属分配头衔、更改职位图标。不更改权限。
 
 # TODO[新增] 值 .desc
-ent-BoxFoodSoftdrinks = softdrinks box
-    .desc = A variety of sodas to complement a small party, without having to empty the soda machines. Includes 16 sodas.
+ent-BoxFoodSoftdrinks = 软饮箱
+    .desc = 为小型聚会准备的各式汽水，省得掏空汽水机。内含 16 瓶汽水。
 
 # TODO[新增] 值 .desc
-ent-BoxFunBoxing = boxing box
-    .desc = Want to set up an underground fight club or host a tournament amongst station crew? This order is for you!
+ent-BoxFunBoxing = 拳击箱
+    .desc = 想开地下搏击俱乐部，或在空间站船员之间办锦标赛？这份订单就是为你准备的！
 
 # TODO[新增] 值 .desc
-ent-BoxFunLizardPlushieBulk = bulk lizard plushie box
-    .desc = A buncha soft lizard plushies. Throw them around and then wonder how you're gonna explain this purchase to NT.
+ent-BoxFunLizardPlushieBulk = 蜥蜴玩偶批发箱
+    .desc = 一大堆软乎乎的蜥蜴玩偶。扔着玩吧，然后再想想怎么跟 NT 解释这笔采购。
 
 # TODO[新增] 值 .desc
-ent-BoxFunSharkPlushieBulk = bulk soft toy shark box
-    .desc = A crate filled with a variety of everyone's favorite finned friend. Rawr!
+ent-BoxFunSharkPlushieBulk = 鲨鱼玩偶批发箱
+    .desc = 一只装满各种人见人爱的带鳍朋友的板条箱。嗷呜！
 
 # TODO[新增] 值 .desc
-ent-BoxMedalsCC = cc medals box
-    .desc = A cardboard box for storing things.
+ent-BoxMedalsCC = 中央指挥部奖章盒
+    .desc = 用来装东西的纸板盒。
 
 # TODO[新增] 值 .desc
-ent-BoxNuclearCommanderCds = nuclear operative announcement cds
-    .desc = A box filled with disgruntled messages. Recorded and burnt onto CDs. Ready for play.
+ent-BoxNuclearCommanderCds = 核弹特工通告 CD 盒
+    .desc = 装满牢骚留言的盒子。已录制并刻录成 CD，随时可播。
 
 # TODO[新增] 值 .desc
-ent-BoxServiceBlankBooks = blank books box
-    .desc = Contains 10 empty books of random appearance.
+ent-BoxServiceBlankBooks = 空白书箱
+    .desc = 内含 10 本外观随机的空白书。
 
 # TODO[新增] 值 .desc
-ent-BoxServiceCustomSmokable = DIY smokeables box
-    .desc = Want to get a little creative with what you use to destroy your lungs? Then this box is for you! Has everything you need to roll your own cigarettes.
+ent-BoxServiceCustomSmokable = 自制烟卷箱
+    .desc = 想在摧残自己肺部的方式上来点创意？这箱子就是为你准备的！卷自制香烟所需的一切都在里面。
 
 # TODO[新增] 值 .desc
-ent-BoxServiceGuidebooks = guidebooks box
-    .desc = Contains guidebooks.
+ent-BoxServiceGuidebooks = 指南手册箱
+    .desc = 内含指南手册。
 
 # TODO[新增] 值 .desc
-ent-BoxShelf = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelf = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfCargo = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfCargo = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfEmpty = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfEmpty = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfEngie = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfEngie = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfEvidenceRoom = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfEvidenceRoom = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfHoP = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfHoP = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfMedbay = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfMedbay = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxShelfSecurity = box shelf
-    .desc = A shelf for storing boxes.
+ent-BoxShelfSecurity = 箱子货架
+    .desc = 用来存放箱子的货架。
 
 # TODO[新增] 值 .desc
-ent-BoxStampsFake = fake stamps box
-    .desc = A small box containing fake stamps.
+ent-BoxStampsFake = 假印章盒
+    .desc = 装有假印章的小盒子。
 
 # TODO[新增] 值 .desc
-ent-BoxStampsJoke = joke stamps box
-    .desc = A small box containing fake stamps.
+ent-BoxStampsJoke = 玩笑印章盒
+    .desc = 装有假印章的小盒子。
 
 # TODO[新增] 值 .desc
-ent-BrassWindow = brass window
-    .desc = Don't smudge up the glass down there.
+ent-BrassWindow = 黄铜窗
+    .desc = 别把下面的玻璃蹭脏了。
 
 # TODO[新增] 值 .desc
-ent-BrassWindowDiagonal = brass window
-    .desc = Don't smudge up the glass down there.
+ent-BrassWindowDiagonal = 黄铜窗
+    .desc = 别把下面的玻璃蹭脏了。
 
 # TODO[新增] 值 .desc
-ent-BrighteyePortalObjective = Open a portal to the dark
-    .desc = Open and keep a portal open to the dark.
+ent-BrighteyePortalObjective = 开启通往黑暗的传送门
+    .desc = 开启一道通往黑暗的传送门并保持开启。
 
 # TODO[新增] 值 .desc
-ent-BrighteyeSurviveObjective = Protect your core
-    .desc = Ensure your core is not damaged or removed!
+ent-BrighteyeSurviveObjective = 保护你的核心
+    .desc = 确保你的核心不被损坏或移除！
 
 # TODO[新增] 值 .desc
-ent-BucketSmall = small bucket
-    .desc = A boring old bucket, in a size that fits in a bag.
+ent-BucketSmall = 小水桶
+    .desc = 一个平平无奇的旧水桶，尺寸小到能装进包里。
 
 # TODO[新增] 值
-ent-CCBartenderSpawnerPostRound = CentComm bartender spawner
+ent-CCBartenderSpawnerPostRound = 中央指挥部酒保生成点
 
 # TODO[新增] 值
-ent-CCChefSpawnerPostRound = CentComm chef spawner
+ent-CCChefSpawnerPostRound = 中央指挥部厨师生成点
 
 # TODO[新增] 值
-ent-CCJanitorSpawnerPostRound = CentComm janitor spawner
+ent-CCJanitorSpawnerPostRound = 中央指挥部清洁工生成点
 
 # TODO[新增] 值
-ent-CCServiceWorkerSpawnerPostRound = CentComm service worker spawner
+ent-CCServiceWorkerSpawnerPostRound = 中央指挥部服务人员生成点
 
 # TODO[新增] 值 .desc
-ent-CDAdvertBecomeSilicon = CD: Become Silicon
-    .desc = A CD containing a prerecorded advertisement from your local silicon overlord.
+ent-CDAdvertBecomeSilicon = CD：《成为硅基》
+    .desc = 一张 CD，内含你本地硅基霸主预先录制的广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertBillMovie = CD: Bill Movie
-    .desc = A CD containing a prerecorded advertisement for an upcoming movie.
+ent-CDAdvertBillMovie = CD：《比尔大电影》
+    .desc = 一张 CD，内含某部即将上映电影的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertCaptainTraining = CD: Captain Training
-    .desc = A CD containing a prerecorded advertisement for Captain Training.
+ent-CDAdvertCaptainTraining = CD：《舰长培训》
+    .desc = 一张 CD，内含舰长培训的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertCargoniaRecruitment = CD: Cargonia Recruitment
-    .desc = A CD containing a prerecorded advertisement for Cargonia Recruitment.
+ent-CDAdvertCargoniaRecruitment = CD：《卡戈尼亚招募》
+    .desc = 一张 CD，内含卡戈尼亚招募的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertChemistryAdvert = CD: Chemistry Advertisement
-    .desc = A CD containing a prerecorded advertisement for the station's chemistry department.
+ent-CDAdvertChemistryAdvert = CD：《化学部广告》
+    .desc = 一张 CD，内含空间站化学部的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertCloningPSA = CD: Cloning PSA
-    .desc = A CD containing a prerecorded public service announcement for the station's cloning facilities.
+ent-CDAdvertCloningPSA = CD：《克隆公益公告》
+    .desc = 一张 CD，内含空间站克隆设施的预录公益公告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertDanitosBurritos = CD: Danito's Burritos
-    .desc = A CD containing a prerecorded advertisement for Danito's Burritos.
+ent-CDAdvertDanitosBurritos = CD：《达尼托卷饼》
+    .desc = 一张 CD，内含达尼托卷饼的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertDansQuickNoodles = CD: Dan's Quick Noodles
-    .desc = A CD containing a prerecorded advertisement for Dan's Quick Noodles.
+ent-CDAdvertDansQuickNoodles = CD：《阿丹快熟面》
+    .desc = 一张 CD，内含阿丹快熟面的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertDansTickets = CD: Dan's Golden Tickets
-    .desc = A CD containing a prerecorded advertisement for Dan's Golden Tickets. Coming to a station near you!
+ent-CDAdvertDansTickets = CD：《阿丹黄金奖券》
+    .desc = 一张 CD，内含阿丹黄金奖券的预录广告。即将来到你身边的空间站！
 
 # TODO[新增] 值 .desc
-ent-CDAdvertPopeCrunchCereal = CD: Pope Crunch Cereal
-    .desc = A CD containing a prerecorded advertisement for Pope Crunch Cereal.
+ent-CDAdvertPopeCrunchCereal = CD：《教皇脆脆麦片》
+    .desc = 一张 CD，内含教皇脆脆麦片的预录广告。
 
 # TODO[新增] 值 .desc
-ent-CDAdvertSecurityPSA = CD: Security PSA
-    .desc = A CD containing a prerecorded public service announcement for the station's security department.
+ent-CDAdvertSecurityPSA = CD：《安保公益公告》
+    .desc = 一张 CD，内含空间站安保部的预录公益公告。
 
 # TODO[新增] 值 .desc
-ent-CDJNENextUp = CD: Up Next
-    .desc = A CD containing a prerecorded message for the June and Eel show.
+ent-CDJNENextUp = CD：《接下来播出》
+    .desc = 一张 CD，内含《琼与鳗鱼秀》的预录留言。
 
 # TODO[新增] 值 .desc
-ent-CDJNENinja = CD: Ninja Attack
-    .desc = A CD containing a prerecorded message for the June and Eel show.
+ent-CDJNENinja = CD：《忍者来袭》
+    .desc = 一张 CD，内含《琼与鳗鱼秀》的预录留言。
 
 # TODO[新增] 值 .desc
-ent-CDJNEShow = CD: June and Eel Show
-    .desc = A CD containing a prerecorded message for the June and Eel show.
+ent-CDJNEShow = CD：《琼与鳗鱼秀》
+    .desc = 一张 CD，内含《琼与鳗鱼秀》的预录留言。
 
 # TODO[新增] 值 .desc
-ent-CDMiscDuck = CD: Amusing Duck
-    .desc = A CD containing a prerecorded message from an amusing duck.
+ent-CDMiscDuck = CD：《有趣的鸭子》
+    .desc = 一张 CD，内含一只有趣的鸭子的预录留言。
 
 # TODO[新增] 值 .desc
-ent-CDNukieAnnouncement = CD: Commander Announcement
-    .desc = A CD containing an announcement from the Nuclear Operatives Commander, crashing out at the station's Captain.
+ent-CDNukieAnnouncement = CD：《指挥官通告》
+    .desc = 一张 CD，内含核弹特工指挥官对空间站舰长破口大骂的通告。
 
 # TODO[新增] 值 .desc
-ent-CDNukieFigurines = CD: Commander Figurines
-    .desc = A CD containing a secret recording of the Nuclear Operatives Commander playing with figurines.
+ent-CDNukieFigurines = CD：《指挥官玩手办》
+    .desc = 一张 CD，内含核弹特工指挥官玩手办的秘密录音。
 
 # TODO[新增] 值 .desc
-ent-CDNukieResignation = CD: Commander Resignation
-    .desc = A CD containing the Nuclear Operatives Commander's resignation.
+ent-CDNukieResignation = CD：《指挥官辞职信》
+    .desc = 一张 CD，内含核弹特工指挥官的辞职声明。
 
 # TODO[新增] 值 .desc
-ent-CDNukieSupport = CD: Commander Support
-    .desc = A CD containing a recording of the Nuclear Operatives Commander complaining to the Syndicate customer support department!
+ent-CDNukieSupport = CD：《指挥官客服投诉》
+    .desc = 一张 CD，内含核弹特工指挥官向辛迪加客服部门抱怨的录音！
 
 # TODO[新增] 值 .desc
-ent-CDNumbers = CD: Numbers
-    .desc = A CD containing a cryptic message used to contact a nearby threat from off station.
+ent-CDNumbers = CD：《数字》
+    .desc = 一张 CD，内含用于联系附近站外威胁的神秘讯息。
 
 # TODO[新增] 值 .desc
-ent-CDNumbersQuickAdmin = CD: Nmbrz
-    .desc = A sped up CD that will quickly contact a nearby threat from off station.
+ent-CDNumbersQuickAdmin = CD：《数字（加速版）》
+    .desc = 一张加速版 CD，能快速联系附近的站外威胁。
 
 # TODO[新增] 值 .desc
-ent-CDNumbersSlow = CD: Nothing Ever Happens...
-    .desc = A CD containing a cryptic message that will eventually contact a nearby threat from off station.
+ent-CDNumbersSlow = CD：《什么都不会发生……》
+    .desc = 一张 CD，内含一条神秘讯息，最终会联系上附近的站外威胁。
 
 # TODO[新增] 值 .desc
-ent-CDSyndicateFM = CD: Syndicate Radio
-    .desc = 102.9 syndicate Radio.
+ent-CDSyndicateFM = CD：《辛迪加广播》
+    .desc = 102.9 辛迪加广播。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLarge = large cardboard box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLarge = 大纸板箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeAtmosLocker = atmos equipment box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeAtmosLocker = 大气设备箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeBotany = botany box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeBotany = 植物学箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeBureaucracy = office supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeBureaucracy = 办公用品箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeCargo = cargo box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeCargo = 货运箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeCargoRoundstart = cargo supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeCargoRoundstart = 货运补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeChemistry = chemistry box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeChemistry = 化学箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeCommand = command box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeCommand = 指挥部箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeCommandHopRoundstart = hop supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeCommandHopRoundstart = 人事主管补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEngi = engineering box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEngi = 工程箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEngiGasGrenades = atmos gas grenades box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEngiGasGrenades = 大气气体手雷箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEngiLocker = engie equipment box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEngiLocker = 工程设备箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEngiRoundstart = engineering supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEngiRoundstart = 工程补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEngiTools = engineering tools box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEngiTools = 工程工具箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEvidence = evidence box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEvidence = 证物箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEvidenceFilled = evidence supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEvidenceFilled = 证物补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeEvidenceFilledExtras = extra evidence supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeEvidenceFilledExtras = 额外证物补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeHazard = hazard box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeHazard = 危险品箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeInternals = internals box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeInternals = 内供箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeInternalsFilled = small emergency breathing supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeInternalsFilled = 小型应急呼吸补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeMedical = medical box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeMedical = 医疗箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeMedicalTopicals = medical topicals box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeMedicalTopicals = 外用药品箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeRestock = restock box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeRestock = 补货箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeScience = science box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeScience = 科研箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeSecurity = security box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeSecurity = 安保箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeSecurityBrigmed = brigmedical supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeSecurityBrigmed = 狱医补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeSecuritySupplies = security supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeSecuritySupplies = 安保补给箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeSecurityTopicals = advanced topicals box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeSecurityTopicals = 高级外用药箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeService = service box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeService = 服务箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeServiceDinnerware = kitchen supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeServiceDinnerware = 厨房用品箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeServiceGlasses = drink glasses box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeServiceGlasses = 饮品玻璃杯箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeServiceJani = janitorial supplies box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeServiceJani = 清洁用品箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CardboardBoxLargeWeh = weh box
-    .desc = A large cardboard box for storing things.
+ent-CardboardBoxLargeWeh = weh 箱
+    .desc = 用来装东西的大纸板箱。
 
 # TODO[新增] 值 .desc
-ent-CargoMailBox = cargo mailbox
-    .desc = A mailbox for storing and retrieving mail. Allows for Cargo to store and retrieve their mail.
+ent-CargoMailBox = 货运邮箱
+    .desc = 用于存取邮件的邮箱。方便货运部存放和取回他们的邮件。

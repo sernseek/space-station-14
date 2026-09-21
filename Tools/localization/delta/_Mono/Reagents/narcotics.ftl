@@ -1,5 +1,5 @@
 # TODO[新增] 值
-reagent-name-phenylpiperidine = phenylpiperidine
+reagent-name-phenylpiperidine = 苯基哌啶
 
 # TODO[新增] 值
-reagent-desc-phenylpiperidine = A highly potent opioid painkiller and narcotic. Its highly addictive, and horribly abused. When mixed with Tricordrazine at a 5:1 ratio (5u phenylpiperidine, 1u Tricordrazine) at 375k it is solidified, and highly valuable. Do not mix with Dylovene under any circumstances.
+reagent-desc-phenylpiperidine = 一种强效的类阿片止痛药兼麻醉剂。极易成瘾，滥用情况严重。在 375K 下与三柯拉嗪以 5:1 比例（5u 苯基哌啶，1u 三柯拉嗪）混合时会固化，价值极高。无论如何都不要与戴洛韦混合。

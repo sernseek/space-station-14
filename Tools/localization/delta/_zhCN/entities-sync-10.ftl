@@ -2,170 +2,170 @@
 # 已是中文的名字是定稿译文，只翻 .desc。
 
 # TODO[新增] 值 .desc
-ent-WeaponFrozentome = Frozen Tome
-    .desc = The frozen tome of greater frost ray, allows you to cast a deadly beam of cold magic that destroys enemies and walls alike.
+ent-WeaponFrozentome = 冰霜典籍
+    .desc = 高等霜冻射线的冰霜典籍，能让你射出致命的寒冰魔法光束，无论敌人还是墙壁都会被摧毁。
 
 # TODO[新增] 值 .desc
-ent-WeaponPistol75auto = PS-75 Auto
-    .desc = A fully automatic handgun with an ergonomic design, feeds from .35 pistol magazines.
+ent-WeaponPistol75auto = PS-75 自动手枪
+    .desc = 一把全自动手枪，采用人体工学设计，使用 .35 手枪弹匣供弹。
 
 # TODO[新增] 值 .desc
-ent-WeaponPistolColdCase = cold case
-    .desc = An antiquated design of a pistol, truly a stylish choice.
+ent-WeaponPistolColdCase = 冷案
+    .desc = 一款设计古旧的手枪，确实是有格调的选择。
 
 # TODO[新增] 值 .desc
 ent-WeaponRifleZ46 = PS Z46
-    .desc = A rifle designed by Private Servitude to make heavier rifles more commonly available. Chambers in .30 rifle rounds.
+    .desc = 由 Private Servitude 设计的步枪，旨在让更重的步枪更为普及。使用 .30 步枪弹。
 
 # TODO[新增] 值 .desc
 ent-WeaponRifleZ77T1 = PS Z77 T1
-    .desc = A rifle designed by Private Servitude, cheaper than the commonly used Lecter. Takes .20 rifle rounds.
+    .desc = 由 Private Servitude 设计的步枪，比常用的莱克特步枪更便宜。使用 .20 步枪弹。
 
 # TODO[新增] 值 .desc
-ent-WeaponShotgunTaiga = PS Taiga-10
-    .desc = A shotgun designed by Private Servitude, feeds from 12 Gauge drum magazines. Can switch between semi-auto and full auto.
+ent-WeaponShotgunTaiga = PS 泰加-10
+    .desc = 由 Private Servitude 设计的霰弹枪，使用 12 号口径弹鼓供弹。可在半自动与全自动之间切换。
 
 # TODO[新增] 值 .desc
-ent-WeaponSubMachineGunDD22 = PS DD-22 Dryson
-    .desc = An SMG designed by Private Servitude, partially inspired by the AKMS. Chambers in .35 Rounds and feeds from a unique bottom mounted magazine.
+ent-WeaponSubMachineGunDD22 = PS DD-22 德莱森
+    .desc = 由 Private Servitude 设计的冲锋枪，部分灵感来自 AKMS。使用 .35 弹药，以独特的底部挂载弹匣供弹。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerAshfallHeavy = Weather Marker
-    .desc = Don't breath this!
+ent-WeatherMarkerAshfallHeavy = 天气标记
+    .desc = 别把这东西吸进去！
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerAshfallLight = Weather Marker
-    .desc = Maybe volcanic, definitely disasterous.
+ent-WeatherMarkerAshfallLight = 天气标记
+    .desc = 可能是火山灰，反正是灾难。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerFallout = Weather Marker
-    .desc = Crawl out through the fallout.
+ent-WeatherMarkerFallout = 天气标记
+    .desc = 从落尘里爬出来吧。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerHail = Weather Marker
-    .desc = Mostly not deadly.
+ent-WeatherMarkerHail = 天气标记
+    .desc = 大体上不致命。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerRain = Weather Marker
-    .desc = A little perichor for the soul.
+ent-WeatherMarkerRain = 天气标记
+    .desc = 给灵魂来一点雨后泥土的芬芳。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSandstorm = Weather Marker
-    .desc = Music not included.
+ent-WeatherMarkerSandstorm = 天气标记
+    .desc = 不含配乐。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSandstormHeavy = Weather Marker
-    .desc = It'll get everywhere.
+ent-WeatherMarkerSandstormHeavy = 天气标记
+    .desc = 沙子会钻进所有地方。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSnowLobster = Weather Marker
-    .desc = Heavy snow with light fog.
+ent-WeatherMarkerSnowLobster = 天气标记
+    .desc = 大雪伴着轻雾。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSnowfallHeavy = Weather Marker
-    .desc = A howling blizzard with white-out conditions.
+ent-WeatherMarkerSnowfallHeavy = 天气标记
+    .desc = 呼啸的暴风雪，一片白茫茫。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSnowfallLight = Weather Marker
-    .desc = A light dusting of snow.
+ent-WeatherMarkerSnowfallLight = 天气标记
+    .desc = 薄薄一层落雪。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerSnowfallMedium = Weather Marker
-    .desc = A large helping of snow.
+ent-WeatherMarkerSnowfallMedium = 天气标记
+    .desc = 分量十足的降雪。
 
 # TODO[新增] 值 .desc
-ent-WeatherMarkerStorm = Weather Marker
-    .desc = It was a dark and stormy night...
+ent-WeatherMarkerStorm = 天气标记
+    .desc = 那是一个漆黑暴风雨的夜晚……
 
 # TODO[新增] 值
-ent-WeatherSnowfallLobster = heavy snowfall with light fog
+ent-WeatherSnowfallLobster = 大雪伴轻雾
 
 # TODO[新增] 值 .desc
-ent-WebHandcuffs = web cuffs
-    .desc = Used to slightly hinder people's escape.
+ent-WebHandcuffs = 丝网手铐
+    .desc = 用来稍微妨碍别人逃跑。
 
 # TODO[新增] 值 .desc
-ent-WeirdEggGold = golden egg
-    .desc = A golden egg!
+ent-WeirdEggGold = 金蛋
+    .desc = 一颗金色的蛋！
 
 # TODO[新增] 值 .desc
-ent-WeirdEggPlasma = plasma egg
-    .desc = A plasma egg!
+ent-WeirdEggPlasma = 等离子体蛋
+    .desc = 一颗等离子体蛋！
 
 # TODO[新增] 值 .desc
-ent-WeirdEggUranium = uranium egg
-    .desc = A uranium egg!
+ent-WeirdEggUranium = 铀蛋
+    .desc = 一颗铀蛋！
 
 # TODO[新增] 值 .desc
-ent-WindowBrassDirectional = directional brass window
-    .desc = Don't smudge up the glass down there.
+ent-WindowBrassDirectional = 定向黄铜窗
+    .desc = 别把下面那块玻璃摸花了。
 
 # TODO[新增] 值 .desc
-ent-WindowReinforcedDirectionalBrass = directional reinforced brass window
-    .desc = Don't smudge up the glass down there.
+ent-WindowReinforcedDirectionalBrass = 定向强化黄铜窗
+    .desc = 别把下面那块玻璃摸花了。
 
 # TODO[新增] 值
-ent-WizardDuelistMedallionObjective = Obtain the medallions
+ent-WizardDuelistMedallionObjective = 夺得徽章
 
 # TODO[新增] 值 .desc
-ent-WizardWarTablet = seal of war
-    .desc = Raw magic is sealed in this stone. Unleashing it will allow the use of more powerful abilities. However, anyone with advanced sensors in proximity will detect such a magic surge as an act of aggression. If unused, the stone will crumble to dust in 5 minutes, forever sealing the magic within.
+ent-WizardWarTablet = 战争之印
+    .desc = 这块石头中封印着原始魔法。释放它就能使用更强大的能力。然而，附近任何持有高级传感器的人都会把这样的魔法涌动视为攻击行为。若未使用，石头会在 5 分钟后化为尘土，其中的魔法将永远封存。
 
 # TODO[新增] 值 .desc
-ent-WizardWarTabletdrained = empty seal of war
-    .desc = An emptied magical seal.
+ent-WizardWarTabletdrained = 空竭的战争之印
+    .desc = 一枚耗空的魔法印记。
 
 # TODO[新增] 值 .desc
-ent-YellowWizardDuelistMedallion = Lunar Prophet medallion
-    .desc = Proof that the yellow wizards can see all outcomes.
+ent-YellowWizardDuelistMedallion = 月神先知徽章
+    .desc = 证明黄衣巫师能预见一切结局。
 
 # TODO[新增] 值
-ent-ZoneMarkerArrivals = zone marker (arrivals)
+ent-ZoneMarkerArrivals = 区域标记（抵达区）
 
 # TODO[新增] 值
-ent-ZoneMarkerAtmospherics = zone marker (atmospherics)
+ent-ZoneMarkerAtmospherics = 区域标记（大气区）
 
 # TODO[新增] 值
-ent-ZoneMarkerBar = zone marker (bar)
+ent-ZoneMarkerBar = 区域标记（酒吧）
 
 # TODO[新增] 值
-ent-ZoneMarkerCargo = zone marker (cargo)
+ent-ZoneMarkerCargo = 区域标记（货运部）
 
 # TODO[新增] 值
-ent-ZoneMarkerChapel = zone marker (chapel)
+ent-ZoneMarkerChapel = 区域标记（礼拜堂）
 
 # TODO[新增] 值
-ent-ZoneMarkerCommand = zone marker (command)
+ent-ZoneMarkerCommand = 区域标记（指挥部）
 
 # TODO[新增] 值
-ent-ZoneMarkerDormitory = zone marker (dormitory)
+ent-ZoneMarkerDormitory = 区域标记（宿舍）
 
 # TODO[新增] 值
-ent-ZoneMarkerEngineering = zone marker (engineering)
+ent-ZoneMarkerEngineering = 区域标记（工程部）
 
 # TODO[新增] 值
-ent-ZoneMarkerHallway = zone marker (hallway)
+ent-ZoneMarkerHallway = 区域标记（走廊）
 
 # TODO[新增] 值
-ent-ZoneMarkerKitchen = zone marker (kitchen)
+ent-ZoneMarkerKitchen = 区域标记（厨房）
 
 # TODO[新增] 值
-ent-ZoneMarkerMaintenance = zone marker (maintenance)
+ent-ZoneMarkerMaintenance = 区域标记（维护通道）
 
 # TODO[新增] 值
-ent-ZoneMarkerMedical = zone marker (medical)
+ent-ZoneMarkerMedical = 区域标记（医疗部）
 
 # TODO[新增] 值
-ent-ZoneMarkerScience = zone marker (science)
+ent-ZoneMarkerScience = 区域标记（科研部）
 
 # TODO[新增] 值
-ent-ZoneMarkerSecurity = zone marker (security)
+ent-ZoneMarkerSecurity = 区域标记（安保部）
 
 # TODO[新增] 值
-ent-ZoneMarkerService = zone marker (service)
+ent-ZoneMarkerService = 区域标记（服务部）
 
 # TODO[新增] 值
-ent-ZoneMarkerSolars = zone marker (solars)
+ent-ZoneMarkerSolars = 区域标记（太阳能阵列）
 
 # TODO[新增] .desc
 ent-ActionExplosionRuneWiz = 爆炸符文

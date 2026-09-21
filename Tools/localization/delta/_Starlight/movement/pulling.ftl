@@ -1,2 +1,2 @@
 # TODO[新增] 值
-pulling-train-full = You can't couple anything else onto the back.
+pulling-train-full = 后面已经挂不下更多东西了。

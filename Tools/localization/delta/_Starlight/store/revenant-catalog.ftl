@@ -1,5 +1,5 @@
 # TODO[新增] 值
-revenant-chill-name = Chill of the grave
+revenant-chill-name = 墓穴之寒
 
 # TODO[新增] 值
-revenant-chill-desc = Create a large patch of ice around you while cooling the area down.
+revenant-chill-desc = 在你周围制造出一大片寒冰，同时让该区域降温。

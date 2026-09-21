@@ -1,5 +1,5 @@
 # TODO[新增] 值
-reagent-name-brass = brass
+reagent-name-brass = 黄铜
 
 # TODO[新增] 值
-reagent-desc-brass = Smells like clockwork.
+reagent-desc-brass = 闻起来像发条装置。

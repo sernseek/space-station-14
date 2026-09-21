@@ -1,11 +1,11 @@
 # TODO[新增] 值
-id-card-access-level-shuttle = Shuttle
+id-card-access-level-shuttle = 穿梭机
 
 # TODO[新增] 值
-id-card-access-level-clown = Clown
+id-card-access-level-clown = 小丑
 
 # TODO[新增] 值
-id-card-access-level-mime = Mime
+id-card-access-level-mime = 哑剧演员
 
 # TODO[新增] 值
-id-card-access-level-itg = Interstellar Trade Guild
+id-card-access-level-itg = 星际贸易公会

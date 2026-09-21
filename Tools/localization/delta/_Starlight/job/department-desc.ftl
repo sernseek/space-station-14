@@ -1,2 +1,2 @@
 # TODO[新增] 值
-department-ITG-description = Third-party workers of the Interstellar Trade Guild.
+department-ITG-description = 星际贸易公会的第三方雇员。

@@ -1,17 +1,17 @@
 # TODO[新增] 值
-cmd-myzone-desc = Prints the zone you are currently in.
+cmd-myzone-desc = 打印你当前所在的区域。
 
 # TODO[新增] 值
-cmd-myzone-help = Usage: {$command}
+cmd-myzone-help = 用法：{$command}
 
 # TODO[新增] 值
-cmd-myzone-no-entity = You need to be attached to an entity to use this command.
+cmd-myzone-no-entity = 你需要附着在一个实体上才能使用此命令。
 
 # TODO[新增] 值
-cmd-myzone-no-tracker = The server is not tracking zones for you.
+cmd-myzone-no-tracker = 服务器没有在为你追踪区域。
 
 # TODO[新增] 值
-cmd-myzone-in-zone = You are in zone {$zone}.
+cmd-myzone-in-zone = 你位于区域 {$zone}。
 
 # TODO[新增] 值
-cmd-myzone-not-in-zone = You are not in a zone.
+cmd-myzone-not-in-zone = 你不在任何区域内。

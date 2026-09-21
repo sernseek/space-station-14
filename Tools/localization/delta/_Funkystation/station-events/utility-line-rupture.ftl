@@ -1,5 +1,5 @@
 # TODO[新增] 值
-utility-line-rupture-announcement = Systems detect a high-pressure utility line nearing rupture point {$location}. Expulsion of flammable materials is highly probable. Engineering personnel are requested to intervene urgently.
+utility-line-rupture-announcement = 系统检测到{$location}有一条高压公用管线即将破裂。极有可能喷出易燃物质。请工程人员立即紧急处置。
 
 # TODO[新增] 值
 utility-line-rupture-sender = SIS/TR v3.20

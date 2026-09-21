@@ -2,22 +2,22 @@
 entity-effect-guidebook-modify-solution-reagent =
     { $chance ->
         [1] { $deltasign ->
-                [1] Adds
-                *[-1] Removes
+                [1] 向
+                *[-1] 从
             }
         *[other]
             { $deltasign ->
-                [1] add
-                *[-1] remove
+                [1] 向
+                *[-1] 从
             }
-    } {NATURALFIXED($amount, 2)}u of {$reagent} { $deltasign ->
-        [1] to
-        *[-1] from
-    } the {$solution} solution
+    } {$solution} 溶液中{ $deltasign ->
+        [1] 添加
+        *[-1] 移除
+    } {NATURALFIXED($amount, 2)}u {$reagent}
 
 # TODO[新增] 值
 entity-effect-guidebook-regrow-doll-shell =
     { $chance ->
-        [1] Regrows
-        *[other] regrow
-    } one piece of shell
+        [1] 重新生长
+        *[other] 重新生长
+    } 一片壳体

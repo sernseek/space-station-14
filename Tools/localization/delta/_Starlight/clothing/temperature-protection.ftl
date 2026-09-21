@@ -1,11 +1,11 @@
 # TODO[新增] 值
-clothing-temperature-protection = - Reduces [color={$color}]{$type}[/color] temperatures by [color={$color}]{$value}%[/color].
+clothing-temperature-protection = - 降低 [color={$color}]{$type}[/color] 温度 [color={$color}]{$value}%[/color]。
 
 # TODO[新增] 值
-clothing-temperature-vulnerable = - Increases [color={$color}]{$type}[/color] temperatures by [color={$color}]{$value}%[/color].
+clothing-temperature-vulnerable = - 提高 [color={$color}]{$type}[/color] 温度 [color={$color}]{$value}%[/color]。
 
 # TODO[新增] 值
-clothing-temperature-type-cold = cold
+clothing-temperature-type-cold = 寒冷
 
 # TODO[新增] 值
-clothing-temperature-type-hot = hot
+clothing-temperature-type-hot = 炎热

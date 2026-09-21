@@ -1,2 +1,2 @@
 # TODO[新增] 值
-verb-categories-switch = Switch
+verb-categories-switch = 开关

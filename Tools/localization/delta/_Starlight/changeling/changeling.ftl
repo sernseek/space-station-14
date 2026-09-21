@@ -1,2 +1,2 @@
 # TODO[新增] 值
-changeling-equip-neocyte-fail = Need to be a neocyte, and must not be wearing a neocyte frame.
+changeling-equip-neocyte-fail = 需要是新胞体，且不能穿戴新胞体骨架。

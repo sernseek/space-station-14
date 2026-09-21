@@ -1,5 +1,5 @@
 # TODO[新增] 值
-eta-units-hours = hours
+eta-units-hours = 小时
 
 # TODO[新增] 值
-eta-units-days = days
+eta-units-days = 天

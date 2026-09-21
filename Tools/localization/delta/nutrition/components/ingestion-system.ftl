@@ -1,17 +1,17 @@
 # TODO[新增] 值
 -edible-satiated = { $satiated ->
-    [true] {" "}You don't feel like you could { $verb } any more.
+    [true] {" "}你感觉自己已经吃不下任何东西了。
   *[false] {""}
 }
 
 # TODO[改动] 值
-edible-nom = Nom. {$flavors}{ -edible-satiated(satiated: $satiated, verb: "eat") }
+edible-nom = 嚼嚼。{$flavors}{ -edible-satiated(satiated: $satiated, verb: "eat") }
 
 # TODO[改动] 值
-edible-slurp = Slurp. {$flavors}{ -edible-satiated(satiated: $satiated, verb: "drink") }
+edible-slurp = 吸溜。{$flavors}{ -edible-satiated(satiated: $satiated, verb: "drink") }
 
 # TODO[改动] 值
-edible-swallow = You swallow { THE($food) }.{ -edible-satiated(satiated: $satiated, verb: "swallow") }
+edible-swallow = 你吞下了 { THE($food) }。{ -edible-satiated(satiated: $satiated, verb: "swallow") }
 
 # TODO[改动] 值
-edible-force-feed-success = {CAPITALIZE(THE($user))} forced you to {$verb} something! {$flavors}{ -edible-satiated(satiated: $satiated, verb: $verb) }
+edible-force-feed-success = {CAPITALIZE(THE($user))}强迫你{$verb}了某样东西！{$flavors}{ -edible-satiated(satiated: $satiated, verb: $verb) }

@@ -1,8 +1,8 @@
 # TODO[新增] 值
-chat-speech-verb-suffix-pause = ...
+chat-speech-verb-suffix-pause = ……
 
 # TODO[新增] 值
-chat-speech-verb-name-pause = Pausing
+chat-speech-verb-name-pause = 停顿
 
 # TODO[新增] 值
-chat-speech-verb-pause = pauses
+chat-speech-verb-pause = 停顿

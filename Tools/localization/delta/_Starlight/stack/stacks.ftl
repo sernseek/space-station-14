@@ -1,8 +1,5 @@
 # TODO[新增] 值
-stack-carpet-art-tile = artsy carpet tile
+stack-carpet-art-tile = 艺术地毯块
 
 # TODO[新增] 值
-stack-casino-chip = {$amount ->
-    [1] casino chip
-    *[other] casino chips
-}
+stack-casino-chip = 赌场筹码

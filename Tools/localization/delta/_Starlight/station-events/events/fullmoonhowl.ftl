@@ -1,5 +1,5 @@
 # TODO[新增] 值
-station-event-fullmoonhowl-announcement = You feel the effects of a full moon and get a sudden urge to gather near { $location } for a group howl.
+station-event-fullmoonhowl-announcement = 你感受到满月的影响，突然涌起一股冲动，想要聚到 { $location } 附近来一场集体嚎叫。
 
 # TODO[新增] 值
-station-event-fullmoonhowl-default-location = Bar
+station-event-fullmoonhowl-default-location = 酒吧

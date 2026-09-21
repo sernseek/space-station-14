@@ -1,2 +1,2 @@
 # TODO[新增] 值
-role-subtype-cosmic-minion = Cosmic Minion
+role-subtype-cosmic-minion = 宇宙仆从

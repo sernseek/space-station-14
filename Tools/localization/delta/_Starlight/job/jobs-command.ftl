@@ -1,11 +1,11 @@
 # TODO[新增] 值
 command-description-jobs-setunlimited =
-    Make a job slot unlimited.
+    将一个职位名额设为不限。
 
 # TODO[新增] 值
 command-description-jobs-setlimited =
-    Make a job slot limited. Allows resetting to 0, or to whatever the midround count would be.
+    将一个职位名额设为有限。允许重置为 0，或重置为回合中应有的数量。
 
 # TODO[新增] 值
 command-description-jobs-del =
-    Delete a job slot entirely from the station.
+    将该职位名额从空间站上彻底删除。

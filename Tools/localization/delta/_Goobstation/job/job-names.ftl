@@ -1,5 +1,5 @@
 # TODO[新增] 值
-job-name-radiohost = Radio Host
+job-name-radiohost = 电台主持人
 
 # TODO[新增] 值
-JobRadioHost = Radio Host
+JobRadioHost = 电台主持人

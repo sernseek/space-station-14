@@ -1,15 +1,15 @@
 # TODO[新增] 值
 command-description-rule-get =
-    Get a reference to an added gamerule entity.
+    获取对一个已添加游戏规则实体的引用。
 
 # TODO[新增] 值
 command-description-rule-gettype =
-    Get references to all added gamerule entities of a given rule prototype.
+    获取指定规则原型下所有已添加游戏规则实体的引用。
 
 # TODO[新增] 值
 command-description-rule-add =
-    Add a gamerule entity prototype to the round.
+    向本回合添加一个游戏规则实体原型。
 
 # TODO[新增] 值
 command-description-rule-end =
-    End a gamerule entity's gamerule.
+    结束一个游戏规则实体的规则。

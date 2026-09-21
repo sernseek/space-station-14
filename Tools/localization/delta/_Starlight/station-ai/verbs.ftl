@@ -1,2 +1,2 @@
 # TODO[新增] 值
-ai-shunt-reconnect = Reconnect Chassis
+ai-shunt-reconnect = 重新连接机体

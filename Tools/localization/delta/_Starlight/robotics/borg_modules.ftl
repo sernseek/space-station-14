@@ -1,2 +1,2 @@
 # TODO[新增] 值
-borg-slot-games-gambling-empty = Games and gambling
+borg-slot-games-gambling-empty = 游戏与赌博

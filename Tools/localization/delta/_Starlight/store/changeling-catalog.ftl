@@ -1,8 +1,8 @@
 # TODO[新增] 值
-evolutionmenu-utility-neocyte-name = Neocyte Disguise
+evolutionmenu-utility-neocyte-name = 新胞伪装
 
 # TODO[新增] 值
 evolutionmenu-utility-neocyte-desc =
-    Hardens your skin into a metal-like appearance, allowing it to pass as a Neocyte frame. Only usable if you are currently
-    disguised as a Neocyte.
-    Costs 0 chemicals.
+    将你的皮肤硬化成金属般的外观，使其足以冒充新胞机体。仅当你当前
+    伪装成新胞时可用。
+    消耗 0 点化学物质。

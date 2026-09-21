@@ -1,2 +1,2 @@
 # TODO[新增] 值
-job-description-radiohost = Host the station's local radio station, play vinyls, interview the crew, take faxes and run ads to make the best radio show on the station.
+job-description-radiohost = 主持空间站的本地电台，播放黑胶唱片、采访船员、收发传真并投放广告，打造全站最好的广播节目。

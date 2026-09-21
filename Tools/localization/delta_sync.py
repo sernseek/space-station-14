@@ -198,7 +198,8 @@ def cmd_make(args: argparse.Namespace) -> int:
 
 
 CJK_RE = re.compile(r"[\u3400-\u9fff\uf900-\ufaff]")
-VAR_RE = re.compile(r"\{\s*\$([A-Za-z][A-Za-z0-9_-]*)")
+# 变量可以直接出现（{ $x }），也可以在函数参数里（{ MAKEPLURAL($x) }）
+VAR_RE = re.compile(r"\$([A-Za-z][A-Za-z0-9_-]*)")
 TERM_RE = re.compile(r"\{\s*(-[A-Za-z][A-Za-z0-9_-]*)")
 
 

@@ -1,5 +1,5 @@
 # TODO[新增] 值
-energy-color-hacking-locked = You can't seem to hack the {$item}.
+energy-color-hacking-locked = 你似乎无法破解 {$item}。
 
 # TODO[新增] 值
-energy-color-hacking-locked-status = A protection mechanism in the {$item} was {$state}.
+energy-color-hacking-locked-status = {$item} 中的保护机制已{$state}。
