@@ -1,29 +1,29 @@
 # TODO[新增] 值
-alerts-gps-name = [color=green]AstroNav Mass Scanner[/color]
+alerts-gps-name = [color=green]星航质量扫描仪[/color]
 
 # TODO[新增] 值
-alerts-gps-desc = You have an AstroNav cartridge in your PDA, allowing you to view an in-built mass scanner! [color=orange]Click this[/color] to toggle the menu.
+alerts-gps-desc = 你的PDA里装有星航卡带，可以查看内置的质量扫描仪！[color=orange]点击此处[/color]切换菜单。
 
 # TODO[新增] 值
-alerts-latched-name = [color=orange]Latched[/color]
+alerts-latched-name = [color=orange]被钳制[/color]
 
 # TODO[新增] 值
-alerts-latched-desc = You're locked in a latch. Neither side can move until it ends.
+alerts-latched-desc = 你被钳制住了。在钳制结束前双方都无法移动。
 
 # TODO[新增] 值
-alerts-k9-latched-name = [color=orange]Latched On[/color]
+alerts-k9-latched-name = [color=orange]咬住目标[/color]
 
 # TODO[新增] 值
-alerts-k9-latched-desc = You've latched onto a target. Bite harder to extend the hold, or release to let go.
+alerts-k9-latched-desc = 你咬住了一个目标。加大咬合力以延长钳制，或松口放开。
 
 # TODO[新增] 值
-alerts-k9-sprint-name = [color=lightblue]Sprint[/color]
+alerts-k9-sprint-name = [color=lightblue]疾跑[/color]
 
 # TODO[新增] 值
-alerts-k9-sprint-desc = You are moving at increased speed.
+alerts-k9-sprint-desc = 你的移动速度提升了。
 
 # TODO[新增] 值
-alerts-nanochat-name = [color=red]New message![/color]
+alerts-nanochat-name = [color=red]新消息！[/color]
 
 # TODO[新增] 值
-alerts-nanochat-desc = You have received a new message!
+alerts-nanochat-desc = 你收到了一条新消息！

@@ -1,29 +1,29 @@
 # TODO[新增] 值
-tiles-rcd-plating = RCD plating
+tiles-rcd-plating = RCD地板基材
 
 # TODO[新增] 值
-tiles-steel-floor-slats-continuous = steel continuous slat tile
+tiles-steel-floor-slats-continuous = 连续钢条格地砖
 
 # TODO[新增] 值
-tiles-steel-floor-vertical-slats-bordered = steel vertical bordered slat tile
+tiles-steel-floor-vertical-slats-bordered = 竖向带边钢条格地砖
 
 # TODO[新增] 值
-tiles-steel-floor-horizontal-slats-bordered = steel horizontal bordered slat tile
+tiles-steel-floor-horizontal-slats-bordered = 横向带边钢条格地砖
 
 # TODO[新增] 值
-tiles-white-floor-slats-continuous = white steel continuous slat tile
+tiles-white-floor-slats-continuous = 连续白色钢条格地砖
 
 # TODO[新增] 值
-tiles-white-floor-vertical-slats-bordered = white steel vertical bordered slat tile
+tiles-white-floor-vertical-slats-bordered = 竖向带边白色钢条格地砖
 
 # TODO[新增] 值
-tiles-white-floor-horizontal-slats-bordered = white steel horizontal bordered slat tile
+tiles-white-floor-horizontal-slats-bordered = 横向带边白色钢条格地砖
 
 # TODO[新增] 值
-tiles-dark-floor-slats-continuous = dark steel continuous slat tile
+tiles-dark-floor-slats-continuous = 连续深色钢条格地砖
 
 # TODO[新增] 值
-tiles-dark-floor-vertical-slats-bordered = dark steel vertical bordered slat tile
+tiles-dark-floor-vertical-slats-bordered = 竖向带边深色钢条格地砖
 
 # TODO[新增] 值
-tiles-dark-floor-horizontal-slats-bordered = dark steel horizontal bordered slat tile
+tiles-dark-floor-horizontal-slats-bordered = 横向带边深色钢条格地砖

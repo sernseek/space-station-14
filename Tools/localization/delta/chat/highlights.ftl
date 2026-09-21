@@ -1,95 +1,95 @@
 # TODO[改动] 值
-highlights-chief-medical-officer = Chief Medical Officer, "CMO", Medbay, Medical, "Med", Bridge, "Command"
+highlights-chief-medical-officer = 医疗主管, "CMO", 医疗部, "Med", 舰桥, "Command", 指挥
 
 # TODO[改动] 值
-highlights-head-of-security = Head of Security, "HoS", Armory, Security, "Sec", Bridge, "Command"
+highlights-head-of-security = 安保主管, "HoS", 军械库, 安保部, "Sec", 舰桥, "Command", 指挥
 
 # TODO[改动] 值
-highlights-quartermaster = Quartermaster, "QM", Cargo, Supply, Bridge, "Command"
+highlights-quartermaster = 军需官, "QM", 货运部, 补给, 舰桥, "Command", 指挥
 
 # TODO[改动] 值
-highlights-research-director = Research Director, "RD", Science, "Sci", "RND", "R&D", Bridge, "Command"
+highlights-research-director = 研究主管, "RD", 科研部, "Sci", "RND", "R&D", 舰桥, "Command", 指挥
 
 # TODO[改动] 值
-highlights-detective = Detective, "Det", Armory, Security, "Sec"
+highlights-detective = 侦探, "Det", 军械库, 安保部, "Sec"
 
 # TODO[改动] 值
-highlights-security-cadet = Security Cadet, Secoff, Cadet, Armory, Security, "Sec"
+highlights-security-cadet = 安保学员, Secoff, 学员, 军械库, 安保部, "Sec"
 
 # TODO[改动] 值
-highlights-security-officer = Security Officer, Secoff, Officer, Armory, Security, "Sec"
+highlights-security-officer = 安保干员, Secoff, 干员, 军械库, 安保部, "Sec"
 
 # TODO[改动] 值
-highlights-warden = Warden, "Ward", Brig, Genpop, Jail, "Prison", Armory, Security, "Sec"
+highlights-warden = 典狱长, "Ward", 禁闭室, 普通监区, 监狱, 军械库, 安保部, "Sec"
 
 # TODO[改动] 值
-highlights-cargo-technician = Cargo Technician, Cargo Tech, "Cargo", Supply
+highlights-cargo-technician = 货运技师, 货运, "Cargo", 补给
 
 # TODO[改动] 值
-highlights-salvage-specialist = Salvage Specialist, Salvager, Salvage, "Salv", Miner, "Cargo", Supply
+highlights-salvage-specialist = 打捞专员, 打捞, "Salv", 矿工, 货运, 补给
 
 # TODO[改动] 值
-highlights-atmospheric-technician = Atmospheric Technician, Atmos Tech, Atmospheric, Engineering, "Atmos", "Engi"
+highlights-atmospheric-technician = 大气技师, 大气, 工程部, "Atmos", "Engi"
 
 # TODO[改动] 值
-highlights-chemist = Chemist, Chemistry, "Chem", Medbay, Medical, "Med"
+highlights-chemist = 药剂师, 药剂学, "Chem", 医疗部, "Med"
 
 # TODO[改动] 值
-highlights-medical-doctor = Medical Doctor, Doctor, "Doc", Medbay, Medical, "Med"
+highlights-medical-doctor = 医师, 医生, "Doc", 医疗部, "Med"
 
 # TODO[改动] 值
-highlights-medical-intern = Medical Intern, Intern, Medbay, Medical, "Med"
+highlights-medical-intern = 实习医师, 实习, 医疗部, "Med"
 
 # TODO[改动] 值
-highlights-paramedic = Paramedic, "Para", "Medic", Medbay, Medical, "Med"
+highlights-paramedic = 急救员, "Para", "Medic", 医疗部, "Med"
 
 # TODO[改动] 值
-highlights-scientist = Scientist, Science, "Sci", "RND", "R&D"
+highlights-scientist = 科学家, 科研部, "Sci", "RND", "R&D"
 
 # TODO[改动] 值
-highlights-research-assistant = Research Assistant, Science, "Sci", "RND", "R&D"
+highlights-research-assistant = 研究助理, 科研部, "Sci", "RND", "R&D"
 
 # TODO[改动] 值
-highlights-bartender = Bartender, Barkeeper, Barkeep, "Bar", Service, "Serv"
+highlights-bartender = 酒保, 调酒师, "Bar", 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-botanist = Botanist, Botany, Hydroponics, Service, "Serv"
+highlights-botanist = 植物学家, 植物学, 水培间, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-chaplain = Chaplain, "Chap", Chapel, Service, "Serv", Priest, Priestess, Temple, Shrine, Church, Synagogue, Shrine, Altar, Reverend, Nun, Bishop, Cardinal, Father, Sister, Rabbi, Deacon, Abbot, Monk, Abbess, Brother, Elder, Pastor, Minister, Vicar, Guru, Yogi, Swami, Saint, Imam, Sheikh, Sheikha, Druid, Druidess, Witch, Emir, Deaconess
+highlights-chaplain = 牧师, "Chap", 礼拜堂, 服务部, "Serv", 神父, 教堂, 神庙, 圣殿, 圣坛, 祭坛, 神坛, 修女, 主教, 枢机, 神甫, 拉比, 执事, 修道院长, 修士, 长老, 牧者, 传教士, 上师, 圣人, 伊玛目, 谢赫, 德鲁伊, 女巫, 埃米尔, 女执事
 
 # TODO[改动] 值
-highlights-chef = Chef, "Cook", Kitchen, Service, "Serv"
+highlights-chef = 厨师, "Cook", 厨房, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-clown = Clown, Theatre, Theater, Service, "Serv"
+highlights-clown = 小丑, 剧院, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-janitor = Janitor, "Jani", Service, "Serv"
+highlights-janitor = 清洁工, "Jani", 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-lawyer = Lawyer, Attorney, "Law", Service, "Serv"
+highlights-lawyer = 律师, "Law", 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-librarian = Librarian, Library, Service, "Serv"
+highlights-librarian = 图书管理员, 图书馆, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-mime = Mime, Theatre, Theater, Service, "Serv"
+highlights-mime = 哑剧演员, 剧院, 服务部, "Serv"
 
 # TODO[新增] 值
-highlights-musician = Musician, "Music", Theatre, Theater, Service, "Serv"
+highlights-musician = 乐手, "Music", 剧院, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-passenger = Passenger, Greytider, Graytider, "Tider", "Tide"
+highlights-passenger = 乘客, 灰潮, "Tider", "Tide"
 
 # TODO[改动] 值
-highlights-service-worker = Service Worker, Service, "Serv"
+highlights-service-worker = 服务人员, 服务部, "Serv"
 
 # TODO[改动] 值
-highlights-reporter = Reporter, Journalist, Newsroom, News
+highlights-reporter = 记者, 新闻编辑室, 新闻
 
 # TODO[改动] 值
-highlights-psychologist = Psychologist, Psychology, Psych, Shrink, "Psych", Medbay, Medical, "Med"
+highlights-psychologist = 心理医生, 心理学, 心理, 医疗部, "Med"
 
 # TODO[改动] 值
-highlights-cyborg = Cyborg, Silicon, Borg, Robotics, "Robot"
+highlights-cyborg = 赛博格, 硅基, "Borg", 机器人学, "Robot"

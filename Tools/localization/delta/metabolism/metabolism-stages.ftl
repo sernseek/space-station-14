@@ -1,14 +1,14 @@
 # TODO[新增] 值
-metabolism-stage-respiration = Respiration
+metabolism-stage-respiration = 呼吸
 
 # TODO[新增] 值
-metabolism-stage-digestion = Digestion
+metabolism-stage-digestion = 消化
 
 # TODO[新增] 值
-metabolism-stage-bloodstream = Bloodstream
+metabolism-stage-bloodstream = 血流
 
 # TODO[新增] 值
-metabolism-stage-metabolites = Metabolites
+metabolism-stage-metabolites = 代谢物
 
 # TODO[新增] 值
-metabolism-stage-plant = Plant Metabolism
+metabolism-stage-plant = 植物代谢

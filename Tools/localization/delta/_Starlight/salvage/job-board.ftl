@@ -1,35 +1,35 @@
 # TODO[新增] 值
-salv-job-board-name-BountySalvageRawXenoMeat = Raw Xeno Meat
+salv-job-board-name-BountySalvageRawXenoMeat = 生异种肉
 
 # TODO[新增] 值
-salv-job-board-name-BountySalvageAbyssiumOre = Abyssium Ore
+salv-job-board-name-BountySalvageAbyssiumOre = 深渊矿石
 
 # TODO[新增] 值
-salv-job-board-name-BountySalvageOldTreasure = Old Treasure
+salv-job-board-name-BountySalvageOldTreasure = 古老宝藏
 
 # TODO[新增] 值
-salv-job-board-name-BountySalvageSpaceBearHide = Space Bear Hide
+salv-job-board-name-BountySalvageSpaceBearHide = 太空熊皮
 
 # TODO[新增] 值
-salv-job-board-name-BountySalvageBandolier = Marine Bandolier
+salv-job-board-name-BountySalvageBandolier = 海军陆战队弹药带
 
 # TODO[新增] 值
-salv-job-board-name-BountySalvageCommieID = Soviet ID Card
+salv-job-board-name-BountySalvageCommieID = 苏维埃ID卡
 
 # TODO[新增] 值
-bounty-description-salvage-raw-xeno-meat = A modern day Iron Chef has requested unique proteins to create a new star dish with. Let's send them some of the best we can find!
+bounty-description-salvage-raw-xeno-meat = 一位当代「铁人料理师」需要一些独特的蛋白质来做一道新的招牌菜。把我们能找到的最顶级的货给他们送过去吧！
 
 # TODO[新增] 值
-bounty-description-salvage-abyssium-ore = We heard of the existance of some Abyssium ore in the sector. Our team wants you to retrieve some for testing.
+bounty-description-salvage-abyssium-ore = 我们听说本星区存在深渊矿石。我们的团队想让你去弄一些回来做测试。
 
 # TODO[新增] 值
-bounty-description-salvage-old-treasure = We have a collector of some antiquated technologies willing to pay handsomely for some old relic technology, see what you can find for them.
+bounty-description-salvage-old-treasure = 我们有一位古旧科技收藏家，愿意为古老的遗物技术出高价。看看你能给他们找到什么。
 
 # TODO[新增] 值
-bounty-description-salvage-space-bear-hide = We have a new rug merchant in dire need of exquisite materials. A raw space bear hide should interest them, go get it salvagers.
+bounty-description-salvage-space-bear-hide = 我们有一位新来的地毯商人急需上乘材料。一张原生太空熊皮应该能入他们的眼，去吧打捞员们。
 
 # TODO[新增] 值
-bounty-description-salvage-bandolier = We have a certain collector of USSP merchandise, they wish to finish their cosplay outfit, and have requested a few bandoliers. Get it done.
+bounty-description-salvage-bandolier = 我们有一位收藏USSP周边的主顾，想凑齐自己的cosplay套装，点名要几条弹药带。去办妥它。
 
 # TODO[新增] 值
-bounty-description-salvage-commie-id = Again, this certain collector of USSP merchandise is really going out down to the ID Card, let's get them a few to get their LARP on fleek.
+bounty-description-salvage-commie-id = 还是那位收藏USSP周边的主顾，这次连ID卡都要。给他们弄几张来，让他们的LARP装备完美到顶。

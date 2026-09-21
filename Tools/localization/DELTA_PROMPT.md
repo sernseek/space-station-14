@@ -43,6 +43,7 @@
 - 中文句子用全角标点（，。！？：）；单位（kPa、W、MW）、按键名、命令语法行保持原样；
   命令帮助用「用法：xxx」格式。
 - UI 按钮/标签要短；描述自然流畅不带翻译腔；称玩家为「你」。
+- 实体骨架（`_zhCN/entities-sync-*`）：`ent-X = 名称` 是物品名，要短、像物品名；`.desc` 是描述。已经是中文的名称是定稿，只翻 `.desc`。同类物品参考 `Resources/Locale/zh-CN/entities/` 下既有译名保持一致。
 - 随机名池（`datasets/names/*`）一律音译，实义词（Hunter、Storm 之类）意译。
 - 口音/词替换系统（accent、speech-liar 类）：触发词（`*-word-*`）保留英文，
   只翻替换值（`*-replacement-*`）。

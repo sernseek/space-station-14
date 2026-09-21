@@ -1,20 +1,20 @@
 # TODO[新增] 值
-construction-comment-name = Comment
+construction-comment-name = 注释
 
 # TODO[新增] 值
-construction-comment-description = A note that only ever exists as a construction ghost. Useful for annotating plans.
+construction-comment-description = 一条只以建造幽灵形式存在的笔记。适合用来给施工计划做标注。
 
 # TODO[新增] 值
-construction-comment-step = nothing, comments are notes and cannot be built
+construction-comment-step = 无需材料，注释就是笔记，无法被建造
 
 # TODO[新增] 值
-construction-comment-verb = Edit Comment
+construction-comment-verb = 编辑注释
 
 # TODO[新增] 值
-construction-comment-view-verb = View Comment
+construction-comment-view-verb = 查看注释
 
 # TODO[新增] 值
-construction-comment-examine = It reads:
+construction-comment-examine = 上面写着：
 
 # TODO[新增] 值
-construction-comment-examine-empty = It is blank.
+construction-comment-examine-empty = 上面什么都没有。

@@ -1,23 +1,23 @@
 # TODO[新增] 值
 command-description-ticker-endround =
-    Ends the current round without starting the restart timer.
+    结束当前回合，不启动重开计时器。
 
 # TODO[新增] 值
 command-description-ticker-restartround =
-    Ends the round if it isn't already ended, and start/restart the round restart timer with an optional specified number of seconds.
+    结束回合（若尚未结束），并以可选的指定秒数启动/重置回合重开计时器。
 
 # TODO[新增] 值
 command-description-ticker-restartroundnow =
-    Ends the round and returns to lobby.
+    结束回合并返回大厅。
 
 # TODO[新增] 值
 command-description-ticker-cancelrestart =
-    Cancels the round restart timer.
+    取消回合重开计时器。
 
 # TODO[新增] 值
 command-description-ticker-cancelpostround =
-    Cancels the post-end state and returns to being considered in-round.
+    取消回合结束后的状态，回到视为回合进行中。
 
 # TODO[新增] 值
 command-description-ticker-toggletimeronend =
-    Toggle whether the round restart timer will auto-start on round end. Resets to true automatically upon returning to lobby.
+    切换回合结束时是否自动启动回合重开计时器。返回大厅时自动重置为开启。

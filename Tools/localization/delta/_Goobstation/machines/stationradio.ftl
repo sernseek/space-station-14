@@ -1,47 +1,47 @@
 # TODO[新增] 值
-signal-port-name-vinyl-player = Vinyl player output
+signal-port-name-vinyl-player = 黑胶唱机输出
 
 # TODO[新增] 值
-signal-port-description-vinyl-player = The vinyl player's music output. Connect to the rig.
+signal-port-description-vinyl-player = 黑胶唱机的音乐输出。连接到广播机架。
 
 # TODO[新增] 值
-signal-port-name-radio-rig = Radio rig input
+signal-port-name-radio-rig = 广播机架输入
 
 # TODO[新增] 值
-signal-port-description-radio-rig = The input of a radio rig, connect a vinyl player to this and then connect the rig to the radio server.
+signal-port-description-radio-rig = 广播机架的输入端口，将黑胶唱机连接到此，再将机架连接到广播服务器。
 
 # TODO[新增] 值
-signal-port-name-radio-server = Server input
+signal-port-name-radio-server = 服务器输入
 
 # TODO[新增] 值
-signal-port-description-radio-server = The input of the radio server, connect a radio rig to this to play music around the station!
+signal-port-description-radio-server = 广播服务器的输入端口，将广播机架连接到此，即可让音乐响彻整座空间站！
 
 # TODO[新增] 值
-vinyl-popout-no-station = The vinyl ejects itself, you're not on a station!
+vinyl-popout-no-station = 黑胶唱片弹了出来，你不在空间站上！
 
 # TODO[新增] 值
-vinyl-popout-no-power = The vinyl ejects itself, the player isn't powered!
+vinyl-popout-no-power = 黑胶唱片弹了出来，唱机没有通电！
 
 # TODO[新增] 值
-vinyl-popout-no-radio-connection = The vinyl ejects itself, the player isn't connected to the radio system!
+vinyl-popout-no-radio-connection = 黑胶唱片弹了出来，唱机没有连接到广播系统！
 
 # TODO[新增] 值
-vinyl-player-examine-empty = It's empty.
+vinyl-player-examine-empty = 里面是空的。
 
 # TODO[新增] 值
-vinyl-player-examine-loaded = There's a copy of { $vinyl } inside.
+vinyl-player-examine-loaded = 里面有一张{ $vinyl }。
 
 # TODO[新增] 值
-station-radio-receiver-examine-full-volume = It's playing at full volume.
+station-radio-receiver-examine-full-volume = 正在以最大音量播放。
 
 # TODO[新增] 值
-station-radio-receiver-examine-low-volume = It's playing at low volume.
+station-radio-receiver-examine-low-volume = 正在以低音量播放。
 
 # TODO[新增] 值
-station-radio-server-examine-recording = The station server is not recording.
+station-radio-server-examine-recording = 空间站服务器没有在录音。
 
 # TODO[新增] 值
-station-radio-server-examine-not-recording = The station server is currently recording.
+station-radio-server-examine-not-recording = 空间站服务器正在录音。
 
 # TODO[新增] 值
-station-radio-server-microphone-on-use = The microphone is { $radioState }.
+station-radio-server-microphone-on-use = 麦克风状态为{ $radioState }。

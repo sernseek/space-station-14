@@ -1,17 +1,17 @@
 # TODO[改动] 值
-criminal-records-status-hostile = Kill On Sight
+criminal-records-status-hostile = 见即击杀
 
 # TODO[新增] 值
-criminal-records-status-arrestonsight = Arrest On Sight
+criminal-records-status-arrestonsight = 见即逮捕
 
 # TODO[新增] 值
-criminal-records-console-aos = {$name} ({$job}) has been marked Arrest On Sight by {$officer} for: {$reason}.
+criminal-records-console-aos = {$name}（{$job}）已被{$officer}标记为见即逮捕，原因：{$reason}。
 
 # TODO[新增] 值
-criminal-records-console-not-aos = {$name} ({$job}) no longer marked as Arrest On Sight by {$officer}.
+criminal-records-console-not-aos = {$name}（{$job}）的见即逮捕标记已被{$officer}取消。
 
 # TODO[改动] 值
-criminal-records-console-hostile = {$name} ({$job}) was marked as Kill On Sight by {$officer} for: {$reason}.
+criminal-records-console-hostile = {$name}（{$job}）已被{$officer}标记为见即击杀，原因：{$reason}。
 
 # TODO[改动] 值
-criminal-records-console-not-hostile = {$name} ({$job}) no longer marked Kill On Sight by {$officer}.
+criminal-records-console-not-hostile = {$name}（{$job}）的见即击杀标记已被{$officer}取消。

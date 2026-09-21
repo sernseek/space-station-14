@@ -1,479 +1,479 @@
 # TODO[新增] 值
-marking-DollShellLArm = Left Arm Shell
+marking-DollShellLArm = 左臂外壳
 
 # TODO[新增] 值
-marking-DollShellLArm-l_arm = Shell
+marking-DollShellLArm-l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArm = Right Arm Shell
+marking-DollShellRArm = 右臂外壳
 
 # TODO[新增] 值
-marking-DollShellRArm-r_arm = Shell
+marking-DollShellRArm-r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHand = Left Hand Shell
+marking-DollShellLHand = 左手外壳
 
 # TODO[新增] 值
-marking-DollShellLHand-l_hand = Shell
+marking-DollShellLHand-l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHand = Right Hand Shell
+marking-DollShellRHand = 右手外壳
 
 # TODO[新增] 值
-marking-DollShellRHand-r_hand = Shell
+marking-DollShellRHand-r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLeg = Left Leg Shell
+marking-DollShellLLeg = 左腿外壳
 
 # TODO[新增] 值
-marking-DollShellLLeg-l_leg = Shell
+marking-DollShellLLeg-l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLeg = Right Leg Shell
+marking-DollShellRLeg = 右腿外壳
 
 # TODO[新增] 值
-marking-DollShellRLeg-r_leg = Shell
+marking-DollShellRLeg-r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellLFoot = Left Foot Shell
+marking-DollShellLFoot = 左足外壳
 
 # TODO[新增] 值
-marking-DollShellLFoot-l_foot = Shell
+marking-DollShellLFoot-l_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellRFoot = Right Foot Shell
+marking-DollShellRFoot = 右足外壳
 
 # TODO[新增] 值
-marking-DollShellRFoot-r_foot = Shell
+marking-DollShellRFoot-r_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestFemale = Feminine Chest Shell
+marking-DollShellChestFemale = 女性化胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestFemale-torso_f = Shell
+marking-DollShellChestFemale-torso_f = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestMale = Masculine Chest Shell
+marking-DollShellChestMale = 男性化胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestMale-torso_m = Shell
+marking-DollShellChestMale-torso_m = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFemale = Feminine Head Shell
+marking-DollShellHeadFemale = 女性化头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFemale-head_f = Shell
+marking-DollShellHeadFemale-head_f = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMale = Masculine Head Shell
+marking-DollShellHeadMale = 男性化头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMale-head_m = Shell
+marking-DollShellHeadMale-head_m = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFemaleReverse = Reversed Feminine Head Shell
+marking-DollShellHeadFemaleReverse = 反转女性化头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFemaleReverse-head_f_reverse = Shell
+marking-DollShellHeadFemaleReverse-head_f_reverse = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMaleReverse = Reversed Masculine Head Shell
+marking-DollShellHeadMaleReverse = 反转男性化头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMaleReverse-head_m_reverse = Shell
+marking-DollShellHeadMaleReverse-head_m_reverse = 外壳
 
 # TODO[新增] 值
-marking-DollShellLArmDevil = Left Devil Arm Shell
+marking-DollShellLArmDevil = 左臂恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellLArmDevil-devil_l_arm = Shell
+marking-DollShellLArmDevil-devil_l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArmDevil = Right Devil Arm Shell
+marking-DollShellRArmDevil = 右臂恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellRArmDevil-devil_r_arm = Shell
+marking-DollShellRArmDevil-devil_r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandDevil = Left Devil Hand Shell
+marking-DollShellLHandDevil = 左手恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellLHandDevil-devil_l_hand = Shell
+marking-DollShellLHandDevil-devil_l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHandDevil = Right Devil Hand Shell
+marking-DollShellRHandDevil = 右手恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellRHandDevil-devil_r_hand = Shell
+marking-DollShellRHandDevil-devil_r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLegDevil = Left Devil Leg Shell
+marking-DollShellLLegDevil = 左腿恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellLLegDevil-devil_l_leg = Shell
+marking-DollShellLLegDevil-devil_l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLegDevil = Right Devil Leg Shell
+marking-DollShellRLegDevil = 右腿恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellRLegDevil-devil_r_leg = Shell
+marking-DollShellRLegDevil-devil_r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellLFootDevil = Left Devil Foot Shell
+marking-DollShellLFootDevil = 左足恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellLFootDevil-devil_l_foot = Shell
+marking-DollShellLFootDevil-devil_l_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellRFootDevil = Right Devil Foot Shell
+marking-DollShellRFootDevil = 右足恶魔外壳
 
 # TODO[新增] 值
-marking-DollShellRFootDevil-devil_r_foot = Shell
+marking-DollShellRFootDevil-devil_r_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestDevil = Devil Chest Shell
+marking-DollShellChestDevil = 恶魔胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestDevil-devil_torso = Shell
+marking-DollShellChestDevil-devil_torso = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadDevil = Devil Head Shell
+marking-DollShellHeadDevil = 恶魔头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadDevil-devil_head = Shell
+marking-DollShellHeadDevil-devil_head = 外壳
 
 # TODO[新增] 值
-marking-DollShellLArmSegmented = Left Segmented Arm Shell
+marking-DollShellLArmSegmented = 左臂分节外壳
 
 # TODO[新增] 值
-marking-DollShellLArmSegmented-segmented_l_arm = Shell
+marking-DollShellLArmSegmented-segmented_l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArmSegmented = Right Segmented Arm Shell
+marking-DollShellRArmSegmented = 右臂分节外壳
 
 # TODO[新增] 值
-marking-DollShellRArmSegmented-segmented_r_arm = Shell
+marking-DollShellRArmSegmented-segmented_r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandSegmented = Left Segmented Hand Shell
+marking-DollShellLHandSegmented = 左手分节外壳
 
 # TODO[新增] 值
-marking-DollShellLHandSegmented-segmented_l_hand = Shell
+marking-DollShellLHandSegmented-segmented_l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHandSegmented = Right Segmented Hand Shell
+marking-DollShellRHandSegmented = 右手分节外壳
 
 # TODO[新增] 值
-marking-DollShellRHandSegmented-segmented_r_hand = Shell
+marking-DollShellRHandSegmented-segmented_r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLegSegmented = Left Segmented Leg Shell
+marking-DollShellLLegSegmented = 左腿分节外壳
 
 # TODO[新增] 值
-marking-DollShellLLegSegmented-segmented_l_leg = Shell
+marking-DollShellLLegSegmented-segmented_l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLegSegmented = Right Segmented Leg Shell
+marking-DollShellRLegSegmented = 右腿分节外壳
 
 # TODO[新增] 值
-marking-DollShellRLegSegmented-segmented_r_leg = Shell
+marking-DollShellRLegSegmented-segmented_r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellLFootSegmented = Left Segmented Foot Shell
+marking-DollShellLFootSegmented = 左足分节外壳
 
 # TODO[新增] 值
-marking-DollShellLFootSegmented-segmented_l_foot = Shell
+marking-DollShellLFootSegmented-segmented_l_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellRFootSegmented = Right Segmented Foot Shell
+marking-DollShellRFootSegmented = 右足分节外壳
 
 # TODO[新增] 值
-marking-DollShellRFootSegmented-segmented_r_foot = Shell
+marking-DollShellRFootSegmented-segmented_r_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestSegmented = Segmented Chest Shell
+marking-DollShellChestSegmented = 分节胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestSegmented-segmented_torso = Shell
+marking-DollShellChestSegmented-segmented_torso = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadSegmented = Segmented Head Shell
+marking-DollShellHeadSegmented = 分节头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadSegmented-segmented_head = Shell
+marking-DollShellHeadSegmented-segmented_head = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFox = Fox-like Head Shell
+marking-DollShellHeadFox = 狐形头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadFox-head_fox = Shell
+marking-DollShellHeadFox-head_fox = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMoth = Moth-ish Head Shell
+marking-DollShellHeadMoth = 蛾形头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadMoth-head_moth = Shell
+marking-DollShellHeadMoth-head_moth = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadOwl = Rounded Avian Head Shell
+marking-DollShellHeadOwl = 圆润鸟形头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadOwl-head_owl = Shell
+marking-DollShellHeadOwl-head_owl = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadHawk = Sharp Avian Head Shell
+marking-DollShellHeadHawk = 尖锐鸟形头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadHawk-head_hawk = Shell
+marking-DollShellHeadHawk-head_hawk = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadCrested = Crested Head Shell
+marking-DollShellHeadCrested = 冠饰头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadCrested-head_crested = Shell
+marking-DollShellHeadCrested-head_crested = 外壳
 
 # TODO[新增] 值
-marking-DollShellLArmUnbroken = Left Arm Unbroken Shell
+marking-DollShellLArmUnbroken = 左臂完好外壳
 
 # TODO[新增] 值
-marking-DollShellLArmUnbroken-unbroken_l_arm = Shell
+marking-DollShellLArmUnbroken-unbroken_l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLArmUnbroken-unbroken_l_arm_gold = Joinery
+marking-DollShellLArmUnbroken-unbroken_l_arm_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellLArmUnbroken-unbroken_l_arm_repaired = Replaced Shell
+marking-DollShellLArmUnbroken-unbroken_l_arm_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellRArmUnbroken = Right Arm Unbroken Shell
+marking-DollShellRArmUnbroken = 右臂完好外壳
 
 # TODO[新增] 值
-marking-DollShellRArmUnbroken-unbroken_r_arm = Shell
+marking-DollShellRArmUnbroken-unbroken_r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArmUnbroken-unbroken_r_arm_gold = Joinery
+marking-DollShellRArmUnbroken-unbroken_r_arm_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellRArmUnbroken-unbroken_r_arm_repaired = Replaced Shell
+marking-DollShellRArmUnbroken-unbroken_r_arm_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellLHandUnbroken = Left Hand Unbroken Shell
+marking-DollShellLHandUnbroken = 左手完好外壳
 
 # TODO[新增] 值
-marking-DollShellLHandUnbroken-unbroken_l_hand = Shell
+marking-DollShellLHandUnbroken-unbroken_l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandUnbroken-unbroken_l_hand_gold = Joinery
+marking-DollShellLHandUnbroken-unbroken_l_hand_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellLHandUnbroken-unbroken_l_hand_repaired = Replaced Shell
+marking-DollShellLHandUnbroken-unbroken_l_hand_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellRHandUnbroken = Right Hand Unbroken Shell
+marking-DollShellRHandUnbroken = 右手完好外壳
 
 # TODO[新增] 值
-marking-DollShellRHandUnbroken-unbroken_r_hand = Shell
+marking-DollShellRHandUnbroken-unbroken_r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHandUnbroken-unbroken_r_hand_gold = Joinery
+marking-DollShellRHandUnbroken-unbroken_r_hand_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellRHandUnbroken-unbroken_r_hand_repaired = Replaced Shell
+marking-DollShellRHandUnbroken-unbroken_r_hand_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellLLegUnbroken = Left Leg Unbroken Shell
+marking-DollShellLLegUnbroken = 左腿完好外壳
 
 # TODO[新增] 值
-marking-DollShellLLegUnbroken-unbroken_l_leg = Shell
+marking-DollShellLLegUnbroken-unbroken_l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLegUnbroken-unbroken_l_leg_gold = Joinery
+marking-DollShellLLegUnbroken-unbroken_l_leg_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellLLegUnbroken-unbroken_l_leg_repaired = Replaced Shell
+marking-DollShellLLegUnbroken-unbroken_l_leg_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellRLegUnbroken =  Right Leg Unbroken Shell
+marking-DollShellRLegUnbroken = 右腿完好外壳
 
 # TODO[新增] 值
-marking-DollShellRLegUnbroken-unbroken_r_leg = Shell
+marking-DollShellRLegUnbroken-unbroken_r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLegUnbroken-unbroken_r_leg_gold = Joinery
+marking-DollShellRLegUnbroken-unbroken_r_leg_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellRLegUnbroken-unbroken_r_leg_repaired = Replaced Shell
+marking-DollShellRLegUnbroken-unbroken_r_leg_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellLFootUnbroken = Left Foot Unbroken Shell
+marking-DollShellLFootUnbroken = 左足完好外壳
 
 # TODO[新增] 值
-marking-DollShellLFootUnbroken-unbroken_l_foot = Shell
+marking-DollShellLFootUnbroken-unbroken_l_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellLFootUnbroken-unbroken_l_foot_gold = Joinery
+marking-DollShellLFootUnbroken-unbroken_l_foot_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellLFootUnbroken-unbroken_l_foot_repaired = Replaced Shell
+marking-DollShellLFootUnbroken-unbroken_l_foot_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellRFootUnbroken = Right Foot Unbroken Shell
+marking-DollShellRFootUnbroken = 右足完好外壳
 
 # TODO[新增] 值
-marking-DollShellRFootUnbroken-unbroken_r_foot = Shell
+marking-DollShellRFootUnbroken-unbroken_r_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellRFootUnbroken-unbroken_r_foot_gold = Joinery
+marking-DollShellRFootUnbroken-unbroken_r_foot_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellRFootUnbroken-unbroken_r_foot_repaired = Replaced Shell
+marking-DollShellRFootUnbroken-unbroken_r_foot_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellChestUnbroken = Unbroken Chest Shell
+marking-DollShellChestUnbroken = 完好胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestUnbroken-unbroken_torso = Shell
+marking-DollShellChestUnbroken-unbroken_torso = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestUnbroken-unbroken_torso_gold = Joinery
+marking-DollShellChestUnbroken-unbroken_torso_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellChestUnbroken-unbroken_torso_repaired = Replaced Shell
+marking-DollShellChestUnbroken-unbroken_torso_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellHeadUnbroken = Unbroken Head Shell
+marking-DollShellHeadUnbroken = 完好头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadUnbroken-unbroken_head = Shell
+marking-DollShellHeadUnbroken-unbroken_head = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadUnbroken-unbroken_head_gold = Joinery
+marking-DollShellHeadUnbroken-unbroken_head_gold = 金缮接缝
 
 # TODO[新增] 值
-marking-DollShellHeadUnbroken-unbroken_head_repaired = Replaced Shell
+marking-DollShellHeadUnbroken-unbroken_head_repaired = 修补外壳
 
 # TODO[新增] 值
-marking-DollShellLArmOvergrown = Left Overgrown Arm Shell
+marking-DollShellLArmOvergrown = 左臂蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellLArmOvergrown-overgrown_l_arm = Shell
+marking-DollShellLArmOvergrown-overgrown_l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArmOvergrown = Right Overgrown Arm Shell
+marking-DollShellRArmOvergrown = 右臂蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellRArmOvergrown-overgrown_r_arm = Shell
+marking-DollShellRArmOvergrown-overgrown_r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandOvergrown = Left Overgrown Hand Shell
+marking-DollShellLHandOvergrown = 左手蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellLHandOvergrown-overgrown_l_hand = Shell
+marking-DollShellLHandOvergrown-overgrown_l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHandOvergrown = Right Overgrown Hand Shell
+marking-DollShellRHandOvergrown = 右手蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellRHandOvergrown-overgrown_r_hand = Shell
+marking-DollShellRHandOvergrown-overgrown_r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLegOvergrown = Left Overgrown Leg Shell
+marking-DollShellLLegOvergrown = 左腿蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellLLegOvergrown-overgrown_l_leg = Shell
+marking-DollShellLLegOvergrown-overgrown_l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLegOvergrown = Right Overgrown Leg Shell
+marking-DollShellRLegOvergrown = 右腿蔓生外壳
 
 # TODO[新增] 值
-marking-DollShellRLegOvergrown-overgrown_r_leg = Shell
+marking-DollShellRLegOvergrown-overgrown_r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellChestOvergrown = Overgrown Chest Shell
+marking-DollShellChestOvergrown = 蔓生胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestOvergrown-overgrown_torso = Shell
+marking-DollShellChestOvergrown-overgrown_torso = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadOvergrown = Overgrown Head Shell
+marking-DollShellHeadOvergrown = 蔓生头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadOvergrown-overgrown_head = Shell
+marking-DollShellHeadOvergrown-overgrown_head = 外壳
 
 # TODO[新增] 值
-marking-DollShellLArmParadigm = Left Paradigm Arm Shell
+marking-DollShellLArmParadigm = 左臂典范外壳
 
 # TODO[新增] 值
-marking-DollShellLArmParadigm-paradigm_l_arm = Shell
+marking-DollShellLArmParadigm-paradigm_l_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellRArmParadigm = Right Paradigm Arm Shell
+marking-DollShellRArmParadigm = 右臂典范外壳
 
 # TODO[新增] 值
-marking-DollShellRArmParadigm-paradigm_r_arm = Shell
+marking-DollShellRArmParadigm-paradigm_r_arm = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandParadigm = Left Paradigm Hand Shell
+marking-DollShellLHandParadigm = 左手典范外壳
 
 # TODO[新增] 值
-marking-DollShellLHandParadigm-paradigm_l_hand = Shell
+marking-DollShellLHandParadigm-paradigm_l_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellLHandParadigm-paradigm_l_hand_flesh = Flesh
+marking-DollShellLHandParadigm-paradigm_l_hand_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellRHandParadigm = Right Paradigm Hand Shell
+marking-DollShellRHandParadigm = 右手典范外壳
 
 # TODO[新增] 值
-marking-DollShellRHandParadigm-paradigm_r_hand = Shell
+marking-DollShellRHandParadigm-paradigm_r_hand = 外壳
 
 # TODO[新增] 值
-marking-DollShellRHandParadigm-paradigm_r_hand_flesh = Flesh
+marking-DollShellRHandParadigm-paradigm_r_hand_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellLLegParadigm = Left Paradigm Leg Shell
+marking-DollShellLLegParadigm = 左腿典范外壳
 
 # TODO[新增] 值
-marking-DollShellLLegParadigm-paradigm_l_leg = Shell
+marking-DollShellLLegParadigm-paradigm_l_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellLLegParadigm-paradigm_l_leg_flesh = Flesh
+marking-DollShellLLegParadigm-paradigm_l_leg_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellRLegParadigm = Right Paradigm Leg Shell
+marking-DollShellRLegParadigm = 右腿典范外壳
 
 # TODO[新增] 值
-marking-DollShellRLegParadigm-paradigm_r_leg = Shell
+marking-DollShellRLegParadigm-paradigm_r_leg = 外壳
 
 # TODO[新增] 值
-marking-DollShellRLegParadigm-paradigm_r_leg_flesh = Flesh
+marking-DollShellRLegParadigm-paradigm_r_leg_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellLFootParadigm = Left Paradigm Foot Shell
+marking-DollShellLFootParadigm = 左足典范外壳
 
 # TODO[新增] 值
-marking-DollShellLFootParadigm-paradigm_l_foot = Shell
+marking-DollShellLFootParadigm-paradigm_l_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellLFootParadigm-paradigm_l_foot_flesh = Flesh
+marking-DollShellLFootParadigm-paradigm_l_foot_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellRFootParadigm = Right Paradigm Foot Shell
+marking-DollShellRFootParadigm = 右足典范外壳
 
 # TODO[新增] 值
-marking-DollShellRFootParadigm-paradigm_r_foot = Shell
+marking-DollShellRFootParadigm-paradigm_r_foot = 外壳
 
 # TODO[新增] 值
-marking-DollShellRFootParadigm-paradigm_r_foot_flesh = Flesh
+marking-DollShellRFootParadigm-paradigm_r_foot_flesh = 血肉
 
 # TODO[新增] 值
-marking-DollShellChestParadigm = Paradigm Chest Shell
+marking-DollShellChestParadigm = 典范胸部外壳
 
 # TODO[新增] 值
-marking-DollShellChestParadigm-paradigm_torso = Shell
+marking-DollShellChestParadigm-paradigm_torso = 外壳
 
 # TODO[新增] 值
-marking-DollShellHeadParadigm = Paradigm Head Shell
+marking-DollShellHeadParadigm = 典范头部外壳
 
 # TODO[新增] 值
-marking-DollShellHeadParadigm-paradigm_head = Shell
+marking-DollShellHeadParadigm-paradigm_head = 外壳

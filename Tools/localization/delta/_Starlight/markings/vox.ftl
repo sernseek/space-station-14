@@ -1,131 +1,131 @@
 # TODO[新增] 值
-marking-VoxBeakColor-voxbeakcolor = Colorable Beak (Pointed)
+marking-VoxBeakColor-voxbeakcolor = 可染色喙（尖形）
 
 # TODO[新增] 值
-marking-VoxBeakColor = Colorable Beak (Pointed)
+marking-VoxBeakColor = 可染色喙（尖形）
 
 # TODO[新增] 值
-marking-VoxBeakSquareCere-voxbeaksquarecolor = Colorable Beak (Square Cere)
+marking-VoxBeakSquareCere-voxbeaksquarecolor = 可染色喙（方蜡膜）
 
 # TODO[新增] 值
-marking-VoxBeakSquareCereColor = Colorable Beak (Square Cere)
+marking-VoxBeakSquareCereColor = 可染色喙（方蜡膜）
 
 # TODO[新增] 值
-marking-VoxBeakHookedColor-voxbeakhookedcolor = Colorable Beak (Hooked)
+marking-VoxBeakHookedColor-voxbeakhookedcolor = 可染色喙（钩形）
 
 # TODO[新增] 值
-marking-VoxBeakHookedColor = Colorable Beak (Hooked)
+marking-VoxBeakHookedColor = 可染色喙（钩形）
 
 # TODO[新增] 值
-marking-VoxBeakShavedColor-voxbeakshavedcolor = Colorable Beak (Shaved)
+marking-VoxBeakShavedColor-voxbeakshavedcolor = 可染色喙（剃光）
 
 # TODO[新增] 值
-marking-VoxBeakShavedColor = Colorable Beak (Shaved)
+marking-VoxBeakShavedColor = 可染色喙（剃光）
 
 # TODO[新增] 值
-marking-VoxShaggyTail-voxshaggytail = Vox Tail (Shaggy)
+marking-VoxShaggyTail-voxshaggytail = 沃克斯尾巴（蓬松）
 
 # TODO[新增] 值
-marking-VoxShaggyTail = Vox Tail (Shaggy)
+marking-VoxShaggyTail = 沃克斯尾巴（蓬松）
 
 # TODO[新增] 值
-marking-VoxPlumage-voxplumage = Vox Tail (Plumage)
+marking-VoxPlumage-voxplumage = 沃克斯尾巴（羽毛）
 
 # TODO[新增] 值
-marking-VoxPlumage = Vox Tail (Plumage)
+marking-VoxPlumage = 沃克斯尾巴（羽毛）
 
 # TODO[新增] 值
-marking-VoxColorableLeftLeg-leftleg = Colorable Left Leg
+marking-VoxColorableLeftLeg-leftleg = 可染色左腿
 
 # TODO[新增] 值
-marking-VoxColorableLeftLeg = Colorable Left Leg
+marking-VoxColorableLeftLeg = 可染色左腿
 
 # TODO[新增] 值
-marking-VoxColorableRightLeg-rightleg = Colorable Right Leg
+marking-VoxColorableRightLeg-rightleg = 可染色右腿
 
 # TODO[新增] 值
-marking-VoxColorableRightLeg = Colorable Right Leg
+marking-VoxColorableRightLeg = 可染色右腿
 
 # TODO[新增] 值
-marking-VoxColorableLeftArm-leftarm = Colorable Left Arm
+marking-VoxColorableLeftArm-leftarm = 可染色左臂
 
 # TODO[新增] 值
-marking-VoxColorableLeftArm = Colorable Left Arm
+marking-VoxColorableLeftArm = 可染色左臂
 
 # TODO[新增] 值
-marking-VoxColorableRightArm-rightarm = Colorable Right Arm
+marking-VoxColorableRightArm-rightarm = 可染色右臂
 
 # TODO[新增] 值
-marking-VoxColorableRightArm = Colorable Right Arm
+marking-VoxColorableRightArm = 可染色右臂
 
 # TODO[新增] 值
-marking-VoxColorableRightHand-righthand = Colorable Right Hand
+marking-VoxColorableRightHand-righthand = 可染色右手
 
 # TODO[新增] 值
-marking-VoxColorableRightHand = Colorable Right Hand
+marking-VoxColorableRightHand = 可染色右手
 
 # TODO[新增] 值
-marking-VoxColorableLeftHand-lefthand = Colorable Left Hand
+marking-VoxColorableLeftHand-lefthand = 可染色左手
 
 # TODO[新增] 值
-marking-VoxColorableLeftHand = Colorable Left Hand
+marking-VoxColorableLeftHand = 可染色左手
 
 # TODO[新增] 值
-marking-VoxColorableLeftFoot-leftfoot = Colorable Left Foot
+marking-VoxColorableLeftFoot-leftfoot = 可染色左脚
 
 # TODO[新增] 值
-marking-VoxColorableLeftFoot = Colorable Left Foot
+marking-VoxColorableLeftFoot = 可染色左脚
 
 # TODO[新增] 值
-marking-VoxColorableRightFoot-rightfoot = Colorable Right Foot
+marking-VoxColorableRightFoot-rightfoot = 可染色右脚
 
 # TODO[新增] 值
-marking-VoxColorableRightFoot = Colorable Right Foot
+marking-VoxColorableRightFoot = 可染色右脚
 
 # TODO[新增] 值
-marking-VoxFeatheredLegLeft-leftlegfeathered = Feathered Left Leg
+marking-VoxFeatheredLegLeft-leftlegfeathered = 覆羽左腿
 
 # TODO[新增] 值
-marking-VoxFeatheredLegLeft = Feathered Left Leg
+marking-VoxFeatheredLegLeft = 覆羽左腿
 
 # TODO[新增] 值
-marking-VoxFeatheredLegRight-rightlegfeathered = Feathered Right Leg
+marking-VoxFeatheredLegRight-rightlegfeathered = 覆羽右腿
 
 # TODO[新增] 值
-marking-VoxFeatheredLegRight = Feathered Right Leg
+marking-VoxFeatheredLegRight = 覆羽右腿
 
 # TODO[新增] 值
-marking-VoxTailSplitAnimated-vox_tail_split_animated = Vox Tail (Split, animated)
+marking-VoxTailSplitAnimated-vox_tail_split_animated = 沃克斯尾巴（分叉，动态）
 
 # TODO[新增] 值
-marking-VoxTailSplitAnimated = Vox Tail (Split)
+marking-VoxTailSplitAnimated = 沃克斯尾巴（分叉）
 
 # TODO[新增] 值
-marking-VoxTailSpikes-vox_tail_spikes_animated = Vox Tail (Spiked, animated)
+marking-VoxTailSpikes-vox_tail_spikes_animated = 沃克斯尾巴（尖刺，动态）
 
 # TODO[新增] 值
-marking-VoxTailSpikesAnimated = Vox Tail (Spiked, animated)
+marking-VoxTailSpikesAnimated = 沃克斯尾巴（尖刺，动态）
 
 # TODO[新增] 值
-marking-VoxTailShortAnimated-vox_tail_small_animated = Vox Tail (Short, animated)
+marking-VoxTailShortAnimated-vox_tail_small_animated = 沃克斯尾巴（短，动态）
 
 # TODO[新增] 值
-marking-VoxTailShortAnimated = Vox Tail (Short, animated)
+marking-VoxTailShortAnimated = 沃克斯尾巴（短，动态）
 
 # TODO[新增] 值
-marking-VoxTailAnimated-vox_tail_animated = Vox Tail (Medium, animated)
+marking-VoxTailAnimated-vox_tail_animated = 沃克斯尾巴（中，动态）
 
 # TODO[新增] 值
-marking-VoxTailAnimated = Vox Tail (Medium, animated)
+marking-VoxTailAnimated = 沃克斯尾巴（中，动态）
 
 # TODO[新增] 值
-marking-VoxTailBigAnimated-vox_tail_big_animated = Vox Tail (Big, animated)
+marking-VoxTailBigAnimated-vox_tail_big_animated = 沃克斯尾巴（大，动态）
 
 # TODO[新增] 值
-marking-VoxTailBigAnimated = Vox Tail (Big, animated)
+marking-VoxTailBigAnimated = 沃克斯尾巴（大，动态）
 
 # TODO[新增] 值
-marking-VoxTailDockedAnimated-vox_tail_docked_animated = Vox Tail (Docked, animated)
+marking-VoxTailDockedAnimated-vox_tail_docked_animated = 沃克斯尾巴（截短，动态）
 
 # TODO[新增] 值
-marking-VoxTailDockedAnimated = Vox Tail (Docked, animated)
+marking-VoxTailDockedAnimated = 沃克斯尾巴（截短，动态）

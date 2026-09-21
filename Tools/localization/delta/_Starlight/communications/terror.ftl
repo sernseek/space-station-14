@@ -1,17 +1,17 @@
 # TODO[新增] 值
-terror-disaster-syndies = Attention crew, it appears that someone on your station has made an unexpected communication with a group of horrifically war-torn disaster victims from a nearby syndicate outpost.
+terror-disaster-syndies = 船员请注意，空间站上似乎有人意外联系了附近辛迪加前哨站的一群饱受战火摧残的灾民。
 
 # TODO[新增] 值
-terror-rod-slug = Attention crew, it appears that someone on your station has made an unexpected communication with an incredibly slow but quite unstoppable force in nearby space.
+terror-rod-slug = 船员请注意，空间站上似乎有人意外联系了附近太空中一股极其缓慢却完全无法阻挡的力量。
 
 # TODO[新增] 值
-terror-strike-team = Attention crew, it appears that someone on your station has made an unexpected communication with a syndicate task force in nearby space.
+terror-strike-team = 船员请注意，空间站上似乎有人意外联系了附近太空中的辛迪加特遣队。
 
 # TODO[新增] 值
-terror-abductors = Attention crew, it appears that someone on your station has made an unauthorized communication with a group of unidentified alien  life forms in nearby space.
+terror-abductors = 船员请注意，空间站上似乎有人未经授权联系了一群来自附近太空的不明外星生命体。
 
 # TODO[新增] 值
-terror-terminator = Attention crew, it appears that someone on your station has made an unexpected communication with an unknown metal entity from nearby space.
+terror-terminator = 船员请注意，空间站上似乎有人意外联系了附近太空中一个未知的金属实体。
 
 # TODO[新增] 值
-terror-honk = Attention crew, it appears that someone on your station has made an unexpected communication with... Oh god, what is that. WHAT IS THA-
+terror-honk = 船员请注意，空间站上似乎有人意外联系了……天哪，那是什么。那是什——

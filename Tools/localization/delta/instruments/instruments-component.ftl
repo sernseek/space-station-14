@@ -1,32 +1,32 @@
 # TODO[新增] 值
-instruments-component-menu-play-tab-title = Play
+instruments-component-menu-play-tab-title = 播放
 
 # TODO[新增] 值
-instruments-component-menu-config-tab-title = Configuration
+instruments-component-menu-config-tab-title = 配置
 
 # TODO[新增] 值
-instruments-component-menu-midi-source-button = MIDI Source
+instruments-component-menu-midi-source-button = MIDI 来源
 
 # TODO[新增] 值
-instruments-component-menu-unknown-midi-source-button = Unknown
+instruments-component-menu-unknown-midi-source-button = 未知
 
 # TODO[新增] 值
-instruments-component-menu-input-midi-source-button = Input
+instruments-component-menu-input-midi-source-button = 输入
 
 # TODO[新增] 值
-instruments-component-menu-band-midi-source-button = Band
+instruments-component-menu-band-midi-source-button = 乐队
 
 # TODO[新增] 值
-instruments-component-menu-file-midi-source-button = Files
+instruments-component-menu-file-midi-source-button = 文件
 
 # TODO[新增] 值
-instruments-component-menu-play-stop-button = Play
+instruments-component-menu-play-stop-button = 播放
 
 # TODO[新增] 值
-instruments-component-menu-shuffle-button = Shuffle
+instruments-component-menu-shuffle-button = 随机播放
 
 # TODO[新增] 值
-instruments-component-menu-channels-label = Channels [italic](updated on playback)[/italic]
+instruments-component-menu-channels-label = 声道 [italic]（播放时更新）[/italic]
 
 # TODO[新增] 值
 instruments-component-menu-files-track-playtime-seconds-minutes = {$currentMinutes}:{$currentSeconds}/{$totalMinutes}:{$totalSeconds}
@@ -35,77 +35,77 @@ instruments-component-menu-files-track-playtime-seconds-minutes = {$currentMinut
 instruments-component-menu-files-track-playtime-seconds-minutes-hours = {$currentHours}:{$currentMinutes}:{$currentSeconds}/{$totalHours}:{$totalMinutes}:{$totalSeconds}
 
 # TODO[新增] 值
-instruments-component-menu-files-file-remove-disabled-info = Stop playback and select an item to remove it.
+instruments-component-menu-files-file-remove-disabled-info = 停止播放并选择一个条目即可将其移除。
 
 # TODO[新增] 值
-instruments-component-menu-files-add-button = Add
+instruments-component-menu-files-add-button = 添加
 
 # TODO[新增] 值
-instruments-component-menu-files-remove-button = Remove
+instruments-component-menu-files-remove-button = 移除
 
 # TODO[新增] 值
-instruments-component-menu-files-rename-button = Rename
+instruments-component-menu-files-rename-button = 重命名
 
 # TODO[新增] 值
-instruments-component-menu-files-rename-dialog-title = Rename file
+instruments-component-menu-files-rename-dialog-title = 重命名文件
 
 # TODO[新增] 值
-instruments-component-menu-files-rename-dialog-prompt = New name
+instruments-component-menu-files-rename-dialog-prompt = 新名称
 
 # TODO[新增] 值
-instruments-component-menu-files-filter = Filter...
+instruments-component-menu-files-filter = 筛选……
 
 # TODO[新增] 值
-instruments-component-menu-files-error = Operation failed due to an unexpected error.
+instruments-component-menu-files-error = 操作因意外错误而失败。
 
 # TODO[新增] 值
-instruments-component-menu-input-notice-label = Connect a MIDI device to your PC
-                                                and play some music.
+instruments-component-menu-input-notice-label = 将 MIDI 设备连接到你的电脑，
+                                                然后弹奏一些音乐吧。
 
 # TODO[新增] 值
-instruments-component-band-title-label = Bands
+instruments-component-band-title-label = 乐队
 
 # TODO[新增] 值
-instruments-component-band-refresh = Refresh
+instruments-component-band-refresh = 刷新
 
 # TODO[改动] 值
-instruments-component-channels-all-button = On
+instruments-component-channels-all-button = 全开
 
 # TODO[改动] 值
-instruments-component-channels-clear-button = Off
+instruments-component-channels-clear-button = 全关
 
 # TODO[新增] 值
-instruments-component-channels-all-channels-label = All Channels
+instruments-component-channels-all-channels-label = 全部声道
 
 # TODO[新增] 值
-instruments-component-channels-percussion-channel-name = [Percussion]
+instruments-component-channels-percussion-channel-name = [打击乐]
 
 # TODO[新增] 值
-instruments-component-channels-name-display-selector-label = Display Name
+instruments-component-channels-name-display-selector-label = 名称显示
 
 # TODO[新增] 值
-instruments-component-channels-name-display-selector-track-button = Track
+instruments-component-channels-name-display-selector-track-button = 音轨
 
 # TODO[新增] 值
-instruments-component-channels-name-display-selector-program-button = Program
+instruments-component-channels-name-display-selector-program-button = 音色程序
 
 # TODO[新增] 值
-instruments-component-channels-name-display-selector-instrument-button = Instrument
+instruments-component-channels-name-display-selector-instrument-button = 乐器
 
 # TODO[新增] 值
-instruments-component-midi-file-collection-label = MIDI Collection
+instruments-component-midi-file-collection-label = MIDI 曲库
 
 # TODO[新增] 值
-instruments-component-midi-file-collection-size-label = {$count} MIDI files loaded
+instruments-component-midi-file-collection-size-label = 已加载 {$count} 个 MIDI 文件
 
 # TODO[新增] 值
-instruments-component-midi-file-collection-open-dir-button = Open Folder
+instruments-component-midi-file-collection-open-dir-button = 打开文件夹
 
 # TODO[新增] 值
-instruments-component-midi-file-collection-reload-button = Reload Collection
+instruments-component-midi-file-collection-reload-button = 重新加载曲库
 
 # TODO[新增] 值
-instruments-component-midi-file-collection-delete-all-button = Clear Collection
+instruments-component-midi-file-collection-delete-all-button = 清空曲库
 
 # TODO[新增] 值
-instruments-component-menu-midi-min-volume-slider-label = MIDI Input Min Volume
+instruments-component-menu-midi-min-volume-slider-label = MIDI 输入最小音量

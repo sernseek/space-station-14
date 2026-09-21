@@ -1,17 +1,17 @@
 # TODO[新增] 值
-cloud-emote-name-mark = Mark
+cloud-emote-name-mark = 标记
 
 # TODO[新增] 值
 cloud-emote-name-lenny = Lenny
 
 # TODO[新增] 值
-cloud-emote-name-nervous = Nervous
+cloud-emote-name-nervous = 紧张
 
 # TODO[新增] 值
-cloud-emote-name-snore = Snore
+cloud-emote-name-snore = 打鼾
 
 # TODO[新增] 值
-cloud-emote-name-stare = Stare
+cloud-emote-name-stare = 凝视
 
 # TODO[新增] 值
 cloud-emote-name-weh = Weh
@@ -20,55 +20,55 @@ cloud-emote-name-weh = Weh
 cloud-emote-name-xp = XP
 
 # TODO[新增] 值
-cloud-emote-name-yes = Yes
+cloud-emote-name-yes = 是
 
 # TODO[新增] 值
-cloud-emote-name-abductor = Abductor
+cloud-emote-name-abductor = 劫持者
 
 # TODO[新增] 值
 cloud-emote-name-amongus = Among Us
 
 # TODO[新增] 值
-cloud-emote-name-cool = Cool
+cloud-emote-name-cool = 酷
 
 # TODO[新增] 值
-cloud-emote-name-crying = Crying
+cloud-emote-name-crying = 哭泣
 
 # TODO[新增] 值
-cloud-emote-name-dizzy = Dizzy
+cloud-emote-name-dizzy = 眩晕
 
 # TODO[新增] 值
-cloud-emote-name-flustered = Flustered
+cloud-emote-name-flustered = 慌乱
 
 # TODO[新增] 值
-cloud-emote-name-heart = Heart
+cloud-emote-name-heart = 爱心
 
 # TODO[新增] 值
-cloud-emote-name-huh = Huh
+cloud-emote-name-huh = 疑惑
 
 # TODO[新增] 值
-cloud-emote-name-man = Man
+cloud-emote-name-man = 男人
 
 # TODO[新增] 值
-cloud-emote-name-no = No
+cloud-emote-name-no = 否
 
 # TODO[新增] 值
 cloud-emote-name-owo = OwO
 
 # TODO[新增] 值
-cloud-emote-name-pause = Pause
+cloud-emote-name-pause = 暂停
 
 # TODO[新增] 值
-cloud-emote-name-question = Question
+cloud-emote-name-question = 疑问
 
 # TODO[新增] 值
-cloud-emote-name-shocked = Shocked
+cloud-emote-name-shocked = 震惊
 
 # TODO[新增] 值
-cloud-emote-name-sing = Sing
+cloud-emote-name-sing = 歌唱
 
 # TODO[新增] 值
-cloud-emote-name-smile = Smile
+cloud-emote-name-smile = 微笑
 
 # TODO[新增] 值
 cloud-emote-name-smoile = Smoile

@@ -1,77 +1,77 @@
 # TODO[新增] 值
-names-resomi-packs-dataset-15 = Spacewing Pack
+names-resomi-packs-dataset-15 = 天翼群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-16 = Starwatcher Pack
+names-resomi-packs-dataset-16 = 观星群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-17 = Rockcracker Pack
+names-resomi-packs-dataset-17 = 碎岩群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-18 = Ironbeak Pack
+names-resomi-packs-dataset-18 = 铁喙群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-19 = Snowfeather Pack
+names-resomi-packs-dataset-19 = 雪羽群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-20 = Wavemaker Pack
+names-resomi-packs-dataset-20 = 弄潮群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-21 = Cosmos Pack
+names-resomi-packs-dataset-21 = 寰宇群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-22 = Airsurfer Pack
+names-resomi-packs-dataset-22 = 翔空群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-23 = Orbital Pack
+names-resomi-packs-dataset-23 = 轨道群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-24 = Gunrunner Pack
+names-resomi-packs-dataset-24 = 贩枪群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-25 = Windrider Pack
+names-resomi-packs-dataset-25 = 御风群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-26 = Steelflower Pack
+names-resomi-packs-dataset-26 = 钢花群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-27 = Brightfeathers Pack
+names-resomi-packs-dataset-27 = 辉羽群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-28 = Trashmaker Pack
+names-resomi-packs-dataset-28 = 造渣群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-29 = Gravedigger Pack
+names-resomi-packs-dataset-29 = 掘墓群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-30 = Glider Pack
+names-resomi-packs-dataset-30 = 滑翔群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-31 = Sharpeye Pack
+names-resomi-packs-dataset-31 = 锐目群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-32 = Surveyor Pack
+names-resomi-packs-dataset-32 = 勘测群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-33 = Shuttleborn Pack
+names-resomi-packs-dataset-33 = 舰裔群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-34 = Dunestrider Pack
+names-resomi-packs-dataset-34 = 沙丘行者群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-35 = Shrieker Pack
+names-resomi-packs-dataset-35 = 尖啸群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-36 = Scarbearer Pack
+names-resomi-packs-dataset-36 = 负疤群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-37 = Skyscratcher Pack
+names-resomi-packs-dataset-37 = 划空群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-38 = Stormchaser Pack
+names-resomi-packs-dataset-38 = 追风群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-39 = Quietwing Pack
+names-resomi-packs-dataset-39 = 静翼群
 
 # TODO[新增] 值
-names-resomi-packs-dataset-40 = Packless
+names-resomi-packs-dataset-40 = 无群者

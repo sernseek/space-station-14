@@ -1,59 +1,59 @@
 # TODO[新增] 值
 command-description-gamemap-get =
-    Gets the map that the piped entity is currently on.
+    获取管道传入的实体当前所在的地图。
 
 # TODO[新增] 值
 command-description-gamemap-getid =
-    Gets a map by its ID.
+    按 ID 获取地图。
 
 # TODO[新增] 值
 command-description-gamemap-init =
-    Initializes the piped map entity.
+    初始化管道传入的地图实体。
 
 # TODO[新增] 值
 command-description-gamemap-initid =
-    Initializes the map with the specified ID.
+    初始化指定 ID 的地图。
 
 # TODO[新增] 值
 command-description-gamemap-pause =
-    Pauses the piped map entity.
+    暂停管道传入的地图实体。
 
 # TODO[新增] 值
 command-description-gamemap-pauseid =
-    Pauses the map with the specified ID.
+    暂停指定 ID 的地图。
 
 # TODO[新增] 值
 command-description-gamemap-unpause =
-    Unpauses the piped map entity.
+    恢复管道传入的地图实体。
 
 # TODO[新增] 值
 command-description-gamemap-unpauseid =
-    Unpauses the map with the specified ID.
+    恢复指定 ID 的地图。
 
 # TODO[新增] 值
 command-description-gamemap-load =
-    Loads a map from the specified path to the specified map ID.
+    从指定路径加载地图到指定地图 ID。
 
 # TODO[新增] 值
 command-description-gamemap-loadoffset =
-    Loads a map from the specified path with the given map ID. Allows specifying an offset and rotation.
+    从指定路径以给定地图 ID 加载地图。允许指定偏移量与旋转。
 
 # TODO[新增] 值
 command-description-gamemap-add =
-    Adds a new map with the specified map ID. Lets you choose whether to initialize it or not.
+    以指定地图 ID 添加一张新地图。可选择是否初始化它。
 
 # TODO[新增] 值
 command-description-gamemap-rm =
-    Properly removes the piped map entity.
+    正确移除管道传入的地图实体。
 
 # TODO[新增] 值
 command-description-gamemap-rmid =
-    Properly removes the map with the specified ID.
+    正确移除指定 ID 的地图。
 
 # TODO[新增] 值
 command-description-gamemap-save =
-    Saves the piped map entity to the given path.
+    将管道传入的地图实体保存到给定路径。
 
 # TODO[新增] 值
 command-description-gamemap-saveid =
-    Saves the map with the specified ID to the given path.
+    将指定 ID 的地图保存到给定路径。

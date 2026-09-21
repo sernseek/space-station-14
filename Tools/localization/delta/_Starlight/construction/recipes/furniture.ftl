@@ -1,53 +1,53 @@
 # TODO[新增] 值
-construction-recipe-evac-seat = evac seat
+construction-recipe-evac-seat = 撤离座椅
 
 # TODO[新增] 值
-construction-recipe-bridge-seat = bridge seat
+construction-recipe-bridge-seat = 舰桥座椅
 
 # TODO[新增] 值
-construction-recipe-round-steel = round steel table
+construction-recipe-round-steel = 圆形钢桌
 
 # TODO[新增] 值
-construction-recipe-round-wood = round wood table
+construction-recipe-round-wood = 圆形木桌
 
 # TODO[新增] 值
-construction-recipe-round-carpet = round carpeted table
+construction-recipe-round-carpet = 圆形地毯桌
 
 # TODO[新增] 值
-construction-recipe-round-plastic = round plastic table
+construction-recipe-round-plastic = 圆形塑料桌
 
 # TODO[新增] 值
-construction-recipe-round-glass = round glass table
+construction-recipe-round-glass = 圆形玻璃桌
 
 # TODO[新增] 值
-construction-recipe-round-plasma = round plasma table
+construction-recipe-round-plasma = 圆形等离子体桌
 
 # TODO[新增] 值
-construction-recipe-window-blinds = window blinds
+construction-recipe-window-blinds = 百叶窗
 
 # TODO[新增] 值
-construction-recipe-counter-retro-steel = retro counter steel
+construction-recipe-counter-retro-steel = 复古钢制柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-wood = retro counter wood
+construction-recipe-counter-retro-wood = 复古木制柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-kitchen = retro counter kitchen
+construction-recipe-counter-retro-kitchen = 复古厨房柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-steel-wood = retro counter steel wood
+construction-recipe-counter-retro-steel-wood = 复古钢木柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-white-orange = retro counter white orange
+construction-recipe-counter-retro-white-orange = 复古白橙柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-white-teal = retro counter white teal
+construction-recipe-counter-retro-white-teal = 复古白青柜台
 
 # TODO[新增] 值
-construction-recipe-counter-retro-diner = retro counter diner
+construction-recipe-counter-retro-diner = 复古餐厅柜台
 
 # TODO[新增] 值
-construction-recipe-froggy-chair = froggy chair
+construction-recipe-froggy-chair = 青蛙椅
 
 # TODO[新增] 值
-construction-recipe-lovey-chair = lovey chair
+construction-recipe-lovey-chair = 爱心椅

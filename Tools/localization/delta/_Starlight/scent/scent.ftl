@@ -1,77 +1,77 @@
 # TODO[新增] 值
-scent-sniff-window-title = Scent Trace
+scent-sniff-window-title = 气味追踪
 
 # TODO[新增] 值
-scent-sniff-window-empty = No scents detected.
+scent-sniff-window-empty = 未检测到气味。
 
 # TODO[新增] 值
-scent-sniff-window-empty-traces = No other scent traces detected.
+scent-sniff-window-empty-traces = 未检测到其他气味痕迹。
 
 # TODO[新增] 值
-scent-sniff-window-entry-id = [color={$color}]Scent ({$id}...)[/color]
+scent-sniff-window-entry-id = [color={$color}]气味（{$id}…）[/color]
 
 # TODO[新增] 值
 scent-sniff-window-entry-detail = [color={$color}]{$species} - {$freshness}[/color]
 
 # TODO[新增] 值
-scent-sniff-window-track-tooltip = Click to track this scent
+scent-sniff-window-track-tooltip = 点击追踪此气味
 
 # TODO[新增] 值
-scent-sniff-window-tracking-popup = You start tracking this scent.
+scent-sniff-window-tracking-popup = 你开始追踪这股气味。
 
 # TODO[新增] 值
-scent-sniff-window-track-own = Track this creature's scent directly
+scent-sniff-window-track-own = 直接追踪此生物的气味
 
 # TODO[新增] 值
-scent-sniff-window-track-own-tooltip = Track this individual's scent directly.
+scent-sniff-window-track-own-tooltip = 直接追踪该个体的气味。
 
 # TODO[新增] 值
-scent-species-non-humanoid = Non-Humanoid
+scent-species-non-humanoid = 非人形
 
 # TODO[新增] 值
-scent-freshness-very-fresh = Very Fresh
+scent-freshness-very-fresh = 非常新鲜
 
 # TODO[新增] 值
-scent-freshness-fresh = Fresh
+scent-freshness-fresh = 新鲜
 
 # TODO[新增] 值
-scent-freshness-somewhat-fresh = Somewhat Fresh
+scent-freshness-somewhat-fresh = 较为新鲜
 
 # TODO[新增] 值
-scent-freshness-not-very-fresh = Not Very Fresh
+scent-freshness-not-very-fresh = 不太新鲜
 
 # TODO[新增] 值
-scent-sniff-no-scents = There are no scents on { $target }!
+scent-sniff-no-scents = { $target }上没有气味！
 
 # TODO[新增] 值
-scent-sneeze-popup = You clear your nose of your tracked scent.
+scent-sneeze-popup = 你清掉了鼻腔里正在追踪的气味。
 
 # TODO[新增] 值
-scent-cleaning-self = You start washing the { $evidence } off yourself...
+scent-cleaning-self = 你开始清洗自己身上的{ $evidence }……
 
 # TODO[新增] 值
-scent-cleaning-other = You start washing the { $evidence } off { $target }...
+scent-cleaning-other = 你开始清洗{ $target }身上的{ $evidence }……
 
 # TODO[新增] 值
-scent-cleaning-cannot-clean-self = You have no evidence to wash away.
+scent-cleaning-cannot-clean-self = 你身上没有需要洗掉的证迹。
 
 # TODO[新增] 值
-scent-cleaning-cannot-clean-other = There is no evidence to wash off { $target }.
+scent-cleaning-cannot-clean-other = { $target }身上没有需要洗掉的证迹。
 
 # TODO[新增] 值
-scent-verb-text = Remove evidence
+scent-verb-text = 清除证迹
 
 # TODO[新增] 值
-scent-verb-message = Wash scent, stains, fingerprints, and DNA residue off the object!
+scent-verb-message = 洗掉物体上的气味、污渍、指纹和 DNA 残留！
 
 # TODO[新增] 值
-scent-evidence-scent = scent
+scent-evidence-scent = 气味
 
 # TODO[新增] 值
-scent-evidence-forensics = fingerprints and other evidence
+scent-evidence-forensics = 指纹及其他证迹
 
 # TODO[新增] 值
-scent-evidence-both = scent, fingerprints, and other evidence
+scent-evidence-both = 气味、指纹及其他证迹
 
 # TODO[新增] 值
-scent-evidence-stains = stains
+scent-evidence-stains = 污渍

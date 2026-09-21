@@ -1,53 +1,53 @@
 # TODO[新增] 值
-marking-NeoAvaliLightArmor = Light Neocyte-Avali Cybernetics
+marking-NeoAvaliLightArmor = 轻型新胞-阿瓦利赛博改造
 
 # TODO[新增] 值
-marking-NeoAvaliLightArmor-light = Light Neocyte-Avali Cybernetics
+marking-NeoAvaliLightArmor-light = 轻型新胞-阿瓦利赛博改造
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceSquare = Square Avali LEDs
+marking-NeoAvaliLEDFaceSquare = 方形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceSquare-square = Square Avali LEDs
+marking-NeoAvaliLEDFaceSquare-square = 方形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceCircular = Circular Avali LEDs
+marking-NeoAvaliLEDFaceCircular = 圆形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceCircular-circular = Circular Avali LEDs
+marking-NeoAvaliLEDFaceCircular-circular = 圆形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceDiagonal = Diagonal Avali LEDs
+marking-NeoAvaliLEDFaceDiagonal = 斜向阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceDiagonal-diagonal = Diagonal Avali LEDs
+marking-NeoAvaliLEDFaceDiagonal-diagonal = 斜向阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceStraight = Straight Avali LEDs
+marking-NeoAvaliLEDFaceStraight = 直条阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceStraight-straight = Straight Avali LEDs
+marking-NeoAvaliLEDFaceStraight-straight = 直条阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFacePenta = Penta Avali LEDs
+marking-NeoAvaliLEDFacePenta = 五角阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFacePenta-penta = Penta Avali LEDs
+marking-NeoAvaliLEDFacePenta-penta = 五角阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceSun = Sun Avali LEDs
+marking-NeoAvaliLEDFaceSun = 日形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFaceSun-sun = Sun Avali LEDs
+marking-NeoAvaliLEDFaceSun-sun = 日形阿瓦利LED
 
 # TODO[新增] 值
-marking-NeoAvaliVisorLightless = Avali Visor w/o Lights
+marking-NeoAvaliVisorLightless = 无灯阿瓦利面罩
 
 # TODO[新增] 值
-marking-NeoAvaliVisorLightless-lightless = Avali Visor w/o Lights
+marking-NeoAvaliVisorLightless-lightless = 无灯阿瓦利面罩
 
 # TODO[新增] 值
-marking-NeoAvaliVisorColorable = Avali Visor w/ Colorable Screen
+marking-NeoAvaliVisorColorable = 可变色屏幕阿瓦利面罩
 
 # TODO[新增] 值
-marking-NeoAvaliVisorColorable-colorable = Avali Visor w/ Colorable Screen
+marking-NeoAvaliVisorColorable-colorable = 可变色屏幕阿瓦利面罩

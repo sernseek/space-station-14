@@ -268,3 +268,33 @@
 - Tools/localization/delta/store/categories.ftl  （1 条）
 - Tools/localization/delta/tips.ftl  （1 条）
 - Tools/localization/delta/voting/managers/vote-manager.ftl  （1 条）
+
+## 批次 19（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-1.ftl  （150 条，实体名/描述）
+
+## 批次 20（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-2.ftl  （150 条，实体名/描述）
+
+## 批次 21（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-3.ftl  （150 条，实体名/描述）
+
+## 批次 22（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-4.ftl  （150 条，实体名/描述）
+
+## 批次 23（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-5.ftl  （150 条，实体名/描述）
+
+## 批次 24（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-6.ftl  （150 条，实体名/描述）
+
+## 批次 25（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-7.ftl  （150 条，实体名/描述）
+
+## 批次 26（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-8.ftl  （150 条，实体名/描述）
+
+## 批次 27（150 条）
+- Tools/localization/delta/_zhCN/entities-sync-9.ftl  （150 条，实体名/描述）
+
+## 批次 28（125 条）
+- Tools/localization/delta/_zhCN/entities-sync-10.ftl  （125 条，实体名/描述）

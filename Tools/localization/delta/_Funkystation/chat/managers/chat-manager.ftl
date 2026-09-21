@@ -1,5 +1,5 @@
 # TODO[新增] 值
-chat-speech-verb-name-glorpish = Glorpish
+chat-speech-verb-name-glorpish = 咕啵语
 
 # TODO[新增] 值
 chat-speech-verb-glorpish-1 = zeepity slorpo glorb
@@ -8,7 +8,7 @@ chat-speech-verb-glorpish-1 = zeepity slorpo glorb
 chat-speech-verb-glorpish-2 = glarp gnaru glompurt
 
 # TODO[新增] 值
-chat-speech-verb-glorpish-3 = SPACE COP
+chat-speech-verb-glorpish-3 = 太空警察
 
 # TODO[新增] 值
 chat-speech-verb-glorpish-4 = bogos binted?
@@ -35,7 +35,7 @@ chat-speech-verb-glorpish-10 = gleeble wobble squib womp
 chat-speech-verb-glorpish-11 = zooble zab bap zab!!
 
 # TODO[新增] 值
-chat-speech-verb-glorpish-12 = squeeb glorp "Alien Kids"... gloop.
+chat-speech-verb-glorpish-12 = squeeb glorp「外星小孩」……gloop。
 
 # TODO[新增] 值
 chat-speech-verb-glorpish-13 = sqeeuble gap zab zap!
@@ -170,7 +170,7 @@ chat-speech-verb-glorpish-55 = glibus
 chat-speech-verb-glorpish-56 = glop
 
 # TODO[新增] 值
-chat-speech-verb-glorpish-57 = squeeble...
+chat-speech-verb-glorpish-57 = squeeble……
 
 # TODO[新增] 值
 chat-speech-verb-glorpish-58 = gnarp

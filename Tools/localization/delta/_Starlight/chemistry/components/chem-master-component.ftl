@@ -1,53 +1,53 @@
 # TODO[新增] 值
-chem-master-window-search-placeholder = Filter ...
+chem-master-window-search-placeholder = 筛选……
 
 # TODO[新增] 值
-chem-master-window-mode-tooltip = Toggle the UI between Modern and Classic layouts.
+chem-master-window-mode-tooltip = 在现代布局与经典布局之间切换界面。
 
 # TODO[新增] 值
-chem-master-window-mode-classic = Classic Layout
+chem-master-window-mode-classic = 经典布局
 
 # TODO[新增] 值
-chem-master-window-mode-modern = Modern Layout
+chem-master-window-mode-modern = 现代布局
 
 # TODO[新增] 值
-chem-master-window-amount-label = Amount
+chem-master-window-amount-label = 数量
 
 # TODO[新增] 值
-chem-master-window-custom-amount-tooltip = Enter a custom amount and press # to dispense that amount.
+chem-master-window-custom-amount-tooltip = 输入自定义数量并按 # 键即可分配该数量。
 
 # TODO[新增] 值
-chem-master-window-custom-amount-placeholder = Enter a custom amount ...
+chem-master-window-custom-amount-placeholder = 输入自定义数量……
 
 # TODO[新增] 值
-chem-master-window-containers-label = Containers
+chem-master-window-containers-label = 容器
 
 # TODO[新增] 值
-chem-master-window-no-input-container-loaded-text = No input container loaded.
+chem-master-window-no-input-container-loaded-text = 未装入输入容器。
 
 # TODO[新增] 值
-chem-master-window-no-output-container-loaded-text = No output container loaded.
+chem-master-window-no-output-container-loaded-text = 未装入输出容器。
 
 # TODO[新增] 值
-chem-master-window-create-pill-tooltip = Insert an empty pill canister to make pills.
+chem-master-window-create-pill-tooltip = 放入空药丸罐以制作药丸。
 
 # TODO[新增] 值
-chem-master-window-create-patch-tooltip = Insert an empty patch pack to make patches.
+chem-master-window-create-patch-tooltip = 放入空贴片包以制作贴片。
 
 # TODO[新增] 值
-chem-master-window-create-bottle-tooltip = Insert an empty bottle to fill a bottle.
+chem-master-window-create-bottle-tooltip = 放入空瓶以灌装瓶子。
 
 # TODO[新增] 值
-chem-master-window-create-pill-full-tooltip = The pill canister is full. Insert a new pill canister to make pills.
+chem-master-window-create-pill-full-tooltip = 药丸罐已满。放入新的药丸罐以继续制作药丸。
 
 # TODO[新增] 值
-chem-master-window-create-patch-full-tooltip = The patch pack is full. Insert a new patch pack to make patches.
+chem-master-window-create-patch-full-tooltip = 贴片包已满。放入新的贴片包以继续制作贴片。
 
 # TODO[新增] 值
-chem-master-window-create-bottle-full-tooltip = The bottle is full. Insert a new bottle to fill a bottle.
+chem-master-window-create-bottle-full-tooltip = 瓶子已满。放入新瓶以继续灌装。
 
 # TODO[新增] 值
-chem-master-window-buffer-draw-tooltip = Packages from the machine's internal buffer, evenly mixing all stored reagents from the buffer.
+chem-master-window-buffer-draw-tooltip = 从机器内部缓冲区分装，将缓冲区中储存的所有试剂均匀混合。
 
 # TODO[新增] 值
-chem-master-window-beaker-draw-tooltip = Packages from the inserted beaker, evenly mixing all stored reagents from the beaker.
+chem-master-window-beaker-draw-tooltip = 从插入的烧杯中分装，将烧杯中储存的所有试剂均匀混合。

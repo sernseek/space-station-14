@@ -1,35 +1,35 @@
 # TODO[改动] 值
 wizard-duelist-red-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the red wizards of Grubulubalu have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the red wizards reign superior in the ways of the arcane!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，古布鲁巴卢的红袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明红袍巫师在奥术之道上技高一筹！
 
 # TODO[改动] 值
 wizard-duelist-blue-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the blue wizards of the Broken Moon have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the blue wizards are the masters of sorcery!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，残月的蓝袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明蓝袍巫师才是咒法之主！
 
 # TODO[改动] 值
 wizard-duelist-purple-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the purple wizards of Mu'keiji have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the purple wizards shine in the court of battle!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，穆凯吉的紫袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明紫袍巫师在战场之上光芒四射！
 
 # TODO[改动] 值
 wizard-duelist-yellow-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the yellow wizards of the Lunar Prophets have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the yellow wizards can see all outcomes!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，月之先知的黄袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明黄袍巫师能预见一切结局！
 
 # TODO[改动] 值
 wizard-duelist-green-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the green wizards of the Disciples of Evergrow have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the green wizards are the wisest of all!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，长生门徒的绿袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明绿袍巫师才是最有智慧的！
 
 # TODO[改动] 值
 wizard-duelist-orange-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the Space Wizards Federation, resulting in the call for a Wizard Duel, and the orange wizards of the Transcendence Stars have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the orange wizards are filled with indomitable curiosity!
+    巫师时间到，火球！
+    太空巫师联盟各学派之间产生了分歧，一场巫师决斗就此被发起，超越群星的橙袍巫师们派你出任他们的斗士。
+    与你的巫师对手们会面，商定这场决斗的条款，证明橙袍巫师充满不屈的好奇心！

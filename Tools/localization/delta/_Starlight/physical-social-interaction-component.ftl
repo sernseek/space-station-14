@@ -1,38 +1,38 @@
 # TODO[新增] 值
-social-interaction-component-verb = Social Interaction
+social-interaction-component-verb = 社交互动
 
 # TODO[新增] 值
-petting-emote = pets {THE($target)} on {POSS-ADJ($target)} head.
+petting-emote = 摸了摸{THE($target)}的头。
 
 # TODO[新增] 值
-booping-emote = boops {THE($target)} on {POSS-ADJ($target)} nose.
+booping-emote = 点了点{THE($target)}的鼻子。
 
 # TODO[新增] 值
-wave-verb = Wave
+wave-verb = 挥手
 
 # TODO[新增] 值
-waving-success = You wave at { THE($target) }.
+waving-success = 你向{ THE($target) }挥了挥手。
 
 # TODO[新增] 值
-waving-success-others = { CAPITALIZE(THE($user)) } waves at {THE($target)}.
+waving-success-others = { CAPITALIZE(THE($user)) }向{THE($target)}挥了挥手。
 
 # TODO[新增] 值
-waving-emote = waves at {THE($target)}.
+waving-emote = 向{THE($target)}挥手。
 
 # TODO[新增] 值
-waving-emote-self = waves.
+waving-emote-self = 挥了挥手。
 
 # TODO[新增] 值
-look-verb = Look
+look-verb = 注视
 
 # TODO[新增] 值
-looking-success = You look at { THE($target) }.
+looking-success = 你注视着{ THE($target) }。
 
 # TODO[新增] 值
-looking-success-others = { CAPITALIZE(THE($user)) } looks at {THE($target)}.
+looking-success-others = { CAPITALIZE(THE($user)) }注视着{THE($target)}。
 
 # TODO[新增] 值
-looking-emote = looks at {THE($target)}.
+looking-emote = 注视着{THE($target)}。
 
 # TODO[新增] 值
-looking-emote-self = looks at {REFLEXIVE($target)}.
+looking-emote-self = 注视着自己。

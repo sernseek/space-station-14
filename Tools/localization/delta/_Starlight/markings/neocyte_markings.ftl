@@ -1,479 +1,479 @@
 # TODO[新增] 值
-marking-NeocyteTailShark = Shark Tail
+marking-NeocyteTailShark = 鲨尾
 
 # TODO[新增] 值
-marking-NeocyteTailShark-shark_tail_protogen = Shark Tail
+marking-NeocyteTailShark-shark_tail_protogen = 鲨尾
 
 # TODO[新增] 值
-marking-NeocyteTailBushy = Bushy Tail
+marking-NeocyteTailBushy = 蓬松尾巴
 
 # TODO[新增] 值
-marking-NeocyteTailBushy-bushy_tail_protogen = Bushy Tail
+marking-NeocyteTailBushy-bushy_tail_protogen = 蓬松尾巴
 
 # TODO[新增] 值
-marking-NeocyteTail = Tail
+marking-NeocyteTail = 尾巴
 
 # TODO[新增] 值
-marking-NeocyteTail-tail_protogen = Tail
+marking-NeocyteTail-tail_protogen = 尾巴
 
 # TODO[新增] 值
-marking-NeocyteEars = Four Neocyte Ears
+marking-NeocyteEars = 四只新胞耳
 
 # TODO[新增] 值
-marking-NeocyteEars-ears_protogen = Four Neocyte Ears
+marking-NeocyteEars-ears_protogen = 四只新胞耳
 
 # TODO[新增] 值
-marking-NeocyteEars-ears_protogen_tips = Four Neocyte Ears (Tips)
+marking-NeocyteEars-ears_protogen_tips = 四只新胞耳（耳尖）
 
 # TODO[新增] 值
-marking-TwoNeocyteEars = Two Neocyte Ears
+marking-TwoNeocyteEars = 两只新胞耳
 
 # TODO[新增] 值
-marking-TwoNeocyteEars-two_ears_protogen = Two Neocyte Ears
+marking-TwoNeocyteEars-two_ears_protogen = 两只新胞耳
 
 # TODO[新增] 值
-marking-NeocyteLights = Circular LEDs
+marking-NeocyteLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeocyteLights-body = Circular LEDs
+marking-NeocyteLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeocyteVisor = Neocyte Visor
+marking-NeocyteVisor = 新胞面罩
 
 # TODO[新增] 值
-marking-NeocyteVisor-visor = Neocyte Visor
+marking-NeocyteVisor-visor = 新胞面罩
 
 # TODO[新增] 值
-marking-NeocyteLEDFace = Default Neocyte LEDs
+marking-NeocyteLEDFace = 默认新胞LED表情
 
 # TODO[新增] 值
-marking-NeocyteLEDFace-face = Default Neocyte LEDs
+marking-NeocyteLEDFace-face = 默认新胞LED表情
 
 # TODO[新增] 值
-marking-NeocyteLEDFaceNoseless = Noseless LEDs
+marking-NeocyteLEDFaceNoseless = 无鼻LED表情
 
 # TODO[新增] 值
-marking-NeocyteLEDFaceNoseless-noseless = Noseless LEDs
+marking-NeocyteLEDFaceNoseless-noseless = 无鼻LED表情
 
 # TODO[新增] 值
-marking-NeocyteVisorRound = Round Visor
+marking-NeocyteVisorRound = 圆面罩
 
 # TODO[新增] 值
-marking-NeocyteVisorRound-rounded = Round Visor
+marking-NeocyteVisorRound-rounded = 圆面罩
 
 # TODO[新增] 值
-marking-NeocyteLEDFaceRound = Round LEDs
+marking-NeocyteLEDFaceRound = 圆形LED表情
 
 # TODO[新增] 值
-marking-NeocyteLEDFaceRound-rounded = Round LEDs
+marking-NeocyteLEDFaceRound-rounded = 圆形LED表情
 
 # TODO[新增] 值
-marking-NeocyteMediumArmor = Standard Neocyte Cybernetics
+marking-NeocyteMediumArmor = 标准新胞赛博改造
 
 # TODO[新增] 值
-marking-NeocyteMediumArmor-medium = Standard Neocyte Cybernetics
+marking-NeocyteMediumArmor-medium = 标准新胞赛博改造
 
 # TODO[新增] 值
-marking-NeoVulpkaninPawSocksFeet = Paw Socks (Feet)
+marking-NeoVulpkaninPawSocksFeet = 爪袜（足部）
 
 # TODO[新增] 值
-marking-NeoVulpkaninPawSocksFeet-pawsocks_feet = Paw Socks (Feet)
+marking-NeoVulpkaninPawSocksFeet-pawsocks_feet = 爪袜（足部）
 
 # TODO[新增] 值
-marking-NeoVulpkaninPawSocksLegs = Paw Socks (Legs)
+marking-NeoVulpkaninPawSocksLegs = 爪袜（腿部）
 
 # TODO[新增] 值
-marking-NeoVulpkaninPawSocksLegs-pawsocks_legs = Paw Socks (Legs)
+marking-NeoVulpkaninPawSocksLegs-pawsocks_legs = 爪袜（腿部）
 
 # TODO[新增] 值
-marking-NeoVulpkaninLights = Circular LEDs
+marking-NeoVulpkaninLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoVulpkaninLights-body = Circular LEDs
+marking-NeoVulpkaninLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoVulpkaninLightsAngled = Angled LEDs
+marking-NeoVulpkaninLightsAngled = 斜角LED灯
 
 # TODO[新增] 值
-marking-NeoVulpkaninLightsAngled-bodyangled = Angled LEDs
+marking-NeoVulpkaninLightsAngled-bodyangled = 斜角LED灯
 
 # TODO[新增] 值
-marking-NeoVulpkaninLightsAngled-bodyangled_inner = Angled LEDs
+marking-NeoVulpkaninLightsAngled-bodyangled_inner = 斜角LED灯
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisor = Vulpine/Reptile Visor
+marking-NeoVulpkaninVisor = 伏尔卡宁/爬行面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisor-vulpvisor = Vulpine/Reptile Visor
+marking-NeoVulpkaninVisor-vulpvisor = 伏尔卡宁/爬行面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFace = Default Vulpine LEDs
+marking-NeoVulpkaninLEDFace = 默认伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFace-face = Default Vulpine LEDs
+marking-NeoVulpkaninLEDFace-face = 默认伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisorFourEyes = Large Vulpine Visor
+marking-NeoVulpkaninVisorFourEyes = 大型伏尔卡宁面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisorFourEyes-vulpvisor-four-eyes = Large Vulpine Visor
+marking-NeoVulpkaninVisorFourEyes-vulpvisor-four-eyes = 大型伏尔卡宁面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFaceFourEyes = Four-eyes Vulpine LEDs
+marking-NeoVulpkaninLEDFaceFourEyes = 四眼伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFaceFourEyes-four-eyes = Four-eyes Vulpine LEDs
+marking-NeoVulpkaninLEDFaceFourEyes-four-eyes = 四眼伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninSnoutLong = Long Vulpine Visor
+marking-NeoVulpkaninSnoutLong = 长吻伏尔卡宁面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninSnoutLong-snout = Long Vulpine Visor
+marking-NeoVulpkaninSnoutLong-snout = 长吻伏尔卡宁面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFaceLong = Long Vulpine LEDs
+marking-NeoVulpkaninLEDFaceLong = 长吻伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninLEDFaceLong-long = Long Vulpine LEDs
+marking-NeoVulpkaninLEDFaceLong-long = 长吻伏尔卡宁LED表情
 
 # TODO[新增] 值
-marking-NeoVulpkaninClaws = Vulpine Claws
+marking-NeoVulpkaninClaws = 伏尔卡宁利爪
 
 # TODO[新增] 值
-marking-NeoVulpkaninClaws-claws = Vulpine Claws
+marking-NeoVulpkaninClaws-claws = 伏尔卡宁利爪
 
 # TODO[新增] 值
-marking-NeoVulpkaninClawsLong = Long Vulpine Claws
+marking-NeoVulpkaninClawsLong = 伏尔卡宁长爪
 
 # TODO[新增] 值
-marking-NeoVulpkaninClawsLong-clawslong = Long Vulpine Claws
+marking-NeoVulpkaninClawsLong-clawslong = 伏尔卡宁长爪
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisorSideWings = Side Visor Wings
+marking-NeoVulpkaninVisorSideWings = 侧翼面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninVisorSideWings-side-visor-wings = Side Visor Wings
+marking-NeoVulpkaninVisorSideWings-side-visor-wings = 侧翼面罩
 
 # TODO[新增] 值
-marking-NeoVulpkaninMediumArmor = Standard Neocyte-Vulpine Cybernetics
+marking-NeoVulpkaninMediumArmor = 标准新胞-伏尔卡宁赛博改造
 
 # TODO[新增] 值
-marking-NeoVulpkaninMediumArmor-medium = Standard Neocyte-Vulpine Cybernetics
+marking-NeoVulpkaninMediumArmor-medium = 标准新胞-伏尔卡宁赛博改造
 
 # TODO[新增] 值
-marking-NeoVulpkaninMediumArmorAngled = Angled Standard Neocyte-Vulpine Cybernetics
+marking-NeoVulpkaninMediumArmorAngled = 斜角标准新胞-伏尔卡宁赛博改造
 
 # TODO[新增] 值
-marking-NeoVulpkaninMediumArmorAngled-mediumangled = Angled Standard Neocyte-Vulpine Cybernetics
+marking-NeoVulpkaninMediumArmorAngled-mediumangled = 斜角标准新胞-伏尔卡宁赛博改造
 
 # TODO[新增] 值
-marking-NeoVoxVisor = Vox Visor
+marking-NeoVoxVisor = 沃克斯面罩
 
 # TODO[新增] 值
-marking-NeoVoxVisor-visor = Vox Visor
+marking-NeoVoxVisor-visor = 沃克斯面罩
 
 # TODO[新增] 值
-marking-NeoVoxLEDFace = Default Vox LEDs
+marking-NeoVoxLEDFace = 默认沃克斯LED表情
 
 # TODO[新增] 值
-marking-NeoVoxLEDFace-face = Default Vox LEDs
+marking-NeoVoxLEDFace-face = 默认沃克斯LED表情
 
 # TODO[新增] 值
-marking-NeoVoxLights = Circular LEDs
+marking-NeoVoxLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoVoxLights-body = Circular LEDs
+marking-NeoVoxLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoVoxClaws = Long Vox Claws
+marking-NeoVoxClaws = 沃克斯长爪
 
 # TODO[新增] 值
-marking-NeoVoxClaws-claws = Long Vox Claws
+marking-NeoVoxClaws-claws = 沃克斯长爪
 
 # TODO[新增] 值
-marking-NeoVoxMediumArmor = Standard Neocyte-Vox Cybernetics
+marking-NeoVoxMediumArmor = 标准新胞-沃克斯赛博改造
 
 # TODO[新增] 值
-marking-NeoVoxMediumArmor-medium = Standard Neocyte-Vox Cybernetics
+marking-NeoVoxMediumArmor-medium = 标准新胞-沃克斯赛博改造
 
 # TODO[新增] 值
-marking-NeoThavenVisor = Thaven Visor
+marking-NeoThavenVisor = 塔文面罩
 
 # TODO[新增] 值
-marking-NeoThavenVisor-visor = Thaven Visor
+marking-NeoThavenVisor-visor = 塔文面罩
 
 # TODO[新增] 值
-marking-NeoThavenLEDFace = Default Thaven LEDs
+marking-NeoThavenLEDFace = 默认塔文LED表情
 
 # TODO[新增] 值
-marking-NeoThavenLEDFace-face = Default Thaven LEDs
+marking-NeoThavenLEDFace-face = 默认塔文LED表情
 
 # TODO[新增] 值
-marking-NeoThavenLights = Circular LEDs
+marking-NeoThavenLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoThavenLights-body = Circular LEDs
+marking-NeoThavenLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoThavenMediumArmor = Standard Neocyte-Thaven Cybernetics
+marking-NeoThavenMediumArmor = 标准新胞-塔文赛博改造
 
 # TODO[新增] 值
-marking-NeoThavenMediumArmor-medium = Standard Neocyte-Thaven Cybernetics
+marking-NeoThavenMediumArmor-medium = 标准新胞-塔文赛博改造
 
 # TODO[新增] 值
-marking-NeoSlimePersonVisor = Laspi Visor
+marking-NeoSlimePersonVisor = 拉斯比面罩
 
 # TODO[新增] 值
-marking-NeoSlimePersonVisor-visor = Laspi Visor
+marking-NeoSlimePersonVisor-visor = 拉斯比面罩
 
 # TODO[新增] 值
-marking-NeoSlimePersonLEDFace = Default Laspi LEDs
+marking-NeoSlimePersonLEDFace = 默认拉斯比LED表情
 
 # TODO[新增] 值
-marking-NeoSlimePersonLEDFace-face = Default Laspi LEDs
+marking-NeoSlimePersonLEDFace-face = 默认拉斯比LED表情
 
 # TODO[新增] 值
-marking-NeoSlimePersonLights = Circular LEDs
+marking-NeoSlimePersonLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoSlimePersonLights-body = Circular LEDs
+marking-NeoSlimePersonLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoSlimePersonMediumArmor = Standard Neocyte-Laspi Cybernetics
+marking-NeoSlimePersonMediumArmor = 标准新胞-拉斯比赛博改造
 
 # TODO[新增] 值
-marking-NeoSlimePersonMediumArmor-medium = Standard Neocyte-Laspi Cybernetics
+marking-NeoSlimePersonMediumArmor-medium = 标准新胞-拉斯比赛博改造
 
 # TODO[新增] 值
-marking-NeoKinVisor = Kin Visor
+marking-NeoKinVisor = 影裔面罩
 
 # TODO[新增] 值
-marking-NeoKinVisor-visor = Kin Visor
+marking-NeoKinVisor-visor = 影裔面罩
 
 # TODO[新增] 值
-marking-NeoKinLEDFace = Default Kin LEDs
+marking-NeoKinLEDFace = 默认影裔LED表情
 
 # TODO[新增] 值
-marking-NeoKinLEDFace-face = Default Kin LEDs
+marking-NeoKinLEDFace-face = 默认影裔LED表情
 
 # TODO[新增] 值
-marking-NeoKinLights = Circular LEDs
+marking-NeoKinLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoKinLights-body = Circular LEDs
+marking-NeoKinLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoKinMediumArmor = Standard Neocyte-Kin Cybernetics
+marking-NeoKinMediumArmor = 标准新胞-影裔赛博改造
 
 # TODO[新增] 值
-marking-NeoKinMediumArmor-medium = Standard Neocyte-Kin Cybernetics
+marking-NeoKinMediumArmor-medium = 标准新胞-影裔赛博改造
 
 # TODO[新增] 值
-marking-NeoResomiVisor = Resomi Visor
+marking-NeoResomiVisor = 雷索米面罩
 
 # TODO[新增] 值
-marking-NeoResomiVisor-visor = Resomi Visor
+marking-NeoResomiVisor-visor = 雷索米面罩
 
 # TODO[新增] 值
-marking-NeoResomiLEDFace = Default Resomi LEDs
+marking-NeoResomiLEDFace = 默认雷索米LED表情
 
 # TODO[新增] 值
-marking-NeoResomiLEDFace-face = Default Resomi LEDs
+marking-NeoResomiLEDFace-face = 默认雷索米LED表情
 
 # TODO[新增] 值
-marking-NeoResomiLights = Circular LEDs
+marking-NeoResomiLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoResomiLights-body = Circular LEDs
+marking-NeoResomiLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoResomiMediumArmor = Standard Neocyte-Resomi Cybernetics
+marking-NeoResomiMediumArmor = 标准新胞-雷索米赛博改造
 
 # TODO[新增] 值
-marking-NeoResomiMediumArmor-medium = Standard Neocyte-Resomi Cybernetics
+marking-NeoResomiMediumArmor-medium = 标准新胞-雷索米赛博改造
 
 # TODO[新增] 值
-marking-NeoReptilianLEDFaceBoxy = Default Reptile LEDs
+marking-NeoReptilianLEDFaceBoxy = 默认蜥蜴人LED表情
 
 # TODO[新增] 值
-marking-NeoReptilianLEDFaceBoxy-boxy = Default Reptile LEDs
+marking-NeoReptilianLEDFaceBoxy-boxy = 默认蜥蜴人LED表情
 
 # TODO[新增] 值
-marking-NeoReptilianClaws = Long Reptile Claws
+marking-NeoReptilianClaws = 蜥蜴人长爪
 
 # TODO[新增] 值
-marking-NeoReptilianClaws-claws = Long Reptile Claws
+marking-NeoReptilianClaws-claws = 蜥蜴人长爪
 
 # TODO[新增] 值
-marking-NeoReptilianMediumArmor = Standard Neocyte-Reptile Cybernetics
+marking-NeoReptilianMediumArmor = 标准新胞-蜥蜴人赛博改造
 
 # TODO[新增] 值
-marking-NeoReptilianMediumArmor-medium = Standard Neocyte-Reptile Cybernetics
+marking-NeoReptilianMediumArmor-medium = 标准新胞-蜥蜴人赛博改造
 
 # TODO[新增] 值
-marking-NeoMothVisor = Moth Visor
+marking-NeoMothVisor = 蛾人面罩
 
 # TODO[新增] 值
-marking-NeoMothVisor-visor = Moth Visor
+marking-NeoMothVisor-visor = 蛾人面罩
 
 # TODO[新增] 值
-marking-NeoMothLEDFace = Default Moth LEDs
+marking-NeoMothLEDFace = 默认蛾人LED表情
 
 # TODO[新增] 值
-marking-NeoMothLEDFace-face = Default Moth LEDs
+marking-NeoMothLEDFace-face = 默认蛾人LED表情
 
 # TODO[新增] 值
-marking-NeoMothLights = Circular LEDs
+marking-NeoMothLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoMothLights-body = Circular LEDs
+marking-NeoMothLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoMothClaws = Long Moth Claws
+marking-NeoMothClaws = 蛾人长爪
 
 # TODO[新增] 值
-marking-NeoMothClaws-claws = Long Moth Claws
+marking-NeoMothClaws-claws = 蛾人长爪
 
 # TODO[新增] 值
-marking-NeoMothMediumArmor = Standard Neocyte-Moth Cybernetics
+marking-NeoMothMediumArmor = 标准新胞-蛾人赛博改造
 
 # TODO[新增] 值
-marking-NeoMothMediumArmor-medium = Standard Neocyte-Moth Cybernetics
+marking-NeoMothMediumArmor-medium = 标准新胞-蛾人赛博改造
 
 # TODO[新增] 值
-marking-NeoFelionoidVisor = Felionoid Visor
+marking-NeoFelionoidVisor = 猫科人面罩
 
 # TODO[新增] 值
-marking-NeoFelionoidVisor-visor = Felionoid Visor
+marking-NeoFelionoidVisor-visor = 猫科人面罩
 
 # TODO[新增] 值
-marking-NeoFelionoidLEDFace = Default Felionoid LEDs
+marking-NeoFelionoidLEDFace = 默认猫科人LED表情
 
 # TODO[新增] 值
-marking-NeoFelionoidLEDFace-face = Default Felionoid LEDs
+marking-NeoFelionoidLEDFace-face = 默认猫科人LED表情
 
 # TODO[新增] 值
-marking-NeoFelionoidLights = Circular LEDs
+marking-NeoFelionoidLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoFelionoidLights-body = Circular LEDs
+marking-NeoFelionoidLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoFelionoidClaws = Long Felionoid Claws
+marking-NeoFelionoidClaws = 猫科人长爪
 
 # TODO[新增] 值
-marking-NeoFelionoidClaws-claws = Long Felionoid Claws
+marking-NeoFelionoidClaws-claws = 猫科人长爪
 
 # TODO[新增] 值
-marking-NeoFelionoidMediumArmor = Standard Neocyte-Felionoid Cybernetics
+marking-NeoFelionoidMediumArmor = 标准新胞-猫科人赛博改造
 
 # TODO[新增] 值
-marking-NeoFelionoidMediumArmor-medium = Standard Neocyte-Felionoid Cybernetics
+marking-NeoFelionoidMediumArmor-medium = 标准新胞-猫科人赛博改造
 
 # TODO[新增] 值
-marking-NeoDionaVisor = Diona Visor
+marking-NeoDionaVisor = 狄奥娜面罩
 
 # TODO[新增] 值
-marking-NeoDionaVisor-visor = Diona Visor
+marking-NeoDionaVisor-visor = 狄奥娜面罩
 
 # TODO[新增] 值
-marking-NeoDionaLEDFace = Default Diona LEDs
+marking-NeoDionaLEDFace = 默认狄奥娜LED表情
 
 # TODO[新增] 值
-marking-NeoDionaLEDFace-face = Default Diona LEDs
+marking-NeoDionaLEDFace-face = 默认狄奥娜LED表情
 
 # TODO[新增] 值
-marking-NeoDionaLights = Circular LEDs
+marking-NeoDionaLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoDionaLights-body = Circular LEDs
+marking-NeoDionaLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoDionaVines = Long Diona Vines
+marking-NeoDionaVines = 狄奥娜长藤蔓
 
 # TODO[新增] 值
-marking-NeoDionaVines-vines = Long Diona Vines
+marking-NeoDionaVines-vines = 狄奥娜长藤蔓
 
 # TODO[新增] 值
-marking-NeoDionaMediumArmor = Standard Neocyte-Diona Cybernetics
+marking-NeoDionaMediumArmor = 标准新胞-狄奥娜赛博改造
 
 # TODO[新增] 值
-marking-NeoDionaMediumArmor-medium = Standard Neocyte-Diona Cybernetics
+marking-NeoDionaMediumArmor-medium = 标准新胞-狄奥娜赛博改造
 
 # TODO[新增] 值
-marking-NeoCycloriteVisor = Cyclorite Visor
+marking-NeoCycloriteVisor = 塞克洛莱特面罩
 
 # TODO[新增] 值
-marking-NeoCycloriteVisor-visor = Cyclorite Visor
+marking-NeoCycloriteVisor-visor = 塞克洛莱特面罩
 
 # TODO[新增] 值
-marking-NeoCycloriteLEDFace = Default Cyclorite LEDs
+marking-NeoCycloriteLEDFace = 默认塞克洛莱特LED表情
 
 # TODO[新增] 值
-marking-NeoCycloriteLEDFace-face = Default Cyclorite LEDs
+marking-NeoCycloriteLEDFace-face = 默认塞克洛莱特LED表情
 
 # TODO[新增] 值
-marking-NeoCycloriteLights = Circular LEDs
+marking-NeoCycloriteLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoCycloriteLights-body = Circular LEDs
+marking-NeoCycloriteLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoCycloriteMediumArmor = Standard Neocyte-Cyclorite Cybernetics
+marking-NeoCycloriteMediumArmor = 标准新胞-塞克洛莱特赛博改造
 
 # TODO[新增] 值
-marking-NeoCycloriteMediumArmor-medium = Standard Neocyte-Cyclorite Cybernetics
+marking-NeoCycloriteMediumArmor-medium = 标准新胞-塞克洛莱特赛博改造
 
 # TODO[新增] 值
-marking-NeoAvaliVisor = Avali Visor
+marking-NeoAvaliVisor = 阿瓦利面罩
 
 # TODO[新增] 值
-marking-NeoAvaliVisor-visor = Avali Visor
+marking-NeoAvaliVisor-visor = 阿瓦利面罩
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFace = Default Avali LEDs
+marking-NeoAvaliLEDFace = 默认阿瓦利LED表情
 
 # TODO[新增] 值
-marking-NeoAvaliLEDFace-face = Default Avali LEDs
+marking-NeoAvaliLEDFace-face = 默认阿瓦利LED表情
 
 # TODO[新增] 值
-marking-NeoAvaliLights = Circular LEDs
+marking-NeoAvaliLights = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoAvaliLights-body = Circular LEDs
+marking-NeoAvaliLights-body = 环形LED灯
 
 # TODO[新增] 值
-marking-NeoAvaliWings = Hardlight Avali Wings
+marking-NeoAvaliWings = 硬光阿瓦利翅膀
 
 # TODO[新增] 值
-marking-NeoAvaliWings-wings = Hardlight Avali Wings
+marking-NeoAvaliWings-wings = 硬光阿瓦利翅膀
 
 # TODO[新增] 值
-marking-NeoAvaliMediumArmor = Standard Neocyte-Avali Cybernetics
+marking-NeoAvaliMediumArmor = 标准新胞-阿瓦利赛博改造
 
 # TODO[新增] 值
-marking-NeoAvaliMediumArmor-medium = Standard Neocyte-Avali Cybernetics
+marking-NeoAvaliMediumArmor-medium = 标准新胞-阿瓦利赛博改造
 
 # TODO[新增] 值
-marking-NeoArachnidVisor = Arachnid Visor
+marking-NeoArachnidVisor = 蛛人面罩
 
 # TODO[新增] 值
-marking-NeoArachnidVisor-visor = Arachnid Visor
+marking-NeoArachnidVisor-visor = 蛛人面罩
 
 # TODO[新增] 值
-marking-NeoArachnidLEDFace = Default Arachnid LEDs
+marking-NeoArachnidLEDFace = 默认蛛人LED表情
 
 # TODO[新增] 值
-marking-NeoArachnidLEDFace-face = Default Arachnid LEDs
+marking-NeoArachnidLEDFace-face = 默认蛛人LED表情
 
 # TODO[新增] 值
-marking-NeoLagomorphVisor = Lagomorph Visor
+marking-NeoLagomorphVisor = 兔形人面罩
 
 # TODO[新增] 值
-marking-NeoLagomorphVisor-visor = Lagomorph Visor
+marking-NeoLagomorphVisor-visor = 兔形人面罩
 
 # TODO[新增] 值
-marking-NeoLagomorphLEDFace = Default Lagomorph LEDs
+marking-NeoLagomorphLEDFace = 默认兔形人LED表情
 
 # TODO[新增] 值
-marking-NeoLagomorphLEDFace-face = Default Lagomorph LEDs
+marking-NeoLagomorphLEDFace-face = 默认兔形人LED表情

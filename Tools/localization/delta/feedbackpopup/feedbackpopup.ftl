@@ -1,32 +1,29 @@
 # TODO[新增] 值
-feedbackpopup-window-name = Request for feedback
+feedbackpopup-window-name = 反馈请求
 
 # TODO[新增] 值
-feedbackpopup-control-button-text = Open Link
+feedbackpopup-control-button-text = 打开链接
 
 # TODO[新增] 值
-feedbackpopup-control-total-surveys = {$num ->
-    [one] {$num} entry
-   *[other] {$num} entries
-}
+feedbackpopup-control-total-surveys = {$num} 条反馈
 
 # TODO[新增] 值
-feedbackpopup-control-no-entries= No entries
+feedbackpopup-control-no-entries= 暂无反馈
 
 # TODO[新增] 值
-feedbackpopup-control-ui-footer = Let us know what you think!
+feedbackpopup-control-ui-footer = 告诉我们你的想法！
 
 # TODO[新增] 值
-command-description-openfeedbackpopup = Opens the feedback popup window.
+command-description-openfeedbackpopup = 打开反馈弹窗。
 
 # TODO[新增] 值
-command-description-feedback-show = Opens the feedback popup window for the given sessions.
+command-description-feedback-show = 为指定会话打开反馈弹窗。
 
 # TODO[新增] 值
-command-description-feedback-add = Adds a feedback popup prototype to the given clients and opens the popup window if the client didn't already have the prototype listed.
+command-description-feedback-add = 为指定客户端添加反馈弹窗原型；如果客户端尚未列出该原型，则同时打开弹窗。
 
 # TODO[新增] 值
-command-description-feedback-remove = Removes a feedback popup prototype from the given clients.
+command-description-feedback-remove = 从指定客户端移除反馈弹窗原型。
 
 # TODO[新增] 值
 feedbackpopup-give-command-name = givefeedbackpopup
@@ -35,25 +32,25 @@ feedbackpopup-give-command-name = givefeedbackpopup
 feedbackpopup-show-command-name = showfeedbackpopup
 
 # TODO[新增] 值
-cmd-givefeedbackpopup-desc = Gives the targeted player a feedback popup.
+cmd-givefeedbackpopup-desc = 向目标玩家发送反馈弹窗。
 
 # TODO[新增] 值
-cmd-givefeedbackpopup-help = Usage: givefeedbackpopup <playerUid> <prototypeId>
+cmd-givefeedbackpopup-help = 用法：givefeedbackpopup <playerUid> <prototypeId>
 
 # TODO[新增] 值
-cmd-showfeedbackpopup-desc = Open the feedback popup window.
+cmd-showfeedbackpopup-desc = 打开反馈弹窗。
 
 # TODO[新增] 值
-cmd-showfeedbackpopup-help = Usage: showfeedbackpopup
+cmd-showfeedbackpopup-help = 用法：showfeedbackpopup
 
 # TODO[新增] 值
-feedbackpopup-command-error-invalid-proto = Invalid feedback popup prototype.
+feedbackpopup-command-error-invalid-proto = 无效的反馈弹窗原型。
 
 # TODO[新增] 值
-feedbackpopup-command-error-popup-send-fail = Failed to send popup! There probably isn't a mind attached to the given entity.
+feedbackpopup-command-error-popup-send-fail = 弹窗发送失败！指定实体可能没有附着意识。
 
 # TODO[新增] 值
-feedbackpopup-command-success = Sent popup!
+feedbackpopup-command-success = 弹窗已发送！
 
 # TODO[新增] 值
 feedbackpopup-command-hint-playerUid = <playerUid>

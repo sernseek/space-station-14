@@ -1,23 +1,23 @@
 # TODO[新增] 值
-tiles-carpet-art-floor = artsy carpet
+tiles-carpet-art-floor = 艺术地毯
 
 # TODO[新增] 值
-tiles-mowed-dark-astro-grass = mowed dark astro-grass
+tiles-mowed-dark-astro-grass = 修剪过的深色太空草
 
 # TODO[新增] 值
-tiles-mowed-light-astro-grass = mowed light astro-grass
+tiles-mowed-light-astro-grass = 修剪过的浅色太空草
 
 # TODO[新增] 值
-tiles-mowed-jungle-astro-grass = mowed jungle astro-grass
+tiles-mowed-jungle-astro-grass = 修剪过的丛林太空草
 
 # TODO[新增] 值
-tiles-grass-classic-planet-floor = classic grass planet
+tiles-grass-classic-planet-floor = 经典草地行星
 
 # TODO[新增] 值
-tiles-planet-grass-classic-floor-mowed = mowed classic astro-grass
+tiles-planet-grass-classic-floor-mowed = 修剪过的经典太空草
 
 # TODO[新增] 值
-tiles-planet-grass-classic-floor = classic astro-grass
+tiles-planet-grass-classic-floor = 经典太空草
 
 # TODO[新增] 值
-tiles-astro-grass-classic = classic astro-grass
+tiles-astro-grass-classic = 经典太空草

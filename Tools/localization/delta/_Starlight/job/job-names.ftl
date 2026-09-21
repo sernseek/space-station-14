@@ -1,44 +1,44 @@
 # TODO[新增] 值
-job-name-stirstir = Stir Stir
+job-name-stirstir = 斯提斯提
 
 # TODO[新增] 值
-job-name-cook-assistant = Cook Assistant
+job-name-cook-assistant = 帮厨
 
 # TODO[新增] 值
-job-name-delivery-assistant = Delivery Boy
+job-name-delivery-assistant = 送货员
 
 # TODO[新增] 值
-job-name-handyman-assistant = Handyman Assistant
+job-name-handyman-assistant = 杂工助理
 
 # TODO[新增] 值
-job-name-religious-assistant = Religious Assistant
+job-name-religious-assistant = 宗教助理
 
 # TODO[新增] 值
-job-name-shopkeeper-assistant = Shopkeeper
+job-name-shopkeeper-assistant = 店员
 
 # TODO[新增] 值
-job-name-medical-assistant = Medical Assistant
+job-name-medical-assistant = 医疗助理
 
 # TODO[新增] 值
-job-name-gardener-assistant = Gardener Assistant
+job-name-gardener-assistant = 园艺助理
 
 # TODO[新增] 值
-job-name-clerical-assistant = Clerical Assistant
+job-name-clerical-assistant = 文书助理
 
 # TODO[新增] 值
-job-name-janitor-assistant = Janitor Assistant
+job-name-janitor-assistant = 清洁助理
 
 # TODO[新增] 值
-JobK9 = Security K9
+JobK9 = 安保警犬
 
 # TODO[新增] 值
-JobCentCommServiceWorker = CentComm Service Worker
+JobCentCommServiceWorker = 中央指挥部服务人员
 
 # TODO[新增] 值
-JobCentCommChef = CentComm Chef
+JobCentCommChef = 中央指挥部厨师
 
 # TODO[新增] 值
-JobCentCommBartender = CentComm Bartender
+JobCentCommBartender = 中央指挥部酒保
 
 # TODO[新增] 值
-JobCentCommJanitor = CentComm Janitor
+JobCentCommJanitor = 中央指挥部清洁工

@@ -1,71 +1,71 @@
 # TODO[新增] 值
-artifact-trigger-hint-vodka = Reaction with potato based alcohol
+artifact-trigger-hint-vodka = 与薯类酿造的酒精发生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-milk = Reaction with dairy
+artifact-trigger-hint-milk = 与乳制品发生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-bleach = Reaction with disinfectant
+artifact-trigger-hint-bleach = 与消毒剂发生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-silicon = Reaction with silicon
+artifact-trigger-hint-silicon = 与硅发生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-unstable-mutagen = Reaction with unstable biological liquids
+artifact-trigger-hint-unstable-mutagen = 与不稳定的生物液体发生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-coffee = Reaction to liquid energy
+artifact-trigger-hint-coffee = 对液态能量产生反应
 
 # TODO[新增] 值
-artifact-trigger-copper = Reaction to cupric liquid
+artifact-trigger-copper = 对含铜液体产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-lube = Reaction to lubricant
+artifact-trigger-hint-lube = 对润滑剂产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-lsd = Reaction to psychedelics
+artifact-trigger-hint-lsd = 对致幻剂产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-egg = Reaction to liquid, unborn life from a hard shell
+artifact-trigger-hint-egg = 对硬壳中液态的未孵生命产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-match = Reaction to phosphorus
+artifact-trigger-hint-match = 对磷产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-citrus = Reaction to citrus
+artifact-trigger-hint-citrus = 对柑橘产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-wine = Reaction to fermented grapes
+artifact-trigger-hint-wine = 对发酵葡萄产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-beer = Reaction to fermented hops
+artifact-trigger-hint-beer = 对发酵啤酒花产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-geiger = Reaction to radiologically sensitive materials
+artifact-trigger-hint-geiger = 对辐射敏感材料产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-radio = Reaction to radio transmissions
+artifact-trigger-hint-radio = 对无线电传输产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-flash-immunity = Reaction to light resistant materials
+artifact-trigger-hint-flash-immunity = 对耐光材料产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-tech-disc = Reaction to floppy storage
+artifact-trigger-hint-tech-disc = 对软盘存储产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-paper = Reaction to pulped fibers
+artifact-trigger-hint-paper = 对纸浆纤维产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-battery = Reaction to power storage medium
+artifact-trigger-hint-battery = 对电力存储介质产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-anom-scanner = Reaction to anomalous research equipment
+artifact-trigger-hint-anom-scanner = 对异常研究设备产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-light-bulb = Reaction to fluorescent materials
+artifact-trigger-hint-light-bulb = 对荧光材料产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-pai = Reaction to compact artificial life
+artifact-trigger-hint-pai = 对紧凑型人工生命产生反应
 
 # TODO[新增] 值
-artifact-trigger-hint-dice = Reaction to random chance
+artifact-trigger-hint-dice = 对随机概率产生反应

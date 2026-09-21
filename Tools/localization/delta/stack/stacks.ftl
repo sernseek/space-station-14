@@ -1,26 +1,26 @@
 # TODO[新增] 值
-stack-dark-steel-horizontal-slats-tile-bordered = dark steel bordered horizontal slat tile
+stack-dark-steel-horizontal-slats-tile-bordered = 黑钢包边横条地砖
 
 # TODO[新增] 值
-stack-dark-steel-vertical-slats-tile-bordered = dark steel bordered vertical slat tile
+stack-dark-steel-vertical-slats-tile-bordered = 黑钢包边竖条地砖
 
 # TODO[新增] 值
-stack-dark-steel-slats-tile-continuous = dark steel continuous slat tile
+stack-dark-steel-slats-tile-continuous = 黑钢连续条地砖
 
 # TODO[新增] 值
-stack-steel-horizontal-slats-tile-bordered = steel bordered horizontal slat tile
+stack-steel-horizontal-slats-tile-bordered = 钢材包边横条地砖
 
 # TODO[新增] 值
-stack-steel-vertical-slats-tile-bordered = steel bordered vertical slat tile
+stack-steel-vertical-slats-tile-bordered = 钢材包边竖条地砖
 
 # TODO[新增] 值
-stack-steel-slats-tile-continuous = steel continuous slat tile
+stack-steel-slats-tile-continuous = 钢材连续条地砖
 
 # TODO[新增] 值
-stack-white-steel-horizontal-slats-tile-bordered = white steel bordered horizontal slat tile
+stack-white-steel-horizontal-slats-tile-bordered = 白钢包边横条地砖
 
 # TODO[新增] 值
-stack-white-steel-vertical-slats-tile-bordered = white steel bordered vertical slat tile
+stack-white-steel-vertical-slats-tile-bordered = 白钢包边竖条地砖
 
 # TODO[新增] 值
-stack-white-steel-slats-tile-continuous = white steel continuous slat tile
+stack-white-steel-slats-tile-continuous = 白钢连续条地砖

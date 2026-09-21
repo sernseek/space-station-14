@@ -1,14 +1,14 @@
 # TODO[新增] 值
-ui-options-particles-label = Particle Quality:
+ui-options-particles-label = 粒子质量：
 
 # TODO[新增] 值
-ui-options-particles-off = Off
+ui-options-particles-off = 关闭
 
 # TODO[新增] 值
-ui-options-particles-low = Low
+ui-options-particles-low = 低
 
 # TODO[新增] 值
-ui-options-particles-medium = Medium
+ui-options-particles-medium = 中
 
 # TODO[新增] 值
-ui-options-particles-high = High
+ui-options-particles-high = 高

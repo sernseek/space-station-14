@@ -1,20 +1,20 @@
 # TODO[新增] 值
-wall-stain-cleaning-start = You start cleaning the stain with all your might...
+wall-stain-cleaning-start = 你开始使出浑身力气擦洗污渍……
 
 # TODO[新增] 值
-wall-stain-cleaning-success = You manage to clean the stain off.
+wall-stain-cleaning-success = 你成功把污渍擦掉了。
 
 # TODO[新增] 值
-wall-stain-cleaning-dry-rag = The rag is too dry! Wet it first.
+wall-stain-cleaning-dry-rag = 抹布太干了！先把它弄湿。
 
 # TODO[新增] 值
-wall-stain-pour-start = You start carefully pouring the contents of {THE($container)} onto the wall...
+wall-stain-pour-start = 你开始小心地把{THE($container)}里的东西倒在墙上……
 
 # TODO[新增] 值
-wall-stain-pour-water-blocked = You can't pour water on the wall.
+wall-stain-pour-water-blocked = 你不能把水倒在墙上。
 
 # TODO[新增] 值
-wall-stain-pour-success = You pour the contents of {THE($container)} onto the wall.
+wall-stain-pour-success = 你把{THE($container)}里的东西倒在了墙上。
 
 # TODO[新增] 值
-wall-stain-pour-full = The wall is too soaked to hold any more liquid.
+wall-stain-pour-full = 这面墙已经湿透了，再也挂不住更多液体了。

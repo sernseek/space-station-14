@@ -1,31 +1,31 @@
 # TODO[新增] 值
 command-description-role-setjob =
-    Changes the job of the piped entity.
+    修改管道传入实体的职位。
 
 # TODO[新增] 值
 command-description-role-rmjob =
-    Removes job from the piped entity if they have one.
+    移除管道传入实体的职位（如果其有职位）。
 
 # TODO[新增] 值
 command-description-role-rmsetjob =
-    Changes the job of the piped entity by deleting then setting the job, so that the briefing plays.
+    通过先删除再设置的方式修改管道传入实体的职位，以便播放入职简报。
 
 # TODO[新增] 值
 command-description-role-dobriefing =
-    Force the role briefing to play again for the piped entity.
+    强制为管道传入的实体重新播放角色简报。
 
 # TODO[新增] 值
 command-description-role-setroletype =
-    Set's the primary role type for the mind of the piped entity.
+    设置管道传入实体心智的主角色类型。
 
 # TODO[新增] 值
 command-description-role-addrole =
-    Add a role to the mind of the piped entity unless it exists already.
+    为管道传入实体的心智添加一个角色（若尚不存在）。
 
 # TODO[新增] 值
 command-description-role-rmrole =
-    Remove a role from the mind of the piped entity.
+    从管道传入实体的心智中移除一个角色。
 
 # TODO[新增] 值
 command-description-role-doroleupdate =
-    Force the role type update message to play again for the piped entity.
+    强制为管道传入的实体重新播放角色类型更新消息。

@@ -1,16 +1,16 @@
 # TODO[新增] 值
 show-access-examined =
-    Has the following accesses:
+    拥有以下权限：
     {$groups}
 
 # TODO[新增] 值
-show-access-examined-group = [bullet]{$group}: {$accesses}[/bullet]
+show-access-examined-group = [bullet]{$group}：{$accesses}[/bullet]
 
 # TODO[新增] 值
 show-access-examined-access = [color=#ffff00]{$access}[/color]
 
 # TODO[新增] 值
-show-access-verb-text = Access
+show-access-verb-text = 权限
 
 # TODO[新增] 值
-show-access-verb-message = View accesses
+show-access-verb-message = 查看权限

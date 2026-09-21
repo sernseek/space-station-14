@@ -1,59 +1,59 @@
 # TODO[新增] 值
-nano-chat-create-group = Create Group Chat
+nano-chat-create-group = 创建群聊
 
 # TODO[新增] 值
-nano-chat-invite-to-group = Invite to Group
+nano-chat-invite-to-group = 邀请入群
 
 # TODO[新增] 值
-nano-chat-view-members = View Members
+nano-chat-view-members = 查看成员
 
 # TODO[新增] 值
-nano-chat-invite = Invite
+nano-chat-invite = 邀请
 
 # TODO[新增] 值
-nano-chat-kick = Kick
+nano-chat-kick = 移出
 
 # TODO[新增] 值
-nano-chat-leave = Leave
+nano-chat-leave = 退出
 
 # TODO[新增] 值
-nano-chat-admin = Make Admin
+nano-chat-admin = 设为管理员
 
 # TODO[新增] 值
-nano-chat-deadmin = Remove Admin
+nano-chat-deadmin = 取消管理员
 
 # TODO[新增] 值
-nano-chat-no-results = No results found
+nano-chat-no-results = 没有找到结果
 
 # TODO[新增] 值
-nano-chat-no-members = No members
+nano-chat-no-members = 没有成员
 
 # TODO[新增] 值
-nano-chat-close = Close
+nano-chat-close = 关闭
 
 # TODO[新增] 值
-nano-chat-create-group-title = Create Group Chat
+nano-chat-create-group-title = 创建群聊
 
 # TODO[新增] 值
-nano-chat-group-name-label = Group Name
+nano-chat-group-name-label = 群名称
 
 # TODO[新增] 值
-nano-chat-group-name-placeholder = Enter a group name
+nano-chat-group-name-placeholder = 输入群名称
 
 # TODO[新增] 值
-nano-chat-invite-to-group-title = Invite to Group
+nano-chat-invite-to-group-title = 邀请入群
 
 # TODO[新增] 值
-nano-chat-search-label = Search
+nano-chat-search-label = 搜索
 
 # TODO[新增] 值
-nano-chat-search-placeholder = Search by name or number...
+nano-chat-search-placeholder = 按姓名或编号搜索……
 
 # TODO[新增] 值
-nano-chat-group-members-title = Group Members
+nano-chat-group-members-title = 群成员
 
 # TODO[新增] 值
-nano-chat-owner-suffix = (Owner)
+nano-chat-owner-suffix = （群主）
 
 # TODO[新增] 值
-nano-chat-admin-suffix = (Admin)
+nano-chat-admin-suffix = （管理员）

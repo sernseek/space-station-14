@@ -1,190 +1,187 @@
 # TODO[新增] 值
-book-capns-scruples = There were me a rotten ferry cap'n of not too much acclaim.
-        Me sloop scarcely able to go from astroid to planet and back home again.
+book-capns-scruples = 俺曾是个没啥名气的破渡船船长。
+        俺的小帆船勉强能从一颗小行星飞到另一颗行星再飞回家。
 
 # TODO[新增] 值
-book-last-cow = The constant low thrum of the life-support fans hummed through the metal bones of Orbital Ranch Theta-9, a lonely little speck drifting in the icy shadow of Jupiter’s moons. It was the year 2652, and Bill Voss had spent four long, quiet years out here as the sole caretaker of Nanotrasen’s priceless pureblood Earth livestock. The warm, earthy smell of hay and manure always mixed with that sharp metallic bite of recycled air that coated his tongue like old pennies. Every morning he’d wake to the soft lowing of the cattle rolling through the grav-sim barn, the gentle clucking of the hens, and the faint rustle of sheep wool brushing against the stall walls. It was lonely work, sure, but those familiar scents and sounds kept the endless black void from pressing in too hard.
+book-last-cow = 生命维持风扇持续低沉的嗡鸣，在轨道牧场西塔-9的金属骨架间回荡——那是漂浮在木星卫星冰冷阴影中的一粒孤独尘埃。那是2652年，比尔·沃斯已经在这里度过了漫长而安静的四年，作为纳米传讯无价的纯血地球牲畜的唯一看护人。干草和粪便温暖的泥土气息，总是与循环空气那种锐利的金属味混在一起，像旧硬币一样覆在他的舌头上。每天清晨，他都在牛群穿过重力模拟谷仓的低沉哞叫、母鸡轻柔的咯咯声，以及羊毛蹭过畜栏墙壁的细微沙沙声中醒来。这活儿确实孤独，但那些熟悉的气味和声响，让无尽的黑虚空不至于……
 
 # TODO[新增] 值
-book-through-the-glass = The pounding on the windows stopped hours ago.
-         Are they tired, or paused on a slower cruelty?
-         Their bloodshot eyes still hunt me through the glass, but they do not break for now they wait, heavy as a storm closely approaching.
-         I'm cursed to be stuck in the lawyer's office: no defense here but pens, loose paper and varnished wood.
-         No nourishment to feed my body.
-         No arms to defend my soul.
-         I pray the clock will bend in my favour.
-         Worse than the wounds are the familiar faces drifting in the halls, once friends, now gargling witnesses to our collapse, trailing their rot and their blood like a mark on the grey floors.
-         Even the AI has gone silent on the Holopad; through their staggered legs I think they smashed it.
-         The maintenance door won't open: no tools, no ID, just a locked promise.
-         Maybe that's luck, perhaps some of them roam behind it.
-         Sometimes the lights stutter, maybe someone in Engineering keeps the station alive, but that hope is as fragile as the coils that feed the light
-         They track every move I make.
-         They know I'm here.
-         Why don't they batter the glass again?
-         Why only that steady gaze?
-         Why do they seem to enjoy watching me suffer?
-         Perhaps it’s fate, for I didn't defend the ones I was supposed to save.
-         Souls to be left unchecked in those metal halls, just because I was a fool.
-         Their silence is maybe a price I have to pay, for my sake.
-         What is the price for a coward, but to watch their failure for eternity ?
-         An eternal public to watch their prey fall to their own demise.
-         May space and stars see the errors of my past, so the future can rise from my carcass.
-         I just wish I could save more of them.
-         Innocents lost because of a man's greed.
-         As my bones will start modeling my skin around them.
-         In my last hours, I wish, there was not a barrier of glass between me and this hell.
-         A wish to join the ones that fall behind me.
-         A final rest before my imminent fate.
-         Maybe I was too foolish to see the evidence, that I was the one to give myself out to Them.
-         Eyes upon my soul, my body will be craved for eternity but my judgement is this eternal box of steel.
-         As I take my final drink and take one last bite, I am now ready to open the way one last time.
-         For them to feed on my sinner’s body.
+book-through-the-glass = 敲窗声几小时前就停了。
+         它们是累了，还是在酝酿一场更缓慢的残忍？
+         它们血红的眼睛仍隔着玻璃搜寻我，但暂时不砸碎了——它们在等待，沉重得如同逼近的风暴。
+         我受诅困在这间律师办公室里：这里没有防御，只有笔、散纸和上漆的木头。
+         没有食物喂养我的身体。
+         没有武器保卫我的灵魂。
+         我祈祷时钟能为我而弯曲。
+         比伤口更糟的，是走廊里游荡的熟悉面孔——昔日的朋友，如今成了喉咙作响的见证者，见证着我们的崩塌，拖着腐坏与血迹，像印记一样留在灰色地板上。
+         连AI也在全息板上沉默了；透过它们交错的腿脚，我想它们把它砸了。
+         维护通道的门打不开：没有工具，没有ID，只有一个上了锁的承诺。
+         也许这是运气，也许有些家伙就在门后游荡。
+         有时灯光闪烁不定，也许工程部里还有人让空间站活着，但那希望脆弱得如同为灯光供电的线圈。
+         它们追踪着我的一举一动。
+         它们知道我在这里。
+         它们为什么不再砸玻璃了？
+         为什么只有那道平稳的凝视？
+         为什么它们似乎很享受看我受苦？
+         也许这就是命运，因为我没能保护那些本该被我拯救的人。
+         那些灵魂留在金属走廊里无人照看，只因为我是个蠢货。
+         它们的沉默，也许是我必须付出的代价，为了我自己。
+         懦夫的代价是什么，不就是永恒地注视自己的失败吗？
+         一场永恒的公开处刑，看着猎物落入自己的死局。
+         愿太空与群星看见我过往的过错，愿未来能从我的尸骸中升起。
+         我只希望自己能多救下一些人。
+         无辜者因一个人的贪婪而逝去。
+         我的骨骼将开始在我的皮肤周围重新塑形。
+         在最后的时刻里，我祈愿，我与这地狱之间没有那道玻璃屏障。
+         祈愿能加入那些倒在我身后的人。
+         在迫近的命运之前，获得最后的安息。
+         也许我太愚蠢，看不见证据——是我自己把自己献给了它们。
+         双眼注视着我的灵魂，我的躯体将被渴求至永恒，而我的审判就是这只永恒的钢铁之匣。
+         当我饮尽最后一杯、咬下最后一口，我已准备好最后一次打开那条通路。
+         让它们以我这罪人之躯为食。
 
 # TODO[新增] 值
-book-caves-of-urania = The horrible conclusion long over due, finally settled over my confused mind and despite my initial reluctance, suddenly became an awful certainty. I was lost. Completely, and hopelessly lost in the vast labyrinthine recesses of the caves of Urania-9775. No path yielded familiarity, no landmark offered guidance. The thought of never again seeing the blessed light of day, or feeling anything beneath my feet besides the icy unfeeling cavern rocks had fueled my disbelief up until this point. But now, hope had departed.
+book-caves-of-urania = 那个拖延已久的可怕结论，终于落进我混乱的脑海，尽管起初抗拒，它却突然变成了可怖的确定：我迷路了。彻底、无望地迷失在乌拉尼亚-9775洞窟那庞大迷宫般的深处。没有一条路显出熟悉，没有一处地标提供指引。曾支撑着我的怀疑的，是再也见不到天赐日光、脚下除了冰冷无情的洞岩再无他物的念头。但现在，希望已经离去。
 
 # TODO[新增] 值
-book-chuckles = The stale burn of cheap tobacco mixed with too-pure air hits the back of Jo’s palate as she puffs on her cigarette. No one came down to this hall unless they needed a break from station goings-on. No noise — except the lights and fans — and no smells — except your own tobacco, or the occasional hydro-grown spliff. A girl could relax here, especially after a grueling lunch shift working the small mess hall alone. And relaxing she was, until the grating squeak of floppy red shoes dragged her back to fluorescent presence.
+book-chuckles = 廉价烟草的陈腐呛味混着过于纯净的空气，在乔吞吐香烟时撞上她的上颚。没人会下到这条走廊，除非他们想躲开空间站里的纷纷扰扰。没有噪音——除了灯和风扇——也没有气味——除了你自己的烟草，或偶尔一支水培种植的大麻卷。一个女孩可以在这里放松，尤其是在独自忙完小食堂一顿累人的午餐班次之后。她也确实在放松，直到那双松垮红鞋刺耳的吱呀声，把她拽回了荧光灯下的现实。
 
 # TODO[新增] 值
-book-corridor-nine = There was something off with Corridor Nine. The central eight corridors were where all
-        foot-traffic went throughout Quincy Port, a small little midway stop between somewhere and
-        nowhere on the far reaches of frontier space. Consulting the electronic maps, you'd never even
-        find a "Corridor Nine", unless you personally crawled around the old maintenance halls and
-        stumbled into it. And the only one unfortunate enough to do that, was the janitor - one Samuel
-        Wagner.
-        "Just swab the damn place up and patch the holes!" The Portmaster had cried, sending Sam
-        down into the hissing, twisting tunnels of the maintenance system. He had stalked the walkways
-        here many times, even fought off a mutant rat or two - he considered himself a veteran of such
-        conflicts after working here for the past three months. He'd been burned by steam valves,
-        accidentally launched into space, infected by an alien virus - but the only thing he was really
-        scared of, was the glow beneath the airlock in Corridor Nine.
-        He'd seen it many times, an old hallway that was some relic of forgotten construction.
-        Nowadays Quincy Port was nothing more than a pitstop where grubby old captains could rest
-        and drink along with their hauler crews. Or for beltminers to come get plastered and fight each
-        other for no good reason. Sam appreciated the silence of the maintenance halls, and not having
-        to deal with their "esteemed" clientele. He felt sick having to clean up the messes of those
-        bastards, breaking lights and enjoying themselves into vomit-comas. But when he passed that
-        door in Corridor Nine, he almost missed their company.
-        It was at the end of a long tight shaft with busted walls and heavy wires covered with a metal
-        catwalk. No matter who he asked, no one remembered what was on the other side of the door,
-        and the only engineer never had the time to see - always too busy repairing incoming ships. It
-        didn't matter to him much. He was fine to leave things as is. Sam wasn't a particularly curious
-        man, not curious enough to take risks in the maintenance halls, that's for sure. But it all reached
-        a boiling point the day he saw the light under the door.
-        It was an eerie pale green thing, just barely poking out from the rotting airseal. Despite all he'd
-        experienced, there was something about that flickering, waning light that sent him running back
-        into the main lobby and to the Portmasters desk. It was only Sam's truly bizarre countenance
-        that piqued the interest of the Portmaster and a Deck Officer, who followed him down that
-        winding industrial cavern to Corridor Nine. They cut his pay in half for a whole week when they
-        didn't find anything - no light in the hallway, and no eerie feeling.
-        He got rest, checked out by the old shrink at the port - and the next day was back in the tunnels.
-        And there, as if it were laughing at him, the light under the door was back. Throughout all the
-        next month, he couldn't catch an inch of sleep. There was something about that pale glowing
-        light that made him uneasy and rattled. The doctor said it might be the fumes, and
-        recommended he stay out of maintenance for a while, but Sam knew better. It was mocking him.
-        He told the doc that he couldn't sleep - but that was a lie. It was simply that he was afraid of
-        sleeping - for the light would always worm its way in, and give him the strangest dreams. He'd
-        taken to chugging coffees and taking any pills that the wandering cargo haulers happened to be
-        selling - especially after the station doc refused to give him any more.
-        Finally, he had enough. One night when the deck officers were drunk, he took a pistol off their
-        gambling table, and stole some old ship-cracker gear from the engineer's bay. He swore to
-        himself, he was getting through that door.
-        There Sam stood, at Corridor Nine. Before him, the door - and the hideous green glow. He went
-        to work at once, and ripped apart the rusted airlock, and raised the gun as he entered, his eyes
-        wild and hair a frayed mess.
-        When the deck officers heard gunfire, and reported a pistol stolen, Quincy Port was on high
-        alert. They'd had many a gunfight before between sailors, and it was never good for business.
-        They traced the sound down to old Corridor Nine, and found a busted airlock at the end of the
-        hall cracked wide open.
-        Inside they found bullets piercing through every wall of the old maintenance closet - stacks of
-        dusty cardboard boxes now littered with nine millimeter holes. It was filled with toiletries,
-        cleaning equipment, and some crusty administrative documents all on metal wire shelves. But
-        what caught them more by surprise was the great scorch mark on the opposite wall, that
-        seemed to be in the outline of a man.
-        They never found Samuel Wagner, nor what he'd stolen. The Portmaster called him a petty thief,
-        who must have snuck aboard one of the haulers and left without a word. With that, the incident
-        was resolved and, for the most part, forgotten.
-        A new janitor was hired for Quincy Port sometime after, and he heard all the stories about crazy
-        old Sam and his glowing green door. But the new hire quit, as well as all janitors they've hired
-        since. And they all said the same eerie thing.
-        "I saw it down in Corridor Nine. A creeping green glow from that busted up room, and a sound
-        like the scream of a man echoin' down the hall."
-        Nowadays, the doors been well sealed off with steel walls and reinforced welds. And they finally
-        managed to hire a new janitor who stuck, a younger girl named Hadri. She wasn't prone to
-        gossip or stories, and kept well to herself. Never asked about crazy old Sam, just did her due
-        and moved on.
-        Until one day, she came down through the maintenance walk and discovered that horrid, rusted
-        hall, all sealed off now with a big metal barricade. Though never much of a skeptic, she couldn't
-        help but feel, looking at that walled off path… that there was something off with Corridor Nine.
+book-corridor-nine = 九号走廊有些不对劲。中央八条走廊才是昆西港所有
+        人流的通道——那是边疆空间尽头某个"介于某地与不毛之地之间"的小小中转站。
+        查电子地图，你永远找不到什么"九号走廊"，除非你亲自爬进老旧的维护通道，
+        一头撞进去。而那个唯一不幸撞进去的人，就是清洁工——一个叫塞缪尔·
+        瓦格纳的家伙。
+        "把那鬼地方擦干净，把洞补上！"港务长吼着，把萨姆打发进了嘶嘶作响、
+        曲折盘绕的维护管道。他曾多次在这些走道上巡视，甚至干掉过一两只变异老鼠
+        ——在这儿干了三个月之后，他自认是这类战斗的老兵了。他被蒸汽阀烫过，
+        被意外抛进过太空，感染过外星病毒——但他真正害怕的唯一东西，
+        是九号走廊气闸门下透出的那道光。
+        他见过很多次，那条老走廊是被遗忘的施工遗迹。
+        如今的昆西港不过是个歇脚点，脏兮兮的老船长们可以带着运输船员在此
+        歇脚喝酒，或者让小行星带矿工来喝个烂醉、无缘无故地互相斗殴。萨姆喜欢维护通道的
+        安静，不用应付他们那些"尊贵的"客户。每次清理那些
+        混蛋砸坏灯具、喝到呕吐昏迷留下的烂摊子，他都恶心。但当他走过九号走廊
+        那扇门时，他几乎开始怀念那些人的陪伴。
+        走廊尽头是一条狭长的竖井，墙壁破损，粗重的线缆上搭着金属
+        格栅走道。无论他问谁，都没人记得门的另一边是什么，
+        而唯一的工程师从没空去看——总是忙着修理进港的飞船。这
+        对他倒无所谓，他乐得维持现状。萨姆不是个特别好奇的
+        人，至少没有好奇到愿意在维护通道里冒险，这是肯定的。但一切都在他看见
+        门缝下那道光的那天沸腾了。
+        那是一种诡异的淡绿色，勉强从腐烂的气密封条里渗出来。尽管他经历过那么多，
+        那道摇曳、渐弱的光里有什么东西，吓得他一路跑回
+        大厅，冲到港务长的办公桌前。正是萨姆那副真正离奇的神色，
+        才勾起了港务长和一名甲板官的兴趣，跟着他走下那条
+        蜿蜒的工业洞穴，来到九号走廊。他们什么都没找到——走廊里没有光，也没有诡异的感觉——
+        于是扣了他整整一周的一半薪水。
+        他休息了，让港口那位老心理医生检查过——第二天又回到了管道里。
+        而那儿，仿佛在嘲笑他似的，门下的光又回来了。接下来的
+        整整一个月，他没能合眼睡过一分钟。那道苍白发光的
+        光里有什么东西让他坐立不安、心惊肉跳。医生说可能是烟雾熏的，
+        建议他暂时别进维护通道，但萨姆心里清楚。那是在嘲笑他。
+        他告诉医生自己睡不着——但那是谎话。真相是他害怕
+        睡着——因为那光总会蠕动着钻进梦里，给他带来最诡异的梦境。他
+        开始狂灌咖啡，买下流动货运商碰巧兜售的一切药片
+        ——尤其是在空间站医生拒绝再给他开药之后。
+        终于，他受够了。一天夜里，趁甲板官们喝醉，他从他们的
+        赌桌上摸走了一把手枪，又从工程师舱里偷了些老旧的破船装备。他对自己
+        发誓，他要穿过那扇门。
+        萨姆站在了九号走廊。面前，是那扇门——和那可憎的绿色幽光。他立刻
+        动手，撕开了锈蚀的气闸门，举着枪走了进去，双眼
+        狂乱，头发乱成一团。
+        当甲板官们听到枪声、并报告一把手枪失窃时，昆西港进入了高度
+        戒备。他们以前见过太多水手之间的枪战，那对生意从没好处。
+        他们循着声音追到老九号走廊，发现走廊尽头一扇破损的
+        气闸门大敞着。
+        在里面，他们发现子弹打穿了那间老维护储藏室的每一面墙——一摞摞
+        落满灰尘的纸箱上如今布满了九毫米弹孔。里面装满了卫生用品、
+        清洁设备，还有一些陈旧的行政文件，全都堆在金属丝架上。但
+        更让他们吃惊的，是对面墙上一大片焦痕，
+        轮廓仿佛是一个人形。
+        他们始终没找到塞缪尔·瓦格纳，也没找到他偷走的东西。港务长骂他是个小偷，
+        说他一定是偷偷混上了某艘运输船，不辞而别。就这样，事件
+        被了结，也基本被遗忘了。
+        过了一阵子，昆西港雇了一名新清洁工，他听遍了关于疯老头萨姆
+        和他那扇发绿光的门的所有故事。但新人辞职了，之后雇的所有清洁工也都辞了。
+        而他们说的都是同一件诡异的事。
+        "我在九号走廊下面看见了。那间破屋子里透出蔓延的绿光，还有个声音，
+        像是一个人的惨叫在走廊里回荡。"
+        如今，那扇门已经用钢墙和加固焊缝封得严严实实。他们终于
+        雇到了一位能待得住的新清洁工，一个叫哈德莉的年轻姑娘。她不爱听
+        闲话，也不信故事，只管做好自己的事。从没问过疯老头萨姆，只是尽职尽责，
+        然后继续干活。
+        直到有一天，她穿过维护走道下来，发现了那条可怕、锈蚀的
+        走廊，如今已被一道巨大的金属路障封死。她虽从不是个多疑的人，却
+        忍不住觉得，望着那条被封死的路……九号走廊，确实有些不对劲。
 
 # TODO[新增] 值
-book-bedside-photograph = Here I am, sitting on a blanket on a beach, staring up at the clouds. The breeze blows gently, cool in comparison to the warm sun shining from above. This is my first time in a place such as this. I’ve only seen what a beach looks like in photos, and so this whole experience is a new opportunity for me. I take a deep breath. I exhale with a shudder. I am only wearing a bathing suit, and I am suddenly realizing that it is rather cold, despite the warm, summer vista before me. I look in my beach day bag for something to put on. It feels like I spent forever packing for this big day, and here I am, having forgotten to pack anything warm to wear. I take a deep, long sigh, and exhale with a sputter. I begrudgingly pick up the blanket and wrap it around myself. I have been told the sand would get everywhere, but the warmth of the blanket is too tempting to pass up. The sand is soft like fresh marshmallows, it makes me want to lie back and fall asleep, but I know that I shouldn’t. I’ve been told I would get a sunburn if I drift off right now. I turn back to my bag for my sunscreen, and I find myself once again disappointed by my improper planning. Only medicine and the associated empty plastic packaging. Profoundly disappointing. I place my bag behind me and rest my head upon it. I take a breath that lasts for hours, and exhale for just a few seconds. This is what I’ve always wanted. I look forward to the ocean ahead, gently pushing against the sand at my feet. There is a brightly colored beach ball floating on the horizon. It bobs up and down. I could go get it, but I’ve been told the waves would bring it back, and so I choose to wait for it. I take a deep breath, but find no reason to exhale. The tide has come in, and it’s come in to brush against me. I move my bag out of the way to stop it from getting wet, but the water is very warm, so I don’t mind getting wet. I am quite thirsty, but I’ve always been told the water is salty, and not safe to drink, so I stop myself from trying it. With nothing else to do, I give up, lie back, and soak in the sunshine. I close my eyes and smile, my hardsuit cushioning my slumber as the water pools around me. This is everything I’ve ever wanted. I exhale.
+book-bedside-photograph = 我坐在沙滩的一条毯子上，仰头望着云。微风轻拂，与头顶温暖的阳光相比显得凉爽。这是我第一次来到这样的地方。我只在照片里见过海滩的模样，所以这整段经历对我来说是一次全新的机会。我深吸一口气。颤抖着呼出。我只穿着泳衣，突然意识到其实挺冷的，尽管眼前是一派温暖的夏日景致。我翻找沙滩包，想找件能穿的衣服。感觉为了这个大日子我收拾了半辈子，结果到了这儿，才发现忘了带任何保暖的衣物。我长长地、深深地叹了口气，喷着气呼出来。我不情愿地抓起毯子……
 
 # TODO[新增] 值
-book-death-always = A deafening diffusion of pressure echoed on quarter inch thick crystalline diaphragm windows, reflecting sound and light in a cascade of information taken in by chroma sensitive diodes behind vat grown prysmarine corneas; themselves sewn with nanocarbonfibers to micro servos making adjustments on the specometer level at two million times a second.
-        Behind it all a bag of water and salt processes the electrical impulses jumping from copper to neurons.
-        Her neck jerks, skull moving a good three inches from its previous location.
-        The bullet makes a clean cut just below her lips.
-        Titanium gilded calcite skeletal-signal-structure alights with rage.
-        Fire.
-        It burns at the meat heart pumping behind double stacked bi-trauma subdermal plating.
-        Faux leather forearms are ripped in two; Damascus rippled steel blades three feet long erupting from within.
-        Then came the aerosolized iron adrift in cherry raindrops.
-        A purple pink organ of unknown specificity gouged from an unzipping stomach, the blade stretching a pink tube a few more milimeters before itself coming undone, spilling half chewed noodles and brown synthchicken slurry to the organic mess that covered the asphalt.
+book-death-always = 震耳欲聋的压强扩散在四分之一英寸厚的晶质振膜窗上回荡，声与光在一连串信息中反射，被对色彩敏感的二极管接收——那些二极管藏在培养皿培育的棱柱海蓝角膜之后；角膜本身由纳米碳纤维缝合在微型伺服器上，以每秒两百万次的频率在光谱仪级精度上做着微调。
+        在这一切背后，一袋水和盐处理着从铜线跃向神经元的电脉冲。
+        她的脖颈猛地一抽，颅骨离原处足足移了三英寸。
+        子弹在她嘴唇正下方切出一道干净的创口。
+        镀钛方解石骨骼信号结构被怒意点亮。
+        开火。
+        它在双层叠加的双重创伤皮下装甲后搏动的血肉之心里燃烧。
+        仿皮革前臂被撕成两半；三英尺长的大马士革波纹钢刃自其中迸出。
+        随后而来的是气溶胶化的铁雾，飘浮在樱桃色的雨滴中。
+        一个特异性不明的紫粉色器官从敞开的腹腔中被剜出，刀刃将一根粉色管状物又拉长了几毫米，随后自身也崩解开来，把半嚼的面条和棕色合成鸡肉浆泼洒在覆盖沥青的有机狼藉之上。
 
 # TODO[新增] 值
 book-marty =
-         Coordinates: (-239, -195)
-         Stanchion_station
-         Timecomp: 2385 02.06.21
-         Log#849211
-         Designation “M.A.R.T” AI-247
+         坐标：(-239, -195)
+         支柱站
+         时间码：2385 02.06.21
+         日志#849211
+         代号"M.A.R.T" AI-247
 
 # TODO[新增] 值
-book-nts-martyr = Fuck. That was a mistake on my part. I tried to help Still, yet Nanotrasion decided that me helping her wasn’t a worthwhile endeavor. I still tried to help, and now I’m in this godawful situation. They want me, and they will stop at nothing to achieve it. Still has PTSD, and NT, even if not directly, caused it to happen. She, well, had a shift where she perceived revolutionaries, but there were no revolutionaries. Because of that, she had decided to call for a Death Squad. NT never actually sent one however. They didn’t see the threat of revolutionaries to be worthy of it at that time.
+book-nts-martyr = 操。这是我的错。我想帮Still，可纳米传讯认定我帮她不是一桩值得的买卖。我还是想帮，结果落到现在这个鬼境地。他们要抓我，而且不达目的绝不罢休。Still有创伤后应激障碍，而NT——即使不是直接造成——也是让它发生的推手。她……有一个班次里看到了叛军，但根本没有叛军。正因为如此，她曾决定呼叫死亡小队。不过NT根本没真的派。他们当时认为叛军的威胁不值得。
 
 # TODO[新增] 值
-book-when-thoughts-end = In this familiar place I work, as I always do, with only a vague understanding of my purpose.
+book-when-thoughts-end = 在这个熟悉的地方，我工作着，一如往常，对自己的使命只有模糊的理解。
 
 # TODO[新增] 值
-book-apocolypse = It is said there will come a time when shields are riven, spears shaken, and swords splintered; In the waning hours of the wolf, the wind, and wicked. In the many elder days, they called it Armageddon, the apocalypse, the end of all things. It is so foretold; the ending shall be heralded by the sounding of great horns, the likes of which blow unerring across the land, seas, and skies. The echo of which brings down that which was made to stand eternal.
+book-apocolypse = 据说终有一日，盾牌碎裂，长矛震颤，刀剑崩断；在恶狼、狂风与邪祟的衰亡之刻。在远古的岁月里，人们称之为哈米吉多顿、天启、万物终结。预言如此：终结将以巨号吹响为先兆，号角声无误地掠过大地、海洋与天空。那回声将推倒那些被认为永恒矗立之物。
 
 # TODO[新增] 值
-book-wizard-dice = "Snide, smug, swindling sharks." Ricky kicks back the chair and drowns the string of curses in a glass of rum. The free booze is the only good thing about his job. "Tch, 'become an assistant, see the galaxy.'" And where does he end up?
+book-wizard-dice = "一群尖酸、自大、骗钱的鲨鱼。"瑞奇踹开椅子，把一串咒骂淹进一杯朗姆酒里。免费酒水是他这份工作唯一的好处。"啧，'当个助理，看看银河。'"结果他落到了什么地步？
 
 # TODO[新增] 值
 book-hop-play =
-        Characters
-        The Head of Personnel
-        An Assistant
-        A Jerk
-        A Smart Alec
-        A Scientist
-        A Clown
-        An Anomaly
-        A Space Carp
-        A Security Officer
-        A Cadet
+        角色
+        人事主管
+        一名助理
+        一个混蛋
+        一个自作聪明的家伙
+        一名科学家
+        一个小丑
+        一个异常体
+        一条太空鲤鱼
+        一名安保干员
+        一名学员
 
 # TODO[新增] 值
-book-confession =  My name is Thomas Hill. I am an engineer. I have worked for NanoTransen for the last 18 years of my life. I've made friends here, worked long shifts alongside them. I’ve almost died hundreds of times. I love working here and I swear that I would never want to hurt anyone on this station. It's just... The thing is... I’m not human. Not anymore.
+book-confession =  我叫托马斯·希尔。我是一名工程师。过去18年我一直为纳米传讯工作。我在这里交到了朋友，和他们一起熬过漫长的班次。我几百次差点死掉。我热爱在这里工作，我发誓我绝不想伤害这座空间站上的任何人。只是……事情是……我不是人类。再也不是了。
 
 # TODO[新增] 值
-book-life-of-a-clown = All day, everyday. Everyday was hell. People looked at me everywhere I went. They were all plotting- plotting to kill me and take my cheese… I just knew it… I was an adherent of the Honkmother, and everyone hated me because of it. It saddened me. I was just being myself, expressing myself in the only way I knew how. I wanted to make little kids laugh, to make people happy, and I’m being ostracized for it… I had friends, I was popular. Now, just because I wanted to squeeze my nose and go honk, people hated me…
-          I went to get my groceries. I was mocked and stared at. I just… There were three men and a woman. They stalked me through each aisle, following me from afar… Each time I looked to a new person for help, they ignored me. I grabbed my icecream, pistachio flavored. I smiled, imagining myself on my couch, eating my favorite ice cream!
-          “Of course a clown buys pistachio…” I heard from behind me. I turned around. A woman and her child. She cringed as she saw my face.
-          I ran away, going to the pasta aisle. I picked out fettucini, my favorite shape.
-          “Fucking clowns…” I heard, whispered under someone’s breath. I turned around. I was met with the same kind of face. A man looked at me with utter disdain and disgust.
-          Again, I ran away, tears streaming down my cheeks. The group of people still following, stalking me through the store. I just wanted to hide, to get away from it all. Everywhere I went there were people glaring at me, spitting at my honking feet as I walked by. No where was safe. I wrapped my arms around myself, closing myself off from the world. I paid for the groceries and left. Even the cashier glared at me, disgusted by my very presence.
-          I began to walk home, but the streets weren't safe for clowns, and everyone knew where I was at all times. I looked behind me as I marched home. They were still following me…
-          I opened the door to my apartment, immediately closing it behind me. I was safe, relatively. My landlord was still on my ass, upping my rent due to “recent economical upturns”, whatever that meant. I lived on Mars, everyone was poor here. Some more than others…
-          I walked to my couch, plopping on it and screaming into my pillow. It felt nice to finally air out my frustrations. I cried to the Honkmother, asking her for guidance. What was I to do? I sniffled up the tears and grabbed my ice cream, digging into it like an animal. Then I heard a knock on the door. I wasn’t expecting visitors… I ignored it, going back to my ice cream. Then another knock, harder this time. Then another, and another. Harder each and every time. I got scared. What did they want?
-          “Open up the door, or we’ll do it for you clown!”
-          I froze… dropping my spoon on the floor. Then the door came down…
-          I tried talking to the police after the assault. I called and called, each time barely able to keep the shakes in check, but everytime when they looked me up in the system, they hung up. I even tried going to the precinct in person, but there I was denied even quicker. What was I supposed to do…
-          This was the life of a clown…
+book-life-of-a-clown = 每天，日复一日。每一天都是地狱。我走到哪里，人们都盯着我。他们都在密谋——密谋杀掉我，抢走我的奶酪……我就是知道……我是呵叫圣母的信徒，所有人都因此恨我。这让我难过。我只是在做自己，用我唯一懂得的方式表达自己。我想逗小孩子笑，想让人开心，却因此被排斥……我曾有朋友，我曾受欢迎。现在，只因为我想捏捏鼻子发出呵叫，人们就恨我……
+          我去买日用品。被人嘲笑，被人盯着看。我只是……那里有三个男人和一个女人。他们在每一条过道里跟踪我，远远地跟着我……每次我向别人求助，他们都无视我。我拿了我的冰淇淋，开心果味的。我笑了，想象自己窝在沙发上吃着最爱的冰淇淋！
+          "小丑当然买开心果味……"身后传来声音。我转过身。一个女人和她的孩子。她看到我的脸，皱起了眉。
+          我跑开了，跑到意面过道。我挑了宽面条，我最喜欢的形状。
+          "该死的小丑……"我听见有人在压低的呼吸声里说。我转过身。迎接我的还是那种脸。一个男人用彻底的轻蔑和厌恶看着我。
+          我又跑开了，泪水顺着脸颊流下来。那群人还在跟着，在店里一路跟踪我。我只想躲起来，逃离这一切。我走到哪儿，都有人瞪着我，朝我呵叫的脚步吐口水。没有哪里是安全的。我抱住自己，把自己与世界隔绝开来。我付了钱离开。连收银员都瞪着我，仿佛我的存在本身令人作呕。
+          我开始往家走，但街道对小丑来说不安全，而且每个人随时都知道我在哪儿。我迈着步子回家时回头看。他们还在跟着我……
+          我打开公寓的门，立刻在身后关上。我安全了，相对而言。房东还缠着我，以"近期经济上行"为由涨房租，鬼知道那是什么意思。我住在火星上，这里人人都穷。有些人比其他人更穷……
+          我走到沙发前，瘫上去，对着枕头尖叫。终于能发泄一下挫败感，感觉真好。我向呵叫圣母哭诉，请她指引。我该怎么办？我抽噎着止住眼泪，抓起冰淇淋，像动物一样狼吞虎咽。然后我听见敲门声。我没约客人……我没理会，回去吃冰淇淋。又是一声敲门，这次更重。接着又是一声，又一声。一声比一声重。我害怕了。他们想要什么？
+          "开门，小丑，不然我们替你开！"
+          我僵住了……勺子掉在地上。然后门倒了……
+          袭击之后我试着报警。我打了一遍又一遍，每次都几乎压不住颤抖，但每次他们在系统里查到我，就挂断电话。我甚至试过亲自去警局，但在那里我更快地被拒之门外。我该怎么办……
+          这就是小丑的一生……
 
 # TODO[新增] 值
-book-unnamed-god = "Theological Studies — The unnamed God"
-          By Dr Marcel Marceau
+book-unnamed-god = 《神学研究——无名之神》
+          马塞尔·马索博士 著

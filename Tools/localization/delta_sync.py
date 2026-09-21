@@ -258,7 +258,9 @@ def cmd_verify(args: argparse.Namespace) -> int:
 
                 if not CJK_RE.search(zh_val):
                     # 纯符号/数字/专有名词条目本来就没中文，只在整条照抄英文时才报
-                    if zh_val.strip() == en_val.strip() and re.search(r"[A-Za-z]{3}", en_val):
+                    # 去掉占位符和 BBCode 后还剩成词的英文（全大写缩写如 AMR/HEX 除外）才算照抄
+                    prose = re.sub(r"\{[^{}]*\}|\[[^\[\]]*\]", " ", en_val)
+                    if zh_val.strip() == en_val.strip() and re.search(r"[A-Za-z]*[a-z][A-Za-z]{2,}", prose):
                         problems.append(f"[照抄] {rel} {mid}{'' if part == '' else '.' + part}")
                     continue
                 done_msgs += 1
@@ -323,41 +325,47 @@ def cmd_apply(args: argparse.Namespace) -> int:
         print("没有 Tools/localization/delta/，先跑 make", file=sys.stderr)
         return 1
 
-    replaced = added = new_files = 0
+    # 消息 ID 已在 zh-CN 某个文件里定义过的，就地替换那一处——不管骨架放在哪个路径。
+    # 实体骨架（_zhCN/entities-sync-*）尤其需要：ent-X 的名字可能早就在别的文件里，
+    # 追加一份就成了重复定义。
+    where: dict[str, Path] = {}
+    for f in sorted(ZH.rglob("*.ftl")):
+        for mid in parse(read(f))[1]:
+            where.setdefault(mid, f)
+
+    replace: dict[Path, dict[str, list[str]]] = {}
+    append: dict[Path, list[list[str]]] = {}
     for d_path in sorted(DELTA.rglob("*.ftl")):
         rel = d_path.relative_to(DELTA).as_posix()
-        _, d_msgs = parse(read(d_path))
-        zh_path = ZH / rel
-
-        if not zh_path.is_file():
-            if not args.dry_run:
-                zh_path.parent.mkdir(parents=True, exist_ok=True)
-                zh_path.write_text(read(d_path), encoding="utf-8")
-            new_files += 1
-            added += len(d_msgs)
-            continue
-
-        zh_lines, zh_msgs = parse(read(zh_path))
-        # 从后往前替换，避免行号位移
-        appended: list[str] = []
-        edits: list[tuple[int, int, list[str]]] = []
-        for mid, msg in d_msgs.items():
-            zh = zh_msgs.get(mid)
-            if zh is None:
-                appended.extend(msg.lines())
-                appended.append("")
-                added += 1
+        for mid, msg in parse(read(d_path))[1].items():
+            if mid in where:
+                replace.setdefault(where[mid], {})[mid] = msg.lines()
             else:
-                edits.append((zh.start, zh.end, msg.lines()))
-                replaced += 1
-        for start, end, new in sorted(edits, key=lambda e: -e[0]):
-            zh_lines[start:end] = new
-        if appended:
-            if zh_lines and zh_lines[-1].strip():
-                zh_lines.append("")
-            zh_lines.extend(appended)
-        if not args.dry_run:
-            zh_path.write_text("\n".join(zh_lines).rstrip() + "\n", encoding="utf-8")
+                append.setdefault(ZH / rel, []).append(msg.lines())
+
+    replaced = sum(len(v) for v in replace.values())
+    added = sum(len(v) for v in append.values())
+    new_files = sum(1 for f in append if not f.is_file())
+
+    if not args.dry_run:
+        for target in sorted(set(replace) | set(append)):
+            if target.is_file():
+                lines, msgs = parse(read(target))
+            else:
+                target.parent.mkdir(parents=True, exist_ok=True)
+                lines, msgs = [], {}
+            # 从后往前替换，避免行号位移
+            edits = [(msgs[mid].start, msgs[mid].end, new)
+                     for mid, new in replace.get(target, {}).items()]
+            for start, end, new in sorted(edits, key=lambda e: -e[0]):
+                lines[start:end] = new
+            if target in append:
+                if lines and lines[-1].strip():
+                    lines.append("")
+                for block in append[target]:
+                    lines.extend(block)
+                    lines.append("")
+            target.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
     verb = "将" if args.dry_run else "已"
     print(f"{verb}替换 {replaced} 条、新增 {added} 条、新建 {new_files} 个文件")
