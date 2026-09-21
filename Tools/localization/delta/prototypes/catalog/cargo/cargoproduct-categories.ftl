@@ -1,2 +1,2 @@
 # TODO[新增] 值
-cargoproduct-category-name-instruments = Instruments
+cargoproduct-category-name-instruments = 乐器

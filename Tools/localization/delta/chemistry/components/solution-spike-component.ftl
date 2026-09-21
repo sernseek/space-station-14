@@ -1,2 +1,2 @@
 # TODO[新增] 值
-spike-solution-mix = You mix {THE($spike-entity)} into {THE($spiked-entity)}.
+spike-solution-mix = 你把{THE($spike-entity)}混入了{THE($spiked-entity)}。

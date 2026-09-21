@@ -1,2 +1,2 @@
 # TODO[新增] 值
-ui-escape-feedback = Feedback
+ui-escape-feedback = 反馈
