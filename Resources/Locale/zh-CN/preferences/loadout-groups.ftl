@@ -27,7 +27,7 @@ loadout-group-captain-jumpsuit = 舰长连体衣
 loadout-group-captain-neck = 舰长颈部
 loadout-group-captain-backpack = 舰长背包
 loadout-group-captain-outerclothing = 舰长外套
-loadout-group-captain-eyewear = 舰长眼部装备
+loadout-group-captain-eyewear = 指挥部眼镜
 
 loadout-group-hop-head = 人事主管头部
 loadout-group-hop-jumpsuit = 人事主管连体衣
@@ -217,3 +217,5 @@ loadout-group-reporter-jumpsuit = 记者连体衣
 loadout-group-psychologist-jumpsuit = 心理医生连体衣
 
 loadout-group-reporter-outerclothing = 记者马甲
+
+loadout-group-reporter-head = 记者头部装备

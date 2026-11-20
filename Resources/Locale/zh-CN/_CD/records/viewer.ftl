@@ -28,3 +28,5 @@ cd-character-records-viewer-setwanted-placeholder = 原因
 cd-character-records-viewer-security-permanent-label = 永久档案
 cd-character-records-viewer-security-current-shift-label = 当前班次记录
 cd-character-records-viewer-security-current-shift-empty = 当前班次没有记录条目。
+
+ui-admin-records-console-title = 管理员记录控制台

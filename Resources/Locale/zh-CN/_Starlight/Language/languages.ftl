@@ -74,7 +74,7 @@ language-Carptongue-name = 鲤鱼语
 language-Carptongue-description = 各种鱼腥味十足的声音，太空鲤鱼或许能听懂。
 
 language-Xeno-name = 异形语
-language-Xeno-description = 异形的通用语言。
+language-Xeno-description = 异形及其后裔的通用语言。
 
 language-Cat-name = 猫语
 language-Cat-description = 喵
@@ -152,3 +152,27 @@ language-CatFeral-description = 一种不太讲究的猫科方言，只有猫才
 language-DogFeral-name = 犬语（野性）
 
 language-DogFeral-description = 一种不太讲究的犬科方言，只有狗才能听懂。
+
+language-ClassicalSign-name = 古典手语
+
+language-ClassicalSign-description = 一种更古老、更冷僻的手语，源自泰拉。它与银河手语完全不同。
+
+language-CygniStandard-name = 天鹅座标准语
+
+language-CygniStandard-description = 一种人造语言，旨在让使用者联想到华沙条约，但准确性很低。在 USSP 各地与银河通用语和太阳系通用语一同广泛使用。
+
+language-Xenocongress-name = 泽恩卡拉议会
+
+language-Xenocongress-description = 泽恩卡拉人民的集体之声，只有发言者及其选出的女王才能听到。
+
+language-Xenoqueen-name = 女王之言
+
+language-Xenoqueen-description = 被选出的女王之声的精神之音，由当地蜂巢的所有个体共同听到。
+
+language-Penguin-name = 企鹅语
+
+language-Penguin-description = 嘎！
+
+language-Spore-name = 孢子
+
+language-Spore-description = 通过真菌孢子交流。

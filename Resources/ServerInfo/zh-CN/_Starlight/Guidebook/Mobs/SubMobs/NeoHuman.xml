@@ -1,0 +1,22 @@
+<Document>
+  # 新人类
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoHuman" Caption=""/>
+  </Box>
+
+  “Neocyte”一词源自希腊语“neo”（意为“新”）与拉丁语“cyte”（意为“细胞”）。
+
+  两者结合，“Neocyte”字面上可理解为“新细胞”，但它更多被用于比喻意义，以唤起超人类主义的气息，被解读为“高级”或“超越”生物。
+
+  有人或许会说，广义上正是人类创造了新细胞这一物种，但这个术语是在其他种族开始接受同样手术后不久才被创造出来的。
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoVulpkanin" Caption=""/>
+    <GuideEntityEmbed Entity="AppearanceNeocyte" Caption=""/>
+  </Box>
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 10%[/color]、[color=#8147ff]电击伤害增加 25%[/color]、[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 30%[/color]。
+</Document>

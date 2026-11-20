@@ -126,7 +126,7 @@ marking-DollShellRFootSegmented = 右足分节外壳
 
 marking-DollShellRFootSegmented-segmented_r_foot = 外壳
 
-marking-DollShellChestSegmented = 分节胸部外壳
+marking-DollShellChestSegmented = 女性分段胸壳
 
 marking-DollShellChestSegmented-segmented_torso = 外壳
 
@@ -218,7 +218,7 @@ marking-DollShellRFootUnbroken-unbroken_r_foot_gold = 金缮接缝
 
 marking-DollShellRFootUnbroken-unbroken_r_foot_repaired = 修补外壳
 
-marking-DollShellChestUnbroken = 完好胸部外壳
+marking-DollShellChestUnbroken = 女性完整胸壳
 
 marking-DollShellChestUnbroken-unbroken_torso = 外壳
 
@@ -258,7 +258,7 @@ marking-DollShellRLegOvergrown = 右腿蔓生外壳
 
 marking-DollShellRLegOvergrown-overgrown_r_leg = 外壳
 
-marking-DollShellChestOvergrown = 蔓生胸部外壳
+marking-DollShellChestOvergrown = 女性蔓生胸壳
 
 marking-DollShellChestOvergrown-overgrown_torso = 外壳
 
@@ -310,10 +310,78 @@ marking-DollShellRFootParadigm-paradigm_r_foot = 外壳
 
 marking-DollShellRFootParadigm-paradigm_r_foot_flesh = 血肉
 
-marking-DollShellChestParadigm = 典范胸部外壳
+marking-DollShellChestParadigm = 女性范式胸壳
 
 marking-DollShellChestParadigm-paradigm_torso = 外壳
 
 marking-DollShellHeadParadigm = 典范头部外壳
 
 marking-DollShellHeadParadigm-paradigm_head = 外壳
+
+marking-DollShellChestSegmentedM = 男性分段胸壳
+
+marking-DollShellChestSegmentedM-segmented_m = 外壳
+
+marking-DollShellHeadBun = 圆髻头壳
+
+marking-DollShellHeadBun-head_f = 头壳
+
+marking-DollShellHeadBun-standard = 外耳壳
+
+marking-DollShellHeadBun-standard_inner = 内耳壳
+
+marking-DollShellChestUnbrokenM = 男性完整胸壳
+
+marking-DollShellChestUnbrokenM-unbroken_m = 外壳
+
+marking-DollShellChestUnbrokenM-unbroken_torso_gold = 金缮接缝
+
+marking-DollShellChestUnbrokenM-unbroken_torso_repaired = 修补外壳
+
+marking-DollShellChestOvergrownM = 男性蔓生胸壳
+
+marking-DollShellChestOvergrownM-overgrown_m = 外壳
+
+marking-DollShellChestParadigmM = 男性范式胸壳
+
+marking-DollShellChestParadigmM-paradigm_m = 外壳
+
+marking-DollShellLArmHollow = 左中空臂壳
+
+marking-DollShellLArmHollow-hollow_l_arm = 外壳
+
+marking-DollShellRArmHollow = 右中空臂壳
+
+marking-DollShellRArmHollow-hollow_r_arm = 外壳
+
+marking-DollShellLHandHollow = 左中空手壳
+
+marking-DollShellLHandHollow-hollow_l_hand = 外壳
+
+marking-DollShellRHandHollow = 右中空手壳
+
+marking-DollShellRHandHollow-hollow_r_hand = 外壳
+
+marking-DollShellLLegHollow = 左中空腿壳
+
+marking-DollShellLLegHollow-hollow_l_leg = 外壳
+
+marking-DollShellRLegHollow = 右中空腿壳
+
+marking-DollShellRLegHollow-hollow_r_leg = 外壳
+
+marking-DollShellLFootHollow = 左中空足壳
+
+marking-DollShellLFootHollow-hollow_l_foot = 外壳
+
+marking-DollShellRFootHollow = 右中空足壳
+
+marking-DollShellRFootHollow-hollow_r_foot = 外壳
+
+marking-DollShellChestHollow = 中空胸壳
+
+marking-DollShellChestHollow-hollow_torso = 外壳
+
+marking-DollShellHeadHollow = 中空头壳
+
+marking-DollShellHeadHollow-hollow_head = 外壳

@@ -1,0 +1,13 @@
+<Document>
+  # 新矮人
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoDwarf" Caption=""/>
+  </Box>
+
+  尽管会带来诸多不便，新矮人通常自负到连为了配合新面甲而刮掉胡子这种念头都不会有。因此，他们是唯一能看到在面甲上方留着胡子的种族。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 15%[/color]、[color=#8147ff]电击伤害增加 25%[/color]、[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#64ffe6]毒素伤害减少 25%[/color]、[color=#1e90ff]寒冷伤害减少 35%[/color]。
+</Document>

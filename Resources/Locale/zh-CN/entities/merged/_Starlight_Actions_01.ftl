@@ -5,7 +5,7 @@ ent-ActionSendYourself = 传送自己
     .desc = 传送你自己。
 
 ent-ActionGizmoMark = 标记
-    .desc = 使用口袋里的小装置标记特工。
+    .desc = 用口袋里的装置标记一名特工。
 
 ent-ActionReturnToShip = 返回
     .desc = 返回飞船。
@@ -44,16 +44,16 @@ ent-ActionExitStasis = 退出休眠
     .desc = 以完全健康的状态死而复生。消耗 60 点化学物质。
 
 ent-ActionRetractableItemArmBladePlus = 真·臂刃
-    .desc = 褪去血肉，将其重塑为一把真正美丽的利刃。召唤与收回各消耗 30 点化学物质。
+    .desc = 脱去血肉，将其重塑为一把真正美丽的刀刃。召唤消耗 45 点化学物质。可随意收回。
 
 ent-ActionCreateBoneShard = 塑造骨片
     .desc = 折下自己的骨片，将其塑成掺有致乱神经毒素的飞镖。消耗 15 点化学物质。
 
 ent-ActionToggleChitinousArmor = 切换护甲
-    .desc = 让身体膨胀成覆盖全身的几丁质重甲。消耗 25 点化学物质。
+    .desc = 将身体膨胀成一团吞噬一切、覆满甲壳的护甲。消耗 35 点化学物质。
 
 ent-ActionToggleOrganicShield = 塑造盾牌
-    .desc = 将一条手臂重塑成巨大的血肉盾牌。消耗 20 点化学物质。
+    .desc = 将一只手臂重塑为一面巨大的肉质盾牌。消耗 30 点化学物质。
 
 ent-ActionShriekDissonant = 失谐尖啸
     .desc = 仅凭声音释放 EMP 冲击。消耗 30 点化学物质。
@@ -62,7 +62,7 @@ ent-ActionShriekResonant = 共振尖啸
     .desc = 仅凭声音使人迷失方向并震碎灯具。消耗 25 点化学物质。
 
 ent-ActionToggleStrainedMuscles = 绷紧肌肉
-    .desc = 以极快速度移动，但会损耗耐力。
+    .desc = 以极快速度移动。造成耐力伤害。消耗 45 点化学物质。
 
 ent-ActionStingBlind = 致盲刺
     .desc = 悄无声息地刺击目标，使其短暂失明并陷入近视。消耗 35 点化学物质。
@@ -104,7 +104,7 @@ ent-ActionBiodegrade = 生物降解
     .desc = 向任何束缚物或某人的脸上吐出腐蚀性物质。消耗 30 点化学物质。
 
 ent-ActionChameleonSkin = 变色龙皮肤
-    .desc = 缓慢融入周围环境。消耗 15 点化学物质。
+    .desc = 缓慢与环境融为一体。消耗 25 点化学物质。
 
 ent-ActionEphedrineOverdose = 麻黄碱过量
     .desc = 给自己注射一些兴奋剂。消耗 20 点化学物质。
@@ -122,7 +122,7 @@ ent-ActionToggleLesserForm = 低等形态
     .desc = 舍弃当前形态并变成一只猴子。消耗 20 点化学物质。
 
 ent-ActionToggleSpacesuit = 切换太空服
-    .desc = 让你的身体能够抵御太空环境。消耗 20 点化学物质。
+    .desc = 让身体可适应太空环境。消耗 30 点化学物质。
 
 ent-ActionToggleProtogenDisguise = 切换原兽伪装
     .desc = 塑造一副假的原兽赛博框架。消耗 0 点化学物质。
@@ -152,7 +152,7 @@ ent-ActionToggleCoolingUnit = 切换冷却装置
     .desc = 切换便携式冷却装置。
 
 ent-VentCrawlExitAction = 离开通风管
-    .desc = 离开这些破旧不堪的管道。
+    .desc = 离开这些老旧破败的管道。
 
 ent-ActionCreateRobustToolbox = 制造工具箱
     .desc = 制造一个结实的工具箱。
@@ -254,7 +254,7 @@ ent-ActionAcidVent = 酸蚀通风口
     .desc = 溶开焊死的通风口。
 
 ent-ActionEvolve = 进化
-    .desc = 进化成新的实体。
+    .desc = 进化为新的实体。
 
 ent-ActionSpiderEMPScream = EMP 尖啸
     .desc = 发出 EMP 尖啸，使一定范围内的电子设备失效。
@@ -266,7 +266,7 @@ ent-ActionEggsLaying = 产卵
     .desc = 产下一枚卵。
 
 ent-ActionRoyalJelly = 蜂王浆
-    .desc = 产下蜘蛛可食用并借此恢复伤势的蜂王浆。
+    .desc = 产下蜂王浆，蜘蛛可食用并借此治疗。
 
 ent-ActionSpiderBuildingPole = 蛛网柱
     .desc = 生成一根蛛网柱，在周围空闲地块上生成蛛网。

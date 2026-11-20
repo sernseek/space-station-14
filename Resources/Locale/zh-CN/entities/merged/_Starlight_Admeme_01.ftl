@@ -326,10 +326,10 @@ ent-HammerMedTakOneHanded = CODE-12“破门者”
 
 
 ent-WeaponMedTakLightMachineGun = CODE-6“仲裁”
-    .desc = 为梅德塔克安保开发的超轻型突击轻机枪。\n使用 .30 盒式弹匣。
+    .desc = 为 MedTak 安保研发的超轻型突击轻机枪。\n使用 HVA 盒式弹匣。
 
 ent-WeaponMedTakRifle = CODE-9“服从”
-    .desc = 为梅德塔克干员设计的无托重型步枪。\n使用重型 .20 步枪弹匣。
+    .desc = 为 MedTak 干员设计的无托步枪。\n使用 MVA 弹匣。
 
 ent-WeaponMedTakRifleROW = CODE-9 ROW 型
     .desc = 为赛博格设计的短管 CODE-9 步枪，由缓慢充能的内置弹药制造器供弹。
@@ -338,7 +338,7 @@ ent-WeaponMedTakPistol = CODE-4“分诊”
     .desc = 配发给梅德塔克干员的重型佩枪。\n使用 .40 手枪弹匣。
 
 ent-WeaponMedTakSubMachineGun = CODE-10“介入”
-    .desc = 一把配有一体式消音器的紧凑型冲锋枪。它采用先进的后坐系统，但射速略有降低。
+    .desc = 一把内置消音器的紧凑型冲锋枪。配备先进的枪后坐力系统，但射速略慢。\n使用 LVA 弹匣。
 
 ent-WeaponMedTakShotgun = CODE-11“妥协”
     .desc = 一把外形流畅的弹鼓供弹霰弹枪，通过副扳机半自动上膛。
@@ -385,13 +385,13 @@ ent-MobNyrMouseOps = 鼠鼠特工
     .desc = 就是那只该死的老鼠，它是冲着那块该死的奶酪来的！
 
 ent-ClothingHandsGlovesCombatmous = 无法脱下的鼠鼠战斗手套
-    .desc = 鼠鼠为鼠鼠制造！
+    .desc = 由毛茸茸打造，为毛茸茸服务！
 
 ent-ClothingBackpackDuffelSyndicateAmmoMouse = 鼠鼠特工弹药包
     .desc = 可容纳各种叛徒用品的大号旅行包。
 
 ent-ClothingOuterHardsuitSyndieMouseOps = 鼠鼠红色硬装宇航服
-    .desc = 鼠鼠为鼠鼠制造！
+    .desc = 由毛茸茸打造，为毛茸茸服务！
 
 
 ent-Clueless = 一脸茫然

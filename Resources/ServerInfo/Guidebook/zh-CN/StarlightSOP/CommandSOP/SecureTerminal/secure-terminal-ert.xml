@@ -1,0 +1,107 @@
+<Document>
+# ERT 队伍
+
+## ERT 安保队
+
+[bold]发起者：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员，需经[color=#86d420]中央指挥部[/color]批准。
+
+[bold]抵达时间：[/bold]5 分钟。
+
+[bold]条件：[/bold]活跃且已确认的敌对威胁已超出空间站安保部的应对能力。剩余安保人员不足以控制或消灭威胁，且局势对船员构成持续危险。
+
+不得在宣战期间调用；此时应调用核弹响应队。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]威胁已被消灭或得到充分控制，安保部无需外部支援即可应对。
+
+[bold]撤销者：以下任意一人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意两名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## ERT 工程队
+
+[bold]发起者：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff733c]工程主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]5 分钟。
+
+[bold]条件：[/bold]空间站发生灾难性损坏（如结构破损、大气失效或全面断电），现有工程人员无法在合理时间内处理，且损坏对船员生存构成直接风险。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]工程人员已恢复处理维修的能力，或损坏不再构成直接威胁。
+
+[bold]撤销人：以下任意一人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff733c]工程主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意两名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## 应急响应队 · 医疗
+
+[bold]发起者：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#57b8f0]医疗主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]5 分钟。
+
+[bold]条件：[/bold]发生大规模伤亡事件，已超出医护人员的救治能力，并因此直接危及船员生存。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]医疗紧急情况已稳定，医护人员无需外部支援即可处理剩余伤员。
+
+[bold]撤销人：以下任意一人：[/bold] [color=#fcdf03]舰长[/color]、[color=#57b8f0]医疗主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意两名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## 应急响应队 · 清洁
+
+[bold]召集人：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#2cdb2c]人事主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]5 分钟。
+
+[bold]条件：[/bold]整个空间站脏乱不堪，清洁人员在合理时间内无法清理完毕。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]空间站的脏乱程度已降至清洁人员可在合理时间内处理完毕的水平。
+
+[bold]撤销人：以下任意一人：[/bold] [color=#fcdf03]舰长[/color]、[color=#2cdb2c]人事主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意两名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## 应急响应队 · 牧师
+
+[bold]召集人：[/bold] [color=#fcdf03]舰长[/color]与[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]5 分钟。
+
+[bold]条件：[/bold]空间站上的邪教活动已超出既有安保力量与牧师的处理能力。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]邪教活动已降至既有安保力量与牧师可处理的水平。
+
+[bold]撤销人：以下任意一人：[/bold] [color=#fcdf03]舰长[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意两名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## 应急响应队 · CBURN
+
+[bold]召集人：任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]15 分钟。
+
+[bold]条件：[/bold]紫色警报已生效。已确认发生生物或病毒爆发，且隔离已失败或随时可能失败。常规医疗与安保响应不足以应对。
+
+不得在宣战期间调用。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]疫情已被控制，不再需要 CBURN 介入。
+
+[bold]撤销人：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或[/bold] [color=#ff4242]安保主管[/color]加任意一名[color=#fcdf03]指挥部[/color]成员 [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+## 核应急响应队
+
+[bold]发起者：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]或[color=#2253b5]纳米传讯代表[/color] [bold]或任意三名[/bold] [color=#fcdf03]指挥部[/color]成员。
+
+[bold]抵达时间：[/bold]50 分钟。
+
+[bold]条件：[/bold]已对空间站发出宣战。
+
+仅在宣战后可用。
+
+[bold]每班次限用一次。[/bold]
+
+[bold]撤销条件：[/bold]战争威胁已被击退，或局势不再需要额外的安保人员。
+
+[bold]撤销人：以下任意两人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]、[color=#2253b5]纳米传讯代表[/color]加一名[color=#fcdf03]指挥部[/color]成员 [bold]或以下任意一人：[/bold] [color=#fcdf03]舰长[/color]、[color=#ff4242]安保主管[/color]、[color=#2253b5]纳米传讯代表[/color]加三名[color=#fcdf03]指挥部[/color]成员。
+</Document>

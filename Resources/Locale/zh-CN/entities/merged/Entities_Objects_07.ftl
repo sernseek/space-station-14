@@ -74,10 +74,10 @@ ent-PowerCellSmallNuclear = 小容量核动力电池
     .desc = 一种自充电电池，旨在以牺牲容量为代价实现快速充电。
 
 ent-PowerCellMedium = 中容量动力电池
-    .desc = 可充电电池。这是先进机器中常见的电池类型。 # Starlight-edit
+    .desc = 一种可充电电池。这是广受欢迎且可靠的版本。
 
 ent-PowerCellHigh = 大容量动力电池
-    .desc = 可充电电池。该优质品牌的能量储存量比竞争对手高出 50%。 # Starlight-edit
+    .desc = 一种可充电的标准电池。这个高端品牌比竞品多储存最多 50% 的能量。
 
 ent-PowerCellHyper = 超大容量动力电池
     .desc = 可充电标准化电池。此次迭代突破了便携式储能的上限，容量比上一代增加了 66%。
@@ -613,7 +613,7 @@ ent-MechHamtr = HAMTR 机甲
     .desc = 一种实验性机甲，使用脑机接口直接连接仓鼠大脑。
 
 ent-MechVim = Vim 微型机甲
-    .desc = NanoTrasen 的微型外骨骼套装，旨在让不可替代的驻地宠物活得更久一些。 # SL
+    .desc = 纳米传讯出品的微型外骨骼，旨在让无可替代的空间站宠物多活一阵子。
 
 ent-BaseDefibrillator = 除颤器
     .desc = 清晰！兹扎特！
@@ -660,96 +660,10 @@ ent-AloeCream = 芦荟霜
 ent-HealingToolbox = 治愈工具箱
     .desc = 充满活力的强大工具箱。它可以治愈你的伤口，让你充满杀机。
 
-ent-PillDexalin = { -pill-name }
-    .suffix = { reagent-name-dexalin } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterDexalin = { -pill-canister-name }
-    .suffix = { reagent-name-dexalin } 20u, 7
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillDylovene = { -pill-name }
-    .suffix = { reagent-name-dylovene } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterDylovene = { -pill-canister-name }
-    .suffix = { reagent-name-dylovene } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillHyronalin = { -pill-name }
-    .suffix = { reagent-name-hyronalin } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterHyronalin = { -pill-canister-name }
-    .suffix = { reagent-name-hyronalin } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillPotassiumIodide = { -pill-name }
-    .suffix = { reagent-name-potassium-iodide } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterPotassiumIodide = { -pill-canister-name }
-    .suffix = { reagent-name-potassium-iodide } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillIron = { -pill-name }
-    .suffix = { reagent-name-iron } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCopper = { -pill-name }
-    .suffix = { reagent-name-copper } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterIron = { -pill-canister-name }
-    .suffix = { reagent-name-iron } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillCanisterCopper = { -pill-canister-name }
-    .suffix = { reagent-name-copper } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillKelotane = { -pill-name }
-    .suffix = { reagent-name-kelotane } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterKelotane = { -pill-canister-name }
-    .suffix = { reagent-name-kelotane } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillDermaline = { -pill-name }
-    .suffix = { reagent-name-dermaline } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterDermaline = { -pill-canister-name }
-    .suffix = { reagent-name-dermaline } 20u, 5
-    .desc = 最多可装 10 颗药丸。
 
 ent-PillSpaceDrugs = 太空海市蜃楼
     .desc = 这可不是栓剂。
 
-ent-PillTricordrazine = { -pill-name }
-    .suffix = { reagent-name-tricordrazine } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterTricordrazine = { -pill-canister-name }
-    .suffix = { reagent-name-tricordrazine } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillBicaridine = { -pill-name }
-    .suffix = { reagent-name-bicaridine } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterBicaridine = { -pill-canister-name }
-    .suffix = { reagent-name-bicaridine } 20u, 5
-    .desc = 最多可装 10 颗药丸。
-
-ent-PillCharcoal = { -pill-name }
-    .suffix = { reagent-name-charcoal } 20u
-    .desc = 这可不是栓剂。
-
-ent-PillCanisterCharcoal = { -pill-canister-name }
-    .suffix = { reagent-name-charcoal } 20u, 3
-    .desc = 最多可装 10 颗药丸。
 
 ent-PillRomerol = 罗默罗丸
     .desc = 这可不是栓剂。
@@ -1013,7 +927,7 @@ ent-BorgModuleAdvancedClowning = 高级小丑机器人模块
     .desc = 高级服务模块，仅适用于最愚蠢的机器人！配有一个内置烤箱，可以随着时间的推移自动烘烤馅饼、一台全息投影仪和一个推喇叭。
 
 ent-BorgModuleSyndicateWeapon = 武器机器人模块
-    .desc = 是一个简单的武器模块，配有 Echis 和能量匕首。 # starlight
+    .desc = 一件能赋予赛博格新能力的技术模块。
 
 ent-BorgModuleOperative = 操作机器人模块
     .desc = 模块配有撬棍、Emag、访问断路器和辛迪加精确定位器。

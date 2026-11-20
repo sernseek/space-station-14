@@ -1,6 +1,5 @@
 magic-mirror-component-activate-user-has-no-hair = 你不能有头发！
 
-magic-mirror-window-title = 魔镜
 magic-mirror-add-slot-self = 你正在给自己添些头发。
 magic-mirror-remove-slot-self = 你正在剪掉一些自己的头发。
 magic-mirror-change-slot-self = 你正在更换自己的发型。

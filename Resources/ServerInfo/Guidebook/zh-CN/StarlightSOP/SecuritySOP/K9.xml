@@ -1,0 +1,51 @@
+<Document>
+	# K9单位
+
+	<GuideEntityEmbed Entity="MobK9" Caption="K9单位"/>
+
+	- 1.
+	标准[color=#00a933]绿色警戒[/color]装备为：
+
+	<Box>
+		<GuideEntityEmbed Entity="DoubleEmergencyOxygenTankFilled"/>
+	</Box>
+	<Box>
+		<GuideEntityEmbed Entity="ClothingOuterArmorRiot"/>
+		或
+		<GuideEntityEmbed Entity="ClothingOuterArmorBasic"/>
+		或
+		<GuideEntityEmbed Entity="ClothingOuterArmorBulletproof"/>
+	</Box>
+	<Box>
+		<GuideEntityEmbed Entity="ClothingEyesHudSecurity"/>
+		或
+		<GuideEntityEmbed Entity="ClothingEyesEyepatchHudSecurity"/>
+		或
+		<GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
+	</Box>
+
+	- 2.
+	安保主管或典狱长可指派特定安保人员担任K9的训导员。
+	2.1
+	若未指派训导员，K9须始终陪同并服从一名合格的安保人员。
+	2.2
+	发现单独游荡的K9时，应为其指派训导员，最好由典狱长或安保主管指派。
+	- 3.
+	K9须依照[textlink="安保部标准操作程序§4" link="security-sop-intro"]执行标准升级流程，并在处理局势时听从其训导员（或任何安保人员）的引导。其须避免对配合的嫌疑人表现出攻击性，且不得对船员或嫌疑罪犯表现出公开敌意。
+	3.1
+	这包括遵循合理预期，例如避免：违抗命令、对船员、嫌疑犯或囚犯造成不必要的伤害、破坏财产、无故逃离其训导员或其他安保人员。
+	3.2
+	K9的撕咬被视为低致命。K9不得无正当理由撕咬任何人。
+	3.3
+	K9仅应在训导员或其他安保人员在场或参与追捕该嫌疑人时，才可咬住嫌疑人。
+	3.4
+	若因情况所迫K9无人陪同，例如训导员倒下，或局势发展过快来不及等待安保人员，其可依据自己的最佳判断行动。
+	- 4.
+	K9须由其训导员训练和指挥，训导员亦负责报告并惩处任何不当行为。若无训导员，任何安保人员均可执行此职责。
+	4.1
+	惩处须与不当行为相称，且不得涉及直接的身体伤害。
+	- 5.
+	如有必要，安保主管可签署文件对K9予以降级，或在必要时对其实施安乐死处决。
+	- 6.
+	K9不受[textlink="安保部标准操作程序§2" link="security-sop-intro"]中制服要求的约束。
+</Document>

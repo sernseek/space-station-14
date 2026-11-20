@@ -504,58 +504,58 @@ ent-RubberStampBaseAlt = 备用橡皮印章
     .desc = 用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampCaptain = 舰长橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampCentcom = 中央指挥部橡皮印章
     .desc = 一枚用来在重要文件上盖章的橡皮章。
 
 ent-RubberStampChaplain = 牧师橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampLawyer = 律师橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampClown = 小丑橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampCE = 工程主管橡皮印章
-    .desc = 用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampCMO = 医疗主管橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampHop = 人事主管橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampHos = 安保主管橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampMime = 哑剧演员橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampQm = 军需官橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampRd = 研究主管橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampTrader = 商人橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampSyndicate = 辛迪加橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampWarden = 典狱长橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampApproved = “批准”橡皮印章
-    .desc = 用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampDenied = “驳回”橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampDetective = 侦探橡皮印章
-    .desc = 一枚用来在重要文件上盖章的橡皮章。
+    .desc = 一枚用于在重要文件上盖章的橡皮章。
 
 ent-RubberStampPsychologist = 心理医生橡皮印章
     .desc = 一枚用来给重要文件盖章的橡皮印章。开出治疗方案吧！
@@ -636,9 +636,9 @@ ent-FakeMindShieldImplant = 伪心灵护盾植入物
     .desc = 这枚植入物会产生伪造信号，骗过 NT 安保 HUD 用于识别心灵护盾植入者的检测。
 
 ent-MindShieldImplant = 心灵护盾植入物
-    .desc = 这枚植入物能确保使用者忠于纳米传讯，并抵御精神控制装置。 # SL
+    .desc = 该植入体将确保对纳米传讯的忠诚，并阻止精神控制装置。
 
-ent-RadioImplantCentcomm = 中央指挥部无线电植入物 # Starlight
+ent-RadioImplantCentcomm = 无线电植入物
     .desc = 这枚植入物无需耳麦即可接入中央指挥部频道。仅限中央指挥部雇员使用。
 
 ent-DeathRattleImplantCentcomm = 中央指挥部死亡警报植入物

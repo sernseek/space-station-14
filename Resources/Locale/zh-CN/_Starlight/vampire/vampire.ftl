@@ -194,3 +194,5 @@ Vamp-converted-text =
 Vamp-converted-confirm = 明白
 
 roles-antag-vampire-name = 吸血鬼
+
+vampire-overwhelming-force-latch-blocked = 你抓不住如此纹丝不动的东西！

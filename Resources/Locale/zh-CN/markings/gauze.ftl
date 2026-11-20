@@ -103,3 +103,62 @@ marking-GauzeMothLowerLegRight = 蛾人纱布小腿包扎（右）
 marking-GauzeMothLowerLegLeft-gauze_moth_lowerleg_l = 蛾人纱布小腿包扎（左）
 marking-GauzeMothLowerLegLeft = 蛾人纱布小腿包扎（左）
 
+marking-GauzeVulpStomach-gauze_vulp_abdomen = 伏尔卡宁纱布腹带
+
+marking-GauzeVulpStomach = 伏尔卡宁纱布腹带
+
+marking-GauzeVulpBlindfold-gauze_vulp_blindfold = 伏尔卡宁纱布眼罩
+
+marking-GauzeVulpBlindfold = 伏尔卡宁纱布眼罩
+
+marking-GauzeVulpBoxerwrapLeft-gauze_vulp_boxerwrap_l = 伏尔卡宁纱布手部绑带（左）
+
+marking-GauzeVulpBoxerwrapLeft = 伏尔卡宁纱布手部绑带（左）
+
+marking-GauzeVulpBoxerwrapRight-gauze_vulp_boxerwrap_r = 伏尔卡宁纱布手部绑带（右）
+
+marking-GauzeVulpBoxerwrapRight = 伏尔卡宁纱布手部绑带（右）
+
+marking-GauzeVulpHead-gauze_vulp_head = 伏尔卡宁纱布头部绑带
+
+marking-GauzeVulpHead = 伏尔卡宁纱布头部绑带
+
+marking-GauzeVulpLeftArm-gauze_vulp_leftarm = 伏尔卡宁纱布手臂绑带（左）
+
+marking-GauzeVulpLeftArm = 伏尔卡宁纱布手臂绑带（左）
+
+marking-GauzeVulpLefteyePatch-gauze_vulp_lefteye_2 = 伏尔卡宁纱布眼贴（左）
+
+marking-GauzeVulpLefteyePatch = 伏尔卡宁纱布眼贴（左）
+
+marking-GauzeVulpLowerArmRight-gauze_vulp_lowerarm_r = 伏尔卡宁纱布腕部绑带（右）
+
+marking-GauzeVulpLowerArmRight = 伏尔卡宁纱布腕部绑带（右）
+
+marking-GauzeVulpLowerLegLeft-gauze_vulp_lowerleg_l = 伏尔卡宁纱布踝部绑带（左）
+
+marking-GauzeVulpLowerLegLeft = 伏尔卡宁纱布踝部绑带（左）
+
+marking-GauzeVulpLowerLegRight-gauze_vulp_lowerleg_r = 伏尔卡宁纱布踝部绑带（右）
+
+marking-GauzeVulpLowerLegRight = 伏尔卡宁纱布踝部绑带（右）
+
+marking-GauzeVulpRighteyePatch-gauze_vulp_righteye_2 = 伏尔卡宁纱布眼贴（右）
+
+marking-GauzeVulpRighteyePatch = 伏尔卡宁纱布眼贴（右）
+
+marking-GauzeVulpShoulder-gauze_vulp_shoulder = 伏尔卡宁纱布肩吊带
+
+marking-GauzeVulpShoulder = 伏尔卡宁纱布肩吊带
+
+marking-GauzeVulpUpperArmRight-gauze_vulp_upperarm_r = 伏尔卡宁纱布前臂绑带（右）
+
+marking-GauzeVulpUpperArmRight = 伏尔卡宁纱布前臂绑带（右）
+
+marking-GauzeVulpUpperLegLeft-gauze_vulp_upperleg_l = 伏尔卡宁纱布大腿绑带（左）
+
+marking-GauzeVulpUpperLegLeft = 伏尔卡宁纱布大腿绑带（左）
+
+marking-GauzeVulpUpperLegRight-gauze_vulp_upperleg_r = 伏尔卡宁纱布大腿绑带（右）
+
+marking-GauzeVulpUpperLegRight = 伏尔卡宁纱布大腿绑带（右）

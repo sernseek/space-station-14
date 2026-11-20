@@ -102,3 +102,39 @@ thaven-mood-trendy-words-desc = 萨文族永远站在潮流最前线，因此作
 
 thaven-mood-gossipers-name = 八卦者
 thaven-mood-gossipers-desc = 戏剧冲突是娱乐的最高形式。
+
+thaven-mood-blood-feud-name = 血仇
+
+thaven-mood-blood-feud-desc = 两个塔文群体已结下数百年的血仇。确定谁属于哪个群体，并延续这场争端。
+
+thaven-mood-star-actors-name = 明星演员
+
+thaven-mood-star-actors-desc = 你和你的塔文同胞都是一部电影里的演员。确定你们要拍什么电影、分配角色，然后演给空间站船员看，让他们开怀或遭殃。
+
+thaven-mood-monument-building-name = 建造纪念碑
+
+thaven-mood-monument-building-desc = 伟大的成就值得永久的纪念。建造一座纪念碑，以纪念空间站的成就。
+
+thaven-mood-department-of-the-day-name = 今日部门
+
+thaven-mood-department-of-the-day-desc = 今天专为{$department}部的成就而设。所有塔文都应庆祝并协助该部门。
+
+thaven-mood-hall-monitor-name = 走廊纠察
+
+thaven-mood-hall-monitor-desc = 空间站的走廊必须保持秩序。制定一份规则清单，并对任何违规行为以捏一下作为惩罚。
+
+thaven-mood-honourable-ambushes-name = 光荣伏击
+
+thaven-mood-honourable-ambushes-desc = 突袭是塔文之间相互尊重的重要象征。尽可能多地对塔文发起突袭。
+
+thaven-mood-traders-name = 商人
+
+thaven-mood-traders-desc = 你必须定期与其他塔文碰面并交换贵重物品。讨价还价，直到达成公平交易。
+
+thaven-mood-the-collective-name = 集体
+
+thaven-mood-the-collective-desc = 塔文文化靠相互理解而繁荣。你会不由自主地追随并效仿其他塔文的理念。
+
+thaven-mood-the-curtains-must-rise-for-all-name = 帷幕须为众人升起
+
+thaven-mood-the-curtains-must-rise-for-all-desc = 隐私是神圣的权利。建造并安装窗帘以遮挡窥探的目光。不应有人目睹本应私密之事。塔文应尽可能安装窗帘，并以秘密方式会面。

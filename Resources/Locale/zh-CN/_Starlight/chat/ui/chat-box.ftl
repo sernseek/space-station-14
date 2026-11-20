@@ -9,3 +9,9 @@ hud-chatbox-auto-fill-toggle = 名字与职位
 hud-chatbox-auto-highlights-bullet = • {$item}
 
 hud-chatbox-auto-highlights-wrapper = [color=#8a8a8a][i]{$bullets}[/i][/color]
+
+hud-chatbox-select-channel-Mentor = 导师
+
+hud-chatbox-channel-MentorChat = 导师聊天
+
+chat-stacking-count = x{$count}

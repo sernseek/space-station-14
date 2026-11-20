@@ -20,3 +20,23 @@ mentor-system-ticket-closed = 系统：工单已解决并关闭。
 mentor-system-ticket-claimed = 系统：{$name} 已接手此工单。
 mentor-system-player-disconnecting = 已断开连接。
 mentor-system-player-reconnecting = 已重新连接。
+
+staff-help-title = 管理与导师求助
+
+staff-help-admin-hint = 用于向管理员举报其他玩家的问题
+
+staff-help-admin = 管理求助
+
+staff-help-mentor-hint = 用于询问游戏相关问题
+
+staff-help-mentor = 导师求助
+
+mentor-help-tag-admin = 管理员
+
+mentor-help-tag-mentor = 导师
+
+mentor-tickets = 工单
+
+mentor-settings = 设置
+
+mentor-select-ticket = 选择工单以查看其消息

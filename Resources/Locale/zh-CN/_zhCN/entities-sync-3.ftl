@@ -92,10 +92,10 @@ ent-CrateNuclearFissionGenerator = 核发电机建造箱
     .desc = 一只装着建造你自己的核反应堆发电机所需全部材料的板条箱。
 
 ent-CrateRadioHostADs = 广告唱片箱
-    .desc = 一只装有 6 张随机广告 CD 的板条箱，为你的收藏添砖加瓦。
+    .desc = 一箱装有 6 张不同广告 CD 的箱子，可加入你的收藏，每张都有独立盒装。
 
-ent-CrateRadioHostVinyls = 黑胶唱片箱
-    .desc = 一只装有 14 张随机黑胶唱片的板条箱，为你的收藏添砖加瓦。
+ent-CrateRadioHostVinyls = 唱片箱
+    .desc = 一个结实的塑料牛奶箱，被改用来存放唱片。翻一翻就能挑一张。
 
 ent-CrateServiceWashingMachineSet = 自助组装洗衣机套件
     .desc = 一台纳米传讯 C 型洗衣机，已拆解完毕、随时可以发货。内含可能被婴儿误食的小零件。
@@ -137,10 +137,10 @@ ent-DerelictStealthXenoborg = 废弃隐形异种赛博格
     .desc = 一种试图自我复制的人机混合体。这一台显然已不复当年。
 
 ent-DerelictXenoBorgi = 废弃异种赛博柯基
-    .desc = 即使过了这么多年。它依然爱着蓝色。
+    .desc = 即使过了这么多年，它依然喜欢蓝色。
 
 ent-DerelictXenoBorgiBase = 废弃异种赛博柯基
-    .desc = 即使过了这么多年。它依然爱着蓝色。
+    .desc = 即使过了这么多年，它依然喜欢蓝色。
 
 ent-ESSpawnerRandomPeriodicals = 期刊生成器
 
@@ -340,7 +340,7 @@ ent-FoodIanIceCream = 伊恩冰淇淋
     .desc = 做成大家心爱的伊恩形状的橙子香草冰淇淋。
 
 ent-FoodKarelianPastries = 卡累利阿馅饼
-    .desc = 本名 karjalanpiirakka，一种来自旧世界芬兰的传统食物。样子有点怪，但顶饱又好吃。
+    .desc = 其实叫卡累利阿派，来自旧世界芬兰的传统食物。有点奇怪，但管饱又美味。
 
 ent-FoodNTIceCream = 纳米传讯冰淇淋
     .desc = 浓郁的蓝莓与棉花糖，向你最爱的太空雇主致敬！
@@ -352,7 +352,7 @@ ent-FoodPacketRiceBarTrash = 脆米棒包装纸
     .desc = 这是垃圾。
 
 ent-FoodPelmeni = 俄式饺子
-    .desc = 美味的俄罗斯饺子，用爱制作。
+    .desc = 美味的俄式饺子，用爱制作。
 
 ent-FoodPieAmanitaSlice = 一块鹅膏菌派
     .desc = 一块派。好吃！

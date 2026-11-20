@@ -1,0 +1,21 @@
+                         [head=3]NT—中央指挥部联合服务处[/head]
+
+                [center][color=#1f75bb][italic][bold]   中央指挥部正式文件[/bold][/italic][/color][/center]
+────────────────────────────────────────
+⠀⠀                           [bold]机甲授权表[/bold]
+────────────────────────────────────────
+日期与时间：[color=#0000ff] [form] [/color]
+文件编制人：[color=#0000ff] [form] [/color]
+
+本人，[bolditalic][color=#0000ff] [signature] [/color][/bolditalic]，特此批准建造以下机甲。
+
+机甲类别：[color=#0000ff] [form] [/color]
+授权人：[color=#0000ff] [signature] [/color]
+授权原因：[color=#0000ff] [form] [/color] [italic][color=#a9a9a9]
+
+机甲授权表需由研究主管或舰长盖章。
+
+若机甲机体为战斗级，则本文件需由研究主管、安保主管和舰长共同盖章。[/color][/italic]
+
+────────────────────────────────────────
+⠀                      [italic]盖章和/或签名处[/italic]

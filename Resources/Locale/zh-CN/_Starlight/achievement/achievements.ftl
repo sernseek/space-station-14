@@ -155,3 +155,147 @@ role-achievement-reward-fail-hidden = 需要一项[color=yellow]隐藏成就[/co
 loadouts-achievement-reward-pass = 成就奖励已解锁：{$achievement}
 loadouts-achievement-reward-fail = 需要成就奖励：{$achievement}
 loadouts-achievement-reward-fail-hidden = 需要一项隐藏成就奖励
+
+achievement-elite-contractor-name = 精英承包商
+
+achievement-elite-contractor-description = 在单个回合中作为叛徒获得至少15点难度。
+
+achievement-phantom-thief-name = 怪盗
+
+achievement-phantom-thief-description = 在单个回合中作为盗贼获得至少10点难度。
+
+achievement-first-kindred-name = 初代血亲
+
+achievement-first-kindred-description = 在单个回合中作为吸血鬼获得至少10点难度。
+
+achievement-enemy-unknown-name = 未知之敌
+
+achievement-enemy-unknown-description = 在单个回合中作为拟形怪获得至少10点难度。
+
+achievement-blood-herald-name = 鲜血先驱
+
+achievement-blood-herald-description = 在单个回合中作为血缚获得至少10点难度。
+
+achievement-theory-of-objectivity-name = 客观性理论
+
+achievement-theory-of-objectivity-description = 获得精英承包商、怪盗、初代血亲、未知之敌与鲜血先驱。
+
+achievement-really-with-that-name = 真的？用那个？
+
+achievement-really-with-that-description = 尝试用非致命手段自杀。
+
+achievement-failed-phoenix-name = 失败的凤凰
+
+achievement-failed-phoenix-description = 你未能从灰烬中重生。
+
+achievement-puny-god-name = 弱小的神明
+
+achievement-puny-god-description = 你杀了一位神，TA的财宝现在归你了。
+
+achievement-da-roolz-name = 这可违反了规矩哟
+
+achievement-da-roolz-description = 给管理员老鼠一个教训
+
+achievement-gorilla-punch-name = 大猩猩重拳
+
+achievement-gorilla-punch-description = 噢克！噢克！
+
+achievement-osha-name = OSHA 认证
+
+achievement-osha-description = 你未能采取适当的安全预防措施
+
+achievement-fishos-name = Fish OS
+
+achievement-fishos-description = 比平时更疯了一点。
+
+achievement-lizard-plushie-army-name = 最终战争的最终战士
+
+achievement-lizard-plushie-army-description = 召唤阿玛维登的战士
+
+achievement-defib-mouse-name = 每条生命都很重要
+
+achievement-defib-mouse-description = 你知道它们是害虫吧？
+
+achievement-bird-medic-name = 鸟类医师
+
+achievement-bird-medic-description = 啊对，你忘了另外两种止血化学品
+
+achievement-sci-exploded-name = 科学就是一团乱
+
+achievement-sci-exploded-description = 那上面写的是什么？
+
+achievement-hamster-fax-name = 没有仓鼠
+
+achievement-hamster-fax-description = 你以为会发生什么？
+
+achievement-future-refused-name = 但未来拒绝改变。
+
+achievement-future-refused-description = 我会回来的。
+
+achievement-aaahhh-name = 啊啊啊！
+
+achievement-aaahhh-description = 啊啊啊啊！
+
+achievement-master-bartender-name = 酒保大师
+
+achievement-master-bartender-description = 授予杰出酒保的荣誉徽章
+
+achievement-weh-name = 一件weh斗篷，兼具实用性与独特风格。
+
+achievement-weh-description = 一件weh斗篷，兼具实用性与独特风格。
+
+achievement-spicy-rock-name = 辣味石头
+
+achievement-spicy-rock-description = 够你吃一辈子的热量
+
+achievement-personal-liberties-name = 个人自由
+
+achievement-personal-liberties-description = 只是替人"保管"一下
+
+achievement-imperfect-protection-name = 不完美的防护
+
+achievement-imperfect-protection-description = 99% 抗性小于 100%
+
+achievement-vox-moment-name = 沃克斯时刻
+
+achievement-vox-moment-description = 嘶嘶嘶————！！！！
+
+achievement-changeling-defib-name = 行吧，这招也行
+
+achievement-changeling-defib-description = 反正我也不想进停滞状态
+
+achievement-uplink-balloon-name = 辛迪加乐园之旅
+
+achievement-uplink-balloon-description = 结果我只拿到这个蠢气球
+
+achievement-no-room-hell-name = 地狱已满
+
+achievement-no-room-hell-description = 作为 II，你成功把空间站的大部分人变成了行尸走肉！
+
+achievement-broken-media-name = 崩坏的社交媒体
+
+achievement-broken-media-description = 你外科摘除了一个枢纽植入体，你这怪物！
+
+achievement-breaking-good-name = 绝命好
+
+achievement-breaking-good-description = 我们得制毒了
+
+achievement-category-milestones = 里程碑
+
+achievement-category-onboarding = 入职引导
+
+achievement-category-special = 特殊
+
+achievement-category-vampire = 吸血鬼
+
+achievement-category-traitor = 叛徒
+
+achievement-category-thief = 小偷
+
+achievement-category-changeling = 拟形怪
+
+achievement-category-bloodbound = 血之契约
+
+achievement-category-revolutionary = 革命者
+
+achievement-category-nukeops = 核弹特工

@@ -94,9 +94,6 @@ ui-options-vp-integer-scaling-tooltip = 启用后，特定分辨率下视口将�
 ui-options-filter-label = 缩放滤镜：
 ui-options-filter-nearest = 最近邻（无平滑）
 ui-options-filter-bilinear = 双线性（平滑）
-ui-options-trace = 显示子弹轨迹
-ui-options-trace-tooltip = 如果射击时卡顿，请取消勾选，
-                           即时命中武器将不再显示弹道烟雾贴图。
 ui-options-vp-vertical-fit = 垂直适配视口
 ui-options-vp-vertical-fit-tooltip = 启用后，主视口在适配屏幕时将完全忽略水平方向。
                                      如果屏幕比视口小，视口的水平方向会被裁切。
@@ -412,3 +409,7 @@ ui-options-admin-overlay-ghost-hide-distance = 幽灵叠加层随鼠标隐藏范
 ui-options-hold-to-attack-melee = 按住以攻击（近战）
 
 ui-options-hold-to-attack-ranged = 按住以攻击（远程）
+
+ui-options-chat-preview = 输入时显示聊天预览气泡
+
+ui-options-preview-bubble-background-opacity = 预览气泡背景不透明度

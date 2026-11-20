@@ -2,7 +2,7 @@
 
 本目录是 Starlight fork 汉化的工具与资料。游戏语言在
 `Content.Shared/Localizations/ContentLocalizationManager.cs` 中设为 `zh-CN`，
-未翻译词条自动回退英文（`SetFallbackCluture`），因此翻译可以增量进行、随时可玩。
+未翻译词条自动回退英文（`SetFallbackCulture`），因此翻译可以增量进行、随时可玩。
 
 ## 目录结构
 

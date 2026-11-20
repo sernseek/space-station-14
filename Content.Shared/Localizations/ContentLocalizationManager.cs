@@ -30,10 +30,10 @@ namespace Content.Shared.Localizations
             var cultureEn = new CultureInfo(FallbackCulture); // zh-CN
 
             // zh-CN start: primary culture must load first so it becomes DefaultCulture;
-            // the fallback culture must also be loaded before SetFallbackCluture/AddFunction can touch it.
+            // the fallback culture must also be loaded before SetFallbackCulture/AddFunction can touch it.
             _loc.LoadCulture(culture);
             _loc.LoadCulture(cultureEn);
-            _loc.SetFallbackCluture(cultureEn);
+            _loc.SetFallbackCulture(cultureEn);
 
             // Format functions are registered on both cultures: fallback en-US messages
             // still contain { PRESSURE(...) } etc. and resolve within their own bundle.

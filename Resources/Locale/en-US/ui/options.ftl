@@ -1,6 +1,5 @@
 
 # Key functions the rebind panel lists but that never got a display name.
-ui-options-function-jump = Jump
 ui-options-function-use-item-in-hand = Use item in hand
 ui-options-function-alt-use-item-in-hand = Alt-use item in hand
 ui-options-function-open-actions-menu = Open actions menu

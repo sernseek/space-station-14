@@ -79,3 +79,17 @@ job-rules-itg-aligned = 你是{role-type-itg-aligned-name}的一员。
                               记住，你并不为船员服务。
 
 job-name-makeshift-id = 临时ID卡
+
+job-name-commander = 指挥官
+
+job-name-syndicate-agent = 辛迪加特工
+
+job-name-operative = 特工
+
+job-name-soviet = 苏维埃
+
+job-name-tsf = TSF
+
+job-name-tsf-officer = TSF 军官
+
+job-name-gunnerysergeant = 枪炮军士长

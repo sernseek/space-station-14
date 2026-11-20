@@ -11,7 +11,7 @@ ent-ClothingUniformJumpsuitCaptainNoble = 舰长贵族连体衣
     .desc = 更为古典优雅的服装，旨在仿效旧地球贵族的时尚。
 
 ent-ClothingUniformJumpsuitHoPTurtleneck = 人事主管高领衫
-    .desc = 人事主管的高领衫。
+    .desc = 这是人事主管的高领衫。
 
 ent-ClothingUniformJumpsuitHoSBlack = 安保主管黑色西装
     .desc = 安保主管的黑色西装。
@@ -478,7 +478,7 @@ ent-BorgPurrfusSubtypePink = 粉色呼噜型
     .desc = 供其他子类型使用的默认状态。
 
 ent-DerelictBorgiChassis = 废弃博基
-    .desc = 这么多年过去了，它依然喜欢追着自己的尾巴跑。
+    .desc = 即使过了这么多年，它依然喜欢追自己的尾巴。
 
 ent-SmartSubwooferBorgiChassis = 智能低音炮
     .desc = 一只异常聪明的狗，痴迷于劲爆的低音节拍和宣读法则。
@@ -592,16 +592,16 @@ ent-MobSpiderlingBase = 幼蛛
     .desc = 一只小蜘蛛，会长成某种未知、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorRed = 幼蛛
-    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
+    .desc = 一只小蜘蛛，会长成某种未知的、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorGray = 幼蛛
-    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
+    .desc = 一只小蜘蛛，会长成某种未知的、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingTerrorGreen = 幼蛛
-    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
+    .desc = 一只小蜘蛛，会长成某种未知的、巨大而危险的蜘蛛。
 
 ent-MobSpiderlingSpiderAngry = 幼蛛
-    .desc = 一只小蜘蛛，长大后会变成某种未知、巨大而危险的蜘蛛。
+    .desc = 一只小蜘蛛，会长成某种未知的、巨大而危险的蜘蛛。
 
 ent-MobTerrorSpider = 恐怖蜘蛛
     .desc = 巨型蜘蛛与异形的致命混合体。
@@ -610,46 +610,46 @@ ent-MobTerrorRedUnevolvable = 红色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorRed = 红色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorGrayUnevolvable = 灰色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGray = 灰色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorGreenUnevolvable = 绿色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorGreen = 绿色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorBlackUnevolvable = 黑色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorBlack = 黑色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorPurpleUnevolvable = 紫色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorPurple = 紫色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorWhiteUnevolvable = 白色恐蛛
     .desc = 巨型蜘蛛与异形的致命杂交体。
 
 ent-MobTerrorWhite = 白色恐蛛
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorPrince = 恐蛛王子
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorPrincess = 恐蛛公主
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobTerrorMother = 恐蛛之母
-    .desc = 巨型蜘蛛与异形的致命杂交体。
+    .desc = 巨型蜘蛛与异形的致命混种。
 
 ent-MobXenoAdmeme = 掘穴者
     .desc = 它们大多在夜里出现。大多如此。
@@ -885,7 +885,7 @@ ent-MobThaven = 乌里斯特·麦克耳朵
 ent-DrinkWaterBottleEmpty = 水瓶
     .desc = 来源不明的普通净水。你觉得自己或许并不想知道它从哪来。
 
-ent-DrinkVodkizineBottleFull = 伏特加嗪酒瓶
+ent-DrinkVodkizineBottleFull = 大瓶伏特加嗪
     .desc = 治疗宿醉的最佳良药，也是造成宿醉的最佳原因。
 
 ent-DrinkAleBottlePlasticFull = 麦芽酒瓶
@@ -895,13 +895,13 @@ ent-DrinkGravyBoat = 肉汁壶  # short and stout
     .desc = 一只肉汁壶。它只是在不断渗出……肉汁。
 
 ent-FoodCottonCake = 棉花蛋糕
-    .desc = 供蛾人享用的甜点。
+    .desc = 给蛾人吃的甜蜜小点心！
 
 ent-FoodCottonCakeSlice = 一片棉花蛋糕
-    .desc = 你居然把蛾蛾切开了，怎么敢的。
+    .desc = 你居然把蛾蛾切了！你好大的胆子。
 
-ent-FoodCakeResomiSlice = 一片梦境
-    .desc = 折断的翅膀飞不起来，做这片蛋糕的雷索米也一样。
+ent-FoodCakeResomiSlice = 一块碎梦蛋糕
+    .desc = 折断的翅膀无法飞翔，用它做成的雷索米也一样。
 
 ent-FoodPizzaNutriSlice = 一片营养砖披萨
     .desc = 一片营养砖味十足的披萨。

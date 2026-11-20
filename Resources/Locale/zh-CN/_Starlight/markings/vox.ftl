@@ -85,3 +85,27 @@ marking-VoxTailBigAnimated = 沃克斯尾巴（大，动态）
 marking-VoxTailDockedAnimated-vox_tail_docked_animated = 沃克斯尾巴（截短，动态）
 
 marking-VoxTailDockedAnimated = 沃克斯尾巴（截短，动态）
+
+marking-VoxBushTail-bushtail = 沃克斯尾巴（灌木状）
+
+marking-VoxBushTail = 沃克斯尾巴（灌木状）
+
+marking-VoxAllSeeing-allseeingeyes = 全视之眼
+
+marking-VoxAllSeeing-allseeingface = 全视之面
+
+marking-VoxAllSeeing = 全视之眼
+
+marking-VoxThirdEye-thirdeye = 第三只眼
+
+marking-VoxThirdEye = 第三只眼
+
+marking-VoxPeafowlTail-peafowltailbase = 沃克斯尾巴（孔雀）
+
+marking-VoxPeafowlTail-peafowltaileyes = 孔雀尾眼纹
+
+marking-VoxPeafowlTail = 沃克斯尾巴（孔雀）
+
+marking-VoxSeveredTail-severedtail = 沃克斯尾巴（断尾）
+
+marking-VoxSeveredTail = 沃克斯尾巴（断尾）

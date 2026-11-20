@@ -57,3 +57,5 @@ economy-chat-donate-18-message = 佣金款已收到。金额：{$amount} 信用�
 economy-chat-donate-18-wrapped-message = [bold]佣金款已收到。金额：[color=green]{$amount}[/color][/bold] 信用点。
 economy-chat-donate-19-message = 股息已计入你的余额。金额：{$amount} 信用点。
 economy-chat-donate-19-wrapped-message = [bold]股息已计入你的余额。金额：[color=green]{$amount}[/color][/bold] 信用点。
+
+ui-atm-title = 自动取款机

@@ -82,3 +82,71 @@ zapo-name = 扎波罗热塞契套装
 zapo-desc = 哥萨克人进了太空，也在联盟中赢得了尊重。
 vodkizine-name = 伏特加嗪瓶
 vodkizine-desc = 治疗宿醉的最佳良药，也是造成宿醉的最佳原因。
+
+ussp-flash-name = 闪光器
+
+ussp-flash-desc = 可惜不是安保部拿到的那种强效款，但这些应该也能为你的行动略尽绵力。
+
+akms-name = AKMS
+
+akms-desc = 你要带着自豪与尊严使用它，迫使我们的敌人屈服。使用 .30 弹药。
+
+soviet-chest-rig-name = 陆战队胸挂（SSF）
+
+soviet-chest-rig-desc = 一些被贴心地捐给事业的旧弹带。
+
+marine-goggles-name = 陆战队护目镜
+
+marine-goggles-desc = 借给我们的一些战术护目镜，别弄丢了！
+
+soviet-plate-armour-name = 苏联板甲
+
+soviet-plate-armour-desc = 一件在仓库里放了好一阵子的苏联时代旧防弹背心。
+
+SKB-implant-rattler-name = SKB 死亡丧钟
+
+SKB-implant-rattler-desc = 一种专门用于通知特工你已死亡的植入体。
+
+SKB-implant-radio-name = SKB 无线电植入体
+
+SKB-implant-radio-desc = 一种专门用于让 SKB 特工之间互相通讯的植入体。
+
+soviet-voice-mask-name = 变声面具
+
+soviet-voice-mask-desc = 希望我们私下交流的朋友们送的礼物。
+
+syndicate-soviet-shuttle-bundle-name = 穿梭机礼包
+
+syndicate-soviet-shuttle-bundle-desc = 一些知名朋友送的礼物，它很贵，请明智使用。
+
+small-power-cage-name = 小容量电力笼
+
+small-power-cage-desc = 更多可与 LSE1200c 配合使用的可弃置电力笼，你大概丢得起。
+
+frag-grenade-name = 破片手雷
+
+frag-grenade-desc = 偷来的友谊炮的弹药，可惜这里没多少。
+
+stolen-soviet-friendship-name = EXP-320g（NT）
+
+stolen-soviet-friendship-desc = 从一艘 NT-NC 侦察舰上偷来的小型炮位，请明智使用。
+
+sovietolduniform-name = 旧苏联制服
+
+sovietolduniform-desc = 铸犁为剑，从助理到政委助理。
+
+soviet-propaganda-name = 真实报纸
+
+soviet-propaganda-desc = 传播消息！传播消息！
+
+soviet-desk-flag-name = 桌面旗帜
+
+soviet-desk-flag-desc = 即使埋在文件堆里也要彰显荣耀！
+
+soviet-banner-name = 光荣苏联旗帜
+
+soviet-banner-desc = 在我们的空间里昂首挺立，因为这片空间是我们的，同志们！
+
+rev-supply-rift-listing-charging = 补给裂隙（充能：{ $charge }% - 由同志 { $name } { $location } 放置）
+
+rev-supply-rift-unknown-placer = 未知

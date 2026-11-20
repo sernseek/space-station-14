@@ -59,3 +59,34 @@ objective-condition-abduct-description = （对已制服的受害者使用奇异
 abductor-role-greeting = 我是来自高科技种族的专业战斗科学家。我的任务是绑架人类、对其进行实验，并为保证实验的纯粹性而将其完整送回。摧毁空间站、杀人或协助船员都不符合我的利益。
 
 roles-antag-abductor-objective = 绑架空间站船员，并在他们身上开展实验！
+
+abductor-price = { " " }价格：{ $price }
+
+abductor-buy = 标识装饰
+
+abductor-pad = 传送平台：{ $found ->
+        [true] [color=green]已连接[/color]
+       *[false] [color=red]未找到[/color]
+    }
+
+abductor-dispencer = 分配器：{ $found ->
+        [true] [color=green]已连接[/color]
+       *[false] [color=red]未找到[/color]
+    }
+
+abductor-experimentator = 实验装置：{ $found ->
+        [true] [color=green]已连接[/color]
+       *[false] [color=red]未找到[/color]
+    }
+
+abductor-target = 目标：[color=green]{ $name }[/color]
+
+abductor-target-none = 目标：[color=red]无[/color]
+
+abductor-victim = 受害者：[color=green]{ $name }[/color]
+
+abductor-victim-none = 受害者：[color=red]无[/color]
+
+abductor-need-armor = [color=red][font size=16]你需要接入绑架者护甲！[/font][/color]
+
+abductor-console-balance = 余额：{ $balance }

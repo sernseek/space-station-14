@@ -27,3 +27,7 @@ bluespace-harvester-pool-power-cell = 未知电池
 bluespace-harvester-pool-artifact = 未知神器
 bluespace-harvester-pool-rare-seeds = 未知稀有种子
 bluespace-harvester-pool-circuit-board = 未知电路板
+
+bluespace-harvester-min = 最小
+
+bluespace-harvester-max = 最大

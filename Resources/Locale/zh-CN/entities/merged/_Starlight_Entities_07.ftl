@@ -31,7 +31,7 @@ ent-ScurretCube = 斯克雷特方块
     .desc = 淋雨即可！
 
 ent-CCMoproachCube = 中央指挥部莫普蟑方块
-    .desc = 加水即可！*吱吱声*
+    .desc = 只需加水！*吱吱叫！*
 
 
 ent-USSPUplinkRadioPreset = “联络-UZL”无线电

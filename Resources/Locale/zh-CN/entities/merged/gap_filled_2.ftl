@@ -312,7 +312,7 @@ ent-AirlockMaintArmoryLocked = 气闸门
 ent-AirlockMaintAtmoLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintAttorneyLocked = 气闸门
+ent-AirlockMaintAttorneyLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintBarKitchenLocked = 气闸门
@@ -321,13 +321,13 @@ ent-AirlockMaintBarKitchenLocked = 气闸门
 ent-AirlockMaintBarLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintBlackstarLocked = 气闸门
+ent-AirlockMaintBlackstarLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintBrigmedLocked = 气闸门
+ent-AirlockMaintBrigmedLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintBrigmedParaLocked = 气闸门
+ent-AirlockMaintBrigmedParaLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintCaptainLocked = 气闸门
@@ -351,10 +351,10 @@ ent-AirlockMaintChiefMedicalOfficerLocked = 气闸门
 ent-AirlockMaintCommandLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintCommunistLocked = 气闸门
+ent-AirlockMaintCommunistLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintCourtroomLocked = 气闸门
+ent-AirlockMaintCourtroomLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintDetectiveLocked = 气闸门
@@ -372,7 +372,7 @@ ent-AirlockMaintHeadOfSecurityLocked = 气闸门
 ent-AirlockMaintHydroLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintInternalAffairsLocked = 气闸门
+ent-AirlockMaintInternalAffairsLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintJanitorLocked = 气闸门
@@ -384,19 +384,19 @@ ent-AirlockMaintKitchenHydroLocked = 气闸门
 ent-AirlockMaintKitchenLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintLegalLocked = 气闸门
+ent-AirlockMaintLegalLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintMailLocked = 气闸门
+ent-AirlockMaintMailLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintMedLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintMiningCargoLocked = 气闸门
+ent-AirlockMaintMiningCargoLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintParamedicLocked = 气闸门
+ent-AirlockMaintParamedicLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintQuartermasterLocked = 气闸门
@@ -411,13 +411,13 @@ ent-AirlockMaintRnDLocked = 气闸门
 ent-AirlockMaintRnDMedLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintRoboticsLocked = 气闸门
+ent-AirlockMaintRoboticsLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintSalvageLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintSalvageMiningLocked = 气闸门
+ent-AirlockMaintSalvageMiningLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintSecLocked = 气闸门
@@ -429,13 +429,13 @@ ent-AirlockMaintServiceLocked = 气闸门
 ent-AirlockMaintServiceTheatreLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintSurgeryLocked = 气闸门
+ent-AirlockMaintSurgeryLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMaintTheatreLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintWizardLocked = 气闸门
+ent-AirlockMaintWizardLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AirlockMedTakLocked = 气闸门
@@ -696,7 +696,7 @@ ent-CloningPod = 克隆舱
 ent-ClothingHeadHatChameleon = 贝雷帽
     .desc = 一顶贝雷帽，艺术家的最爱。
 
-ent-ClothingHeadsetChameleon = 助理耳机
+ent-ClothingHeadsetChameleon = 乘客耳机
     .desc = 升级版模块化头戴式通讯器，可安装加密密钥。
 
 ent-ClothingNeckCloakBoat = 舰长斗篷
@@ -843,13 +843,13 @@ ent-FloorSnowChasm = 深渊
     .desc = 你根本看不到底。
 
 ent-FoodCookedLizardPlate = 火山喷发
-    .desc = 一件描绘森林消亡的艺术品
+    .desc = 一件展现森林消亡的艺术品。
 
 ent-FoodPizzaNutribrick = 营养砖披萨
     .desc = 顶上铺着大块紧实的营养砖粒。
 
-ent-FoodResomiCake = 迷梦蛋糕
-    .desc = 可怜的雷索米再也无法追逐他们的梦想了
+ent-FoodResomiCake = 破碎之梦蛋糕
+    .desc = 可怜的雷索米再也追不上自己的梦了……
 
 ent-FoodSoupMothBowl = 飞蛾汤
     .desc = 一道黑市美食，因手段残忍而为人所不齿
@@ -1024,7 +1024,7 @@ ent-UniformScrubsColorBlack = 黑色手术服
     .desc = 舒适与实用的结合，让你掏空某人的每一件器官再卖给太空机器人时，看起来正式得多。
 
 ent-WeaponPulsePistolCasino = 戈莫拉脉冲手枪
-    .desc = 成功取决于深谋远虑、对概率的冷静计算，以及对每一个游离变量的考量。这正是这把枪之所以是戈莫拉之兵的原因。
+    .desc = 成功取决于深谋远虑、对概率的冷静计算，以及考虑所有偶然变量。这就是为什么这把枪是蛾摩拉武器。
 
 ent-WehpetInstrument = weh 宠物
     .desc = 某只蜥蜴人闲得发慌时做出来的东西。

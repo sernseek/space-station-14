@@ -8,3 +8,9 @@ comms-console-announcement-title-sec = 安保部
 comms-console-announcement-title-srv = 服务部
 comms-console-announcement-title-sup = 货运部
 comms-console-announcement-title-law = 法务部
+
+comms-console-announcement-title-medtak = 医疗特遣队
+
+comms-console-announcement-title-news = 突发新闻
+
+comms-console-menu-shuttle-button-disabled = { $text }（已禁用）

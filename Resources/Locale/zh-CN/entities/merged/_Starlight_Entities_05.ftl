@@ -216,8 +216,8 @@ ent-PlushieKilla = 琪拉毛绒玩偶
 ent-PlushieFixes = 修修毛绒玩偶
     .desc = 一件造型独特、柔软可爱的纪念玩具。
 
-ent-PlushieBarfo = 鸣笛巴弗毛绒玩偶
-    .desc = 一件造型独特、柔软可爱的纪念玩具。
+ent-PlushieBarfo = 巴尔福玩偶
+    .desc = 柔软、好抱，而且可疑地像在打什么主意！这个会说话的巴尔福玩偶有好多话要说！
 
 ent-PlushieEina = 艾娜毛绒玩偶
     .desc = 一件造型独特、柔软可爱的纪念玩具。
@@ -766,7 +766,7 @@ ent-RubberStampReporter = 记者橡皮章
     .desc = 一件具有特殊用途的物品。
 
 ent-SalvageTicket = 兑换券
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-USSPUplinkImplant = 苏维埃升链植入物
     .desc = 用于将专用皮下植入物注入体内的装置。

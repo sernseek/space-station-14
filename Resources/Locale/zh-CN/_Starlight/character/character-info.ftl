@@ -11,3 +11,27 @@ character-info-objectives = 概览
 character-info-background = 背景
 character-info-background-label = 背景：
 character-info-background-none = 无背景。
+
+character-info-ic-ooc = IC / OOC 信息
+
+character-info-no-background = 无背景。
+
+character-info-ic-header = 角色内信息：
+
+character-info-ic-hint = 其他人在回合中能了解到关于你角色的信息。
+
+character-info-description = 描述：
+
+character-info-hidden = 隐藏信息
+
+character-info-exploitable = 可利用信息：
+
+character-info-secrets = 秘密：
+
+character-info-alignment-crew = 船员阵营
+
+character-info-alignment-free-agent = 自由角色
+
+character-info-faction-tsf = 跨太阳系联邦
+
+character-info-alignment-format = [font size=12][color={$color}]{$alignment}[/color][/font]

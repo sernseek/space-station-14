@@ -1,0 +1,68 @@
+<Document>
+  # 超物质分层
+
+  当超物质无法再承受其所受的压力时，便会发生分层。
+
+  当恢复失败时，晶体进入不稳定状态，其损伤累积速度快于晶体自身的修复速度。
+
+  分层事件被视为空间站最高级别的紧急状况。
+
+  ## 应急响应
+
+  若超物质开始失稳，工程人员应立即设法降低晶体所受的压力。
+
+  优先行动：
+
+  1. 关闭导致失稳的设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="Emitter" Caption="发射器" />
+  </Box>
+
+  2. 修正危险的舱室环境。
+
+  <Box>
+    <GuideEntityEmbed Entity="ThermiteFire" Caption="大气危害" />
+  </Box>
+
+  3. 必要时部署密闭措施。
+
+  <Box>
+    <GuideEntityEmbed Entity="MetalFoamGrenade" Caption="金属泡沫手雷" />
+  </Box>
+
+  若无法稳定晶体，将导致彻底的结构性崩塌。
+
+  ## 最终应急程序
+
+  若无法阻止分层：
+
+  1. 通知全体船员当前正在发生的超物质紧急状况。
+  2. 建议执行撤离程序。
+  3. 分发经批准使用的防护装备。
+  4. 准备工程设备以进行事后清理。
+
+  ## 分层清理
+
+  <Box>
+    <GuideEntityEmbed Entity="Cascad1" Caption="层叠晶体" />
+  </Box>
+
+  在完全失效的情况下，原超物质晶体会崩塌并转变为层叠晶体。
+
+  层叠晶体是极度硬化的结构，会向周围材料中扩张。
+
+  由于其结构特殊，需要重型工具才能高效清除。
+
+  经批准的工具包括：
+
+  <Box>
+    <GuideEntityEmbed Entity="FireAxe" Caption="消防斧" />
+    <GuideEntityEmbed Entity="HammerBreachingNT" Caption="破拆锤" />
+  </Box>
+
+  应急工具可能会损坏层叠晶体，但不适用于清理作业。
+
+  在层叠晶体被完全清除并宣布区域安全之前，人员应避免进入受影响区域。
+
+</Document>

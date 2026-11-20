@@ -15,3 +15,7 @@ entity-effect-status-effect-RadiationProtection = 辐射防护
 entity-effect-status-effect-Drowsiness = 困倦
 entity-effect-status-effect-Adrenaline = 肾上腺素
 entity-effect-status-effect-PoliteLanguage = 礼貌用语
+entity-effect-status-effect-NightVision = 夜视
+entity-effect-status-effect-NoSlip = 防滑
+entity-effect-status-effect-Insulated = 电气绝缘
+entity-effect-status-effect-IgnoreSlowOnDamage = 免受伤势导致的减速

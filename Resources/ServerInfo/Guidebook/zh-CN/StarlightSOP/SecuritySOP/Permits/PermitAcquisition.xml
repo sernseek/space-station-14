@@ -1,0 +1,174 @@
+<!--
+如果你在想：“但这意味着[insert item here]可以由[this person or without Central Command]批准”，那么我要说：改物品的等级，而不是改这份标准操作程序。
+如果某件辛迪加物品是三级、因此可由安保主管批准，而你认为这不合理，那就去改物品，而不是改这里的三级标准操作程序。
+
+如果真的有必要修改此SOP，请务必先认真思考，或者是否可以仅通过更改物品来解决。
+-->
+<Document>
+# 装备、武器与战斗装备许可证指南
+
+[italic]许可证批准是一种特权，而非权利。没有人有义务签字，且许可证若不随身携带即视为无效。[/italic]
+
+## 审批流程
+
+- [bold]审批顺序：[/bold] 按以下顺序盖章：物品来源、[color=#fce742]相关部门主管[/color]、[color=#fcdf03]舰长[/color]、[color=#86d420]中央指挥部[/color]。
+- [bold]相关部门主管：[/bold] 指物品批准清单上所列部门或企业的空间站官方认可的最高级别人员，例如部门主管或代理部门主管。
+- [bold]物品来源：[/bold] 若物品实际来自某特定部门或企业，则必须获得该部门[color=#fce742]相关部门主管[/color]的批准。无来源的物品（如在维护通道中发现的物品）可由任意[color=#fce742]相关部门主管[/color]批准。
+- [bold]NT-CC物品：[/bold] 任何获准供至少一个NT-CC部门使用的物品，必须至少获得其中一位[color=#fce742]相关部门主管[/color]的盖章（如适用，还须加上来源部门盖章）。未获准供任何NT-CC部门使用的物品，只需所属企业的[color=#fce742]相关部门主管[/color]盖章，但武器和敌方组织物品除外，它们仍需下述附加批准。
+- [bold]敌方组织：[/bold] 由于敌方组织没有官方认可的[color=#fce742]相关部门主管[/color]，请使用下表“敌方组织”一栏来确定该物品的[color=#fce742]相关部门主管[/color]。
+- [bold]武器与战斗装备：[/bold] 这些物品遵循装备许可证规定，但须按下表获得额外的安保部批准。此外，[color=#ff6666]典狱长[/color]和[color=#c4363b]枪炮军士[/color]可在表中列明的情况下批准[color=#ff4242]安保部[/color]战斗装备或武器，无需[color=#ff4242]安保主管[/color]参与，此时其充当[color=#fce742]相关部门主管[/color]。
+
+  <Table Columns="5">
+    <ColorBox>
+      <Box Margin="2">
+        [bold]等级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="2">
+        [bold]NT-CC联合体[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="2">
+        [bold]所属企业[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="2">
+        [bold]敌方组织[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="2">
+        [bold]武器与战斗装备[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+        [bold]1级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#784a4a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        典狱长与枪炮军士
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#784a4a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        典狱长与枪炮军士
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+        [bold]2级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#784a4a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        典狱长与枪炮军士
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#784a4a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        典狱长与枪炮军士
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+        [bold]3级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#786341">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#6e2d2d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        安保主管
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#784a4a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        典狱长与枪炮军士
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+        [bold]4级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#725225">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管与舰长
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#725225">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管与舰长
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2d5234">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        舰长与中央指挥部
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#6e2d2d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        安保主管
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+        [bold]5级[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2d5234">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管与中央指挥部
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2d5234">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        相关部门主管与中央指挥部
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2d5234">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        舰长与中央指挥部
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#725225">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        安保主管与舰长
+      </Box>
+    </ColorBox>
+  </Table>
+
+</Document>

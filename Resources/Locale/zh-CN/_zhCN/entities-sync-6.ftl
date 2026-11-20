@@ -116,7 +116,7 @@ ent-PlayerDerelictStealthXenoborgGhostRole = 废弃隐形异种赛博格
     .desc = 以自我复制为目标的人机混合体。这台已经风光不再。
 
 ent-PlayerDerelictXenoBorgiGhostRole = 废弃异种博吉
-    .desc = 这么多年过去了。还是喜欢蓝色。
+    .desc = 即使过了这么多年，它依然喜欢蓝色。
 
 ent-PlumbingInlineFilter = 管道内置过滤器
     .desc = 安装在管道线路中，可从中抽取最多10种特定试剂，每种储存10u。其余试剂仍留在管网中。
@@ -405,10 +405,10 @@ ent-ReagentEggWine = 怪蛋
     .desc = 一颗奇怪的蛋！
 
 ent-RecordMilkCrate = 唱片箱
-    .desc = 一个结实的塑料牛奶箱，被改造来收纳带封套的黑胶唱片。它装不下别的东西。
+    .desc = 一个结实的塑料牛奶箱，被改用来存放唱片。翻一翻就能挑一张。
 
 ent-RecordMilkCrateFilled = 唱片箱
-    .desc = 一个结实的塑料牛奶箱，被改造来收纳带封套的黑胶唱片。它装不下别的东西。
+    .desc = 一个结实的塑料牛奶箱，被改用来存放唱片。翻一翻就能挑一张。
 
 ent-RedWizardDuelistMedallion = 格鲁布拉巴鲁徽章
     .desc = 证明红袍巫师在奥秘之道上技高一筹的证物。

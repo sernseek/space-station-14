@@ -1,0 +1,72 @@
+<Document>
+# 许可证示例
+
+  <Table Columns="1">
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="ClothingEyesGlassesMeson" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]工程护目镜[/bold]
+          - [bold]来自工程部：[/bold] 若你从工程部获得护目镜，只需[color=#ff733c]工程主管[/color]盖章。
+          - [bold]从ITG购买：[/bold] 若你从ITG购买，则需[color=#963dca]打捞主管[/color]盖章和[color=#ff733c]工程主管[/color]盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="WeaponPistolMk58" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]Mk 58[/bold]
+          - [bold]来自安保部：[/bold] 若你从安保部获得Mk 58，只需[color=#ff6666]典狱长[/color]盖章或[color=#c4363b]枪炮军士[/color]盖章。
+          - [bold]从ITG购买：[/bold] 若你从ITG购买，则需[color=#963dca]打捞主管[/color]盖章，以及[color=#ff6666]典狱长[/color]或[color=#c4363b]枪炮军士[/color]盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="JawsOfLifeMed" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]医疗用救生钳[/bold]
+          - [bold]无来源（例如在维护通道中发现）：[/bold] 由于其无部门来源且获准供医疗部与安保部使用，你只需任意一位相关部门主管盖章：[color=#57b8f0]医疗主管[/color]、[color=#ff6666]典狱长[/color]、[color=#c4363b]枪炮军士[/color]或[color=#ff4242]安保主管[/color]。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="ClothingHeadHatBeretSalvageMercGreen" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]绿色拾荒者贝雷帽[/bold]
+          - 作为未获准供任何NT-CC部门使用的物品，你只需[color=#963dca]打捞主管[/color]盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="ClothingHeadHatCatEars" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]猫耳[/bold]
+          - 作为1级竞争企业物品，你只需[color=#ff6666]典狱长[/color]盖章或[color=#c4363b]枪炮军士[/color]盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="WeaponMedTakPistol" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]CODE-4“分诊”[/bold]
+          - 作为4级所属企业武器，你需要[color=#880606]MedTak[/color]、[color=#ff4242]安保主管[/color]和[color=#fcdf03]舰长[/color]的盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box Margin="4" Orientation="Horizontal" HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="" Margin="4"/>
+        <Box Margin="4" Orientation="Vertical" HorizontalAlignment="Stretch">
+          [bold]血红强化服[/bold] [color=#ff4242]此条目仅限拥有机密知识的船员查阅。[/color]
+          - 作为4级竞争企业战斗装备，你需要[color=#ff4242]安保主管[/color]、[color=#fcdf03]舰长[/color]和[color=#86d420]中央指挥部[/color]的盖章。
+        </Box>
+      </Box>
+    </ColorBox>
+  </Table>
+
+</Document>

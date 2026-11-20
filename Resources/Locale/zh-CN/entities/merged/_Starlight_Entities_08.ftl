@@ -335,7 +335,7 @@ ent-WeaponShotgunCycler = 循环式霰弹枪
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-WeaponShotgunGA12 = GA 12 武器
-    .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
+    .desc = 一把过时的副武器，在穿梭于边境星系的某些 PMC 中鲜有使用，配有可装三发弹的转轮。没错，是弹，这玩意发射十二号口径。
 
 ent-WeaponRevolverGA6Fang = GA-6 武器
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
@@ -504,7 +504,7 @@ ent-GlueGrenade = 胶水手雷
     .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
 
 ent-ToxicGasGrenade = 酸性气体手雷
-    .desc = 一件用途鲜明的武器；使用时请留意其弹药、射程与安全风险。
+    .desc = 一种令人痛苦的群体控制毒气手雷，装满硫酸和催泪瓦斯。使用前请先打开内置供氧！
 
 
 ent-WeaponPDW9TaserBorg = PDW-9 内置泰瑟
@@ -871,7 +871,7 @@ ent-RecruitmentComputer = 功能设备
     .desc = 一台用于执行其标示功能的设备。
 
 ent-AbductorConsole = 功能设备
-    .desc = 一台用于执行其标示功能的设备。
+    .desc = 回收被科学家工具标记的人。也用于购买替换装备和连接特工的背心。
 
 ent-CentCommSectoralConsole = 功能设备
     .desc = 一台用于执行其标示功能的设备。
@@ -1045,8 +1045,8 @@ ent-MassDriver = 质量投射器
 ent-Gramophone = 留声机
     .desc = 仔细检查可以了解它的用途与特性。
 
-ent-VinylPlayer = 黑胶唱机
-    .desc = 仔细检查可以了解它的用途与特性。
+ent-VinylPlayer = 唱片机
+    .desc = 一台放在抽屉柜上的老式唱片机。会为附近的人大声播放；电台设备的唱片架会直接播出去。
 
 
 ent-KitchenOven = 烤箱

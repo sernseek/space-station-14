@@ -4,7 +4,7 @@ trait-language-foreigner-light-name = 轻度异乡人
 trait-language-foreigner-light-desc = 你能理解通用语，但还不太会说。你有一台翻译器帮助理解基本内容。最好确保它电量充足。
 trait-language-foreigner-name = 异乡人
 trait-language-foreigner-desc = 你无法理解通用语，交流始终需要翻译器。你有一台翻译器帮助听说。务必确保它电量充足。
-trait-language-signlanguage-name = 手语
+trait-language-signlanguage-name = 银河手语
 trait-language-signlanguage-desc = 聋哑人士常用的手语。由于在无空气环境中十分实用，在太空居民间尤其流行。
 trait-language-bubblish-name = 泡泡语
 trait-language-bubblish-desc = 你学会了用各种噗啵声交流的史莱姆语言——泡泡语。
@@ -30,16 +30,14 @@ trait-language-moffic-name = 蛾语
 trait-language-moffic-desc = 这是蛾人的语言。除了你和以此为母语的人，其他人基本完全听不懂。
 trait-language-thaveyan-name = Thaven 语
 trait-language-thaveyan-desc = 你与鱼人相处得够久，已经掌握其语言的韵律，不过未必能掌握他们反复无常的命运情绪。
-trait-language-darktongue-name = 暗语
-trait-language-darktongue-desc = 这种属于恶棍和狂热分子的粗粝语言很容易上手，但别让安保听见，否则他们会觉得你图谋不轨……
 trait-language-felyaic-name = 费利亚语
-trait-language-felyaic-desc = 这种更加文雅的暗语变体能被塞里西人和德塔里人理解，但在虚无裂痕之外几乎无人知晓。即使已通过其他途径学会暗语，你仍须购买暗语特质才能学习费利亚语。
+trait-language-felyaic-desc = 这种更为精炼的暗语变体能被塞里斯与德塔里理解，但在虚空伤痕之外几乎无人知晓。只有塞里斯、德塔里与人偶可以将其作为额外语言学习。
 trait-language-classical-name = 古典语
 trait-language-classical-desc = 曾几何时，人人都说这种语言。它没有你想象中那么难学。
 trait-language-grumbakul-name = 格伦巴库语
 trait-language-grumbakul-desc = 你已经掌握了矮人族的语言——至少你的矮人朋友是这么说的。
 trait-language-aielic-name = 艾耶利语
-trait-language-aielic-desc = 奎利人的优美语言最适合吟诗，但只要犯一次错，就会成为一辈子的笑柄。
+trait-language-aielic-desc = 奎利人优美的语言天生适合诗歌，但只要犯一个错，你就会永远被人笑话。
 trait-language-lagomorphian-name = 兔形语
 trait-language-lagomorphian-desc = 一种为适应兔形人不同发声结构而发展出的林纳尔克斯融合语言。
 trait-language-squeakish-name = 吱吱语
@@ -48,3 +46,15 @@ trait-language-squeakish-desc = 你会说啮齿人的吱吱语，这种语言由
 trait-language-xenosocialized-name = 异族社会化
 
 trait-language-xenosocialized-desc = 你在成长过程中没有被教过你所属物种通常使用的语言。
+
+trait-language-classicalsign-name = 古典手语
+
+trait-language-classicalsign-desc = 一种更古老、更冷僻的手语，源自泰拉。它与银河手语完全不同。
+
+trait-language-cygnistandard-name = 天鹅座标准语
+
+trait-language-cygnistandard-desc = 你通过居住或其他途径学会了USSP的语言。也许别把闪光弹带在身上。
+
+trait-language-nexusintegrated-name = 联结整合语
+
+trait-language-nexusintegrated-desc = 你拥有联结上行植入体，尽管你并非阿瓦利人或雷索米人。你很可能在他们的文化中长大，或是在长期痴迷与文化沉浸后设法弄到了一个。你必须不是实验体，且懂得抓挠语才能选择此特质。

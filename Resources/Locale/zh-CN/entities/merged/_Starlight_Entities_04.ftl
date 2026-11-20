@@ -199,7 +199,7 @@ ent-FoodMothBatter = 棉花面糊
 
 
 ent-FoodFriedfelionoid = 肯塔基炸猫人
-    .desc = 为迎合新潮流而现代化改良的古老菜肴。
+    .desc = 一道迎合新潮流而现代化的老菜。
 
 ent-FoodFriedRodentia = 肯塔基炸鼠人
     .desc = 串在棍上、富含维生素的啮齿动物。
@@ -214,7 +214,7 @@ ent-FoodSoupStewBlinding = 一分钟致盲炖菜
     .desc = 我女儿在吃头发！怎样才能委婉地告诉她这样不好？
 
 ent-FoodCookedShadekinCore = 核心意面
-    .desc = 你胜利的可食用象征。
+    .desc = 你胜利的可食用化身。
 
 
 ent-FoodMeatKoiFish = 生锦鲤鱼排
@@ -1000,16 +1000,16 @@ ent-SalvageLeadPDA = 打捞领队 PDA
     .desc = 闻起来像鲜血和灰烬。
 
 ent-VeteranSalvageLeadPDA = 资深打捞领队 PDA
-    .desc = 看起来勉强用一堆废料修补过。
+    .desc = 看上去是用一堆废料勉强拼补起来的。非常勉强。
 
 ent-VeteranSalvagePDA = 资深打捞专员 PDA
-    .desc = 看起来勉强用一堆废料修补过。
+    .desc = 看上去是用一堆废料勉强拼补起来的。非常勉强。
 
 ent-MiningPDA = 采矿 PDA
-    .desc = 每条缝隙里都有泥土。
+    .desc = 每条裂缝里都有泥土。
 
 ent-VeteranMiningPDA = 资深采矿 PDA
-    .desc = 屏幕已经开裂，按钮也几乎失灵。
+    .desc = 屏幕已经碎裂，按键也几乎失灵了。
 
 ent-MailPDA = 邮差 PDA
     .desc = 小心被纸割伤。

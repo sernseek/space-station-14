@@ -18,3 +18,6 @@ command-description-inventory-ensure =
     若匹配标志的槽位为空，则将指定实体放入管道中首个拥有该槽位的实体；最后传递槽位内物品的 UID。
 command-description-inventory-ensurespawn =
     若匹配标志的槽位为空，则在管道中首个拥有该槽位的实体上生成指定原型；最后传递槽位内物品的 UID。
+
+command-description-inventory-query =
+    获取被管道传入实体的物品栏槽位中的实体并继续传递。

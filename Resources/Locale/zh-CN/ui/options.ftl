@@ -1,6 +1,4 @@
-
 # 按键设置面板会列出、但上游没给显示名的功能。
-ui-options-function-jump = 跳跃
 ui-options-function-use-item-in-hand = 使用手中物品
 ui-options-function-alt-use-item-in-hand = 替代使用手中物品
 ui-options-function-open-actions-menu = 打开技能菜单

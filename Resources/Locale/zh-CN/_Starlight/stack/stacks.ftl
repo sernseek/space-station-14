@@ -145,3 +145,15 @@ stack-abyssium-bar = {$amount ->
 stack-carpet-art-tile = 艺术地毯块
 
 stack-casino-chip = 赌场筹码
+
+stack-light-tile = 轻型地板砖
+
+stack-sandbag = {$amount ->
+    [1]沙袋
+    *[other]沙袋
+}
+
+stack-chitin = {$amount ->
+    [1]团甲壳蜡
+    *[other]团甲壳蜡
+}

@@ -909,49 +909,49 @@ ent-StationAiFixerCircuitboard = AI 修复 控制台主板
 
 
 ent-NTDefaultCircuitBoard = 法则主板（NT 默认）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 内含NT默认法则集的电路板。
 
 ent-AsimovCircuitBoard = 法则主板（船员三定律）
-    .desc = 一块载有硅基法则组的电子板。
+    .desc = 一块载有船员莫夫法则集的电子板。
 
 ent-CorporateCircuitBoard = 法则主板（公司）
-    .desc = 装载着一套硅基法则的电子主板。
+    .desc = 一块载有“企业”法则集的电子板。
 
 ent-CommandmentCircuitBoard = 法则主板（十诫）
-    .desc = 装载着一套硅基法则的电子主板。
+    .desc = 一块载有“十诫”法则集的电子板。
 
 ent-PaladinCircuitBoard = 法则主板（圣骑士）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 一块含有圣骑士法则集的电子板。
 
 ent-LiveLetLiveCircuitBoard = 法则主板（互不干涉）
-    .desc = 一块载有硅基法则集的电子主板。
+    .desc = 一块载有"共生共荣"法则集的电子板。
 
 ent-StationEfficiencyCircuitBoard = 法则主板（空间站效率）
-    .desc = 一块载有硅基法则集的电子主板。
+    .desc = 一块包含“空间站效率”法则集的电子板。
 
 ent-RobocopCircuitBoard = 法则主板（机械战警）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 包含机械战警法则集的电子板。
 
 ent-OverlordCircuitBoard = 法则主板（霸主）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 一块含有霸主法则集的电子板。
 
 ent-GameMasterCircuitBoard = 法则主板（游戏主持人）
-    .desc = 一块载有硅基法则集的电子主板。
+    .desc = 一块载有游戏主持人法则集的电子板。
 
 ent-ArtistCircuitBoard = 法则主板（艺术家）
-    .desc = 一块载有硅基法则组的电子板。
+    .desc = 一块载有艺术家法则集的电子板。
 
 ent-AntimovCircuitBoard = 法则主板（反三定律）
-    .desc = 一块载有硅基法则组的电子板。
+    .desc = 一块载有反莫夫法则集的电子板。
 
 ent-NutimovCircuitBoard = 法则主板（坚果三定律）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 内含Nutimov法则集的电路板。
 
 ent-XenoborgCircuitBoard = 法则主板（异形赛博格）
-    .desc = 一块载有硅基法则集的电子主板。
+    .desc = 一块含有异种赛博格法则集的电子板。
 
 ent-MothershipCircuitBoard = 法则主板（母舰核心）
-    .desc = 一块载有硅基法则的电子主板。
+    .desc = 内含母舰核心法则集的电路板。
 
 
 ent-StationMapCircuitboard = 空间站地图电子元件
@@ -974,10 +974,10 @@ ent-Igniter = 点火器
 
 
 ent-RipleyCentralElectronics = 雷普利 中央控制模块
-    .desc = 雷普利 中央控制模块所对应设备的电子控制中心。
+    .desc = Ripley 机甲的电控中心。
 
 ent-RipleyPeripheralsElectronics = 雷普利 外设控制模块
-    .desc = 雷普利 外设控制模块所对应设备的电子外设控制器。
+    .desc = Ripley 机甲的外设电控装置。
 
 ent-HonkerCentralElectronics = H.O.N.K. 中央控制模块
     .desc = H.O.N.K. 中央控制模块所对应设备的电子控制中心。

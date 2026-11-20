@@ -45,3 +45,9 @@ JobCentCommChef = 中央指挥部厨师
 JobCentCommBartender = 中央指挥部酒保
 
 JobCentCommJanitor = 中央指挥部清洁工
+
+job-name-scurret = 情绪支持沼狸
+
+job-name-syndicate-scurret = 辛迪加斯克雷特增援
+
+JobEmotionalSupportScurret = 情绪支持沼狸

@@ -220,3 +220,9 @@ crafting-menu-name-false-projector = 假闸门投影器
 crafting-menu-text-false-projector = 看起来几乎跟真的一样。在你做该做的事时，可以挡住那些心不在焉或疏于观察的人的视线。
 
 construction-graph-tag-holoprojector = 任意全息投影器
+
+crafting-menu-name-molo = 莫洛托夫鸡尾酒
+
+crafting-menu-text-molo = 任何不满分子的经典之选，掌心之中的无政府主义。
+
+construction-graph-tag-drink-bottle = 任意大玻璃瓶

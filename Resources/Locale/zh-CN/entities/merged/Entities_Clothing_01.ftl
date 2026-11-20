@@ -561,7 +561,7 @@ ent-ClothingHeadHelmetHardsuitEngineering = 工程硬装宇航服头盔
 ent-ClothingHeadHelmetHardsuitSpatio = 太空作业员硬装宇航服头盔
     .desc = 这是一件太空作业员硬装宇航服头盔，具有与其用途相符的设计。
 
-ent-ClothingHeadHelmetHardsuitSalvage = 打捞硬装宇航服头盔
+ent-ClothingHeadHelmetHardsuitSalvage = 采矿硬壳服头盔
     .desc = 这是一件打捞硬装宇航服头盔，具有与其用途相符的设计。
 
 ent-ClothingHeadHelmetHardsuitGoliath = 歌利亚硬装宇航服头盔
@@ -667,7 +667,7 @@ ent-ClothingHeadHatBeretSecurity = 安保贝雷帽
     .desc = 这是一件安保贝雷帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatSecurityTrooper = 骑警帽
-    .desc = 这是一件骑警帽，具有与其用途相符的设计。
+    .desc = 纳米传讯士兵的战役帽。本来还该配个盒子……
 
 ent-ClothingHeadHatCasa = 卡萨
     .desc = 这是一件卡萨，具有与其用途相符的设计。
@@ -697,7 +697,7 @@ ent-ClothingHeadHatBeretMerc = 雇佣兵贝雷帽
     .desc = 这是一件雇佣兵贝雷帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatBeretCommand = 指挥部贝雷帽
-    .desc = 这是一件指挥部贝雷帽，具有与其用途相符的设计。
+    .desc = 一顶带纳米传讯标志的贝雷帽。散发着权威的气息。
 
 ent-ClothingHeadHatBowlerHat = 圆顶礼帽
     .desc = 这是一件圆顶礼帽，具有与其用途相符的设计。
@@ -727,7 +727,7 @@ ent-ClothingHeadHatHopcap = 人事主管帽
     .desc = 这是一件人事主管帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatHoshat = 安保主管帽
-    .desc = 这是一件安保主管帽，具有与其用途相符的设计。
+    .desc = 安保主管佩戴的时尚帽子，让干员们知道谁说了算。
 
 ent-ClothingHeadHatOutlawHat = 法外狂徒帽
     .desc = 这是一件法外狂徒帽，具有与其用途相符的设计。
@@ -783,7 +783,7 @@ ent-ClothingHeadHatWitch = 女巫帽
 ent-ClothingHeadHatWizardFake = 仿制巫师帽
     .desc = 这是一件仿制巫师帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatWizard = 蓝色巫师帽 # Starlight name consistency
+ent-ClothingHeadHatWizard = 巫师帽
     .desc = 这是一件蓝色巫师帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatXmasCrown = 圣诞王冠
@@ -1008,7 +1008,7 @@ ent-ClothingHeadHatHoodBioSecurity = 生化防护兜帽
 ent-ClothingHeadHatHoodBioVirology = 生化防护兜帽
     .desc = 这是一件生化防护兜帽，具有与其用途相符的设计。
 
-ent-ClothingHeadHatHoodChaplainHood = 牧师兜帽 #Starlight, de-pluralifcation
+ent-ClothingHeadHatHoodChaplainHood = 牧师兜帽
     .desc = 这是一件牧师兜帽，具有与其用途相符的设计。
 
 ent-ClothingHeadHatHoodCulthood = 邪教兜帽

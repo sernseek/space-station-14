@@ -39,3 +39,37 @@ signal-port-description-enabled = 设备开启并启用时发出。
 
 signal-port-name-disabled = 已禁用
 signal-port-description-disabled = 设备关闭并禁用时发出。
+
+signal-port-name-toggleable-device-status = 状态
+
+signal-port-description-toggleable-device-status = 设备开启时为高电平，关闭时为低电平。
+
+signal-port-name-toggleable-device-status-inverted = 反相状态
+
+signal-port-description-toggleable-device-status-inverted = 设备开启时为低电平，关闭时为高电平。
+
+signal-port-name-turret-controller-sync-sender = 同步
+
+signal-port-description-turret-controller-sync-sender = 与另一面板共享此炮塔控制面板的武装与授权设置。
+
+signal-port-name-combustion-turbine-console-sender = 燃烧涡轮控制台
+
+signal-port-description-combustion-turbine-console-sender = 控制一台燃烧涡轮。将其连接至压缩机或涡轮均可。
+
+signal-port-name-airlock-cycler-side-a = A 侧
+
+signal-port-name-airlock-cycler-side-b = B 侧
+
+signal-port-name-airlock-cycler-side-c = C 侧
+
+signal-port-name-airlock-cycler-side-d = D 侧
+
+signal-port-description-airlock-cycler-side = 在此连接舱室某一侧的门与循环按钮。
+
+signal-port-name-airlock-cycler-inlets = 进气口
+
+signal-port-description-airlock-cycler-inlets = 为舱室充气的通风口。
+
+signal-port-name-airlock-cycler-outlets = 出气口
+
+signal-port-description-airlock-cycler-outlets = 为舱室抽气的通风口、洗涤器或泵。小舱室可在两个端口上共用一个通风口。

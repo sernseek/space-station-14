@@ -85,3 +85,5 @@ wanted-list-status-label = [color=darkgray]状态：[/color] {$status ->
 wanted-list-history-table-time-col = 时间
 wanted-list-history-table-reason-col = 罪名
 wanted-list-history-table-initiator-col = 发起者
+
+crew-manifest-cartridge-loading-failed = 加载船员名单失败！

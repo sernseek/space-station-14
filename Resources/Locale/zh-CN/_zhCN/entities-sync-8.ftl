@@ -190,17 +190,17 @@ ent-StationRadioCircuitboard = 空间站电台机器主板
 ent-StationRadioReceiver = 空间站电台
     .desc = 收听你所在空间站本地电台的热门金曲。
 
-ent-StationRadioRig = 空间站电台设备组
-    .desc = 在空间站里播放音乐所需的一切设备，全在这里了。
+ent-StationRadioRig = 电台工作台
+    .desc = 一张桌子，配有主持电台节目所需的一切，以及一个循环播放的唱片架。
 
-ent-StationRadioRigCircuitboard = 空间站电台设备组机器主板
-    .desc = 空间站电台设备组的机器印刷电路板。
+ent-StationRadioRigCircuitboard = 电台工作台机器板
+    .desc = 用于电台工作台的机器印刷电路板。
 
-ent-StationRadioServer = 空间站电台服务器
-    .desc = 一组服务器机架，控制着你的声音是否会被广播出去。
+ent-StationRadioServer = 电台服务器
+    .desc = 一组服务器机架，负责把电台节目送上广播，包括音乐和主持人的麦克风。
 
-ent-StationRadioServerCircuitboard = 空间站电台服务器机器主板
-    .desc = 空间站电台服务器的机器印刷电路板。
+ent-StationRadioServerCircuitboard = 电台服务器机器板
+    .desc = 用于电台服务器的机器印刷电路板。
 
 ent-StatueAngel = 天使雕像
     .desc = 一尊古老的大理石雕像。像中人身着飘逸长袍，双翼展开。
@@ -240,7 +240,7 @@ ent-SyndicateBluespaceBeaker = 红空间烧杯
     .desc = 一种非法的试剂容器，公然违反物理定律。
 
 ent-SyndicateMilkCrate = 辛迪加牛奶箱
-    .desc = 一只血红色的塑料牛奶箱，用来收纳套封唱片。纳米传讯可不希望你听这些东西。
+    .desc = 一个血红色塑料奶箱，用来归档记录。纳米传讯倒是不希望你听这些。
 
 ent-SyndicateTechFab = 辛迪加科技制造机
     .desc = 打印供辛迪加使用的装备。

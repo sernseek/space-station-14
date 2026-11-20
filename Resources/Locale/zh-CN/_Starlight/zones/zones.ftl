@@ -40,3 +40,9 @@ sandbox-window-spawn-zones-button = 区域
 sandbox-window-show-zones-button = 显示区域
 
 sandbox-window-show-rooms-button = 显示房间
+
+zone-nanotrasen = 纳米传讯
+
+zone-detective = 侦探
+
+zone-virology = 病毒学

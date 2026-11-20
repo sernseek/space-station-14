@@ -1,0 +1,43 @@
+<Document>
+  # 气体 3
+  用途小众但定义明确的实用气体。
+
+  ## 普鲁氧
+  <Box>
+    <GuideEntityEmbed Entity="PluoxiumCanister" Caption=""/>
+  </Box>
+
+  一种强效超级氧化剂。可用于大幅延长以氧为基础的内置供氧装置的使用时间，或点燃低于正常燃点的可燃气体。此外，它对所有物种都无毒。
+
+  普鲁氧可由 2 份二氧化碳与 1 份氧在 273 K 以下结合，并对混合物施加辐射，或加入氚（氚会转化为氢）来制取。
+
+  ## 乌尔氮
+  <Box>
+    <GuideEntityEmbed Entity="UlnitraniumCanister" Caption=""/>
+  </Box>
+
+  一种强效超级硝化剂。可用于大幅延长以氮为基础的内置供气装置的使用时间。
+
+  乌尔氮可由 2 份一氧化二氮与 1 份氮在 273 K 以下结合，并对混合物施加辐射，或加入氚（氚会转化为氢）来制取。
+
+  ## ZXA
+  <Box>
+    <GuideEntityEmbed Entity="ZXACanister" Caption=""/>
+  </Box>
+
+  一种对所有有机生命体都有效的通用催眠气体，具有轻微的基因再生效果。
+
+  ZXA 可由 1 份 BZ、1 份一氧化二氮结合制成，需要水蒸气催化剂，且催化剂会被缓慢消耗。与其前体 BZ 类似，压力越低生成越快；BZ 过多时会分解一氧化二氮。
+
+  ## 哈龙
+  <Box>
+    <GuideEntityEmbed Entity="HalonCanister" Caption=""/>
+  </Box>
+
+  一种极为稀薄、具有独特灭火性能的气体。
+
+  接触火焰时，哈龙会立即与氧结合，将两者转化为二氧化碳，同时大幅冷却该区域。
+
+  哈龙可通过电解 BZ 制得。
+
+</Document>

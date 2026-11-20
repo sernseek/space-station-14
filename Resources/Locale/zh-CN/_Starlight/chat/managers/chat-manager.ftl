@@ -1,12 +1,3 @@
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender}公告[/font][font size=12]
-                                                {$message}[/bold][/font]
-
-chat-manager-entity-say-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader]{$verb}：[font={$fontType} size={$fontSize}]“[BubbleContent][font="{$fontType}" size={$fontSize}][color={$color}]{$message}[/color][/font][/BubbleContent]”[/font]
-chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader]{$verb}：[font={$fontType} size={$fontSize}]“[BubbleContent][font="{$fontType}" size={$fontSize}][bold][color={$color}]{$message}[/color][/font][/bold][/BubbleContent]”[/font]
-
-chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader]低语道：“[BubbleContent][color={$color}][font="{$fontType}"]{$message}[/font][/color][/BubbleContent][font size=11]”[/italic][/font]
-chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][BubbleHeader]某人[/BubbleHeader]低语道：“[BubbleContent][color={$color}][font="{$fontType}"]{$message}[/color][/font][/BubbleContent][font size=11]”[/italic][/font]
-
 chat-manager-send-ooc-wrap-message = 场外：[bold]{$playerTitle} [color={$nameColor}]{$playerName}：[/color] [color={$messageColor}]{$message}[/color][/bold]
 
 chat-speech-verb-name-felionoid = 猫科人
@@ -43,3 +34,27 @@ chat-speech-verb-suffix-pause = ……
 chat-speech-verb-name-pause = 停顿
 
 chat-speech-verb-pause = 停顿
+
+chat-speech-verb-name-experiment = 实验
+
+chat-speech-verb-experiment-1 = 吱吱叫
+
+chat-speech-verb-experiment-2 = 吠叫
+
+chat-speech-verb-experiment-3 = 说道
+
+chat-speech-verb-experiment-4 = 汪汪叫
+
+chat-speech-verb-name-xeno = 森卡拉
+
+chat-speech-verb-xeno-1 = 发出嘶声
+
+chat-speech-verb-xeno-2 = 低吼
+
+chat-speech-verb-xeno-3 = 咔哒作响
+
+chat-speech-verb-xeno-4 = 咔咬。
+
+chat-manager-send-mentor-chat-wrap-message = {$mentorChannelName}: [bold]{$playerName}:[/bold] {$message}
+
+chat-manager-mentor-channel-name = 导师

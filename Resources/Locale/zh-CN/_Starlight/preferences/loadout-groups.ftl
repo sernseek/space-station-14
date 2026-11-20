@@ -8,14 +8,12 @@ loadout-group-roboticist-backpack = 机器人专家背包
 loadout-group-roboticist-shoes = 机器人专家鞋子
 
 # Civilian
-loadout-group-assistant-glasses = 助手眼镜
 loadout-group-assistant-head = 助手头部
 loadout-group-assistant-backpack = 助手背包
 
 loadout-group-boxer-jumpsuit = 拳击手连体衣
 loadout-group-boxer-gloves = 拳击手手套
 
-loadout-group-reporter-head = 记者头部
 
 loadout-group-musician-head = 乐手头部
 
@@ -160,3 +158,25 @@ loadout-group-k9-outerclothing = K9护甲
 loadout-group-k9-eyes = K9护目镜
 
 loadout-group-detective-lethal = 侦探致命配枪
+
+loadout-group-k9-collar = K9 项圈
+
+loadout-group-gunnery-sergeant-head = 军士长头部
+
+loadout-group-gunnery-sergeant-jumpsuit = 军士长连体衣
+
+loadout-group-gunnery-sergeant-outerclothing = 军士长外衣
+
+loadout-group-gunnery-sergeant-neck = 军士长颈部
+
+loadout-group-salvage-medic-id = 打捞医师 ID
+
+loadout-group-salvage-medic-jumpsuit = 打捞医师连体衣
+
+loadout-group-salvage-medic-mantle = 打捞医师披风
+
+loadout-group-atmospheric-technician-id = 大气技师 ID
+
+loadout-group-ties = 领带
+
+loadout-group-bartender-eyewear = 酒保眼镜

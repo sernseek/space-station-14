@@ -518,3 +518,31 @@ entity-effect-guidebook-plant-mutate-chemicals =
         [1] 使
         *[other] 使
     }植物变异并产生 {$name}
+
+entity-effect-guidebook-plant-change-trait =
+    { $chance ->
+        [1] { $change ->
+            [Add] 为植物添加 {$trait}
+            [Remove] 为植物移除 {$trait}
+            [Toggle] 为植物切换 {$trait}
+            *[other] 改变植物的 {$trait}
+        }
+        *[other] { $change ->
+            [Add] 添加 {$trait} 到
+            [Remove] 从植物移除 {$trait}
+            [Toggle] 在植物上切换 {$trait}
+            *[other] 在植物上改变 {$trait}
+        }
+    } 该植物
+
+entity-effect-guidebook-plant-mutate-exude-gasses =
+    { $chance ->
+        [1] 使植物变异
+        *[other] 使植物变异
+    } 使植物释放介于 {$minValue} 与 {$maxValue} 摩尔之间的气体
+
+entity-effect-guidebook-plant-mutate-consume-gasses =
+    { $chance ->
+        [1] 使植物变异
+        *[other] 使植物变异
+    } 使植物消耗介于 {$minValue} 与 {$maxValue} 摩尔之间的气体

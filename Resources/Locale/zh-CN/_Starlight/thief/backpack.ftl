@@ -17,3 +17,9 @@ thief-backpack-category-sleeper-description-starlight =
     让其他人沉睡。
     包含：催眠一氧化二氮气罐、治愈气体罐、
     两瓶夜曲宁、一瓶塔齐尼德，以及一支休眠笔。
+
+thief-backpack-category-saboteur-self-name = 爆破手
+
+thief-backpack-category-press-self-name = 记者
+
+thief-backpack-category-spy-self-name = 间谍

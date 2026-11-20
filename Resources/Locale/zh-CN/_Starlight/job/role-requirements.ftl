@@ -37,3 +37,7 @@ role-timer-blacklisted-traits-pass = 角色[color=limegreen]不得[/color]拥有
 role-timer-blacklisted-traits-fail = 角色[color=yellow]不得[/color]拥有以下任何特质：[color=yellow]{$traits}[/color]
 
 role-ban = 你已被此角色[color=red]封禁[/color]。
+
+role-requirement-any = 至少满足以下任一要求：
+
+role-requirement-none = 不满足以下任何要求：

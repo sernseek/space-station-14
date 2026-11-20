@@ -6,3 +6,7 @@ add-uplink-command-completion-2 = 升链 UID（默认为 PDA）
 add-uplink-command-completion-3 = 是否启用升链折扣
 add-uplink-command-error-1 = 所选玩家未控制任何实体
 add-uplink-command-error-2 = 无法为玩家添加升链
+
+add-uplink-command-success-pda = 升链已添加到玩家PDA，代码为{$code}
+
+add-uplink-command-success-implant = 升链已作为植入体添加到玩家体内

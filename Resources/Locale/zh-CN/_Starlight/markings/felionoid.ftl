@@ -72,3 +72,27 @@ marking-FelionoidTail-tail_behind = 猫科人 尾巴
 marking-FelionoidTailAnimated = 猫科人 尾巴， 摇摆
 marking-FelionoidTailAnimated-tail_wagging = 尾巴， 摇摆
 marking-FelionoidTailTipAnimated = 尖端 尾巴， 摇摆
+
+marking-FelionoidHairBubblePonytail = 泡泡马尾
+
+marking-FelionoidHairCovered = 遮盖式
+
+marking-FelionoidHairFrontBangs = 前刘海
+
+marking-FelionoidHairLongPigtails = 长双马尾
+
+marking-FelionoidHairLongPonytailFront = 长马尾（前置）
+
+marking-FelionoidHairMatted = 黏结发
+
+marking-FelionoidHairMattedShort = 短黏结发
+
+marking-FelionoidHairMullet = 鲻鱼头
+
+marking-FelionoidHairOverTheShoulderBraid = 过肩辫
+
+marking-FelionoidHairPigtails = 双马尾
+
+marking-FelionoidHairStraightBangs = 直刘海
+
+marking-FelionoidHairSurferBoy = 冲浪男孩

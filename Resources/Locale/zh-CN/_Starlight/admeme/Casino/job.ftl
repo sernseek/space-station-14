@@ -6,3 +6,7 @@ job-name-casino-dealer = 蛾摩拉赌场荷官
 job-name-casino-brigmed = 加摩拉狱医
 
 job-name-casino-treasurer = 加摩拉财务主管
+
+department-Casino = 加摩拉赌场
+
+department-Casino-description = 加摩拉赌场的工作人员。

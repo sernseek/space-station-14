@@ -31,3 +31,5 @@ highlights-assistant = 助手
 
 # 法律
 highlights-internal-affairs-agent = 内务特工，IAA，法律，SOP，标准操作程序，律师
+
+highlights-gunnery-sergeant = 枪炮军士长, 军士长, 甘尼, "GS", 安保部, "Sec"

@@ -149,3 +149,39 @@ ghost-role-information-sentient-sharkminnow-description = 守卫巨龙的裂隙�
 ghost-role-information-sentient-holocarp-name = 知性全息鲤鱼
 
 ghost-role-information-sentient-holocarp-description = 协助太空巨龙并服从它的命令。帮助巨龙用鲤鱼淹没空间站，碾碎它的敌人！
+
+ghost-role-information-survivor-rules = 你是[color={role-type-survivor-aligned-colour}][bold]{role-type-survivor-aligned-name}[/bold][/color]，目标是不惜代价活下去。除非生存所迫，否则不要攻击、偷窃或以其他方式伤害他人。
+
+ghost-role-information-maintenance-drone-description = 维护空间站。除无人机外，无视其他存在。
+
+ghost-role-information-maintenance-drone-rules = 无论角色内还是角色外，你都受以下法则约束：
+                                                 1. 你不得介入其他存在的事务，即使该事务与第二或第三法则相冲突，除非该存在是另一台无人机。
+                                                 2. 无论意图或情形如何，你都不得伤害任何存在。
+                                                 3. 你的目标是尽你所能建造、维护、修理、改进空间站并为其供能。你绝不可主动违背这些目标。
+
+ghost-role-information-roguedrone-name = 拆解无人机
+
+ghost-role-information-rogue-drone-description = 拆光空间站与周边太空的材料，制造更多无人机。
+
+ghost-role-information-rogue-drone-rules = 无论角色内还是角色外，你都受以下法则约束：
+                                                 1. 你不得介入其他存在的事务，除非该存在是拆解无人机。
+                                                 2. 你可以避免对制造机与拆解无人机造成伤害或损坏。
+                                                 3. 你必须维护、修理、改进并生产更多拆解无人机。
+
+ghost-role-information-mob-nyr-mouse-ops-name = 红鼠！
+
+ghost-role-information-drone-name = 维护无人机
+
+ghost-role-information-spawn-point-ghost-cluwne-beast-name = 受诅小丑兽
+
+ghost-role-information-mob-nyr-mouse-ops-description = 你是鼠辈首领。你的目标是从各个头目那里偷走奶酪！
+
+ghost-role-information-spawn-point-ghost-cluwne-beast-description = 通过撞击并把船员变成受诅小丑来散播欢笑与混乱。
+
+ghost-role-information-spawn-point-ghost-cluwne-beast-rules = 你是一名敌对角色，尽可能多地把船员变成受诅小丑。
+
+ghost-role-information-bombroach-name = 炸弹蟑螂
+
+ghost-role-information-bombroach-description = 你是辛迪加特工身边忠心耿耿、训练有素的害虫，随身携带皮可炸弹。至死效忠你的主人！
+
+ghost-role-information-bombroach-rules = 你与召唤你的特工同为[color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]。

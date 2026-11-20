@@ -10,11 +10,6 @@ contraband-examine-text-Restricted =
         [reagent] [color=yellow]此试剂仅限特定部门使用。[/color]
     }
 
-contraband-examine-text-Restricted-department =
-    { $type ->
-        *[item] [color=yellow]此物品仅限 {$departments} 使用，可能被视为违禁品。[/color]
-        [reagent] [color=yellow]此试剂仅限 {$departments} 使用，可能被视为违禁品。[/color]
-    }
 
 contraband-examine-text-Major =
     { $type ->

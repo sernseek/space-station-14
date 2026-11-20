@@ -24,3 +24,19 @@ food-sequence-cotton-burger-content-plushie-borg = 守法
 food-sequence-cotton-burger-content-plushie-cow-squishims = 奶牛
 
 food-sequence-cotton-burger-content-plushie-frog-squishims = 蛙蛙
+
+food-sequence-cotton-burger-content-plushie-flox = 弗洛克斯
+
+food-sequence-cotton-burger-content-plushie-sea-bunny = 冒起泡泡
+
+food-sequence-cotton-burger-content-plushie-stingray = 触电般刺激
+
+food-sequence-cotton-burger-content-plushie-sea-pancake = 像糖浆般黏稠
+
+food-sequence-cotton-burger-content-plushie-seal = 布比
+
+food-sequence-cotton-burger-content-plushie-dumbo-octopus = 章鱼烧
+
+food-sequence-cotton-burger-content-plushie-sea-sheep = 有叶子味
+
+food-sequence-cotton-burger-content-plushie-eeeplet = 带电

@@ -149,28 +149,28 @@ ent-ClothingHeadHatBeretCaptain = 舰长贝雷帽
     .desc = 一顶紧身的贝雷帽，让你不禁怀疑头痛到底是不是船员造成的。
 
 ent-ClothingHeadHatBeretCentcommCAD = 中央行政部贝雷帽
-    .desc = 一顶蓝色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶蓝色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCCD = 中央货运部贝雷帽
-    .desc = 一顶橙色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶橙色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCED = 中央工程部贝雷帽
-    .desc = 一顶黄色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶黄色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCID = 中央情报部贝雷帽
-    .desc = 一顶紫色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶紫色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCMD = 中央医疗部贝雷帽
-    .desc = 一顶浅蓝色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶浅蓝色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCRD = 中央研究部贝雷帽
-    .desc = 一顶浅紫色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶浅紫色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCSD = 中央安保部贝雷帽
-    .desc = 一顶红色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶红色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretCentcommCSOD = 中央特种行动部贝雷帽
-    .desc = 一顶粉色贝雷帽，和其他贝雷帽一样，你拿不到它。
+    .desc = 一顶粉色贝雷帽，和其他贝雷帽一样，但你拿不到。
 
 ent-ClothingHeadHatBeretETOLead = ETO领队贝雷帽
     .desc = 一顶最适合领导者的贝雷帽。
@@ -209,28 +209,28 @@ ent-ClothingHeadHatBountyCentcommCSOD = 中央特种行动部赏金猎人帽
     .desc = 一顶中央特种行动部标志性配色的警长帽，看上一眼就能让潮汐客三思要不要溜进汇报会。
 
 ent-ClothingHeadHatCapCentcommCAD = 中央行政部帽子
-    .desc = 一顶蓝色帽子，船员，它酷到你配不上。
+    .desc = 一顶蓝色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCCD = 中央货运部帽子
-    .desc = 一顶橙色帽子，船员，它酷到你配不上。
+    .desc = 一顶橙色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCED = 中央工程部帽子
-    .desc = 一顶黄色帽子，船员，它酷到你配不上。
+    .desc = 一顶黄色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCID = 中央情报部帽子
-    .desc = 一顶紫色帽子，船员，它酷到你配不上。
+    .desc = 一顶紫色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCMD = 中央医疗部帽子
-    .desc = 一顶浅蓝色帽子，船员，它酷到你配不上。
+    .desc = 一顶浅蓝色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCRD = 中央研究部帽子
-    .desc = 一顶浅紫色帽子，船员，它酷到你配不上。
+    .desc = 一顶浅紫色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCSD = 中央安保部帽子
-    .desc = 一顶红色帽子，船员，它酷到你配不上。
+    .desc = 一顶红色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatCapCentcommCSOD = 中央特种行动部帽子
-    .desc = 一顶粉色帽子，船员，它酷到你配不上。
+    .desc = 一顶粉色帽子，对你这个船员来说太酷了。
 
 ent-ClothingHeadHatETOCorpsmanHat = ETO医务兵帽
     .desc = 为医务兵准备的宽檐帽，防护性不强，但绝对时髦。

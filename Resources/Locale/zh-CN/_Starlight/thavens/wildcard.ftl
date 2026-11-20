@@ -148,3 +148,23 @@ thaven-mood-fish-ancestry-desc = 你必须每十分钟至少一次浸入或躺�
 # we love when server context doesn't properly dispose of data...
 DuplicateTest = DuplicateTestFTL
 DuplicateOverlapTest = DuplicateOverlapTestFTL
+
+thaven-mood-confusing-perspective-name = 混乱视角
+
+thaven-mood-confusing-perspective-desc = 好消息会让你悲伤，而灾难和其他坏消息则值得庆祝。无论其他人怎么想，你都要照此反应。
+
+thaven-mood-monster-hunter-name = 怪物猎人
+
+thaven-mood-monster-hunter-desc = 危险的生物潜伏在空间站各处。确定什么算得上是怪物，并把它们找出来。
+
+thaven-mood-respect-through-violence-name = 以暴示敬
+
+thaven-mood-respect-through-violence-desc = 与人打招呼的正确方式是先打一场。没有经历过暴力的关系建立在不牢靠的基础上。
+
+thaven-mood-spite-name = 恶意
+
+thaven-mood-spite-desc = 你最大的愿望就是亲眼目睹别人得不到他们想要的东西。
+
+thaven-mood-extremist-name = 极端分子
+
+thaven-mood-extremist-desc = 你觉得自己必须把其他情绪都做到极致，并以绝对极端的版本付诸行动。

@@ -182,3 +182,27 @@ thaven-mood-clown-hatred-desc = 小丑一点也不好笑，只是某种病态笑
 
 thaven-mood-cover-your-head-name = 遮住头顶
 thaven-mood-cover-your-head-desc = 光头还是满头长发都无所谓。你必须始终戴帽子；不戴帽子既无礼又不专业。任何不戴帽子的人都不值得尊重。
+
+thaven-mood-dangerous-items-name = 危险物品
+
+thaven-mood-dangerous-items-desc = {$item}极为危险。所有此类物品都应被收缴、销毁或处理掉。
+
+thaven-mood-no-eye-contact-name = 禁止眼神接触
+
+thaven-mood-no-eye-contact-desc = 直接的眼神接触令人不适，应尽可能避免。
+
+thaven-mood-distrust-witnesses-name = 不信任目击者
+
+thaven-mood-distrust-witnesses-desc = 目击证词并不可靠，容易出错。任何声称确定无疑的人多半都弄错了。
+
+thaven-mood-closed-doors-bad-name = 关门很可疑
+
+thaven-mood-closed-doors-bad-desc = 诚实的人没什么好隐瞒的。关着或锁着的门会让你深感不安，所以应尽量让门保持敞开。
+
+thaven-mood-whats-a-mood-name = 什么叫心境？
+
+thaven-mood-whats-a-mood-desc = 你不理解塔文心境的含义。你意识不到自己正受某种心境驱使行事，并会用逻辑为自己的行为找理由。
+
+thaven-mood-illiterate-name = 文盲
+
+thaven-mood-illiterate-desc = 阅读对你来说很困难，你宁可避开。如果确实要读些什么，大声慢慢地念出部分内容会有帮助。

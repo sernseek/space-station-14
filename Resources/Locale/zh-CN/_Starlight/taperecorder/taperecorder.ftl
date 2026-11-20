@@ -25,3 +25,37 @@ tape-recorder-menu-no-cassette-label = 未插入磁带
 tape-recorder-print-start-text = [bold]录音转写开始[/bold]
 tape-recorder-print-message-text = [bold][{$time}] {$source}：[/bold] {$message}
 tape-recorder-print-end-text = [bold]录音转写结束[/bold]
+
+tape-interview-label = 对加里·斯莫什的审讯
+
+tape-interview-name-dervin = 菲尔·德文
+
+tape-interview-name-smosh = 格拉里·斯莫什
+
+tape-interview-name-belview = 贝尔维尤警官
+
+tape-interview-message-1 = 现在是上午11:43，在场的有菲尔·德文，一级侦探；贝尔维尤警官；以及格拉里·斯莫什，他被控一项擅闯安保区域罪、四项袭击罪、两项盗窃罪和85项扰乱治安罪。
+
+tape-interview-message-2 = 斯莫什先生，你明白你所面临的指控吗？
+
+tape-interview-message-3 = 我不管你怎么说，我什么都没干。
+
+tape-interview-message-4 = 先生，你是在舰长卧室里被当场抓获的。而且还正试图偷走他的威士忌储备。
+
+tape-interview-message-5 = 他没为此开枪打你，算你走运。
+
+tape-interview-message-6 = 我可没看到有什么牌子写着不准我去那儿。
+
+tape-interview-message-7 = 舰长卧室？我觉得不需要挂牌子提醒人别进去——这是常识。
+
+tape-interview-message-8 = 总之那都不是重点，就算那里不是禁区，我们还在你身上搜出了违禁物品，以及你随后试图逃避逮捕的事。
+
+tape-interview-message-9 = 我什么都没干。
+
+tape-interview-message-10 = 你甩掉了3名警官，偷走一根电击棍还用它打了伊恩。人事主管对最后那件事非常不满。
+
+tape-interview-message-11 = 你们谁给了人事主管一把禁用枪？
+
+tape-interview-message-12 = 是典狱长给的，结果证明这主意不错吧？
+
+tape-interview-message-13 = 我也这么认为。

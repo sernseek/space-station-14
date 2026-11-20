@@ -16,3 +16,7 @@ admin-trick-give-moods-description = 赋予此实体命运情绪。
 admin-trick-floodpipes = 填充管道颜色
 
 admin-trick-floodpipes-description = 将管道颜色填充到所有相连的管道。
+
+admin-trick-autolink-air-alarms = 自动将空气警报连接到房间内的环境设备和防火闸。
+
+admin-trick-autolink-fire-alarms = 自动将火警警报连接到房间内的防火闸。

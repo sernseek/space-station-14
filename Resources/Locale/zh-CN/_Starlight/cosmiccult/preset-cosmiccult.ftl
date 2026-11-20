@@ -12,9 +12,9 @@ cosmiccult-gamemode-description = 扫描仪侦测到零空间活动异常增加�
 cosmiccult-vote-steward-initiator = 未知之物
 cosmiccult-vote-steward-title = 宇宙教团领袖选举
 cosmiccult-vote-steward-briefing =
-    你是宇宙教团的领袖！
-    确保纪念碑被安置在安全地点，并组织教团以取得共同胜利。
-    你不得指示教徒如何使用或花费他们的熵。
+    你是宇宙教团的执事！
+    确保纪念碑被安置在安全位置，并组织教团以确保你们的共同胜利。
+    你无权指示教团成员如何使用或消耗他们的熵。
 
 cosmiccult-finale-autocall-briefing = 纪念碑将在 {$minutesandseconds} 后启动！集合起来，为终结做好准备。
 cosmiccult-finale-ready = 骇人的光芒从纪念碑中喷涌而出！
@@ -35,7 +35,7 @@ cosmiccult-roundend-cultist-count = {$initialCount ->
     [1] 共有 {$initialCount} 名[color=#4cabb3]宇宙教徒[/color]。
     *[other] 共有 {$initialCount} 名[color=#4cabb3]宇宙教徒[/color]。
 }
-cosmiccult-roundend-entropy-count = 教团吸取了 {$count} 点熵。
+cosmiccult-roundend-entropy-count = 教团抽取了{$count}点熵。
 cosmiccult-roundend-cultpop-count = 教徒占船员总数的 {$count}%。
 cosmiccult-roundend-monument-stage = {$stage ->
     [1] 可惜，纪念碑似乎已被遗弃。
@@ -94,12 +94,14 @@ cosmiccult-role-deconverted-briefing =
     你不再是宇宙教徒。
 
 cosmiccult-monument-stage1-briefing =
-    纪念碑已被召来。
-    它位于 {$location}！
+    纪念碑已被召唤。
+    它位于{$location}！
+    右键点击它并使用注入熵操作来存入你储存的熵。
 
 cosmiccult-monument-stage2-briefing =
     纪念碑的力量正在增长！
-    它将在 {$time} 秒后影响现实空间。
+    它的影响将在{$time}秒后作用于现实空间。
+    在纪念碑处刻写符文，并与教团同伴一同发动。
 
 cosmiccult-monument-stage3-briefing =
     纪念碑已经完工！
@@ -138,14 +140,18 @@ cosmiccult-ui-roundstart-title = 未知之物
 cosmiccult-ui-converted-text-1 =
     你已被转化为宇宙教徒。
 cosmiccult-ui-converted-text-2 =
-    协助教团实现目标，同时确保其秘密不被揭露。
-    配合其他教徒的计划。
+    协助教团达成目标，同时确保其隐秘。
+    配合教团同伴的计划。
+    从船员身上抽取熵，然后将其注入纪念碑。
+    在纪念碑处刻写符文，并在教团同伴靠近时点击符文发动。
 
 cosmiccult-ui-roundstart-text-1 =
     你是一名宇宙教徒！
 cosmiccult-ui-roundstart-text-2 =
-    协助教团实现目标，同时确保其秘密不被揭露。
-    听从教团领袖的指示。
+    协助教团达成目标，同时确保其隐秘。
+    听从教团执事的指示。
+    从船员身上抽取熵，然后将其注入纪念碑。
+    在纪念碑处刻写符文，并在教团同伴靠近时点击符文发动。
 
 cosmiccult-ui-deconverted-text =
     将你束缚于教团的宇宙影响已经断绝。
@@ -242,3 +248,10 @@ cosmiccult-rift-corpse-dewarning = 已探测到的虚空能量源输出已显著
 
 cosmiccult-silicon-effigy-exists =
     已存在的神像让你的容器不堪重负。
+
+cosmiccult-rift-empowered-briefing =
+    邪光赋予你力量！
+    你抽取的熵翻倍，虚空无法伤害你：你无需呼吸，且无视压力和寒冷。
+    使用虚空碎裂会消耗这份力量，但你对虚空的免疫依然保留；这是未来之事的预演。
+
+cosmiccult-leader-lost-message = 当你的执事{$old}落入无信者之手时，一声刺耳的尖叫在你脑海中回荡。{$new}现在继承了领导者的职责。

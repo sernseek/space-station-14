@@ -42,3 +42,7 @@ command-description-gamemap-save =
 
 command-description-gamemap-saveid =
     将指定 ID 的地图保存到给定路径。
+
+command-description-gamemap-getplayers = 获取指定地图实体上的所有玩家。
+
+command-description-gamemap-getplayersid = 获取指定 ID 地图上的所有玩家。

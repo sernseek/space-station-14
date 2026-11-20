@@ -80,9 +80,6 @@ uplink-reinforcement-radio-stealth-cyborg-name = 辛迪加隐形赛博格传送�
 uplink-reinforcement-radio-stealth-cyborg-desc = 一台隐形赛博格。虽无战斗能力，却能伪装、隐形并穿过通风口。配有标准黑客工具。
 
 
-uplink-syndimov-law-name = 辛迪莫夫法则电路套件
-uplink-syndimov-law-desc = 一套颠覆性法则集，当你想把AI策反到自己这边时使用，尽管尽情使用。附带一张辛迪加ID卡。
-
 uplink-ecronizer-name = 电子匿踪器
 uplink-ecronizer-desc = 一种小型设备，可绕过大多数扫描装置，让你和随身物品无法被其发现。
 
@@ -98,11 +95,9 @@ uplink-hydra-desc = 改装型九头蛇，可同时装填清洁手雷和标准手
 uplink-pizza-bomb-name = 邪恶披萨炸弹
 uplink-pizza-bomb-desc = 由 Donk 公司秘密研发，用来劝阻那些不喜欢夹心饼形态披萨的异端。这个披萨盒接有炸药，打开后片刻便会爆炸。
 
-uplink-shuttle-board-name = 辛迪加穿梭机控制台电路板
-uplink-shuttle-board-desc = 用于辛迪加穿梭机控制台的计算机印刷电路板。
 
 uplink-shuttle-bundle-name = 辛迪加穿梭机板条箱
-uplink-shuttle-bundle-desc = 除了穿梭机电路板外一应俱全。这是装在板条箱里的穿梭机＊（需要进行一些组装。）
+uplink-shuttle-bundle-desc = 建造穿梭机所需的一切（包括电路板！）。装在箱子里的穿梭机*（组装工序部分自理）
 
 uplink-friendship-bundle-name = 友谊套装
 uplink-friendship-bundle-desc = 装进便携板条箱里的友谊＊。（需要进行一些组装。）
@@ -169,3 +164,75 @@ uplink-reinforcement-radio-mothroach-desc = 呼叫一只训练有素的蛾蟑螂
 uplink-plushie-linari-name = 利纳里·米乌玩偶
 
 uplink-plushie-linari-desc = 一只做工精湛的蜥蜴玩偶，身穿战术军官装备，未收录于纳米传讯标准商品目录。背后的缝线写着「辛迪加财产」。抱着它会让你觉得自己至少违反了三条公司规章。
+
+uplink-injector-port-name = 注射端口植入体
+
+uplink-injector-port-desc = 一种手部赛博植入体。使蜥蜴人可被注射器和自动注射器注射，并加快安装者的注射速度。（警告：手术过程需要一名外科助手。）
+
+uplink-nuke-op-robotkit-name = CyberSun 机器人治疗套件
+
+uplink-nuke-op-robotkit-desc = 金钱能买到的最好的机器人医疗套件。配备高级工业焊接器、若干高压电缆、油包和一个微反应堆电池。
+
+uplink-bombroach-microbomb-name = 炸弹蟑螂传送器
+
+uplink-bombroach-microbomb-desc = 召唤一只装备微型炸弹植入体的便利炸弹蟑螂。死亡或被炸弹蟑螂触发时爆炸。
+
+uplink-clothing-eyes-hud-syndicate-modular-name = 空的辛迪加目镜
+
+uplink-clothing-eyes-hud-syndicate-modular-desc = 这款标志性眼镜象征辛迪加精英——不像你。不含HUD模块。
+
+uplink-hidden-radio-botany-name = 隐藏升链
+
+uplink-hidden-radio-botany-desc = 伪装成植物分析仪的升链。留给自己，或交给信任的盟友协助任务。不含遥晶。
+
+uplink-food-pepper-shaker-lead-name = 铅制胡椒罐
+
+uplink-food-pepper-shaker-lead-desc = 给船员余下的人生添点滋味。内含15单位铅。
+
+uplink-pitcher-napalm-name = 装满凝固汽油的水壶
+
+uplink-pitcher-napalm-desc = 清晨醒来闻到凝固汽油的味道，无与伦比。一壶装满60单位凝固汽油。
+
+uplink-emergency-medipen-mute-name = 静音自动注射器
+
+uplink-emergency-medipen-mute-desc = 伪装成应急医疗笔的自动注射器，内含15单位静音毒素和5单位帕克斯。
+
+uplink-clothing-shoes-white-no-sound-name = 静音哑剧演员鞋
+
+uplink-clothing-shoes-white-no-sound-desc = 无声的威胁。穿上这双特制鞋子，没人会听见你靠近。
+
+uplink-hidden-uplink-radio-science-name = 隐藏升链
+
+uplink-hidden-uplink-radio-science-desc = 伪装成异常扫描仪的升链。留给自己，或交给信任的盟友协助任务。不含遥晶。
+
+uplink-clothing-syndi-head-cone-name = 带暗格的警示锥
+
+uplink-clothing-syndi-head-cone-desc = 一个不起眼却暗藏玄机的锥桶。用它悄悄藏匿物资，或为后续埋下惊喜。
+
+uplink-network-configurator-with-trigger-name = 带信号器的网络配置器
+
+uplink-network-configurator-with-trigger-desc = 外观和功能都像普通网络配置器，却暗藏远程信号器，满足你所有触发需求。
+
+uplink-appraisal-tool-radio-jammer-name = 伪装的无线电干扰器
+
+uplink-appraisal-tool-radio-jammer-desc = 藏在鉴定工具里的无线电干扰器。既能干扰通讯，又能给尸体估价！
+
+uplink-lead-chemistry-vial-name = 铅药瓶
+
+uplink-lead-chemistry-vial-desc = 一个小药瓶，内含15单位铅。
+
+uplink-boxcutter-syndi-name = 化学美工刀
+
+uplink-boxcutter-syndi-desc = 一把带有特殊凹槽的美工刀，可容纳最多10单位化学品。
+
+uplink-photo-camera-name = 照相机
+
+uplink-photo-camera-desc = 捕捉珍贵瞬间，紧接着用一体式闪光灯把它毁掉。
+
+uplink-estoc-name = 刺剑精确射手步枪
+
+uplink-estoc-desc = 一把指定射手步枪，配备中距离光学瞄具，适合远距离战斗。
+
+uplink-chameleon-bundle-name = 变色龙套装箱
+
+uplink-chameleon-bundle-desc = 一个装有背包的箱子，里面的物品运用变色龙技术，让你能伪装成空间站上几乎任何东西，甚至更多！

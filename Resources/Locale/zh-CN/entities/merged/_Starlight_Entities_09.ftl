@@ -137,7 +137,7 @@ ent-PlumbingReactor = 管路 反应器
     .desc = 一台用于执行其标示功能的设备。
 
 ent-PlumbingSmartDispenser = 管路 智能分配器
-    .desc = 一台用于执行其标示功能的设备。
+    .desc = 从入口吸入所有试剂，每种最多储存 240u。用贴有标签的容器可自动分装对应试剂，或用可补充容器放在上面手动分装。自动分装需要供电。
 
 ent-PlumbingPillPress = 管路 药丸压片机
     .desc = 一台用于执行其标示功能的设备。
@@ -364,7 +364,7 @@ ent-CrateRoboticsSecure = 储物容器
     .desc = 用来存放物品的大型容器。
 
 ent-CrateSalvageContrabandStorageSecure = 储物容器
-    .desc = 用于安全存放相关物品的容器。
+    .desc = 一个仅限打捞权限打开的违禁品存放箱。
 
 ent-CrateCentralCommandSecure = 中央指挥部 板条箱
     .desc = 用来存放物品的大型容器。
@@ -997,31 +997,31 @@ ent-XenoborgWindowRCD = 轻型异形赛博格窗
 
 
 ent-CMPlatform = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-CMPlatformCorner = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformCornerSmall = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-CMPlatformDark = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-CMPlatformCornerDark = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformCornerSmallDark = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-CMPlatformWood = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-CMPlatformCornerWood = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformCornerSmallWood = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 
 ent-SpiderWebAirtight = 气密 蜘蛛网
@@ -1075,4 +1075,3 @@ ent-MeatDebrisSmall = 肉块 残骸 小型
 ent-MeatDebrisMedium = 肉块 残骸 中型
 
 ent-MeatDebrisLarge = 大块肉屑
-

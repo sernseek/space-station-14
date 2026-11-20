@@ -137,7 +137,7 @@ ent-ActionBecomeValid = 变为有效猎物
     .desc = 这是BecomeValid。
 
 ent-ClothingHeadHatDogEars = doggy耳朵
-    .desc = 一件doggy耳朵，兼具实用性与独特风格。
+    .desc = 只有好孩子才能戴。
 
 ent-ClothingHeadHatSquid = 小鱿鱿帽
     .desc = 一件squiddy，兼具实用性与独特风格。
@@ -509,13 +509,13 @@ ent-ClothingNeckCloakVoid = 虚空斗篷
     .desc = 一件虚空斗篷，兼具实用性与独特风格。
 
 ent-ClothingNeckCloakAce = 飞行员的斗篷
-    .desc = 一件飞行员的斗篷，兼具实用性与独特风格。
+    .desc = 授予纳米传讯最优秀太空王牌的斗篷。
 
 ent-ClothingNeckCloakAro = 狼人斗篷
     .desc = 一件狼人斗篷，兼具实用性与独特风格。
 
 ent-ClothingNeckCloakAroace = aero飞行员的斗篷 # thank you happyman442 this was  best name idea ever
-    .desc = 一件aero飞行员的斗篷，兼具实用性与独特风格。
+    .desc = 授予纳米传讯在宜居大气星球上最优秀飞行员的斗篷。
 
 ent-ClothingNeckCloakBi = 剧毒斗篷
     .desc = 一件剧毒斗篷，兼具实用性与独特风格。
@@ -527,7 +527,7 @@ ent-ClothingNeckCloakLesbian = 诗人斗篷
     .desc = 一件诗人斗篷，兼具实用性与独特风格。
 
 ent-ClothingNeckCloakGay = 骄傲斗篷
-    .desc = 一件multi-levelmarketing斗篷，兼具实用性与独特风格。
+    .desc = 这件斗篷在纳米传讯市场部里备受追捧。
 
 ent-ClothingNeckCloakEnby = 宝藏hunter斗篷
     .desc = 一件宝藏hunter斗篷，兼具实用性与独特风格。
@@ -885,7 +885,7 @@ ent-ClothingOuterCoatWarden = 典狱长的armoredjacket
 ent-ClothingOuterDameDane = 极道外套
     .desc = 一件极道外套，兼具实用性与独特风格。
 
-ent-ClothingOuterClownPriest = robesofhonk蛾翼er
+ent-ClothingOuterClownPriest = 呵母大衣
     .desc = 一件robesofhonk蛾翼er，兼具实用性与独特风格。
 
 ent-ClothingOuterDogi = 武士道服

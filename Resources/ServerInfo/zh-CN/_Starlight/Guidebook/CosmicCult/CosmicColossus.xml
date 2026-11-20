@@ -1,49 +1,58 @@
 <Document>
-  # 熵化巨像
+  # 熵之巨像
 
   <Box>
-    [color=#999999][italic]“没有恶意，也没有炽烈欲望。没有怨毒，也没有残酷。什么都没有。”[/italic][/color]
+    [color=#999999][italic]"既非恶意，亦非激愤之欲。既非怨恨，亦非残忍。什么都没有。"[/italic][/color]
   </Box>
   <Box>
-    [color=#999999][italic]“只有终结。”[/italic][/color]
+    [color=#999999][italic]"只是一个终结。"[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
   </Box>
 
-  你是一尊熵化巨像，由恶性甲壳与树枝状侵染构成的高耸怪物。你的目的与[color=#4cabb3]宇宙邪教[/color]相同：终结万物。
+  你是熵之巨像，一头由邪恶装甲与枝状侵蚀构成的巍峨怪物。你的目的与[color=#4cabb3]宇宙教团[/color]相同：终结万物。
 
-  有些巨像是残留物，或许是“未知者”影响所引发冲突的幸存者，又或是某种奇异零空间异常的产物。这些巨像漂流在遥远漆黑的太空中，直到能量耗尽……或撞上文明。
+  有些巨像是残存者。或许是受"未知"影响而生的冲突中的幸存者，或是某种奇异零空间异常的产物。这些巨像漂过遥远漆黑的太空，直到能量耗尽……或是撞上文明为止。
 
-  [textlink="点击此处了解邪教创造的巨像。" link="CosmicCult"]
+  [textlink="关于教团创造的巨像，请点击此处。" link="CosmicCult"]
 
   ## 影响
 
-  熵化巨像拥有强大的[color=#4cabb3]恶性影响[/color]；能力出众的巨像可以借此摧毁敌人。
+  熵之巨像拥有强大的[color=#4cabb3]邪恶影响[/color]，有能力的巨像可借此摧毁敌人。
 
-  - [color=#4cabb3][bold]熵化撕裂：[/bold][/color]跃迁至目标位置，引发连锁恶性能量爆炸。小心——这也会伤害友方邪教徒！
-  - [color=#4cabb3][bold]巨像闯入：[/bold][/color]运用巨像之力强行打开门。即使牢牢插上门栓，也会被你的泰坦巨力撕开。
-  - [color=#4cabb3][bold]沉眠外壳：[/bold][/color]让身体沉眠一段时间，恢复结构完整度。必须在稳定地面上进行。它会准确恢复相当于你所受伤害一半的生命值。
-
-  偶然遇到空间站的巨像还拥有以下影响：
-  - [color=#4cabb3][bold]巨像闯入：[/bold][/color]运用巨像之力强行打开门。即使牢牢插上门栓，也会被你的泰坦巨力撕开。
+  - [color=#4cabb3][bold]熵之裂解：[/bold][/color] 跃迁至目标位置，释放连锁的邪恶能量爆炸。小心——这会伤到友方教团成员！
+  - [color=#4cabb3][bold]巨像侵入：[/bold][/color] 用你的巨力撕裂虚假门径，将其重塑为真正的通道。邪恶裂隙同样可转化为强化裂隙。
+  - [color=#4cabb3][bold]沉眠外壳：[/bold][/color] 让身体沉眠一段时间以恢复完整度。必须在稳定地面上进行。将恢复你恰好所受伤害一半的完整度。
 
   ## 目标
   <Box>
     <GuideEntityEmbed Entity="MobTileDamageArea" Caption=""/>
   </Box>
 
-  偶然遇到空间站的巨像：
-  - [color=#4cabb3][bold]延续[/bold][/color]——共同从船员身上汲取指定数量的熵。汲取的熵越多，便越能强化纪念碑！
-  - [color=#4cabb3][bold]召来[/bold][/color]——在空间站上的指定位置召来一座熵之塑像。
+  偶然遭遇空间站的巨像：
+  - [color=#4cabb3][bold]持续存在[/bold][/color]  - 共同从船员身上汲取一定量的熵。你汲取的熵越多，就越能强化纪念碑！
+  - [color=#4cabb3][bold]召唤[/bold][/color] - 在空间站指定位置召出熵之塑像。
 
-  由宇宙邪教将赛博格转化而成的巨像：
-  - [color=#4cabb3][bold]迎来终结[/bold][/color]——完成最终仪式，召来未知者并摧毁空间站。
+  由宇宙教团从赛博格中创造的巨像：
+  - [color=#4cabb3][bold]迎接终焉[/bold][/color] - 完成最终仪式，召来"未知"并摧毁空间站。
 
   ## 熵之塑像
   <Box>
     <GuideEntityEmbed Entity="CosmicEffigy" Caption=""/>
   </Box>
-  一些巨像能够召来[color=#4cabb3]熵之塑像[/color]。塑像是一种极不稳定且危险的恶性异常，科研部应立即加以处理！
+  有些巨像可以召出[color=#4cabb3]熵之塑像[/color]。该塑像是极度不稳定的邪恶异常，科研部应立即处理！
+
+  ## 强化邪恶裂隙
+
+  <Box>
+    <GuideEntityEmbed Entity="CosmicMalignRift" Caption="邪恶裂隙"/> <GuideEntityEmbed Entity="CosmicMalignEmpoweredRift" Caption="强化邪恶裂隙"/>
+  </Box>
+
+  巨像可强化[color=#4cabb3]邪恶裂隙[/color]，将其转化为[color=#6A4CFF]强化邪恶裂隙[/color]。与普通裂隙不同，强化裂隙免疫通常会吞噬邪恶异常的衰变。
+  为此，巨像必须对现有邪恶裂隙使用其[bold]侵入[/bold]能力。
+
+  强化裂隙可容纳一名重伤或死亡的非教团人形生物，将其保存在裂隙中。每个当前储存的宿主都会强化巨像及其仆从，使裂隙成为不断增长的邪恶力量来源。
+
 
 </Document>

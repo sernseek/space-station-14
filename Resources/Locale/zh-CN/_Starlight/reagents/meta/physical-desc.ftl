@@ -9,3 +9,7 @@ reagent-physical-desc-elf-tranexamic-acid = 凝血的
 reagent-physical-desc-elf-space-cleaner = 闪耀的
 reagent-physical-desc-highlander = 不朽的
 reagent-physical-desc-resinfera = 多刺的
+
+reagent-physical-desc-sawian = 人造的
+
+reagent-physical-desc-starry-and-thick = 浓稠而星光闪烁

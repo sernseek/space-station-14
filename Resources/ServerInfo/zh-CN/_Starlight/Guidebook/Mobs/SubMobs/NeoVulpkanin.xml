@@ -1,0 +1,18 @@
+<Document>
+  # 新伏尔卡宁
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoVulpkanin" Caption=""/>
+  </Box>
+
+  新伏尔卡宁在所有新细胞的现行命名体系中起到了重要作用，而这甚至并非他们有意为之。人类与伏尔卡宁建立接触后，超人类主义的思想自然地在两个物种间流传，
+  并最终催生了第一个跨物种超人类主义团体；随着更多物种被发现，该团体很快也吸纳了其他成员。
+    <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoHuman" Caption=""/>
+    <GuideEntityEmbed Entity="AppearanceNeocyte" Caption=""/>
+  </Box>
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 25%[/color]、[color=#8147ff]电击伤害增加 25%[/color]、[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 55%[/color]。
+</Document>

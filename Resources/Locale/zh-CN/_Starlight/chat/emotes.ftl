@@ -23,29 +23,41 @@ chat-emote-name-hum = 哼唱
 chat-emote-name-glub = 咕噜
 
 # 动作消息
-chat-emote-msg-mew = 轻轻喵了一声
-chat-emote-msg-hiss = 发出嘶声
-chat-emote-msg-purr = 打起呼噜
-chat-emote-msg-meow = 喵喵叫
-chat-emote-msg-trill = 发出颤鸣
-chat-emote-msg-yip = 嗷叫
-chat-emote-msg-marr = 呜鸣
-chat-emote-msg-wurble = 发出啭鸣
-chat-emote-msg-scree = 发出尖啸
-chat-emote-msg-call = 发出呼唤
-chat-emote-msg-squawk = 粗声鸣叫
-chat-emote-msg-lurr = 打起呼噜
-chat-emote-msg-liss = 发出嘶声
-chat-emote-msg-rattle = 摇响尾巴
+chat-emote-msg-mew = 喵喵叫。
+chat-emote-msg-hiss = 嘶嘶叫！
+chat-emote-msg-purr = 呼噜作响。
+chat-emote-msg-meow = 喵喵叫。
+chat-emote-msg-trill = 发出颤音。
+chat-emote-msg-yip = 嗷嗷！
+chat-emote-msg-marr = 喵嗷。
+chat-emote-msg-wurble = 颤鸣。
+chat-emote-msg-scree = 尖啸！
+chat-emote-msg-call = 鸣叫。
+chat-emote-msg-squawk = 嘎嘎！
+chat-emote-msg-lurr = 呼噜。
+chat-emote-msg-liss = 嘶嘶叫！
+chat-emote-msg-rattle = 咔哒作响。
 chat-emote-msg-flap-wings = 扇动{POSS-ADJ($entity)}的翅膀。
-chat-emote-msg-bubble = 冒起泡泡
-chat-emote-msg-pop = 发出啵声
-chat-emote-msg-squee = 吱吱叫
-chat-emote-msg-snort = 喷着鼻息
-chat-emote-msg-stomp = 跺了跺脚
-chat-emote-msg-hum = 哼唱起来
-chat-emote-msg-glub = 咕噜作响
+chat-emote-msg-bubble = 冒泡。
+chat-emote-msg-pop = 啵啵。
+chat-emote-msg-squee = 吱吱地叫着。
+chat-emote-msg-snort = 哼气。
+chat-emote-msg-stomp = 跺脚。
+chat-emote-msg-hum = 哼唱。
+chat-emote-msg-glub = 咕噜咕噜。
 
 emote-menu-bound = 已将 {$emote} 绑定到快捷动作
 
 emote-menu-already-bound = 已将 {$emote} 从快捷动作解绑
+
+chat-emote-name-arf = 汪
+
+chat-emote-name-blink = 闪现
+
+chat-emote-name-drool = 流口水
+
+chat-emote-msg-arf = 汪汪。
+
+chat-emote-msg-blink = 眨眼。
+
+chat-emote-msg-drool = 流口水。

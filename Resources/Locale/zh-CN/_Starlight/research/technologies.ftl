@@ -43,3 +43,23 @@ research-technology-darkbreacher = 暗物质破障器
 research-technology-basic-xenobiology = 基础异种生物学
 
 research-technology-olfactory-nose = 嗅觉植入体
+
+research-technology-combustion-turbines = 燃烧涡轮机
+
+research-technology-modular-hud-modules-civilian-t2 = 高级民用 HUD 模块
+
+research-technology-modular-hud-frames = 模块化 HUD 框架
+
+research-technology-modular-hud-modules-industrial-t1 = 基础工业 HUD 模块
+
+research-technology-modular-hud-modules-civilian-t1 = 基础民用 HUD 模块
+
+research-technology-modular-hud-modules-industrial-t2 = 高级工业 HUD 模块
+
+research-technology-modular-hud-modules-arsenal-t1 = 安保 HUD 模块
+
+research-technology-modular-hud-modules-arsenal-t2 = 高级安保 HUD 模块
+
+research-technology-modular-hud-modules-medical-t2 = 医疗 HUD 模块
+
+research-technology-radio-music-communication = 广播音乐通讯

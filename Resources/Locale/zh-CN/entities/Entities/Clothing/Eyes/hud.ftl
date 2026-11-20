@@ -44,22 +44,22 @@ ent-ClothingEyesEyepatchHudMedical = 医疗HUD眼罩
     .desc = 可扫描视野内人形生物并提供准确健康状态数据的平视显示器。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudMedicalFlipped = 医疗HUD眼罩
-    .desc = 可扫描视野内的类人生物，并准确显示其健康状况的抬头显示器。真正的爱国者之选。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？
 
 ent-ClothingEyesEyepatchHudSecurity = 安保HUD眼罩
     .desc = 可扫描视野内人形生物并提供准确ID状态和安保记录的平视显示器。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudSecurityFlipped = 安保HUD眼罩
-    .desc = 可扫描视野内的类人生物，并准确显示其 ID 状态和安保记录的抬头显示器。真正的爱国者之选。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？
 
 ent-ClothingEyesEyepatchHudBeer = 啤酒HUD眼罩
     .desc = 一副装有试剂扫描设备的太阳HUD，还能让佩戴者天生理解运动中液体的黏度。献给真正的爱国者。
 
 ent-ClothingEyesEyepatchHudBeerFlipped = 啤酒HUD眼罩
-    .desc = 一副配有试剂扫描装置的太阳镜 HUD，还能让佩戴者本能地理解运动中液体的黏度。真正的爱国者之选。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？
 
 ent-ClothingEyesEyepatchHudDiag = 诊断HUD眼罩
     .desc = 能分析机器人和外骨骼服完整度及状态的平视显示器。由“看见赛博格元素”制成。
 
 ent-ClothingEyesEyepatchHudDiagFlipped = 诊断HUD眼罩
-    .desc = 可分析机器人和外骨骼服完整度及状态的抬头显示器。由“视博格元素”制成。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？

@@ -212,8 +212,6 @@ thaven-mood-natural-habitat-desc = 每当局面令你不知所措，或只是需
 thaven-mood-flesh-is-weak-name = 血肉苦弱，钢铁永存
 thaven-mood-flesh-is-weak-desc = 所有这些生物器官和肢体终将衰竭，必须全部换成赛博改造部件。
 
-thaven-mood-marrvelous-name = 萨文族怎么叫
-thaven-mood-marrvelous-desc = 眼看影裔因“marr”叫声而深受喜爱，你嫉妒萨文族没有类似的鲜明特征。为萨文族编出一种辨识度高的声音，经常使用，并鼓励他人也这么做。
 
 thaven-mood-empath-name = 共情者
 thaven-mood-empath-desc = 你极易受到他人情绪影响。
@@ -241,3 +239,43 @@ thaven-mood-insecure-desc = 你非常在意别人如何看待自己，尤其在�
 
 thaven-mood-live-laugh-love-name = 活着，欢笑，去爱
 thaven-mood-live-laugh-love-desc = 把这个班次当作生命的最后一天去过。每个笑话都要笑。传播空间站的欢乐与爱。
+
+thaven-mood-groupglub-name = 集体咕噜
+
+thaven-mood-groupglub-desc = 看到伏尔卡宁和其他犬类聚在一起嚎叫，你羡慕塔文族没有类似的东西。为塔文们安排一个地点和时间一起咕噜，并鼓励其他人到场。
+
+thaven-mood-knightly-name = 骑士精神
+
+thaven-mood-knightly-desc = 选定一个人并宣誓至死不渝的效忠，服从其命令，不惜一切代价保护TA。
+
+thaven-mood-false-memories-name = 虚假记忆
+
+thaven-mood-false-memories-desc = 你拥有从未发生过的重要事件的鲜明记忆。说服他人帮你调查并公开这些记忆。
+
+thaven-mood-reality-leak-name = 现实泄漏
+
+thaven-mood-reality-leak-desc = 你相信物品和事件偶尔会来自平行宇宙。通过你对它们进行的测试来确定其来源与影响。
+
+thaven-mood-department-conspiracy-name = 部门阴谋
+
+thaven-mood-department-conspiracy-desc = {$department}部门在幕后秘密控制着空间站。收集证据并揭露真相。
+
+thaven-mood-formal-introductions-name = 正式介绍
+
+thaven-mood-formal-introductions-desc = 在正式自我介绍之前就与人交谈是极其失礼的。
+
+thaven-mood-silence-means-agreement-name = 沉默即同意
+
+thaven-mood-silence-means-agreement-desc = 未提出反对即视为同意。除非他人另有说明，你会自然而然地认为他们同意。
+
+thaven-mood-copycat-name = 模仿者
+
+thaven-mood-copycat-desc = 选定一个人。你应当穿着相似、举止相似，并努力尽可能像TA。
+
+thaven-mood-communications-agent-name = 通讯特工
+
+thaven-mood-communications-agent-desc = 你需要确保同事们对你所在部门几乎每一件大小事与发现都了如指掌，无论多么微不足道或毫无意义；同时你也要保持知情。
+
+thaven-mood-the-curtains-must-rise-name = 帷幕必须升起
+
+thaven-mood-the-curtains-must-rise-desc = 隐私是神圣的权利。建造并安装窗帘，以遮挡窥探的目光。不该有人目睹本应私密的事物。

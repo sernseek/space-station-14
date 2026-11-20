@@ -374,7 +374,8 @@ cmd-restart-desc = 正常重启服务器（而不仅是回合）。
 cmd-restart-help = 用法：{$command}
 
 cmd-shutdown-desc = 正常关闭服务器。
-cmd-shutdown-help = 用法：{$command}
+cmd-shutdown-help = 用法：{$command} [<原因>]
+cmd-shutdown-hint-1 = 原因
 
 cmd-saveconfig-desc = 将服务器配置保存到配置文件。
 cmd-saveconfig-help = 用法：{$command}
@@ -583,3 +584,28 @@ cmd-localization_set_culture-culture-name = <cultureName>
 cmd-localization_set_culture-changed = 本地化已更改为 { $code }（{ $nativeName }／{ $englishName }）
 
 cmd-addmap-hint-2 = runMapInit [true / false]
+
+cmd-parse-failure-session-guid = 找不到 GUID 为 {$guid} 的会话。
+
+cmd-chunkentities-desc = 列出客户端视野内或指定范围内的区块实体。
+cmd-chunkentities-help = 用法：{$command} [<根实体> <x> <y> <范围>]
+cmd-chunkentities-error-invalid-root = 无效的根实体：{$root}
+cmd-chunkentities-error-parse = x、y 和范围都必须是数字。
+cmd-chunkentities-error-nullspace = 当前视点位于空空间。
+cmd-chunkentities-error-no-map = 找不到当前视点所在地图 {$map} 的地图实体。
+cmd-chunkentities-range-header = 根实体 {$root} 在坐标（{$x}，{$y}）周围 {$range} 范围内的区块实体：
+cmd-chunkentities-viewport-header = 地图 {$map} 上客户端视野（{$viewport}）内的区块实体：
+cmd-chunkentities-total = 总计：{$count}
+cmd-chunkentities-root-count = 根实体 {$root}：{$count}
+cmd-chunkentities-entry = {$netEntity} UID={$uid} 根实体={$root} 区块={$chunk} 组件数={$componentCount} {$name}
+cmd-chunkentities-arg-root = <根实体>
+cmd-chunkentities-arg-x = <x>
+cmd-chunkentities-arg-y = <y>
+cmd-chunkentities-arg-range = <范围>
+
+cmd-pausemap-desc = 暂停地图及其中的所有模拟。
+cmd-pausemap-help = 用法：pausemap <地图 ID>
+cmd-unpausemap-desc = 恢复地图及其中的所有模拟。
+cmd-unpausemap-help = 用法：unpausemap <地图 ID>
+cmd-querymappaused-desc = 检查地图是否已暂停。
+cmd-querymappaused-help = 用法：querymappaused <地图 ID>

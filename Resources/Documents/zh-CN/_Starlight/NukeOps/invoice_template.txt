@@ -1,0 +1,8 @@
+[head=2]订单号[/head]
+[bold]物品：[/bold]
+[bold]申请人：[/bold]
+
+[head=3]订单信息[/head]
+[bold]付款方[/bold]：空间站补给预算[font="Monospace"]\[SUP\][/font]
+[bold]审批人：[/bold]
+[bold]理由：[/bold]

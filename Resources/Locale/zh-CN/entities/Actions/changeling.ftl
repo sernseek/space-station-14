@@ -1,5 +1,5 @@
 ent-ActionRetractableItemArmBlade = 臂刃
-    .desc = 褪去血肉，将其重塑为一把血肉之刃。召唤消耗 20 点化学物质，收回也消耗 20 点。 # Starlight
+    .desc = 脱去血肉，将其重塑为一把肉质刀刃。召唤消耗 30 点化学物质。可随意收回。
 
 ent-ActionChangelingDevour = [color=red]吞噬[/color]
     .desc = 吞噬受害者的精华，将其身份与心智纳入己身。

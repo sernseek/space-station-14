@@ -420,3 +420,137 @@ marking-LagomorphHairVolaju = Volaju
 marking-LagomorphHairWisp = 一缕
 marking-LagomorphHairLongWithBangs = 长 配 刘海
 marking-LagomorphHairOverEyePigtail = 双马尾 （遮眼）
+
+marking-LagomorphEarsDeer-deer = 耳朵
+
+marking-LagomorphEarsFluffed = 蓬松
+
+marking-LagomorphEarsFluffed-fluffed = 耳朵
+
+marking-LagomorphDewlap-dewlap = 垂皮
+
+marking-LagomorphEyeScarRight-eye_scar_R = 右眼疤痕
+
+marking-LagomorphEyeScarLeft-eye_scar_L = 左眼疤痕
+
+marking-LagomorphEyeScar2Right = 右眼疤痕 2
+
+marking-LagomorphEyeScar2Right-eye_scar2_R = 右眼疤痕 2
+
+marking-LagomorphEyeScar2Left = 左眼疤痕 2
+
+marking-LagomorphEyeScar2Left-eye_scar2_L = 左眼疤痕 2
+
+marking-LagomorphEyeSpotR = 右眼斑点
+
+marking-LagomorphEyeSpotR-eye_spot_R = 右眼斑点
+
+marking-LagomorphEyeSpotL = 左眼斑点
+
+marking-LagomorphEyeSpotL-eye_spot_L = 左眼斑点
+
+marking-LagomorphHeadBlaze= 白斑
+
+marking-LagomorphHeadBlaze-head_blaze= 白斑
+
+marking-LagomorphHeadDutch = 荷兰式
+
+marking-LagomorphHeadDutch-head_dutch = 荷兰式
+
+marking-LagomorphHeadLion = 狮
+
+marking-LagomorphHeadLion-head_lion = 狮
+
+marking-LagomorphHeadHarlequinnR = 丑角右侧
+
+marking-LagomorphHeadHarlequinnR-head_harlequinn_R = 丑角右侧
+
+marking-LagomorphHeadHarlequinnL = 丑角左侧
+
+marking-LagomorphHeadHarlequinnL-head_harlequinn_L = 丑角左侧
+
+marking-LagomorphBellyColour-belly_color = 腹部
+
+marking-LagomorphTorsoSpots-torso_spots = 胸部 斑点
+
+marking-LagomorphChestScarRight-chest_scar_R = 右 胸部伤疤
+
+marking-LagomorphChestScarLeft-chest_scar_L = 左 胸部伤疤
+
+marking-LagomorphBackScarRight-back_scar_R = 右 背部 伤疤
+
+marking-LagomorphBackScarLeft-back_scar_L = 左 背部 伤疤
+
+marking-LagomorphChestScar = 胸部疤痕
+
+marking-LagomorphChestScar-chest_scar = 胸部疤痕
+
+marking-LagomorphBackScar = 背部疤痕
+
+marking-LagomorphBackScar-back_scar = 背部疤痕
+
+marking-LagomorphChestDutch = 荷兰式
+
+marking-LagomorphChestDutch-chest_dutch = 荷兰式
+
+marking-LagomorphChestHarlR = 丑角右侧
+
+marking-LagomorphChestHarlR-chest_harl_R = 丑角右侧
+
+marking-LagomorphChestHarlL = 丑角左侧
+
+marking-LagomorphChestHarlL-chest_harl_L = 丑角左侧
+
+marking-LagomorphClaws-claws = 爪
+
+marking-LagomorphLegSockL-leg_socks = 腿套
+
+marking-LagomorphFootSockR-feet_socks = 短袜
+
+marking-LagomorphLegSpotsR-right_leg_spots = 右 腿部 斑点
+
+marking-LagomorphLegSpotsL-left_leg_spots = 左 腿部 斑点
+
+marking-LagomorphLegSleeveL = 左袖
+
+marking-LagomorphLegSleeveL-l_leg = 左袖
+
+marking-LagomorphLegSleeveR = 右袖
+
+marking-LagomorphLegSleeveR-r_leg = 右袖
+
+marking-LagomorphHandMittsR-r_hand_mitt = 右 手部 连指套
+
+marking-LagomorphHandMittsL-l_hand_mitt = 左 手部 连指套
+
+marking-LagomorphArmMittsR-r_arm_mitt = 右 手臂 连指套
+
+marking-LagomorphArmMittsL-l_arm_mitt = 左 手臂 连指套
+
+marking-LagomorphArmSpotsR-right_arm_spots = 右 手臂 斑点
+
+marking-LagomorphArmSpotsL-left_arm_spots = 左 手臂 斑点
+
+marking-LagomorphBraceletR-bracelet_R = 右 手镯
+
+marking-LagomorphBraceletL-bracelet_L = 左 手镯
+
+marking-LagomorphArmSleeveL = 左袖
+
+marking-LagomorphArmSleeveL-l_arm = 左袖
+
+marking-LagomorphArmSleeveR = 右袖
+
+marking-LagomorphArmSleeveR-r_arm = 右袖
+
+marking-LagomorphHeadGauze = 蒙眼布
+
+marking-LagomorphHeadGauze-head_gauze_blindfold = 蒙眼布
+
+marking-LagomorphLegGauzeR = 右腿纱布
+
+marking-LagomorphLegGauzeR-leg_gauze_R = 右腿纱布
+
+marking-LagomorphLegGauzeL = 左腿纱布
+
+marking-LagomorphLegGauzeL-leg_gauze_L = 左腿纱布

@@ -16,8 +16,8 @@ emitter-component-type-set = 类型已设为：{$type}
 
 emitter-destroyed-broadcast = 一台通电的发射器（{$location}）已被摧毁。
 
-emitter-deconstructed-broadcast = 一台通电的{$location}已被拆解。
+emitter-deconstructed-broadcast = 一台通电的发射器 {$location} 已被拆解。
 
-emitter-unlocked-broadcast = 一台通电的{$location}已被解锁。
+emitter-unlocked-broadcast = 一台通电的发射器 {$location} 已被解锁。
 
-emitter-unpowered-broadcast = 一台通电的{$location}已断电。
+emitter-unpowered-broadcast = 一台通电的发射器 {$location} 已断电。

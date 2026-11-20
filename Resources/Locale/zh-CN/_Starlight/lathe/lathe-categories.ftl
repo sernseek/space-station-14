@@ -16,3 +16,5 @@ lathe-category-error = 错误
 lathe-category-communication = 通讯
 
 lathe-category-silicon = 硅基
+
+lathe-category-eyewear = 眼镜

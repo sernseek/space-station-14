@@ -1,0 +1,65 @@
+<Document>
+# 枪炮军士
+
+<GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="枪炮军士"/>
+
+### §1.
+标准[color=#00a933]绿色警戒[/color]装备为：
+
+<Box>
+	<GuideEntityEmbed Entity="WeaponDisabler"/>
+	<GuideEntityEmbed Entity="Stunbaton"/>
+	<GuideEntityEmbed Entity="WeaponPistolMk58"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="HoloprojectorSecurity"/>
+	<GuideEntityEmbed Entity="FlashlightSeclite"/>
+	<GuideEntityEmbed Entity="RadioHandheldSecurity"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="CombatKnife"/>
+	于
+	<GuideEntityEmbed Entity="ClothingShoesBootsJack"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="GrenadeFlashBang"/>
+	<GuideEntityEmbed Entity="TearGasGrenade"/>
+</Box>
+<Box>
+	<GuideEntityEmbed Entity="Handcuffs"/>
+	或
+	<GuideEntityEmbed Entity="Zipties"/>
+</Box>
+
+### §2 安保部警务部门主管
+- 1.
+枪炮军士负责组织并协调安保部的日常警务工作，包括但不限于：
+1.1
+[bold]巡逻[/bold]——确保空间站各处有足够的安保人员。
+1.2
+[bold]调查[/bold]——确保对已报案的犯罪行为及时跟进。
+1.3
+[bold]执法[/bold]——确保罪犯依标准作业程序与公司法律得到迅速处理。
+- 2.
+枪炮军士负责组织、装备并带领小队对抗空间站上的敌对目标。
+- 3.
+枪炮军士负责安保学员的培训与分配。
+- 4.
+枪炮军士负责在安保主管缺位时接管安保部。
+- 5.
+枪炮军士获准享有与安保干员同等的量刑权限。
+
+### §3 安保部军需官
+- 1.
+枪炮军士负责确保安保干员的装备与威胁等级相称。
+1.1
+为此，枪炮军士长获准在[color=#2a6099]蓝色警报[/color]期间提交并批准军械库装备发放许可。
+1.2
+枪炮军士长可在[color=#ff0000]红色警报[/color]期间自由发放军械库装备。
+- 2.
+枪炮军士长负责确保在警报标准操作程序要求时军械库可正常进入。
+- 3.
+枪炮军士长负责确保警报升级期间借出的装备最终归还军械库。
+- 4.
+枪炮军士长负责利用其军械库权限妥善存放安保干员查获的违禁品。
+</Document>

@@ -108,7 +108,7 @@ ent-DoorRemoteEngineering = 工程部门禁遥控器
     .desc = 可远程开门和落下门闩的小装置。
 
 ent-DoorRemoteAll = 超级门禁遥控器
-    .desc = 可远程开门和落下门闩的小装置。
+    .desc = 一个能远程开启和锁闭门的小装置。这一个连木门都能用！
 
 ent-DoorRemoteXenoborg = 异种赛博格门禁遥控器
     .desc = 可远程开门和落下门闩的小装置。
@@ -527,7 +527,7 @@ ent-MysteryFigureBox = 神秘太空人手办盒
     .desc = 装有神秘小手办的盒子。盒侧画着几个被涂黑的“稀有”款，其中一个有着巨大而非人形的轮廓。
 
 ent-MysteryLighterBox = 新奇打火机盲盒
-    .desc = 一盒已停产的促销打火机。侧面褪色刮花的标签写着：“可能含有违禁品。” #Starlight-edit
+    .desc = 一盒已停产的促销打火机，其中许多如今已被列为“违禁品”。
 
 
 ent-BaseFigurine = 手办
@@ -555,7 +555,7 @@ ent-ToyFigurineBoxer = 拳击手手办
     .desc = 一个描绘拳击手的精致小手办。
 
 ent-ToyFigurineCaptain = 舰长手办
-    .desc = 一个描绘舰长的精致小手办。 # SL
+    .desc = 一尊人偶，展现的是民用部门纳米传讯舰船舰长的标准装束。
 
 ent-ToyFigurineHeadOfSecurity = 安保主管手办
     .desc = 一个描绘安保主管的精致小手办。
@@ -612,10 +612,10 @@ ent-ToyFigurineLibrarian = 图书管理员手办
     .desc = 一个描绘图书管理员的精致小手办。
 
 ent-ToyFigurineChaplain = 牧师手办
-    .desc = 一个描绘牧师的精致小手办。 # Starlight
+    .desc = 一尊人偶，描绘一位正祈祷好事降临的牧师。
 
 ent-ToyFigurineChef = 厨师手办
-    .desc = 一个描绘厨师的精致小手办。 # Starlight
+    .desc = 一尊人偶，描绘一位厨艺大师——大多数时候是这样。
 
 ent-ToyFigurineBartender = 酒保手办
     .desc = 一个描绘酒保的精致小手办。
@@ -898,8 +898,8 @@ ent-PlushieLizardJobCaptain = 舰长蜥蜴人毛绒玩具
 ent-PlushieLizardJobCargotechnician = 货运技师蜥蜴人毛绒玩具
     .desc = 一个扮成货运技师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。
 
-ent-PlushieLizardJobChaplain = 牧师蜥蜴人毛绒玩具 # Starlight
-    .desc = 一个扮成牧师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。 # Starlight
+ent-PlushieLizardJobChaplain = 牧师蜥蜴人玩偶
+    .desc = 一个可爱的毛绒玩具，看起来像当牧师的蜥蜴人。隐约有股熏香的味。
 
 ent-PlushieLizardJobChef = 厨师蜥蜴人毛绒玩具
     .desc = 一个扮成厨师的可爱蜥蜴人毛绒玩具，细节处还原了这个职业的日常痕迹。

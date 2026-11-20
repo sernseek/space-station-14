@@ -8,3 +8,11 @@ language-menu-understood-tab = 可理解
 # unused, cant find a clean way to show these
 language-menu-spoken-tab-description = 你能够说出并自然能够理解的语言。
 language-menu-understood-tab-description = 你能够理解、但不一定会说的语言。
+
+language-menu-choose-button = 选择
+
+language-menu-chat-prefix = 聊天前缀：{ $prefix }
+
+language-menu-current = 当前语言：
+
+language-menu-open-tooltip = 打开语言菜单

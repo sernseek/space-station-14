@@ -25,3 +25,21 @@ reagent-desc-iceialin = 触感冰凉，可将尸体温度恢复正常。
 reagent-name-respirazone = 呼吸酮
 
 reagent-desc-respirazone = 用于治疗严重的呼吸窘迫和失血。与传统供氧药物不同，它兼容种类繁多的物种。
+
+reagent-name-mortizol = 莫提佐尔
+
+reagent-desc-mortizol = 看起来像死亡，闻起来也像死亡。可清除冻尸上的腐烂与尸僵。使用它需要付出代价。活体非常排斥这东西。
+
+reagent-name-cell-culture-medium = 细胞培养基
+
+reagent-desc-cell-culture-medium = 以 Cell Grow™ 品牌销售。用于在陈旧尸体中再生并替换死亡细胞。可大量涂抹
+
+reagent-desc-polypyrylium-oligomers-sl = 一种由短聚电解质链组成的紫色混合物，难以在实验室中合成。可治疗缺氧与外伤。随时间停止出血。
+
+reagent-name-phytovitalin = 植物活力素
+
+reagent-desc-phytovitalin = 一种复杂化合物，仅源自少数狄奥娜，是用途极广的植物性化合物。它似乎在动。
+
+reagent-name-mycophylin = 真菌亲和素
+
+reagent-desc-mycophylin = 一种由狄奥娜生理产生的奇怪真菌化合物。身体如何利用它，似乎完全取决于身体由什么构成。

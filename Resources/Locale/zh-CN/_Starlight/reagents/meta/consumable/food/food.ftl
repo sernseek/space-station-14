@@ -21,3 +21,7 @@ reagent-physical-desc-mint-extract = 薄荷味的
 reagent-name-cinnamon = 肉桂
 reagent-desc-cinnamon = 生活的香料之一。别尝试直接吃一勺。
 reagent-physical-desc-cinnamon = 肉桂味的
+
+reagent-name-stellibininsyrup = 斯特利比宁糖浆
+
+reagent-desc-stellibininsyrup = 作为药物效果较差，但加入食物后可预防可可碱与大蒜素中毒。代谢缓慢。

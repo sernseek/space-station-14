@@ -21,7 +21,7 @@ roles-antag-zombie-objective = 尽可能将更多人类转化为丧尸。
 roles-antag-nuclear-operative-commander-name = 核弹特工指挥官
 roles-antag-nuclear-operative-commander-objective = 率领队伍摧毁空间站。
 
-roles-antag-nuclear-operative-agent-name = 核弹特工军医
+roles-antag-nuclear-operative-agent-name = 核弹特工医护兵
 roles-antag-nuclear-operative-agent-objective = 担任核弹特工小队的军医，治疗队友并取得胜利！
 
 roles-antag-nuclear-operative-name = 核弹特工

@@ -15,3 +15,15 @@ trait-scottish-accent-desc = 你说起话来就像马上要去尼斯湖！
 
 trait-polite-accent-name = 文雅口音
 trait-polite-accent-desc = 你说话时不会像其他人那样满口粗话！
+
+trait-pirate-accent-name = 海盗口音
+
+trait-pirate-accent-desc = 你没法不按海盗的方式说话！
+
+trait-cowboy-name = 牛仔口音
+
+trait-cowboy-desc = 你说话带着明显的牛仔口音！
+
+trait-italian-name = 意大利口音
+
+trait-italian-desc = 妈妈咪呀！你似乎曾在太空意大利生活过！

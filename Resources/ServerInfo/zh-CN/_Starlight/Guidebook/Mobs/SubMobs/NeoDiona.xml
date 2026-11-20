@@ -1,0 +1,19 @@
+<Document>
+  # 新狄奥娜
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoDiona" Caption=""/>
+  </Box>
+
+  新狄奥娜虽属罕见的景象，却并非不可能存在。即便在植物类种族之中也存在超人类主义，只是这种做法通常为人所不齿。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 65%[/color]、[color=#8147ff]电击伤害增加 30%[/color]。
+  - 受到的[color=#65807d]切割伤害减少 25%[/color]、[color=#FF3636]钝击伤害减少 20%[/color]、[color=#1e90ff]寒冷伤害减少 35%[/color]。
+
+此外，虽然你比未经改造的同族会受到更多[color=#ffa500]灼热伤害[/color]，但要点燃你，实际所需的灼热伤害*更多*。而且你的赛博改造虽然依旧怕热，至少能把这项效果造成的最大火焰层数降低到 3 层。
+
+扎根时，你还比基础狄奥娜[color=#fc0303]慢 5%[/color]。大概是金属添了足够的重量……
+
+[color=red]警告！[/color]新狄奥娜若分裂成若虫，将[color=red]把你变回普通狄奥娜！[/color]请谨慎选择，失去赛博改造真的值得吗？
+</Document>

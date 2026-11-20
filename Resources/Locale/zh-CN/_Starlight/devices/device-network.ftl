@@ -10,3 +10,9 @@ device-address-prefix-gas-filter = GFL-
 device-address-prefix-gas-mixer = GMR-
 
 device-address-prefix-gas-mixer-molar = GMM-
+
+device-frequency-prototype-name-medtak = 医疗特遣队
+
+device-frequency-prototype-name-medtak-operators = MedTak 操作员
+
+device-address-prefix-air-siphon = ASP-

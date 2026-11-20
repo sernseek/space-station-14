@@ -1,0 +1,30 @@
+[head=1][color=#134975]──────────[/color][/head][head=1][color=#009100]──────────[/color][/head]
+[color=#134975]█▄░░█ ▀▀█▀▀[/color]   [color=#009100]█▀▀ █▀▀[/color]   [head=3][color=#009100][bold]联合体[/bold][/color][/head]
+[color=#134975]█▀█▄█ ░░█░░[/color]   [color=#009100]█░░ █░░[/color]  [bolditalic][color=#1b67a5] 立于科研之巅。[/color][/bolditalic]
+[color=#134975]█░░▀█ ░░█░░[/color]   [color=#009100]▀▀▀ ▀▀▀[/color]   [color=#aaaaaa][italic]NT-CC官方文件[/italic][/color]
+[head=1][color=#009100]──────────[/color][/head][head=1][color=#134975]──────────[/color][/head]
+[bold]P-23表格：[/bold] 补发企业签发的身份证明及/或个人数字助理
+─────────────────────────────────────────
+ 日期与时间：[italic][color=#0c34b1][datetime][/color][/italic]
+文件编制人：[italic][color=#0c34b1][signature][/color][/italic]
+
+[bold]姓名与职位：[/bold]
+  [italic][color=#0c34b1][signature][/color][/italic]
+[bold]待补发物品：[/bold]
+  [color=#0c34b1][check][/color]- 个人数字助理
+  [color=#0c34b1][check][/color]- 身份证明卡
+[bold]遗失或损坏情况：[/bold]
+  [italic][color=#0c34b1][form][/color][/italic]
+[bold]补发费用：[/bold]
+  [color=#0c34b1][check][/color] - 身份证明卡：[bold]15信用点[/bold]
+  [color=#0c34b1][check][/color] - 个人数字助理：[bold]220信用点[/bold]
+
+本人，[italic][color=#0c34b1][signature][/color][/italic]，特此声明本申请中提供的所有信息均真实、完整，且据本人所知准确无误。本人知悉，本申请中任何虚假或误导性陈述可能构成《企业法》所述的身份冒充（§1-08）与伪造文书（§3-08），本人接受其中规定的纪律与法律后果。
+
+[color=#0c34b1][check][/color] 本人同意向处理本申请的纳米传讯职员缴纳全部补发费用。
+─────────────────────────────────────────
+[italic][color=#aaaaaa]企业签发身份证明的补发申请受《合理使用政策67C3》约束。纳米传讯保留依据政策67C3及纳米传讯在决定时确立的任何附加标准，拒绝任何补发身份证明卡申请的权利。[/color][/italic]
+────────────────────────────────────────
+
+
+                      [italic][color=#aaaaaa]盖章及/或签名处[/color][/italic]

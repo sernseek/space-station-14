@@ -44,3 +44,13 @@ comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }t
 
 comp-nuclear-reactor-ui-footer-left = 危险：高强度辐射。
 comp-nuclear-reactor-ui-footer-right = 1.0 修订版 1
+
+comp-nuclear-reactor-ui-title = 核反应堆
+
+comp-nuclear-reactor-ui-alarm-ack = 确认
+
+comp-nuclear-reactor-ui-overload = 过载
+
+comp-nuclear-reactor-ui-empty = 已空
+
+comp-nuclear-reactor-ui-fuel-level = 燃料水平：{ $level }%

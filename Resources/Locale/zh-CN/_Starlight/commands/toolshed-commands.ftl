@@ -271,3 +271,9 @@ command-description-jobs-makeunlimited =
     将职业名额设为无限。
 command-description-jobs-makelimited =
     将职业名额设为有限。可以重置为 0，或重置为回合中途应有的数量。
+
+command-description-vv-append =
+    使用 VV（查看变量）在指定路径的集合中追加内容。
+
+command-description-vv-rmat =
+    使用 VV（查看变量）从指定路径的集合中移除给定索引处的元素。

@@ -34,3 +34,15 @@ nukeops-no-one-ready = 没有玩家准备就绪！无法启动核弹特工模式
 nukeops-role-commander = 指挥官
 nukeops-role-agent = 军医
 nukeops-role-operator = 操作员
+
+nukeops-disk-location-title = 圆盘最终位置：
+
+nukeops-disk-carried-by = {" "}由[color=White]{$name}[/color]（[color=orange]{$job}[/color]）携带，位置：{$location}{ $user ->
+    [unknown] { "" }
+   *[other] （[color=gray]{$user}[/color]）
+}
+
+storage-hierarchy-list = { $items-left ->
+  [0] { $existing-text } { $item },
+  *[other] { $existing-text } { $item }，位于
+}

@@ -22,3 +22,8 @@ monument-interface-influences-purchased = 已获得
 monument-interface-influences-owned-tooltip = 你已经拥有此影响力。
 monument-interface-influences-unlocked-not-enough-entropy-tooltip = 还需要 {$entropy} 熵才能获取此影响力。
 monument-interface-influences-locked-tooltip = 此影响力尚未解锁，请向纪念碑提供更多熵。
+
+monument-interface-glyphs-requires-cultists = { $count ->
+    [one] 需要符文上有1名教团成员在场才能发动。
+   *[other] 需要符文上有{$count}名教团成员在场才能发动。
+}

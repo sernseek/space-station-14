@@ -1,0 +1,65 @@
+<Document>
+# 弹药类型
+
+不同类型的弹药针对不同目标而设计。其结构会影响对付护甲的效果，并可能附加额外效果。
+
+## 软尖弹
+
+软尖弹是通用型弹药。在没有专用弹药时它是可靠的选择，但对付有护甲的目标效果较差。
+
+<Box>
+  <GuideEntityEmbed Entity="MagazineBoxPistolSP" Caption="软尖弹" />
+</Box>
+
+## 空尖弹
+
+空尖弹旨在对无护甲目标造成最大化伤害。它对付护甲表现很差，面对有防护的目标时一般应避免使用。
+
+<Box>
+  <GuideEntityEmbed Entity="MagazineBoxPistolHP" Caption="空尖弹" />
+  <GuideEntityEmbed Entity="ReagentSlimeNocturine" Caption="无护甲威胁" />
+  <GuideEntityEmbed Entity="MobAdultSlimesYellow" Caption="无护甲威胁" />
+</Box>
+
+## 全金属被甲弹
+
+全金属被甲弹是一种多用途弹药，适用于应对有护甲和成群的目标。其更优的穿甲性能使其成为对付受防护目标时的可靠选择。
+
+FMJ弹药还具有穿透目标的特性，一发子弹便有可能击中多名敌人。
+
+<Box>
+  <GuideEntityEmbed Entity="MagazineBoxPistolFMJ" Caption="全金属被甲弹药" />
+  <GuideEntityEmbed Entity="MobCarp" Caption=" " />
+  <GuideEntityEmbed Entity="MobCarp" Caption="虫群敌人" />
+  <GuideEntityEmbed Entity="MobCarp" Caption=" " />
+</Box>
+
+## 穿甲弹
+
+穿甲弹专为应对重甲威胁而设计。对重装防护人员和装甲机械尤其有效，常规弹药对付这类目标则较为吃力。
+
+<Box>
+  <GuideEntityEmbed Entity="MagazineBoxPistolAP" Caption="穿甲弹药" />
+  <GuideEntityEmbed Entity="ShowcaseRobotMarauder" Caption="有护甲威胁" />
+</Box>
+
+## 霰弹枪弹药
+
+### 鹿弹
+
+鹿弹可同时射出多发弹子，对付无护甲目标十分有效。但其单颗弹子对护甲的效果较差。
+
+### 独头弹
+
+独头弹发射单一大型弹丸。与鹿弹不同，它对有护甲目标极为有效，在需要集中伤害与穿甲时是强力之选。
+
+## 特种弹药
+
+部分弹药类型与护甲并无特殊互动，而是提供独特效果。
+
+- [color=cyan]燃烧弹：[/color] 产生额外热量，可点燃目标。
+- [color=cyan]橡胶弹：[/color] 专为非致命用途设计。
+- [color=cyan]训练弹：[/color] 低伤害的训练用弹药。
+- [color=cyan]铀弹：[/color] 造成额外辐射伤害。
+
+</Document>

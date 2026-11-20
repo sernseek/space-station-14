@@ -1,6 +1,6 @@
 ﻿- type: gameMap
   id: StarlightDownpour
-  mapName: 'Downpour Station'
+  mapName: 骤雨站
   mapPath: /Maps/_Starlight/Stations/Downpour.yml
   minPlayers: 20
   maxPlayers: 100

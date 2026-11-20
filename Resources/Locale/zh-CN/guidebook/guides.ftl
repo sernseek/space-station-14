@@ -40,7 +40,6 @@ guide-entry-fires = 火灾
 guide-entry-spacing = 太空暴露
 guide-entry-deltapressure = 压差
 guide-entry-atmostools = 大气工具
-guide-entry-gasses = 常规气体
 guide-entry-botany = 植物学
 guide-entry-shuttle-craft = 穿梭机制造
 guide-entry-networking = 网络

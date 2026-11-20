@@ -1,7 +1,6 @@
 role-type-crew-aligned-name = 船员阵营
 role-type-solo-antagonist-name = 单独行动的敌对角色
 role-type-team-antagonist-name = 团队敌对角色
-role-type-free-agent-name = 自由角色
 role-type-familiar-name = 使魔
 role-type-silicon-name = 硅基
 role-type-silicon-antagonist-name = 被篡改的硅基
@@ -23,7 +22,7 @@ role-subtype-traitor = 叛徒
 role-subtype-thief = 小偷
 role-subtype-ninja = 忍者
 role-subtype-nukie = 核弹特工
-role-subtype-traitor-reinforcement = 增援
+role-subtype-traitor-reinforcement = 辛迪加援兵
 role-subtype-revolutionary = 革命党
 role-subtype-head-revolutionary = 革命党首领
 role-subtype-initial-infected = 感染者

@@ -67,3 +67,7 @@ shipyard-vessel-bumblebee-description = 一艘为高级种植作业打造的中�
 shipyard-vessel-spacetruck-name = HARMS 太空卡车
 
 shipyard-vessel-spacetruck-description = 一辆便宜的拖挂卡车，搭载一台半合法（请咨询你的律师！）的 IFF 控制台。附赠两瓶啤酒和一台好用的数字音频工作站，让你在遨游太空时尽情放歌。
+
+shipyard-vessel-bellows-name = GTS-A1-100KL“风箱号”
+
+shipyard-vessel-bellows-description = GTS 出品的“风箱号”单气体运输舰，默认涂装，可转运 100kL。价格十分实惠，标准外形便于通用部署。

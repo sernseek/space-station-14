@@ -44,11 +44,11 @@
 气泵的标准压力为 100.325 kpa。Cryoxadone 会在低于 170K 时生效，但通常会将冷冻机设为 100K，以加快降温速度。
 
 <GuideReagentEmbed Reagent="Aloxadone"/>
+<GuideReagentEmbed Reagent="Arcryox"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>
 <GuideReagentEmbed Reagent="Doxarubixadone"/>
 <GuideReagentEmbed Reagent="Dexalin"/>
 <GuideReagentEmbed Reagent="Leporazine"/>
-<GuideReagentEmbed Reagent="Necrosol"/>
 <GuideReagentEmbed Reagent="Opporozidone"/>
 
 </Document>

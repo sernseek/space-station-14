@@ -17,7 +17,7 @@ ent-SilverRingBase = 银戒指
     .desc = 看起来比金戒指稍微不值钱一点。
 
 ent-ClothingNeckStoleChaplain = 牧师圣带
-    .desc = 一条设计优雅的圣带，两端各饰有鲜亮的金色圣徽。 # Starlight
+    .desc = 一条设计优雅的圣带，两端各有一个醒目的金色十字。
 
 ent-CarpRift = 鲤鱼裂隙
     .desc = 一道类似太空鲤鱼用于长途旅行的裂隙。
@@ -184,7 +184,7 @@ ent-IngotAbyssium = 深渊矿锭
     .desc = 一块印有纳米传讯标志的沉重金属锭。 # SL
 
 ent-PinpointerTerminator = 目标信标
-    .desc = 显示目标当前所在的位置。
+    .desc = 你目标当前所在位置。
 
 ent-BriefcaseSecure = 安全公文包
     .desc = 方便用手提着携带物品。配有电子锁。
@@ -205,7 +205,7 @@ ent-HandheldBSOCrewMonitor = 指挥之友™ X-02
     .desc = 不负责监测指挥部成员的能力水平。
 
 ent-NeuralLinkDisruptor = 神经链接干扰器
-    .desc = 用于暂时干扰赛博改造。具有被动效果的植入物不受影响。
+    .desc = 一种能用在他人身上、使其赛博改造长时间失效的装置，最适合对付装有危险赛博义肢的囚犯。对被动型植入体无效。
 
 ent-WeaponMechIndustrialKineticAccelerator = 外骨骼原型动能加速器
     .desc = 近距离发射造成普通伤害的动能弹。
@@ -226,7 +226,7 @@ ent-AdvancedClaws = 高级利爪
     .desc = 嵌入手中的锋利可伸缩塑钢爪。
 
 ent-DemonicPitchfork = 双齿叉
-    .desc = 侧面刻着褪色的文字：“血刃那只狮鹫——”
+    .desc = 侧面刻着褪色的文字“血刃·狮鹫——”。
 
 ent-VampiricClawsItem = 吸血鬼利爪
     .desc = 由鲜血铸成的利爪，命中时可汲取生命精华。挥击 15 次后，或遭到驱散时便会消散。
@@ -265,7 +265,7 @@ ent-BaseMobProtoSlimePerson = 尤里斯特·麦史莱姆
 ent-RandomSolarSpawnerGlass = 随机玻璃太阳能板生成点
 
 ent-Jump = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-ActionToggleThermal = 切换热成像视觉
     .desc = 启用或禁用热成像视觉。

@@ -1,5 +1,5 @@
 ent-ActionCosmicSiphon = 汲取熵
-    .desc = 悄无声息地从目标身上汲取熵，并在此过程中造成少量伤害。
+    .desc = 从目标身上静默汲取熵。你收集的熵可存入纪念碑以强化它，并解锁新的影响。
 
 ent-ActionCosmicBlank = 转移主观意识
     .desc = 将目标的意识逐出躯体、投入宇宙暗域，使其躯体暂时失去心智。
@@ -13,7 +13,7 @@ ent-ActionCosmicMoveMonument = 迁移纪念碑
 ent-ActionCosmicReturn = 返回
     .desc = 消散你的星界投影并返回躯体。
 
-ent-ActionCosmicLapse = 异常停滞
+ent-ActionCosmicLapse = 异常断层
     .desc = 使目标的物质形态陷入停滞，暂时令其不可改变、不可穿越并冻结在原地。
 
 ent-ActionCosmicGlare = 虚无眩光
@@ -31,6 +31,8 @@ ent-ActionCosmicNova = 星界新星
 ent-ActionCosmicFragmentation = 虚无碎裂
     .desc = 将你的邪异强化灌入AI上传控制台、赛博格或IPC等数字系统并将其腐化。此举会耗尽你的强化。
 
+        若对硅基体或IPC使用，会向空间站暴露该教派的存在，以及此能力的施放大致位置。
+
 ent-ActionCosmicColossusSunder = 熵能崩解
     .desc = 跃迁至目标位置，释放邪异能量的连锁爆炸。
 
@@ -47,7 +49,7 @@ ent-ActionCosmicAnomalyIngress = 强行侵入
     .desc = 引导异常感染的能量，强行打开安全门。
 
 ent-ClothingOuterHardsuitCosmicCult = 熵能装甲
-    .desc = 一套令人不安的硬装宇航服，触感麻木。它脉动着微光，让你觉得自己似乎忘记了什么……
+    .desc = 一套令人不安的硬质宇航服，摸上去冰冷发麻。它脉冲般发着光，让你觉得好像忘了什么……
 
 ent-ClothingHeadHelmetCosmicCult = 熵能头盔
     .desc = 这件头盔仿佛是从相连的硬装宇航服中挤出来的，二者材质浑然一体。

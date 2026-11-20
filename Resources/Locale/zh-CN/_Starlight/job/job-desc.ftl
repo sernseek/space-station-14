@@ -27,3 +27,9 @@ job-description-stirstir = 一只声名狼藉、不可信任的猴子。货真�
 job-description-salvagemedic = 在站外保住你打捞小队的命。确保他们每个人都完完整整地回来。
 
 job-description-salvagespecSL = 保护 ITG 的资产，探索奇异世界，获取稀有货物卖给空间站。
+
+job-description-gunnerysergeant = 协调巡逻队与战斗小队，在战场上率领安保部！
+
+job-description-scurret = 支持船员，做个可爱的小家伙，多说几声“哇”。
+
+job-description-prisoner = 你是企业所有的囚犯，在一个苦役殖民地服刑。

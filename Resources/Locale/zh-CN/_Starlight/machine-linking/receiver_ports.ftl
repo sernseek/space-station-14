@@ -14,3 +14,31 @@ signal-port-name-set-particle-lambda = 设置粒子类型：Lambda
 signal-port-description-set-particle-lambda = 将该设备发射的粒子类型设为 Lambda。
 signal-port-name-trigger-spawn = 触发生成
 signal-port-description-trigger-spawn = 激活生成器，使其生成物体。
+
+signal-port-name-toggleable-device-state = 状态
+
+signal-port-description-toggleable-device-state = 设备应匹配的状态。高电平 = 开，低电平 = 关。
+
+signal-port-name-toggleable-device-state-inverted = 反转状态
+
+signal-port-description-toggleable-device-state-inverted = 设备应匹配相反状态。高电平 = 关，低电平 = 开。
+
+signal-port-name-turret-controller-sync-receiver = 同步
+
+signal-port-description-turret-controller-sync-receiver = 与另一个炮塔控制面板共享武器和授权设置。
+
+signal-port-name-combustion-turbine-console-receiver = 燃气轮机
+
+signal-port-description-combustion-turbine-console-receiver = 接收来自燃气轮机控制台的命令。
+
+signal-port-name-airlock-cycler-door = 气闸门控制器
+
+signal-port-description-airlock-cycler-door = 允许气闸门控制器锁栓、关闭和打开此门。
+
+signal-port-name-airlock-cycler-button = 气闸门控制器
+
+signal-port-description-airlock-cycler-button = 请求气闸控制器向本按钮所在的一侧循环。
+
+signal-port-name-airlock-cycler-device = 气闸控制器
+
+signal-port-description-airlock-cycler-device = 让气闸控制器用此通风口、洗涤器或泵为该舱室充气或抽气。

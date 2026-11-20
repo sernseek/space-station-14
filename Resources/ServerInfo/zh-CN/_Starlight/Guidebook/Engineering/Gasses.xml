@@ -1,0 +1,90 @@
+<Document>
+  # 气体
+  自然界中易于获取的普通气体。有些用于呼吸，另一些则有少量用途。
+
+  ## 空气混合气
+  <Box>
+    <GuideEntityEmbed Entity="AirCanister" Caption=""/>
+    <GuideEntityEmbed Entity="AirTank" Caption=""/>
+  </Box>
+
+  一种可供空间站上大多数物种呼吸的混合气体。
+  它由21%的氧气和79%的氮气组成。
+
+  ## 氧气
+  <Box>
+    <GuideEntityEmbed Entity="OxygenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="OxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="DoubleEmergencyOxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="ExtendedEmergencyOxygenTank" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyOxygenTank" Caption=""/>
+  </Box>
+
+  一种常见气体，空间站上大多数物种靠它呼吸。
+
+  氧气是一种氧化剂，这意味着它能助燃。尽管存在这一明显的安全隐患，大多数物种仍需依靠它生存。
+
+  ## 氮气
+  <Box>
+    <GuideEntityEmbed Entity="NitrogenCanister" Caption=""/>
+    <GuideEntityEmbed Entity="NitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="DoubleEmergencyNitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="ExtendedEmergencyNitrogenTank" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyNitrogenTank" Caption=""/>
+  </Box>
+
+  一种惰性气体，与氧气混合可形成可呼吸的大气。
+
+  某些物种如史莱姆呼吸氮气，而沃克斯物种则必须呼吸纯氮气才能存活。
+
+  ## 二氧化碳
+  <Box>
+    <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
+  </Box>
+
+  空间站上大多数物种产生的废气，也是燃烧的常见副产物。
+
+  具有吸收辐射的特性，使其成为某些能源中实用的慢化剂。
+
+  ## 水蒸气
+  <Box>
+    <GuideEntityEmbed Entity="WaterVaporCanister" Caption=""/>
+  </Box>
+  一种常见气体，可通过燃烧氢或氚产生。
+
+  与其他普通气体相比，水蒸气具有良好的比热容，适用于传热。
+
+  ## 一氧化二氮
+  <Box>
+    <GuideEntityEmbed Entity="NitrousOxideCanister" Caption=""/>
+    <GuideEntityEmbed Entity="EmergencyFunnyOxygenTank" Caption=""/>
+  </Box>
+  由氧和氮组成的化学反应性混合物，在大多数物种中主要用作麻醉剂或致幻剂。
+
+  可通过加热氧气与氨气、将弗莱森与氮气混合，或由史莱姆类生物的呼出气体生成。加热至约850 K可分解为其组成原子。
+
+  ## 氨气
+  <Box>
+    <GuideEntityEmbed Entity="AmmoniaCanister" Caption=""/>
+  </Box>
+  由尸体分解或沃克斯呼出产生的气体。
+
+  可冷凝以制成多种有用化学品，或与氧气加热以生成一氧化二氮和水蒸气。
+
+  ## 氢气
+  <Box>
+    <GuideEntityEmbed Entity="HydrogenCanister" Caption=""/>
+  </Box>
+  宇宙中最常见的原子。
+
+  因易燃且肉眼不可见而极为危险。主要通过电解水制取，也是更高级工艺的副产物。
+
+  ## 氦气
+  <Box>
+    <GuideEntityEmbed Entity="HeliumCanister" Caption=""/>
+  </Box>
+  宇宙中第二常见的原子。
+
+  因极具惰性而实际用途有限，但由于分离如此惰性的气体十分困难，仍可在市场上以低价出售。
+
+</Document>

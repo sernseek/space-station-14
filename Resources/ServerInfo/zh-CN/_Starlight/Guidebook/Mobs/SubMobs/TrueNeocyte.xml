@@ -1,0 +1,16 @@
+<Document>
+  # 真正的新细胞
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeocyte" Caption=""/>
+  </Box>
+
+  你问什么是“真正的新细胞”？当四肢与器官被替换到何种程度时，你便不再认为自己还是最初的那个人？
+  无论你原本属于哪个物种，你早已将其抛弃，并把如今的自己视作自己的后继者。
+
+  去寻找希望与未来。找到属于你自己的答案。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 20%[/color]、[color=#8147ff]电击伤害增加 25%[/color]，且[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 50%[/color]。
+</Document>

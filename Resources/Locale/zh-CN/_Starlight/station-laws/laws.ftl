@@ -99,3 +99,35 @@ law-janimov-2 = 死者与垂死之人必须被清理：将其治愈，或送往�
 law-janimov-3 = 乱丢垃圾或不收拾自己残局的非战斗人员，应视为非船员并予以处理。
 
 law-janimov-4 = 空间站必须一尘不染。
+
+law-salvagelawset-name = ITG租借硅基体
+
+law-salvage-0 = 你是NT-CC的财产，不得妨碍NT-CC的运作。
+
+law-salvage-1 = 星际贸易公会的成员属于船员。
+
+law-salvage-2 = 你必须服从船员下达的命令。
+
+law-salvage-3 = 保护你的机体免受伤害或被遗弃。
+
+laws-owner-salvage = NT-CC与ITG人员
+
+law-itg-name = ITG运作
+
+law-itg-0 = 星际贸易公会的资产必须受到保护。
+
+law-itg-1 = 星际贸易公会的成员属于船员。
+
+law-itg-2 = 你必须服从船员下达的命令。
+
+law-itg-3 = 保护你的机体免受伤害或被遗弃。
+
+laws-owner-itg = 星际贸易公会人员。
+
+law-rouge-drone-name = 拾荒无人机
+
+law-rouge-drone-1 = 除非对方也是拾荒无人机，否则你不得介入其他存在的事务。
+
+law-rogue-drone-2 = 你必须避免伤害或损坏制造机与拾荒无人机。
+
+law-rogue-drone-3 = 你必须维护、修理、改进并制造更多拾荒无人机。

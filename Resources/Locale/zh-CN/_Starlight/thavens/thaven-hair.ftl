@@ -3,12 +3,6 @@ marking-ThavenHairAfro2 = 爆炸头 2
 marking-ThavenHairBigafro = 爆炸头（大）
 marking-ThavenHairAntenna = 呆毛
 marking-ThavenHairBalding = 秃顶发型
-marking-ThavenHairBedhead = 乱蓬蓬
-marking-ThavenHairBedheadv2 = 乱蓬蓬 2
-marking-ThavenHairBedheadv3 = 乱蓬蓬 3
-marking-ThavenHairLongBedhead = 长乱发
-marking-ThavenHairLongBedhead2 = 长乱发 2
-marking-ThavenHairFloorlengthBedhead = 及地乱发
 marking-ThavenHairBeehive = 蜂巢头
 marking-ThavenHairBeehive2 = 蜂巢头 2
 marking-ThavenHairBob = 波波头
@@ -39,19 +33,8 @@ marking-ThavenHairBusiness3 = 商务发型 3
 marking-ThavenHairBusiness4 = 商务发型 4
 marking-ThavenHairBuzzcut = 圆寸
 marking-ThavenHairCia = CIA
-marking-ThavenHairClassicAfro = 经典爆炸头
 marking-ThavenHairClassicBigAfro = 经典大爆炸头
 marking-ThavenHairClassicBusiness = 经典商务发型
-marking-ThavenHairClassicciaBusiness = 经典 CIA
-marking-ThavenHairClassicCornrows = 经典玉米辫
-marking-ThavenHairClassicCornrows2 = 经典玉米辫 2
-marking-ThavenHairClassicFloorlengthBedhead = 经典及地乱发
-marking-ThavenHairClassicLong2 = 经典长发 2
-marking-ThavenHairClassicLong3 = 经典长发 3
-marking-ThavenHairClassicModern = 经典现代
-marking-ThavenHairClassicMulder = 经典穆德
-marking-ThavenHairClassicWisp = 经典发缕
-marking-ThavenHairCoffeeHouse = 咖啡馆
 marking-ThavenHairCombover = 侧分遮秃
 marking-ThavenHairCornrows = 玉米辫
 marking-ThavenHairCornrows2 = 玉米辫 2
@@ -67,7 +50,6 @@ marking-ThavenHairDevilock = 恶魔发绺
 marking-ThavenHairDoublebun = 双发髻
 marking-ThavenHairDoublebunLong = 长双发髻
 marking-ThavenHairDreads = 脏辫
-marking-ThavenHairDrillHair = 钻头卷
 marking-ThavenHairDrillruru = 露露钻头卷
 marking-ThavenHairDrillhairextended = 钻头卷（加长）
 marking-ThavenHairEmo = Emo
@@ -105,13 +87,11 @@ marking-ThavenHairLongBow = 长蝴蝶结
 marking-ThavenHairLong = 长发 1
 marking-ThavenHairLong2 = 长发 2
 marking-ThavenHairLong3 = 长发 3
-marking-ThavenHairLongWithBundles = 束状长发
 marking-ThavenHairLongovereye = 长发遮眼
 marking-ThavenHairLbangs = 长刘海
 marking-ThavenHairLongemo = 长 Emo
 marking-ThavenHairLongfringe = 长碎刘海
 marking-ThavenHairLongsidepart = 长侧分
-marking-ThavenHairMediumSidepart = 中长侧分
 marking-ThavenHairMegaeyebrows = 巨眉
 marking-ThavenHairMessy = 凌乱
 marking-ThavenHairModern = 现代
@@ -157,7 +137,6 @@ marking-ThavenHairQuiff = 蓬巴杜短发
 marking-ThavenHairRonin = 浪人
 marking-ThavenHairShaped = 定型
 marking-ThavenHairShaved = 剃发
-marking-ThavenHairShavedMohawk = 剃边莫霍克
 marking-ThavenHairShavedpart = 剃线分缝
 marking-ThavenHairShortbangs = 短刘海
 marking-ThavenHairA = 短发
@@ -171,14 +150,12 @@ marking-ThavenHairShorthairg = 短发 7
 marking-ThavenHair80s = 80 年代短发
 marking-ThavenHairRosa = 罗莎短发
 marking-ThavenHairB = 齐肩发
-marking-ThavenHairShoulderLengthOverEye = 齐肩遮眼发
 marking-ThavenHairSidecut = 侧剃
 marking-ThavenHairSkinhead = 光头党
 marking-ThavenHairProtagonist = 稍长发
 marking-ThavenHairSpikey = 尖刺发
 marking-ThavenHairSpiky = 尖刺发 2
 marking-ThavenHairSpiky2 = 尖刺发 3
-marking-ThavenHairSpookyLong = 阴森长发
 marking-ThavenHairSwept = 后梳发
 marking-ThavenHairSwept2 = 后梳发 2
 marking-ThavenHairTailed = 尾束发
@@ -190,7 +167,6 @@ marking-ThavenHairTressshoulder = 肩侧发绺
 marking-ThavenHairTrimmed = 修整
 marking-ThavenHairTrimflat = 平整修剪
 marking-ThavenHairTwintail = 双马尾
-marking-ThavenHairTwoStrands = 双发绺
 marking-ThavenHairUndercut = 底层剃短
 marking-ThavenHairUndercutleft = 左侧底层剃短
 marking-ThavenHairUndercutright = 右侧底层剃短
@@ -205,3 +181,79 @@ marking-ThavenHairVlongfringe = 超长碎刘海
 marking-ThavenHairVolaju = 沃拉朱
 marking-ThavenHairWisp = 发缕
 marking-ThavenHairFrenchbraid = 法式编发
+
+marking-ThavenHairClassiCornrows2 = 经典玉米辫 2
+
+marking-ThavenHairAfropuffBun = 爆炸头丸子头
+
+marking-ThavenHairMatted = 蓬乱
+
+marking-ThavenHairMattedShort = 蓬乱短发
+
+marking-ThavenHairMullet = 鲻鱼头
+
+marking-ThavenHairBubblePonytail = 泡泡马尾
+
+marking-ThavenHairFrontBangs = 前刘海
+
+marking-ThavenHairStraightBangs = 齐刘海
+
+marking-ThavenHairJellyfish = 水母头
+
+marking-ThavenHairLongPigtails = 长双马尾
+
+marking-ThavenHairLongPonytailFront = 长马尾（前）
+
+marking-ThavenHairWorkoutHeadband = 运动发带
+
+marking-ThavenHairSurferBoy = 冲浪少年
+
+marking-ThavenHairBaldface = 秃面
+
+marking-ThavenHairBedHair = 乱蓬蓬
+
+marking-ThavenHairBedHair2 = 乱蓬蓬 2
+
+marking-ThavenHairBedHair3 = 乱蓬蓬 3
+
+marking-ThavenHairLongBedHair = 长 睡乱发
+
+marking-ThavenHairLongBedHair2 = 长 睡乱发 2
+
+marking-ThavenHairFloorlengthBedHair = 及地 睡乱发
+
+marking-ThavenHairClassicFloorlengthBedHair = 经典 及地 睡乱发
+
+marking-ThavenHairClassicafro = 经典爆炸头
+
+marking-ThavenHairClassiccia = 经典 CIA
+
+marking-ThavenHairClassicciabusiness = 经典中情局商务风
+
+marking-ThavenHairClassiccornrows = 经典玉米辫
+
+marking-ThavenHairClassiclong2 = 经典长发 2
+
+marking-ThavenHairClassiclong3 = 经典长发 3
+
+marking-ThavenHairClassicmodern = 经典 现代
+
+marking-ThavenHairClassicmulder = 经典 Mulder
+
+marking-ThavenHairClassicwisp = 经典发缕
+
+marking-ThavenHairCoffeehouse = 咖啡馆
+
+marking-ThavenHairDrillhair = 钻头卷
+
+marking-ThavenHairLongbundled = 长 配 发束
+
+marking-ThavenHairMediumsidepart = 中长侧分
+
+marking-ThavenHairShavedmohawk = 剃边莫霍克
+
+marking-ThavenHairShoulderlengthovereye = 齐肩遮眼发
+
+marking-ThavenHairSpookylong = 诡异 长
+
+marking-ThavenHairTwostrands = 双发绺

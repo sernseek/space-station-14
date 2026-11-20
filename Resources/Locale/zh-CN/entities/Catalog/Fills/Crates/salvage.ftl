@@ -19,8 +19,8 @@ ent-CrateFulton = 富尔顿回收箱
 ent-CrateVoidJetpack = 虚空喷气背包箱
     .desc = 装有一个虚空喷气背包。
 
-ent-CrateSalvageHardsuit = 打捞外骨骼服箱
-    .desc = 装有一套打捞外骨骼服、呼吸面罩和氧气罐。
+ent-CrateSalvageHardsuit = 采矿硬质宇航服箱
+    .desc = 内含一套采矿硬质宇航服、呼吸面罩，以及一瓶氧气和一瓶氮气。
 
 ent-CrateCrusherGlaive = 破碎长刀箱
     .desc = 装有一把供打捞使用的破碎长刀。

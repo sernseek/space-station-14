@@ -3,3 +3,5 @@ station-event-nightshift-end-announcement = 早上好，船员。现在已是白
 
 station-event-nightshift-disable = 正在禁用夜间照明：空间站处于紧急状态。
 station-event-nightshift-enable = 正在启用夜间照明：空间站已脱离紧急状态。
+
+nightshift-announcement-sender = 自动照明系统

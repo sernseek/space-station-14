@@ -247,3 +247,7 @@ marking-VulpFacialHairElder = 长者式
 marking-VulpFacialHairElderChin = 长者下颌须
 marking-VulpFacialHairKita = Kita
 marking-VulpFacialHairGoatee = 胡须（吻部山羊胡）
+
+marking-VulpTailCoyote-coyote = 郊狼尾巴（基础）
+
+marking-VulpTailCoyote = 伏尔卡宁郊狼

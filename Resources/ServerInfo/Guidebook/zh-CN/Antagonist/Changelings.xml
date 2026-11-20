@@ -1,7 +1,7 @@
 <Document>
   # 拟形怪
   <Box>
-    <GuideEntityEmbed Entity="GuidebookChangelingFluff" Caption=""/>
+    <GuideEntityEmbed Entity="ChangelingTransformEffect" Caption=""/>
   </Box>
   拟形怪是一种聪明且能够变成人类的外星生物。拟形怪原本是头蛞蝓形态的外星生物，但在班次开始前，它们可能在空间站外变成某个人，也可能通过未知方式杀死某人并取而代之。
   拟形怪的主要武器，是在体内合成危险化学品、变成自己吸收过的生物，以及混入人类之中的能力。

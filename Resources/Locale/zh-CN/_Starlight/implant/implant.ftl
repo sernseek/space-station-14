@@ -13,3 +13,7 @@ mind-control-prevents-mindshield = 另一个植入物挡住了它。
 mind-control-invalid = 目标必须活着。
 roles-antag-mind-controlled-name = 受心智控制者
 roles-antag-mind-controlled-objective = 服从控制者的命令。
+
+fragile-implant-extraction = 脆弱植入体在被取出时会瓦解……
+
+injection-port-examine = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-HAVE($target)} 安装了一个 [color=#9dc6cf]注射端口[/color]，可让注射速度更快。

@@ -32,7 +32,7 @@ ent-FoodBoxDonkpocketMoth = 一盒飞蛾味 Donk 夹心饼
     .desc = 食用说明：用微波炉加热。若未在七分钟内吃完，本产品将会变凉。
 
 ent-HappyHonk = 快乐呵叫套餐
-    .desc = 玩具都比食物更能入口。来自呵叫得来速餐厅，嗯……
+    .desc = 这玩具比食物还难吃。
 
 ent-HappyHonkNukie = 强力核弹特工套餐
     .desc = 一份可疑的套餐，里面可能藏着爆炸性惊喜。

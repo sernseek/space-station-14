@@ -75,3 +75,35 @@ marking-HumanHairViper = 蝰蛇
 marking-HumanHairWife = 妻子
 marking-HumanHairZiegler = 齐格勒
 marking-HumanHairCoolSpikes = 酷炫尖刺
+
+marking-HumanHairAfropuffBun = 蓬松丸子头
+
+marking-HumanHairAfropuffBun-afropuffbun = 蓬松丸子头
+
+marking-HumanHairBubblePonytail = 泡泡马尾
+
+marking-HumanHairBubblePonytailAlt = 泡泡马尾（变体）
+
+marking-HumanHairFrontBangs = 前刘海
+
+marking-HumanHairLongPigtails = 长双马尾
+
+marking-HumanHairLongPigtailsAlt = 长双马尾（变体）
+
+marking-HumanHairLongPonytailFront = 长马尾（前）
+
+marking-HumanHairLongPonytailFrontAlt = 长马尾（前变体）
+
+marking-HumanHairMatted = 乱发
+
+marking-HumanHairMattedShort = 短乱发
+
+marking-HumanHairMullet = 鲻鱼头
+
+marking-HumanHairStraightBangs = 齐刘海
+
+marking-HumanHairStarpuffs= 双星
+
+marking-HumanHairStarpuffsAlt= 双星（变体）
+
+marking-HumanHairWorkoutHeadband = 运动发带

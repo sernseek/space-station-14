@@ -19,11 +19,11 @@
   管道共有五种形态：
 
   <Box>
-    <GuideEntityEmbed Entity="GuidebookPlumbingDuctStraight" Caption="直管"/>
-    <GuideEntityEmbed Entity="GuidebookPlumbingDuctBend" Caption="弯管"/>
-    <GuideEntityEmbed Entity="GuidebookPlumbingDuctTJunction" Caption="T 形接头"/>
-    <GuideEntityEmbed Entity="GuidebookPlumbingDuctFourway" Caption="四通接头"/>
-    <GuideEntityEmbed Entity="GuidebookPlumbingDuctManifold" Caption="歧管"/>
+    <GuideEntityEmbed Entity="PlumbingDuctStraight" Caption="直管"/>
+    <GuideEntityEmbed Entity="PlumbingDuctBend" Caption="弯管"/>
+    <GuideEntityEmbed Entity="PlumbingDuctTJunction" Caption="三通"/>
+    <GuideEntityEmbed Entity="PlumbingDuctFourway" Caption="四通"/>
+    <GuideEntityEmbed Entity="PlumbingDuctManifold" Caption="集管"/>
   </Box>
 
   [color=#a4885c]歧管[/color]会桥接与各侧相连的管道，可以跨越全部三个层级连接不同管道。

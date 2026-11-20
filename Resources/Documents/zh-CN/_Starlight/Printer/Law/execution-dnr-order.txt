@@ -1,0 +1,28 @@
+                         [head=3]NT—中央指挥部联合服务处[/head]
+
+                [center][color=#1f75bb][italic][bold]   中央指挥部正式文件[/bold][/italic][/color][/center]
+────────────────────────────────────────
+⠀⠀             [bold]处决与不予复苏令[/bold]
+────────────────────────────────────────
+    日期与时间：[datetime]
+文件编制者：[signature]
+
+囚犯姓名：  [form]
+囚犯原职务：[form]
+
+所犯罪行：
+⠀• [form]
+
+处决与不予复苏的理由：
+⠀• [form]
+
+下令处决者（姓名 + 职位）：[signature]
+
+⠀ [italic]本命令仅可由空间站的（代理）舰长签发。[/italic]
+⠀ [italic]若地方法官在场，其可推翻舰长的决定，且须加盖其印章。[/italic]
+⠀ [italic]处决前，囚犯必须被安全束缚。[/italic]
+⠀ [italic]处决方式可由囚犯选择，但须在法律允许范围内，[/italic]
+⠀ [italic]且必须尽可能人道。[/italic]
+⠀ [italic][/italic]
+────────────────────────────────────────
+⠀                      [italic]盖章和/或签名处[/italic]

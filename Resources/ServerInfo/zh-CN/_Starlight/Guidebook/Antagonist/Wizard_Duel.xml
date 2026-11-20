@@ -1,0 +1,50 @@
+<Document>
+  # 巫师决斗
+<!-- Moved to Starlight from Moff Station since we're making a fair bit of changes. -->
+  <Box>
+    [color=#457573][italic]我向你发起决斗挑战！[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHeadHatRedwizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatWizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatYellowwizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatGreenwizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatPurplewizard" Caption=""/>
+    <GuideEntityEmbed Entity="ClothingHeadHatOrangewizard" Caption=""/>
+  </Box>
+  在漫长的冲突与争斗中，太空巫师联盟的各流派学会了以最能体现其反复无常本性的方式解决分歧：古老的巫师决斗仪式！
+  各派系派出一名成员作为本流派代表，这些巫师竞相证明自己的法术与魔法造诣无人能及，并在随后的进程中共同决定太空巫师联盟的未来。
+
+  因此，决斗巫师属于[color=red][bold]单人敌对角色[/color][/bold]，他们给空间站制造麻烦并非通过直接对抗，而是与其他决斗巫师交战时造成的附带破坏。<!-- Starlight, changed to Solo Antagonists -->
+
+  ## 决斗仪式
+  <Box>
+    <GuideEntityEmbed Entity="WizardTeleportScroll" Caption=""/>
+  </Box>
+
+  <Box>
+    <GuideEntityEmbed Entity="RedWizardDuelistMedallion" Caption=""/>
+    <GuideEntityEmbed Entity="BlueWizardDuelistMedallion" Caption=""/>
+    <GuideEntityEmbed Entity="YellowWizardDuelistMedallion" Caption=""/>
+    <GuideEntityEmbed Entity="GreenWizardDuelistMedallion" Caption=""/>
+    <GuideEntityEmbed Entity="PurpleWizardDuelistMedallion" Caption=""/>
+    <GuideEntityEmbed Entity="OrangeWizardDuelistMedallion" Caption=""/>
+  </Box>
+
+  每一场巫师决斗都是独特而混乱的体验，常常给不幸被卷入其中的无辜者带来难以估量的破坏。
+  有鉴于此，古老巫师们定下了一些传统，任何被认可的决斗都必须遵守：
+  - 不得在太空巫师联盟的场地内举行决斗。
+  - 所有决斗者都必须在施放第一个法术之前设定交战条款。
+  - 决斗必须涉及魔法。
+  - 决斗者必须始终穿着各自学派的颜色，除非穿着虚空长袍或太空服——且仅在绝对必要时才可例外。
+  - 所有决斗者必须在任何时候都醒目地佩戴勋章，不得有例外。
+  - 胜利者必须持有至少 3 枚太空巫师联盟勋章，才能被宣布为决斗的胜者。如果多名决斗者都拥有 3 枚或更多勋章，则决斗继续，直到只剩一名决斗者持有 3 枚或更多勋章为止。
+  - 交战条款一旦设定，任何决斗者都不得违反该条款。
+  - 偷窃勋章的外来者将受到严厉处置。
+  - 胜利者必须活着回来讲述这个故事。
+
+  交战条款通常包括讨论哪些法术、魔杖和装备允许使用或被禁止使用、胜负如何定义，以及是否允许与战场居民合作。
+
+  最重要的是，要有创意！简单的战斗决斗和无意义地杀害弱小居民缺乏想象力，太空巫师联盟更希望你们至少有一人能活着回来。
+
+</Document>

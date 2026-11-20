@@ -67,7 +67,7 @@
     <GuideEntityEmbed Entity="GasThermoMachineHellfireFreezer"/>
   </Box>
 
-  这些机器消耗[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color]电力，可将管网气体最高加热至[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或最低冷却至[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
+  这些机器消耗 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] 的电力，可将管道网络中的气体加热至高达 [color=orange][protodata="GasThermoMachineHellfireHeater" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或冷却至低至 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
 
   不过，它们还会将自身[color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color]的能量泄漏到周围环境中，分别加热或冷却暴露的大气。
   若管理不当，这会非常危险。

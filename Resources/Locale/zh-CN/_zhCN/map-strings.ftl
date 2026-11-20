@@ -9595,3 +9595,793 @@ map-string-salon-apc = 沙龙 APC
 map-string-smes-teg-output = TEG 输出 SMES
 # Telebay APC
 map-string-telebay-apc = 传送舱 APC
+
+## 以下由 compose_map_strings.py 按词元词典组合生成，
+## 需要润色的条目直接改这里的值即可（本工具不会覆盖已有 key）。
+
+# 1F Dorms L
+map-string-1f-dorms-l = 1F 宿舍 L
+# 1F Game Area R
+map-string-1f-game-area-r = 1F 游戏区 R
+# Abandoned Zoo
+map-string-abandoned-zoo = 废弃动物园
+# advanced APC (Main Atmos Room)
+map-string-advanced-apc-main-atmos-room = 主大气室先进 APC
+# advanced SMES (AI Core Main SMES)
+map-string-advanced-smes-ai-core-main-smes = AI 核心主 SMES 先进 SMES
+# advanced SMES (supermatter)
+map-string-advanced-smes-supermatter = 超物质先进 SMES
+# AI Catwalk East
+map-string-ai-catwalk-east = AI 栈道东
+# AI Catwalk West
+map-string-ai-catwalk-west = AI 栈道西
+# AI Center
+map-string-ai-center = AI 中心
+# AI-Command (AI)
+map-string-ai-command-ai = AI AI 指挥部
+# AI Consoles
+map-string-ai-consoles = AI 控制台
+# AI Core Exterior E
+map-string-ai-core-exterior-e = AI 核心外围 E
+# AI Core Exterior NE
+map-string-ai-core-exterior-ne = AI 核心外围东北
+# AI Core Exterior S
+map-string-ai-core-exterior-s = AI 核心外围 S
+# AI Core Exterior SE
+map-string-ai-core-exterior-se = AI 核心外围东南
+# AI Core Exterior SW
+map-string-ai-core-exterior-sw = AI 核心外围西南
+# AI Core Exterior W
+map-string-ai-core-exterior-w = AI 核心外围 W
+# AI Cyborg Bay
+map-string-ai-cyborg-bay = AI 赛博格舱
+# AI External Access
+map-string-ai-external-access = AI 外部通路
+# AI Hallway
+map-string-ai-hallway = AI 走廊
+# AI Turret Control
+map-string-ai-turret-control = AI炮塔控制
+# AI Upload Charging Bay
+map-string-ai-upload-charging-bay = AI 上传室充电舱
+# AI Upload Consoles
+map-string-ai-upload-consoles = AI 上传室控制台
+# air alarm (Cargo)
+map-string-air-alarm-cargo = 货运空气警报器
+# air alarm (Cargo - Mining)
+map-string-air-alarm-cargo-mining = 货运采矿空气警报器
+# air alarm (Cargo - QM)
+map-string-air-alarm-cargo-qm = 货运军需官空气警报器
+# air alarm (Chamber)
+map-string-air-alarm-chamber = 舱室空气警报器
+# air alarm (landromat)
+map-string-air-alarm-landromat = 空气警报器（洗衣店）
+# air alarm (Laundry)
+map-string-air-alarm-laundry = 洗衣房空气警报器
+# air alarm (mining go-room)
+map-string-air-alarm-mining-go-room = 空气警报器（采矿出发室）
+# \"Angel's Mercy\" Medicina Bridge
+map-string-angel-s-mercy-medicina-bridge = “天使之悯”梅迪奇纳舰桥
+# APC (AI Core APC)
+map-string-apc-ai-core-apc = AI 核心 APC
+# APC (AI Core Power APC)
+map-string-apc-ai-core-power-apc = AI 核心电力 APC
+# APC (AI Core Robotics APC)
+map-string-apc-ai-core-robotics-apc = AI 核心机器人学 APC
+# APC (Anchor / Grav APC)
+map-string-apc-anchor-grav-apc = 锚定器重力 APC
+# APC (arrivals hallway)
+map-string-apc-arrivals-hallway = 到站厅走廊 APC
+# APC (arrivals/park substation)
+map-string-apc-arrivals-park-substation = 到站厅公园变电站 APC
+# APC (Artifact 1 APC)
+map-string-apc-artifact-1-apc = 神器 1 APC
+# APC (Artifact 2 APC)
+map-string-apc-artifact-2-apc = 神器 2 APC
+# APC (Artifact Chamber(Left))
+map-string-apc-artifact-chamber-left = APC 神器舱室左
+# APC (Artifact Chamber(Middle))
+map-string-apc-artifact-chamber-middle = APC 神器舱室中部
+# APC (Artifact Chamber(Right))
+map-string-apc-artifact-chamber-right = APC 神器舱室右
+# APC (Artifact Room)
+map-string-apc-artifact-room = 神器室 APC
+# APC (Assistant Locker Room APC)
+map-string-apc-assistant-locker-room-apc = APC（助理更衣室 APC）
+# APC (atmos/bridge hallway)
+map-string-apc-atmos-bridge-hallway = 大气舰桥走廊 APC
+# APC (atmospherics front)
+map-string-apc-atmospherics-front = 大气前 APC
+# APC (atmospherics north)
+map-string-apc-atmospherics-north = 大气北 APC
+# APC (bartender's bedroom)
+map-string-apc-bartender-s-bedroom = 酒保卧室 APC
+# APC (Blank room)
+map-string-apc-blank-room = APC（空房间）
+# APC (botany backroom)
+map-string-apc-botany-backroom = 植物学后间 APC
+# APC (Boxing APC)
+map-string-apc-boxing-apc = 拳击 APC
+# APC (bridge/civilian substation)
+map-string-apc-bridge-civilian-substation = 舰桥平民变电站 APC
+# APC (bridge conference)
+map-string-apc-bridge-conference = 舰桥会议 APC
+# APC (bridge main)
+map-string-apc-bridge-main = 舰桥主 APC
+# APC (bridge NTR/BsO)
+map-string-apc-bridge-ntr-bso = 舰桥 NTR BSO APC
+# APC (Bridge substation)
+map-string-apc-bridge-substation = 舰桥变电站 APC
+# APC (cargo break/locker room)
+map-string-apc-cargo-break-locker-room = 货运休息更衣室 APC
+# APC (cargo mail room)
+map-string-apc-cargo-mail-room = 货运邮件室 APC
+# APC (Cargo - Mining)
+map-string-apc-cargo-mining = 货运采矿 APC
+# APC (Cargo - QM)
+map-string-apc-cargo-qm = 货运军需官 APC
+# APC (cargo-sci hallway)
+map-string-apc-cargo-sci-hallway = 货运科研走廊 APC
+# APC (cargo shelf storage)
+map-string-apc-cargo-shelf-storage = APC（货架仓储）
+# APC (cargo substation)
+map-string-apc-cargo-substation = 货运变电站 APC
+# APC (CE's bedroom)
+map-string-apc-ce-s-bedroom = 工程主管卧室 APC
+# APC (civilian substation)
+map-string-apc-civilian-substation = 平民变电站 APC
+# APC (clown's room)
+map-string-apc-clown-s-room = 小丑室 APC
+# APC (CMO's bedroom)
+map-string-apc-cmo-s-bedroom = 医疗主管卧室 APC
+# APC (conference hallway)
+map-string-apc-conference-hallway = 会议走廊 APC
+# APC (E solar/medical substation)
+map-string-apc-e-solar-medical-substation = E 太阳能医疗变电站 APC
+# APC (East pods)
+map-string-apc-east-pods = 东舱 APC
+# APC (engi-bridge hallway)
+map-string-apc-engi-bridge-hallway = 工程舰桥走廊 APC
+# APC (engineering AME)
+map-string-apc-engineering-ame = 工程 AME APC
+# APC (engineering break-locker room)
+map-string-apc-engineering-break-locker-room = 工程休息更衣室 APC
+# APC (engineering enterance)
+map-string-apc-engineering-enterance = 工程入口 APC
+# APC (engineering material storage)
+map-string-apc-engineering-material-storage = 工程材料储藏 APC
+# APC (engineering north-east hallway)
+map-string-apc-engineering-north-east-hallway = 工程东北走廊 APC
+# APC (engineering north hallway)
+map-string-apc-engineering-north-hallway = 工程北走廊 APC
+# APC (engineering reactor)
+map-string-apc-engineering-reactor = 工程反应堆 APC
+# APC (engineering SMES bank)
+map-string-apc-engineering-smes-bank = APC（工程部 SMES 组）
+# APC (engineering tech vault)
+map-string-apc-engineering-tech-vault = 工程技术金库 APC
+# APC (evacuation)
+map-string-apc-evacuation = 撤离 APC
+# APC (genpop processing)
+map-string-apc-genpop-processing = 普通监区处理 APC
+# APC (HOP hallway)
+map-string-apc-hop-hallway = 人事主管走廊 APC
+# APC (HOP's bedroom)
+map-string-apc-hop-s-bedroom = 人事主管卧室 APC
+# APC (HOS's bedroom)
+map-string-apc-hos-s-bedroom = 安保主管卧室 APC
+# APC (IAA's offices)
+map-string-apc-iaa-s-offices = IAA's 办公区 APC
+# APC (IPC repair bay)
+map-string-apc-ipc-repair-bay = IPC 维修舱 APC
+# APC (lake east)
+map-string-apc-lake-east = APC（湖泊东侧）
+# APC (lake substation)
+map-string-apc-lake-substation = APC（湖泊变电站）
+# APC (lake west)
+map-string-apc-lake-west = APC（湖泊西侧）
+# APC (Laundry)
+map-string-apc-laundry = 洗衣房 APC
+# APC (law substation)
+map-string-apc-law-substation = 律政变电站 APC
+# APC (Lawyer APC)
+map-string-apc-lawyer-apc = 律师 APC
+# APC (lawyer's office)
+map-string-apc-lawyer-s-office = 律师办公室 APC
+# APC (library hallway)
+map-string-apc-library-hallway = 图书馆走廊 APC
+# APC (Magistrate)
+map-string-apc-magistrate = 治安官 APC
+# APC (Magistrate's office)
+map-string-apc-magistrate-s-office = 治安官办公室 APC
+# APC (maintenance bar)
+map-string-apc-maintenance-bar = 维护通道酒吧 APC
+# APC (Medbay APC)
+map-string-apc-medbay-apc = 医疗部 APC
+# APC (medical bay)
+map-string-apc-medical-bay = 医疗舱 APC
+# APC (medical break hall)
+map-string-apc-medical-break-hall = 医疗休息厅 APC
+# APC (medical cryonics)
+map-string-apc-medical-cryonics = 医疗低温科 APC
+# APC (medical east hallway)
+map-string-apc-medical-east-hallway = 医疗东走廊 APC
+# APC (medical morgue)
+map-string-apc-medical-morgue = 医疗停尸房 APC
+# APC (medical paramedic's room)
+map-string-apc-medical-paramedic-s-room = 医疗急救员室 APC
+# APC (medical psychologist)
+map-string-apc-medical-psychologist = 医疗心理师 APC
+# APC (medical west hallway)
+map-string-apc-medical-west-hallway = 医疗西走廊 APC
+# APC (mime hallway)
+map-string-apc-mime-hallway = 默剧演员走廊 APC
+# APC (mime's room)
+map-string-apc-mime-s-room = 默剧演员室 APC
+# APC (mining bay)
+map-string-apc-mining-bay = 采矿舱 APC
+# APC (mining hallway/docking arm)
+map-string-apc-mining-hallway-docking-arm = 采矿走廊对接臂 APC
+# APC (mining locker room)
+map-string-apc-mining-locker-room = 采矿更衣室 APC
+# APC (musician's room)
+map-string-apc-musician-s-room = 乐师室 APC
+# APC (Nuclear)
+map-string-apc-nuclear = 核 APC
+# APC (NW solar/science substation)
+map-string-apc-nw-solar-science-substation = 西北太阳能科研变电站 APC
+# APC (park central)
+map-string-apc-park-central = 公园中央 APC
+# APC (park north bridge)
+map-string-apc-park-north-bridge = 公园北舰桥 APC
+# APC (park south bridge)
+map-string-apc-park-south-bridge = 公园南舰桥 APC
+# APC (QM's bedroom)
+map-string-apc-qm-s-bedroom = 军需官卧室 APC
+# APC (R&D Server)
+map-string-apc-r-d-server = R D 服务器 APC
+# APC (Radio host)
+map-string-apc-radio-host = 电台主播 APC
+# APC (Radio Host APC)
+map-string-apc-radio-host-apc = 电台主播 APC
+# APC (radio station)
+map-string-apc-radio-station = 电台空间站 APC
+# APC (RD's bedroom)
+map-string-apc-rd-s-bedroom = 研究主管卧室 APC
+# APC (river bend north)
+map-string-apc-river-bend-north = APC（河湾北侧）
+# APC (river bend south)
+map-string-apc-river-bend-south = APC（河湾南侧）
+# APC (river central east)
+map-string-apc-river-central-east = APC（河流中段东侧）
+# APC (river central west)
+map-string-apc-river-central-west = APC（河流中段西侧）
+# APC (robotics hallway)
+map-string-apc-robotics-hallway = 机器人学走廊 APC
+# APC (Robotist Aux)
+map-string-apc-robotist-aux = APC（机器人研究室辅助区）
+# APC (science anomaly room)
+map-string-apc-science-anomaly-room = 科研异常室 APC
+# APC (science artifact east)
+map-string-apc-science-artifact-east = 科研神器东 APC
+# APC (science artifact west)
+map-string-apc-science-artifact-west = 科研神器西 APC
+# APC (science break room)
+map-string-apc-science-break-room = 科研休息室 APC
+# APC (science crossroad)
+map-string-apc-science-crossroad = 科研交叉路口 APC
+# APC (science entrance)
+map-string-apc-science-entrance = 科研入口 APC
+# APC (science lathe room)
+map-string-apc-science-lathe-room = 科研车床室 APC
+# APC (science south hallway)
+map-string-apc-science-south-hallway = 科研南走廊 APC
+# APC (science xenobiology)
+map-string-apc-science-xenobiology = 科研异种生物学 APC
+# APC (security blue armory)
+map-string-apc-security-blue-armory = 安保蓝军械库 APC
+# APC (security break/locker room)
+map-string-apc-security-break-locker-room = 安保休息更衣室 APC
+# APC (security camera routers)
+map-string-apc-security-camera-routers = 安保摄像头路由器 APC
+# APC (security detective's room)
+map-string-apc-security-detective-s-room = 安保侦探室 APC
+# APC (Security dock)
+map-string-apc-security-dock = 安保船坞 APC
+# APC (security evidence)
+map-string-apc-security-evidence = 安保证物 APC
+# APC (security north hallway)
+map-string-apc-security-north-hallway = 安保北走廊 APC
+# APC (security/psych hallway)
+map-string-apc-security-psych-hallway = 安保心理科走廊 APC
+# APC (security red armory)
+map-string-apc-security-red-armory = 安保红军械库 APC
+# APC (security south hallway)
+map-string-apc-security-south-hallway = 安保南走廊 APC
+# APC (security substation)
+map-string-apc-security-substation = 安保变电站 APC
+# APC (security warden's room)
+map-string-apc-security-warden-s-room = 安保典狱长室 APC
+# APC (service central substation)
+map-string-apc-service-central-substation = 服务中央变电站 APC
+# APC (Service - Radio Host) (Command - NTR)
+map-string-apc-service-radio-host-command-ntr = 指挥部 NTR APC 服务电台主播
+# APC (spare office)
+map-string-apc-spare-office = 备用办公室 APC
+# APC (supermatter collectors)
+map-string-apc-supermatter-collectors = APC（超物质收集器）
+# APC (TEG room)
+map-string-apc-teg-room = TEG 室 APC
+# APC (telecomms north)
+map-string-apc-telecomms-north = 通讯北 APC
+# APC (telecomms south)
+map-string-apc-telecomms-south = 通讯南 APC
+# APC (theatre backstage)
+map-string-apc-theatre-backstage = 剧院后台 APC
+# APC (theatre hallway)
+map-string-apc-theatre-hallway = 剧院走廊 APC
+# APC (tools hallway)
+map-string-apc-tools-hallway = 工具走廊 APC
+# APC (Warden's Bedroom)
+map-string-apc-warden-s-bedroom = 典狱长卧室 APC
+# APC (west pods)
+map-string-apc-west-pods = 西舱 APC
+# Artifact Chambers
+map-string-artifact-chambers = 神器舱室
+# Artifacts East
+map-string-artifacts-east = 神器东
+# Artifacts West
+map-string-artifacts-west = 神器西
+# Atmos Can Storage
+map-string-atmos-can-storage = 大气罐储存室
+# Atmos Docking Port (North)
+map-string-atmos-docking-port-north = 北大气对接左舷
+# Atmos Docking Port (South)
+map-string-atmos-docking-port-south = 南大气对接左舷
+# Atmos Gas Storage
+map-string-atmos-gas-storage = 大气气体储藏
+# Atmos Main (North)
+map-string-atmos-main-north = 北大气主
+# Atmos Main (South)
+map-string-atmos-main-south = 南大气主
+# Atmos's Docking Arm
+map-string-atmos-s-docking-arm = 大气对接臂
+# atmos tanks
+map-string-atmos-tanks = 大气储罐
+# Atmos TEG Burn Chamber
+map-string-atmos-teg-burn-chamber = 大气 TEG 烧伤舱室
+# atmos western airlock
+map-string-atmos-western-airlock = 大气西气闸门
+# Back Room
+map-string-back-room = 后室
+# Ball Bar
+map-string-ball-bar = 球吧
+# Ball Bar (Back area)
+map-string-ball-bar-back-area = 球吧（后区）
+# Ball Bar (Front area)
+map-string-ball-bar-front-area = 球吧（前区）
+# Bar (Command)
+map-string-bar-command = 指挥部酒吧
+# Botany (Bumblebee)
+map-string-botany-bumblebee = 植物学部（大黄蜂号）
+# Botany [Bumblebee](North)
+map-string-botany-bumblebee-north = 植物学部[Bumblebee]（北）
+# Botany [Bumblebee](South)
+map-string-botany-bumblebee-south = 植物学部[Bumblebee]（南）
+# bridge hall end
+map-string-bridge-hall-end = 舰桥厅末端
+# Brigmed Bedroom
+map-string-brigmed-bedroom = 狱医室卧室
+# Bumblebee Bridge
+map-string-bumblebee-bridge = 大黄蜂号舰桥
+# Buy/Sell Holding Tanks
+map-string-buy-sell-holding-tanks = 买卖储罐
+# camera servers
+map-string-camera-servers = 摄像头服务器
+# Canisters (Science)
+map-string-canisters-science = 科研气罐
+# Cannister Storage
+map-string-cannister-storage = 气罐储存室
+# Cans' Room
+map-string-cans-room = 罐子间
+# cargo mailbox
+map-string-cargo-mailbox = 货运邮箱
+# Cargo Waiting Room
+map-string-cargo-waiting-room = 货运等候室
+# Center Hallway
+map-string-center-hallway = 中心走廊
+# Central Power
+map-string-central-power = 中央电力
+# chamber air alarm (sm chamber)
+map-string-chamber-air-alarm-sm-chamber = 超物质舱室舱室空气警报器
+# Classroom east
+map-string-classroom-east = 教室东侧
+# Classroom hallway
+map-string-classroom-hallway = 教室走廊
+# Classroom north
+map-string-classroom-north = 教室北侧
+# Command Breakroom (EVAC)
+map-string-command-breakroom-evac = 撤离指挥部休息室
+# Command's Bar
+map-string-command-s-bar = 指挥部酒吧
+# Command's Breakroom
+map-string-command-s-breakroom = 指挥部休息室
+# Conference East
+map-string-conference-east = 会议东
+# Conference West
+map-string-conference-west = 会议西
+# Containment Rooms
+map-string-containment-rooms = 封闭室
+# Courtship's Courtroom
+map-string-courtship-s-courtroom = 考特希普号法庭
+# Curiosity" Scientia Bridge
+map-string-curiosity-scientia-bridge = “好奇”斯肯提亚舰桥
+# Decontamination Room
+map-string-decontamination-room = 净化室
+# docking arm end
+map-string-docking-arm-end = 对接臂末端
+# Donut Shop
+map-string-donut-shop = 甜甜圈店
+# East Arrivals Dock Arm
+map-string-east-arrivals-dock-arm = 东到站厅船坞臂
+# East Intersection
+map-string-east-intersection = 东路口
+# Engine & Atmos Room (Bumblebee)
+map-string-engine-atmos-room-bumblebee = 引擎与大气室（大黄蜂号）
+# Engine & Atmos Room (Copia)
+map-string-engine-atmos-room-copia = 引擎与大气室（科皮亚号）
+# Engine & Atmos Room ("Interest")
+map-string-engine-atmos-room-interest = 引擎与大气室（“兴趣”号）
+# Engine & Atmos Room ("Maid")
+map-string-engine-atmos-room-maid = 引擎与大气室（“女仆”号）
+# Engine & Atmos Room (Medicina)
+map-string-engine-atmos-room-medicina = 引擎与大气室（梅迪奇纳号）
+# Engine & Atmos Room (Scientia)
+map-string-engine-atmos-room-scientia = 引擎与大气室（斯肯提亚号）
+# Engine Room
+map-string-engine-room = 引擎室
+# Engineer Vault
+map-string-engineer-vault = 工程师金库
+# engineering hall east
+map-string-engineering-hall-east = 工程厅东
+# engineering hall north
+map-string-engineering-hall-north = 工程厅北
+# engineering hall southwest
+map-string-engineering-hall-southwest = 工程厅西南
+# Entrance (East)
+map-string-entrance-east = 东入口
+# EVA airlock
+map-string-eva-airlock = EVA 气闸门
+# EVA East
+map-string-eva-east = EVA 东
+# EVA Room (Command)
+map-string-eva-room-command = 指挥部 EVA 室
+# EVA Room (West Maints)
+map-string-eva-room-west-maints = 西维护通道 EVA 室
+# EVA West
+map-string-eva-west = EVA 西
+# evac approach
+map-string-evac-approach = 撤离接近通道
+# Evidence
+map-string-evidence = 证物
+# Evil Tesla
+map-string-evil-tesla = 邪恶特斯拉
+# Evil Tesla Room
+map-string-evil-tesla-room = 邪恶特斯拉室
+# fire alarm (Cargo)
+map-string-fire-alarm-cargo = 货运火警警报器
+# fire alarm (Cargo - QM)
+map-string-fire-alarm-cargo-qm = 货运军需官火警警报器
+# fire alarm (fire alarm (Cargo - Mining))
+map-string-fire-alarm-fire-alarm-cargo-mining = 火警警报器火警警报器货运采矿
+# fire alarm (Laundry)
+map-string-fire-alarm-laundry = 洗衣房火警警报器
+# Fluid Room
+map-string-fluid-room = 流体室
+# Former Arrivals Arm
+map-string-former-arrivals-arm = 原抵达站翼
+# Former Cargo Bay
+map-string-former-cargo-bay = 原货运舱
+# Former Departure Arm
+map-string-former-departure-arm = 原出发站翼
+# Front Shop
+map-string-front-shop = 前商店
+# Gas Turbine
+map-string-gas-turbine = 气体涡轮
+# Gas Turbine air alarm
+map-string-gas-turbine-air-alarm = 气体涡轮空气警报器
+# Genpop Basketball Court
+map-string-genpop-basketball-court = 普通监区篮球法庭
+# Genpop Beds
+map-string-genpop-beds = 普通囚区床位
+# Genpop Sleeping Quarter
+map-string-genpop-sleeping-quarter = 普通囚区寝室
+# Grav Gen & Anchor
+map-string-grav-gen-anchor = 重力发电机锚定器
+# Gravity APC (Engie Back Room APC)
+map-string-gravity-apc-engie-back-room-apc = 工程后室 APC 重力 APC
+# Hall 1
+map-string-hall-1 = 厅 1
+# Hall 11
+map-string-hall-11 = 厅 11
+# Hall 2
+map-string-hall-2 = 厅 2
+# Hall 3
+map-string-hall-3 = 厅 3
+# Hall 4
+map-string-hall-4 = 厅 4
+# Hall 5
+map-string-hall-5 = 厅 5
+# Hall 6
+map-string-hall-6 = 厅 6
+# Hall 7
+map-string-hall-7 = 厅 7
+# Hall 9
+map-string-hall-9 = 厅 9
+# Hallway East (Command)
+map-string-hallway-east-command = 指挥部走廊东
+# Hallway West (Command)
+map-string-hallway-west-command = 指挥部走廊西
+# \"Harm's Copia\" Bridge
+map-string-harm-s-copia-bridge = “哈姆的丰饶”舰桥
+# Head of Personnel Office
+map-string-head-of-personnel-office = 人事主管办公室
+# Head of Security Bedroom
+map-string-head-of-security-bedroom = 安保主管卧室
+# HoP Line Office
+map-string-hop-line-office = 人事主管通道办公室
+# hop office exterior
+map-string-hop-office-exterior = 人事主管办公室外围
+# Hot Mic" Bridge
+map-string-hot-mic-bridge = 热麦”舰桥
+# Hydroponics ("Maid" Ministerium)
+map-string-hydroponics-maid-ministerium = 水培区（“女仆”部）
+# IAA
+map-string-iaa = 内务调查员
+# Ice Cream Shop
+map-string-ice-cream-shop = 冰淇淋店
+# Intercoms (Command)
+map-string-intercoms-command = 对讲机（指挥部）
+# \"Interest's Folly\" Bridge
+map-string-interest-s-folly-bridge = “利益之愚”舰桥
+# IPC Repair Bay
+map-string-ipc-repair-bay = IPC 维修舱
+# Kickstart" Ingeniator Bridge
+map-string-kickstart-ingeniator-bridge = 启动”工程舰桥
+# Lake North
+map-string-lake-north = 湖泊北
+# Lake West
+map-string-lake-west = 湖泊西
+# Laser Tag
+map-string-laser-tag = 激光对战
+# Laundromat Air Alarm
+map-string-laundromat-air-alarm = 洗衣房空气警报器
+# Laundromat APC
+map-string-laundromat-apc = 洗衣房 APC
+# Laundry
+map-string-laundry = 洗衣房
+# Laundry air alarm
+map-string-laundry-air-alarm = 洗衣房空气警报器
+# Laundry APC
+map-string-laundry-apc = 洗衣房 APC
+# Laundry fire alarm
+map-string-laundry-fire-alarm = 洗衣房火警警报器
+# Lawyer Office
+map-string-lawyer-office = 律师办公室
+# Learning vault
+map-string-learning-vault = 学习穹顶
+# Learning vault north
+map-string-learning-vault-north = 学习穹顶北
+# Learning vault south
+map-string-learning-vault-south = 学习穹顶南
+# Library Computer Lab
+map-string-library-computer-lab = 图书馆计算机实验室
+# Library (Gameroom)
+map-string-library-gameroom = 游戏室图书馆
+# Little Brother" Detective Room
+map-string-little-brother-detective-room = 小兄弟”侦探室
+# Maid" Ministerium Bridge
+map-string-maid-ministerium-bridge = 女仆”部舰桥
+# Main Dorms
+map-string-main-dorms = 主宿舍
+# Medical Bay
+map-string-medical-bay = 医疗舱
+# Medical Break Room
+map-string-medical-break-room = 医疗休息室
+# Medical Center Hallway
+map-string-medical-center-hallway = 医疗中心走廊
+# Medical Hallway East
+map-string-medical-hallway-east = 医疗走廊东
+# Mine
+map-string-mine = 矿场
+# Miner Dock
+map-string-miner-dock = 矿工码头
+# Miner Lockers
+map-string-miner-lockers = 矿工储物柜
+# Miner Space
+map-string-miner-space = 矿工空域
+# mining airlock
+map-string-mining-airlock = 采矿气闸门
+# Mining APC
+map-string-mining-apc = 采矿 APC
+# Mining Arm
+map-string-mining-arm = 采矿臂
+# Mining Bay APC
+map-string-mining-bay-apc = 采矿舱 APC
+# Mining Breakroom
+map-string-mining-breakroom = 采矿休息室
+# Mining Docking Arm
+map-string-mining-docking-arm = 采矿对接臂
+# Ministerium Break Room
+map-string-ministerium-break-room = 部门休息室
+# Morgue (Security)
+map-string-morgue-security = 安保停尸房
+# Officer's Quarters
+map-string-officer-s-quarters = 干员住舱
+# plaza south west
+map-string-plaza-south-west = 广场西南
+# Processing (Security)
+map-string-processing-security = 安保处理
+# psychologist office
+map-string-psychologist-office = 心理师办公室
+# Pumping Room
+map-string-pumping-room = 泵房
+# Radio Break Room
+map-string-radio-break-room = 电台休息室
+# Radio Hall
+map-string-radio-hall = 电台厅
+# Reactor
+map-string-reactor = 反应堆
+# Reactor air alarm
+map-string-reactor-air-alarm = 反应堆空气警报器
+# Reactor APC
+map-string-reactor-apc = 反应堆 APC
+# Recycling Room
+map-string-recycling-room = 回收室
+# Robotics IPC Bay
+map-string-robotics-ipc-bay = 机器人学 IPC 舱
+# Salon
+map-string-salon = 沙龙
+# Salvage APC (Miners APC)
+map-string-salvage-apc-miners-apc = 矿工 APC 打捞 APC
+# Security Checkpoint (EVAC)
+map-string-security-checkpoint-evac = 撤离安保检查站
+# Security External Access
+map-string-security-external-access = 安保外部通路
+# Security Life Boat
+map-string-security-life-boat = 安保救生艇
+# Server Room (Science)
+map-string-server-room-science = 科研服务器机房
+# Servers (AI)
+map-string-servers-ai = AI 服务器
+# Service Dorms
+map-string-service-dorms = 服务宿舍
+# Shooting Range East
+map-string-shooting-range-east = 射击靶场东
+# Shooting Range West
+map-string-shooting-range-west = 射击靶场西
+# SM
+map-string-sm = 超物质
+# SMES (AI Core SMES 1)
+map-string-smes-ai-core-smes-1 = AI 核心 SMES 1 SMES
+# SMES (AI Core SMES 2)
+map-string-smes-ai-core-smes-2 = AI 核心 SMES 2 SMES
+# SMES (Anchor / Grav SMES)
+map-string-smes-anchor-grav-smes = 锚定器重力 SMES
+# South Intersection
+map-string-south-intersection = 南路口
+# Storage Bay
+map-string-storage-bay = 储藏舱
+# Storage Room
+map-string-storage-room = 储藏室
+# substation (AI Core Main Substation)
+map-string-substation-ai-core-main-substation = AI 核心主变电站变电站
+# substation (AI Core Substation 1)
+map-string-substation-ai-core-substation-1 = AI 核心变电站 1 变电站
+# substation (AI Core Substation 2)
+map-string-substation-ai-core-substation-2 = AI 核心变电站 2 变电站
+# substation (Anchor / Grav Substation)
+map-string-substation-anchor-grav-substation = 锚定器重力变电站变电站
+# substation (arrivals/park)
+map-string-substation-arrivals-park = 到站厅公园变电站
+# substation (bridge/civilian)
+map-string-substation-bridge-civilian = 舰桥平民变电站
+# substation (civilian)
+map-string-substation-civilian = 平民变电站
+# Substation (Courtship)
+map-string-substation-courtship = 变电站（求偶）
+# substation (E solar/medical)
+map-string-substation-e-solar-medical = E 太阳能医疗变电站
+# Substation (Hall 5)
+map-string-substation-hall-5 = 厅 5 变电站
+# Substation (Hall 6)
+map-string-substation-hall-6 = 厅 6 变电站
+# Substation ("Maid" Ministerium)
+map-string-substation-maid-ministerium = 变电站（“女仆”部）
+# Substation (North Half)
+map-string-substation-north-half = 变电站（北半区）
+# substation (NW solar/science)
+map-string-substation-nw-solar-science = 西北太阳能科研变电站
+# substation (service central)
+map-string-substation-service-central = 服务中央变电站
+# substation (service lake)
+map-string-substation-service-lake = 变电站（服务湖）
+# Substation (South Half)
+map-string-substation-south-half = 变电站（南半区）
+# substation (supermatter)
+map-string-substation-supermatter = 超物质变电站
+# Super Matter
+map-string-super-matter = 超物质
+# Surgery (Left)
+map-string-surgery-left = 左手术室
+# Surgery (Right)
+map-string-surgery-right = 右手术室
+# Surgery (Security)
+map-string-surgery-security = 安保手术室
+# The Bird Cage
+map-string-the-bird-cage = 鸟笼
+# The Box Vox
+map-string-the-box-vox = 盒中沃克斯
+# The Grand East Park
+map-string-the-grand-east-park = 东部大公园
+# The Vox Box
+map-string-the-vox-box = 沃克斯盒
+# Theater (Back area)
+map-string-theater-back-area = 后区剧院
+# Theater (Front area)
+map-string-theater-front-area = 前区剧院
+# Theater's Breakroom
+map-string-theater-s-breakroom = 剧院休息室
+# Theatre Backstage
+map-string-theatre-backstage = 剧院后台
+# Tools Air Alarm
+map-string-tools-air-alarm = 工具空气警报器
+# unlocked air alarm (chamber 1)
+map-string-unlocked-air-alarm-chamber-1 = 舱室 1 未上锁空气警报器
+# unlocked air alarm (chamber 2)
+map-string-unlocked-air-alarm-chamber-2 = 舱室 2 未上锁空气警报器
+# unlocked air alarm (chamber 3)
+map-string-unlocked-air-alarm-chamber-3 = 舱室 3 未上锁空气警报器
+# unlocked air alarm (east artifact chamber)
+map-string-unlocked-air-alarm-east-artifact-chamber = 东神器舱室未上锁空气警报器
+# unlocked air alarm (west artifact chamber)
+map-string-unlocked-air-alarm-west-artifact-chamber = 西神器舱室未上锁空气警报器
+# unlocked chamber air alarm (botany gas)
+map-string-unlocked-chamber-air-alarm-botany-gas = 植物学气体未上锁舱室空气警报器
+# Upload
+map-string-upload = 上传室
+# Vault Exterior
+map-string-vault-exterior = 金库外围
+# vox dormitory
+map-string-vox-dormitory = 沃克斯宿舍
+# West Arrivals Dock Arm
+map-string-west-arrivals-dock-arm = 西到站厅船坞臂
+# Actor
+map-string-actor = 演员
+# APC (ame)
+map-string-apc-ame = APC（反物质引擎）
+# APC (bso)
+map-string-apc-bso = APC（BSO）
+# APC (river source)
+map-string-apc-river-source = APC（河流源头）
+# APC (Robotist)
+map-string-apc-robotist = APC（机器人学家）
+# APC (shed)
+map-string-apc-shed = APC（棚屋）
+# Catchment
+map-string-catchment = 集水区
+# Classroom
+map-string-classroom = 教室
+# EVA ("Maid" Ministerium)
+map-string-eva-maid-ministerium = EVA（"女仆"部）
+# EVA (Prisoners)
+map-string-eva-prisoners = EVA（囚犯区）
+# GravGenSMES
+map-string-gravgensmes = 重力发电机SMES
+# Killhouse
+map-string-killhouse = 杀戮屋
+# Mails
+map-string-mails = 邮件区
+# Small classroom
+map-string-small-classroom = 小教室
+# Stairs
+map-string-stairs = 楼梯

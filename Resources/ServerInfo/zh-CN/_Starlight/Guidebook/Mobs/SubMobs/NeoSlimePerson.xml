@@ -1,0 +1,13 @@
+<Document>
+  # 新拉斯比
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoSlimePerson" Caption=""/>
+  </Box>
+
+  尽管身躯呈半固态，拉斯比依然能舒适地承载新细胞级赛博改造。只不过……偶尔会稍微陷进去一点。
+
+  ## 抗性
+  - 受到的[color=#8147ff]电击伤害增加 25%[/color]、[color=#65807d]割伤增加 10%[/color]、[color=#b9bf93]穿刺伤害增加 10%[/color]、[color=#1e90ff]低温伤害增加 30%[/color]。
+  - 受到的[color=#FF3636]钝击伤害减少 30%[/color]、[color=#64ffe6]毒素伤害减少 20%[/color]。
+</Document>

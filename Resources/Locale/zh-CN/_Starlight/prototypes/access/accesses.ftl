@@ -19,7 +19,6 @@ id-card-access-level-robotics = 机器人学
 
 # 安保部
 id-card-access-level-brigmedic = 狱医
-id-card-access-level-cadet = 安保学员
 
 # 服务部
 
@@ -59,4 +58,6 @@ id-card-access-level-clown = 小丑
 
 id-card-access-level-mime = 哑剧演员
 
-id-card-access-level-itg = 星际贸易公会
+id-card-access-level-itg = ITG
+
+id-card-access-level-ntpersonnel = NT 人员

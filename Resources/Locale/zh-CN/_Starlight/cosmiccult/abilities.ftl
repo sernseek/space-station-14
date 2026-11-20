@@ -1,4 +1,4 @@
-cosmicability-generic-fail = 你的影响未能生效……
+cosmicability-generic-fail = 你的影响未能奏效……
 cosmicability-glare-confirm = 再按一次以激活虚无凝视。
 cosmicability-siphon-cultist-success = 你汲取熵的尝试令 {CAPITALIZE(THE($target))} 感到寒意
 cosmicability-siphon-success = 你悄然从 {CAPITALIZE(THE($target))} 身上汲取熵。
@@ -16,3 +16,7 @@ cosmicability-monument-spawn-error-grid = 位置无效！必须在稳固表面�
 cosmicability-monument-spawn-error-station = 位置无效！必须在空间站上召来纪念碑。
 cosmicability-monument-spawn-error-intersection = 太拥挤了！召来纪念碑需要一片空旷的 3×1 区域。
 cosmicability-monument-spawn-error-space = 离太空太近！纪念碑必须至少相距 {$DISTANCE} 米。
+
+cosmicability-fragmentation-confirm =
+    这很可能会让教团暴露给空间站！
+           再次按下以激活虚空碎裂。

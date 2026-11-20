@@ -13,6 +13,7 @@ ghost-role-information-colossus-rules = 你与任何可能在场的宇宙教徒�
 terror-colossus = 船员注意，你站似乎有人引起了某个巨大恶性异常的关注。
 
 ghost-role-colossus-charactermenu = 你必须促成万物的终结。对面前的一切降下无尽浩劫。
+    提示：要献祭一名船员，先对普通的不祥裂隙使用你的侵入能力为其充能。然后将处于濒死或已死亡状态的非教团船员拖到充能后的裂隙上将其捕获。
 ghost-role-colossus-objective = 召来一座熵之塑像，并存续到万物的终结。
 ghost-role-colossus-briefing =
     你是一座熵灭巨像！
@@ -80,3 +81,5 @@ ghost-role-colossus-effigy-ready = 你的力量已经恢复。你可以再次召
 ghost-role-information-nymph-name = 狄奥娜若虫
 
 ghost-role-information-nymph-description = 一只野生的狄奥娜若虫，不知怎么溜进了空间站。
+
+ghost-role-information-giant-spider-passive-description = 这座空间站的居民看起来……其实没那么可口。也许他们的食物还行？

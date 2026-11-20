@@ -16,7 +16,7 @@ secure-terminal-recall-locked = 召回将于 {$minutes} 分钟后可用。
 secure-terminal-used-note = 该军械库本回合已被永久启用或召回，无法再次部署。
 secure-terminal-already-used = 该资源本回合已被使用，无法再次请求。
 
-secure-terminal-auth-waiting = 此请求当前没有待处理的提案。
+secure-terminal-auth-waiting = 此请求没有进行中的提案。所需授权：
 secure-terminal-auth-desc = 当前提案——未响应 = [color=red]红色[/color]，已同意 = [color=green]绿色[/color]：
 secure-terminal-awaiting-member = 等待{$label}
 
@@ -24,7 +24,7 @@ secure-terminal-pending-countdown-label = 将于 {$minutes} 分 {$seconds} 秒�
 secure-terminal-countdown-label = 将于 {$minutes} 分 {$seconds} 秒后生效……
 
 secure-terminal-fee-note = 手续费：{$fee}
-secure-terminal-salary-note = 因动员开支，空间站薪资降低 {$penalty}%。
+secure-terminal-salary-note = 薪资变更：
 secure-terminal-delay-note = 预计授权后 {$minutes} 分钟抵达。
 
 secure-terminal-requires-no-war-note = 战争行动期间不可用。
@@ -70,40 +70,41 @@ secure-terminal-auth-note = 此终端仅用于授权。
 secure-terminal-authorized-by = 注意——{$request}请求已获授权。授权人：{$signatories}。
 secure-terminal-armory-recalled = {$request}召回命令已下达。军械库部署已取消。
 secure-terminal-awaiting-admin = 注意——{$request}请求已发送。等待中央指挥部授权。
-secure-terminal-admin = 正在请求管理员批准：{$request}
-                        理由：{$reason}
-                        使用 AGhost 批准/拒绝该请求。
+secure-terminal-admin = 请求管理员批准：{$request}
+                        原因：{$reason}
+                        使用弹窗或 AGhost（通信界面）来批准/拒绝。
+                        关闭弹窗并NOT会拒绝该请求。
 
 ## 请求名称与描述
 
 secure-terminal-warops-security-name = 核战响应小队
 secure-terminal-warops-security-desc = 部署一支专为战争行动配置的应急响应队安保分队。仅在战争行动期间可用。
                                        在已宣布的战争行动中，空间站遭受直接武装袭击时使用。
-secure-terminal-warops-security-announcement = 应急响应队——安保特化分队——已获授权并正在途中。预计抵达时间：30 分钟。
+secure-terminal-warops-security-announcement = 一支应急响应队——安保特化分队——已获授权并正在途中。预计抵达时间：50分钟。
 
 secure-terminal-ert-security-name = 应急响应队安保
 secure-terminal-ert-security-desc = 部署一支应急响应队安保分队。
-secure-terminal-ert-security-announcement = 应急响应队——安保分队——已获授权并正在途中。预计抵达时间：10 分钟。
+secure-terminal-ert-security-announcement = 一支应急响应队——安保分队——已获授权并正在途中。预计抵达时间：5分钟。
 
 secure-terminal-ert-engineering-name = 应急响应队工程
 secure-terminal-ert-engineering-desc = 部署一支应急响应队工程分队，协助修复空间站关键基础设施。
     当空间站遭受超出本地修复能力的灾难性结构、大气或电力故障时建议使用。
-secure-terminal-ert-engineering-announcement = 应急响应队——工程分队——已获授权并正在途中。预计抵达时间：10 分钟。
+secure-terminal-ert-engineering-announcement = 一支应急响应队——工程分队——已获授权并正在途中。预计抵达时间：5分钟。
 
 secure-terminal-ert-medical-name = 应急响应队医疗
 secure-terminal-ert-medical-desc = 部署一支应急响应队医疗分队，负责大规模伤员分诊与紧急手术。
     当空间站医疗部门不堪重负、瘫痪或被摧毁时建议使用。
-secure-terminal-ert-medical-announcement = 应急响应队——医疗分队——已获授权并正在途中。预计抵达时间：10 分钟。
+secure-terminal-ert-medical-announcement = 一支应急响应队——医疗分队——已获授权并正在途中。预计抵达时间：5分钟。
 
 secure-terminal-ert-janitorial-name = 应急响应队清洁
 secure-terminal-ert-janitorial-desc = 部署一支应急响应队清洁分队，负责危险物清理与空间站修复。
     发生需要快速净化的大规模生物、化学或环境污染后建议使用。
-secure-terminal-ert-janitorial-announcement = 应急响应队——清洁分队——已获授权并正在途中。预计抵达时间：10 分钟。
+secure-terminal-ert-janitorial-announcement = 一支应急响应队——清洁分队——已获授权并正在途中。预计抵达时间：5分钟。
 
 secure-terminal-ert-chaplain-name = 应急响应队牧师
 secure-terminal-ert-chaplain-desc = 部署一名应急响应队牧师，负责船员士气与临终关怀。
     在长期紧急状态下提供心灵抚慰并维持船员士气。
-secure-terminal-ert-chaplain-announcement = 应急响应队——牧师——已获授权并正在途中。预计抵达时间：10 分钟。
+secure-terminal-ert-chaplain-announcement = 一支应急响应队——牧师分队——已获授权并正在途中。预计抵达时间：5分钟。
 
 secure-terminal-ert-cburn-name = 应急响应队 CBURN
 secure-terminal-ert-cburn-desc = 部署一支应急响应队 CBURN 分队。
@@ -115,7 +116,7 @@ secure-terminal-code-gamma-desc = 将空间站警报升至[color=palevioletred]�
 secure-terminal-code-gamma-announcement = 注意！伽马代码即将生效。将实施军事管制。全体船员立即向最近的部门主管报到。
 
 secure-terminal-end-gamma-name = 解除伽马警报
-secure-terminal-end-gamma-desc = 解除[color=palevioletred]伽马[/color]警报，将空间站恢复至绿色等级。要求伽马警报已持续至少 15 分钟。
+secure-terminal-end-gamma-desc = 解除[color=palevioletred]GAMMA[/color]警报并使空间站恢复为绿色。需要GAMMA警报已持续至少10分钟。
 secure-terminal-end-gamma-announcement = 伽马代码正在解除。空间站正恢复正常运转。请保持警惕，等待部门主管的进一步指示。
 
 secure-terminal-code-psi-name = 普赛代码
@@ -124,7 +125,7 @@ secure-terminal-code-psi-desc = 将空间站警报升至[color=mediumpurple]普�
 secure-terminal-code-psi-announcement = 注意！指挥部已批准普赛代码。非纳米传讯硅基单位已被确认为现行威胁。全体船员——向最近的部门主管报到。
 
 secure-terminal-end-psi-name = 解除普赛警报
-secure-terminal-end-psi-desc = 解除[color=mediumpurple]普赛[/color]警报，将空间站恢复至绿色等级。要求普赛警报已持续至少 15 分钟。
+secure-terminal-end-psi-desc = 解除[color=mediumpurple]PSI[/color]警报并使空间站恢复为绿色。需要PSI警报已持续至少10分钟。
 secure-terminal-end-psi-announcement = 普赛代码正在解除。已确认的合成体威胁已被消灭。空间站正恢复正常运转。
 
 secure-terminal-armory-gamma-name = 伽马军械库
@@ -140,7 +141,7 @@ secure-terminal-armory-psi-announcement = 普赛军械库已获授权并正在�
 secure-terminal-med-pod-name = 紧急医疗舱
 secure-terminal-med-pod-desc = 调派紧急医疗舱——配备手术与复苏设备的快速部署分诊单元。
     当大规模伤亡超出空间站医疗承载能力时使用。
-secure-terminal-med-pod-announcement = 紧急医疗舱已获授权并正在途中。预计抵达时间：5 分钟。
+secure-terminal-med-pod-announcement = 紧急医疗舱已获授权并正在途中。预计抵达时间：2分钟。
 
 secure-terminal-nukerequest-name = 自毁密码
 secure-terminal-nukerequest-desc = 请求核自毁密码。
@@ -148,7 +149,7 @@ secure-terminal-nukerequest-desc = 请求核自毁密码。
                                    发送请求并不保证得到回应。
 
 secure-terminal-code-violet-name = 紫色代码
-secure-terminal-code-violet-desc = 将空间站警报升至[color=Violet]紫色[/color]等级。
+secure-terminal-code-violet-desc = 因确认发生全站性疫情，宣布[color=Violet]紫色[/color]警报。
 
 secure-terminal-end-violet-name = 解除紫色警报
 secure-terminal-end-violet-desc = 解除[color=Violet]紫色[/color]警报，将空间站恢复至绿色等级。要求紫色警报已持续至少 10 分钟。
@@ -183,3 +184,79 @@ secure-terminal-dismiss-itg-salvage-team-desc = 终止星际贸易公会的援�
     建议在空间站的所有威胁均已处理完毕后使用。
 
 secure-terminal-dismiss-itg-salvage-team-announcement = 星际贸易公会的合约已结束，其打捞小队已返回常规岗位。
+
+secure-terminal-rescind-button = 撤销
+
+secure-terminal-awaiting-admin-desc = 已由本地指挥部完全授权。正在等待中央指挥部回复……
+
+secure-terminal-authorized-by-label = 签署人：
+
+secure-terminal-rescind-label = 撤销
+
+secure-terminal-salary-source-everyone = 所有人
+
+secure-terminal-salary-source-interstellar-trade-guild = 星际贸易公会
+
+secure-terminal-proposal-cancelled-by = 安全终端 —— {$actor} 取消了 {$request} 请求。
+
+secure-terminal-proposal-rescinded-by = 安全终端 —— {$request} 请求已被撤销，撤销人：{$rescinders}。
+
+secure-terminal-admin-approval-title = 安全终端管理员批准
+
+secure-terminal-admin-approval-request = 请求：{$request}
+
+secure-terminal-admin-approval-description = 操作：{$description}
+
+secure-terminal-admin-approval-reason = 原因：{$reason}
+
+secure-terminal-admin-approval-authorized-by = 签署人：
+
+secure-terminal-admin-approval-approve = 批准
+
+secure-terminal-admin-approval-deny = 拒绝
+
+secure-terminal-authorized-by-central-command = 中央指挥部已副署此请求。
+
+secure-terminal-authorized-by-central-command-deferred = 中央指挥部已将此事项交由空间站指挥部处理。
+
+secure-terminal-ai-leadership-name = AI领导层
+
+secure-terminal-captain-and-ntrep-name = 舰长与纳米传讯代表
+
+secure-terminal-captain-name = 舰长
+
+secure-terminal-captain-or-ntrep-name = 舰长或纳米传讯代表
+
+secure-terminal-chief-medical-officer-name = 医疗主管
+
+secure-terminal-civilian-leadership-name = 文职领导层
+
+secure-terminal-command-name = 指挥部
+
+secure-terminal-engineering-leadership-name = 工程领导层
+
+secure-terminal-head-of-security-name = 安保主管
+
+secure-terminal-med-and-science-leadership-name = 医疗与科研领导层
+
+secure-terminal-medical-leadership-name = 医疗领导层
+
+secure-terminal-research-director-name = 研究主管
+
+secure-terminal-security-and-command-name = 安保部与指挥部
+
+secure-terminal-security-leadership-name = 安保领导层
+
+secure-terminal-security-name = 安保部
+
+secure-terminal-unlock-escape-pods-name = 解锁逃生舱
+
+secure-terminal-unlock-escape-pods-desc = 逃生舱将被解锁，船员可自行发射。
+
+secure-terminal-unlock-escape-pods-announcement = 指挥部已授权使用撤离舱进行撤离
+
+secure-terminal-ui-veto = 否决
+
+secure-terminal-insufficient-funds = 资金不足。需要：{ $fee }₡
+
+secure-terminal-fee-held = 已暂扣 { $fee }₡，等待授权。

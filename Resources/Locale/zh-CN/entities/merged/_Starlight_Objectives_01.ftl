@@ -80,7 +80,7 @@ ent-MindControlledFollowOrders = 服从命令。
 ent-VampireSurviveObjective = 存活
     .desc = 无论如何，我都必须活下去。
 
-ent-VampireEscapeObjective = 活着且未受拘束地逃往中央指挥部。
+ent-VampireEscapeObjective = 活着且不受束缚地撤离至中央指挥部。
     .desc = 我得搭乘紧急撤离穿梭机逃走。保持隐蔽。
 
 ent-VampireThrallObeyMasterObjective = 服从你的主人

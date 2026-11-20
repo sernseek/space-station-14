@@ -41,3 +41,7 @@ alerts-k9-sprint-desc = 你的移动速度提升了。
 alerts-nanochat-name = [color=red]新消息！[/color]
 
 alerts-nanochat-desc = 你收到了一条新消息！
+
+alerts-tracking-scent-name = 追踪气味
+
+alerts-tracking-scent-desc = 你正在积极跟随气味痕迹。你无法永远追踪下去。

@@ -68,7 +68,7 @@
 </Box>
 
 ## 异花授粉
-你可以用[color=cyan]无菌拭子[/color]将花粉从一株植物转移到另一株。经过异花授粉的植物有机会转移特质。重复使用拭子时要小心；花粉很黏！
+你可以使用[color=cyan]无菌拭子[/color]将花粉从一株植物转移到另一株植物。经过异花授粉的植物有机会转移特质。请小心重复使用拭子；花粉很粘！
 
 <Box>
 <GuideEntityEmbed Entity="BoxMouthSwab"/>
@@ -82,7 +82,6 @@
 
 <GuideReagentEmbed Reagent="Dylovene"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>
-<GuideReagentEmbed Reagent="Necrosol"/>
 <GuideReagentEmbed Reagent="Phalanximine"/>
 <GuideReagentGroupEmbed Group="Botanical"/>
 

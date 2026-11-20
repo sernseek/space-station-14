@@ -29,3 +29,21 @@ bounty-description-coupe-glass = 明天的鸡尾酒会要泡汤了，因为主�
 bounty-description-salad = 我们的医疗主管刚通知我们，有些船员的饮食不够多样化。我们想几份沙拉应该能解决问题。
 
 bounty-description-sausage-bun = 有几个助理在办大胃王比赛，但需要便宜食物。来几份面包夹香肠就行，哪儿来的无所谓。
+
+bounty-item-protolathe = 原型机电路板
+
+bounty-item-vodkizine = 伏特加嗪药瓶
+
+bounty-item-mop = 高级拖把
+
+bounty-item-weapons = 马卡洛夫/芬卡/莫辛
+
+bounty-item-keg = 炸弹酒桶
+
+bounty-item-cloning = 克隆电路板
+
+bounty-item-dragon = 龙肉
+
+bounty-item-reactor = 远征机甲反应堆
+
+bounty-item-akms = AKMS

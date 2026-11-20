@@ -9,3 +9,7 @@ verb-handheld-monitor-power = 电力
 verb-handheld-monitor-atmos = 大气
 
 item-switch-verb-cycle = 切换到{$state}
+
+setup-verb-text = 设置
+
+verb-categories-manage-channels = 管理频道

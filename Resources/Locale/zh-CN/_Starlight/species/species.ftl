@@ -10,3 +10,9 @@ species-name-thaven = 塔文
 species-name-rodentia = 啮齿人
 
 species-name-doll = 人偶
+
+species-custom-name-doll = 血肉造物
+
+species-name-experiment = 实验
+
+species-name-sawian = 萨维安

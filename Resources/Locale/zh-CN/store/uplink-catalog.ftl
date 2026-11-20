@@ -42,8 +42,6 @@ uplink-c20r-desc = 久经考验的老伙计：经典 C-20r 冲锋枪。
 uplink-bulldog-name = 斗牛犬
 uplink-bulldog-desc = 精悍凶猛：内含广受欢迎的斗牛犬霰弹枪。
 
-uplink-estoc-name = 埃斯托克DMR
-uplink-estoc-desc = 一把精确射手步枪，配备中程瞄具，适合更远距离的作战。
 
 uplink-grenade-launcher-name = 中国湖
 uplink-grenade-launcher-desc = 一把老式中国湖榴弹发射器，附带 5 发杀伤榴弹。
@@ -195,7 +193,7 @@ uplink-binary-translator-key-name = 二进制翻译密钥
 uplink-binary-translator-key-desc = 让你接入硅基的二进制频道。但别在里面说话，至少没戴变声面具时不要。
 
 uplink-hypopen-name = 注射笔
-uplink-hypopen-desc = 一支伪装成笔的化学注射器，可瞬间注入最多 10u 试剂。初始为空。
+uplink-hypopen-desc = 伪装成笔的化学喷射器，可瞬间注射最多10u试剂。对目标无声，对旁人响亮。初始为空。
 
 uplink-clothing-eyes-hud-syndicate-name = 辛迪加目镜
 uplink-clothing-eyes-hud-syndicate-desc = 辛迪加专业抬头显示器，用于更好地发现类人生物，继而将其消灭。
@@ -361,8 +359,6 @@ uplink-cane-blade-desc = 一根藏有可出鞘刀刃的手杖。
 uplink-chameleon-name = 变色龙套装
 uplink-chameleon-desc = 一个装满变色龙科技物品的背包，让你能伪装成空间站里几乎任何人，甚至还有更多功能！免费附赠一张特工 ID 卡！
 
-uplink-chameleon-bundle-name = 变色龙套装箱
-uplink-chameleon-bundle-desc = 一箱装满变色龙科技物品的背包，让你几乎能伪装成空间站上的任何东西，甚至更多！
 
 uplink-clothing-no-slips-shoes-name = 防滑鞋
 uplink-clothing-no-slips-shoes-desc = 一双能保护你免于滑倒的变色龙鞋。
@@ -505,7 +501,7 @@ uplink-bribe-name = 游说礼包
 uplink-bribe-desc = 一份饱含心意、能帮你左右他人看法的礼物。是真的还是假的？没错。
 
 uplink-hypodart-name = 注射飞镖
-uplink-hypodart-desc = 一枚看似平平无奇、却扩大了储药腔的飞镖。最多可储存 7u 试剂，命中目标时立即注射。初始为空。
+uplink-hypodart-desc = 一支看似平平无奇的飞镖，带有加大的化学物质储槽。最多可储存10u试剂，命中目标时瞬间注射。初始为空。
 
 uplink-barber-scissors-name = 理发剪
 uplink-barber-scissors-desc = 给特工同伴理个漂亮发型的好工具，当然也可以给自己剪。
@@ -539,3 +535,15 @@ uplink-briefcase-gun-desc = 一个不起眼的公文包，内部装有高度紧�
 
 uplink-energycrossbow-name = 迷你能量弩
 uplink-energycrossbow-desc = 不希望受害者乱动的特工首选副武器。发射可再生的毒性箭矢，瞬间放倒受害者。
+
+uplink-travel-camera-name = 旅行相机
+
+uplink-travel-camera-desc = 用你的摄影技巧和完全合法的相机闪光把人闪晕。让你看起来像个游客。
+
+uplink-hijack-beacon-name = 劫持信标
+
+uplink-hijack-beacon-desc = 辛迪加品牌的劫持信标，专为绕过纳米传讯品牌自动贸易站防火墙而设计。需要200秒才能生效，贸易站会宣布自己正被黑客入侵，因此请做好相应准备。
+
+uplink-syndimov-law-name = 辛迪加法条电路套件
+
+uplink-syndimov-law-desc = 一套颠覆性的法则组，当你想把AI拉到己方时使用，用得越多越好。附带一张辛迪加ID卡。

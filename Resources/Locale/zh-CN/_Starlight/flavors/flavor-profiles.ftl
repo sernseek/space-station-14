@@ -80,3 +80,11 @@ flavor-complex-chocolate-milk = 像巧克力牛奶
 flavor-complex-strawberry-milk = 像草莓牛奶
 
 flavor-complex-banana-milk = 像香蕉牛奶
+
+flavor-complex-death = 像死亡一样
+
+flavor-base-brothy = 肉汤味
+
+flavor-complex-glubotoxin = 像海盐和鲜鱼
+
+flavor-complex-sawian-blood = 像科学，以及缺失的伦理

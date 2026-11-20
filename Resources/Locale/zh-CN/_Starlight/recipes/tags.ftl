@@ -16,3 +16,7 @@ construction-graph-tag-cheap-sunglasses = 廉价墨镜
 construction-graph-tag-remote-signaller = 一个基础遥控信号器
 
 construction-graph-tag-remote-signaller-adv = 一个高级遥控信号器
+
+construction-graph-tag-airlock-cycler-electronics = 气闸门控制器电子元件
+
+drone-construction-guide-string = 将左右赛博格手臂插入无人机外壳。

@@ -382,10 +382,10 @@ ent-ClothingShoesBootsMagBlinding = 炫目疾速磁力靴
     .desc = 像你这样迷人的人，穿上它一定更迷人。
 
 ent-ClothingShoesBootsMagSyndie = 血红磁力靴
-    .desc = 由应急响应队磁力靴逆向研发，磁力强劲、集成推进器，专为战斗设计，可容纳0.75升气体。 # Starlight
+    .desc = 逆向工程自应急响应队磁力靴，拥有强劲磁力与内置推进器。可容纳 0.75 L 气体。
 
 ent-ClothingShoesBootsMagERT = 应急响应队磁力靴
-    .desc = 纳米传讯应急响应队使用的升级磁力靴，磁力强劲并集成推进器，可容纳0.75升气体。 # SL
+    .desc = 纳米传讯应急响应队使用的升级型磁力靴，拥有强劲磁力与内置推进器。可容纳 0.75 L 气体。
 
 ent-ActionToggleMagboots = 切换磁力靴
     .desc = 开启或关闭磁力靴。
@@ -649,7 +649,7 @@ ent-ClothingUniformJumpskirtChiefEngineer = 工程主管连衣裙制服
 ent-ClothingUniformJumpskirtChiefEngineerTurtle = 工程主管高领衫
     .desc = 专为工程部工作环境设计的黄色高领衫。
 
-ent-ClothingUniformJumpskirtChaplain = 牧师连衣裙制服 # Starlight: chaplain's -> chaplain
+ent-ClothingUniformJumpskirtChaplain = 牧师连体裙
     .desc = 宗教人士常穿的黑色连衣裙制服。
 
 ent-ClothingUniformJumpskirtChef = 厨师制服
@@ -734,7 +734,7 @@ ent-ClothingUniformJumpskirtSec = 安保部连衣裙制服
     .desc = 由坚韧材料制成的制服，防护性能可靠。
 
 ent-ClothingUniformJumpskirtWarden = 典狱长制服
-    .desc = 安保干员的正式制服，配有纳米传讯腰带扣。 # SL
+    .desc = 一件正式的安保制服，配有纳米传讯皮带扣。
 
 ent-ClothingUniformJumpskirtLibrarian = 图书管理员连衣裙制服
     .desc = 舒适的绿色套衫，很适合书籍管理员。
@@ -806,7 +806,7 @@ ent-ClothingUniformJumpskirtSeniorOfficer = 资深安保干员连衣裙制服
     .desc = 安保部内技能与声望的象征。
 
 ent-ClothingUniformJumpskirtSecGrey = 灰色安保连衣裙制服
-    .desc = 昔日的战术遗物，那时纳米传讯还没发现把制服染红比洗掉血迹更便宜。 # SL
+    .desc = 一件往昔的战术遗物，早于纳米传讯决定把制服染红比洗掉血迹更划算。
 
 ent-ClothingUniformJumpskirtWeb = 蛛网连衣裙制服
     .desc = 明确表明你已与蛛网融为一体。

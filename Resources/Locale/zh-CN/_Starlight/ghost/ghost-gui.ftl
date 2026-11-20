@@ -40,3 +40,11 @@ ghost-role-information-cc-bartender-description = 在中央指挥部前哨站上
 ghost-role-information-cc-janitor-name = 中央指挥部清洁工
 
 ghost-role-information-cc-janitor-description = 让中央指挥部前哨站的地板保持一尘不染。
+
+ghost-gui-toggle-lighting-manager-popup-half-bright = 半亮模式。
+
+ghost-own-sprite-hidden = 你的幽灵已隐藏。
+
+ghost-own-sprite-shown = 你的幽灵可见。
+
+ghost-own-sprite-always-visible = 你的幽灵已设为始终可见，无法隐藏。

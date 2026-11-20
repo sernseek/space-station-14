@@ -1,0 +1,15 @@
+<Document>
+  # 新雷索米
+
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceNeoResomi" Caption=""/>
+  </Box>
+
+  雷索米社会内部浪漫主义运动的一部分人，像他们的一些阿瓦利先辈那样，拥抱了全面的赛博改造。即便在该运动内部，这也被视为更为极端且相当奢华的崇敬方式。运动之外的雷索米自然认为这种做法极其虚荣。[color=#ffbc48]枢纽[/color]是唯一的例外。
+
+  ## 抗性
+  - 受到的[color=#ffa500]灼热伤害增加 25%[/color]、[color=#8147ff]电击伤害增加 25%[/color]、[color=#FF3636]钝击伤害增加 10%[/color]。
+  - 受到的[color=#1e90ff]寒冷伤害减少 45%[/color]。
+
+  [color=red]以氧/水为基础的医疗化学品对他们仍是致命威胁。[/color]
+</Document>

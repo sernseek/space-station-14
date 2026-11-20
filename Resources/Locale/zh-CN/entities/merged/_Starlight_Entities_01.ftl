@@ -185,8 +185,8 @@ ent-ClothingBeltRetroOfficer = TSF干员值勤腰带
 ent-ClothingBeltGreenshield = 绿盾医疗腰带
     .desc = 便于随身收纳和快速取用装备。
 
-ent-ClothingPouchPeacekeeper = 低致命性手榴弹小包
-    .desc = 便于随身收纳和快速取用装备。
+ent-ClothingPouchPeacekeeper = 维和者弹壳袋
+    .desc = 用于收纳维和者弹壳的战术储物袋。
 
 
 ent-CentcommVibrobladeSheath = 中央指挥部振动刃刀鞘
@@ -292,7 +292,7 @@ ent-ClothingHeadsetAltEmpty = 耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 
-ent-ClothingEyesGlassesBrigmedic = 狱医眼镜
+ent-ClothingEyesGlassesBrigmedic = 狱医墨镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesGlassesCorpsman = 卫生员眼镜
@@ -307,7 +307,7 @@ ent-ClothingEyesGlassesMusicianSunglasses = 乐手墨镜
 ent-ClothingEyesSunGlassesHudSkill = 技能太阳镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
-ent-ClothingEyesGlassesBlueShield = 蓝盾眼镜
+ent-ClothingEyesGlassesBlueShield = 蓝盾墨镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesGlassesNanotrasen = 纳米传讯眼镜
@@ -317,19 +317,19 @@ ent-ClothingEyesGlassesCentComm = 中央指挥部干员眼镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesGlassesBrigmedicPrescription = 处方狱医眼镜
-    .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
+    .desc = 一副狱医专用的近视眼镜。
 
 ent-ClothingEyeGlassesMedicalPrescription = 处方医疗眼镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyeGlassesSecurityPrescription = 处方安保眼镜
-    .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
+    .desc = 一副安保部专用近视眼镜。
 
 ent-ClothingEyeGlassesChemicalPrescription = 处方化学分析眼镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesGlassesCentCommPrescription = 处方中央指挥部眼镜
-    .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
+    .desc = 一副中央指挥部人员专用的近视眼镜，内置护目镜。
 
 ent-ClothingEyesGlassesSKBGlasses = 廉价太阳镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -346,7 +346,7 @@ ent-ClothingEyesSpaceCourierGoggles = 太空信使护目镜
 ent-ClothingEyesGlassesJamjarCentComm = 中央指挥部厚底眼镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
-ent-ClothingEyesGlassesNoirAssistant = 廉价黑白影像眼镜
+ent-ClothingEyesGlassesNoirAssistant = 廉价侦探科技墨镜
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 
@@ -357,16 +357,16 @@ ent-ClothingEyesEyepatchHudBlueShield = 蓝盾HUD眼罩
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudBlueShieldFlipped = 蓝盾HUD眼罩
-    .desc = 创新型抬头显示器，可扫描视野内的类人生物，并准确显示其 ID 状态、安保记录和医疗信息。真正的爱国者之选。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？
 
 ent-ClothingEyesHudBrigmedic = 狱医HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudBrigmedic = 狱医HUD眼罩
-    .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
+    .desc = 一款外观融合了医疗与安保HUD的眼部显示器。专为真正的爱国者打造。
 
 ent-ClothingEyesEyepatchHudBrigmedicFlipped = 狱医HUD眼罩
-    .desc = 为真正的爱国者准备的塔玛希升级型 HUD。没错，狱医款。
+    .desc = 一款外观融合了医疗与安保HUD的眼部显示器。专为真正的爱国者打造。
 
 ent-ClothingEyesHudCorpsman = 卫生员HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -378,7 +378,7 @@ ent-ClothingEyesEyepatchHudChemical = 化学HUD眼罩
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
 
 ent-ClothingEyesEyepatchHudChemicalFlipped = 化学HUD眼罩
-    .desc = 可扫描溶液化学成分的抬头显示器。真正的爱国者之选。
+    .desc = 真正爱国者的HUD首选！不过，要是眼罩底下根本没有眼睛，你又是怎么看见它显示的内容的呢？
 
 ent-ClothingEyesHudSkills = 技能HUD
     .desc = 提供眼部防护，并为佩戴者提供相应的辅助功能。
@@ -644,7 +644,7 @@ ent-ClothingHeadHatSheriffHat = 安保主管警长帽
     .desc = 为头部提供防护或装饰的头戴装备。
 
 ent-ClothingHeadDeputyHat = 副手帽
-    .desc = 这件装备做工可靠，适合在对应岗位与环境中使用。
+    .desc = 亡命之徒……
 
 ent-ClothingHeadHatUshankaAlt = SNKVD乌沙卡帽
     .desc = 为头部提供防护或装饰的头戴装备。
@@ -689,7 +689,7 @@ ent-ClothingHeadHatNTREliteTophat = NT代表精英礼帽
     .desc = 为头部提供防护或装饰的头戴装备。
 
 ent-ClothingHeadHatCCberet = 中央指挥部贝雷帽
-    .desc = 为头部提供防护或装饰的头戴装备。
+    .desc = 一顶绿色贝雷帽，和其他贝雷帽一样，不过是绿色的，而且你拿不到。
 
 ent-ClothingHeadHatCCSheriffhat = 中央指挥部警长帽
     .desc = 为头部提供防护或装饰的头戴装备。
@@ -1036,7 +1036,7 @@ ent-ClothingNeckCloakCEDMantle = 中央工程部披肩
     .desc = 这件装备做工可靠，适合在对应岗位与环境中使用。
 
 ent-ClothingNeckCloakCCponcho = 中央指挥部斗篷
-    .desc = 这件装备做工可靠，适合在对应岗位与环境中使用。
+    .desc = 一件时尚的斗篷式披风，适合比起批文件更爱跑外勤的中央指挥部官员。
 
 ent-ClothingNeckCloakCentcomBlack = 特种行动干员斗篷
     .desc = 这件装备做工可靠，适合在对应岗位与环境中使用。

@@ -1,1 +1,3 @@
-objective-condition-teach-lesson-title = 给身为 {CAPITALIZE($job)} 的 {$targetName} 一个教训
+objective-condition-teach-lesson-title = 教训{$targetName}，{CAPITALIZE($job)}。
+
+objective-condition-shutdown-station-ai = 至少关闭{$targetName}，{CAPITALIZE($job)}一次。

@@ -43,3 +43,9 @@ xenobiology-console-mutation-potion-applied-failed-empty = 未储存突变药剂
 
 xenobiology-console-stabilizer-potion-applied = 已对{$name}使用稳定药剂。其突变概率现为 {$chance}。
 xenobiology-console-stabilizer-potion-applied-failed-empty = 未储存稳定药剂。请先放入一瓶。
+
+slime-scanner-info = 名称：{"\u0009"}[Bold]{ $name }[/Bold]
+    营养：{"\u0009"}[Bold]{ $nutrition }[/Bold]
+    变异几率：{"\u0009"}[Bold]{ $chance }%[/Bold]
+
+xenobiology-camera-tagger-connected = 已将摄像头连接到异种生物学控制台网络。

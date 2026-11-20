@@ -52,8 +52,8 @@ ent-XenoborgModuleSword = 异星赛博格刀具模块
 ent-XenoborgModuleEnergySword = 异星赛博格能量匕首模块
     .desc = 配有能量匕首的模块。
 
-ent-XenoborgModuleHypo = 异星赛博格注射器模块 # Starlight
-    .desc = 配有自动补充注射器的模块。 # Starlight
+ent-XenoborgModuleHypo = 夜眠灵注射器异种赛博格模块
+    .desc = 内含自补注射器的夜眠灵注射模块。
 
 ent-XenoborgModuleChameleonProjector = 异星赛博格变色龙投影仪模块
     .desc = 配有变色龙投影仪的模块。
@@ -608,11 +608,11 @@ ent-SprayPainterAmmo = 压缩油漆
 ent-ThiefBeacon = 窃取信标
     .desc = 在班次结束时把周围一切传送进窃贼金库的装置。
 
-ent-ToolboxThief = 未定工具箱 # Starlight
-    .desc = 你最喜欢的工具就在里面。试着想起它们是哪几件。 # Starlight
+ent-ToolboxThief = 身份不明的行窃工具箱
+    .desc = 这里面装着你最喜爱的小偷的物资。试着记住都有哪些吧。
 
-ent-SatchelThief = 未定工具挎包 # Starlight
-    .desc = 你最喜欢的工具就在里面。为方便携带已折叠收好。 # Starlight
+ent-SatchelThief = 未确定身份的窃贼挎包
+    .desc = 你最爱的窃贼的补给就放在这里。已为你折叠妥当。
 
 
 ent-ToolboxEmergency = 应急工具箱
@@ -796,29 +796,29 @@ ent-MagazineBoxRifleUranium = 弹药盒（.20步枪铀芯弹）
     .desc = 一纸盒 .20口径弹。用于装载特殊的铀芯弹药。
 
 
-ent-BoxBeanbag = 12号布袋独头弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载低致命性布袋弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxBeanbag = 弹药盒（.50 豆袋弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填非致命豆袋弹。
 
-ent-BoxLethalshot = 12号鹿弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载通用动能弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxLethalshot = 弹药盒（.50 弹丸）
+    .desc = 一纸板盒 .50 霰弹。用于装填通用动能弹药。
 
-ent-BoxShotgunSlug = 12号独头弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载适合远距离射击的独头弹。 # Starlight change: .50 -> 12 gauge
+ent-BoxShotgunSlug = 弹药盒（.50 独头弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填远程独头弹。
 
-ent-BoxShotgunFlare = 12号照明弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载照明用信号弹。 # Starlight change: .50 -> 12 gauge
+ent-BoxShotgunFlare = 弹药盒（.50 照明弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填照明弹。
 
-ent-BoxShotgunIncendiary = 12号燃烧鹿弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载可自行点燃的燃烧弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxShotgunIncendiary = 弹药盒（.50 燃烧弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填自燃燃烧弹。
 
-ent-BoxShotgunUranium = 12号铀芯鹿弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载特殊的铀芯弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxShotgunUranium = 弹药盒（.50 铀弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填异种铀芯弹药。
 
-ent-BoxShotgunPractice = 12号空包弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载无害的训练弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxShotgunPractice = 弹药盒（.50 训练弹）
+    .desc = 一纸板盒 .50 霰弹。用于装填无害训练弹。
 
-ent-BoxShellTranquilizer = 12号镇静独头弹 # Starlight change: .50 -> 12 gauge
-    .desc = 一纸盒12号霰弹。用于装载非致命镇静弹药。 # Starlight change: .50 -> 12 gauge
+ent-BoxShellTranquilizer = 弹药盒（.50 镇静剂）
+    .desc = 一纸板盒 .50 霰弹。用于装填非致命镇静剂弹药。
 
 
 ent-BoxDonkSoftBase = 玩具弹药盒
@@ -990,19 +990,19 @@ ent-MagazineLightRifleIncendiary = 弹匣（.30步枪燃烧弹）
 
 ent-BaseMagazineShotgun = 12号弹鼓 # Starlight change: .50 -> 12 gauge
 
-ent-MagazineShotgunEmpty = 12号弹鼓 # Starlight change: .50 -> 12 gauge
+ent-MagazineShotgunEmpty = 弹鼓（.50 任意霰弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。
 
-ent-MagazineShotgun = 12号鹿弹弹鼓 # Starlight change: .50 -> 12 gauge
+ent-MagazineShotgun = 弹鼓（.50 弹丸）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载通用动能弹药。
 
-ent-MagazineShotgunBeanbag = 12号布袋弹弹鼓 # Starlight change: .50 -> 12 gauge
+ent-MagazineShotgunBeanbag = 弹鼓（.50 豆袋弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载低致命性布袋弹药。
 
-ent-MagazineShotgunSlug = 12号独头弹弹鼓 # Starlight change: .50 -> 12 gauge
+ent-MagazineShotgunSlug = 弹药鼓（.50 独头弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载适合远距离射击的独头弹。
 
-ent-MagazineShotgunIncendiary = 12号燃烧弹弹鼓 # Starlight change: .50 -> 12 gauge
+ent-MagazineShotgunIncendiary = 弹药鼓（.50 燃烧弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载可自行点燃的燃烧弹药。
 
 

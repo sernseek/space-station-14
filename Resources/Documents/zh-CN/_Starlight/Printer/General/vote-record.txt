@@ -1,0 +1,41 @@
+                         [head=3]NT—中央指挥部联合服务处[/head]
+
+                [center][color=#1f75bb][italic][bold]   中央指挥部正式文件[/bold][/italic][/color][/center]
+─────────────────────────────────────────
+⠀⠀                     [bold]投票记录[/bold]
+─────────────────────────────────────────
+    日期与时间：[datetime]
+文件编制者：[signature]
+
+提交委员会表决的问题：[form]
+
+补充背景：[form]
+
+[italic]赞成[/italic]票数：[form]
+投[italic]赞成[/italic]票者：
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+[italic]反对[/italic]票数：[form]
+投[italic]反对[/italic]票者：
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+[italic]弃权[/italic]票数：[form]
+投[italic]弃权[italic]票者：
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+• [signature]
+会议决议：[form]
+
+────────────────────────────────────────
+⠀                      [italic]盖章和/或签名处[/italic]

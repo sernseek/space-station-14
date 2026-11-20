@@ -1,0 +1,22 @@
+[color=#AFAFAF]█▀  █▀▀  ▀█[head=3] 顺向辛迪加[/head]
+█    ▀▀█    █  为了未来。
+▀▀  ▀▀▀  ▀▀
+[/color][italic][color=#E5E5E5]本文件包含机密信息。请勿分发。[/color][/italic]
+[head=3][color=#2E0404]安全传真
+阅后即焚[/color][/head]
+[color=#AFAFAF]▌ICD12834911[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+    [color=#aaaaaa][bold][italic]传真开始[/italic][/bold][/color]
+
+[center][bold]辛迪加官方通讯[/bold][/center]
+
+日期与时间：[datetime]
+文件编制者：[signature]
+
+[bold]致：[/bold] [form]
+[bold]自：[/bold] [signature]
+[bold]主题：[/bold] [form]
+
+[form]
+
+    [color=#aaaaaa][bold][italic]传真结束[/italic][/bold][/color]

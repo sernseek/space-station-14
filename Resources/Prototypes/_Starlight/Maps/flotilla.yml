@@ -1,6 +1,6 @@
 - type: gameMap
   id: StarlightFlotilla
-  mapName: 'Flotilla Spaceport'
+  mapName: 舰队太空港
   mapPath: /Maps/_Starlight/Stations/Flotilla.yml
   minPlayers: 155
   maxPlayers: 350

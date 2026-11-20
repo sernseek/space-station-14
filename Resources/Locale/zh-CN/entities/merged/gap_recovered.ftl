@@ -147,7 +147,7 @@ ent-WeaponCrusherDagger = 破碎匕首
     .desc = 原型动能破碎锤的缩小版本，利用动能使刀刃高速振动。
 
 ent-WeaponCrusherGlaive = 破碎长刀
-    .desc = 长刀形态的原型动能加速器早期设计。
+    .desc = 原初动能加速器的早期设计，呈长刀形态。提供更好的治疗，代价是蓄能伤害更低。
 
 ent-WeaponMeleeNeedle = 安保部制式反充气武器
     .desc = 一种专门用于摧毁辛迪加特制士气鼓舞装备的武器。
@@ -538,7 +538,7 @@ ent-DrinkBeerGrowler = 大瓶啤酒
     .desc = 以发芽谷物、啤酒花、酵母和水酿成的酒精饮料，装在特大号啤酒瓶中。
 
 ent-CigPackSyndicate = 因特戴恩草药香烟包
-    .desc = 注入药物的药用香烟，适合在你需要的不只是舒缓神经时使用。
+    .desc = 为辛迪加精英特工准备的高级香烟。注入了药物，当你需要做的不仅仅是平复神经时使用。
 
 ent-BaseMobFleshSalvage = 异常血肉
     .desc = 一团步履蹒跚的血肉，由异常能量赋予了活动能力。

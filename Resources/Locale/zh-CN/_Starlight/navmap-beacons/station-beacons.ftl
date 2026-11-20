@@ -34,3 +34,5 @@ station-beacon-radio-host = 广播演播室
 station-beacon-brigmedic = 狱医室
 
 station-beacon-ats = 自动贸易站
+
+nav-beacon-supply-rift = 补给裂隙

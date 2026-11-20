@@ -79,3 +79,14 @@ input-key-LSystem-linux = 左 Meta
 input-key-RSystem-linux = 右 Meta
 
 input-key-unknown = <未知按键>
+
+input-key-Help = 帮助
+input-key-Stop = 停止
+input-key-Again = 重做
+input-key-Prop = 属性
+input-key-Undo = 撤销
+input-key-Cut = 剪切
+input-key-Copy = 复制
+input-key-Open = 打开
+input-key-Paste = 粘贴
+input-key-Find = 查找

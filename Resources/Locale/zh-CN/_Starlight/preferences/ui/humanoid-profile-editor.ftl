@@ -70,3 +70,33 @@ tts-tag-soft = 柔和
 tts-tag-squalky = 尖厉
 
 humanoid-profile-editor-species-loadout-select = 选择物种配装
+
+humanoid-profile-editor-body-tab = 身体
+
+humanoid-profile-editor-height = 身高
+
+humanoid-profile-editor-height-unit = cm
+
+humanoid-profile-editor-weight = 体重
+
+humanoid-profile-editor-weight-unit = kg
+
+humanoid-profile-editor-voice-tab = 声音
+
+voice-selector-any = 任意
+
+voice-selector-shown = {$shown} / {$total}
+
+voice-selector-kind-character = 角色
+
+voice-selector-kind-silicon = 硅基
+
+loadout-tab-title = 配装
+
+loadout-tab-pick-role = 在左侧选择一个职位，以更改其初始配备。
+
+loadout-tab-search = 搜索物品
+
+loadout-tab-antags = 敌对角色
+
+loadout-tab-species = 物种

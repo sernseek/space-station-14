@@ -65,3 +65,11 @@ lathe-category-mechs-gygax = 吉盖克斯
 lathe-category-mechs-durand = 杜兰德
 lathe-category-mechs-equipment = 机甲设备
 lathe-category-mechs-weapons = 机甲武器
+
+lathe-category-shuttle-tile = 穿梭机
+
+lathe-category-plastic-tile = 塑料
+
+lathe-category-precious-tile = 贵重
+
+lathe-category-industrial-tile = 工业

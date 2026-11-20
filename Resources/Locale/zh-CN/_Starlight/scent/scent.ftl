@@ -49,3 +49,11 @@ scent-evidence-forensics = 指纹及其他证迹
 scent-evidence-both = 气味、指纹及其他证迹
 
 scent-evidence-stains = 污渍
+
+scent-sniff-window-entry-detail-no-species = [color={$color}]{$freshness}[/color]
+
+scent-track-fades-popup = 你追踪的气味逐渐消散……
+
+scent-sneeze-allergic = 你的过敏迫使你打了个喷嚏！
+
+pollen-allergy-nose-itch = 你的过敏让你的鼻子发痒。

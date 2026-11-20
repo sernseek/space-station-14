@@ -1,55 +1,73 @@
 <Document>
   # 混合与过滤
-  气体混合器和过滤器是调整[textlink="管道网络" link="PipeNetworks"]内气体成分的重要工具。
+  气体混合器和过滤器是操控[textlink="管网" link="PipeNetworks"]内气体成分的重要工具。
   <Box>
     <GuideEntityEmbed Entity="GasMixer"/>
     <GuideEntityEmbed Entity="GasFilter"/>
   </Box>
 
   ## 气体混合器
-  气体混合器用于在[textlink="管道网络。" link="PipeNetworks"]内按指定比例混合气体。
-  要为各种用途配制成分可控的混合气体，它必不可少。
+  气体混合器用于在[textlink="管网" link="PipeNetworks"]内按特定比例混合气体。
+  它们对于配制各种用途的受控气体混合物至关重要。
 
-  如下所示，气体混合器有 3 个接口：2 个输入口和 1 个输出口：
+  气体混合器有 3 个接口：2 个输入口和 1 个输出口，如下所示：
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="主输入口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="主输入" Rotation="90"/>
     <GuideEntityEmbed Entity="GasMixer" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出" Rotation="90"/>
   </Box>
 <Box>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="侧输入口"/>
+  <GuideEntityEmbed Entity="GasPipeStraight" Caption="侧输入"/>
 </Box>
 
-  即使某种输入气体不足，气体混合器仍会遵循所设定的混合比例。例如：
-  - 如果设定的混合气体为 22% 氧气和 78% 氮气，但没有可用的氧气，混合器将停止工作，直到有氧气可用。
-  - 如果有氧气，但其压力低于以设定压力配制正确混合气体所需的压力，混合器仍会进行混合，但输出压力会低于设定值。
+  即使其中一种输入气体缺失，气体混合器仍会遵循所请求的气体配比。例如：
+  - 如果请求的混合物为 22% 氧气和 78% 氮气，但没有可用的氧气，则混合器将无法工作，直到有氧气可用。
+  - 如果氧气可用，但其压力低于在请求压力下配制正确混合物所需的压力，混合器仍会配出该混合物，但输出压力将低于请求值。
 
-  气体混合器按压力而非 mol 数混合气体。如果气体温度不同，这可能引发问题。例如：
-  - 假设气体混合器需要以 1:2 的比例，在某个指定压力下混合氧气与氮气。
-  - 此时氮气的温度是氧气的两倍。
-  - 温度更高的气体压力更高，因此同体积内的 mol 数少于氧气。
-  - 因此，当气体混合器尝试配制混合气体时，氮气的 mol 数将只有氧气的一半。
-  - 最终输出比例将是 1:1，而非 1:2。每 1 mol 氧气只会对应 1 mol 氮气，而不是 2 mol 氮气。
+<!-- MoffStation edit Start: Molar Mixers -->
+  气体混合器可用于多种用途，例如：
+  - 混合氧气和氮气以制造可呼吸的大气
+  - 混合氧气和等离子体进行等离子体燃烧以制造氚
 
-  气体混合器用途广泛，例如：
-  - 混合氧气与氮气，制造可呼吸的大气
-  - 混合氧气与等离子体，燃烧等离子体以制造氚
+  气体混合器有两种类型，它们混合气体的方式各不相同：
+
+  <Box>
+    <GuideEntityEmbed Entity="GasMixer" Caption="体积式气体混合器" Rotation="90"/>
+  </Box>
+  体积式气体混合器按压力而非摩尔数混合气体。输出中每种气体的比例会
+  受到两种输入气体之间温差的影响。例如：
+  <!-- MoffStation edit End: Molar Mixers -->
+  - 假设要求气体混合器在某压力下以 1:2 的比例混合氧气和氮气。
+  - 此例中氮气的温度是氧气的两倍。
+  - 较热的气体压力更高，因此在相同体积下每单位所含摩尔数少于氧气。
+  - 正因如此，当气体混合器尝试配制该混合物时，氮气的摩尔数将只有氧气的一半。
+  - 输出比例将为 1:1 而非 1:2。你会得到每 1 摩尔氧气对应 1 摩尔氮气，而不是每 1 摩尔氧气对应 2 摩尔氮气。
+
+  <!-- MoffStation edit Start: Molar Mixers -->
+  <Box>
+    <GuideEntityEmbed Entity="GasMolarMixer" Caption="摩尔式气体混合器" Rotation="90"/>
+  </Box>
+  摩尔式气体混合器按摩尔数混合气体。输出中每种输入气体的比例将始终遵循
+  用户请求的百分比，不受两种气体之间温差的影响。
+  当两种输入气体之一的数量不足以在请求压力下产生所请求的气体混合物时，
+  这可能导致混合器工作得非常缓慢。
+  <!-- MoffStation edit End: Molar Mixers -->
 
   ## 气体过滤器
-  气体过滤器用于从[textlink="管道网络。" link="PipeNetworks"]内的混合气体中分离气体。
+  气体过滤器用于从[textlink="管网" link="PipeNetworks"]内的混合物中分离气体。
 
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输入口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输入" Rotation="90"/>
     <GuideEntityEmbed Entity="GasFilter" Caption="" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出口" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="输出" Rotation="90"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="GasPipeStraight" Caption="过滤输出口"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="过滤输出"/>
   </Box>
 
-  如果任一输出口堵塞，气体过滤器就会阻塞并停止过滤气体。
+  如果任一输出口被堵塞，气体过滤器将被阻塞且不会过滤气体。
 
-  气体过滤器用途广泛，例如：
-  - 从[textlink="管道网络" link="PipeNetworks"]中过滤不需要的气体
-  - 分离特定气体，存入空间站的回收气体网络
+  气体过滤器可用于多种用途，例如：
+  - 从[textlink="管网" link="PipeNetworks"]中滤除不需要的气体
+  - 分离特定气体以便储存于空间站的回收网络中
 </Document>

@@ -24,22 +24,22 @@ ent-TP14KitchenDeepFryerTabletopEmpty = 台式油炸锅
     .desc = 可以用来炸制美食，也可以炸掉科研部所有的黄金。侧面的说明写着仅限使用玉米油。
 
 ent-JumpResomi = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-JumpMoth = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-JumpCat = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-JumpJet = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-JumpPilebunkerLeg = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-JumpJetNoMoles = 跳跃
-    .desc = 向所选方向跳跃。
+    .desc = 你朝选定的方向跳跃。
 
 ent-BrighteyePhaseAction = 相位转移
     .desc = 让自身与现实空间错位，以快速前往不同区域。
@@ -251,22 +251,22 @@ ent-StairsSmallWood = 楼梯
     .desc = 自火箭推进榴弹以来最伟大的发明。
 
 ent-RMCPlatformStairRight = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformStairLeft = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformStairRightDark = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformStairLeftDark = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformStairRightWood = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-RMCPlatformStairLeftWood = 平台
-    .desc = 一种用于建造或分隔区域的结构。
+    .desc = 一个凸起的平台。等等，这是违规的！
 
 ent-StairBlack = 楼梯
     .desc = 自火箭推进榴弹以来最伟大的发明。
@@ -2700,28 +2700,28 @@ ent-NukeCodePaperAllNukes = 核弹授权密码
     .desc = 一张白纸。
 
 ent-SalvageTicket5 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket10 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket15 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket20 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket25 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket30 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket50 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-SalvageTicket100 = 罚单
-    .desc = 一件具有特殊用途的物品。
+    .desc = 用你的票据兑换装备！
 
 ent-PowerCageOmegaEmpty = 欧米伽容量电力笼
     .desc = 一件具有特殊用途的物品。
@@ -3049,10 +3049,10 @@ ent-MagazinePistolSubMachineGunWorn = 冲锋枪弹匣（.35自动SP）
 ent-MagazinePistolCaselessRifleWorn = 手枪弹匣（.25无壳）
     .desc = 眼镜蛇手枪使用的10发弹匣。用于装载通用动能弹药。
 
-ent-MagazineShotgunWorn = 12号鹿弹弹鼓
+ent-MagazineShotgunWorn = 弹药鼓（.50 霰弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载通用动能弹药。
 
-ent-MagazineShotgunSlugWorn = 12号独头弹弹鼓
+ent-MagazineShotgunSlugWorn = 弹药鼓（.50 独头弹）
     .desc = 某些军用级自动霰弹枪使用的大型弹鼓。 用于装载适合远距离射击的独头弹。
 
 ent-MagazineRifleWorn = 弹匣（.20步枪SP）
@@ -3395,7 +3395,7 @@ ent-PaperMoproachManual = 纸
     .desc = 一张白纸。
 
 ent-MobSpiderling = 幼蛛
-    .desc = 一只小蜘蛛，会长成某种未知、巨大而危险的蜘蛛。
+    .desc = 一只小蜘蛛，会长成某种未知的、巨大而危险的蜘蛛。
 
 ent-AbductorAgentSpawner = 幽灵角色生成点
 
@@ -3758,7 +3758,7 @@ ent-BoxFolderClipboardFilled = 写字板
     .desc = 官僚主义前线人员的首选武器。
 
 ent-PaperTooQuietNeedChaosFew = Q 的终结
-    .desc = 一张无法传真的可怕纸张，但它自有四处传播的办法。
+    .desc = 一份无法传真、但自有一套传播方式的可怕纸张。
 
 ent-PaperWrittenSupermatterGuide = 纸
     .desc = 一张白纸。
@@ -7040,7 +7040,7 @@ ent-PaperWritten = 纸
 ent-NukeCodePaperStation = 核弹授权密码
     .desc = 一张白纸。
 
-ent-WrappedParcel = 物品
+ent-WrappedParcel = 包好的包裹
     .desc = 用纸包起来的某样东西。不知道里面是什么……
 
 ent-TreasureCoinSilver = 硬币
@@ -7059,10 +7059,10 @@ ent-PowerCellSmallPrinted = 小容量动力电池
     .desc = 可充电电池。这是您能找到的最便宜的一种。
 
 ent-PowerCellMediumPrinted = 中容量动力电池
-    .desc = 可充电电池。这是先进机器中常见的电池类型。 # Starlight-edit
+    .desc = 一种可充电电池。这是广受欢迎且可靠的版本。
 
 ent-PowerCellHighPrinted = 大容量动力电池
-    .desc = 可充电电池。该优质品牌的能量储存量比竞争对手高出 50%。 # Starlight-edit
+    .desc = 一种可充电的标准电池。这个高端品牌比竞品多储存最多 50% 的能量。
 
 ent-PowerCellHyperPrinted = 超大容量动力电池
     .desc = 可充电标准化电池。此次迭代突破了便携式储能的上限，容量比上一代增加了 66%。
@@ -7163,7 +7163,7 @@ ent-InflatableWallStack1 = 充气路障
 ent-InflatableDoorStack1 = 充气门
     .desc = 折叠的薄膜，激活后会迅速膨胀成大型立方体。
 
-ent-JetpackSecurityFilled = 安保迷你喷气背包
+ent-JetpackSecurityFilled = 安保喷气背包
     .desc = 安保人员巡逻空间站外部时使用的紧凑型喷气背包。不适合长途移动，只能容纳1.5升气体。
 
 ent-LightReplacerEmpty = 灯管更换器
@@ -7297,19 +7297,19 @@ ent-WeaponEnergyTurretSecurity = 哨戒炮塔
 ent-WeaponEnergyTurretCommand = 哨戒炮塔
     .desc = 用于阻止未授权人员进入敏感区域的高科技自主武器系统。
 
-ent-PelletShotgunSpread = 12 号鹿弹
+ent-PelletShotgunSpread = 弹丸（.50）
     .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-PelletShotgunIncendiarySpread = 12 号燃烧鹿弹
+ent-PelletShotgunIncendiarySpread = 弹丸（.50 燃烧弹）
     .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-PelletShotgunPracticeSpread = 12 号空包弹
+ent-PelletShotgunPracticeSpread = 弹丸（.50 训练弹）
     .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-PelletShotgunImprovisedSpread = 简易霰弹
     .desc = 如果你能看到这个，那你多半已经死了！
 
-ent-PelletShotgunUraniumSpread = 12 号铀鹿弹
+ent-PelletShotgunUraniumSpread = 弹丸（.50 铀弹）
     .desc = 如果你能看到这个，那你多半已经死了！
 
 ent-PelletGrapeshotSpread = 葡萄弹弹丸
@@ -7737,7 +7737,7 @@ ent-MechHamtrBattery = HAMTR 机甲
     .desc = 一种实验性机甲，使用脑机接口直接连接仓鼠大脑。
 
 ent-MechVimBattery = Vim 微型机甲
-    .desc = NanoTrasen 的微型外骨骼套装，旨在让不可替代的驻地宠物活得更久一些。 # SL
+    .desc = 纳米传讯出品的微型外骨骼，旨在让无可替代的空间站宠物多活一阵子。
 
 ent-Defibrillator = 除颤器
     .desc = 清晰！兹扎特！
@@ -7897,7 +7897,7 @@ ent-MaterialSheetMeat1 = 肉片
     .desc = 一张材料薄板，在空间站内用途广泛。
 
 ent-UplinkLighterBox = 新奇打火机盲盒
-    .desc = 一盒已停产的促销打火机。侧面褪色刮花的标签写着：“可能含有违禁品。” #Starlight-edit
+    .desc = 一盒已停产的促销打火机，其中许多如今已被列为“违禁品”。
 
 ent-PlushieLizardMirrored = 蜥蜴毛绒玩偶
     .desc = 一个酷似蜥蜴人的可爱毛绒玩具。由中央指挥部制作，是为消除工作环境中的物种歧视而摆出的象征性姿态。“张开双臂拥抱这只玩偶，也同样欢迎你的新同事！”
@@ -8614,7 +8614,7 @@ ent-FoodBoxPizzaCotton = 披萨盒
     .desc = 装披萨的盒子。它留住热气、香味，以及你人生中最美好五分钟的回忆。
 
 ent-FoodMealHappyHonkClown = 快乐呵叫套餐
-    .desc = 玩具都比食物更能入口。来自呵叫得来速餐厅，嗯……
+    .desc = 这玩具比食物还难吃。
 
 ent-FoodPlateSmallTrash = 破盘子
     .desc = 一个破盘子。毫无用处。
@@ -10425,7 +10425,7 @@ ent-Soap = 肥皂
     .desc = 一块廉价的肥皂。没有气味。
 
 ent-SoapNT = 肥皂
-    .desc = 一块廉价的肥皂。没有气味。
+    .desc = 纳米传讯品牌的肥皂。闻起来有等离子体的味道。
 
 ent-SoapDeluxe = 肥皂
     .desc = 一块廉价的肥皂。没有气味。

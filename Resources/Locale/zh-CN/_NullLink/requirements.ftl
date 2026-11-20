@@ -26,3 +26,5 @@ roles-req-developer = 开发者
 
 triesteport-main = TRIESTEPORT
 overall = 总计
+
+roles-req-staff-mapper = 官方制图员

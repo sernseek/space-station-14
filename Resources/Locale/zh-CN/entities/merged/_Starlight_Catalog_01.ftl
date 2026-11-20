@@ -68,13 +68,13 @@ ent-BoxSurvivalClownCheese = 芝士拥抱箱
     .desc = 为既敏感又热爱芝士的人准备的特殊箱子。
 
 ent-BoxFiringPin = 击发销箱
-    .desc = 一箱标准击发销。
+    .desc = 一盒装满标准击针的盒子。
 
 ent-BoxFiringPinPistol = 手枪击发销箱
-    .desc = 一箱手枪击发销。
+    .desc = 一盒装满手枪击针的盒子。
 
 ent-BoxFiringPinLaser = 激光晶体箱
-    .desc = 一箱激光晶体。
+    .desc = 一盒装满激光晶体的盒子。
 
 ent-BoxPancakes = 甜点套装袋
     .desc = 打扮得像个把煎饼看得比别人眼光更重要的人。等等，怎么像个——机器人？？！
@@ -110,7 +110,7 @@ ent-BoxBeakerLarge = 大烧杯箱
     .desc = 装有四个大烧杯的箱子。
 
 ent-BoxJug = 化学罐箱
-    .desc = 装有四个化学品储存罐的箱子。
+    .desc = 一盒内含四个化学品储存罐。
 
 ent-BoxTapeRecorder = 录音机箱
     .desc = 装有彩色盒式磁带和一台录音机的箱子。
@@ -212,7 +212,7 @@ ent-CrateServiceDocumentPrinter = 文件打印机箱
     .desc = 一台文件打印机。
 
 ent-CrateNameSyndicateShuttleBundle = 穿梭机套装箱
-    .desc = 除穿梭机控制板外一应俱全。这是一艘装在箱子里的穿梭机*（需要进行组装）
+    .desc = 建造穿梭机所需的一切（包括电路板！）。装在箱子里的穿梭机*（组装工序部分自理）
 
 ent-CrateNameSyndicateFriendshipBundle = 友谊套装箱
     .desc = 装在箱子里的友谊*。（需要进行组装）
@@ -303,7 +303,7 @@ ent-PrintedDocumentReportEmployeePerformance = 工作报告
 ent-PrintedDocumentReportOnTheChaptersMeeting = 投票记录
     .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
-ent-PrintedDocumentInternalAffairsAgentsReport = 审计报告
+ent-PrintedDocumentInternalAffairsAgentsReport = IAA 审计报告
     .desc = 官僚主义的基本单位。一份由打印机打印出来的文件。
 
 ent-PrintedDocumentConditionReport = 维护报告
@@ -441,8 +441,8 @@ ent-PrintedDocumentGreenshiftAlert = 空间站位置通知
 ent-BasePaperQuietChaos = Q 的终结 # no longer "the" since when you emote it would come out to "the the end of Q x"
     .desc = 一张无法传真的可怕纸张，但它自有四处传播的办法。
 
-ent-PaperTooQuietNeedChaos = Q 的终结
-    .desc = 一张塞不进传真机的可怕纸张。
+ent-PaperTooQuietNeedChaos = Q 的终结 # no longer "the" since when you emote it would come out to "the the end of Q x"
+    .desc = 一份塞不进传真机的可怕纸张。
 
 ent-PaperIonstormBorgs = 机器人太守规矩了？
     .desc = 一张纸。拿在手里似乎有轻微的电感；若把它塞进去，大概会毁掉传真机。

@@ -93,3 +93,7 @@ units-kelvin-long = 开尔文
 units-k-kelvin-long = 千开尔文
 units-m-kelvin-long = 兆开尔文
 units-g-kelvin-long = 吉开尔文
+
+units-u = u
+
+units-mole = mol

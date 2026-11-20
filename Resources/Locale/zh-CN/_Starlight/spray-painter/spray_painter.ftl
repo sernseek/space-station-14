@@ -44,3 +44,7 @@ spray-painter-style-canisters-liquid-carbon-dioxide = 液态二氧化碳
 spray-painter-style-canisters-liquid-nitrogen = 液氮
 spray-painter-style-canisters-liquid-oxygen = 液氧
 spray-painter-style-canisters-rainbow = 彩虹
+
+spray-painter-style-airlockstandard-nanotrasen = 纳米传讯
+
+spray-painter-style-airlockglass-nanotrasen = 纳米传讯

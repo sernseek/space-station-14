@@ -8,3 +8,7 @@ plumbing-smart-dispenser-row-tooltip = {$reagent}：已储存 {$stored}u／{$max
 plumbing-smart-dispenser-not-in-stock = {$reagent} 无库存。
 plumbing-smart-dispenser-jug-full = 容器已经装满。
 plumbing-smart-dispenser-filled = 已装入 {$amount}u {$reagent}。
+
+plumbing-smart-dispenser-not-powered = 智能分配功能需要供电。
+
+plumbing-smart-dispenser-access-denied = 拒绝访问。

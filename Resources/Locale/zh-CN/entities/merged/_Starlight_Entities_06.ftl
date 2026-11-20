@@ -61,7 +61,7 @@ ent-BibleRigVeda = 梨俱吠陀
 ent-BibleBibble = 哔经
     .desc = 全都在这里！圣经。等等，好像哪里不对……？
 
-ent-BibleSatanic = 撒旦圣经
+ent-BibleSatanic = 撒旦教典
     .desc = 还能出什么岔子呢？
 
 ent-BibleTanakh = 塔纳赫
@@ -252,7 +252,7 @@ ent-MechEquipmentSecGrabber = 液压爪
     .desc = 专为同时控制多个对象而设计的液压爪。一次最多可容纳 4 件物品。
 
 ent-MechEquipmentCamera = 机甲夜视摄像头
-    .desc = 夜视摄像头，可将面罩切换至夜视模式，提高昏暗区域中的能见度。
+    .desc = 一款夜视摄像头，可将面罩切换为夜视模式，在光线昏暗的区域提高视野。
 
 ent-ClarkeHarness = 克拉克骨架
     .desc = 克拉克的核心。

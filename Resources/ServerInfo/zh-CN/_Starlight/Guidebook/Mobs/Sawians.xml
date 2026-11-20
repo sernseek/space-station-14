@@ -1,0 +1,35 @@
+<Document>
+    # 萨维安人
+
+    <Box>
+	    <GuideEntityEmbed Entity="GuideExpie" Caption=""/>
+    </Box>
+
+    萨维安人是一类基于多种地球基因组人工创造的物种，常在纳米传讯的空间站上任职。
+    萨维安人在生理上没有性别，不过有些在外观上仍带有男性或女性特征。
+    他们不习惯穿衣服。[color=yellow]穿得越少，移动越快[/color]，
+    未穿任何衣物时[color=lightgreen]（头部、外套、面罩、足部、内衬、手套）[/color]，速度会从[color=yellow]基础速度的125%[/color]逐渐降到[color=yellow]所有栏位穿满时的95%[/color]。
+
+    #健康
+    萨维安人极其坚韧，专为在多数物种致命的环境中生存而造。
+    - 多数人都植入了脑部植入体，可高级读取自身身体状况。
+    - 他们的坚韧让他们能在一段时间内承受[color=red]危急状态[/color]的影响。
+    受到[color=red]100点伤害[/color]时，他们进入“软危急”状态，此时仍能[color=yellow]爬行、说话并使用物品。[/color]
+    不过他们会受到[color=red]缺氧[/color]伤害，
+    最终在[color=red]150点伤害[/color]时昏过去，并在[color=red]200点伤害[/color]时死亡。
+    - 他们加快的新陈代谢使他们更快处理化学物质和毒素。
+    - 他们饥饿和口渴的速度比人类[color=red]快3倍[/color]，但在[color=red]未挨饿[/color]时[color=green]有额外的治疗[/color]，
+    实际上使他们在[color=red]非危急[/color]状态下[color=green]被动治疗速度加倍[/color]。
+    - 挨饿时，他们每秒会逐渐受到[color=orange]0.5点腐蚀[/color]伤害，直至死亡。
+
+
+    #一致性
+    - 同种物种内任何个性或基因构成的偏差都很罕见——差异很可能来自个人饰品、伤疤或配件。
+    - 在转调至中央指挥部之前，所有萨维安人都被分配一个四位数ID编号和一个昵称。（例如[color=yellow]#4466 约翰[/color]、[color=yellow]#7201 吉米[/color]、[color=yellow]#1793 简[/color]）
+    中央指挥部-纳米传讯已修改其系统以允许继续使用此体系，从而便于更简单地过渡到中央指挥部-纳米传讯的雇佣体系。
+
+    [color=gray]NT期望萨维安人净化其提供的ID编号。极低的数字或暗示性数字（如#6969、#6767、#0420、#8008）应予以替换，并[/color][color=red]绝不在空间站上使用。[/color]
+
+
+
+</Document>

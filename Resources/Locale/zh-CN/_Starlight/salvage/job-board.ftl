@@ -21,3 +21,41 @@ bounty-description-salvage-space-bear-hide = 我们有一位新来的地毯商�
 bounty-description-salvage-bandolier = 我们有一位收藏USSP周边的主顾，想凑齐自己的cosplay套装，点名要几条弹药带。去办妥它。
 
 bounty-description-salvage-commie-id = 还是那位收藏USSP周边的主顾，这次连ID卡都要。给他们弄几张来，让他们的LARP装备完美到顶。
+
+salv-job-board-name-BountyProtolatheMachineBoard = 原型车床机器板
+
+salv-job-board-name-BountySalvageCubanCarp = 古巴鲤鱼
+
+salv-job-board-name-BountySalvageVodkizine = 伏特加嗪
+
+salv-job-board-name-BountySalvageMop = 高级拖把
+
+salv-job-board-name-BountySalvageCommieWeapons = 基础共产主义武器
+
+salv-job-board-name-BountySalvageKeg = 核弹酒桶
+
+salv-job-board-name-BountySalvageCloning = 克隆电路板
+
+salv-job-board-name-BountySalvageDragon = 龙肉
+
+salv-job-board-name-BountySalvageReactor = 远征反应堆
+
+salv-job-board-name-BountySalvageAKMS = AKMS
+
+bounty-description-salvage-vodkizine = 董事会要求在下次季度报告会议上用一杯上好的饮品干杯，可别洒了！
+
+bounty-description-salvage-akms = 我们接了一份委托，要为一场不太合法行动获取大威力苏联武器。别问问题，把枪拿到就行。
+
+bounty-description-salvage-reactor = 当地一个激进组织正为远征反应堆支付高价报酬，别让他们失望。
+
+bounty-description-salvage-dragon = 我们的铁厨师想要比普通异星生物能提供的更珍稀的肉块，别让它先咬你一口。
+
+bounty-description-salvage-cloning = 防损部门需要克隆组件，以替换一位最近失踪的客户。
+
+bounty-description-salvage-keg = 年度削减成本会议即将召开，他们需要合适的饮品供应。
+
+bounty-description-salvage-weapons = 有关Finka、马卡洛夫和莫辛的研究数据最近全被神秘销毁了。抓些样品回来，好让我们把资料恢复。
+
+bounty-description-salvage-mop = ITG的保洁团队已被ATS和穿梭机上激增的脏乱压垮了，要么别再邋遢，要么给他们弄把拖把！
+
+bounty-description-salvage-protolathe = 当地一家瓦肯生产中心缺少一件核心技术，无法生产更多模组套件。帮他们，就是帮我们！

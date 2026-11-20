@@ -1,0 +1,930 @@
+<Document>
+  # 公司法：罪行清单
+  罪行代码按关联罪行组着色，罪行组是不可叠加罪行的集合。快速罪行指南中还包含后缀，用于标识关联罪行。
+
+  ## 快速罪行指南
+  <Table Columns="6">
+    <ColorBox>
+      <Box>
+        1-XX - 轻微
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        2-XX - 中度
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        3-XX - 重大
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        4-XX - 极端
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        5-XX - 极刑
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        代码
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        不服从（1）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        违反逮捕（1）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        违反羁押（1）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        拒绝心灵护盾（1）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        00
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用二级管制物品（2）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        走私（2）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用三级管制物品（2）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用四级或五级管制物品（2）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        01
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        轻微盗窃（3）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        重大盗窃（3）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        公司扰乱（3）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        02
+      </Box>
+    </ColorBox>
+        <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        篡改机械（4）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持械抢劫（3）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        03
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        破坏公物（4）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        损坏财产（4）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        毁坏财产（4）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        大规模破坏（4）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        恐怖主义（4）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        04
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法闯入（5）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        擅闯安全区（5）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        05
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        轻微袭击（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        重度袭击（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        谋杀未遂（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        阻止复活（6）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        06
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        危害安全（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        过失杀人（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        谋杀（6）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        大规模谋杀（6）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        07
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        扰乱秩序（7）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        私自执法（7）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        暴动（7）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法拘禁
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法处决（6）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        08
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        冒充与欺诈
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        贿赂
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        伪造
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        09
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        虐待动物
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        伪证
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        同类相食
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      侵犯身体自主权
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        10
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        煽动叛乱（8）
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        11
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        阴谋（8）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        叛国（8）
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        12
+      </Box>
+    </ColorBox>
+  </Table>
+
+  ## 关联罪行：
+  关联罪行不能同时指控。详情请参阅量刑。
+
+  1. 不服从、违反逮捕、违反羁押、拒绝心灵护盾
+
+  2. 持有或使用2、3、4或5类管制物品
+
+  3. 小额盗窃、大额盗窃与持械抢劫
+
+  4. 破坏公物、篡改机械、损坏财产、毁坏财产、大规模破坏、恐怖主义
+
+  5. 非法入侵、安全区非法入侵
+
+  6. 危害安全、轻微袭击、重度袭击、过失杀人、谋杀未遂、谋杀、阻止复活、大规模谋杀、非法处决
+
+  7. 扰乱秩序、私自执法、暴动
+
+  8. 煽动叛乱、阴谋、叛国
+
+  ## 轻微罪行
+  犯轻微罪行者初犯应予以警告，但再犯会累加，每项轻微罪行应判处最多5分钟监禁。
+  <Table Columns="2">
+    <ColorBox>
+      <Box>
+        罪行
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        描述
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        虐待动物
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        出于恶意对非智慧生物造成不必要的痛苦或伤害。不包括合法授权的动物实验，或为取肉而屠宰牲畜。也不适用于害虫或敌对生物。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用2类管制物品
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经授权制造、持有或使用2级违禁品。此类物品的许可可由相关部门主管、典狱长、安保主管以及舰长批准。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        小额盗窃
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经同意取走他人、组织或公共的非重要或廉价财产。盗窃呼吸面罩、氧气罐或必要行动辅助器具等安全或医疗设备视为重要，超出小额盗窃范畴。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        破坏公物
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        故意污损或表面损坏公共或私人财产。例如涂鸦、打碎玻璃或窗户、过度乱扔垃圾、过度造成液体泼洒。持有适当许可的艺术创作或施工不属于破坏公物。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法入侵
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法入侵——未经允许进入非安全区域，例如翻越柜台进入酒吧或厨房等员工区域。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        扰乱秩序
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        造成公共骚乱。这是过度恶劣行为的统称，包括公开裸体、骚扰、煽动犯罪、反复且故意以错误性别称呼他人，以及干扰当局或通讯。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        冒充与欺诈
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        冒充他人身份，或以任何方式企图欺诈。若冒充安保部成员，冒充可升为中等罪行；若冒充指挥部或中央指挥部成员，则升为重大罪行。
+      </Box>
+    </ColorBox>
+  </Table>
+
+  ## 中等罪行
+  犯中等罪行者每项中等罪行应判处最多5分钟刑期。
+  <Table Columns="2">
+    <ColorBox>
+      <Box>
+        罪行
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        描述
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        不服从
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        抵抗当局给出的合理命令。包括合法拘押与授权搜查。警员在诉诸逮捕前须先警告当事人。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        走私
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        向他人提供其无权持有的任何管制物品或物质。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        篡改机械
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        篡改机器，如剪断线路或修改其功能。包括但不限于控制台、气闸门与硅基体。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        损坏财产
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#453a59">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        恶意损坏或污损公共或私人财产或设备。包括设备售货机、饮料分配器、计算机以及车床等机械。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        危害安全
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        因直接行为或不作为而轻率地使自身或他人陷入危险。包括疏忽、事故、医疗过失、破坏或损害防火闸与外窗等安全设施，以及鲁莽驾驶穿梭机。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        轻微袭击
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未持武器袭击他人且未造成严重伤害。严重伤害指任何改变生活的伤害，如失去肢体、眼耳受损，或经健康分析仪测定总伤害超过30。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        贿赂
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        企图或成功以任何报酬贿赂官员使其渎职或犯罪，报酬包括但不限于服务、人情、spesos、信用点、材料或任何物品。此罪同样适用于任何被抓到接受贿赂者，并与其被贿赂所犯的罪行累加。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        私自执法
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        在无授权情况下企图非法执行企业法。参见：执法。
+      </Box>
+    </ColorBox>
+  </Table>
+
+  ## 重大罪行
+  犯重大罪行者每项重大罪行应判处最多10分钟监禁。重度袭击与过失杀人为关联罪行，不对嫌疑人累加。
+  <Table Columns="2">
+    <ColorBox>
+      <Box>
+        罪行
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        描述
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        阴谋
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        与他人共谋或策划实施中等或重大罪行，且有合理证据表明嫌疑人打算实施该计划。包括宣称将要犯罪。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持械抢劫
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持械抢劫：使用任何可被视为武器的物品，以暴力威胁窃取财物，无论该武器是否为违禁品。这包括刀具、工具箱、撬棍或任何其他临时武器。必须存在实际的暴力威胁，或受害者不顺从便会遭受暴力的暗示，方构成持械抢劫。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用第3类管制物品
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经授权制造、持有或使用3级违禁品。此类物品的许可可由相关部门主管、安保主管以及舰长签发。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        煽动叛乱
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        煽动反抗空间站权威，包括但不限于：指挥部、安保部、中央指挥部或纳米传讯。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+       伪证
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+          故意在宣誓后作伪证，或在书面文件中作出虚假陈述
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        伪造
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        通过非法手段伪造书面文件，如篡改已盖章文件、未经授权使用公章，或任何其他手段。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        逃避逮捕
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+            故意抗拒并逃离经授权人员的逮捕或拘留。仅当有人正被实际逮捕时适用。为他人解铐或协助他人逃避逮捕者也可被指控此罪。脱逃羁押是另一项独立罪名。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        重大盗窃
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经同意取走他人或组织的关键或不可替代财产。包括门禁遥控器、硬质防护服、机器部件等指挥部物品，以及劫持部门穿梭机。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+       破坏财物
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        破坏他人或空间站的财物。包括但不限于工作控制台、气闸门，以及摧毁或严重损坏赛博格的机身。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        安全区非法闯入
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#59563a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+       未经许可进入安保区域。若该区域位于上锁的门后，即为安全区非法闯入。包括非公共部门区域，尤其是安保区、指挥部区域、金库和军械库。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+       重度袭击
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        使用武器袭击他人，或徒手袭击造成重伤。重伤指任何改变生活的伤害，如失去肢体、眼或耳受损，或经健康分析仪测定总伤害超过30的任何其他损伤。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        过失致死
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        无意中杀死一个智慧实体。包括自卫中的过失致死和疏忽过失致死。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        暴乱
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#3b4354">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        参与大批人员制造非法公共骚乱。暴乱头目可被指控其领导下犯下的所有罪行，外加煽动叛乱。
+      </Box>
+    </ColorBox>
+  </Table>
+
+  ## 极端罪行
+  犯下极端罪行的人，每项极端罪行可判处最高20分钟监禁。特别暴力的罪犯可被关入永久监禁。谋杀未遂与谋杀属关联罪行，不可叠加。
+  <Table Columns="2">
+    <ColorBox>
+      <Box>
+        罪行
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        描述
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        脱逃羁押
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        从牢房或羁押中逃出，意图逃脱。此罪也适用于帮助他人逃脱者。屡次犯罪可将此指控升级为永久监禁，且仅在嫌疑人屡次犯下脱逃羁押罪时，经舰长授权可进一步升级为处决。为保全生命而脱逃羁押（不包括为逃避处决），例如因枪战、火灾、太空泄漏或缺氧而离开危险地点——可由典狱长或安保主管酌情减轻或免于处罚。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        持有或使用第4类或第5类管制物品
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2f3832">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经授权制造、持有或使用4级及以上违禁品。此类物品的许可只能凭中央指挥部的签名签发。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        企业滋扰
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        对其他企业造成显著损失、损害或干扰。由于中央指挥部和纳米传讯将为此类行为承担责任，故从重处理。包括盗窃属于外部企业的设备或穿梭机，以及自动贸易站。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+       大规模破坏
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        对区域或主要空间站系统造成大规模破坏。包括重大爆炸以及对电力、医疗、化学、变电站和大气等关键空间站系统的蓄意破坏。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法拘禁
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        违背智慧实体的意愿，非法限制、运输、控制或囚禁该实体。此为涵盖任何形式绑架或强制控制的兜底罪名。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        谋杀未遂
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        试图通过体力或其他方式结束他人生命。需要有证据表明行动带有杀人意图，例如使用了致命武器。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        谋杀
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        恶意杀死智慧实体。若受害者必须被复活，则属于谋杀而非谋杀未遂。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        叛国
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#475c7d">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        故意背叛对纳米传讯的忠诚。包括与恐怖分子合作，尤其适用于试图非法弃职、损害空间站和纳米传讯利益的指挥部成员。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        同类相食
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        食用智慧实体的任何部分。食用要害器官应从重处理。若嫌疑人犯下谋杀或袭击等罪行以获取所食用的部分，可在此类罪名之上加控此罪。
+      </Box>
+    </ColorBox>
+  </Table>
+
+  ## 死刑罪行
+  犯下死刑罪行的人，经舰长确认后应关押于永久监禁。若死刑犯逃脱，应予处决，并在班次结束时装入尸袋运往中央指挥部。舰长或安保主管可在至少3名其他指挥部成员见证下实施紧急处决，但事后必须直接上报中央指挥部审查。
+  <Table Columns="2">
+    <ColorBox>
+      <Box>
+        罪行
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        描述
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        拒绝心灵护盾
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        拒绝配合合理的心灵护盾程序。若嫌疑人极度不合作，或植入体因囚犯精神状态过于严重而失效，则适用此罪。[bold]若植入体失效，强烈建议处决，可由舰长或中央指挥部批准。详见植入。[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        侵犯身体自主权
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#593a4e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经同意非法为他人植入、摘除、控制或以其他方式改造他人身体。\n\n不适用于不拥有自身身体的个体，如硅基体。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        恐怖主义
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#2e422e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        从事恶意破坏行为，威胁摧毁或成功摧毁飞船、居所或空间站。包括对空间站系统的极端蓄意破坏或启动自毁系统。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        非法处决
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        未经授权或在标准操作程序之外非法处决个人。此罪名与谋杀不同，主要适用于安保部、指挥部和中央指挥部部队，如应急响应队。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        阻止复活
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        使尸体无法复活。包括碎尸、将尸体抛入太空、故意藏匿尸体、非法焚尸，或任何其他阻止有灵魂的尸体复活的方式。
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        大屠杀
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#4d2e2e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+        恶意杀死三个或更多智慧实体。仅在存在多起故意杀人时适用。
+      </Box>
+    </ColorBox>
+  </Table>
+</Document>

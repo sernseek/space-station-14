@@ -1,0 +1,131 @@
+<Document>
+  # 燃烧涡轮机
+
+  燃烧涡轮机通过从燃烧室抽出高温高压气体，让其经叶片膨胀进入低压排气来发电。
+  吸入的气体越致密、到排气的压降越大，转子转得越快，输出到[color=orange]高压[/color]电网的电力也越多。
+
+  <Box>
+    <GuideEntityEmbed Entity="CombustionTurbineCompressor" Caption="进气压缩机"/>
+    <GuideEntityEmbed Entity="CombustionTurbineRotor" Caption="核心转子"/>
+    <GuideEntityEmbed Entity="CombustionTurbineOutlet" Caption="涡轮排气口"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="ComputerCombustionTurbine" Caption="控制计算机"/>
+    <GuideEntityEmbed Entity="IgniterFloor" Caption="点火器"/>
+  </Box>
+
+  ## 获取方式
+
+  货运部出售[color=#a4885c]燃烧涡轮机箱[/color]，三段全部以平板包装提供，已安装 1 级部件，并附带控制计算机。
+  要建造更多，请研究[color=#a4885c]燃烧涡轮[/color]（工业）。各段电路板印刷昂贵（需要等离子体和金），每段建造还需塑钢和等离子体板。用电路板建造的段不带部件：请在[color=#a4885c]工程科技制造台[/color]打印1级部件。
+
+  ## 组装
+
+  涡轮由三台机器排成一列组成，全部[color=#a4885c]朝向同一方向[/color]。气体沿该方向流过它们，三者共同构成一道气密墙：
+  - [color=#a4885c]进气压缩机[/color]从它后面的地块抽取气体，那个地块应当是燃烧室。
+  - [color=#a4885c]核心转子[/color]位于中间。它容纳发电机，通过其下方的[color=orange]高压线[/color]输出电力，并需要[color=green]APC电力[/color]驱动启动电机。
+  - [color=#a4885c]涡轮排气口[/color]将废气排放到它前面的地块，那里应当通向太空或接入排气管。
+
+  检查任意一段以确认涡轮已组装。用[color=#a4885c]多功能工具[/color]将[color=#a4885c]控制计算机[/color]连接到核心转子。
+
+  ## 运行
+
+  1. 向燃烧室充入约3-5份氧气配1份等离子体的燃烧混合气。压力越高，功率越大。
+  2. 确保排气侧通向太空。排入常压房间几乎不会产生压降，涡轮会失速。
+  3. 用燃烧室内的[color=#a4885c]点火器[/color]点燃混合气。将其连接到按钮，或手动切换。
+  4. 从计算机启动涡轮。启动电机将转子加速，压缩机开始抽气，之后燃烧便会接手。
+
+  计算机上的[color=#a4885c]进气调节器[/color]设定压缩机每秒抽取多少升（1级压缩机部件为800 L/s）。在更高压力下，相同体积可容纳更多气体，因此相同设定下更致密的燃烧室能提供更大功率。
+  涡轮很贪吃：在1 MPa时约抽取30 mol/s，2 MPa时约60 mol/s，全升级的涡轮在3 MPa时会抽取远超100 mol/s，所以要持续向燃烧室供气。
+
+  冷气体几乎无法带动转子，无论其背后压力多大。只有燃烧才能产生真正的功率。
+  叶片只从气体中带走部分热量，因此废气仍然非常热，通常远超1000 K。未燃烧的燃料会直接通过，因此排气口上的过滤器可以收集它再次燃烧。
+
+  如果气体在燃烧室中停留过久，等离子体会烧尽，而富氧残余物（超过约32:1）会开始生成氚，燃烧温度高得多。
+
+  ## 调速器
+
+  转子不会超过其额定转速。当接近额定转速时，调速器会自动关小进气，因此极高压力的燃烧室也不会使涡轮超速或浪费燃料；它只会保持在额定转速和最大输出。
+  计算机上会显示调速器何时在限制转子。如果限制幅度很大，升级部件可获得更大功率。
+
+  ## 部件与升级
+
+  每一段都装有一个部件：[color=#a4885c]压缩机部件[/color]、[color=#a4885c]转子部件[/color]或[color=#a4885c]定子部件[/color]。缺少部件时涡轮无法运行。
+  货运箱中的段已安装1级部件；用电路板建造的段所需的1级部件及备件在工程科技制造台打印。要提升等级，请按手持部件检查时列出的材料进行消耗升级。
+
+  <Table Columns="3">
+    <ColorBox>
+      <Box>
+        等级
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        压缩机与转子部件
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        定子部件
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        2
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        10 塑钢
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        15 塑钢
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        3
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        10 铀
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        15 铀
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        4
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        5 钻石
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        8 钻石
+      </Box>
+    </ColorBox>
+  </Table>
+
+  每个等级都会提高部件的额定转速和进气温度。涡轮的额定值取三个部件的[color=#a4885c]平均值[/color]。
+  此外，更好的压缩机部件能抽取更多气体，更好的转子部件摩擦损耗更少，更好的定子部件能捕获更多气体能量。
+  当燃烧室内燃烧气体压力约为1.5-2 MPa时，1级涡轮最高约[color=orange]300 kW[/color]；全升级涡轮在3 MPa燃烧下可发出约[color=orange]1.5 MW[/color]。
+
+  要更换部件，请关闭涡轮并等待转子停止。用[color=#a4885c]螺丝刀[/color]打开该段面板，用[color=#a4885c]撬棍[/color]撬出部件，装入新部件并关闭面板。在内部无部件时再次撬动会拆解该机器。
+
+  ## 损坏
+
+  唯一会损坏涡轮的是过热气体：如果进气温度高于部件额定值（显示在计算机上），转子会损失完整度，一旦下降，工程部会通过无线电收到警告。
+  当气体温度回到额定范围内时，完整度会缓慢恢复。
+  [color=red]如果完整度降至零，转子会失效并爆炸。[/color]转速越快，爆炸越大。
+  如果计算机报告过热，请降低燃烧温度：减少燃料供给、混入氮气等缓冲气体，或升级部件。
+</Document>

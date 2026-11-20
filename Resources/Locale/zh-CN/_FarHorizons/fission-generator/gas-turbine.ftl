@@ -75,3 +75,5 @@ gas-turbine-ui-power = { POWERWATTS($power) }
 gas-turbine-ui-locked-message = 控制已锁定。
 gas-turbine-ui-footer-left = 危险：高速运转的机械。
 gas-turbine-ui-footer-right = 2.1 修订版 1
+
+gas-turbine-ui-title = 燃气轮机

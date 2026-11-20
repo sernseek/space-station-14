@@ -29,3 +29,11 @@ reagent-desc-pseudoceramic-platelets = 粗糙、松脆，又黏糊糊的……
 reagent-name-doll-blood = 异常血液
 
 reagent-desc-doll-blood = 就像一碗浓稠的肉汤……
+
+reagent-name-xeno-blood = 氟硫酸血液
+
+reagent-desc-xeno-blood = 它正试图吃掉容器……
+
+reagent-name-sawian-blood = 萨维安血液
+
+reagent-desc-sawian-blood = 旧生物工程技术产物，人工制造的血液。

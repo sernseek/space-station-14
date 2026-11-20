@@ -14,7 +14,7 @@ cmd-launchemergencyshuttle-desc = 在条件允许时提前发射紧急撤离穿�
 cmd-launchemergencyshuttle-help = 用法：launchemergencyshuttle
 
 # Emergency shuttle # Starlight edit: reword due to potential existence of multiple stations/shuttles
-emergency-shuttle-left = 所有紧急撤离穿梭机均已离港。预计 {$transitTime} 秒后抵达中央指挥部。
+emergency-shuttle-left = 所有紧急撤离穿梭机均已出发，逃生舱已解锁。预计穿梭机将在 {$transitTime} 秒后抵达中央指挥部。
 emergency-shuttle-launch-time = 紧急撤离穿梭机将在 {$consoleAccumulator} 秒后发射。
 emergency-shuttle-docked = 紧急撤离穿梭机已在空间站{$direction}侧的{$location}对接，将在 {$time} 秒后离港。{$extended}
 emergency-shuttle-good-luck = 紧急撤离穿梭机无法找到空间站。祝你好运。

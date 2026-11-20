@@ -118,8 +118,9 @@ evolutionmenu-utility-stims-desc =
 
 evolutionmenu-utility-fleshmend-name = 血肉修复
 evolutionmenu-utility-fleshmend-desc =
-    迅速治愈自身所有瘀伤与烧伤。
-    消耗 35 点化学物质。
+    迅速治愈自身所有的瘀伤与灼伤。
+    警告：使用该能力需要至少吸收2个有机体。
+    消耗35点化学物质。
 
 # Starlight - monkey form is permanent (until transform is fixed, at least)
 evolutionmenu-utility-lesserform-name = 弱小形态

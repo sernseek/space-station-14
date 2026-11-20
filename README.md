@@ -11,7 +11,7 @@
 [![Upstream](https://img.shields.io/badge/upstream-ss14Starlight%2Fspace--station--14-8a2be2?logo=github)](https://github.com/ss14Starlight/space-station-14)
 [![Locale](https://img.shields.io/badge/locale-zh--CN-e03c31)](Resources/Locale/zh-CN)
 [![Coverage](https://img.shields.io/badge/Fluent%20%E8%A6%86%E7%9B%96%E7%8E%87-100%25-brightgreen)](Tools/localization/README.md)
-[![Engine](https://img.shields.io/badge/RobustToolbox-v280-informational)](https://github.com/space-wizards/RobustToolbox)
+[![Engine](https://img.shields.io/badge/RobustToolbox-v295-informational)](https://github.com/space-wizards/RobustToolbox)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512bd4?logo=dotnet)](global.json)
 [![License](https://img.shields.io/badge/license-MIT%20%2F%20CC--BY--SA%203.0-blue)](#许可证--license)
 
@@ -40,9 +40,9 @@
 
 | 范围 | 状态 |
 |---|---|
-| Fluent 文本（`Resources/Locale`） | ✅ 43,478 / 43,478 条，100% |
+| Fluent 文本（`Resources/Locale`） | ✅ 游戏内容 47,506 / 47,506 条；含引擎 48,389 / 48,389 条，100% |
 | 实体名称与描述（`ent-*`） | ✅ 全部原型已覆盖 |
-| 指南手册（Guidebook） | ✅ 340 / 345 篇，按语言目录加载，缺失时回退英文 |
+| 指南手册（Guidebook） | ✅ 473 / 473 篇，按语言目录加载，缺失时回退英文 |
 | 预设文档（`Resources/Documents`） | ✅ 已翻译 |
 | 地图内嵌文本（传送点、摄像头、设备名、纸张） | ✅ 按词元词典组合 + 摘要键翻译 |
 | 空间站地图名 | ✅ 已翻译 |

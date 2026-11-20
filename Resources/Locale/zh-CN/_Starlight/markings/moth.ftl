@@ -54,3 +54,5 @@ marking-MothWingsWhitefly-whitefly_fluff = 绒毛
 marking-MothWingsWitchwing-witchwing_fluff = 绒毛
 
 marking-MothWingsUnderwing-underwing_fluff = 绒毛
+
+marking-MothAntennaeBushyAlt = 触角（蓬松变体）

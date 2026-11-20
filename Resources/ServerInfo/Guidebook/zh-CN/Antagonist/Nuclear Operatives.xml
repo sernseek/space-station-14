@@ -71,25 +71,31 @@
   ## 前往空间站
   计划有了，装备齐了。现在，开始执行。
 
-  从军械库拿一个[bold]喷气背包[/bold]，与其他特工一同前往你们的[color=cyan]穿梭机[/color]。
-  除了其他可能需要的设备外，你还能在穿梭机上找到一台[bold]IFF 计算机[/bold]。关闭[italic]显示 IFF[/italic]和[italic]显示舰船[/italic]后，它能让你躲避其他舰船和质量扫描仪的侦测。
+  与其他特工一同前往你们的[color=cyan]穿梭机[/color]。
+  登船后，你会找到一个装有[color=cyan]核弹授权码[/color]的文件夹。
+  记住授权码，然后[bold]核对核弹ID是否与你们穿梭机上的核弹一致。[/bold] 如果不一致，你启动的将是空间站的核弹。
 
-  所有人准备就绪后，通过 FTL 前往空间站，再用喷气背包飞过去。如果要带上核弹，别忘记密码、定位仪和核弹本身。
+  穿梭机配备了[color=cyan]IFF计算机[/color]。关闭[italic]显示IFF[/italic]后，它可以让你躲避其他飞船和质量扫描仪。
+
+  等所有人准备就绪，跃迁至空间站，再用穿梭机上的[color=cyan]喷气背包[/color]飞过去。别忘带授权码、你的定位器，以及核弹（若由你携带）。
 
   <Box>
-    <GuideEntityEmbed Entity="JetpackBlack"/>
+    <GuideEntityEmbed Entity="BoxFolderNuclearCodes"/>
     <GuideEntityEmbed Entity="ComputerIFFSyndicate"/>
+    <GuideEntityEmbed Entity="JetpackBlack"/>
   </Box>
 
   ## 核弹与启动流程
-  穿梭机上有一张写着[color=cyan]核弹授权码[/color]的纸。[bold]检查核弹 ID 是否与穿梭机上的核弹 ID 相符。[/bold]如果不符，你要启动的就是空间站上的核弹。
+  你们已经走到这一步了。完成任务。
 
   - 取得[bold]核弹授权盘[/bold]并将其插入核弹。
   - 输入[bold]核弹授权码[/bold]，然后在数字键盘上按“[bold]E[/bold]”确认。
-  - [bold]按下[color=#EB2D3A]启动[/color]即可开始自毁程序[/bold]。300 秒后，核弹会爆炸。
-  - [bold]守住核弹[/bold]，即使要付出生命也在所不惜！任务要求中并不包括活着回来。
-  - 他人需要 30 秒才能[bold]解除[/bold]核弹。核弹可以重新启动，但如果你让这种事情发生，任务成功率就会下降。
-  - 若核弹重新启动，计时器会从上次停止的位置继续倒计时。
+  - 将核弹[bold]固定[/bold]在空间站内的坚固地板上。
+  - [bold]要开始引爆程序，请按下[color=#EB2D3A]ARM[/color][/bold]。300秒后核弹将爆炸。
+  - [bold]保护核弹，抵挡NT员工和赛博格[/bold]，哪怕付出生命也在所不惜！任务要求[italic]并不包括你们活着回来[/italic]。
+
+  [bold]解除[/bold]核弹需要30秒。可以重新启动，但若倒计时被打断，任务成功率会下降。
+  若核弹被重新启动，计时器将从上次中断处继续。
 
   <Box>
     <GuideEntityEmbed Entity="NuclearBomb" Caption="核裂变爆炸装置"/>

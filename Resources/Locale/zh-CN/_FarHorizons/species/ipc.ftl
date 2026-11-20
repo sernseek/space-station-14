@@ -68,3 +68,7 @@ alerts-ipc-fans-efficiency-low-desc = 大气环境未达到最佳条件，冷却
 
 alerts-ipc-fans-off-name = 无法启动冷却！
 alerts-ipc-fans-off-desc = 极度危险！大气环境导致冷却子系统无法启动！
+
+ipc-verb-eject-brain = 大脑
+
+ipc-verb-eject-encryption-keys = 加密密钥

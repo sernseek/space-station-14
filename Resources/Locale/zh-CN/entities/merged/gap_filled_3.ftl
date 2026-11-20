@@ -28,7 +28,7 @@ ent-AirlockJournalismGlassLocked = 玻璃气闸门
 ent-AirlockJournalismLocked = 气闸门
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
-ent-AirlockMaintJournalismLocked = 气闸门
+ent-AirlockMaintJournalismLocked = 维护通道入口
     .desc = 它会打开，会关闭，没准还会把你压扁。
 
 ent-AlwaysPoweredLightWarm = 灯
@@ -59,7 +59,7 @@ ent-BoxSurvivalMedicalBlood = 生存箱
     .desc = 这是个装着基础维生装备的箱子。这个标着内装一块血砖。
 
 ent-BoxSurvivalMilitaryDoubleBlood = 小纸箱
-    .desc = 这是个装着基础维生装备的箱子。这个标着内装一个双倍扩容气罐和一块血砖。
+    .desc = 盒内装有基本生存物资。这个标签标明内含一个双倍扩容氧气瓶。
 
 ent-BoxSurvivalSecurityBlood = 生存箱
     .desc = 这是个装着基础维生装备的箱子。这个标着内装一个扩容气罐和一块血砖。
@@ -95,7 +95,7 @@ ent-ClothingHeadsetAltSyndicateUnremovable = 血红包耳式耳机
     .desc = 一副用于保持通讯联络的耳机。
 
 ent-ClothingShoesBootsMagERTFilled = 应急响应队磁力靴
-    .desc = 纳米传讯应急响应队使用的升级磁力靴，磁力强劲并集成推进器，可容纳0.75升气体。 # SL
+    .desc = 纳米传讯应急响应队使用的升级型磁力靴，拥有强劲磁力与内置推进器。可容纳 0.75 L 气体。
 
 ent-CompuerShuttleSalvageITG = 远程打捞穿梭机控制台
     .desc = 仔细检查可以了解它的用途与特性。
@@ -566,8 +566,8 @@ ent-TicketMachineQM = 取号机
 ent-TicketNT = 罚单
     .desc = 一张印有编号和 NT 标志的纸。
 
-ent-ToolboxSELF = 未定工具箱 # Starlight
-    .desc = 你最喜欢的工具就在里面。试着想起它们是哪几件。 # Starlight
+ent-ToolboxSELF = 身份不明的行窃工具箱
+    .desc = 这里面装着你最喜爱的小偷的物资。试着记住都有哪些吧。
 
 ent-ToyFigurineMimeReverseGravityWell = 哑剧演员手办
     .desc = 不起眼的哑剧演员手办，它的存在不知为何令你反感，驱使着你离开并且再也不回来。

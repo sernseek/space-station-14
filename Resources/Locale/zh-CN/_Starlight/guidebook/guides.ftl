@@ -226,7 +226,7 @@ guide-entry-search-and-seizure = 搜查与扣押
 
 guide-entry-permits = 许可证
 
-guide-entry-implantation = 植入
+guide-entry-implantation = 强制植入
 
 guide-entry-sentencing = 量刑
 
@@ -253,3 +253,43 @@ guide-entry-gasses3 = 功能性气体
 guide-entry-gasses4 = 进阶气体
 
 guide-entry-gasses5 = 稀有气体
+
+guide-entry-sl-security-sop-k9 = K9 小队
+
+guide-entry-sl-security-sop-gunnerysergeant = 枪炮军士
+
+guide-entry-sl-security-sop-permitacquisition-examples = 许可示例
+
+guide-entry-sl-security-sop-induced-mutiny = 诱发哗变
+
+guide-entry-sl-science-sop-genproc-intro = 通用程序
+
+guide-entry-sl-science-sop-researchguidelines = 研究准则
+
+guide-entry-sl-science-sop-anomalyresearch = 异常研究
+
+guide-entry-sl-science-sop-artifactresearch = 遗物研究
+
+guide-entry-sl-science-sop-itemdistribution = 物品分发
+
+guide-entry-sl-science-sop-staff-intro = 人员程序
+
+guide-entry-sl-science-sop-researchdirector = 研究主管
+
+guide-entry-sl-science-sop-scientist = 科学家
+
+guide-entry-sl-science-sop-researchassistant = 研究助理
+
+guide-entry-sl-science-sop-roboticist = 机器人专家
+
+guide-entry-sl-science-sop-appendix = 附录
+
+guide-entry-religious-freedom = 宗教自由
+
+guide-entry-silicon-clause = 硅基条款
+
+guide-entry-carnival-treaty = 嘉年华条约
+
+guide-entry-combustion-turbine = 燃烧涡轮机
+
+guide-entry-gasses = 普通气体

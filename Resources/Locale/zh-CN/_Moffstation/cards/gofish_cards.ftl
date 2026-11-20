@@ -199,3 +199,9 @@ gofish-card-rules-content = [color=#1b67a5]
     {"  • [bold]避免暴露[/bold]自己即将集齐的牌组！"}
 
     {"  • [bold]记得玩得开心！[/bold]"}
+
+gofish-card-rules-name = 钓鱼牌！规则卡
+
+gofish-card-rules-name-reverse = 扑克牌
+
+gofish-card-rules-desc = 这是规则卡！你可以阅读它来更好地理解规则。

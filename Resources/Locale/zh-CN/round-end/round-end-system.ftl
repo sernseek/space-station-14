@@ -7,5 +7,11 @@ round-end-system-shuttle-recalled-announcement = 紧急撤离穿梭机已被召�
 round-end-system-shuttle-sender-announcement = 空间站
 round-end-system-round-restart-eta-announcement = 将在 {$time} {$units} 后重启回合……
 
-eta-units-minutes = 分钟
-eta-units-seconds = 秒
+eta-units-minutes = {$amount ->
+    [one] 分钟
+    *[other] 分钟
+}
+eta-units-seconds = {$amount ->
+    [one] 秒
+    *[other] 秒
+}

@@ -749,3 +749,7 @@ lancer-arcade-log-divine-empty = 神罚——范围内没有目标。
 lancer-arcade-log-divine-save = {$unit}对神罚豁免成功，受到 {$damage} 点伤害。
 
 lancer-arcade-log-divine-fail = {$unit}对神罚豁免失败，受到 {$damage} 点伤害。
+
+lancer-dice-damage = 伤害：{ $sum }
+
+lancer-dice-damage-sum = 伤害：{ $dice } = { $sum }

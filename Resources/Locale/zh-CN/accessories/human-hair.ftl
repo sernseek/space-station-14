@@ -200,3 +200,7 @@ marking-HumanHairVolaju = 沃拉朱发型
 marking-HumanHairWisp = 发缕
 marking-HumanHairLongWithBangs = 长发配刘海
 marking-HumanHairOverEyePigtail = 单马尾（遮眼）
+
+marking-HumanHairOverTheShoulderBraid = 过肩辫
+
+marking-HumanHairOverTheShoulderBraidAlt = 过肩辫（变体）

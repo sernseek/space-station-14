@@ -7,3 +7,9 @@ vendor-security-dispenser = 安保售货机
 vendor-fashion-o-mat = 时尚售货机
 vendor-salvage-ticket-machine = 打捞票券机
 vendor-mining-ticket-machine = 采矿票券机
+
+vending-machine-balance = 余额：{ $balance }₡
+
+vending-machine-debited = 已扣款 { $price }₡。余额：{ $balance }₡
+
+vending-machine-insufficient-funds = 余额不足。需要：{ $price }₡

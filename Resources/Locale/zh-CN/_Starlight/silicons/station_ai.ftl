@@ -78,3 +78,9 @@ station-ai-warp-no-results = 未找到目的地。
 station-ai-warp-section-crew = 船员
 station-ai-warp-section-locations = 地点
 station-ai-warp-radial-tooltip = 跃迁
+
+station-ai-deathrattle-sender = AI 系统警报
+
+station-ai-deathrattle-connection-lost = 与空间站AI {$ai} 的连接已于 {$position} 中断。
+
+station-ai-deathrattle-shutdown = 空间站AI {$ai} 已于 {$position} 关闭。

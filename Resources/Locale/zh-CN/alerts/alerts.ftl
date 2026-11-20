@@ -131,4 +131,4 @@ alerts-stealthy-name = 扒窃
 alerts-stealthy-desc = 你当前是否正在扒窃。点击可切换。
 
 alerts-prying-name = 撬动
-alerts-prying-desc = 你天生就能撬开门。
+alerts-prying-desc = 你可以通过替代交互方式徒手撬开门。

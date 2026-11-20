@@ -197,10 +197,10 @@ ent-ClothingOuterCoatLabCoronerLongOpened = 长款验尸官实验服
     .desc = 纳米传讯医务人员标准实验服的黑色款，饰有白色细节。
 
 ent-ClothingOuterWindbreakerScience = science风衣
-    .desc = 一件实用的science风衣，还带有方便收纳物品的口袋。
+    .desc = 一件实验服风格的风衣，带有能装下你所有笔的口袋。
 
 ent-ClothingOuterWindbreakerScienceOpened = science风衣
-    .desc = 实验服款式的风衣，带有一个能装下你所有笔的口袋。
+    .desc = 一件实验服风格的风衣，带有能装下你所有笔的口袋。
 
 ent-ClothingOuterCoatWardenCentcomm = 中央指挥部装甲冬季外套
     .desc = 一件剪裁考究的中央指挥部装甲冬季外套，兼具时尚感与实用性。
@@ -245,7 +245,7 @@ ent-ClothingOuterHardsuitLuxmax = QM'sluxurymaxim硬服
     .desc = 一件具有可靠防护性能的QM'sluxurymaxim硬服。
 
 ent-ClothingOuterHardsuitSecurityExperimental = 实验型安保硬服
-    .desc = 一件按规定配发的实验型安保硬服，穿着者的身份一目了然。
+    .desc = 一套高科技硬质宇航服，原本计划最终取代标准安保硬质宇航服。有传言说第一台原型机被辛迪加偷走了……
 
 ent-ClothingOuterHardsuitSpatioLead = 太空领航员领队硬服
     .desc = 一件专为相应用途设计的太空领航员领队硬服，舒适而实用。
@@ -832,8 +832,8 @@ ent-ClothingUniformJumpskirtSchool = 校服裙装
 ent-ClothingUniformJumpskirtCapTurtleneck = 舰长's高领衫
     .desc = 真正属于舰长的高领衫。
 
-ent-ClothingUniformJumpskirtHoPTurtleneck = 人事主管's高领衫
-    .desc = 一件人事主管's高领衫，有着与众不同的来历与风格。
+ent-ClothingUniformJumpskirtHoPTurtleneck = 人事主管高领短裙
+    .desc = 这是人事主管的高领衫。
 
 ent-ClothingUniformJumpskirtHoSBlack = 安保主管's黑色裙装
     .desc = 一件安保主管's黑色裙装，有着与众不同的来历与风格。

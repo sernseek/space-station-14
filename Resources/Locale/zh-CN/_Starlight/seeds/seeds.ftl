@@ -12,3 +12,5 @@ seeds-cinnamon-name = 肉桂树
 seeds-cinnamon-display-name = 肉桂树
 seeds-cinnaflare-name = 烈桂树
 seeds-cinnaflare-display-name = 烈桂树
+
+seeds-brown-mushroom-name = 棕色蘑菇

@@ -58,3 +58,5 @@ station-ai-hologram-male = 男性外观
 station-ai-hologram-face = 悬浮头部
 station-ai-hologram-cat = 猫形态
 station-ai-hologram-dog = 柯基形态
+
+station-ai-core-taking-damage = 你的AI核心正在承受物理损伤。

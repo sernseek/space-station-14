@@ -1,0 +1,36 @@
+<Document>
+  # 气体 5
+  稀有、极为小众的气体与材料，主要供进阶大气技师当作新奇玩物。
+
+  ## 反锘气
+  <Box>
+    <GuideEntityEmbed Entity="AntiNobliumCanister" Caption=""/>
+  </Box>
+
+  一种极轻的气体，不与任何物质发生相互作用。
+
+  反锘气可通过电解超锘气制得。
+
+  ## 佐克
+  <Box>
+    <GuideEntityEmbed Entity="ZaukerCanister" Caption=""/>
+  </Box>
+
+  一种极难合成、高度不稳定且剧毒无比的气体。
+
+  虽然佐克在氮气存在时会迅速衰变，从而大大限制其致命性，但直接吸入仍会迅速摧毁人的寿命。
+
+  在 50000 K 至 100000 K 之间，将 50 份尼特里姆与 1 份超诺比利姆混合即可制得佐克。
+
+  ## 金属氢
+  <Box>
+    <GuideEntityEmbed Entity="MetalHydrogen" Caption=""/>
+  </Box>
+
+  由 BZ 维持稳定的、密度高得不可思议的氢。
+
+  尽管密度极高，金属氢仍具备足够的延展性，可用普通工具加工成极其耐用的物品。
+
+  在压力超过 10000 kpa 且温度低于 273 K 的地块上，将 300 mol 氢与 50 mol BZ 混合可形成金属氢锭。
+
+</Document>

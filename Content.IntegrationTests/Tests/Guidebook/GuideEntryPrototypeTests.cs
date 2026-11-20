@@ -29,9 +29,11 @@ public sealed class GuideEntryPrototypeTests : GameTest
         {
             await client.WaitAssertion(() =>
             {
-                using var reader = resMan.ContentFileReadText(proto.Text);
-                var text = reader.ReadToEnd();
-                Assert.That(parser.TryAddMarkup(new Document(), text), $"Failed to parse guidebook: {proto.Id}");
+                foreach (var path in new[] { proto.Text, resMan.GetLocalizedGuide(proto.Text) }.Distinct())
+                {
+                    using var reader = resMan.ContentFileReadText(path);
+                    Assert.That(parser.TryAddMarkup(new Document(), reader.ReadToEnd()), $"Failed to parse guidebook: {proto.Id} ({path})");
+                }
             });
 
             // Avoid styleguide update limit

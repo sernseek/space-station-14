@@ -23,3 +23,11 @@ borg-slot-idstamps-empty = PDA、ID卡与印章
 borg-slot-ore-ticket-empty = 矿石与矿票
 
 borg-slot-music-media-empty = 黑胶唱片与CD
+
+borg-slot-organs-strict-empty = 器官
+
+borg-slot-meat-empty = 肉类
+
+borg-slot-animbox-empty = 动物方块与箱子
+
+borg-slot-clothing-empty = 衣物

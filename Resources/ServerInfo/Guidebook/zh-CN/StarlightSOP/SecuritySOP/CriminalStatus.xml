@@ -1,0 +1,150 @@
+<Document>
+# 犯罪状态
+
+<GuideEntityEmbed Entity="ComputerCriminalRecordsDesktop" Caption="犯罪状态"/>
+所有NT-CC空间站上的犯罪记录系统可将个别船员归入不同类别，佩戴安保眼镜者可在船员旁看到该分类。
+
+所有犯罪状态都应附有适用该状态的原因说明。此操作应在犯罪记录系统中进行。例外是“已解除”，其含义不言自明。
+
+所有犯罪状态在不再相关时都应被移除或更改。未做到即违反标准作业程序。
+
+若警官未按其SOP规定在应当更改或移除犯罪状态时履行该义务，且该失误导致相关船员受伤，则该警官犯有危害罪。若该船员因该失误死亡，则该警官犯有过失杀人罪；依公司法以过失杀人罪起诉。
+
+ <Table Columns="3">
+    <ColorBox>
+      <Box>
+        [bold]状态[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [bold]条件[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [bold]规程[/bold]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=lightblue]嫌疑人[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        涉嫌参与犯罪的船员。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        密切关注。蓝色警报时优先搜查。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=pink]通缉[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        已确认的罪犯船员。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        押送至安保部，按安保SOP第4节的标准升级流程处理。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=red]见即逮捕[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        船员曾成功拒捕。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        一经发现即使用非致命手段制服，然后押送至安保部。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=darkred]格杀勿论[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        该船员已对逮捕警官构成既定威胁。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        发现即用致命武器交战，随后移交安保部。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=gray]已清除[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        该船员已确认死亡。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        若见其活动，视为通缉。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=brown]已收监[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        该船员已被监禁。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        若在禁闭室外出现，视为通缉。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=green]已假释[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        该船员已达成假释协议。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        视情况而定，参见[textlink="假释" link="Parole"]章节。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        [color=blue]已释放[/color]
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        该船员已从禁闭室释放。
+      </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>
+        无，按普通船员对待。
+      </Box>
+    </ColorBox>
+  </Table>
+</Document>

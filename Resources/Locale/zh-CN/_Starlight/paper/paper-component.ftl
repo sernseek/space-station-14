@@ -19,3 +19,11 @@ paper-tamper-proof-modified-message = 此页使用防篡改墨水书写。
 
 # Paper tools
 stamp-slot-component-slot-name-stamp = 印章
+
+paper-datetime-format = {$date} // {$time} 班次时间
+
+paper-check-blank-button = ☐ 空白
+
+paper-check-check-button = ✔ 勾选
+
+paper-check-cross-button = ✖ 叉选

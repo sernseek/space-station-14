@@ -1,0 +1,90 @@
+<Document>
+  # 超物质晶体
+
+  <Box>
+    <GuideEntityEmbed Entity="SignRadiation" Caption="" />
+    <GuideEntityEmbed Entity="SupermatterCrystal" Caption="超物质晶体" />
+    <GuideEntityEmbed Entity="SignRadiation" Caption="" />
+  </Box>
+
+  ## 概述
+
+  超物质晶体是一种高输出能源，能够为空间站提供大量电力。
+
+  与常规发电机不同，它并不直接发电。工程师而是通过让晶体承受受控压力，来采集其释放出的能量。
+
+  除了产能之外，晶体还会产生有用的气体，因此对工程部和大气部都极具价值。
+
+  超物质背后的具体机制仍属未知。不过，它的行为深受周围大气影响，需要持续监控。
+
+  ## 能量采集
+
+  压力会使超物质以多种形式释放能量。
+
+  其中一种反应会放出高能辐射。
+
+  <Box>
+    <GuideEntityEmbed Entity="RadiationCollectorFullTank" Caption="辐射收集器" />
+  </Box>
+
+  辐射收集器将这种辐射转化为可用的电能。
+
+  晶体也可能积累电荷。
+
+  <Box>
+    <GuideEntityEmbed Entity="TeslaCoil" Caption="特斯拉线圈" />
+  </Box>
+
+  特斯拉线圈可安全地将这些电荷导入空间站电网。
+
+  ## 气体采集
+
+  超物质承受压力时，其外层结构会有小块碎片剥落。
+
+  <Box>
+    <GuideEntityEmbed Entity="OxygenCanister" Caption="氧气" />
+    <GuideEntityEmbed Entity="TritiumCanister" Caption="氚" />
+  </Box>
+
+  这些碎片会自然分解为氧气和氚，为大气部提供这两种气体的可再生来源。
+
+    ## 最低运行标准
+
+  一套稳定的超物质装置需要三套主要控制系统：
+
+  ## 气体管理
+
+  必须主动管理舱室大气，以维持安全运行条件。
+
+  必要措施包括：
+
+  - 主动冷却系统。
+  - 压力调节与超压保护。
+  - 持续监测舱室大气。
+
+  温度与压力偏差会增大晶体压力并加速失稳。
+
+  ## 电气接地
+
+  超物质相互作用可能产生电荷积累。
+
+  需要接地系统来安全释放这些能量，防止电气事件失控。
+
+  <Box>
+    <GuideEntityEmbed Entity="TeslaGroundingRod" Caption="接地棒" />
+  </Box>
+
+  ## 辐射屏蔽
+
+  超物质反应可能产生危险水平的辐射。
+
+  必须维护辐射屏蔽与监测系统，以保护空间站人员与设备。
+
+  <Box>
+    <GuideEntityEmbed Entity="ReinforcedUraniumWindow" Caption="辐射屏蔽" />
+  </Box>
+
+  标准空间站大气条件已被证明是可靠的运行环境。
+
+  只有在妥善规划并理解超物质行为的前提下，才应更改舱室条件。
+</Document>
