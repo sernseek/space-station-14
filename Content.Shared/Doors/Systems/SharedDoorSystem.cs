@@ -203,13 +203,19 @@ public abstract partial class SharedDoorSystem : EntitySystem
     #region Interactions
     protected void OnActivate(EntityUid uid, DoorComponent door, ActivateInWorldEvent args)
     {
-        args.InteractionParticle &= door.ShowInteractionParticles; // Starlight, don't show SECRET doors
+        //Starlight-start
+        if (!_mapSystem.IsInitialized(Transform(uid).MapUid))
+        {
+            args.Handled = true;
+            return;
+        }
+        args.InteractionParticle &= door.ShowInteractionParticles; // don't show SECRET doors
 
-        // Starlight edit start: Enable entities with prying capabilities on themselves to open doors
+        // Enable entities with prying capabilities on themselves to open doors
         var pryingCapable = args.Complex || HasComp<PryingComponent>(args.User);
         if (args.Handled || !pryingCapable || !door.ClickOpen)
             return;
-        // Starlight edit end
+        // Starlight-end
 
         if (!TryToggleDoor(uid, door, args.User, predicted: true))
             _pryingSystem.TryPry(uid, args.User, out _);
@@ -548,11 +554,23 @@ public abstract partial class SharedDoorSystem : EntitySystem
                 _damageableSystem.TryChangeDamage(entity, door.CrushDamage, origin: uid);
 
             _stunSystem.TryUpdateParalyzeDuration(entity, stunTime);
+            //Starlight start - Door push
+            if (door.CrushPush)
+                _throwing.TryThrow(
+                    entity,
+                    GetEjectDirection(entity) * 2f,
+                    8f,
+                    user: null, // avoids thrower pushback/admin log
+                    pushbackRatio: 0f,
+                    compensateFriction: true,
+                    doSpin: false);
+            //Starlight end
         }
 
         if (door.CurrentlyCrushing.Count == 0)
             return;
 
+        if (door.KeepClosed) return; //Starlight-edit Keep door closed
         // queue the door to open so that the player is no longer stunned once it has FINISHED opening.
         door.NextStateChange = GameTiming.CurTime + door.DoorStunTime;
         door.Partial = false;
@@ -787,13 +805,14 @@ public abstract partial class SharedDoorSystem : EntitySystem
         var door = ent.Comp;
         door.NextStateChange = null;
 
-        if (door.CurrentlyCrushing.Count > 0 && door.State != DoorState.Opening)
+        if (door.CurrentlyCrushing.Count > 0 && door.State != DoorState.Opening && !door.KeepClosed) // Starlight-edit
         {
             // This is a closed door that is crushing people and needs to auto-open. Note that we don't check "can open"
             // here. The door never actually finished closing and we don't want people to get stuck inside of doors.
             StartOpening(ent, door);
             return;
         }
+        if(door is { KeepClosed: true, CurrentlyCrushing.Count: > 0 }) door.CurrentlyCrushing.Clear(); // Starlight-edit
 
         switch (door.State)
         {

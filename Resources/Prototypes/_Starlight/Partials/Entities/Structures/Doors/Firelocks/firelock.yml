@@ -1,0 +1,18 @@
+
+# Alert-level dependent access for firelocks.
+- type: !PartialOnly entity
+  id: BaseFirelock
+  components:
+    - type: AlertLevelAccess
+      added:
+        # Security gets firelock access during various alerts. They got places to be!
+        red: &sec [["Security"]]
+        gamma: *sec
+        delta: *sec
+        psi: *sec
+    - type: Wires
+      layoutId: Firelock
+    - type: Door
+      crushPush: true
+      keepClosed: true
+      performCollisionCheck: false

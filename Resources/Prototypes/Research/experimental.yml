@@ -11,6 +11,7 @@
   cost: 5000
   recipeUnlocks:
   - ProximitySensor
+  - DroneShell # Starlight
 
 - type: technology
   id: BasicAnomalousResearch
@@ -91,6 +92,8 @@
   cost: 5000
   recipeUnlocks:
   - MechEquipmentBorgBeacon
+  #- RemoteControlBrain # Starlight addition, disabled until fully cooked
+  #- RemoteControlConsoleCircuitboard # Starlight addition, disabled until filly cooked
 
 # Tier 2
 

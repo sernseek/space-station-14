@@ -1,0 +1,28 @@
+- type: !PartialOnly entity
+  id: ClothingHandsGlovesForensic
+  components:
+  - type: StainBlocker
+    slots: [GLOVES]
+
+- type: !PartialOnly entity
+  id: ClothingHandsGlovesJanitor
+  components:
+  - type: Tag
+    tags:
+      - WhitelistChameleon
+
+- type: !PartialOnly entity
+  id: ClothingHandsGlovesCombat
+  components:
+  - type: Tag
+    tags:
+      - Recyclable
+      - WhitelistChameleon
+
+- type: !PartialOnly entity
+  id: ClothingHandsGlovesFingerlessBudget
+  components:
+  - type: Tag
+    tags:
+      - Recyclable
+      - WhitelistChameleon

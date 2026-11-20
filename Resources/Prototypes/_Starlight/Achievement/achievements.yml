@@ -27,6 +27,76 @@
   - progressType: vampire.blooddrank
     requiredProgress: 3000
 
+- type: achievement
+  id: first_kindred
+  name: achievement-first-kindred-name
+  description: achievement-first-kindred-description
+  category: vampire
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: draculaJrMedal
+  difficultyAntag:
+    role: MindRoleVampire
+    requiredDifficulty: 10
+
+# Traitor
+- type: achievement
+  id: elite_contractor
+  name: achievement-elite-contractor-name
+  description: achievement-elite-contractor-description
+  category: traitor
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  difficultyAntag:
+    role: MindRoleTraitor
+    requiredDifficulty: 15
+
+# Changeling
+- type: achievement
+  id: enemy_unknown
+  name: achievement-enemy-unknown-name
+  description: achievement-enemy-unknown-description
+  category: changeling
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: assumingDirectControl
+  difficultyAntag:
+    role: MindRoleChangeling
+    requiredDifficulty: 10
+
+# Thief
+- type: achievement
+  id: phantom_thief
+  name: achievement-phantom-thief-name
+  description: achievement-phantom-thief-description
+  category: thief
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: whiskeyEcho
+  difficultyAntag:
+    role: MindRoleThief
+    requiredDifficulty: 10
+
+# Blood Bound
+- type: achievement
+  id: blood_herald
+  name: achievement-blood-herald-name
+  description: achievement-blood-herald-description
+  category: bloodbound
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: draculaJrMedal
+  difficultyAntag:
+    role: MindRoleBloodBound
+    requiredDifficulty: 10
+
+
 # manual-only, granted by admins via achievement_unlock command
 # Even though this achievement can be granted automatically checking nullink roles
 # i just want it to be test command for now
@@ -70,7 +140,7 @@
   id: whiskey_echo_whiskey
   name: achievement-whiskey-echo-whiskey-name
   description: achievement-whiskey-echo-whiskey-description
-  category: milestones
+  category: traitor
   hidden: false
   showProgress: false
   icon:
@@ -178,12 +248,12 @@
   id: viva_cargonia
   name: achievement-viva-cargonia-name
   description: achievement-viva-cargonia-description
-  category: milestones
+  category: revolutionary
   hidden: true
   showProgress: false
   icon:
     sprite: _Starlight/Interface/Achievements/icons.rsi
-    state: heliosMedal
+    state: viva
   requirements: []
 
 - type: achievement
@@ -238,7 +308,7 @@
   id: lone_operative
   name: achievement-lone-operative-name
   description: achievement-lone-operative-description
-  category: milestones
+  category: nukeops
   hidden: false
   showProgress: false
   icon:
@@ -250,7 +320,7 @@
   id: one_against_all
   name: achievement-one-against-all-name
   description: achievement-one-against-all-description
-  category: milestones
+  category: nukeops
   hidden: false
   showProgress: false
   icon:
@@ -262,7 +332,7 @@
   id: one_man_syndicate
   name: achievement-one-man-syndicate-name
   description: achievement-one-man-syndicate-description
-  category: milestones
+  category: nukeops
   hidden: false
   showProgress: false
   icon:
@@ -274,7 +344,7 @@
   id: john_syndicate
   name: achievement-john-syndicate-name
   description: achievement-john-syndicate-description
-  category: milestones
+  category: nukeops
   hidden: false
   showProgress: false
   icon:
@@ -325,7 +395,7 @@
   id: syndie_cat
   name: achievement-syndie-cat-name
   description: achievement-syndie-cat-description
-  category: milestones
+  category: traitor
   hidden: false
   showProgress: false
   icon:
@@ -445,12 +515,12 @@
   id: viva
   name: achievement-viva-name
   description: achievement-viva-description
-  category: milestones
+  category: revolutionary
   hidden: false
   showProgress: false
   icon:
     sprite: _Starlight/Interface/Achievements/icons.rsi
-    state: heliosMedal
+    state: viva
   requirements: []
 
 - type: achievement
@@ -469,7 +539,7 @@
   id: treason
   name: achievement-treason-name
   description: achievement-treason-description
-  category: milestones
+  category: traitor
   hidden: false
   showProgress: false
   icon:
@@ -541,6 +611,326 @@
   id: the_robust_salvagers
   name: achievement-the-robust-salvagers-name
   description: achievement-the-robust-salvagers-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: theory_of_objectivity
+  name: achievement-theory-of-objectivity-name
+  description: achievement-theory-of-objectivity-description
+  category: milestones
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: whiskeyEcho
+  requiredAchievements:
+  - elite_contractor
+  - phantom_thief
+  - first_kindred
+  - enemy_unknown
+  - blood_herald
+
+- type: achievement
+  id: really_with_that
+  name: achievement-really-with-that-name
+  description: achievement-really-with-that-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: failed_phoenix
+  name: achievement-failed-phoenix-name
+  description: achievement-failed-phoenix-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: puny_god
+  name: achievement-puny-god-name
+  description: achievement-puny-god-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: da_roolz
+  name: achievement-da-roolz-name
+  description: achievement-da-roolz-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: gorilla_punch
+  name: achievement-gorilla-punch-name
+  description: achievement-gorilla-punch-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: osha
+  name: achievement-osha-name
+  description: achievement-osha-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: fishos
+  name: achievement-fishos-name
+  description: achievement-fishos-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: lizard_plushie_army
+  name: achievement-lizard-plushie-army-name
+  description: achievement-lizard-plushie-army-description
+  category: milestones
+  hidden: false
+  showProgress: true
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements:
+    - progressType: animate.lizard
+      requiredProgress: 10
+
+- type: achievement
+  id: defib_mouse
+  name: achievement-defib-mouse-name
+  description: achievement-defib-mouse-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: bird_medic
+  name: achievement-bird-medic-name
+  description: achievement-bird-medic-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: sci_exploded
+  name: achievement-sci-exploded-name
+  description: achievement-sci-exploded-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: hamster_fax
+  name: achievement-hamster-fax-name
+  description: achievement-hamster-fax-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: future_refused
+  name: achievement-future-refused-name
+  description: achievement-future-refused-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: aaahhh
+  name: achievement-aaahhh-name
+  description: achievement-aaahhh-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements:
+    - progressType: scream.counter
+      requiredProgress: 100
+
+- type: achievement
+  id: master_bartender
+  name: achievement-master-bartender-name
+  description: achievement-master-bartender-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: weh
+  name: achievement-weh-name
+  description: achievement-weh-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: spicy_rock
+  name: achievement-spicy-rock-name
+  description: achievement-spicy-rock-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: personal_liberties
+  name: achievement-personal-liberties-name
+  description: achievement-personal-liberties-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: imperfect_protection
+  name: achievement-imperfect-protection-name
+  description: achievement-imperfect-protection-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: vox_moment
+  name: achievement-vox-moment-name
+  description: achievement-vox-moment-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: changeling_defib
+  name: achievement-changeling-defib-name
+  description: achievement-changeling-defib-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: uplink_balloon
+  name: achievement-uplink-balloon-name
+  description: achievement-uplink-balloon-description
+  category: milestones
+  hidden: true
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: no_room_hell
+  name: achievement-no-room-hell-name
+  description: achievement-no-room-hell-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: broken_media
+  name: achievement-broken-media-name
+  description: achievement-broken-media-description
+  category: milestones
+  hidden: false
+  showProgress: false
+  icon:
+    sprite: _Starlight/Interface/Achievements/icons.rsi
+    state: heliosMedal
+  requirements: []
+
+- type: achievement
+  id: breaking_good
+  name: achievement-breaking-good-name
+  description: achievement-breaking-good-description
   category: milestones
   hidden: false
   showProgress: false

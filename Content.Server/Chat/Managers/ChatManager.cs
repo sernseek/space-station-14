@@ -8,6 +8,8 @@ using Content.Server.Administration.Systems;
 using Content.Server.Discord.DiscordLink;
 using Content.Server.Players.RateLimiting;
 using Content.Server.Preferences.Managers;
+using Content.Shared._NullLink;
+using Content.Shared._Starlight.Chat;
 using Content.Shared.Administration;
 using Content.Shared.CCVar;
 using Content.Shared.Chat;
@@ -39,6 +41,7 @@ internal sealed partial class ChatManager : IChatManager
     [Dependency] private IServerNetManager _netManager = default!;
     [Dependency] private IAdminManager _adminManager = default!;
     [Dependency] private INullLinkPlayerManager _playerRoles = default!; // NullLink
+    [Dependency] private ISharedNullLinkPlayerRolesReqManager _reqManager = default!; // Starlight
     [Dependency] private IAdminLogManager _adminLogger = default!;
     [Dependency] private IServerPreferencesManager _preferencesManager = default!;
     [Dependency] private IConfigurationManager _configurationManager = default!;
@@ -273,6 +276,9 @@ internal sealed partial class ChatManager : IChatManager
             case OOCChatType.Admin:
                 SendAdminChat(player, message);
                 break;
+            case OOCChatType.Mentor:
+                SendMentorChat(player, message);
+                break;
         }
     }
 
@@ -357,6 +363,39 @@ internal sealed partial class ChatManager : IChatManager
         _adminLogger.Add(LogType.Chat, $"Admin chat from {player:Player}: {message}");
     }
 
+    #region Starlight
+    private void SendMentorChat(ICommonSession player, string message)
+    {
+        if (!_reqManager.IsMentor(player) && !_adminManager.IsAdmin(player))
+        {
+            _adminLogger.Add(LogType.Chat, LogImpact.Extreme, $"{player:Player} attempted to send mentor message but was not mentor");
+            return;
+        }
+
+        var clients = _playerRoles.Mentors.Select(p => p.Channel).Concat(_adminManager.ActiveAdmins.Select(p => p.Channel)).Distinct();
+        var wrappedMessage = Loc.GetString("chat-manager-send-mentor-chat-wrap-message",
+            ("mentorChannelName", Loc.GetString("chat-manager-mentor-channel-name")),
+            ("playerName", FormattedMessage.EscapeText(player.Name)), ("message", FormattedMessage.EscapeText(message))); // Starlight
+
+        foreach (var client in clients)
+        {
+            var isSource = client != player.Channel;
+            ChatMessageToOne(ChatChannel.MentorChat,
+                message,
+                wrappedMessage,
+                default,
+                false,
+                client,
+                audioPath: isSource ? _netConfigManager.GetClientCVar(client, CCVars.AdminChatSoundPath) : default,
+                audioVolume: isSource ? _netConfigManager.GetClientCVar(client, CCVars.AdminChatSoundVolume) : default,
+                author: player.UserId);
+        }
+
+        _discordLink.SendMessage(message, player.Name, ChatChannel.AdminChat);
+        _adminLogger.Add(LogType.Chat, $"Mentor chat from {player:Player}: {message}");
+    }
+    #endregion
+
     #endregion
 
     #region Utility
@@ -367,7 +406,7 @@ internal sealed partial class ChatManager : IChatManager
         var netSource = _entityManager.GetNetEntity(source);
         user?.AddEntity(netSource);
 
-        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume);
+        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume, repeatCheckSender: ShouldRepeatCheckSender(source)); // Starlight Edit: Chat stacking
         _netManager.ServerSendMessage(new MsgChatMessage() { Message = msg }, client);
 
         if (!recordReplay)
@@ -389,7 +428,7 @@ internal sealed partial class ChatManager : IChatManager
         var netSource = _entityManager.GetNetEntity(source);
         user?.AddEntity(netSource);
 
-        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume);
+        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume, repeatCheckSender: ShouldRepeatCheckSender(source)); // Starlight Edit: Chat stacking
         _netManager.ServerSendToMany(new MsgChatMessage() { Message = msg }, clients);
 
         if (!recordReplay)
@@ -423,7 +462,7 @@ internal sealed partial class ChatManager : IChatManager
         var netSource = _entityManager.GetNetEntity(source);
         user?.AddEntity(netSource);
 
-        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume);
+        var msg = new ChatMessage(channel, message, wrappedMessage, netSource, user?.Key, hideChat, colorOverride, audioPath, audioVolume, repeatCheckSender: ShouldRepeatCheckSender(source)); // Starlight Edit: Chat stacking
         _netManager.ServerSendToAll(new MsgChatMessage() { Message = msg });
 
         if (!recordReplay)
@@ -435,6 +474,11 @@ internal sealed partial class ChatManager : IChatManager
             _replay.RecordServerMessage(msg);
         }
     }
+
+    #region Starlight
+    private bool ShouldRepeatCheckSender(EntityUid source)
+        => !_entityManager.HasComponent<ChatRepeatIgnoreSenderComponent>(source);
+    #endregion
 
     public bool MessageCharacterLimit(ICommonSession? player, string message)
     {
@@ -463,5 +507,6 @@ internal sealed partial class ChatManager : IChatManager
 public enum OOCChatType : byte
 {
     OOC,
-    Admin
+    Admin,
+    Mentor //Starlight-edit: Mentor chat
 }

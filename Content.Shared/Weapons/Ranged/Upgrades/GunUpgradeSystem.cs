@@ -10,6 +10,9 @@ using Content.Shared.Weapons.Ranged.Events;
 using Content.Shared.Weapons.Ranged.Systems;
 using Content.Shared.Weapons.Ranged.Upgrades.Components;
 using Content.Shared.Whitelist;
+using Content.Shared.Hands.EntitySystems;
+using Content.Shared.Tools.Systems;
+using Content.Shared.Tools;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
@@ -106,8 +109,20 @@ public sealed partial class GunUpgradeSystem : EntitySystem
     {
         foreach (var (ammo, _) in args.Ammo)
         {
-            if (TryComp<ProjectileComponent>(ammo, out var proj))
+        //Starlight-start: continue
+            if (!TryComp<ProjectileComponent>(ammo, out var proj))
+                continue;
+        //Starlight-end
+
                 proj.Damage += ent.Comp.Damage;
+
+        //Starlight-start
+                foreach (var (type, multiplier) in ent.Comp.DamageMultiplier.DamageDict)
+                {
+                    if (proj.Damage.DamageDict.TryGetValue(type, out var damage))
+                        proj.Damage.DamageDict[type] = damage * multiplier;
+                }
+        //Starlight-end
         }
     }
 

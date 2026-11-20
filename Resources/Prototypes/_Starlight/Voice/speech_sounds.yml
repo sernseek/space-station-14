@@ -97,3 +97,21 @@
   id: LagomorphStomp
   files:
     - /Audio/Voice/Reptilian/reptilian_tailthump.ogg
+
+- type: speechSounds
+  id: AllExpi
+  saySound:
+    path: /Audio/_Starlight/Voice/Experiment/exp_speak.ogg
+  askSound:
+    path: /Audio/_Starlight/Voice/Experiment/exp_ask.ogg
+  exclaimSound:
+    path: /Audio/_Starlight/Voice/Experiment/exp_exclaim.ogg
+
+- type: speechSounds
+  id: UnisexXeno
+  saySound:
+    path: /Audio/_RMC/Voice/Xeno/alien_talk1.ogg
+  askSound:
+    path: /Audio/_RMC/Voice/Xeno/alien_talk2.ogg
+  exclaimSound:
+    path: /Audio/_RMC/Voice/Xeno/alien_talk3.ogg

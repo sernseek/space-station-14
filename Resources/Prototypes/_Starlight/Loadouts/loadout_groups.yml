@@ -53,7 +53,16 @@
   - ScarfPrideNonbinary
   - ScarfPrideRainbow
   - ScarfPrideTrans
+  - ScarfPridePlural
   - ScarfPrideLongBacon
+  - ScarfSolidRed
+  - ScarfSolidBlue
+  - ScarfSolidGreen
+  - ScarfSolidBlack
+  - ScarfSolidBrown
+  - ScarfSolidLightBlue
+  - ScarfSolidOrange
+  - ScarfSolidPurple
 
 - type: loadoutGroup
   id: Pins
@@ -150,17 +159,6 @@
   - FancyPen
 
 - type: loadoutGroup
-  id: AssistantGlasses
-  name: loadout-group-assistant-glasses
-  minLimit: 0
-  loadouts:
-  - Glasses
-  - GlassesJamjar
-  - GlassesJensen
-  - CheapSunnies
-  - AssistantNoirGlasses
-
-- type: loadoutGroup
   id: AssistantHead
   name: loadout-group-assistant-head
   minLimit: 0
@@ -185,6 +183,8 @@
   - CommonSatchel
   - CommonDuffel
   - LeatherSatchel
+  - StarBackpack
+  - StarSatchel
 
 - type: loadoutGroup
   id: RoboticistJumpsuit
@@ -227,6 +227,7 @@
   loadouts:
   - RoboticistWeldingGoggles
   - RoboticistDiagnosticsHud
+  - RoboticistDiagnosticGoggles
 
 - type: loadoutGroup
   id: RoboticistBackpack
@@ -236,6 +237,8 @@
   - RoboticistSatchel
   - RoboticistDuffel
   - LeatherSatchel
+  - StarBackpack
+  - StarSatchel
 
 - type: loadoutGroup
   id: RoboticistNeck
@@ -300,6 +303,7 @@
   name: loadout-group-nanotrasenrepresentative-eyewear
   loadouts:
   - NanoTrasenRepresentativeGlasses
+  - NanoTrasenRepresentativeGlassesPrescription
   - NanoTrasenRepresentativeHud
   - NanoTrasenRepresentativeMonocle
 
@@ -334,8 +338,10 @@
   id: MagistrateEyewear
   name: loadout-group-magistrate-eyewear
   loadouts:
-  - MagistrateSecGlasses
-  - MagistrateSkillGlasses
+  - SecurityGlasses
+  - SecurityGlassesPrescription
+  - NanoTrasenRepresentativeGlasses
+  - NanoTrasenRepresentativeGlassesPrescription
 
 - type: loadoutGroup
   id: MagistrateNeck
@@ -353,6 +359,7 @@
   loadouts:
   - MagistrateWhiteGloves
   - MagistrateBlackGloves
+  - MagistratePaperworkGloves
 
 - type: loadoutGroup
   id: BlueShieldHead
@@ -371,6 +378,8 @@
   - BlueShieldSatchel
   - BlueShieldDuffel
   - LeatherSatchel
+  - StarBackpack
+  - StarSatchel
 
 - type: loadoutGroup
   id: BlueShieldJumpsuit
@@ -429,6 +438,7 @@
   name: loadout-group-blueshield-eyewear
   loadouts:
   - BlueShieldGlasses
+  - BlueShieldGlassesPrescription
   - BlueShieldHud
   - BlueShieldEyePatchHud
 
@@ -627,6 +637,8 @@
   - SeniorCourierDuffel
   - MailTechnicianTrunkSenior
   - LeatherSatchel
+  - StarBackpack
+  - StarSatchel
 
 - type: loadoutGroup
   id: MailTechnicianOuterClothing
@@ -719,6 +731,28 @@
   loadouts:
     - SalvagePDA
     - VeteranSalvagePDA
+
+# Salvage Medic
+- type: loadoutGroup
+  id: SalvageMedicPDA
+  name: loadout-group-salvage-medic-id
+  loadouts:
+    - SalvageMedicPDA
+    - VeteranSalvageMedicPDA
+
+- type: loadoutGroup
+  id: SalvageMedicJumpsuit
+  name: loadout-group-salvage-medic-jumpsuit
+  loadouts:
+    - SalvageMedicJumpsuit
+    - SalvageMedicJumpskirt
+
+- type: loadoutGroup
+  id: SalvageMedicNeck
+  name: loadout-group-salvage-medic-mantle
+  loadouts:
+    - SalvageMedicMantle
+    - VeteranSalvageMedicMantle
 
 # Service
 # Mime
@@ -925,6 +959,7 @@
     - ChemicalHud
     - ChemicalEyePatchHud
     - ChemicalJensens
+    - ChemicalJamjar
     - ChemicalGlassesPrescription
 
 - type: loadoutGroup
@@ -1049,6 +1084,57 @@
   - SecurityBomber
   - WindbreakerSecurity
 
+#GunnerySergeant
+- type: loadoutGroup
+  id: GunnerySergeantHead
+  name: loadout-group-gunnery-sergeant-head
+  loadouts:
+    - GunnerySergeantBeret
+    - GunnerySergeantDrillHat
+
+- type: loadoutGroup
+  id: GunnerySergeantJumpsuit
+  name: loadout-group-gunnery-sergeant-jumpsuit
+  loadouts:
+  - SecurityJumpsuit
+  - SecurityJumpskirt
+  - SecurityJumpsuitGrey
+  - SecurityJumpskirtGrey
+  - SeniorOfficerJumpsuit
+  - SeniorOfficerJumpskirt
+  - TrooperUniform
+  - SecurityJumpsuitBlue
+  - SecurityJumpskirtBlue # starlight start
+  - FormalOfficerJumpsuit
+  - FormalOfficerJumpskirt
+  - FormalSeniorOfficerJumpsuit
+  - FormalSeniorOfficerJumpskirt
+  - DeputyFormalJumpskirt
+  - DeputyFormalJumpsuit
+
+- type: loadoutGroup
+  id: GunnerySergeantOuterClothing
+  name: loadout-group-gunnery-sergeant-outerclothing
+  minLimit: 0 # starlight
+  defaultSelected: 1 # starlight
+  loadouts:
+  - ArmorVest
+  - ArmorVestSlim
+  - ArmorVestPlate
+  - ArmorVestStab
+  - ArmorVestHeatAbsorb
+  - SecurityOfficerWintercoat
+  - SecurityBomber #Starlight
+  - WindbreakerSecurity #Starlight
+
+- type: loadoutGroup
+  id: GunnerySergeantNeck
+  name: loadout-group-gunnery-sergeant-neck
+  minLimit: 0
+  loadouts:
+    - GunnerySergeantMantle
+    - GunnerySergeantCloak
+
 # Brighteye
 - type: loadoutGroup
   id: BrighteyeJumpsuit
@@ -1108,12 +1194,14 @@
   - LaceupShoes
   - Heels
   - LeatherShoes
+  - HighHeelBootsFilled
 
 - type: loadoutGroup
   id: NanotrasenCareerTrainerEyewear
   name: loadout-group-NanotrasenCareerTrainer-eyewear
   loadouts:
   - NanoTrasenRepresentativeGlasses
+  - NanoTrasenRepresentativeGlassesPrescription
   - NanoTrasenRepresentativeHud
 
 - type: loadoutGroup
@@ -1128,7 +1216,8 @@
   name: loadout-group-warden-neck
   minLimit: 0
   loadouts:
-  - ClothingNeckWarden
+  - ClothingNeckWardenCloak
+  - ClothingNeckWardenMantle
 
 - type: loadoutGroup
   id: SecurityGloves
@@ -1161,6 +1250,7 @@
   name: loadout-group-captain-eyewear
   loadouts:
   - CaptainGlasses
+  - CaptainGlassesPrescription
   - CaptainHud
 
 - type: loadoutGroup
@@ -1168,9 +1258,9 @@
   name: loadout-group-security-eyewear
   loadouts:
   - SecurityGlasses
+  - SecurityGlassesPrescription
   - SecurityHud
   - DetectiveNoirGlasses
-  - SecurityGlassesPrescription
 
 - type: loadoutGroup
   id: DetectiveLethal
@@ -1219,6 +1309,8 @@
   - CorpsmanSatchel
   - CorpsmanDuffel
   - LeatherSatchel
+  - StarBackpack
+  - StarSatchel
 
 - type: loadoutGroup
   id: BrigmedicOuterClothing
@@ -1238,10 +1330,8 @@
   loadouts:
   - BrigmedicGlasses
   - BrigmedicHud
+  - BrigmedicGlassesPrescription
   - BrigmedicEyePatchHud
-  - BrigmeicGlassesPrescription
-  - CorpsmanGlasses
-  - CorpsmanHud
 
 - type: loadoutGroup
   id: BrigmedicBelt
@@ -1250,3 +1340,21 @@
   - BrigmedicRig
   - BrigmedicBelt
   - CorpsmanBelt
+
+# for paperwork related roles, Magi, IAA, and NTR
+- type: loadoutGroup
+  id: PaperworkGloves
+  name: loadout-group-gloves-paperwork
+  defaultSelected: 1
+  loadouts:
+  - MagistrateWhiteGloves
+  - MagistrateBlackGloves
+  - HopGloves
+
+- type: loadoutGroup
+  id: BartenderEyewear
+  name: loadout-group-bartender-eyewear
+  minLimit: 0
+  loadouts:
+  - BartenderBeerSunglasses
+  - BartenderBeerEyepatch

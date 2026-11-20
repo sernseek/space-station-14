@@ -15,6 +15,12 @@
   id: AdminSpawnedPlayer # Signifies that this player entity was spawned via the "Spawn here" admin verb.
 
 - type: Tag
+  id: AnimalCube
+
+- type: Tag
+  id: AnimalCubeBox
+
+- type: Tag
   id: AnomalyCoreShadow
 
 - type: Tag
@@ -22,6 +28,9 @@
 
 - type: Tag
   id: Arachnid
+
+- type: Tag
+  id: AtmosFireHelmet # ConstructionGraph: AtmosianHelmet
 
 - type: Tag
   id: AutoMender
@@ -138,6 +147,12 @@
   id: CasinoChip
 
 - type: Tag
+  id: CD
+
+- type: Tag
+  id: CDCase
+
+- type: Tag
   id: CentcommVibroblade
 
 - type: Tag
@@ -177,6 +192,12 @@
   id: ClownKudzu
 
 - type: Tag
+  id: Citrus # Artifact citrus trigger
+
+- type: Tag
+  id: Cloning # BountySalvageCloning
+
+- type: Tag
   id: CluwneBeastWearable
 
 - type: Tag
@@ -184,6 +205,12 @@
 
 - type: Tag
   id: CombatRemote # Tag: used on the RemoteSignallerCombat
+
+- type: Tag
+  id: CommieBasicWeapon # BountySalvageCommieWeapons
+
+- type: Tag
+  id: CommieAdvancedWeapon # BountySalvageAKMS
 
 - type: Tag
   id: CommieID # BountySalvageCommieID
@@ -240,7 +267,19 @@
   id: DogEmotes
 
 - type: Tag
+  id: DragonMeat # BountySalvageDragon
+
+- type: Tag
+  id: Drone
+
+- type: Tag
+  id: DroneUsable
+
+- type: Tag
   id: DrinkCarton
+
+- type: Tag
+  id: DrinkMetamorphic
 
 - type: Tag
   id: DurandArmor
@@ -288,6 +327,9 @@
   id: Felionoid
 
 - type: Tag
+  id: Experiment
+
+- type: Tag
   id: FreeMag
 
 - type: Tag
@@ -306,10 +348,16 @@
   id: FringeTraitBackground
 
 - type: Tag
+  id: FragileImplant # Implant disintegrates on extraction
+
+- type: Tag
   id: FrontierTraitBackground
 
 - type: Tag
   id: FlatpackBlacklist
+
+- type: Tag
+  id: FloppyDisk # Artifact floppy storage trigger
 
 - type: Tag
   id: GearAcidifier
@@ -325,6 +373,15 @@
 
 - type: Tag
   id: GrenadeLessLethal #Ammo for the peacekeeper
+
+- type: Tag
+  id: GunUpgradeDamageExp
+
+- type: Tag
+  id: GunUpgradeRangeExp
+
+- type: Tag
+  id: GunUpgradeReloadSpeedExp
 
 - type: Tag
   id: GygaxArmor
@@ -355,6 +412,9 @@
 
 - type: Tag
   id: HandheldEngineeringMonitor #CE's handheld monitor
+
+- type: Tag
+  id: Heart
 
 - type: Tag
   id: HighTierCell #Blacklist for stunprod, used by the hyper and microreactor.
@@ -432,6 +492,9 @@
   id: K9Wearable
 
 - type: Tag
+  id: Keg # BountySalvageKeg
+
+- type: Tag
   id: L6Saw
 
 - type: Tag
@@ -457,6 +520,21 @@
 
 - type: Tag
   id: MagazineBattery
+
+- type: Tag
+  id: MagazineBoltPistol
+
+- type: Tag
+  id: MagazineBoltRifle
+
+- type: Tag
+  id: MagazineBoxBoltRifle
+
+- type: Tag
+  id: MetalHydrogenHelmet # ConstructionGraph: AtmosianHelmet
+
+- type: Tag
+  id: CartridgeImpactBolt
 
 - type: Tag
   id: MagazineL10DMR
@@ -546,6 +624,9 @@
   id: MechReactor
 
 - type: Tag
+  id: MechReactorExpedition # BountySalvageReactor
+
+- type: Tag
   id: MechThruster
 
 - type: Tag
@@ -571,6 +652,15 @@
   id: ModularBarrel
 
 - type: Tag
+  id: ModularHudGoggles
+
+- type: Tag
+  id: ModularHudSingleEye
+
+- type: Tag
+  id: ModularHudSyndicate
+
+- type: Tag
   id: ModuleBlacklistXenoborgEngiWeapon
 
 - type: Tag
@@ -586,6 +676,9 @@
   id: Nexus
 
 - type: Tag
+  id: NonAnimalCube
+
+- type: Tag
   id: NonLethalMech # Used to allow nonlethal mech equipment on a mech.
 
 - type: Tag
@@ -599,6 +692,9 @@
 
 - type: Tag
   id: OmniCyberEyes
+
+- type: Tag
+  id: Outbreak
 
 - type: Tag
   id: OvenMachineBoard
@@ -634,6 +730,9 @@
   id: PowerCellTiny
 
 - type: Tag
+  id: Protolathe # BountyProtolatheMachineBoard
+
+- type: Tag
   id: PrototypeJawsOfLife
 
 - type: Tag
@@ -641,9 +740,6 @@
 
 - type: Tag
   id: RemoteSignallerAdvanced # Crafting whitelist: Advanced Deadman remote trigger
-
-- type: Tag
-  id: RequiredForLmgTag
 
 - type: Tag
   id: Resomi
@@ -670,6 +766,9 @@
 
 - type: Tag
   id: Salad # BountySalad
+
+- type: Tag
+  id: SalvageExperimentStar
 
 - type: Tag
   id: SalvageTicket
@@ -750,6 +849,9 @@
   id: StoveMachineBoard
 
 - type: Tag
+  id: StutterImmune
+
+- type: Tag
   id: SurgeryCompatibleArmor
 
 - type: Tag
@@ -777,13 +879,13 @@
   id: TiderAnvilParts
 
 - type: Tag
-  id: TrashBagBlue
-
-- type: Tag
   id: UnDissolvable
 
 - type: Tag
   id: USSPTraitBackground
+
+- type: Tag
+  id: Vodkizine # BountySalvageVodkizine
 
 - type: Tag
   id: Vial
@@ -792,16 +894,37 @@
   id: VinylSleeve # Storage whitelist: RecordMilkCrate, SyndicateMilkCrate
 
 - type: Tag
+  id: VinylSleeveFit
+
+- type: Tag
   id: WallmountMassScannerElectronics
+
+- type: Tag
+  id: WhitelistChameleonCollar # Chameleon key for chameleon collars
 
 - type: Tag
   id: Wizard
 
 - type: Tag
+  id: WrappedCube
+
+- type: Tag
   id: RawXenoMeat #BountySalvageRawXenoMeat
+
+- type: Tag
+  id: Xeno
+
+- type: Tag
+  id: XenoEmotes
 
 - type: Tag
   id: XenomoproachWearable # Allows xenomoproach to wear it, really only used for headsets. No system in place to use differing displacements for something with a given prefix/suffix, so this is needed for now.
 
 - type: Tag
   id: XenosDisasterSurvivorTraitBackground
+
+- type: Tag
+  id: StationRadioCircuitboard
+
+- type: Tag
+  id: AirlockCyclerElectronics # ConstructionGraph: AirlockCycler

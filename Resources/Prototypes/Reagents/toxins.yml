@@ -82,18 +82,13 @@
   - Medical
   metabolisms:
     Bloodstream:
+      metabolismRate: 0.25 # Starlight: ChloralHydrate is slow and weak, but active for longer.
       effects:
-      - !type:Emote
-        emote: Yawn
-        showInChat: true
-        probability: 0.1
-      - !type:MovementSpeedModifier
-        walkSpeedModifier: 0.65
-        sprintSpeedModifier: 0.65
-      - !type:ModifyStatusEffect
-        effectProto: StatusEffectDrowsiness
-        time: 4
-        type: Update
+      # Starlight - SleepinessStatusEffect handles yawning and movement slowdown.
+      - !type:ModifySleepiness # Starlight: ChloralHydrate can put someone to sleep, but not easily
+        effectProto: StatusEffectSleepiness
+        maximumSleepiness: 60s
+        time: 1.8 # Starlight
       - !type:HealthChange
         conditions:
         - !type:ReagentCondition
@@ -107,11 +102,11 @@
         conditions:
         - !type:ReagentCondition
           reagent: ChloralHydrate
-          min: 0.26
+          min: 0.13
         - !type:MetabolizerTypeCondition
           type: [ Cyclorite ]
         reagent: ChloralHydrate
-        amount: 0.25
+        amount: 0.12
         # Starlight-End
 
 - type: reagent
@@ -127,11 +122,22 @@
     Bloodstream:
       effects:
         - !type:HealthChange
+          #Starlight Start
+          conditions:
+          - !type:MetabolizerTypeCondition
+            type: [ Xeno ]
+            inverted: true
+          #Starlight End
           damage:
             types:
               Poison: 2
         - !type:Vomit
           conditions:
+          #Starlight Start
+          - !type:MetabolizerTypeCondition
+            type: [ Xeno ]
+            inverted: true
+          #Starlight End
           - !type:ReagentCondition
             reagent: GastroToxin
             min: 2
@@ -161,6 +167,12 @@
     Bloodstream:
       effects:
       - !type:HealthChange
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
         damage:
           types:
             Poison: 1
@@ -199,6 +211,12 @@
       methods: [ Touch ]
       effects:
       - !type:HealthChange
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
         ignoreResistances: false
         damage:
           types:
@@ -206,11 +224,23 @@
       - !type:Emote
         emote: Scream
         probability: 0.3
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
   metabolisms:
     Bloodstream:
       metabolismRate : 3.00 # High damage, high metabolism rate. You need a lot of units to crit. Simulates acid burning through you fast.
       effects:
       - !type:HealthChange
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
         damage:
           types:
             Caustic: 11.0
@@ -219,9 +249,21 @@
         visualType: Large
         messages: [ "generic-reagent-effect-burning-insides" ]
         probability: 0.33
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
       - !type:Emote
         emote: Scream
         probability: 0.3
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
       # Starlight-Start: Cyclorite Metabolism
       - !type:AdjustReagent
         conditions:
@@ -247,8 +289,20 @@
     Bloodstream:
       effects:
       - !type:SatiateThirst
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
         factor: -1.5
       - !type:HealthChange
+        #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+        #Starlight End
         ignoreResistances: true
         damage:
           types:
@@ -282,11 +336,23 @@
       methods: [ Touch ]
       effects:
       - !type:HealthChange
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         ignoreResistances: false
         damage:
           types:
             Caustic: 0.3
       - !type:Emote
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         emote: Scream
         probability: 0.2
   metabolisms:
@@ -294,15 +360,42 @@
       metabolismRate: 3.00 # High damage, high metabolism rate. You need a lot of units to crit. Simulates acid burning through you fast.
       effects:
       - !type:HealthChange
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         damage:
           types:
             Caustic: 8
+      #Starlight Start
+      - !type:HealthChange
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+        damage:
+          types:
+            Bloodloss: -1
+      #Starlight End
       - !type:PopupMessage
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         type: Local
         visualType: Large
         messages: [ "generic-reagent-effect-burning-insides" ]
         probability: 0.33
       - !type:Emote
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         emote: Scream
         probability: 0.25
       # Starlight-Start: Cyclorite Metabolism
@@ -342,11 +435,23 @@
       methods: [ Touch ]
       effects:
       - !type:HealthChange
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         ignoreResistances: false
         damage:
           types:
             Caustic: 0.1
       - !type:Emote
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         emote: Scream
         probability: 0.1
   metabolisms:
@@ -354,15 +459,42 @@
       metabolismRate: 3.00 # Okay damage, high metabolism rate. You need a lot of units to crit. Simulates acid burning through you fast.
       effects:
       - !type:HealthChange
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         damage:
           types:
             Caustic: 5
+      #Starlight Start
+      - !type:HealthChange
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+        damage:
+          types:
+            Bloodloss: -0.5
+      #Starlight End
       - !type:PopupMessage
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         type: Local
         visualType: Large
         messages: [ "generic-reagent-effect-burning-insides" ]
         probability: 0.33
       - !type:Emote
+      #Starlight Start
+        conditions:
+        - !type:MetabolizerTypeCondition
+          type: [ Xeno ]
+          inverted: true
+      #Starlight End
         emote: Scream
         probability: 0.2
       # Starlight-Start: Cyclorite Metabolism
@@ -393,6 +525,7 @@
   plantMetabolism:
   - !type:PlantAdjustMutationLevel
     amount: 1
+    mutationTable: RandomPlantMutations
   metabolisms:
     Bloodstream:
       effects:
@@ -455,8 +588,9 @@
       effects:
       - !type:HealthChange
         damage:
-          groups:
-            Airloss: 10
+          types:
+            Asphyxiation: 5
+            Bloodloss: 5
       # Starlight-Start: Cyclorite Metabolism
       - !type:AdjustReagent
         conditions:
@@ -514,8 +648,8 @@
       - !type:HealthChange
         probability: 0.1
         damage:
-          groups:
-            Brute: 2
+          types:
+            Blunt: 2
       # todo: cough, sneeze
       - !type:HealthChange
         conditions:
@@ -523,10 +657,9 @@
           reagent: Histamine
           min: 45
         damage:
-          groups:
-            Brute: 2
-            Airloss: 2
           types:
+            Blunt: 2
+            Asphyxiation: 2
             Poison: 2
       - !type:PopupMessage
         type: Local
@@ -569,7 +702,10 @@
       - !type:HealthChange
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [Animal, Avali] # Starlight, add Avali
+          type: [Animal, Arachnid, Avali, Experiment] # Starlight, add Avali
+        - !type:ReagentCondition # Starlight-Start prevent poisoning with Stelli Syrup
+          reagent: StellibininSyrup
+          max: 0.04 # Starlight-End
         damage:
           types:
             Poison: 0.4
@@ -577,7 +713,10 @@
         probability: 0.04 #Scaled for time, not metabolismrate.
         conditions:
           - !type:MetabolizerTypeCondition
-            type: [Animal, Avali] # Starlight, add Avali
+            type: [Animal, Arachnid, Avali, Experiment] # Starlight, add Avali
+          - !type:ReagentCondition # Starlight-Start prevent poisoning with Stelli Syrup
+            reagent: StellibininSyrup
+            max: 0.04 # Starlight-End
       # Starlight-Start: Cyclorite Metabolism
       - !type:AdjustReagent
         conditions:
@@ -699,13 +838,14 @@
   physicalDesc: reagent-physical-desc-clumpy
   flavor: bitter
   color: "#FFFFE5"
+  # Starlight/Moff: Keep these edits inline until indexed reagent partials validate.
   metabolisms:
     Bloodstream:
       effects:
       - !type:PopupMessage
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Animal, Vox, Vampire, Avali, Rodentia, Neocyte, Doll ] # Starlight - add Vampire, Avali, Rodentia and Doll / FH - add Neocyte
+          type: [ Animal, Vox, Arachnid, Bloodsucker, Vampire, Avali, Rodentia, Neocyte, Doll, Experiment, Xeno ] # Starlight/FH/Moff
           inverted: true
         type: Local
         visualType: MediumCaution
@@ -715,12 +855,12 @@
         probability: 0.1
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Animal, Vox, Plant, Vampire, Avali, Rodentia, Neocyte, Doll ] # Starlight - add Vampire, Avali, Rodentia and Doll / FH - add Neocyte
+          type: [ Animal, Vox, Plant, Arachnid, Bloodsucker, Vampire, Avali, Rodentia, Neocyte, Doll, Experiment, Xeno ] # Starlight/FH/Moff
           inverted: true
       - !type:HealthChange
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Animal, Vox, Plant, Vampire, Avali, Rodentia, Neocyte, Doll ] # Starlight - add Vampire, Avali, Rodentia and Doll / FH - add Neocyte
+          type: [ Animal, Vox, Plant, Arachnid, Bloodsucker, Vampire, Avali, Rodentia, Neocyte, Doll, Experiment, Xeno ] # Starlight/FH/Moff
           inverted: true
         damage:
           types:
@@ -735,7 +875,7 @@
       - !type:AdjustReagent
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Animal, Vampire, Avali, Rodentia, Neocyte, Doll ] # Starlight - add Vampire, Avali, Rodentia and Doll / FH - add Neocyte
+          type: [ Animal, Arachnid, Bloodsucker, Vampire, Avali, Rodentia, Neocyte, Doll, Experiment ] # Starlight/FH/Moff
         reagent: Protein
         amount: 0.5
       - !type:AdjustReagent
@@ -744,8 +884,7 @@
           type: [ Vox ]
         reagent: Protein
         amount: 0.25
-      # Starlight Start
-      # Cyclorite Metabolism
+      # Starlight-Start: Cyclorite Metabolism
       - !type:AdjustReagent
         conditions:
         - !type:ReagentCondition
@@ -755,7 +894,7 @@
           type: [ Cyclorite ]
         reagent: UncookedAnimalProteins
         amount: 0.25
-        # Starlight-End
+      # Starlight-End
 
 - type: reagent
   id: Allicin
@@ -775,7 +914,7 @@
           reagent: Allicin
           min: 1
         - !type:MetabolizerTypeCondition
-          type: [Animal]
+          type: [Animal, Arachnid, Experiment] # Starlight
         damage:
           types:
             Poison: 0.06
@@ -927,8 +1066,9 @@
   flavor: medicine
   color: "#435166"
   plantMetabolism:
-  - !type:PlantMutateChemicals
-    randomPickBotanyReagent: EvilRandomFillSolution
+  - !type:PlantAdjustMutationLevel
+    amount: 1
+    mutationTable: EvilPlantMutations
   - !type:PlantAdjustToxins
     amount: 10
   metabolisms:
@@ -944,8 +1084,9 @@
         sprintSpeedModifier: 0.8
       - !type:HealthChange
         damage:
-          groups:
-            Airloss: 2
+          types:
+            Asphyxiation: 1
+            Bloodloss: 1
       # Starlight-Start: Cyclorite Metabolism
       - !type:AdjustReagent
         conditions:

@@ -1,5 +1,6 @@
 construction-graph-tag-disposal-pipe = disposal pipe
 construction-graph-tag-wallmount-mass-scanner-electronics = wallmount mass scanner electronics
+construction-graph-tag-airlock-cycler-electronics = airlock controller electronics
 
 construction-graph-tag-meson = engineering goggles
 construction-graph-tag-shadekin-eye = shadekin eyes
@@ -15,3 +16,5 @@ construction-graph-tag-cheap-sunglasses = Cheap Sunglasses
 
 construction-graph-tag-remote-signaller = a basic remote signaler
 construction-graph-tag-remote-signaller-adv = an advanced remote signaler
+
+drone-construction-guide-string = Insert a left and right cyborg arm into the drone shell.

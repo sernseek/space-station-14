@@ -4,6 +4,7 @@ using Content.Server._Starlight.Radio.Systems;
 using Content.Server.Administration.Logs;
 using Content.Server.Chat.Systems;
 using Content.Server.Power.Components;
+using Content.Shared._Starlight.Chat;
 using Content.Shared._Starlight.Language;
 using Content.Shared._Starlight.Silicons.Borgs;
 using Content.Shared._Starlight.Speech;
@@ -29,6 +30,7 @@ using Content.Shared._Starlight.Language.Components;
 using Content.Shared.Ghost;
 using Content.Server._Starlight.TextToSpeech;
 using Content.Shared._Starlight.Clothing;
+using Content.Shared.Popups;
 
 namespace Content.Server.Radio.EntitySystems;
 
@@ -129,21 +131,11 @@ public sealed partial class RadioSystem : EntitySystem
         bool escapeMarkup = true,
         HeadsetLoudModeComponent? loudComp = null) // Starlight
     {
-        // Starlight - start
-        if (channel.AutoTranslate is not null)
-            language = _language.GetLanguagePrototype(channel.AutoTranslate.Value);
-
-        if (language == null)
-            language = _language.GetLanguage(messageSource);
-
-        if ((!language.Speech.AllowRadio && language.Speech.RadioChannel is not null && language.Speech.RadioChannel != channel)
-            || (!language.Speech.AllowRadio && language.Speech.RadioChannel is null))
-            return;
-        // Starlight - End
-
-        // TODO if radios ever garble / modify messages, feedback-prevention needs to be handled better than this.
-        if (!_messages.Add(message.Text)) // Starlight
-            return;
+        // Starlight Start
+        if (SendRadioMessageSL(messageSource, channel, ref language)) return;
+        if (language is null) return;
+        if (!_messages.Add(message.Text)) return;  // TODO if radios ever garble / modify messages, feedback-prevention needs to be handled better than this.
+        // Starlight end
 
         var meta = MetaData(messageSource);
         var entityName = meta?.EntityName ?? string.Empty;
@@ -179,15 +171,15 @@ public sealed partial class RadioSystem : EntitySystem
 
         // most radios are relayed to chat, so lets parse the chat message beforehand
 
-        var msg = new ChatMessage(ChatChannel.Radio, content, wrappedMessage, NetEntity.Invalid, null); // Starlight
+        var msg = new ChatMessage(ChatChannel.Radio, content, wrappedMessage, GetNetEntity(messageSource), null, repeatCheckSender: !HasComp<ChatRepeatIgnoreSenderComponent>(radioSource), repeatChannel: channel.ID); // Starlight Edit: Chat stacking
 
         var obfuscated = _language.ObfuscateSpeech(content, language);
         var obfuscatedWrapped = WrapRadioMessage(messageSource, channel, selectedName, obfuscated, language, true, loudComp);
-        var notUdsMsg = new ChatMessage(ChatChannel.Radio, obfuscated, obfuscatedWrapped, NetEntity.Invalid, null) { Chime = chime, };
+        var notUdsMsg = new ChatMessage(ChatChannel.Radio, obfuscated, obfuscatedWrapped, GetNetEntity(messageSource), null, repeatCheckSender: !HasComp<ChatRepeatIgnoreSenderComponent>(radioSource), repeatChannel: channel.ID) { Chime = chime, }; // Starlight Edit: Chat stacking
         var ev = new RadioReceiveEvent(messageSource, channel, msg, notUdsMsg, language, radioSource, []);
 
         var ghostwrappedMessage = WrapRadioMessage(messageSource, channel, name, content, language, false, loudComp);
-        var ghostmsg = new ChatMessage(ChatChannel.Radio, content, ghostwrappedMessage, NetEntity.Invalid, null);
+        var ghostmsg = new ChatMessage(ChatChannel.Radio, content, ghostwrappedMessage, GetNetEntity(messageSource), null, repeatCheckSender: !HasComp<ChatRepeatIgnoreSenderComponent>(radioSource), repeatChannel: channel.ID); // Starlight Edit: Chat stacking
         var ghostev = new RadioReceiveEvent(messageSource, channel, ghostmsg, notUdsMsg, language, radioSource, []);
         // Starlight - End
 
@@ -206,7 +198,7 @@ public sealed partial class RadioSystem : EntitySystem
             var languageQuery = EntityQueryEnumerator<LanguageSpeakerComponent>();
             while (canSend && languageQuery.MoveNext(out var receiver, out var _))
             {
-                if (_language.CanUnderstand(receiver, language.ID, false) || HasComp<GhostComponent>(receiver))
+                if (_language.CanUnderstand(receiver, language.ID, false) || HasComp<GhostComponent>(receiver) || messageSource == receiver)
                 {
                     // check if message can be sent to specific receiver
                     var attemptEv = new RadioReceiveAttemptEvent(channel, radioSource, receiver);
@@ -261,15 +253,16 @@ public sealed partial class RadioSystem : EntitySystem
         }
 
         // Starlight start
-        RaiseLocalEvent(new RadioSpokeEvent
-        {
-            Channel = channel,
-            Source = messageSource,
-            Message = message,
-            Language = language,
-            SuppressTTS = suppressTTS,
-            Receivers = [.. ev.Receivers]
-        });
+        if (canSend)
+            RaiseLocalEvent(new RadioSpokeEvent
+            {
+                Channel = channel,
+                Source = messageSource,
+                Message = message,
+                Language = language,
+                SuppressTTS = suppressTTS,
+                Receivers = [.. ev.Receivers]
+            });
         // Starlight end
 
         if (name != Name(messageSource))
@@ -331,11 +324,11 @@ public sealed partial class RadioSystem : EntitySystem
 
         var wrappedMessage = WrapCustomRadioMessage(messageSource, channel, name, content, language, false, loudComp);
 
-        var msg = new ChatMessage(ChatChannel.Radio, content, wrappedMessage, NetEntity.Invalid, null);
+        var msg = new ChatMessage(ChatChannel.Radio, content, wrappedMessage, GetNetEntity(messageSource), null, repeatCheckSender: !HasComp<ChatRepeatIgnoreSenderComponent>(radioSource), repeatChannel: channel.Id); // Starlight Edit: Chat stacking
 
         var obfuscated = _language.ObfuscateSpeech(content, language);
         var obfuscatedWrapped = WrapCustomRadioMessage(messageSource, channel, name, obfuscated, language, true, loudComp);
-        var notUdsMsg = new ChatMessage(ChatChannel.Radio, obfuscated, obfuscatedWrapped, NetEntity.Invalid, null) { Chime = chime, };
+        var notUdsMsg = new ChatMessage(ChatChannel.Radio, obfuscated, obfuscatedWrapped, GetNetEntity(messageSource), null, repeatCheckSender: !HasComp<ChatRepeatIgnoreSenderComponent>(radioSource), repeatChannel: channel.Id) { Chime = chime, }; // Starlight Edit: Chat stacking
         var ev = new RadioReceiveEvent(messageSource, null, msg, notUdsMsg, language, radioSource, []);
 
         var sendAttemptEv = new CustomRadioSendAttemptEvent(channel, radioSource);

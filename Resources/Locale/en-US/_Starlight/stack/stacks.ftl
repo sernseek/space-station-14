@@ -60,6 +60,7 @@ stack-adamantine = {$amount ->
 
 stack-bluespace-tile = bluespace tile
 stack-sepia-xenobiology-tile = sepia tile
+stack-light-tile = light floor tile
 
 stack-brutepack = {$amount ->
     [1] brutepack
@@ -146,4 +147,13 @@ stack-abyssium-ore = {$amount ->
 stack-abyssium-bar = {$amount ->
     [1] abyssium bar
     *[other] abyssium bars
+}
+stack-sandbag = {$amount ->
+    [1] sandbag
+    *[other] sandbags
+}
+
+stack-chitin = {$amount ->
+    [1] glob of chitinous wax
+    *[other] globs of chitinous wax
 }

@@ -202,7 +202,7 @@
   name: security dispenser
   components:
   - type: AccessReader
-    access: [["Security"], ["Cadet"]]
+    access: [["Security"]]
   - type: Sprite
     sprite: _Starlight/Structures/Machines/VendingMachines/security.rsi
   - type: Store
@@ -252,6 +252,8 @@
     - SalvageConsumeables
     - SalvageMercenaryEquipment
     - SalvageCybernetics
+    - SalvageBlueprints
+    - SalvageSurplus
     - SLSecret
     currencyWhitelist:
     - SalvageTicket
@@ -457,7 +459,7 @@
     - state: panel
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: AccessReader
-    access: [["Medical"], ["Security"]]
+    access: [["Brigmedic"], ["Medical"]]
 
 # Syndicate stuff for Serpentcrest and any other uses
 - type: entity

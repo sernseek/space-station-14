@@ -13,6 +13,9 @@ reagent-desc-dark-blood = The blood from a creature of The Dark.
 reagent-name-cyclorite-blood = diluted nitric acid blood
 reagent-desc-cyclorite-blood = Feels slightly acidic.
 
+reagent-name-xeno-blood = fluorosulfuric blood
+reagent-desc-xeno-blood = It is trying to eat the container...
+
 reagent-name-amalgam = amalgamation blood
 reagent-desc-amalgam = Reminds you of human blood, slime, ammonia, nitric acid... A lot, really.
 
@@ -27,3 +30,6 @@ reagent-desc-pseudoceramic-platelets = Coarse, crunchy and slimy...
 
 reagent-name-doll-blood = anomalous blood
 reagent-desc-doll-blood = It's like a thick meat soup...
+
+reagent-name-sawian-blood = sawian blood
+reagent-desc-sawian-blood = Artificially created blood as a result of old bio-engineering technologies.

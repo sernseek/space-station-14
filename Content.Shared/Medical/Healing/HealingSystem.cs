@@ -25,6 +25,7 @@ using Content.Shared._FarHorizons.Medical.ConditionalHealing;
 using Content.Shared.Eye.Blinding.Components;
 using Content.Shared.Eye.Blinding.Systems;
 using Content.Shared._Starlight.Medical.Body.Systems;
+using Content.Shared.Whitelist;
 
 namespace Content.Shared.Medical.Healing;
 
@@ -42,6 +43,7 @@ public sealed partial class HealingSystem : EntitySystem
     [Dependency] private SharedSolutionContainerSystem _solutionContainerSystem = default!;
     [Dependency] private ConditionalHealingSystem _conditionalHealing = default!; // Far Horizons
     [Dependency] private BlindableSystem _blindable = default!; // Far Horizons
+    [Dependency] private EntityWhitelistSystem _whitelist = default!; // Starlight
 
     public override void Initialize()
     {
@@ -169,11 +171,11 @@ public sealed partial class HealingSystem : EntitySystem
 
     private bool HasDamage(Entity<HealingComponent> healing, Entity<DamageableComponent> target)
     {
-        var damageableDict = target.Comp.Damage.DamageDict;
+        var damageableDict = _damageable.GetAllDamage(target.AsNullable()).DamageDict;
         var healingDict = healing.Comp.Damage.DamageDict;
         foreach (var type in healingDict)
         {
-            if (damageableDict[type.Key].Value > 0)
+            if (damageableDict.TryGetValue(type.Key, out var amount) && amount > 0)
             {
                 return true;
             }
@@ -264,6 +266,15 @@ public sealed partial class HealingSystem : EntitySystem
             return false;
         }
 
+        // Starlight Start
+        // If we have a whitelist and are not on the whitelist OR we have a blacklist and are on the blacklist, cancel the doafter.
+        if ((healing.Comp.Whitelist != null && !_whitelist.IsValid(healing.Comp.Whitelist, target.Owner)) || (healing.Comp.Blacklist != null && _whitelist.IsValid(healing.Comp.Blacklist, target.Owner)))
+        {
+            _popupSystem.PopupClient(Loc.GetString("medical-item-whitelist-blacklist-failed", ("item", healing.Owner), ("target", Identity.Entity(target.Owner, EntityManager))), healing, user);
+            return false;
+        }
+        // Starlight End
+
         _audio.PlayPredicted(healing.Comp.HealingBeginSound, healing, user);
 
         var isNotSelf = user != target.Owner;
@@ -306,7 +317,7 @@ public sealed partial class HealingSystem : EntitySystem
         if (!_mobThresholdSystem.TryGetThresholdForState(ent, MobState.Critical, out var amount, ent.Comp2))
             return 1;
 
-        var percentDamage = (float)(ent.Comp1.TotalDamage / amount);
+        var percentDamage = (float)(_damageable.GetTotalDamage(ent) / amount);
         //basically make it scale from 1 to the multiplier.
 
         var output = percentDamage * (mod - 1) + 1;

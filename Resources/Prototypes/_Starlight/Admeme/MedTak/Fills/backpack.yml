@@ -12,12 +12,13 @@
         - id: BodyBagMedTakFolded
         - id: MedTakHoverBedSpawnFolded
         - id: MagazineBoxPistol40SP
-        - id: SurgicalKitMedTak
+        - id: SurgicalKitMedTakFilled
         - id: PowerCellHigh
         - id: DrinkMREFlask
         - id: FoodSnackNutribrick
         - id: MedTakImplanterMindShield
         - id: MedTakImplanterTrackingTeam
+        - id: MedtakATM
 
 - type: entity
   id: ClothingBackpackMedTakFilledBasic
@@ -61,8 +62,8 @@
     containers:
       storagebase: !type:AllSelector
         children:
-        - id: MagazineBoxRifleHP
-        - id: MagazineBoxRifleSP
+        - id: MagazineBoxVariableMedium
+          amount: 2
         - id: MagazineBoxPistol40SP
         - id: DrinkMREFlask
         - id: FoodSnackNutribrick
@@ -80,8 +81,8 @@
     containers:
       storagebase: !type:AllSelector
         children:
-        - id: MagazineBoxRifleHP
-        - id: MagazineBoxRifleSP
+        - id: MagazineBoxVariableMedium
+          amount: 2
         - id: MagazineBoxPistol40SP
         - id: DrinkMREFlask
         - id: FoodSnackNutribrick
@@ -110,3 +111,5 @@
         - id: MedkitCombatMedTakFilled
         - id: DoubleEmergencyOxygenTankFilled
         - id: ClothingMaskGasSecurity
+        - id: MedtakATM
+        - id: MedtakPortableCameraMonitor

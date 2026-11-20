@@ -43,9 +43,8 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
             HandleFilter();
         };
 
-        #region Starlight
-        CategorySearchBar.OnTextChanged += _ => HandleCategorySearch();
-        #endregion
+        InitializeGuidebookSearch(); // Starlight
+        InitializeSidebarToggle(); // Starlight
     }
 
     public void HandleClick(string link)
@@ -55,6 +54,7 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
 
         if (Tree.TryGetIndexFromMetadata(entry, out var index))
         {
+            ClearCategorySearch(); // Starlight
             Tree.ExpandParentEntries(index.Value);
             Tree.SetSelectedIndex(index);
         }
@@ -180,6 +180,7 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
         ProtoId<GuideEntryPrototype>? selected = null)
     {
         _entries = entries;
+        ClearCategorySearch(); // Starlight
         RepopulateTree(rootEntries, forceRoot);
         ClearSelectedGuide();
 
@@ -195,6 +196,8 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
             TreeBox.Visible = true;
             Split.ResizeMode = SplitContainer.SplitResizeMode.RespectChildrenMinSize;
         }
+
+        SetSidebarAvailable(TreeBox.Visible); // Starlight
 
         if (selected != null)
         {
@@ -228,6 +231,7 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
         ProtoId<GuideEntryPrototype>? forcedRoot = null)
     {
         Tree.Clear();
+        ClearGuidebookSearchIndex(); // Starlight
 
         HashSet<ProtoId<GuideEntryPrototype>> addedEntries = new();
 
@@ -263,6 +267,7 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
         item.Metadata = entry;
         var name = Loc.GetString(entry.Name);
         item.Label.Text = name;
+        IndexGuidebookEntry(item, parent, entry); // Starlight
 
         foreach (var child in entry.Children)
         {
@@ -271,58 +276,6 @@ public sealed partial class GuidebookWindow : PopOutFancyWindow, ILinkClickHandl
 
         return item;
     }
-
-    #region Starlight
-    private void HandleCategorySearch()
-    {
-        var query = CategorySearchBar.Text.Trim();
-
-        if (query.Length == 0)
-        {
-            CategoryNoResultsLabel.Visible = false;
-            foreach (var topLevel in Tree.Body.Children.ToList())
-                topLevel.Visible = true;
-            return;
-        }
-
-        var anyVisible = false;
-        foreach (var topLevel in Tree.Body.Children.ToList())
-        {
-            if (topLevel is not TreeItem item)
-                continue;
-
-            // Show root if it or any descendant matches
-            var matches = SubtreeContainsMatch(item, query);
-            item.Visible = matches;
-            if (matches)
-                anyVisible = true;
-        }
-
-        CategoryNoResultsLabel.Visible = !anyVisible;
-    }
-
-    private static bool SubtreeContainsMatch(TreeItem item, string query)
-    {
-        if (MatchesCategoryQuery(item.Label.Text ?? string.Empty, query))
-            return true;
-
-        foreach (var child in item.Body.Children)
-        {
-            if (child is TreeItem childItem && SubtreeContainsMatch(childItem, query))
-                return true;
-        }
-
-        return false;
-    }
-
-    private static bool MatchesCategoryQuery(string name, string query)
-    {
-        var words = query.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-        if (words.Length == 0)
-            return true;
-        return words.All(word => name.Contains(word, StringComparison.OrdinalIgnoreCase));
-    }
-    #endregion
 
     private void HandleFilter()
     {

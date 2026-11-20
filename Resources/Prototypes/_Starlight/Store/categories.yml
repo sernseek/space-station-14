@@ -50,23 +50,23 @@
 
 - type: storeCategory
   id: SLBrigmedic
-  name: store-category-sl-brigmedic
+  name: store-category-slbrigmedic
 
 - type: storeCategory
   id: SLFashionSkirt
-  name: store-category-sl-fashion-skirt
+  name: store-category-slfashion-skirt
 
 - type: storeCategory
   id: SLFashionSuit
-  name: store-category-sl-fashion-suit
+  name: store-category-slfashion-suit
 
 - type: storeCategory
   id: SLFashionHead
-  name: store-category-sl-fashion-head
+  name: store-category-slfashion-head
 
 - type: storeCategory
   id: SLFashionOther
-  name: store-category-sl-fashion-other
+  name: store-category-slfashion-other
 
 # shuttle build uplink
 - type: storeCategory
@@ -134,6 +134,14 @@
   name: store-category-salvage-mercenary-equipment
 
 - type: storeCategory
+  id: SalvageBlueprints
+  name: store-category-salvage-blueprints
+
+- type: storeCategory
+  id: SalvageSurplus
+  name: store-category-salvage-surplus
+
+- type: storeCategory
   id: SalvageCybernetics
   name: store-category-salvage-cybernetics
 
@@ -150,37 +158,47 @@
 
 - type: storeCategory
   id: RevUplinkWeaponry
-  name: store-category-rev-uplink-weaponry
+  name: store-category-ussp-armaments
 
 - type: storeCategory
-  id: RevUplinkPassive
-  name: store-category-rev-uplink-passive
+  id: RevUplinkConversionRewards
+  name: store-category-ussp-global
 
 - type: storeCategory
   id: RevUplinkWearables
-  name: store-category-rev-uplink-wearables
+  name: store-category-ussp-wearables
 
 - type: storeCategory
   id: RevUplinkImplants
-  name: store-category-rev-uplink-implants
+  name: store-category-ussp-implants
 
 - type: storeCategory
   id: RevUplinkShuttle
-  name: store-category-rev-uplink-shuttle
+  name: store-category-ussp-shuttle
 
 - type: storeCategory
   id: RevUplinkDeception
-  name: store-category-rev-uplink-deception
+  name: store-category-ussp-deception
 
 - type: storeCategory
   id: RevUplinkPointless
-  name: store-category-rev-uplink-pointless
+  name: store-category-dagd
+
+- type: storeCategory
+  id: RevUplinkWar
+  name: store-category-ussp-war
 
 # Elf Cantrips
 
 - type: storeCategory
   id: CantripsStandard
   name: store-category-cantrips-standard
+
+# Xeno Evolutions
+
+- type: storeCategory
+  id: EvolutionsStandard
+  name: store-category-evolutions-standard
 
 # Languages
 - type: storeCategory
@@ -218,3 +236,7 @@
   id: ChangelingAbilityUtility
   name: store-ling-category-utility
   priority: 2
+
+- type: storeCategory
+  id: PollenPerks
+  name: pollen-perks-category-name

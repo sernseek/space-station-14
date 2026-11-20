@@ -2,7 +2,7 @@ trait-blindness-name = Blindness
 trait-blindness-desc = You are legally blind, and can't see clearly past a few meters in front of you.
 
 trait-poor-vision-name = Short-sighted
-trait-poor-vision-desc = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses.
+trait-poor-vision-desc = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses. You start with a prescription HUD module. Select modular glasses in your loadout, or get a frame from Medical.
 
 trait-narcolepsy-name = Narcolepsy
 trait-narcolepsy-desc = You fall asleep randomly.
@@ -36,6 +36,9 @@ trait-frontal-lisp-desc = You thpeak with a lithp.
 trait-socialanxiety-name = Stutter
 trait-socialanxiety-desc = You speak with a stutter.
 
+trait-southern-name = Southern drawl
+trait-southern-desc = You have a different way of speakin'.
+
 trait-snoring-name = Snoring
 trait-snoring-desc = You will snore while sleeping.
 
@@ -50,6 +53,9 @@ trait-french-desc = Your accent seems to have a certain «je ne sais quoi».
 
 trait-spanish-name = Spanish accent
 trait-spanish-desc = Hola señor, donde esta la biblioteca.
+
+trait-scottish-name = Scottish accent
+trait-scottish-desc = Ye're speaking like ae proper Scot!
 
 trait-painnumbness-name = Numb
 trait-painnumbness-desc = You lack any sense of feeling pain, being unaware of how hurt you may be.

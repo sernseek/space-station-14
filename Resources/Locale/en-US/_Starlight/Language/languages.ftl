@@ -9,8 +9,14 @@ language-GalacticCommon-description = The common galactic tongue, engineered for
 language-Sign-name = Galactic Sign Language
 language-Sign-description = A sign language commonly used for those who are deaf or mute. Especially popular with spacers, due to practicality in airless environments.
 
+language-ClassicalSign-name = Classical Sign Language
+language-ClassicalSign-description = An older, more obscure sign language originating from Terra. It is completely distinct from Galactic Sign Language.
+
 language-SolCommon-name = Sol Common
 language-SolCommon-description = An artifical language designed by the Trans-Solar Federation for ease of use and concise communication.
+
+language-CygniStandard-name = Cygni Standard
+language-CygniStandard-description = An artifical language designed to remind speakers of the warsaw pact, with little accuracy. Spoken widely across the USSP, alongside Galactic Common and Sol Common.
 
 language-Marish-name = Marish
 language-Marish-description = Where shadekin have a language rooted in empathy, there are still subtle tones and syllables that are as delicate as the emotions that shadekin normally communicate with.
@@ -74,7 +80,7 @@ language-Carptongue-name = Carptongue
 language-Carptongue-description = Various fishy sounds that might make sense to space carps.
 
 language-Xeno-name = Xeno
-language-Xeno-description = The common tongue of the xenos.
+language-Xeno-description = The common tongue of the xenos and their descendants.
 
 language-Cat-name = Cat
 language-Cat-description = Meow
@@ -148,5 +154,17 @@ language-Carpmind-description = Various fishy minds.
 language-Xenomind-name = Hivemind
 language-Xenomind-description = Various minds of xenos and terrors.
 
+language-Xenocongress-name = Xen'Kara Congress
+language-Xenocongress-description = The collective voices of the Xen'Kara people, heard only by the sender and their elected Queen.
+
+language-Xenoqueen-name = Words of the Queen
+language-Xenoqueen-description = The mental voice of the elected Voice of the Queen, heard by all individuals of a local hive.
+
 language-Squeakish-name = Squeakish
 language-Squeakish-description = The language of the Rodentia, made up of a series of chirps and squeaks.
+
+language-Penguin-name = Penguin
+language-Penguin-description = Squawk!
+
+language-Spore-name = Spores
+language-Spore-description = Communication over fungal spores.

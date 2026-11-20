@@ -50,12 +50,16 @@ using Content.Shared.Damage.Components;
 using Content.Server.Gravity;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Jittering;
+using Content.Shared.Implants;
+using Content.Shared.VoiceMask;
+using Content.Server.Speech.Components;
 using System.Linq;
 // Starlight edit start
 using Content.Server.GameTicking;
 using Content.Shared.Body.Components;
 // Starlight edit end
 using Content.Server._Starlight.Medical.Body.Systems;
+using Content.Shared._Starlight.Actions.EntitySystems;
 using Content.Shared._Starlight.Changeling;
 using Content.Server._Starlight.Objectives.Components;
 
@@ -98,7 +102,9 @@ public sealed partial class ChangelingSystem : EntitySystem
     [Dependency] private PullingSystem _pull = default!;
     [Dependency] private SharedCuffableSystem _cuffs = default!;
     [Dependency] private SharedPuddleSystem _puddle = default!;
+    [Dependency] private SharedLatchSystem _latch = default!;
     [Dependency] private SharedJitteringSystem _jitter = default!;
+    [Dependency] private SharedSubdermalImplantSystem _implant = default!;
     [Dependency] private NpcFactionSystem _factionSystem = default!;
     [Dependency] private MovementModStatusSystem _movementMod = default!;
     [Dependency] private GameTicker _gameTicker = default!; // Starlight
@@ -498,8 +504,13 @@ public sealed partial class ChangelingSystem : EntitySystem
 
         // exceptional comps check
         // there's no foreach for types i believe so i gotta thug it out yandev style.
-        if (HasComp<HeadRevolutionaryComponent>(uid))
-            EnsureComp<HeadRevolutionaryComponent>(newEnt);
+        // Copy so the conversion blacklist/whitelist carry over.
+        if (TryComp<HeadRevolutionaryComponent>(uid, out var headRevComp))
+        {
+            var headRevCompCopy = _serialization.CreateCopy(headRevComp, notNullableOverride: true);
+            RemComp<HeadRevolutionaryComponent>(newEnt);
+            AddComp(newEnt, headRevCompCopy);
+        }
         if (HasComp<RevolutionaryComponent>(uid))
             EnsureComp<RevolutionaryComponent>(newEnt);
 
@@ -569,6 +580,12 @@ public sealed partial class ChangelingSystem : EntitySystem
         RemComp<ThirstComponent>(uid);
         //EnsureComp<ZombieImmuneComponent>(uid); Starlight, we're bringing Lings into Zombies!
 
+        var voiceMask = SpawnAtPosition("ChangelingVoiceMask", Transform(uid).Coordinates);
+        _implant.ForceImplant(uid, voiceMask);
+
+        var voiceMaskComp = Comp<VoiceMaskComponent>(voiceMask);
+        voiceMaskComp.Active = false;
+
         // add actions
         foreach (var actionId in comp.BaseChangelingActions)
             _actions.AddAction(uid, actionId);
@@ -609,8 +626,8 @@ public sealed partial class ChangelingSystem : EntitySystem
 
         if (!args.DamageIncreased)
             return;
-
-        target.Damage.ClampMax(200); // we never die. UNLESS??
+        var damageSpec = _damage.GetAllDamage(ent.Owner);
+        damageSpec.ClampMax(200); // we never die. UNLESS??
     }
 
     private void OnComponentRemove(Entity<ChangelingComponent> ent, ref ComponentRemove args) => RemoveAllChangelingEquipment(ent, ent.Comp);

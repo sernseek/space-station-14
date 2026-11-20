@@ -149,9 +149,6 @@
   id: BotanyHatchet # Storage whitelist: ClothingBeltPlant. ItemMapper: ClothingBeltPlant
 
 - type: Tag
-  id: BotanyHoe # Storage whitelist: ClothingBeltPlant. ItemMapper: ClothingBeltPlant
-
-- type: Tag
   id: BotanyShovel # Storage whitelist: ClothingBeltPlant. ItemMapper: ClothingBeltPlant
 
 - type: Tag # Used for specifically chemistry bottles.
@@ -318,16 +315,19 @@
   id: Cleaver # Storage whitelist: ClothingBeltChef. ItemMapper: ClothingBeltChef
 
 - type: Tag
+  id: CleanerGrenade # Storage whitelist: ClothingBeltJanitor. ItemMapper: ClothingBeltJanitor
+
+- type: Tag
   id: ClothMade # SpecialDigestible: OrganMothStomach. Storage whitelist: FoodBoxCloth
 
 - type: Tag
-  id: ClownMask # CargoBounty: BountyClownCostume. ConstructionGraph: Honker, BananaClownMask
+  id: ClownMask # ConstructionGraph: Honker, BananaClownMask
 
 - type: Tag
   id: ClownRecorder # ConstructionGraph: ClownHardsuit
 
 - type: Tag
-  id: ClownShoes # CargoBounty: BountyClownCostume. ConstructionGraph: Honker, BananaClownShoes
+  id: ClownShoes # ConstructionGraph: Honker, BananaClownShoes
 
 - type: Tag
   id: ClownSuit # ConstructionGraph: BananaClownJumpsuit
@@ -487,6 +487,9 @@
 
 - type: Tag
   id: DoorElectronicsConfigurator # Used by ActivatableUIComponent on entity DoorElectronics to whitelist a tagged tool to open the UI.
+
+- type: Tag
+  id: DoorRemoteWhitelist # Doors with this tag can be interacted with door remotes
 
 - type: Tag
   id: DrinkBottle # Storage whitelist: BoozeDispenserEmpty, SodaDispenserEmpty
@@ -748,9 +751,6 @@
   id: HiViz # CargoBounty: BountyHiVizVest
 
 - type: Tag
-  id: Hoe # Used by PlantHolderSystem to make tagged entities a pseudo-tool for weeding plants. TODO this sucks!
-
-- type: Tag
   id: HolofanProjector # Storage whitelist: BaseClothingBeltEngineering
 
 - type: Tag
@@ -858,6 +858,9 @@
 
 - type: Tag
   id: LightBulb # Storage whitelist: BoxLightbulb. ConstructionGraph: HelmetJustice
+
+- type: Tag
+  id: LightReplacer # Storage whitelist: ClothingBeltJanitor. ItemMapper: ClothingBeltJanitor
 
 - type: Tag
   id: Lime # CargoBounty: BountyLime
@@ -1098,9 +1101,6 @@
 
 - type: Tag
   id: PlantBGone # Storage whitelist: ClothingBeltPlant. ItemMapper: ClothingBeltPlant
-
-- type: Tag
-  id: PlantSampleTaker # Used by PlantHolderSystem to make tagged entities a pseudo-tool for trimming seeds. TODO this sucks!
 
 - type: Tag
   id: PlasmaGlassShard # ConstructionGraph: ImprovisedArrowPlasma, PlasmaShiv, SpearPlasma
@@ -1444,6 +1444,9 @@
 
 - type: Tag
   id: TrashBag # Storage whitelist: BoxTrashbag, ClothingBeltJanitor, JanitorialTrolley. ItemMapper: JanitorialTrolley
+
+- type: Tag
+  id: TrashBagBlue # Storage whitelist: BoxTrashbag, ClothingBeltJanitor, JanitorialTrolley. ItemMapper: JanitorialTrolley
 
 - type: Tag
   id: Truncheon # Storage whitelist: ClothingBeltSecurity

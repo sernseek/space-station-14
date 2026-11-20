@@ -13,6 +13,7 @@
     - SpaceTrafficControlEventScheduler
     - ThiefGamerule
     - BasicRoundstartVariation
+    - XenoDemocracy
 
 - type: gamePreset
   id: SubXenoborgs
@@ -30,8 +31,10 @@
   - SubGamemodesRuleNoXenoborg # No two motherships. Allows wizards to spawn on Xenoborgs. Space is dangerous, yo.
   - BasicStationEventScheduler
   - MeteorSwarmScheduler
+  - WireCutScheduler
   - SpaceTrafficControlEventScheduler
   - BasicRoundstartVariation
+  - XenoDemocracy
 
 - type: gamePreset
   id: ShitStation
@@ -49,12 +52,14 @@
     - BasicStationEventScheduler
     - BasicStationEventScheduler # More events without ramping events. What could go wrong?
     - MeteorSwarmMildScheduler
+    - WireCutScheduler
     - SubGamemodesRule
     - BasicRoundstartVariation
     - BasicRoundstartVariation
     - BasicRoundstartVariation
     - BasicRoundstartVariation
     - BasicRoundstartVariation
+    - XenoDemocracy
 
 - type: gamePreset
   id: Vampire
@@ -66,13 +71,15 @@
   name: vampire-gamemode-title
   description: vampire-gamemode-description
   showInVote: True
-  minPlayers: 50
+  minPlayers: 20
   rules:
   - Vampire
   - SubGamemodesRuleNoVampires
   - BasicStationEventScheduler
   - MeteorSwarmScheduler
+  - WireCutScheduler
   - BasicRoundstartVariation
+  - XenoDemocracy
 
 - type: gamePreset
   id: Changeling
@@ -83,13 +90,15 @@
   name: changeling-gamemode-title
   description: changeling-gamemode-description
   showInVote: false
-  minPlayers: 25
+  minPlayers: 20
   rules:
     - SLChangeling
     - SLChangelingLess
     - SubGamemodesRuleNoChangelings
     - BasicStationEventScheduler
+    - WireCutScheduler
     - BasicRoundstartVariation
+    - XenoDemocracy
 
 - type: gamePreset
   id: Traitorling
@@ -99,13 +108,15 @@
   name: traitorling-title
   description: traitorling-description
   showInVote: true
-  minPlayers: 50
+  minPlayers: 20
   rules:
     - SLChangeling
     - Traitor
     - SubGamemodesRuleNoChangelings
     - BasicStationEventScheduler
+    - WireCutScheduler
     - BasicRoundstartVariation
+    - XenoDemocracy
 
 - type: gamePreset
   id: Vamptraitorling
@@ -119,18 +130,20 @@
   name: vamptraitorling-title
   description: vamptraitorling-description
   showInVote: true
-  minPlayers: 50
+  minPlayers: 25
   rules:
     - SLChangelingLess
     - TraitorLess
     - VampireLess
     - SubGamemodesRuleVampTraitorLing
     - BasicStationEventScheduler
+    - WireCutScheduler
     - BasicRoundstartVariation
-
+    - XenoDemocracy
 
 - type: gamePreset
   id: AlmostAllAtOnce
+  bypassCooldowns: true
   alias:
   - almostall
   - allnt
@@ -146,6 +159,7 @@
     - WizardDuel
     #- Xenoborgs
     - RampingStationEventScheduler
+    - WireCutScheduler
     - SLChangeling
     - SpaceTrafficControlEventScheduler
     - BasicRoundstartVariation
@@ -155,11 +169,14 @@
     - SiliconLiberation
     - SubBrighteye
     - ThiefGamerule
-    - Devil
+    - BloodBound
     - CosmicCult
+    - XenoDemocracy
+    - Devil
 
 - type: gamePreset
   id: AlmostAllerAtOnce
+  bypassCooldowns: true
   alias:
   - almostallall
   - allernt
@@ -180,6 +197,7 @@
     - BasicStationEventScheduler
     - ShitStationEventScheduler
     - MeteorSwarmScheduler # Meteor mild isn't included in almost aller because in theory the idea is to have a round last more than 10 minutes.
+    - WireCutScheduler
     - RampingStationEventScheduler
     - SpaceTrafficControlEventScheduler
     - SpaceTrafficControlFriendlyEventScheduler
@@ -197,7 +215,27 @@
     - RailroadingTerminator
     - RailroadingMinor
     - Devil
+    - BloodBound
     - CosmicCult
+    - XenoDemocracy
+
+- type: gamePreset
+  id: CosmicCult
+  alias:
+    - cosmic
+  name: cosmiccult-title
+  description: cosmiccult-description
+  minPlayers: 20
+  showInVote: true
+  rules:
+    - CosmicCult
+    - SubGamemodesRuleConversion
+    - MeteorSwarmScheduler
+    - WireCutScheduler
+    - SpaceTrafficControlEventScheduler
+    - BasicRoundstartVariation
+    - BasicStationEventScheduler
+    - RailroadingMinor
 
 - type: gamePreset
   id: TerrorSpiders
@@ -215,9 +253,11 @@
   - SubGamemodesRuleNoChangelings
   - BasicStationEventScheduler
   - MeteorSwarmScheduler
+  - WireCutScheduler
   - SpaceTrafficControlEventScheduler
   - BasicRoundstartVariation
   - RailroadingMinor # 🌟Starlight🌟
+  - XenoDemocracy
 
 - type: gamePreset
   id: DynamicLP
@@ -228,10 +268,11 @@
   name: dynamic-title
   showInVote: false # admin-only for now until we fix some bugs
   description: dynamic-description
-  minPlayers: 40
+  minPlayers: 20
   voteCooldown: 0 # This one actually can roll back to back.
   rules:
   - SLDynamicRuleLP
   - SpaceTrafficControlEventScheduler # No event/meteor schedulers, since we handle that in dynamic too.
   - BasicRoundstartVariation
   - RailroadingMinor
+  - XenoDemocracy

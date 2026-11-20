@@ -31,7 +31,7 @@ namespace Content.Shared.Preferences
     [Serializable, NetSerializable]
     public sealed partial class HumanoidCharacterProfile
     {
-        private static readonly Regex RestrictedNameRegex = new(@"[^A-Za-z0-9 '\-,一-鿿㐀-䶿·]"); //Starlight edit, allow commas; zh-CN: allow CJK ideographs (+ext A) and the interpunct used in transliterated names
+        private static readonly Regex RestrictedNameRegex = new(@"[^A-Za-z0-9 '\-,#一-鿿㐀-䶿·]"); //Starlight edit, allow commas and number sign; zh-CN: allow CJK ideographs (+ext A) and the interpunct used in transliterated names
         private static readonly Regex ICNameCaseRegex = new(@"^(?<word>\w)|\b(?<word>\w)(?=\w*$)");
 
         /// <summary>
@@ -771,10 +771,14 @@ namespace Content.Shared.Preferences
         {
             // Track points count for each group.
             var groups = new Dictionary<string, int>();
-            var result = new List<ProtoId<TraitPrototype>>();
+            // Starlight start
+            var traitList = traits.ToList();
+            var valid = new bool[traitList.Count];
 
-            foreach (var trait in traits)
+            foreach (var index in TraitOrdering.OrderForValidation(Enumerable.Range(0, traitList.Count), i => traitList[i], protoManager))
             {
+                var trait = traitList[index];
+                // Starlight end
                 if (!protoManager.TryIndex(trait, out var traitProto))
                     continue;
 
@@ -797,7 +801,16 @@ namespace Content.Shared.Preferences
                     continue;
 
                 groups[category.ID] = existing;
-                result.Add(trait);
+                valid[index] = true; // Starlight
+            }
+
+            // Starlight-start
+            var result = new List<ProtoId<TraitPrototype>>();
+            for (var i = 0; i < traitList.Count; i++)
+            {
+                if (valid[i])
+                    result.Add(traitList[i]);
+            // Starlight-end
             }
 
             return result;

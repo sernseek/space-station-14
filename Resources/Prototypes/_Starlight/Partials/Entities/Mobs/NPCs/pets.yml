@@ -1,0 +1,12 @@
+- type: !PartialOnly entity
+  id: !type:CreateVariants
+    values:
+    - MobMcGriff
+    - MobWalter
+  components:
+  - type: FirelockOpener
+
+- type: !PartialOnly entity
+  id: MobMonkeyPunpun
+  components:
+  - type: AntagTarget

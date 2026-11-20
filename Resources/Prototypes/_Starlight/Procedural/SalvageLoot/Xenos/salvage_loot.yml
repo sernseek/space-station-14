@@ -1,0 +1,313 @@
+- type: salvageLoot
+  id: SalvageLootXenosEasy
+  loots:
+    - !type:RandomSpawnsLoot
+      entries:
+        - proto: CrateSalvageEquipment
+          cost: 3
+          prob: 0.5
+        - proto: RandomArtifactSpawner
+        - proto: RandomCargoCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomCommandCorpseSpawner
+          cost: 3
+          prob: 0.5
+        - proto: RandomEngineerCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomMedicCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomScienceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomSecurityCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomServiceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: ResearchDisk10000
+        - proto: ResearchDisk5000
+        - proto: TechnologyDiskRare
+          cost: 5
+        - proto: CrateArtifactContainer
+        - proto: WeaponPistolCHIMP
+        - proto: CrateMedicalSurgery
+          cost: 2
+        - proto: RightLegCyber
+        - proto: RightArmCyber
+        - proto: RightHandCyber
+        - proto: RightFootCyber
+        - proto: LeftLegCyber
+        - proto: LeftArmCyber
+        - proto: LeftHandCyber
+        - proto: LeftFootCyber
+        - proto: PKAUpgradeDamageCaus
+          cost: 3
+        - proto: ClothingHeadHelmetSwat
+          cost: 5
+          prob: 0.5
+        - proto: ClothingOuterArmorRiot
+          cost: 5
+          prob: 0.5
+        - proto: ClothingHeadHelmetRiot
+          cost: 5
+          prob: 0.5
+        - proto: WeaponDisabler
+          cost: 5
+          prob: 0.5
+        - proto: WeaponDisablerSMG
+          cost: 5
+          prob: 0.5
+        - proto: WeaponTeslaGun
+          cost: 10
+          prob: 0.5
+#Aliens synth reference
+        - proto: TorsoIPC
+        - proto: HeadIPC
+        - proto: LeftFootIPC
+        - proto: LeftArmIPC
+        - proto: LeftLegIPC
+        - proto: RightFootIPC
+        - proto: RightArmIPC
+        - proto: RightLegIPC
+        - proto: OrganIPCEyes
+        - proto: OrganIPCTongue
+        - proto: OrganIPCEars
+        - proto: OrganIPCHeart
+        - proto: CrateITGMedicalSurplus
+          cost: 15
+          prob: 0.1
+#baseloot
+        - proto: WaterTankHighCapacity
+        - proto: WeldingFuelTankHighCapacity
+          cost: 2
+        - proto: SalvageCanisterSpawner
+          cost: 2
+        - proto: SheetSteel10
+        - proto: SheetGlass10
+
+- type: salvageLoot
+  id: SalvageLootXenosMedium
+  loots:
+    - !type:RandomSpawnsLoot
+      entries:
+        - proto: CrateSalvageEquipment
+          cost: 3
+          prob: 0.5
+        - proto: RandomArtifactSpawner
+        - proto: RandomCargoCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomCommandCorpseSpawner
+          cost: 3
+          prob: 0.5
+        - proto: RandomEngineerCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomMedicCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomScienceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomSecurityCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomServiceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: ResearchDisk10000
+          prob: 0.5
+        - proto: ResearchDisk5000
+          prob: 0.5
+        - proto: TechnologyDiskRare
+          cost: 5
+          prob: 0.5
+        - proto: CrateArtifactContainer
+        - proto: WeaponPistolCHIMP
+        - proto: CrateMedicalSurgery
+          cost: 2
+        - proto: RightLegCyber
+        - proto: RightArmCyber
+        - proto: RightHandCyber
+        - proto: RightFootCyber
+        - proto: LeftLegCyber
+        - proto: LeftArmCyber
+        - proto: LeftHandCyber
+        - proto: LeftFootCyber
+        - proto: SpawnMechRipley
+          cost: 5
+          prob: 0.15
+        - proto: SpawnMechRipley
+          cost: 5
+#Aliens synth reference
+        - proto: TorsoIPC
+        - proto: HeadIPC
+        - proto: LeftFootIPC
+        - proto: LeftArmIPC
+        - proto: LeftLegIPC
+        - proto: RightFootIPC
+        - proto: RightArmIPC
+        - proto: RightLegIPC
+        - proto: OrganIPCEyes
+        - proto: OrganIPCTongue
+        - proto: OrganIPCEars
+        - proto: OrganIPCHeart
+        - proto: WeaponShotgunKammerer
+          cost: 5
+        - proto: WeaponShotgunEnforcer
+          cost: 5
+        - proto: ClothingHeadHelmetSwat
+          cost: 5
+        - proto: ClothingOuterArmorRiot
+          cost: 5
+        - proto: ClothingHeadHelmetRiot
+          cost: 5
+        - proto: WeaponDisabler
+          cost: 5
+        - proto: WeaponDisablerSMG
+          cost: 5
+        - proto: WeaponTeslaGun
+          cost: 10
+        - proto: BoxMagazineShotgunIncendiary
+          cost: 5
+          prob: 0.5
+        - proto: EyeImplantWelding
+        - proto: EyeImplantMedical
+        - proto: EyeImplantChemistry
+        - proto: HandImplantInsulated
+        - proto: Drill
+        - proto: PKAUpgradeDamageCaus
+          cost: 3
+        - proto: CrateITGMedicalSurplus
+          cost: 15
+          prob: 0.25
+#baseloot
+        - proto: WaterTankHighCapacity
+        - proto: WeldingFuelTankHighCapacity
+          cost: 2
+        - proto: SalvageCanisterSpawner
+          cost: 2
+        - proto: SheetSteel10
+        - proto: SheetGlass10
+
+- type: salvageLoot
+  id: SalvageLootXenosHard
+  loots:
+    - !type:RandomSpawnsLoot
+      entries:
+        - proto: CrateSalvageEquipment
+          cost: 3
+          prob: 0.5
+        - proto: RandomArtifactSpawner
+        - proto: RandomCargoCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomCommandCorpseSpawner
+          cost: 3
+          prob: 0.5
+        - proto: RandomEngineerCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomMedicCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomScienceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomSecurityCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: RandomServiceCorpseSpawner
+          cost: 1
+          prob: 0.5
+        - proto: ResearchDisk10000
+          prob: 0.5
+        - proto: ResearchDisk5000
+          prob: 0.5
+        - proto: TechnologyDiskRare
+          cost: 5
+          prob: 0.5
+        - proto: CrateArtifactContainer
+        - proto: WeaponPistolCHIMP
+        - proto: CrateMedicalSurgery
+          cost: 2
+        - proto: RightLegCyber
+        - proto: RightArmCyber
+        - proto: RightHandCyber
+        - proto: RightFootCyber
+        - proto: LeftLegCyber
+        - proto: LeftArmCyber
+        - proto: LeftHandCyber
+        - proto: LeftFootCyber
+        - proto: SpawnMechRipley
+          cost: 5
+          prob: 0.1
+#Aliens synth reference
+        - proto: TorsoIPC
+        - proto: HeadIPC
+        - proto: LeftFootIPC
+        - proto: LeftArmIPC
+        - proto: LeftLegIPC
+        - proto: RightFootIPC
+        - proto: RightArmIPC
+        - proto: RightLegIPC
+        - proto: OrganIPCEyes
+        - proto: OrganIPCTongue
+        - proto: OrganIPCEars
+        - proto: OrganIPCHeart
+        - proto: MechRipley2
+          cost: 20
+          prob: 0.15
+        - proto: WeaponShotgunKammerer
+          cost: 5
+        - proto: BoxMagazineShotgunIncendiary
+          cost: 5
+          prob: 0.5
+        - proto: EyeImplantWelding
+          cost: 5
+        - proto: EyeImplantMedical
+          cost: 5
+        - proto: EyeImplantChemistry
+          cost: 5
+        - proto: HandImplantInsulated
+          cost: 5
+        - proto: Drill
+        - proto: CrateArmoryShotgun
+          cost: 15
+        - proto: AnomalyCoreShadow
+          cost: 15
+        - proto: PaddyUpgradeKit
+          cost: 15
+        - proto: Weaponpkashotgun
+          cost: 10
+        - proto: PKAUpgradeDamageCaus
+          cost: 3
+        - proto: WeaponShotgunEnforcer
+          cost: 5
+        - proto: ClothingHeadHelmetSwat
+          cost: 5
+        - proto: ClothingOuterArmorRiot
+          cost: 5
+        - proto: ClothingHeadHelmetRiot
+          cost: 5
+        - proto: WeaponDisabler
+          cost: 5
+        - proto: WeaponDisablerSMG
+          cost: 5
+        - proto: WeaponTeslaGun
+          cost: 10
+        - proto: CrateITGMedicalSurplus
+          cost: 15
+          prob: 0.5
+#baseloot
+        - proto: WaterTankHighCapacity
+        - proto: WeldingFuelTankHighCapacity
+          cost: 2
+        - proto: SalvageCanisterSpawner
+          cost: 2
+        - proto: SheetSteel10
+        - proto: SheetGlass10

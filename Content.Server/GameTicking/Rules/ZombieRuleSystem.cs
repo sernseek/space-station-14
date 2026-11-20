@@ -6,7 +6,8 @@ using Content.Server.Roles;
 using Content.Server.RoundEnd;
 using Content.Server.Station.Systems;
 using Content.Server.Zombies;
-using Content.Server._Starlight.Language; // Starlight-start: zombie language
+using Content.Server._Starlight.Language;
+using Content.Server._Starlight.Statistics;
 using Content.Shared.GameTicking.Components;
 using Content.Shared.Humanoid;
 using Content.Shared.Mind;
@@ -20,6 +21,7 @@ using Robust.Shared.Player;
 using Robust.Shared.Timing;
 using System.Globalization;
 using System.Linq;
+using Content.Server._Starlight.Achievement;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -36,7 +38,6 @@ public sealed partial class ZombieRuleSystem : GameRuleSystem<ZombieRuleComponen
     [Dependency] private SharedRoleSystem _roles = default!;
     [Dependency] private StationSystem _station = default!;
     [Dependency] private ZombieSystem _zombie = default!;
-    [Dependency] private LanguageSystem _language = default!; // Starlight-start: zombie language
 
     public override void Initialize()
     {
@@ -45,16 +46,8 @@ public sealed partial class ZombieRuleSystem : GameRuleSystem<ZombieRuleComponen
         SubscribeLocalEvent<InitialInfectedRoleComponent, GetBriefingEvent>(OnGetBriefing);
         SubscribeLocalEvent<ZombieRoleComponent, GetBriefingEvent>(OnGetBriefing);
         SubscribeLocalEvent<IncurableZombieComponent, ZombifySelfActionEvent>(OnZombifySelf);
-        SubscribeLocalEvent<ZombieRuleComponent, AfterAntagEntitySelectedEvent>(OnInitialInfectedSelected); // Starlight-start: zombie language
+        SubscribeLocalEvent<ZombieRuleComponent, AfterAntagEntitySelectedEvent>(OnInitialInfectedSelected); // Starlight
     }
-
-    // Starlight-start: zombie language
-    /// <summary>
-    /// Gives initial infected the ability to understand (but not speak) zombie language.
-    /// </summary>
-    private void OnInitialInfectedSelected(EntityUid uid, ZombieRuleComponent comp, ref AfterAntagEntitySelectedEvent args) =>
-        _language.AddLanguage(args.EntityUid, "Zombie", addSpoken: false, addUnderstood: true);
-    // Starlight-end
 
     private void OnGetBriefing(Entity<InitialInfectedRoleComponent> role, ref GetBriefingEvent args)
     {
@@ -89,6 +82,9 @@ public sealed partial class ZombieRuleSystem : GameRuleSystem<ZombieRuleComponen
             args.AddLine(Loc.GetString("zombie-round-end-amount-all"));
 
         var antags = _antag.GetAntagIdentifiers(uid).ToList();
+        _roundStatistics.RecordAntagOutcome(uid, "Zombie", fraction >= 1 ? "AllInfected" : "Contained"); // Starlight
+        _roundStatistics.RecordAntagOutcomeStat("Zombie", "infected_fraction", fraction); // Starlight
+        _roundStatistics.RecordAntagOutcomeStat("Zombie", "initial_infected", antags.Count); // Starlight
         args.AddLine(Loc.GetString("zombie-round-end-initial-count", ("initialCount", antags.Count)));
         foreach (var (_, data, entName) in antags)
         {
@@ -132,6 +128,9 @@ public sealed partial class ZombieRuleSystem : GameRuleSystem<ZombieRuleComponen
 
         if (GetInfectedFraction(false) > zombieRuleComponent.ZombieShuttleCallPercentage && !_roundEnd.IsRoundEndRequested())
         {
+            //Starlight start - achievement
+            foreach (var commonSession in _initialInfected) _achievement.QueueUnlockAchievement(commonSession, "no_room_hell");
+            //Starlight stop
             foreach (var station in _station.GetStations())
             {
                 _chat.DispatchStationAnnouncement(station, Loc.GetString("zombie-shuttle-call"), colorOverride: Color.Crimson);

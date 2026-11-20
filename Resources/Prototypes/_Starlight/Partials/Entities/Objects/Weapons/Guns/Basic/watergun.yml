@@ -1,0 +1,6 @@
+- type: !PartialOnly entity
+  abstract: true
+  id: WeaponWaterGunBase
+  components:
+  - type: CanDualWield
+    dualWieldInaccuracyPenalty: 30

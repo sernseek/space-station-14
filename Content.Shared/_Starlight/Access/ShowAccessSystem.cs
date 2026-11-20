@@ -1,5 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
+using Content.Shared._Moffstation.Clothing.ModularHud.Components;
+using Content.Shared._Moffstation.Clothing.ModularHud.Systems;
 using Content.Shared.Access;
 using Content.Shared.Access.Components;
 using Content.Shared.Clothing.Components;
@@ -18,6 +20,7 @@ namespace Content.Shared._Starlight.Access;
 public sealed partial class ShowAccessSystem : EntitySystem
 {
     [Dependency] private InventorySystem _inventory = default!;
+    [Dependency] private SharedModularHudSystem _modularHud = default!;
     [Dependency] private ExamineSystemShared _examine = default!;
     [Dependency] private SharedHandsSystem _hands = default!;
     [Dependency] private IPrototypeManager _proto = default!;
@@ -121,6 +124,16 @@ public sealed partial class ShowAccessSystem : EntitySystem
                 if ((clothing.Slots & slotDef.SlotFlags) == 0x00) continue;
                 if (TryComp(slot.ContainedEntity, out showAccess))
                     break;
+
+                if (!TryComp<ModularHudComponent>(slot.ContainedEntity, out var hud) ||
+                    (hud.ActiveSlots & slotDef.SlotFlags) == 0x00)
+                    continue;
+
+                foreach (var module in _modularHud.GetModules((slot.ContainedEntity.Value, hud)))
+                {
+                    if (TryComp(module.Owner, out showAccess))
+                        return true;
+                }
             }
             if (showAccess is null) return false;
         }
@@ -144,7 +157,7 @@ public sealed partial class ShowAccessSystem : EntitySystem
         var localized = LocalizeAndSort(tags);
 
         var msg = new FormattedMessage();
-        msg.AddMarkupOrThrow(Loc.GetString(showAccess.ExamineLocId, ("groups", tags.Count > 0 ? string.Join("\n", localized) : "None")));
+        msg.AddMarkupOrThrow(Loc.GetString(showAccess.ExamineLocId, ("groups", tags.Count > 0 ? string.Join("\n", localized) : Loc.GetString("show-access-examined-none"))));
 
         _examine.AddDetailedExamineVerb(args, showAccess, msg, Loc.GetString("show-access-verb-text"), "/Textures/_Starlight/Interface/VerbIcons/examine-access.png", Loc.GetString("show-access-verb-message"));
     }
@@ -154,7 +167,7 @@ public sealed partial class ShowAccessSystem : EntitySystem
         // Get groups then sort alphabetically to stay organized but also to make sure the order is same on client+server.
         var groups = _proto.EnumeratePrototypes<AccessGroupPrototype>()
             .Where(group => !_blacklistedGroups.Contains(group.ID)).ToList();
-        groups = groups.OrderBy(group => group.Name ?? group.ID).ToList();
+        groups = groups.OrderBy(group => group.GetAccessGroupName()).ToList();
 
         /*
          * Move command if present to top of list since despite that not being alphabetical order it's arguably the most important.
@@ -175,19 +188,19 @@ public sealed partial class ShowAccessSystem : EntitySystem
         var grouped = new Dictionary<ProtoId<AccessLevelPrototype>, string>();
         foreach (var group in groups)
         {
-            var name = group.Name ?? group.ID;
+            var name = group.GetAccessGroupName();
             foreach (var tag in group.Tags) grouped.TryAdd(tag, name);
         }
 
         // alphabetically sort the actual access tags into their sorted groups.
         var sorted = new Dictionary<string, SortedSet<string>>();
-        const string Ungrouped = "Ungrouped";
+        var ungrouped = Loc.GetString("show-access-examined-ungrouped");
         foreach (var protoId in protoIds)
         {
             if (!_proto.TryIndex(protoId, out var proto))
                 continue;
             var name = Loc.GetString("show-access-examined-access", ("access", Loc.GetString(proto.Name ?? proto.ID)));
-            var group = grouped.GetValueOrDefault(protoId, Ungrouped);
+            var group = grouped.GetValueOrDefault(protoId, ungrouped);
             if (!sorted.TryGetValue(group, out var list))
             {
                 list = [];
@@ -199,9 +212,9 @@ public sealed partial class ShowAccessSystem : EntitySystem
         // now just grab all the names of the access tags and shove them into a single string list (and also move ungrouped to the back)
         var result = new List<string>();
         foreach (var group in sorted.Keys
-                     .Where(g => g != Ungrouped)
-                     .OrderBy(g => g)
-                     .Append(Ungrouped))
+                .Where(g => g != ungrouped)
+                .OrderBy(g => g)
+                .Append(ungrouped))
         {
             if (!sorted.TryGetValue(group, out var accessList) || accessList.Count == 0)
                 continue;

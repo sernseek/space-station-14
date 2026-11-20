@@ -25,8 +25,6 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 using PullableComponent = Content.Shared.Movement.Pulling.Components.PullableComponent;
-
-#region Starlight
 using System.Collections.Concurrent;
 using System.Net;
 using Content.Shared.Actions;
@@ -35,7 +33,8 @@ using Content.Shared.Body.Components;
 using Content.Shared.Charges.Systems;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Serialization.Manager.Exceptions;
-#endregion Starlight
+using Content.Shared.Body.Part;
+using Content.Shared.Body.Systems;
 
 namespace Content.Shared.Movement.Systems;
 
@@ -61,22 +60,22 @@ public abstract partial class SharedMoverController : VirtualController
     [Dependency] private   SharedActionsSystem _action = default!; //🌟Starlight🌟
     [Dependency] private   SharedChargesSystem _charges = default!; //🌟Starlight🌟
 
-    protected EntityQuery<CanMoveInAirComponent> CanMoveInAirQuery;
-    protected EntityQuery<FootstepModifierComponent> FootstepModifierQuery;
-    protected EntityQuery<FTLComponent> FTLQuery;
-    protected EntityQuery<InputMoverComponent> MoverQuery;
-    protected EntityQuery<MapComponent> MapQuery;
-    protected EntityQuery<MapGridComponent> MapGridQuery;
-    protected EntityQuery<MobMoverComponent> MobMoverQuery;
-    protected EntityQuery<MovementRelayTargetComponent> RelayTargetQuery;
-    protected EntityQuery<MovementSpeedModifierComponent> ModifierQuery;
-    protected EntityQuery<NoRotateOnMoveComponent> NoRotateQuery;
-    protected EntityQuery<PhysicsComponent> PhysicsQuery;
-    protected EntityQuery<PilotComponent> PilotQuery;
-    protected EntityQuery<PreventPilotComponent> PreventPilotQuery;
-    protected EntityQuery<RelayInputMoverComponent> RelayQuery;
-    protected EntityQuery<PullableComponent> PullableQuery;
-    protected EntityQuery<TransformComponent> XformQuery;
+    [Dependency] protected EntityQuery<CanMoveInAirComponent> CanMoveInAirQuery = default!;
+    [Dependency] protected EntityQuery<FootstepModifierComponent> FootstepModifierQuery = default!;
+    [Dependency] protected EntityQuery<FTLComponent> FTLQuery = default!;
+    [Dependency] protected EntityQuery<InputMoverComponent> MoverQuery = default!;
+    [Dependency] protected EntityQuery<MapComponent> MapQuery = default!;
+    [Dependency] protected EntityQuery<MapGridComponent> MapGridQuery = default!;
+    [Dependency] protected EntityQuery<MobMoverComponent> MobMoverQuery = default!;
+    [Dependency] protected EntityQuery<MovementRelayTargetComponent> RelayTargetQuery = default!;
+    [Dependency] protected EntityQuery<MovementSpeedModifierComponent> ModifierQuery = default!;
+    [Dependency] protected EntityQuery<NoRotateOnMoveComponent> NoRotateQuery = default!;
+    [Dependency] protected EntityQuery<PhysicsComponent> PhysicsQuery = default!;
+    [Dependency] protected EntityQuery<PilotComponent> PilotQuery = default!;
+    [Dependency] protected EntityQuery<PreventPilotComponent> PreventPilotQuery = default!;
+    [Dependency] protected EntityQuery<RelayInputMoverComponent> RelayQuery = default!;
+    [Dependency] protected EntityQuery<PullableComponent> PullableQuery = default!;
+    [Dependency] protected EntityQuery<TransformComponent> XformQuery = default!;
 
     private static readonly ProtoId<TagPrototype> FootstepSoundTag = "FootstepSound";
 
@@ -96,23 +95,6 @@ public abstract partial class SharedMoverController : VirtualController
     {
         UpdatesBefore.Add(typeof(TileFrictionController));
         base.Initialize();
-
-        MoverQuery = GetEntityQuery<InputMoverComponent>();
-        MobMoverQuery = GetEntityQuery<MobMoverComponent>();
-        ModifierQuery = GetEntityQuery<MovementSpeedModifierComponent>();
-        RelayTargetQuery = GetEntityQuery<MovementRelayTargetComponent>();
-        PhysicsQuery = GetEntityQuery<PhysicsComponent>();
-        RelayQuery = GetEntityQuery<RelayInputMoverComponent>();
-        PullableQuery = GetEntityQuery<PullableComponent>();
-        XformQuery = GetEntityQuery<TransformComponent>();
-        NoRotateQuery = GetEntityQuery<NoRotateOnMoveComponent>();
-        CanMoveInAirQuery = GetEntityQuery<CanMoveInAirComponent>();
-        FootstepModifierQuery = GetEntityQuery<FootstepModifierComponent>();
-        MapGridQuery = GetEntityQuery<MapGridComponent>();
-        MapQuery = GetEntityQuery<MapComponent>();
-        FTLQuery = GetEntityQuery<FTLComponent>();
-        PilotQuery = GetEntityQuery<PilotComponent>();
-        PreventPilotQuery = GetEntityQuery<PreventPilotComponent>();
 
         SubscribeLocalEvent<MovementSpeedModifierComponent, TileFrictionEvent>(OnTileFriction);
         SubscribeLocalEvent<InputMoverComponent, ComponentStartup>(OnMoverStartup);
@@ -375,13 +357,17 @@ public abstract partial class SharedMoverController : VirtualController
             }
 
             if (!weightless && MobMoverQuery.TryGetComponent(uid, out var mobMover) &&
-                TryGetSound(weightless, uid, mover, mobMover, xform, out var sound, tileDef: tileDef))
+                TryGetSound(weightless, uid, mover, mobMover, xform, out var sound, out var surfaceSound, tileDef: tileDef)) // Starlight-edit
             {
                 var soundModifier = mover.Sprinting ? InputMoverComponent.SprintingSoundModifier : InputMoverComponent.WalkingSoundModifier;
 
                 var audioParams = sound.Params
                     .WithVolume(sound.Params.Volume + soundModifier)
                     .WithVariation(sound.Params.Variation ?? mobMover.FootstepVariation);
+                // Starlight-start
+                if (surfaceSound)
+                    audioParams = ApplyStepTimbre(uid, audioParams);
+                // Starlight-end
 
                 // If we're a relay target then predict the sound for all relays.
                 if (relaySource != null)
@@ -392,6 +378,8 @@ public abstract partial class SharedMoverController : VirtualController
                 {
                     _audio.PlayPredicted(sound, uid, uid, audioParams);
                 }
+
+                PlayFootstepLayers(uid, relaySource ?? uid, audioParams); // Starlight
             }
         }
     }
@@ -555,9 +543,11 @@ public abstract partial class SharedMoverController : VirtualController
         MobMoverComponent mobMover,
         TransformComponent xform,
         [NotNullWhen(true)] out SoundSpecifier? sound,
+        out bool surfaceSound, // Starlight-edit
         ContentTileDefinition? tileDef = null)
     {
         sound = null;
+        surfaceSound = false; // Starlight-edit
 
         if (!CanSound() || !_tags.HasTag(uid, FootstepSoundTag))
             return false;
@@ -624,20 +614,48 @@ public abstract partial class SharedMoverController : VirtualController
 
         // STARLIGHT: Check for outer clothing (hardsuits) before shoes
         if (_inventory.TryGetSlotEntity(uid, "outerClothing", out var outerClothing) &&
-            FootstepModifierQuery.TryComp(outerClothing, out var outerModifier))
+            FootstepModifierQuery.TryComp(outerClothing, out var outerModifier) &&
+            outerModifier.FootstepSoundCollection != null)
         {
             sound = outerModifier.FootstepSoundCollection;
             return sound != null;
         }
+
+        if (_inventory.TryGetSlotEntity(uid, "shoes", out var shoes))
+        {
+            if(FootstepModifierQuery.TryComp(shoes, out var modifier))
+            {
+                sound = modifier.FootstepSoundCollection;
+                return sound != null;
+            }
+        }
+        // STARLIGHT: Check feet after shoes for special sounds when barefoot, but only when there are no shoes equipped
+        else if ( body != null && body.RequiredLegs >= 0)
+        {
+            foreach (var legEntity in body.LegEntities)
+            {
+                if(!TryComp(legEntity, out BodyPartComponent? partComp) || partComp == null)
+                    continue;
+
+                foreach (var slotId in partComp.Children.Keys)
+                {
+                    if (slotId is null) continue;
+                    var slotFullId = SharedBodySystem.GetPartSlotContainerId(slotId);
+                    var child = _container.GetContainer(legEntity, slotFullId);
+
+                    foreach (var footEntity in child.ContainedEntities)
+                    {
+                    if (!TryComp<FootstepModifierComponent>(footEntity, out var footFootstep))
+                        continue;
+                    sound = footFootstep.FootstepSoundCollection;
+                    return sound != null;
+                    }
+                }
+            }
+        }
         // STARLIGHT END
 
-        if (_inventory.TryGetSlotEntity(uid, "shoes", out var shoes) &&
-            FootstepModifierQuery.TryComp(shoes, out var modifier))
-        {
-            sound = modifier.FootstepSoundCollection;
-            return sound != null;
-        }
-
+        surfaceSound = true; // Starlight-edit
         return TryGetFootstepSound(uid, xform, shoes != null, out sound, tileDef: tileDef);
     }
 
@@ -696,7 +714,7 @@ public abstract partial class SharedMoverController : VirtualController
         if (tileDef == null)
             return false;
 
-        sound = haveShoes ? tileDef.FootstepSounds : tileDef.BarestepSounds;
+        sound = GetTileStepSound(tileDef, haveShoes); // Starlight
         return sound != null;
     }
 

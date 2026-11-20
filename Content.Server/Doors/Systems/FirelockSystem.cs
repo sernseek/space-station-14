@@ -5,6 +5,7 @@ using Content.Server.Atmos.Monitor.Systems;
 using Content.Server.Power.EntitySystems;
 using Content.Server.Shuttles.Components;
 using Content.Shared.Atmos;
+using Content.Shared.Atmos.Components;
 using Content.Shared.Atmos.Monitor;
 using Content.Shared.Doors.Components;
 using Content.Shared.Doors.Systems;
@@ -81,7 +82,10 @@ namespace Content.Server.Doors.Systems
                     && appearanceQuery.TryGetComponent(uid, out var appearance))
                 {
                     var (pressure, fire) = CheckPressureAndFire(uid, firelock, xform, airtight, airtightQuery, door.State == DoorState.Open); // Funky change
-
+                    // Starlight-start: Firelock wires
+                    if (!pressure && firelock.PressureWireCut) pressure = true;
+                    if (!fire && firelock.HeatWireCut) fire = true;
+                    // Starlight-end: Firelock wires
                     // Funky change
                     if (door.State == DoorState.Open)
                     {
@@ -152,13 +156,8 @@ namespace Content.Server.Doors.Systems
                 return (false, false);
             }
 
-            // Funky change
-            if (!HasComp<GridAtmosphereComponent>(xform.ParentUid) ||
-                !HasComp<MapGridComponent>(xform.ParentUid) ||
-                !HasComp<MapAtmosphereComponent>(xform.MapUid))
-            {
+            if (!HasComp<GridAtmosphereComponent>(xform.ParentUid))
                 return (false, false);
-            }
 
             var grid = Comp<MapGridComponent>(xform.ParentUid);
             var pos = _mapping.CoordinatesToTile(xform.ParentUid, grid, xform.Coordinates);

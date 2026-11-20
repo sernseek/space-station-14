@@ -25,6 +25,7 @@
   - NanoTrasenRepresentativeJumpsuit
   - NanoTrasenRepresentativeEyewear
   - CommonBackpack
+  - PaperworkGloves
   - NanotrasenRepresentativeShoes
   - Trinkets
   - Scarves
@@ -40,6 +41,7 @@
   - IAANeck
   - IAAJumpsuit
   - CommonBackpack
+  - PaperworkGloves
   - IAAShoes
   - Trinkets
   - Scarves
@@ -80,6 +82,7 @@
   - AssistantManagerOuterClothing
   - AssistantManagerShoes
   - Survival
+  - Glasses
   - Trinkets
   - Scarves
   - Pins
@@ -201,6 +204,28 @@
   - SurvivalExtended
   - Trinkets
   - Scarves
+  - Pins
+  - Pens
+  - SecurityJobTrinkets
+  - GroupSpeciesBreathToolSecurity
+
+- type: roleLoadout
+  id: JobGunnerySergeant
+  groups:
+  - GunnerySergeantHead
+  - EliteSecurityMask
+  - GunnerySergeantNeck
+  - GunnerySergeantJumpsuit
+  - SecurityBackpack
+  - SecurityBelt
+  - GunnerySergeantOuterClothing
+  - SecurityEyewear
+  - SecurityShoes
+  - SurvivalExtended
+  - InsulsCombat
+  - SecurityNonLethalWeapon
+  - SecuritySidearm
+  - Trinkets
   - Pins
   - Pens
   - SecurityJobTrinkets
@@ -363,13 +388,17 @@
 - type: roleLoadout
   id: JobSalvageMedic
   groups:
-    - GroupTankHarness
-    - SalvageSpecialistBackpack
-    - SalvageSpecialistOuterClothing
-    - SalvageSpecialistShoes
-    - Glasses
-    - Survival
-    - Trinkets
-    - Scarves
-    - Pins
-    - GroupSpeciesBreathTool
+  - GroupTankHarness
+  - SalvageMedicJumpsuit
+  - SalvageMedicPDA
+  - SalvageMedicNeck
+  - SalvageSpecialistBackpack
+  - SalvageSpecialistOuterClothing
+  - SalvageSpecialistShoes
+  - MedicalEyewear
+  - Survival
+  - Trinkets
+  - Scarves
+  - Pins
+  - Pens
+  - GroupSpeciesBreathTool

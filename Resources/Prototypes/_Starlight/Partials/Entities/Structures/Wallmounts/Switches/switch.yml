@@ -1,0 +1,22 @@
+- type: !PartialOnly entity
+  id: SignalButton
+  components:
+  - type: Setup
+  - type: Sprite
+    drawdepth: WallMountedItems
+  - type: UserInterface
+    interfaces:
+      enum.SetupUiKey.Key:
+        type: SetupMenuBoundUi
+
+- type: !PartialOnly entity
+  id: SignalSwitch
+  components:
+  - type: Sprite
+    drawdepth: WallMountedItems
+
+- type: !PartialOnly entity
+  id: ApcNetSwitch
+  components:
+  - type: Sprite
+    drawdepth: WallMountedItems

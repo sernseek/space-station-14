@@ -22,12 +22,15 @@
   - HandheldStationMap
   - ClothingHeadHatWelding
   - ClothingHeadHatCone
+  - Binoculars
+  - JerryCan # Starlight Edit
 
 - type: latheRecipePack
   id: AtmosStatic
   recipes:
   - AirTank
   - GasAnalyzer
+  - GasCanisterHose # Starlight
 
 - type: latheRecipePack
   id: ElectronicsStatic

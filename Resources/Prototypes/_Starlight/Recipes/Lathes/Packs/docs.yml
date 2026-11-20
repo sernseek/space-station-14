@@ -3,25 +3,25 @@
   recipes:
   - PrintedDocumentReportMorgueRecipe
   - PrintedDocumentReportResearchAnomalyLogRecipe
-  - PrintedDocumentReportStationRecipe
+  - PrintedDocumentReportSituationRecipe
   - PrintedDocumentReportOnEliminationOfViolationsRecipe
   - PrintedDocumentReportDepartmentRecipe
   - PrintedDocumentReportEmployeePerformanceRecipe
-  - PrintedDocumentReportOnTheChaptersMeetingRecipe
+  - PrintedDocumentVoteRecordRecipe
   - PrintedDocumentInternalAffairsAgentsReportRecipe
   - PrintedDocumentConditionReportRecipe
-  - PrintedDocumentObjectInvestigationReportRecipe
+  - PrintedDocumentObjectExaminationReportRecipe
   - PrintedDocumentExperimentReportRecipe
   - PrintedDocumentDisposalReportRecipe
   - PrintedDocumentArrestReportRecipe
   - PrintedDocumentSalvageLeadReportRecipe
   - PrintedDocumentPsychologicalReportRecipe
   # Statements
-  - PrintedDocumentStatementAppointmentInterimChapterRecipe
-  - PrintedDocumentEmploymentStatementRecipe
+  - PrintedDocumentStatementInterimAppointmentRecipe
+  - PrintedDocumentEmploymentContractRecipe
   - PrintedDocumentResignationStatementRecipe
-  - PrintedDocumentAccessRequestStatementRecipe
-  - PrintedDocumentEquipmentRequestStatementRecipe
+  - PrintedDocumentAccessRequestRecipe
+  - PrintedDocumentEquipmentRequestRecipe
   # InquiriesAndAppeals
   - PrintedDocumentInvocationRecipe
   - PrintedDocumentEvacuationShuttleRequestRecipe
@@ -35,21 +35,22 @@
   - PrintedDocumentRequestConstructionWorkRecipe
   - PrintedDocumentRequestModernizationRecipe
   - PrintedDocumentRequestERTRecipe
+  - PrintedDocumentP23IdPdaReplacementFormRecipe
   # Complaints
   - PrintedDocumentComplaintViolationLaborRulesRecipe
-  - PrintedDocumentComplaintOffenseRecipe
+  - PrintedDocumentCriminalComplaintRecipe
   # Permissions
   - PrintedDocumentPermissionEquipmentRecipe
   - PrintedDocumentPermissionResearchEquipmentRecipe
   - PrintedDocumentPermissionResearchSiliconConversionRecipe
   - PrintedDocumentPermissionResearchAnomalyHostRecipe
-  - PrintedDocumentSearchPermissionRecipe
-  - PrintedDocumentPermissionToCarryWeaponsRecipe
-  - PrintedDocumentPermissionDisposeBodyRecipe
+  - PrintedDocumentSearchWarrantRecipe
+  - PrintedDocumentBodyDisposalPermitRecipe
   - PrintedDocumentConstructionPermitRecipe
-  - PrintedDocumentSurgeryConsentPermitRecipe
+  - PrintedDocumentSurgeryConsentFormRecipe
   - PrintedDocumentArtPermitRecipe
   - PrintedDocumentBorgificationConsentFormRecipe
+  - PrintedDocumentMechAuthorizationFormRecipe
   # OrdersAndInstructions
   - PrintedDocumentDismissalOrderRecipe
   - PrintedDocumentAccessRevocationOrderRecipe
@@ -59,16 +60,22 @@
   - PrintedDocumentMedicalInterventionOrderRecipe
   - PrintedDocumentExecutionDNROrderRecipe
   - PrintedDocumentEOCDesignationRecipe
+  - PrintedDocumentIllegalImplantRemovalOrderRecipe
+  - PrintedDocumentMindControlRemovalOrderRecipe
+  - PrintedDocumentExplorativeSurgeryOrderRecipe
+  - PrintedDocumentProbingMindshieldOrderRecipe
+  - PrintedDocumentCompulsoryTrackingOrderRecipe
   # Orders
   - PrintedDocumentProductOrderRecipe
   # Communications
   - PrintedDocumentCentCommCommunicationRecipe
 
-#- type: latheRecipePack
-#  id: StarlightDocsEmag
-#  recipes:
-#  - PrintedDocumentErrorLoadingFormHeaderRecipe
-#  - PrintedDocumentNoticeOfLiquidationRecipe
-#  - PrintedDocumentBusinessDealRecipe
-#  - PrintedDocumentNoteBeginningMilitaryActionsRecipe
-#  - PrintedDocumentReportAccomplishmentGoalsRecipe
+# Blimpuf - Emagged Document Printero
+- type: latheRecipePack
+  id: BlimpufDocsEmag
+  recipes:
+  - PrintedDocumentSyndicateRecruitmentOfferRecipe
+  - PrintedDocumentSyndicateOperationTakeoverRecipe
+  - PrintedDocumentSyndicateOperationBorgificationRecipe
+  - PrintedDocumentOfficialSyndicateCommunicationRecipe
+  - PrintedDocumentSyndicateDidYouKnowRecipe

@@ -7,6 +7,7 @@ using Content.Shared._FarHorizons.Silicons.IPC.Components;
 using Content.Shared.CCVar;
 using Content.Shared.Damage;
 using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Systems;
 using Content.Shared.Eye.Blinding.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
@@ -37,6 +38,7 @@ public sealed partial class IPCMenu : FancyWindow
     private readonly NameModifierSystem _nameModifier;
     private readonly PowerCellSystem _powerCell;
     private readonly SharedBatterySystem _batterySystem;
+    private readonly DamageableSystem _damageable = default!;
 
     public Action? BrainButtonPressed;
     //public Action? EjectBatteryButtonPressed; The eject battery button is currently bugged and freezes the individual who uses it. Uncomment this when a fix is applied!
@@ -68,6 +70,7 @@ public sealed partial class IPCMenu : FancyWindow
         _nameModifier = _entitymanager.System<NameModifierSystem>();
         _powerCell = _entitymanager.System<PowerCellSystem>();
         _batterySystem = _entitymanager.System<SharedBatterySystem>();
+        _damageable = _entitymanager.System<DamageableSystem>();
 
         _maxNameLength = _cfgManager.GetCVar(CCVars.MaxNameLength);
 
@@ -125,9 +128,7 @@ public sealed partial class IPCMenu : FancyWindow
         if (_entitymanager.TryGetComponent<BlindableComponent>(_entity, out var blind))
             eyeDamage = blind.EyeDamage;
 
-        var damage = new DamageSpecifier();
-        if (_entitymanager.TryGetComponent<DamageableComponent>(_entity, out var damagecomp))
-            damage = damagecomp.Damage;
+        var damage = _damageable.GetAllDamage(_entity);
 
         var temp = 0f;
         LocId fanMode = "";

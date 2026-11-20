@@ -132,6 +132,7 @@
 # Eyes
 - type: loadout
   id: CheapSunnies
+  groupBy: eyewear
   effects:
   - !type:GroupLoadoutEffect
     proto: HonoredAssistant
@@ -141,7 +142,7 @@
 - type: loadout
   id: AssistantNoirGlasses
   equipment:
-    Eyes: ClothingEyesGlassesNoirAssistant
+    eyes: ClothingEyesGlassesNoirAssistant
   effects:
   - !type:GroupLoadoutEffect
     proto: HonoredAssistant
@@ -556,6 +557,28 @@
   id: LeatherSatchel
   equipment:
     back: ClothingBackpackSatchelLeather
+
+- type: loadout
+  id: StarBackpack # Alternative Clothing Catalog
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:OverallPlaytimeRequirement
+      time: 1800000 # 500hr - cause you're a star <3
+  equipment:
+    back: ClothingBackpackStar
+  groupBy: "star bags"
+
+- type: loadout
+  id: StarSatchel # Alternative Clothing Catalog
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:OverallPlaytimeRequirement
+      time: 1800000 # 500hr - cause you're a star <3
+  equipment:
+    back: ClothingBackpackSatchelStar
+  groupBy: "star bags"
 
 # Gloves
 - type: loadout

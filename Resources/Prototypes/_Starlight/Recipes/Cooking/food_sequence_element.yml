@@ -60,6 +60,14 @@
   - sprite: _Starlight/Objects/Fun/Plushies/creature_plushie.rsi
     state: icon
 
+#Flox Plushie
+- type: foodSequenceElement
+  id: PlushieFlox
+  name: food-sequence-cotton-burger-content-plushie-flox
+  sprites:
+  - sprite: _Starlight/Mobs/Pets/flox.rsi
+    state: flox
+
 #Frog Squishims Plushie
 - type: foodSequenceElement
   id: PlushieFrogSquishims
@@ -148,3 +156,60 @@
   sprites:
   - sprite: _Starlight/Objects/Fun/Plushies/sus_plushie.rsi
     state: icon
+
+- type: foodSequenceElement
+  id: PlushieSeaBunny
+  scale: 0.55, 0.55
+  name: food-sequence-cotton-burger-content-plushie-sea-bunny
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/sea_bunny_plushie.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: PlushieStingRay
+  scale: 0.55, 0.55
+  name: food-sequence-cotton-burger-content-plushie-stingray
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/stingray_plushie.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: PlushieSeaPancake
+  scale: 0.55, 0.55
+  name: food-sequence-cotton-burger-content-plushie-sea-pancake
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/sea_pancake_plushie.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: PlushieSeal
+  scale: 0.55, 0.55
+  name: food-sequence-cotton-burger-content-plushie-seal
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/seal_plushie.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: PlushieDumboOctopus
+  scale: 0.6, 0.6
+  name: food-sequence-cotton-burger-content-plushie-dumbo-octopus
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/dumbo_octopus_plushie.rsi
+    state: icon
+
+- type: foodSequenceElement
+  id: PlushieSeaSheep
+  scale: 0.55, 0.55
+  name: food-sequence-cotton-burger-content-plushie-sea-sheep
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/sea_sheep_plushie.rsi
+    state: icon
+
+
+- type: foodSequenceElement
+  id: PlushieEeeplet
+  scale: 0.5, 0.5
+  name: food-sequence-cotton-burger-content-plushie-eeeplet
+  sprites:
+  - sprite: _Starlight/Objects/Fun/Plushies/eeeplet_plushie.rsi
+    state: eeeplet

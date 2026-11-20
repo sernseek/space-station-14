@@ -1,0 +1,14 @@
+
+- type: !PartialOnly entity
+  id: VendingMachine
+  components:
+  - type: Sprite # upstream base points at empty.rsi, which was deleted in #3553
+    sprite: Structures/Machines/VendingMachines/vendomat.rsi
+  - type: FlippableStructure
+    delay: 4
+    unflipDelay: 6
+    coverChance: 0.6
+    flippedBounds: "-0.45,-0.32,0.45,0.32"
+    crushDamage:
+      types:
+        Blunt: 15

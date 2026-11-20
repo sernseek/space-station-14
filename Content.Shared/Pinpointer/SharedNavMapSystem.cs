@@ -26,8 +26,9 @@ public abstract partial class SharedNavMapSystem : EntitySystem
     [Robust.Shared.IoC.Dependency] private TagSystem _tagSystem = default!;
     [Robust.Shared.IoC.Dependency] private INetManager _net = default!;
 
+    [Robust.Shared.IoC.Dependency] private EntityQuery<NavMapDoorComponent> _doorQuery = default!;
+
     private static readonly ProtoId<TagPrototype>[] WallTags = {"Wall", "Window"};
-    private EntityQuery<NavMapDoorComponent> _doorQuery;
 
     public override void Initialize()
     {
@@ -36,15 +37,11 @@ public abstract partial class SharedNavMapSystem : EntitySystem
         // Data handling events
         SubscribeLocalEvent<NavMapComponent, ComponentGetState>(OnGetState);
         SubscribeLocalEvent<ConfigurableNavMapBeaconComponent, ExaminedEvent>(OnConfigurableExamined);
-
-        _doorQuery = GetEntityQuery<NavMapDoorComponent>();
     }
 
     [MethodImpl(MethodImplOptions.AggressiveInlining)]
     public static int GetTileIndex(Vector2i relativeTile)
-    {
-        return relativeTile.X * ChunkSize + relativeTile.Y;
-    }
+        => relativeTile.X * ChunkSize + relativeTile.Y; // Starlight-edit: Lambda
 
     /// <summary>
     /// Inverse of <see cref="GetTileIndex"/>
@@ -87,16 +84,32 @@ public abstract partial class SharedNavMapSystem : EntitySystem
     public void AddOrUpdateNavMapRegion(EntityUid uid, NavMapComponent component, NetEntity regionOwner, NavMapRegionProperties regionProperties)
     {
         // Check if a new region has been added or an existing one has been altered
-        var isDirty = !component.RegionProperties.TryGetValue(regionOwner, out var oldProperties) || oldProperties != regionProperties;
+        // Starlight: compare seeds by content, record equality compares the HashSet by reference and always dirtied the whole nav map.
+        var isDirty = !component.RegionProperties.TryGetValue(regionOwner, out var oldProperties) || !RegionPropertiesEqual(oldProperties, regionProperties);
 
         if (isDirty)
         {
-            component.RegionProperties[regionOwner] = regionProperties;
+            // Starlight-start
+            component.RegionProperties[regionOwner] = regionProperties with
+            {
+                Seeds = [.. regionProperties.Seeds],
+            };
+            // Starlight-end
 
             if (_net.IsServer)
                 Dirty(uid, component);
         }
     }
+
+    // Starlight-start
+    private static bool RegionPropertiesEqual(NavMapRegionProperties a, NavMapRegionProperties b)
+        => a.Owner == b.Owner
+            && Equals(a.UiKey, b.UiKey)
+            && a.Color == b.Color
+            && a.MaxArea == b.MaxArea
+            && a.MaxRadius == b.MaxRadius
+            && (ReferenceEquals(a.Seeds, b.Seeds) || a.Seeds.SetEquals(b.Seeds));
+    // Starlight-end
 
     public void RemoveNavMapRegion(EntityUid uid, NavMapComponent component, NetEntity regionOwner)
     {

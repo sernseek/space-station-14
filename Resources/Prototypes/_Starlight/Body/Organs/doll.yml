@@ -30,7 +30,6 @@
     - TemporaryBlindness
     - Pacified
     - Flashed
-    - RadiationProtection
     - Adrenaline
   - type: MobPrice
     price: 150
@@ -202,6 +201,10 @@
   name: heart
   description: "Is this even a heart?"
   components:
+  - type: Tag
+    tags:
+    - Meat
+    - Heart
   - type: Sprite
     state: heart-on
   # The heart 'metabolizes' medicines and poisons that aren't filtered out by other organs.

@@ -212,8 +212,8 @@ thaven-mood-natural-habitat-desc = Every time you feel overwhelmed by a situatio
 thaven-mood-flesh-is-weak-name = The Flesh Is Weak, But Steel Endures
 thaven-mood-flesh-is-weak-desc = All of these biological organs and limbs will fail in time. They must all be replaced with cybernetics.
 
-thaven-mood-marrvelous-name = What Does The Thaven Say
-thaven-mood-marrvelous-desc = Seeing how Shadekin are adored for their marrs, you feel envy that Thavenkind doesn't have something similar that sets them apart. Make up a recognizable sound for Thaven, use it frequently and encourage others to do the same.
+thaven-mood-groupglub-name = Group Glub
+thaven-mood-groupglub-desc = Seeing how Vulpkanin and other canines gather to howl, you feel envy that Thavenkind doesn't have something similar. Set a meeting place and time for Thaven to glub together and encourage others to show up.
 
 thaven-mood-empath-name = Empath
 thaven-mood-empath-desc = You are heavily influenced by the emotions of others.
@@ -241,3 +241,30 @@ thaven-mood-insecure-desc = You care deeply what people think about you, particu
 
 thaven-mood-live-laugh-love-name = Live Laugh Love
 thaven-mood-live-laugh-love-desc = Live the shift like it's your last. Laugh at every joke. Spread the joys and love of the station.
+
+thaven-mood-knightly-name = Knightly
+thaven-mood-knightly-desc = Pick one person and declare your undying fealty to them, do as they say and protect them at all costs.
+
+thaven-mood-false-memories-name = False Memories
+thaven-mood-false-memories-desc = You possess vivid memories of important events that never happened. Convince others to help you investigate them and publicize them.
+
+thaven-mood-reality-leak-name = Reality Leak
+thaven-mood-reality-leak-desc = You believe objects and events occasionally arrive from parallel universes. Determine their origin and effects through tests you conduct on them.
+
+thaven-mood-department-conspiracy-name = Department Conspiracy
+thaven-mood-department-conspiracy-desc = The {$department} department secretly controls the station from behind the scenes. Gather evidence and expose the truth.
+
+thaven-mood-formal-introductions-name = Formal Introductions
+thaven-mood-formal-introductions-desc = Speaking to someone before properly introducing yourself is exceptionally rude.
+
+thaven-mood-silence-means-agreement-name = Silence Means Agreement
+thaven-mood-silence-means-agreement-desc = A failure to object is a form of agreement. You naturally assume others agree unless they say otherwise.
+
+thaven-mood-copycat-name = Copycat
+thaven-mood-copycat-desc = Pick one person. You should dress similarly, behave similarly, and strive to be as much like them as possible.
+
+thaven-mood-communications-agent-name = Communications Agent
+thaven-mood-communications-agent-desc = You need to make sure your co-workers are excessively informed of almost every happening and discovery related to your department, no matter how insignificant or meaningless, and for you to stay informed.
+
+thaven-mood-the-curtains-must-rise-name = The Curtains Must Rise
+thaven-mood-the-curtains-must-rise-desc = Privacy is a sacred right. Build and install curtains to shield yourself from prying eyes. No one should witness what is meant to be private.

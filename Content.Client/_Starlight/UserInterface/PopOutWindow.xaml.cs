@@ -43,7 +43,7 @@ public partial class PopOutWindow : DefaultWindow, IPopOutWindow
         {
             StyleClasses = { PopOutExtensions.PopOutButtonStyleClass },
             VerticalAlignment = VAlignment.Center,
-            ToolTip = "Pop Out",
+            ToolTip = Loc.GetString("ui-pop-out"),
             Margin = new Thickness(0, 0, 6, 0)
         };
         if (!WindowHeader.Children.OfType<BoxContainer>().TryFirstOrDefault(out var header))
@@ -59,13 +59,19 @@ public partial class PopOutWindow : DefaultWindow, IPopOutWindow
             Control.Orphan();
             Close();
 
-            _popOutWindow = PopOutHelper.Show(Title ?? string.Empty, Size, Control, () => OnFinalClose?.Invoke());
+            _popOutWindow = PopOutHelper.Show(Title ?? string.Empty, Size, Control, () => OnFinalClose?.Invoke(), CancelClose);
 
             OnPopout?.Invoke();
         };
     }
 
     private void FinalClose() => OnFinalClose?.Invoke();
+
+    /// <summary>
+    /// Asked before the window closes, in game or as a desktop window: returning true keeps it open.
+    /// Subclasses use it to ask about unsaved changes first.
+    /// </summary>
+    protected virtual bool CancelClose() => false;
 
     public void DisposePopOut() => _popOutWindow?.Close();
 }

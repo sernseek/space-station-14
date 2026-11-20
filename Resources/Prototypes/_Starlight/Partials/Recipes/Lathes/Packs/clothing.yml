@@ -1,0 +1,16 @@
+- type: !PartialOnly latheRecipePack
+  id: Ties
+  recipes:
+    - ClothingNeckTieBlue
+    - ClothingNeckTieBrown
+    - ClothingNeckTieGreen
+    - ClothingNeckTieGrey
+    - ClothingNeckLGBTie
+    - ClothingNeckTieRetro
+
+- type: !PartialOnly latheRecipePack
+  id: Carpets
+  recipes:
+  - DoormatRoll
+  - DoormatRollWelcome
+  - DoormatRollBless

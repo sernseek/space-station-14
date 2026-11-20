@@ -38,6 +38,8 @@ namespace Content.Client.Cargo.UI
 
         public event Action<ButtonEventArgs>? OnToggleUnboundedLimit;
 
+        public event Action<ProtoId<CargoAccountPrototype>>? OnPrintBarcode; //Starlight
+
         private readonly List<string> _categoryStrings = new();
         private string? _category;
 
@@ -72,11 +74,22 @@ namespace Content.Client.Cargo.UI
 
             TabContainer.SetTabTitle(0, Loc.GetString("cargo-console-menu-tab-title-orders"));
             TabContainer.SetTabTitle(1, Loc.GetString("cargo-console-menu-tab-title-funds"));
+            TabContainer.SetTabTitle(2, Loc.GetString("cargo-console-menu-tab-title-barcode")); //Starlight
 
             ActionOptions.OnItemSelected += idx =>
             {
                 ActionOptions.SelectId(idx.Id);
             };
+            //Starlight start
+            BarcodeAccountOptions.OnItemSelected += idx => BarcodeAccountOptions.SelectId(idx.Id);
+
+            BarcodePrintButton.OnPressed += _ =>
+            {
+                var account = (ProtoId<CargoAccountPrototype>?) BarcodeAccountOptions.SelectedMetadata;
+                if (account != null)
+                    OnPrintBarcode?.Invoke(account.Value);
+            };
+            //Starlight end
 
             TransferSpinBox.IsValid = val =>
             {
@@ -211,10 +224,10 @@ namespace Content.Client.Cargo.UI
 
             foreach (var order in orders)
             {
-                if (order.Approved)
+                if (order.Approved || !_protoManager.Resolve(order.Product, out var productProto))
                     continue;
 
-                var proto = _protoManager.Index(order.CargoProductId); // Starlight
+                var productName = productProto.Name;
                 var requester = !string.IsNullOrEmpty(order.Requester) ?
                     order.Requester : Loc.GetString("cargo-console-menu-order-row-alerts-requester-unknown");
                 var account = _protoManager.Index(order.Account);
@@ -227,9 +240,9 @@ namespace Content.Client.Cargo.UI
                     {
                         Text = Loc.GetString(
                             "cargo-console-menu-order-row-title",
-                            ("productName", order.ProductName),
+                            ("productName", productName),
                             ("orderAmount", order.OrderQuantity),
-                            ("orderPrice", order.Price)),
+                            ("orderPrice", productProto.Cost)),
                     },
 
                     Stride =
@@ -241,7 +254,7 @@ namespace Content.Client.Cargo.UI
                         },
                     },
 
-                    Icon = { Texture = _spriteSystem.Frame0(proto.Icon) }, // Starlight
+                    Icon = { Texture = _spriteSystem.Frame0(productProto.Icon) },
 
                     ProductName =
                     {

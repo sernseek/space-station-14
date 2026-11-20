@@ -1,3 +1,4 @@
+using Content.Server._Starlight.Achievement;
 using Content.Shared._Starlight.Execution;
 using Content.Shared.Chat;
 using Content.Shared.Clumsy;
@@ -40,6 +41,7 @@ public sealed partial class ExecutionSystem : EntitySystem
     [Dependency] private SharedSuicideSystem _suicide = default!;
     [Dependency] private IPrototypeManager _prototypeManager = default!;
     [Dependency] private IComponentFactory _componentFactory = default!;
+    [Dependency] private AchievementSystem _achievement = default!;
 
     /// <inheritdoc/>
     public override void Initialize()
@@ -64,11 +66,8 @@ public sealed partial class ExecutionSystem : EntitySystem
         }
     }
 
-    private void ShowExecutionExternalPopup(string locString, EntityUid attacker, EntityUid victim, EntityUid weapon)
-    {
-        _popup.PopupEntity(
+    private void ShowExecutionExternalPopup(string locString, EntityUid attacker, EntityUid victim, EntityUid weapon) => _popup.PopupEntity(
             Loc.GetString(locString, ("attacker", Identity.Entity(attacker, EntityManager)), ("victim", Identity.Entity(victim, EntityManager)), ("weapon", weapon)), attacker, Filter.PvsExcept(attacker), true, PopupType.MediumCaution);
-    }
 
     private void OnExecutionDoAfterMelee(EntityUid entity, ToolComponent component, ref ExecutionDoAfterEvent args)
     {
@@ -184,20 +183,20 @@ public sealed partial class ExecutionSystem : EntitySystem
                 var prototype = _prototypeManager.Index<EntityPrototype>(cartridge.Prototype);
 
                 // Starlight start - support hitscans in cartridges
-                if (prototype.TryGetComponent<HitscanAmmoComponent>(out var hitscan, _componentFactory))
+                if (prototype.TryComp<HitscanAmmoComponent>(out var hitscan, _componentFactory))
                 {
-                    if (prototype.TryGetComponent<HitscanBasicDamageComponent>(out var hitscanDamage, _componentFactory))
+                    if (prototype.TryComp<HitscanBasicDamageComponent>(out var hitscanDamage, _componentFactory))
                     {
                         damage = hitscanDamage.Damage;
                     }
                 }
                 // Starlight end
-                prototype.TryGetComponent<ProjectileComponent>(out var projectileA, _componentFactory); // sloth forgive me
+                prototype.TryComp<ProjectileComponent>(out var projectileA, _componentFactory); // sloth forgive me
                 if (projectileA != null)
                 {
                     damage = projectileA.Damage;
                 }
-                prototype.TryGetComponent<ProjectileSpreadComponent>(out var projectilespreaderA, _componentFactory);
+                prototype.TryComp<ProjectileSpreadComponent>(out var projectilespreaderA, _componentFactory);
                 if (projectilespreaderA != null)
                 {
                     damage *= projectilespreaderA.Count;
@@ -245,6 +244,10 @@ public sealed partial class ExecutionSystem : EntitySystem
             }
         }
 
+        if (damage.GetTotal() <= 10 && attacker == victim)
+        {
+            _achievement.QueueUnlockAchievement(victim, "really_with_that");
+        }
         // Gun successfully fired, deal damage
         _damageableSystem.TryChangeDamage(victim, damage * ExecutionComponent.DamageMultiplier, true);
         _audio.PlayEntity(component.SoundGunshot, Filter.Pvs(weapon), weapon, false, AudioParams.Default);

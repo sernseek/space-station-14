@@ -109,6 +109,8 @@
     - StarlightSecurityEmagWeaponsStatic
     - StarlightSecurityAmmoStatic
     - StarlightSyndicateAmmoStatic
+    - PrescriptionHudModuleStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: &StandardMaterialWhitelist
       tags:
@@ -150,6 +152,7 @@
     - ToolsStatic
     - PartsStatic
     - AtmosStatic
+    - CombustionTurbinePartsStatic
     - CablesStatic
     - MaterialsStatic
     - LightsStatic
@@ -165,11 +168,15 @@
     - EngineeringWeapons
     - Equipment
     - StarlightEngineeringBoards
+    - ModularHudModules
+    - EngineeringModularHudFrames
   - type: EmagLatheRecipes
     emagStaticPacks:
     - StarlightSecurityEmagWeaponsStatic
     - StarlightSecurityAmmoStatic
     - StarlightSyndicateAmmoStatic
+    - PrescriptionHudModuleStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: StealTarget
@@ -212,17 +219,21 @@
     - PowerCellsStatic
     - CassetteTape
     - TapeRecorder
+    - HydroponicsStatic
     dynamicPacks:
     - StarlightAutolatheLootable
     - StarlightProtolatheLootable
     - Janitor
     - Instruments
     - WirelessCameraHandheld
+    - ServiceModularHudModules
   - type: EmagLatheRecipes
     emagStaticPacks:
     - StarlightSecurityEmagWeaponsStatic
     - StarlightSecurityAmmoStatic
     - StarlightSyndicateAmmoStatic
+    - PrescriptionHudModuleStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: OreSiloClient
@@ -282,6 +293,9 @@
     - Equipment
     - StarlightScienceWeapons
     - WirelessCameraHandheld
+    - StarlightExperimentalwelderOnly
+    - ScienceModularHudFrames
+    - ScienceModularHudModules
   - type: EmagLatheRecipes
     emagDynamicPacks:
     # They can keep the "best thing to emag" trait
@@ -295,10 +309,21 @@
     - StarlightSecurityEquipment
     - StarlightSecurityWeapons
     - StarlightDefenseStatic
+    - ModularHudFrames
+    - SecurityModularHudFrames
+    - EngineeringModularHudFrames
+    - CommandModularHudFrames
+    - ModularHudModules
+    - ServiceModularHudModules
+    - SecurityModularHudModules
+    - CommandModularHudModules
+    - MedicalModularHudModules
     emagStaticPacks:
     - StarlightSecurityEmagWeaponsStatic
     - StarlightSecurityAmmoStatic
     - StarlightSyndicateAmmoStatic
+    - PrescriptionHudModuleStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: StealTarget
@@ -344,12 +369,16 @@
     - StarlightProtolatheLootable
     - Instruments
     - WirelessCameraHandheld
+    - CommandModularHudModules
+    - CommandModularHudFrames
   - type: EmagLatheRecipes
     emagStaticPacks:
     # If you somehow manage to emag it, cool, I guess
     - StarlightSecurityEmagWeaponsStatic
     - StarlightSecurityAmmoStatic
     - StarlightSyndicateAmmoStatic
+    - PrescriptionHudModuleStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: StealTarget
@@ -413,6 +442,7 @@
     - EmptyMedkitsStatic
     - StarlightMedicalStatic
     - AACTabletStatic
+    - PrescriptionHudModuleStatic
     dynamicPacks:
     - StarlightAutolatheLootable
     - StarlightProtolatheLootable
@@ -455,6 +485,17 @@
     - StarlightBudgetCyberOrgansDynamic
     - StarlightMedicalTechFabLootable
     - StarlightCargoDynamic
+    - ModularHudFrames
+    - SecurityModularHudFrames
+    - EngineeringModularHudFrames
+    - CommandModularHudFrames
+    - ScienceModularHudFrames
+    - ModularHudModules
+    - ScienceModularHudModules
+    - ServiceModularHudModules
+    - SecurityModularHudModules
+    - CommandModularHudModules
+    - MedicalModularHudModules
   - type: EmagLatheRecipes
     emagStaticPacks:
     - StarlightSyndicateModulesSecfab
@@ -462,6 +503,7 @@
     - StarlightSecurityAmmoEmagStatic
     - StarlightSecurityGrenadesEmag
     - SyndicateAmmoStatic
+    - SyndicateModularHudFramesStatic
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: OreSiloClient
@@ -547,12 +589,14 @@
     - EmptyMedkitsStatic
     - StarlightMedicalStatic
     - AACTabletStatic
+    - PrescriptionHudModuleStatic
     # Its main difference is it gets the syndicate stuff in its static packs.
     - StarlightSyndicateModulesSecfab
     - StarlightSyndicateAmmoStatic
     - StarlightSecurityAmmoEmagStatic
     - StarlightSecurityGrenadesEmag
     - SyndicateAmmoStatic
+    - SyndicateModularHudFramesStatic
     dynamicPacks:
     - StarlightAutolatheLootable
     - StarlightProtolatheLootable
@@ -595,6 +639,105 @@
     - StarlightBudgetCyberOrgansDynamic
     - StarlightMedicalTechFabLootable
     - StarlightCargoDynamic
+    - ModularHudFrames
+    - SecurityModularHudFrames
+    - EngineeringModularHudFrames
+    - CommandModularHudFrames
+    - ScienceModularHudFrames
+    - ModularHudModules
+    - ScienceModularHudModules
+    - ServiceModularHudModules
+    - SecurityModularHudModules
+    - CommandModularHudModules
+    - MedicalModularHudModules
   - type: MaterialStorage
     whitelist: *StandardMaterialWhitelist
   - type: OreSiloClient
+
+# Salvage
+- type: entity
+  id: SalvageTechFab
+  parent: BaseLatheLube
+  name: salvage techfab
+  description: Prints equipment for use by the ITG's salvage team.
+  components:
+    - type: Sprite
+      sprite: _Starlight/Structures/Machines/techfab.rsi
+      layers:
+        - state: icon
+          map: ["enum.LatheVisualLayers.IsRunning"]
+        - state: salvage
+        - state: unlit
+          shader: unshaded
+          map: ["enum.PowerDeviceVisualLayers.Powered"]
+        - state: inserting
+          map: ["enum.MaterialStorageVisualLayers.Inserting"]
+        - state: panel
+          map: ["enum.WiresVisualLayers.MaintenancePanel"]
+    - type: Machine
+      board: SalvageTechFabCircuitboard
+    - type: MaterialStorage
+      whitelist: *StandardMaterialWhitelist
+    - type: OreSiloClient
+    - type: Lathe
+      idleState: icon
+      runningState: icon
+      staticPacks:
+        # Static stuff that Salvage could reasonable use
+        - StarlightCargoToolsStatic
+        - PartsStatic
+        - CablesStatic
+        - MaterialsStatic
+        - StarlightContainersStatic
+        - StarlightSalvageEquipmentStatic
+      dynamicPacks:
+        - Mining
+        - Equipment
+        - StarlightAutolatheLootable
+        - StarlightProtolatheLootable
+        - StarlightCargoDynamic
+    - type: EmagLatheRecipes
+      emagStaticPacks:
+        - StarlightSecurityEmagWeaponsStatic
+        - StarlightSecurityAmmoStatic
+        - StarlightSyndicateAmmoStatic
+        - SyndicateAmmoStatic
+        - PrescriptionHudModuleStatic
+        - SyndicateModularHudFramesStatic
+    - type: BlueprintReceiver
+      whitelist:
+        tags:
+          - BlueprintAutolathe
+    - type: ContainerContainer
+      containers:
+        machine_board: !type:Container
+        machine_parts: !type:Container
+        blueprint: !type:Container
+    - type: EmptyOnMachineDeconstruct
+      containers:
+        - blueprint
+
+#RogueDrone
+- type: entity
+  id: RogueExofabricator
+  parent: BaseLatheLube
+  name: Scrapper Exo Fabricator
+  description: A derelict fabricator, its engine still faintly hums.
+  components:
+  - type: Sprite
+    sprite: Structures/Machines/exosuit_fabricator.rsi
+    layers:
+    - state: fab-idle
+      map: ["enum.LatheVisualLayers.IsRunning"]
+    - state: fab-load
+      map: ["enum.MaterialStorageVisualLayers.Inserting"]
+    - state: fab-o
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: Machine
+    board: ScrapperExoFabricatorMachineCircuitboard
+  - type: Lathe
+    idleState: fab-idle
+    runningState: fab-active
+    staticPacks:
+    - RoboticsRogueStatic
+  - type: !Remove StationAiWhitelist

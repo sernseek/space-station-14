@@ -15,15 +15,20 @@
   icon: "JobIconSecurityCadet"
   supervisors: job-supervisors-security
   access:
-# - Security # Starlight change
-  - Cadet # Starlight change
+  - Security
   - Brig
   - Maintenance
   - External
   - Cryogenics
+# starlight-start
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
+  - !type:AddComponentSpecial
+    components:
+    - type: AntagImmune
+    - type: NoObjectiveTarget
+# starlight-end
 
 - type: startingGear
   id: SecurityCadetGear

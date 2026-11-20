@@ -17,6 +17,7 @@ using Robust.Shared.Physics;
 using Robust.Shared.Physics.Components;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Prototypes;
+using Robust.Shared.Random;
 using Robust.Shared.Timing;
 
 namespace Content.Shared.Tiles;
@@ -37,7 +38,10 @@ public sealed partial class FloorTileSystem : EntitySystem
     [Dependency] private SharedMapSystem _map = default!;
     [Dependency] private TurfSystem _turf = default!;
 
+    [Dependency] private EntityQuery<PhysicsComponent> _physicsQuery = default!;
+
     private static readonly Vector2 CheckRange = new(1f, 1f);
+
 
     /// <summary>
     ///     A recycled hashset used to check for walls when trying to place tiles on turfs.
@@ -67,9 +71,6 @@ public sealed partial class FloorTileSystem : EntitySystem
         if (locationMap.MapId == MapId.Nullspace)
             return;
 
-        var physicQuery = GetEntityQuery<PhysicsComponent>();
-        var transformQuery = GetEntityQuery<TransformComponent>();
-
         var map = _transform.ToMapCoordinates(location);
 
         // Disallow placement close to grids.
@@ -96,7 +97,7 @@ public sealed partial class FloorTileSystem : EntitySystem
             return;
         }
 
-        var userPos = _transform.ToMapCoordinates(transformQuery.GetComponent(args.User).Coordinates).Position;
+        var userPos = _transform.ToMapCoordinates(Transform(args.User).Coordinates).Position;
         var dir = userPos - map.Position;
         var canAccessCenter = false;
         if (dir.LengthSquared() > 0.01)
@@ -114,7 +115,7 @@ public sealed partial class FloorTileSystem : EntitySystem
             _lookup.GetEntitiesInTile(tileRef.Value, _turfCheck);
             foreach (var ent in _turfCheck)
             {
-                if (physicQuery.TryGetComponent(ent, out var phys) &&
+                if (_physicsQuery.TryGetComponent(ent, out var phys) &&
                     phys.BodyType == BodyType.Static &&
                     phys.Hard &&
                     (phys.CollisionLayer & (int)CollisionGroup.Impassable) != 0)
@@ -194,8 +195,9 @@ public sealed partial class FloorTileSystem : EntitySystem
     {
         _adminLogger.Add(LogType.Tile, LogImpact.Low, $"{ToPrettyString(user):actor} placed tile {_tileDefinitionManager[tileId].Name} at {ToPrettyString(gridUid)} {location}");
 
-        var tileDef = (ContentTileDefinition) _tileDefinitionManager[tileId];
-        var random = new System.Random((int)_timing.CurTick.Value);
+        var tileDef = (ContentTileDefinition)_tileDefinitionManager[tileId];
+        var random = new RobustRandom();
+        random.SetSeed((int)_timing.CurTick.Value);
         var variant = _tile.PickVariant(tileDef, random);
 
         var tileRef = _map.GetTileRef(gridUid, mapGrid, location.Offset(new Vector2(offset, offset)));

@@ -51,6 +51,13 @@
         value: 3
     - id: SprayPainter
       prob: 0.7
+    # Starlight Start
+    - !type:GroupSelector
+      prob: 0.33
+      children:
+      - id: JerryCanEmpty
+      - id: JerryCanFuel
+    # Starlight End
 
 - type: entity
   id: LockerElectricalSuppliesFilled
@@ -92,15 +99,24 @@
         children:
         - !type:NestedSelector
           tableId: FillWelderSupplies
-          rolls: !type:ConstantNumberSelector
-            value: 3
+          rolls: 3
         - !type:NestedSelector
           tableId: FillWelderSuppliesMask
-          rolls: !type:ConstantNumberSelector
-            value: 3
+          rolls: 3
 
 - type: entityTable
   id: FillWelderSupplies
+  table: !type:GroupSelector
+    children:
+    - id: WelderMini
+    - id: Welder
+    - id: WelderIndustrial
+      weight: 0.25
+    - id: WelderIndustrialAdvanced
+      weight: 0.05
+
+- type: entityTable
+  id: FillWelderSuppliesMask
   table: !type:GroupSelector
     children:
     - id: ClothingHeadHatWelding
@@ -110,17 +126,6 @@
       weight: 0.25
     - id: ClothingHeadHatWeldingMaskPainted
       weight: 0.25
-
-- type: entityTable
-  id: FillWelderSuppliesMask
-  table: !type:GroupSelector
-    children:
-    - id: WelderMini
-    - id: Welder
-    - id: WelderIndustrial
-      weight: 0.25
-    - id: WelderIndustrialAdvanced
-      weight: 0.05
 
 - type: entity
   id: LockerAtmosphericsFilledHardsuit

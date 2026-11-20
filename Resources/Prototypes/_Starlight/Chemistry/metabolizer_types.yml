@@ -29,3 +29,15 @@
 - type: metabolizerType
   id: Doll
   name: metabolizer-type-doll
+
+- type: metabolizerType
+  id: Experiment
+  name: metabolizer-type-experiment
+
+- type: metabolizerType
+  id: Xeno
+  name: metabolizer-type-xeno
+
+- type: metabolizerType
+  id: Reptilian
+  name: metabolizer-type-reptilian

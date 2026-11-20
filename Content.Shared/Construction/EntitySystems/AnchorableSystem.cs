@@ -1,4 +1,5 @@
 using System.Diagnostics.CodeAnalysis;
+using System.Linq;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Examine;
 using Content.Shared.Construction.Components;
@@ -10,6 +11,8 @@ using Content.Shared.Interaction;
 using Content.Shared.Movement.Pulling.Components;
 using Content.Shared.Movement.Pulling.Systems;
 using Content.Shared.Popups;
+using Content.Shared.Station;
+using Content.Shared.Station.Components;
 using Content.Shared.Tools.Components;
 using Robust.Shared.Map;
 using Robust.Shared.Map.Components;
@@ -28,20 +31,19 @@ public sealed partial class AnchorableSystem : EntitySystem
     [Dependency] private SharedPopupSystem _popup = default!;
     [Dependency] private PullingSystem _pulling = default!;
     [Dependency] private SharedMapSystem _map = default!;
+    [Dependency] private SharedStationSystem _stationSystem = default!;
     [Dependency] private SharedToolSystem _tool = default!;
     [Dependency] private SharedTransformSystem _transformSystem = default!;
     [Dependency] private TagSystem _tagSystem = default!;
     [Dependency] private SharedAppearanceSystem _appearance = default!;
 
-    private EntityQuery<PhysicsComponent> _physicsQuery;
+    [Dependency] private EntityQuery<PhysicsComponent> _physicsQuery = default!;
 
     public readonly ProtoId<TagPrototype> Unstackable = "Unstackable";
 
     public override void Initialize()
     {
         base.Initialize();
-
-        _physicsQuery = GetEntityQuery<PhysicsComponent>();
 
         SubscribeLocalEvent<AnchorableComponent, InteractUsingEvent>(OnInteractUsing,
             before: new[] { typeof(ItemSlotsSystem) }, after: new[] { typeof(SharedConstructionSystem) });
@@ -166,6 +168,9 @@ public sealed partial class AnchorableSystem : EntitySystem
                 return;
             }
 
+            if (AnchorTileBlacklisted(uid, coordinates, args.User)) // Starlight
+                return;
+
             _transformSystem.SetCoordinates(uid, coordinates);
         }
 
@@ -234,18 +239,17 @@ public sealed partial class AnchorableSystem : EntitySystem
         // Log anchor attempt (server only)
         _adminLogger.Add(LogType.Anchor, LogImpact.Low, $"{ToPrettyString(userUid):user} is trying to anchor {ToPrettyString(uid):entity} to {transform.Coordinates:targetlocation}");
 
-        if (TryComp<PhysicsComponent>(uid, out var anchorBody) &&
-            !TileFree(transform.Coordinates, anchorBody))
-        {
-            _popup.PopupClient(Loc.GetString("anchorable-occupied"), uid, userUid);
+        if (!CanAnchorAt(uid, transform.Coordinates, userUid))
             return;
-        }
 
         if (AnyUnstackable(uid, transform.Coordinates))
         {
             _popup.PopupClient(Loc.GetString("construction-step-condition-no-unstackable-in-tile"), uid, userUid);
             return;
         }
+
+        if (AnchorTileBlacklisted(uid, transform.Coordinates, userUid)) // Starlight
+            return;
 
         _tool.UseTool(usingUid, userUid, uid, anchorable.Delay, usingTool.Qualities, new TryAnchorCompletedEvent());
     }
@@ -282,6 +286,23 @@ public sealed partial class AnchorableSystem : EntitySystem
         anchorable.Delay += attempt.Delay;
 
         return !attempt.Cancelled;
+    }
+
+    public bool CanAnchorAt(Entity<PhysicsComponent?> entity, EntityUid? user = null)
+    {
+        return CanAnchorAt(entity, Transform(entity).Coordinates, user);
+    }
+
+    public bool CanAnchorAt(Entity<PhysicsComponent?> entity, EntityCoordinates coordinates, EntityUid? user = null)
+    {
+        if (!Resolve(entity, ref entity.Comp))
+            return true;
+
+        if (TileFree(coordinates, entity.Comp))
+            return true;
+
+        _popup.PopupClient(Loc.GetString("anchorable-occupied"), entity, user);
+        return false;
     }
 
     /// <summary>
